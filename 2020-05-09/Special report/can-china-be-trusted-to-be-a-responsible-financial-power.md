@@ -1,0 +1,41 @@
+![](./images/20200509_SRD005_0.jpg)
+
+## After covid-19
+
+# Can China be trusted to be a responsible financial power?
+
+> There are still a lot of questions that it must answer
+
+> May 7th 2020
+
+CAUSEWAY BAY is back in business. Even as the world shuts down, the retail heart of Hong Kong, which enforced an early lockdown, is beating again. Yet normality is not complete. The local branch of ICBC, a symbol of Beijing’s sway, remains barricaded. Its managers fear that pro-democracy protesters, free after weeks of quarantine, might target it again. This points to a tension within China’s global ambitions. Its political system can suppress problems fast by mobilising everything in the pursuit of one goal. But it also creates crises—and lets them fester.
+
+Trust is what binds the financial system together. Economic agents need to be convinced, not coerced. But like many China watchers in other spheres, they remain both awed by its formidable rise and doubtful it cares about the common good. “People think it is like the Death Star from “Star Wars”. It is this massive, inscrutable thing sitting up in the sky that has the potential to destroy us all,” says Jan Dehn of Ashmore Group, a fund manager. Can they trust the regime whose attempted cover-up let the virus escape in the first place?
+
+A partial schism in the world’s financial system will be hard to arrest. Economic weapons are cheap and require few permissions, so American presidents will continue to like them. The longer they last, the more workarounds get entrenched. Until recently these were too haphazard to really matter, but China, whose economy could soon surpass America’s, has the muscle to create the markets and norms that bring alternative worlds to life. And it is concentrating its charms on the emerging world, whose lesser sense of loyalty to Western structures could make it easier to peel off.
+
+Sceptics doubt a country with both a current-account surplus and strict capital controls can provide the world with a reserve currency. But China’s surplus has shrunk vastly since its peak in 2007. A deficit is likely to become the norm. Its ageing population is saving less. Beijing wants more domestic consumption, which will boost imports. And stagnant Western economies will mean sluggish exports. Morgan Stanley reckons China will require $210bn a year in net foreign inflows between now and 2030 to plug the gap.
+
+That, in turn, should push it to further liberalise its financial markets. Blanket deregulation is unlikely, but steps to boost liquidity, like better market infrastructure and fairer pricing, will help. And China’s capital controls are already easing. Domestic savers are still caged in, but foreign investors say they have no trouble getting money out, even during market routs. Reserve managers see value in the currency stability that limited controls afford. So full convertibility may not be needed for the yuan to gain fans. In time party leaders in Beijing may well decide for it, especially if it has attracted enough sticky money to feel comfortable.
+
+A more diverse financial system has benefits. Relying on a single dominant currency threatens the world with cash crunches in times of crisis. More efficient cross-border payments drive down costs. Duplication makes the overall infrastructure more resilient.
+
+There are also encouraging shifts in how China connects with the system. It has become the world’s third-largest creditor, up from 16th in 2005. And though foreign-exchange reserves were its largest type of investment overseas until 2016, its private foreign investment assets—worth $4.2trn—now beat its central bank’s stash of FX. This is a more productive use of money. The opening of its financial industry will allow its troves of savings to be better allocated. The growth of its financial markets provides more choice to international investors. Short of over-reaction in Washington, a decoupling of finance need not mean full deglobalisation.
+
+Nevertheless it brings three dangers. The first is that it accelerates the balkanisation of financial markets initiated a decade ago. Most countries reacted to the financial crisis by enacting new regulations. Many have made the system safer. Yet watchdogs have sometimes seemed more motivated by a will to restore local control than foster global resilience. “Ring-fencing” forces global banks to establish subsidiaries, which are under the watch of local regulators, rather than just branches. Extraterritoriality imposes layers of obligations on foreign banks.
+
+More divided markets may help stem contagion during crises. But they also prevent financial institutions from diversifying portfolios, which can concentrate risks. And they trap excess savings, blocking the money from being invested where there is a shortage of it, says Jose Viñals of Standard Chartered, a British bank.
+
+Geopolitical tensions have supported that drift. Covid-19, which focuses minds and money closer to home, could give it another push. That will not come cheap. A survey in 2018 found that fragmentation already shaves nearly 1% off global GDP. Policies that compel firms to relocate their data within a country’s borders, which already exist in China, India and others, could reduce future gains from digitalisation and fragment markets further.
+
+“Localisation” rules also prevent data-sharing for risk-management purposes, pointing to the second danger: that a broken-up system will be less secure. Multiple links between banks and fintech firms offer more points of entry for cyber-crooks. Dependencies are building upon nodes that are not regulated and are poorly understood, creating room for systemic breakdowns.
+
+The third, and biggest, risk lies in relying on an apparatus with two heads but without a benevolent leader. Notwithstanding crises, the dollar system enabled decades of sustained growth. Yet America sometimes appears less interested in the common good than the rent it can extract from its dominance of the system. Last August several lawmakers sponsored a bipartisan bill proposing that the Fed taxes foreign capital inflows to help weaken the dollar. Such actions hint at the fraying consensus in Washington about the trade-offs that come with being a financial hegemon.
+
+In contrast China says it is ready to embrace leadership. It responds to Washington’s attacks with offers of collaboration. Despite huge balance-sheets, its banks have shied away from trying to buy European rivals. Yet as in business, diplomacy and most terrains where China’s footprint looms large, questions linger. It is opening up its markets, but new entrants are unsure if unwritten rules might block them. Regimes allowing foreign investors to recoup collateral if companies default are untested. China lacks a free press, common law and a judiciary that might protect the public interest and restrain land grabs by the state.
+
+Left unaddressed, those doubts could limit Beijing’s sphere of financial influence to being a satellite system, as many market participants choose to stick with the devil they know. That world would be suboptimal in many ways. Porosity between that Chinese sphere and the dollar system would be limited, obstructing capital flows. Feeling more anxious about China, America may try to tilt the current structure even further in its favour.
+
+There is a different path. China can choose to reassure the financial community that it will not seek to hide truth when there are problems in the system, and that it will act promptly—but within commonly accepted rules—to solve them. It must show that it is ready to respect the rights of those who choose to trust it, even when they run contrary to its interests. Western-led institutions can help, by recognising the status it is owed. So will time, as finance folks exposed to Chinese assets and systems find out not just that profits are good, but also that promises are met.
+
+By many measures, America is becoming an ever smaller part of the global economy. The laws of gravity dictate that its ability to be the world’s sole central banker, sooner or later, will ebb, and that China will fill part of the vacuum. Much better for both powers to peacefully coexist and collaborate than barricade themselves in their own incomplete universes. ■

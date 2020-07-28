@@ -1,0 +1,23 @@
+![](./images/20200620_LDP501.jpg)
+
+## The trouble with climate finance
+
+# Green investing has shortcomings
+
+> The financial system and climate change
+
+> Jun 20th 2020
+
+THE FINANCIAL industry reflects society, but it can change society, too. One question is the role it might play in decarbonising the economy. Judged by today’s fundraising bonanza and the solemn pronouncements by institutional investors, bankers and regulators, you might think that the industry is about to save the planet. Some 500 environmental, social and governance (ESG) funds were launched last year, and many asset managers say they will force companies to cut their emissions and finance new projects. Yet, as we report this week (see [article](https://www.economist.com//briefing/2020/06/20/how-much-can-financiers-do-about-climate-change)), green finance suffers from woolly thinking, marketing guff and bad data. Finance does have a crucial role in fighting climate change but a far more rigorous approach is needed, and soon.
+
+One of the shortcomings of green finance might be called “materiality”. Some fee-hungry fund managers make hyperbolic claims about their influence, even as big-business bashers pin most of the blame for pollution on companies. The reality is more prosaic. Fund managers have some influence over a big slice of the economy, but many emissions occur outside the firms they control. Estimates by The Economist suggest that publicly listed firms, excluding state-controlled ones, account for 14-32% of the world’s total emissions, depending on the measure you use. Global fund managers cannot directly influence the bosses of state-controlled Chinese coal-fired power plants or Middle Eastern oil and gas producers.
+
+Some European bank regulators hope to cut emissions indirectly, by imposing climate-stress tests on lenders and insurers that penalise their exposures to dirty or vulnerable projects. But the evidence so far suggests that this will not make much difference (assuming there is no change in rules on carbon emissions). The effect on these firms’ solvency is small, because only a fraction of their assets are invested in fossil fuels or in projects whose value is sensitive to physical risks, such as flooding, after being discounted over 10-15 years. Meanwhile, despite all the fundraising, the sums being invested in renewable energy and infrastructure are only about half what would be needed to keep temperatures within 2°C of pre-industrial levels.
+
+Another problem is measurement. Ideally, a fund manager with a portfolio, or a bank boss with a loan book, could gauge its total net carbon footprint, including the supply chains companies use and the emissions their products release—and do so without double-counting. That way you could objectively track both its carbon and financial performance and compare one portfolio with another. Unfortunately, corporate disclosure is so bad that this is impossible, at least for now. Instead, fund managers resort to using dubious ESG ratings, created by external advisers, that make subprime credit scores look like the gospel truth. Their opaque methodologies bamboozle clients and bosses. Indices and portfolios which claim to be climate-friendly often contain the securities of firms that are big polluters.
+
+The final problem is motivation. Suppose shareholders can influence a firm and measure its emissions properly. Even then they may not have a strong financial incentive either to force it to shut down its lucrative oilfields, say, or to increase its investment in experimental energy and costly electrical grids. That is because the externalities of greenhouse-gas emissions are not accurately priced into the cost of energy. Dedicated green investors might still call for climate-friendly decisions, but they might not carry enough weight to determine how firms behave.
+
+What to do? Governments need to force firms to improve their disclosure. Asset managers need to drop the gimmicks and set coherent and measurable objectives. Most important, widespread carbon taxes would unlock the power of finance, giving investors and banks a strong motive to shift capital away from dirty industries to clean ones and to develop instruments that allow firms to hedge and trade the price of carbon. Climate finance is still in its infancy. There is a lot of room for improvement.■
+
+Sign up to our fortnightly climate-change newsletter [here](https://www.economist.com//theclimateissue/)

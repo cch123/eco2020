@@ -1,0 +1,33 @@
+![](./images/20200404_WBD000_0.jpg)
+
+## Schumpeter
+
+# From “you’re fired” to “you’re furloughed”
+
+> Should American job cullers become more European in the crisis?
+
+> Apr 4th 2020
+
+Editor’s note: The Economist is making some of its most important coverage of the covid-19 pandemic freely available to readers of The Economist Today, our daily newsletter. To receive it, register [here](https://www.economist.com//newslettersignup). For more coverage, see our coronavirus [hub](https://www.economist.com//coronavirus)
+
+IN MID-FEBRUARY Hilton, a hotelier, and its employees had something to celebrate. For the second year running the company came top in Fortune magazine’s list of best American companies to work for. The perks provided to its 62,000 direct employees in America included extended parental leave, Under Armour-branded uniforms and facilities to let travelling staff ship breast milk home. A mere six weeks later, on March 26th, tens of thousands of those pampered employees were given notice that they would be thrown out of work because of the covid-19 pandemic. That was the day weekly jobless claims in America spiked by 1,000% to 3.3m.
+
+The stratospheric surge of Americans seeking unemployment benefits contrasts with the situation in western Europe. Companies there are struggling just as hard but many are keeping workers on the books at reduced pay. That is a familiar story. In times of economic upheaval, European firms rely extensively on schemes in which the government picks up part of the wage bill, such as Germany’s Kurzarbeit, France’s chômage partiel and Italy’s cassa integrazione. Traditionally, America has shunned such feather-bedding. From frontier days its labour laws have given employers leave to cull jobs almost at will. Not for nothing did the country elect a president whose catchphrase was “You’re fired!”
+
+In the current crisis it may seem fair to ask American firms to take a more European approach. After all, business activity has collapsed not because of slothful work habits, but because governments have ordered people to stay at home. This is not a slump that needs to be fixed with an orgy of creative destruction in the jobs market. And however deep the downturn, the rebound could be relatively quick. If so, it makes sense for companies and employees to maintain ties, so that production can resume briskly when things improve.
+
+Yet one feature of this crisis in fact makes it all the more important to maintain flexible labour practices: the jobs market has bifurcated. In industries that bring people together, such as hotels, airlines, casinos and restaurants, demand for workers has collapsed. Those that provide access to health care (such as hospitals), staples (supermarkets) or services catering to those stuck at home (e-commerce) are clamouring for more staff. For all the merits of Europe’s labour-support programmes, the risk is that they last too long and dissuade workers from switching to industries where their help is badly needed.
+
+Already the response of American firms to the jobs crisis is taking an unfamiliar route. Though many of the small businesses that provide about half of private-sector employment in America were quickly forced to let workers go to survive, the government has stepped in to ease the pain. Its $2trn support programme has temporarily increased unemployment benefits. A $350bn lifeline to small businesses within the stimulus package encourages them to cling on to staff if they can.
+
+Some bigger American firms, such as Hilton, its rivals like Hyatt and Marriott, and retailers such as Macy’s and Gap, are taking a different tack. Instead of sacking staff, they have announced that tens of thousands of their employees will be furloughed, which in America means being put on unpaid leave. Crucially, the furloughed workers get to keep their company health insurance. They can also, in most cases, claim unemployment benefits. To ease resentments, those who remain in work, including executives, will suffer pay cuts.
+
+The use of furloughs represents a change from previous slumps, says Sandra Sucher of Harvard Business School. Common in Europe during the financial crisis of 2007-09, they were barely used in America. Since then, however, many American firms who laid off workers found subsequent rehiring so difficult that they are loth to suffer the ordeal again, she says.
+
+Another difference with past recessions is the way American firms are encouraging inactive workers to switch jobs to fill temporary vacancies in other industries. Hilton, for instance, is helping its suspended workers to apply for jobs at e-commerce firms like Amazon. This may help keep the labour market relatively fluid at a time of severe stress. (Amid employee absences and increased orders, some workers at Amazon, for instance, are demanding better conditions.) It is also well-suited to the time horizons of the pandemic. As social-distancing measures recede, some of the disease-specific demand for labour will ebb, enabling workers to return to their old jobs.
+
+This is where Europe could learn something from America. Some industries have far too many workers, whereas others do not have enough. Airline employees are needed to work in hospitals, and rural bar staff could helpfully be dragooned into farmwork amid a shortage of migrant labour. But European countries’ schemes for subsidising the wages of furloughed workers often do not make it easy for them to take new jobs, even temporarily, and sometimes discourage it. As Giuseppe Moscarini of Yale University says, support for workers should not preclude labour mobility, even if it encourages them to maintain ties with their existing employers.
+
+Both American and European labour policies have their pros and cons. In America rapid shake-outs in jobs markets help good firms grow and bad firms shrink, promoting dynamism. In Europe worker protections can reduce the devastating toll on employees and their families caused by slumps, but can slow the pace of recovery. American left-wingers believe that more European-style treatment of workers is long overdue—and will cheer examples of companies volunteering to furlough workers rather than fire them. But if America and Europe want to ensure that hospitals are staffed, deliveries are made and food is on the table, they must remember that flexibility, as well as some security, is essential. ■
+
+Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)

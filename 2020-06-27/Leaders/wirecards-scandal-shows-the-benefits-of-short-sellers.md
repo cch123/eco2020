@@ -1,0 +1,25 @@
+![](./images/20200627_LDD003.jpg)
+
+## Short-selling
+
+# Wirecard’s scandal shows the benefits of short-sellers
+
+> The markets need more sceptics
+
+> Jun 24th 2020
+
+GERMANS CONSUMED by tech envy of America allowed themselves a flush of pride when Wirecard won a place in the DAX index in 2018, and its stockmarket value surged above €24bn ($28bn). Here, it seemed, was a European fintech champion: a digital-payments firm headed for global glory. Today, faces are red again—with embarrassment. Wirecard has admitted it has a €1.9bn hole in its accounts. Its founder and boss, Markus Braun, once lauded as a visionary, quit on June 19th and was arrested and bailed this week on suspicion of false accounting and market manipulation. The firm faces bankruptcy or a fire-sale.
+
+Wirecard’s rise and fall is a case study in the carnage possible when a firm’s accounting goes awry but national regulators and big investors are so seduced by the company’s narrative that they cannot, or will not, see it. It is also a reminder of how markets stand to benefit from short-sellers—who try to make money betting against listed firms, by selling borrowed shares and buying them back later at a lower price. Had the warnings from Cassandras who detected a bad smell around Wirecard years ago been heeded, billions of dollars of losses, many of them borne by pension-fund investors, could have been avoided.
+
+Questions about the firm’s accounting began to swirl in 2015 (see [article](https://www.economist.com//node/21788604)). They have intensified in the past 18 months with a series of articles in the Financial Times, informed by short-sellers and whistle-blowers. Instead of taking these seriously, Germany’s markets regulator, BaFin, seemed keener to shore up confidence in Wirecard and attack the attackers. It temporarily banned shorting of the firm’s stock, a first, and opened a criminal case against journalists for suspected manipulation.
+
+Big banks and investors, including Deutsche Bank and its DWS fund-management arm, backed Wirecard and kept the faith, in some cases doubling down, even as more and more red flags popped up. Many did scant due diligence, instead relying on puff pieces churned out by sell-side analysts right to the end: half a dozen still had buy recommendations on the stock when Mr Braun resigned. Wirecard’s auditor, EY, faces scrutiny, too. Germany’s media, for the most part, swallowed Wirecard’s line that it was the victim of a nefarious plot by Anglo-Saxon marauders.
+
+When so many clever people can get it wrong, anything that injects scepticism is welcome. Such counterweights to market consensus are especially helpful when politicians and central banks are boosterish on asset prices, as they are now, and in countries with a corporatist mindset. Even as Germany has embraced shareholder capitalism, the view that company managers are more trustworthy than their shareholders, especially less patient ones, has proved stubbornly persistent.
+
+Those who bet against companies have long been eyed with suspicion; short-selling bans date back to 17th-century Amsterdam. But claims that shorting causes instability do not hold water: financial crises are more often caused by investors borrowing to go long, not short. Sometimes short-sellers are up to no good, as when they engage in speculative “naked” shorting (placing bets without first borrowing stock). More often than not, though, they are on to something. Over the past year they have uncovered several big frauds, from the fabricated sales at Luckin Coffee, a Starbucks wannabe—the latest in a line of fantastically fraudulent Chinese firms laid low by contrarians—to the debt-disguising shenanigans at NMC Health, a FTSE 100 company.
+
+Shorting does more than just root out funny business. It also helps sharpen price discovery when legitimate firms are overvalued. Short-sellers tend to do their homework because they have a lot at stake. Stocks can rise by more than they can fall and shorts can bleed money if a target’s shares remain buoyant for years. They have to face writs and illegal tactics, too—Wirecard is suspected of ordering cyber-attacks on its critics.
+
+More’s the pity, then, that as protectionism mounts, governments are becoming more tempted to cuddle up to home-grown corporate stars. Typically, frauds have a global element—Wirecard falsely claimed that the missing cash was in the Philippines; NMC has creditors in Taiwan and Oman, among other places; and Luckin was incorporated in the Cayman Islands. But the trade war and fracturing of global regulation make it harder for sceptics to work their magic. More Chinese firms may eventually shift their main listing from New York to China, where short-selling is less tolerated. Professional naysayers will never be popular, profiting as they do from the misery of others. But if they cannot keep markets honest, nobody wins.■

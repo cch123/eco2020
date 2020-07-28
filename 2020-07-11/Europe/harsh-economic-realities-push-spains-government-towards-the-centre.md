@@ -1,0 +1,27 @@
+![](./images/20200711_EUP004_0.jpg)
+
+## A lopsided recovery
+
+# Harsh economic realities push Spain’s government towards the centre
+
+> The left-wing government may not be able to afford its promises
+
+> Jul 9th 2020MADRID
+
+LAST MONTH, as Spain loosened its tight lockdown, Carmen Olmos opened up her smart tapas bar in the Salamanca district of Madrid for the first time since early March. Little by little she brought all nine of her staff out of the government’s furlough scheme. She is allowed to use only 60% of her tables, the office workers who used to drop by for breakfast or lunch are still teleworking and trade is a third below its pre-pandemic level. She had to close two other bars in the previous slump, in 2009-12. This time she is optimistic. “I own the property, it’s an area with a lot of purchasing power so it’s viable even in these conditions,” she says. She is less sanguine about the Spanish economy as a whole. Many other bars are opening with fewer workers and for shorter hours, she adds. Many small shops in her neighbourhood are yet to come back at all.
+
+Spain is suffering small but potentially worrying new coronavirus outbreaks that have seen the reimposition this month of some restrictions on movement in two rural areas with a total population of 270,000. Nevertheless, the main concern of the left-wing coalition government of Pedro Sánchez, the Socialist prime minister, is now to revive the economy. It has been the hardest hit in Europe (along with Italy’s), because of the preponderance of tourism and small, vulnerable businesses, plus the stringency of its lockdown. The government reckons GDP will shrink by 9.2% this year (the IMF says 12.8%), provided second waves of the virus can be contained locally, without a second general lockdown. Unemployment could hit 21% by December, wiping out years of strong job-creation.
+
+The good news is that a recovery has started. But it is lopsided. Of the 3.8m workers furloughed in April, 1.5m are now back at work. Credit- and debit-card spending by Spaniards fell by 60% in the tightest phase of the lockdown, in April, but was only 4% below normal by last month, according to Rafael Doménech of BBVA, a bank (some of the rebound may be thanks to purchases postponed earlier). With borders closed until June 21st, spending by non-residents fell by 85% between March and mid-June. Much of the tourist industry’s 12.3% contribution to GDP will be lost this year. Other sectors have suffered, too. Nissan is to close its car factory in Barcelona, with the loss of 3,000 jobs, and Airbus is laying off hundreds from its Spanish plants.
+
+The government has tried to cushion these blows. It has spent more than 3% of GDP on furloughing workers, waiving social-security payments and helping the self-employed, schemes which are likely to be extended to the end of the year. It has offered €100bn (8% of GDP) in credit guarantees for businesses. On July 3rd Mr Sánchez announced an additional €40bn plus a €10bn fund for equity stakes to support “strategic” companies.
+
+Although the headline amount of aid is less than in some other European economies, officials insist that it has been effective, with quick disbursement. The government was constrained by Spain’s prior fiscal weakness, with the deficit rising last year to 2.8% of GDP. It has high hopes of the proposed European reconstruction fund, which it helped to inspire. Spain could get up to $140bn over several years. This won’t directly plug the deficit hole. But it could help to raise productivity in the medium term, through investments in IT, green technology and worker training.
+
+The virus struck when the ruling coalition between the Socialists and the far-left Podemos was just two months old. Despite some mistakes in the handling of the epidemic, the prime minister’s position is stronger now than it was then. In a politically fragmented country, his approval rating is back to 50%, according to Metroscopia, a pollster, up from 37% in early April.
+
+His next test is to get parliament to approve a budget, something he has been unable to do since he first came to power through a censure motion in 2018. The coalition’s programme included a pledge to raise corporate and income taxes to finance additional social provision, and a promise to repeal a labour reform of 2012, which powered the recovery in jobs. Hated by the unions, the reform cut severance pay (still high) and decentralised bargaining.
+
+Mr Sánchez faces heavy pressure to drop these pledges. Antonio Garamendi, the head of the bosses’ association, points out that there is no mention of repealing the labour reform in the latest agreement that he and union leaders signed with the government. The coalition has said it will “modulate” its programme because of the harsh new circumstances. The budget will reveal whether modulation is a fancy word for backtracking. ■
+
+Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)

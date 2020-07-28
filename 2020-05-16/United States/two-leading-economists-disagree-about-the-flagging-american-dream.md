@@ -1,0 +1,23 @@
+![](./images/20200516_USP001_0.jpg)
+
+## Reasons for social immobility
+
+# Two leading economists disagree about the flagging American Dream
+
+> Heckman v Chetty
+
+> May 14th 2020WASHINGTON, DC
+
+MOST AMERICANS worry that they live in an age of reduced social mobility. Raj Chetty, a Harvard economist, has done as much as anyone to provide empirical heft for that malaise. Armed with data from nearly all the tax returns filed in America for decades, he and his co-authors have pieced together an astonishing series of findings: that absolute mobility (the chance that a child will go on to earn more than their parents) has dropped from 90%, a near certainty, to 50%, a coin-toss; that the gap in life-expectancy between rich and poor has widened even as that between blacks and whites has narrowed; and that although the chances of upward mobility differ greatly from one neighbourhood to the next, in nearly every part of America the path for black boys is steeper.
+
+Mr Chetty has also compiled evidence that mobility (or immobility) depends a lot on the types of neighbourhood that Americans grow up in. Re-analysing the Moving to Opportunity (MTO) experiment, which randomly assigned vouchers to poor families in five American cities to live in less poor places, he and his colleagues found dramatic effects for children who moved while young: a 32% higher chance of attending college and 31% higher earnings. His research consortium has ranked neighbourhoods according to their chances of propelling poor children upwards, publishing an online Opportunity Atlas. A new MTO-style experiment in Seattle is investigating these dynamics in real time.
+
+“It’s like Rousseau [in ‘The Social Contract’]: ‘Man is born free and everywhere he is in chains.’ We just remove the chain of neighbourhood. And it’s not that simple,” says James Heckman, an economist at the University of Chicago, who has grown critical of the research and the implications drawn from it. Mr Heckman, who won a Nobel prize for work on teasing out cause and effect from messy, real-world data, thinks there is more statistical uncertainty in the neighbourhood-mobility findings than is widely recognised. A working paper by Magne Mogstad, another economist at the University of Chicago, and his colleagues argues that the “noise”, or random fluctuation, in Mr Chetty’s data means “it is not possible to draw firm conclusions about which counties in the United States have high or low values” of upward mobility from the poorest 25% of households.
+
+Mr Heckman acknowledges that there are clear differences in mobility according to neighbourhood. But the ultimate drivers could lie in family structure, parenting habits, exposure to crime or the quality of schooling. All these are difficult to derive from American tax-return data.
+
+Pundits take the research on “neighbourhood effects” as evidence that “zipcode is destiny”. Mr Heckman bristles at that. It overlooks the fact that Asians and black women do fairly well in mobility relative to whites. “It diverts attention away from other plausible explanations for why African-Americans are not doing well. Put discrimination on the table…but family structure is the one thing that is just off the table in American society,” he says.
+
+That topic has a history of descending into ugly spats about the personal culpability of the poor, which may ward off social scientists. Mr Heckman sees his own research—tracking long-term outcomes for children and parents randomly assigned to a high-quality early-learning scheme—as strong evidence that families can become more stable and that disadvantaged children can be helped without having to move. The point is not to yearn for a return to “shotgun marriages”, he says, but to encourage stable cohabiting relationships.
+
+This debate matters not just because two prominent economists disagree, but because they suggest different methods for tackling the urgent problem of intergenerational immobility. Mr Chetty’s experimental work on the primacy of place will be an important test of his theories, yet it also has a limit on its scale: every disadvantaged American plainly cannot be moved to opportunity. Mr Heckman’s project of encouraging early-childhood education has some scaling questions, too: could every child in America receive a programme as intensive as the ones he studies? For now, the answer, as with all messy scientific debates, is to let the experiments proceed. ■

@@ -29,3 +29,7 @@ Because his rabble-rousing has a human cost, Mr Modi is also tarnishing the memo
 Mr Modi may imagine he can keep communal tensions under control, ramping them up and tamping them down as his political fortunes demand. But even if he is only cynically exploiting religious bigotry, many in the Hindu nationalist rank-and-file are true believers. They are not easily restrained, as the slaughter in Gujarat showed. With his warlike rhetoric about Pakistan, his head-cracking in Kashmir and his flagrantly biased approach to citizenship, the prime minister has raised the zealots’ expectations. He may not want to take things too far—he has a country to govern—but they will have no such compunction.
 
 Happily, many Indians have already had enough, as the recent protests show. The Supreme Court, which this week declined to suspend the citizenship law, should heed this, show some unexpected spine and declare it unconstitutional. And rather than stoke hostility between two of the world’s great religions, Mr Modi should look for other paths to voters’ hearts. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/01/23/narendra-modi-stokes-divisions-in-the-worlds-biggest-democracy

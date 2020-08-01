@@ -57,3 +57,7 @@ As yet, there is no compelling reason for most individuals to have their genome 
 Some wonder whether the right time and place to do this is at birth. In developed countries it is routine to take a pinprick of blood from the heel of a newborn baby and test it for a variety of diseases so that, if necessary, treatment can start quickly. That includes tests for sickle-cell disease, cystic fibrosis, phenylketonuria (a condition in which the body cannot break down phenylalanine, an amino acid). Some hospitals in America have already started offering to sequence a newborn’s genome.
 
 Sequencing could pick up hundreds, or thousands, of rare genetic conditions. Mark Caulfield, chief scientist at Genomics England, says that one in 260 live births could have a rare condition that would not be spotted now but could be detected with a whole-genome sequence. Some worry, though, that it would also send children and parents out of the hospital with a burden of knowledge they might be better off without—especially if they conclude, incorrectly, that genetic risks are fixed and predestined. If there is unavoidable suffering in your child’s future do you want to know? Do you want to tell them? If a child has inherited a worrying genetic trait, should you see if you have it yourself—or if your partner has? The ultimate answer to the commandment “know thyself” may not always be a happy one.■
+
+## URL
+
+https://www.economist.com/technology-quarterly/2020/03/12/genomics-took-a-long-time-to-fulfil-its-promise

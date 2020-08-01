@@ -23,3 +23,7 @@ In person he was vigorous, priding himself on his average but enthusiastic squas
 After the revolution Mr Mubarak spent years on trial for murder and corruption. He was convicted and sentenced to life in prison, but the ruling was overturned on appeal. Then, in 2013, came the coup that ended Egypt’s brief democratic experiment, along with efforts to hold Mr Mubarak accountable. Abdel-Fattah al-Sisi, the general who seized power, grew paranoid about challenges to his rule—among them, unlikely as it may seem, nostalgia for Mr Mubarak. Better he simply be forgotten. After decades in the public eye Mr Mubarak lived out his final days in quiet seclusion.
 
 In a pair of rare interviews last year he reminisced about his days as a soldier and statesman. He spoke far less about his presidency. Whatever his thoughts, Mr Mubarak, his black hair long since faded to grey, offered no public reflection on the failures that caused millions of his countrymen to turn on him. Did he blame his sons, whose greed and ambition alienated not only his people but, crucially, his fellow officers? Did he blame his glib intelligence men, or the ever-plotting Muslim Brothers, or his gutless American allies? The stolid soldier gave nothing away. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/02/27/hosni-mubarak-ex-despot-of-egypt-died-on-february-25th-aged-91

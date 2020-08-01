@@ -33,3 +33,7 @@ A recent poll found voters favouring a CDU/CSU-Green coalition after the next el
 Still, the Greens are likely to ensure that Germany’s next election is the first in post-war history in which the CDU and SPD fail to occupy the top two spots. Could they lead a green-black government? It is not impossible: they briefly topped polls last spring. A Green-led coalition with the SPD and hard-left Die Linke is another option, though the numbers are not yet there. But the chance of a Green chancellor means Ms Baerbock and Mr Habeck must confront the awkward question of which of them it would be. Many insiders quietly admit to preferring Ms Baerbock, but Mr Habeck’s charisma and profile make him the favourite.
 
 Such thoughts belie a concern among some Greens that the party’s current polling high may prove to be as fleeting as previous ones, especially if an economic slowdown displaces the climate among voters’ concerns and the party wilts under the scrutiny of an approaching election. That could happen, but neither governing party looks set to stage a recovery, and the Greens’ newly diversified policy portfolio is a hedge against voter caprice. For now, the party appears to be on a steady course towards government. ■
+
+## URL
+
+https://www.economist.com/europe/2020/01/02/the-stars-have-aligned-for-germanys-greens

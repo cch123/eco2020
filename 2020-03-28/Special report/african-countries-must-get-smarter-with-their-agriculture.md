@@ -37,3 +37,7 @@ Illuminum’s success shows how technology can help even small farms be more pro
 “If we really want to lift people out of poverty we have to finance projects that will get them an income of at least $100 a month so that they can pay for health care and education,” says Mr Ngetich. “Projects that give them an extra $2 a month from growing beans or maize aren’t going to get them there.” Getting those big jumps will need better jobs in factories and cities. ■
 
 Sign up to our fortnightly climate-change newsletter [here](https://www.economist.com//theclimateissue/)
+
+## URL
+
+https://www.economist.com/special-report/2020/03/26/african-countries-must-get-smarter-with-their-agriculture

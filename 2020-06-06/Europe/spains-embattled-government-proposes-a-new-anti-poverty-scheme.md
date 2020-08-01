@@ -23,3 +23,7 @@ For Mr Sánchez’s minority government, that is balm after a rough fortnight. S
 As well as being accused of undermining the police, Mr Sánchez, a Socialist, has struggled for parliamentary support to continue the state of emergency which he thinks is needed to enforce his deconfinement plan. The coalition parties last month reached an agreement with a Basque separatist party, which abstained in return for a promise to tear up a job-creating labour reform from 2012. That infuriated the opposition and private business, and prompted open dissent from the economy minister, Nadia Calviño.
 
 This week Mr Sánchez secured a final extension of the emergency, until June 21st, but only by agreeing to let regional governments fix most of the rules. Long after these rows have faded, the income-supplement scheme should make Spain a more equal country. ■
+
+## URL
+
+https://www.economist.com/europe/2020/06/04/spains-embattled-government-proposes-a-new-anti-poverty-scheme

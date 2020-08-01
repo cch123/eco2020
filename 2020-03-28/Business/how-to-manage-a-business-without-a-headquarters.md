@@ -33,3 +33,7 @@ Still, some businesses suddenly forced into remote work will rue the experience,
 Most businesses will always have to be located somewhere and need people to work side by side. But as technology improves, swathes of the knowledge economy will gradually move more functions online, thinks Venkatesh Rao of Ribbonfarm, a consultancy. New firms will erect a new virtual floor, which others then inhabit. The coronavirus-fuelled exodus to cyberspace is unlikely to be the last.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/03/26/how-to-manage-a-business-without-a-headquarters

@@ -19,3 +19,7 @@ Rome is the capital of a country with a dire outbreak, but it reflects a broad p
 In some Asian cities, the rate of new cases has fallen and normal life is resuming. Foot traffic in Hong Kong returned to standard levels on March 7th. Conversely, metro stations in New York are as busy as ever, just as the city’s outbreak gathers speed. If its counterparts elsewhere are any guide, the worst lies ahead.■
 
 Sources: Google; Johns Hopkins CSSE; The Economist
+
+## URL
+
+https://www.economist.com/graphic-detail/2020/03/14/foot-traffic-has-fallen-sharply-in-cities-with-big-coronavirus-outbreaks

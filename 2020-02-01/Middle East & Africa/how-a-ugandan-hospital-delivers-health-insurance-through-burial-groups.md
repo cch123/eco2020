@@ -19,3 +19,7 @@ In 1996 the hospital began enrolling engozi groups in health insurance. Group le
 The impacts are not just financial. Patients with insurance are less likely to be admitted to hospital than those without. That is because they show up earlier, when their conditions are more easily treated. A study by Emmanuel Nshakira-Rukundo and colleagues at the University of Bonn estimates that child stunting falls by 4.3 percentage points for every year that a household is in the scheme.
 
 The cost still puts off the very poorest. Only about a quarter of the hospital’s patients are insured. But Kisiizi shows the potential to build on institutions which, as Mr Nshakira-Rukundo puts it, “emanate from a place of social solidarity”. In neighbouring Rwanda five-sixths of the population are enrolled in state-run health insurance delivered through local groups. By contrast the Ugandan government’s plan for a national health-insurance scheme, currently before parliament, says little about community models. Schemes like that at Kisiizi could continue alongside state initiatives, says Walimbwa Aliyi, a health official, but are too thinly spread to be the basis for it.
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/01/30/how-a-ugandan-hospital-delivers-health-insurance-through-burial-groups

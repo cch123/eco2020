@@ -31,3 +31,7 @@ The mental-health system that the government says it is building would make it e
 The reforms may help. But officials often refer to them not as a way of boosting public health, but as a means of improving “social governance”—in other words, strengthening control. It is possible that the counselling rooms will provide some assistance to people who are suffering, but also make it easier for the government to keep tabs on unhappy people.
 
 Stories from Wuhan provide reasons to be sceptical. Grieving relatives report that they have been obliged to take government officials with them when they bury ashes, perhaps to ensure that funerals are kept brief and low key. Members of one family were ordered by police to delete an online group they had created in order to help bereaved people connect with each other. The government wants Chinese to talk more about their emotions, but not if they say the wrong things. ■
+
+## URL
+
+https://www.economist.com/china/2020/05/16/in-china-covid-19-has-focused-attention-on-mental-health

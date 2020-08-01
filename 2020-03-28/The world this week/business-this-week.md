@@ -33,3 +33,7 @@ Nike revealed that 80% of the stores that sell its products in China have reopen
 SoftBank announced a sale of up to ¥4.5trn ($41bn) of assets to fund a share buy-back plan and reduce its debt. The troubled Japanese conglomerate’s share price soared after the announcement. That was not enough to stop Moody’s from cutting its rating for SoftBank’s bonds by two notches.
 
 Just in time for the family lockdown, Disney+ launched in Britain, Germany, Italy, Spain and several other European countries. Being stuck indoors has led to a surge in streaming, which has caused Netflix, Amazon Prime and others to reduce their playback quality in Europe to ensure films don’t stutter.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/03/26/business-this-week

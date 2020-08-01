@@ -23,3 +23,7 @@ Such companies would not have backed SpaceMobile if they did not think the techn
 Mr Avellan says he has solved all these problems, and has filed around 30 patents in the process of doing so, though he has yet to reveal full details of how his system works. He says the satellites switch on and off depending on which territory they are over, and use mobile operators’ existing frequency bands when active. Access to the service will be sold wholesale to operating partners, who can then offer SpaceMobile to customers as a global roaming option.
 
 As well as working with existing phones, without the need for terrestrial gateways, Mr Avellan says that because his system needs far fewer satellites than its mega-constellation rivals, and thus fewer launches, it will be cheaper to build. As for pricing, he says access will be cheap enough for it to be used as a gap-filling technology in poor countries, where coverage can be patchy in rural areas. Such extraordinary claims require extraordinary evidence. Now he must prove that his scheme will fly.■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/03/07/a-new-firm-says-it-can-link-satellites-to-ordinary-smartphones

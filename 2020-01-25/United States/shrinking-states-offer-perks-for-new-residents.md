@@ -29,3 +29,7 @@ Are such efforts effective? Amy Liu, who directs a metropolitan-policy programme
 John Lettieri, the head of EIG, says place-based visas for immigrant workers may help areas with population and labour shortages. Vermont could certainly do with an immigration boost. Fewer than 500 people arrive each year. Those counties that are growing have immigrant populations.
 
 Vermont’s commerce secretary, Lindsay Kurrle, says she is “realistic” about her state’s programme. She says she knows people are not going to move to a new state for only a few thousand dollars. Nor will the programme alone solve the state’s demographic problems. Still, she hopes it will encourage more people to consider Vermont. Had they not read the article, the Dows say they would still be in Denver.■
+
+## URL
+
+https://www.economist.com/united-states/2020/01/23/shrinking-states-offer-perks-for-new-residents

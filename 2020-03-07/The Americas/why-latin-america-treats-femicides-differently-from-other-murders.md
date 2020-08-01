@@ -21,3 +21,7 @@ But femicide laws have critics. Some lawyers find it absurd that a jealous husba
 A survey of prosecutors in Peru found that many deemed it too hard to prove that a murderer had been motivated by misogyny. Some misclassified femicides as ordinary homicides because they thought that would make it easier to win convictions. Mexico’s attorney-general, Alejandro Gertz Manero, recently floated the idea of repealing the law that recognises femicide as a separate crime. It creates extra work for overtaxed investigators, he suggested.
 
 Ms Guerrero did not learn of her daughter’s death for a week because police registered her as a man (deliberately, she believes). They refuse to classify her murder as a femicide. Changing that would not bring justice. But, says Ms Guerrero, it would acknowledge that “Diana was killed simply for being a woman.”■
+
+## URL
+
+https://www.economist.com/the-americas/2020/03/05/why-latin-america-treats-femicides-differently-from-other-murders

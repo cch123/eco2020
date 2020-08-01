@@ -27,3 +27,7 @@ The spread of disease has not (so far) been accompanied by the disasters that we
 All this shows there have been successes in America’s response to the pandemic, as well as problems. Compared with the number of cases, its death toll is modest, perhaps because victims tend to be relatively young. Its hospitals and doctors seem to be getting better at treating the disease. Even the Black Lives Matter protests have not been super-spreader events, perhaps because (suggests a study by Dhaval Dave of Bentley University, Massachusetts) other Americans reacted by not going out, limiting the spread of infection.
 
 But these successes do not compensate for the failures. Rather, they leave America stuck between two poles. New cases are too low to justify reimposing lockdowns in order to control the virus. But they are too high to reopen states safely and resume normal life. It is an unhappy medium. At best, America is likely to stumble along with its current levels of infection over the next few months. At worst, as Dr Fauci told Congress, America could face a second, more damaging wave this winter. ■
+
+## URL
+
+https://www.economist.com/united-states/2020/06/27/decoding-the-confusing-messages-of-the-coronavirus-epidemic-in-america

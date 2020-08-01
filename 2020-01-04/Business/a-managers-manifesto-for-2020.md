@@ -27,3 +27,7 @@ THE START of the year is traditionally the time to make resolutions to change yo
 8. Drop the team-building exercises. Paintballing in the woods, tackling an army assault-course, constructing a model of the Empire State Building from matchsticks—no one wants to do this stuff. They don’t want to go to an awayday weekend, either; they would much rather be at home with their families. Why not build a team by introducing its members and explaining what you want each of them to do? It is a lot cheaper. It also wastes a lot less of everybody’s valuable time.
 
 Will following these eight rules lead to instant business success? Of course not. None of this will work if the company lacks an attractive product or a decent business plan. But these rules might just make your firm a more efficient and pleasant place to work. And that is a reasonable goal for 2020.
+
+## URL
+
+https://www.economist.com/business/2020/01/02/a-managers-manifesto-for-2020

@@ -27,3 +27,7 @@ By the end, says Captain Barve, he was very worried about his men’s mental sta
 The International Maritime Organisation, the arm of the UN that deals with shipping, has drawn up a protocol for crew changes during the pandemic. It requires governments to classify merchant seamen as essential workers, thus enabling them to travel and cross borders. Ports and airports need facilities for testing and quarantine, and safe connections. “We have the standard operating procedure ready to act on,” says Bjorn Hojgaard of Anglo-Eastern. “We just need help from regulators.”
 
 The industry hopes that governments will be prodded into action by the sudden expiry of so many seamen’s contracts. The International Transport Workers’ Federation (ITF) says it will support any seamen who refuse to work. If that leaves too few people to operate a ship safely, its insurance policy could lapse, and full liability fall on the captain and owner, who might then decide it was too risky to keep going. The trade that has flowed so smoothly throughout the pandemic might finally gum up. “Everyone is happy to reap the benefits of global trade,” says Stephen Cotton, the ITF’s general secretary. “But no one seems willing to step up when it comes to safeguarding those who deliver the things they need every day.” ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/06/18/as-the-virus-rages-on-shore-merchant-seamen-are-stranded-on-board

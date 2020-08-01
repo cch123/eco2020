@@ -21,3 +21,7 @@ Yet POFMA has been invoked mainly against opposition figures, activists and NGOs
 As for social-media companies asked to implement POFMA notices, such as WhatsApp, Facebook and Twitter, dismayed executives say the government has come very late to an understanding of the practical, commercial and ethical challenges. “They seemed to think we are like a bulletin board,” says one. Quite how—and to how many people—a general correction notice gets issued via a platform remains problematic. “One of the things they didn’t quite grasp,” says another executive, “is that they could end up driving people off our platforms really quickly, and that they would lose the audiences they wanted.” It is surely better for the government to get its own message out before policing others’. Yet the health ministry sent out zero tweets between May 3rd and January 29th.
 
 As for Banyan, is he within his rights to call POFMA draconian? Go ahead, says Mr Iswaran, that’s an opinion. Yet the minister is an exception. The government is notoriously thin-skinned. It also lacks a funny bone—and POFMA contains no exemptions for satire. The government’s already frequent resort to the law has become something of a joke among some Singaporeans. Far from protecting citizens’ good opinion of their government, POFMA is undermining it.
+
+## URL
+
+https://www.economist.com/asia/2020/02/06/singaporean-ministers-can-decide-what-is-fake-news

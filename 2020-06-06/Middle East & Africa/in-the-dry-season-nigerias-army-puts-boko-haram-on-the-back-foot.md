@@ -23,3 +23,7 @@ The seasonal ebb and flow of the war is becoming wearingly familiar. ACLED data 
 In the rainy season the army usually retreats into its base camps dotted across Borno. But last year several of them were overrun. Some reckon that 750 soldiers and police were killed in 2019, almost twice as many as have been killed in any other year of the war (the government withholds figures). As a result, the army retreated even farther, into a handful of “super camps”. The lull let Boko Haram recruit men and raise funds.
 
 Yet there is some hope that this time the seasonal cycle may be broken. After Mr Shekau’s faction killed 92 Chadian troops in March, Chad retaliated fiercely with an offensive that killed 1,000 rebels and led to the capture of huge weapon caches. Nigerian forces are also adapting their tactics to the weather, swapping their heavy trucks for lighter Toyota pickups, says Murtala Abdullah, a security analyst. These may have lighter armour and firepower but are less likely to get bogged down. Much will depend on whether the army keeps up the pressure or takes another rain-check. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/06/04/in-the-dry-season-nigerias-army-puts-boko-haram-on-the-back-foot

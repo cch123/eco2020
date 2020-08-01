@@ -35,3 +35,7 @@ Mr Trump said China’s conspiracy theory was one reason why he would keep calli
 For now the swapping of insults may appear infantile. But as the epidemic worsens, so too will the scapegoating. If far larger numbers die, perceptions in China and America of who is to blame will have profound consequences for a relationship that is already looking scarily frayed. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter), or visit [our coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/china/2020/03/21/amid-the-pandemic-sino-american-relations-are-worsening

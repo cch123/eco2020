@@ -23,3 +23,7 @@ The committee’s report, which the generals presumably approved, is part of the
 More concessions are coming. In other words the CPEC game, as a prominent economic commentator, Khurram Husain, puts it, is still on. Yet it will be a much reduced one, with some projects stalled or slowed, and others abandoned. There will be some real benefits: brownouts in much of the country are a memory. But, says Andrew Small, author of a book on China and Pakistan, CPEC “will be defined by the things that might have happened but won’t”.
 
 Pakistan, for instance, will not stop lurching from one economic crisis to the next. Nor will it have the economic confidence to transform its paranoid relations with India. Above all, it will not serve as a model to the world of a new form of relations with a magnanimous China, in which mutual advances in security and economic development are forever blissfully intertwined.
+
+## URL
+
+https://www.economist.com/asia/2020/07/02/chinese-investment-in-pakistan-was-supposed-to-be-a-showcase

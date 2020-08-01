@@ -27,3 +27,7 @@ As a bonus, once regolith has had its oxygen extracted the leftovers may also be
 Unrefined, this mix could be used as a building material by forming it into bricks or tiles to build shelters. It might also be used as the “ink” in a 3D printer, to create such structures more directly. Dr Symes thinks it may even be possible to siphon off specific metals or alloys directly from the generator, for more specialised purposes. If so, that means a regolithic oxygen-generator would not only help keep people alive on the Moon but could also provide the materials to build and fuel a rocket to transport them deeper into space.■
 
 Editor's note (March 29th 2020): This piece has been modified to acknowledge earlier work in the area of extracting oxygen from regolith by Derek Fray and Carsten Schwandt.
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/01/25/how-to-make-oxygen-from-moondust

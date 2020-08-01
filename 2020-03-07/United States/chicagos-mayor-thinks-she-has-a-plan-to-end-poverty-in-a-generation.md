@@ -23,3 +23,7 @@ One of Ms Lightfoot’s plans is genuinely radical, however. Citing the “outra
 None of that will be easy. The wealthy voters who swept Ms Lightfoot to office last year could grow jittery if cuts to police are followed by a spike in violent crime. More important, the Chicagoans most affected by violence are the city’s poorest residents, whom Ms Lightfoot wants to help. She risks a sour relationship with the police after sacking their superintendent for ethical lapses in December. Her separate plans to tackle corruption leave some long-serving city aldermen uneasy. And her record as a negotiator has yet to be proved after Chicago’s teachers won big payouts from her last year, after a lengthy strike.
 
 Ms Lightfoot’s aspiration to “end poverty in a generation” has a further glitch. The poverty statistics are skewed by a decades-long collapse in the black population. Since 2010 the city has seen a net loss of 70,000 black residents, who fled to the suburbs, next-door Indiana or southern cities like Atlanta. Part of the decline in poverty simply reflects the fact that there are just fewer poor African-Americans in Chicago now. Yet some of those left behind are too poor to move, making the poverty that remains even more intractable.■
+
+## URL
+
+https://www.economist.com/united-states/2020/03/05/chicagos-mayor-thinks-she-has-a-plan-to-end-poverty-in-a-generation

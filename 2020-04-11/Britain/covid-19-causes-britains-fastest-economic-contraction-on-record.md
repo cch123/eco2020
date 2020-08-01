@@ -25,3 +25,7 @@ In his budget, Mr Sunak estimated that government borrowing would rise to 2.4% o
 The best hope is that the recession and recovery will be V-shaped, with the steep decline matched by an equally rapid bounce-back once the lockdown is ended. But despite help from the government, unemployment is rising and firms are failing, causing damage that may scar the economy and slow the recovery. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/04/11/covid-19-causes-britains-fastest-economic-contraction-on-record

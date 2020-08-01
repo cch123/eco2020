@@ -77,3 +77,7 @@ All the while Mr Duterte keeps up his attacks on the media. Parallels with Ameri
 The president’s peaceful retirement may end up depending on the identity of his successor. Speculation is rife that Ms Duterte-Carpio will try to fill her father’s shoes. They have not always agreed on policies. But she is not unlike him. She rose to national attention when, as mayor of Davao herself, she punched a sheriff in a dispute over the demolition of slum housing.
 
 She has not declared a run for the presidency; but today would be too soon to do so. In principle, were he to throw his weight behind the anti-dynasticism measure, her father could stop her rise. “If the reforms get through then you can argue that Duterte was the chemotherapy the country needed,” argues Julio Teehankee of De La Salle University in Manila, a critic of the oligarchic elite. That might be a fitting legacy for the man elected president on the basis of promises to be savage and deadly. For the scion of a powerful political family, though, it looks unlikely.■
+
+## URL
+
+https://www.economist.com/briefing/2020/02/20/rodrigo-dutertes-lawless-war-on-drugs-is-wildly-popular

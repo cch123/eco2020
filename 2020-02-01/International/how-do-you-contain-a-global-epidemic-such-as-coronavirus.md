@@ -41,3 +41,7 @@ If China’s drastic measures help delay epidemics of the Wuhan virus in other c
 When it is clear that an epidemic cannot be controlled, authorities go into mitigation mode. That involves setting up places to care for patients when hospitals overflow, and systems to identify which patients should be treated first when medical supplies run short. But few countries put such measures in place in advance. China is frantically building extra hospitals in Wuhan to accommodate the current surge in numbers of patients.
 
 Sometimes no preparation can suffice. “It will not be possible to halt the spread of a new pandemic influenza virus, and it would be a waste of public-health resources and capacity to attempt to do so,” admits Britain’s flu pandemic preparedness strategy. At that point, officials are left hoping for the best. ■
+
+## URL
+
+https://www.economist.com/international/2020/01/30/how-do-you-contain-a-global-epidemic-such-as-coronavirus

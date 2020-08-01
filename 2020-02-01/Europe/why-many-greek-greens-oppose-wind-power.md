@@ -27,3 +27,7 @@ Battles loom over plans to allow offshore wind parks to be built in the Aegean a
 Increasing numbers of hikers, mostly well-heeled northern Europeans, visit places like the Agrafa thanks to a successful new system of marking footpaths across mainland Greece and the islands. They stay in small hotels in almost deserted villages, prompting hopes that such places can be revived as destinations for “soft” tourism.
 
 Mr Pantelis fears building wind parks would destroy the Agafra’s appeal. New roads would erode the mountainsides and noisy, 200m-high turbines would scare away its wildlife. He says that “people used to think wind energy would be beneficial for tourism. But it just ruins the view.” ■
+
+## URL
+
+https://www.economist.com/europe/2020/02/01/why-many-greek-greens-oppose-wind-power

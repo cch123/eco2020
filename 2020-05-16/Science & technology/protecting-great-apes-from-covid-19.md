@@ -31,3 +31,7 @@ Mr de Merode says that if a gorilla tested positive for covid-19, his park “wo
 Correction (May 16th 2020): The original version of this article claimed that Paul Kagame hid on the Congolese side of the Virunga Mountains before invading Rwanda. He actually hid on the Ugandan side. We also mixed up the chronology of events. It was after the invasion, not before, that Mr Kagame ordered his troops not to shoot the gorillas in the Virunga. 
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/05/16/protecting-great-apes-from-covid-19

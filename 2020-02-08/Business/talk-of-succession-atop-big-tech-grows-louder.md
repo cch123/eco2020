@@ -23,3 +23,7 @@ Besides more men, Big Tech corner offices can expect more geeks. Whereas Ms Rome
 Each new CEO will face distinct challenges. Mr Krishna has to complete IBM’s pivot from conventional computing, such as mainframes and information-technology services, to AI and the cloud. Mr Taylor would have to integrate Salesforce’s recent acquisitions. Mr Williams’s main task would be to grow Apple’s services business as it sells fewer iPhones. Whoever takes over at Microsoft must ensure that Mr Nadella’s remarkable reinvention of the software-maker as a big-data and cloud-computing behemoth stays on course.
 
 If Mr Benioff goes, only three of America’s ten biggest tech firms will be run by their creators: Amazon, Dell and Facebook. Mr Bezos and Michael Dell are in their 50s. Mr Zuckerberg is a stripling 35. Neither is going anywhere; Mr Dell tried retirement once before and it did not agree with him. They could nevertheless take some pointers from tech’s new chiefs, who tend to be less abrasive and more politic than flamboyant founders. Those are useful traits at a time of techlash from politicians and calls for cuddlier behaviour from woke consumers and employees.■
+
+## URL
+
+https://www.economist.com/business/2020/02/06/talk-of-succession-atop-big-tech-grows-louder

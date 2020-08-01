@@ -21,3 +21,7 @@ This sinuous morality tale unfurls from the alternating perspectives of Nia and 
 As Shan navigates the instability and sheer exhaustion of life as an illegal migrant, Tuli steps in to help find his missing family, opening a trapdoor into a shady underworld. Meanwhile, Nia (the least convincing of Ms Lalwani’s characters) reveals demons of her own.
 
 Theirs is a dark story, but even at its bleakest, Ms Lalwani’s prose has a balletic lightness. She notes the way a would-be rapist is “sticky with the eyes”, or a drug-dealer’s “large white wedding cake of a trainer”, then pivots to calculate the toll exacted by the moral challenges that Shan and his counterparts face every day. Her blunt title ultimately comes to seem at once an accusation of her readers and an ethical imperative: to recognise the individuality of struggling people who can often seem invisible to the likes of the diners at the Vesuvio.
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/04/08/you-people-dramatises-the-underside-of-london

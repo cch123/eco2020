@@ -25,3 +25,7 @@ This amounts to a large adjustment to the official data. Around 12% of what look
 One of the most drastic revisions is to American holdings of equities in China, which official figures suggest were worth $160bn in 2017. That relatively low figure reflects the fact that the Chinese government restricts ownership in some key sectors. But it does not reflect Americans’ true financial stakes. In order to skirt the controls, Chinese companies set up “variable-interest entities”, which attempt to replicate the benefits of raising equity capital without falling foul of the rules. After the authors’ adjustments, Americans’ stake in Chinese equities rises to $700bn.
 
 All this shows that rules often lead only to financial gymnastics. The findings also expose risks. Some large emerging markets are much more exposed to currency depreciations against the dollar than the official data suggest. If a crisis hits, governments will have to sort through the tangle of loans owed by domestic companies but held outside their jurisdiction. Mr Coppola and his co-authors call attention to American retail investors’ exposures to Chinese financial vehicles, which China’s government could rule as illegal (and worthless) on a whim. Economists may find incorporating these cross-border financial connections into their models hard. But without them, the picture is grossly misleading. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/02/20/cash-sloshes-around-the-world-in-unexpected-ways

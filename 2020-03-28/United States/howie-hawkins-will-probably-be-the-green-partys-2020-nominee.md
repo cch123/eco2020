@@ -27,3 +27,7 @@ As for the 2020 election, Mr Hawkins hopes to appeal to young, fervent and disgr
 A repeat performance is unlikely. Polling by YouGov for The Economist shows support for third-party candidates at 3%, half of what they won in 2016. More probably, then, Mr Hawkins is in a fight to avoid humiliation. Even getting on the ballot in many states, which Greens usually manage, is proving difficult. The problem is getting signatures (and the tightening of some requirements). The party’s presidential candidate is eligible to stand in just 21 states so far. Mr Hawkins guesses 1.6m more signatures are needed to qualify in the remaining ones. The arrival of covid-19 makes that look almost impossible. On March 19th he suspended his effort to gather those signatures. As for disruption to campaigning because of the virus, Mr Hawkins seems relaxed. He says he has 10,000 books at home and an appetite to read as many of them as possible. ■ 
 
 Dig deeper:
+
+## URL
+
+https://www.economist.com/united-states/2020/03/26/howie-hawkins-will-probably-be-the-green-partys-2020-nominee

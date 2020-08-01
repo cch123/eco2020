@@ -27,3 +27,7 @@ Dr Perlman agrees that this notion may be correct, but points out that the only 
 ACE2 is also found in the kidneys and the heart, which may help explain why symptoms manifest there, as well. By contrast, the entry molecules preferred by influenza viruses are almost exclusive to the upper respiratory tract. Knowing all this may make identification of the early stages of covid-19 easier, and thus help to ease the plight of future cases like that of Dr DeBenedet’s patient.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/05/09/covid-19-has-many-faces

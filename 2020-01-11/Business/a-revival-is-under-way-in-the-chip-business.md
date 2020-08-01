@@ -23,3 +23,7 @@ The patterns are amplified or suppressed by what happens in the rest of the econ
 Whether the rebound will be correspondingly strong likewise depends on broader trends. Economic growth in China, a big importer of chips, is cooling. The bull run in America’s stockmarket is now the longest in history, spurring talk of a correction. American officials are working on a new round of trade restrictions that could rattle the industry.
 
 But for those with strong nerves, chips look like a good long-term bet. Underlying the booms and busts is a growth in demand that, according to Mr Penn, has averaged 8% or so a year for 40 years. The industry’s products have become millions of times more powerful in that period, while the world has grown hungrier for computing power. Mr Jenilek cites 5G phone networks and chips customised for AI as two big new sources of demand. This week Las Vegas brimmed with both. ■
+
+## URL
+
+https://www.economist.com/business/2020/01/09/a-revival-is-under-way-in-the-chip-business

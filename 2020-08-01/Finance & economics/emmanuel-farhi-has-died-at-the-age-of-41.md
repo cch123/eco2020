@@ -19,3 +19,7 @@ That paper spawned more research on how the world was stuck in a “safety trap�
 Mr Farhi saw America’s role as the world’s banker as unsustainable. If it produced too few safe assets then, with interest rates unable to adjust fully, global aggregate demand would stay depressed. But if it tried to keep up with investors’ demand for safety, its ability to repay its debts might one day be called into question. Speaking to the Richmond Federal Reserve in 2019, he noted America’s shrinking share of the global economy and worried that its role was becoming too much to bear.
 
 One solution would be for other issuers of safe assets, such as the European Union or China, to emerge—though in a paper with Matteo Maggiori of Harvard, Mr Farhi warned that the transition could be messy. For now, investors doubting the safety of American government bonds had few other places to park their cash. But as alternatives became available, Treasuries would become much more vulnerable to self-fulfilling crises. The dominance of the dollar would be challenged, said Mr Farhi in 2019, though “you have to take the long view here and think about the next decades, not the next five years”. The tragedy is that he did not live long enough to test the prediction.
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/07/30/emmanuel-farhi-has-died-at-the-age-of-41

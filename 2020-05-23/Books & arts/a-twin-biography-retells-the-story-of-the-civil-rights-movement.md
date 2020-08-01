@@ -29,3 +29,7 @@ Take the phrase “truth telling”, which Mr Joseph uses repeatedly. In a discu
 Mr Joseph’s hero-worship of both men sometimes undermines his effort to demystify the opposition between them. The book is at its best when it treats them pragmatically, as two leaders with different inclinations and separate power bases but sometimes convergent interests. Turning them into icons itself plays into the tendency to sort black leaders into angry radicals and compromising moderates, a habit Mr Joseph means to critique.
 
 This tendency is as old as racial oppression in America, which is to say as old as the nation. To some extent, it is driven by fear. Consciously or otherwise, some whites fear the history of white supremacism is unforgivable. For their part, many black Americans think racism is ineradicable (according to a survey by Pew last year, half of black adults consider it unlikely that racial equality will ever be achieved). On that painful view, moving on means living with discrimination. Thus some whites wonder if black politicians despise them; blacks sometimes ask if they have sold out. It may have been inevitable that the leaders of the civil-rights movement came to be judged along these enduring lines. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/05/21/a-twin-biography-retells-the-story-of-the-civil-rights-movement

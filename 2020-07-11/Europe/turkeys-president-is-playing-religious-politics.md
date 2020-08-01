@@ -29,3 +29,7 @@ All this comes at a high cost to Turkey’s reputation abroad as a relatively op
 That may indeed be part of the plan. A good dust-up with foreign powers generally plays well in Turkey these days. But the damage Mr Erdogan will do to his country’s image by pushing ahead with his idea may well be irreparable. ■
 
 Editor’s note (July 10th 2020): This story was updated to include the news that a Turkish court had ruled that it was permissible for the government to convert Hagia Sophia from a museum to a mosque.
+
+## URL
+
+https://www.economist.com/europe/2020/07/11/turkeys-president-is-playing-religious-politics

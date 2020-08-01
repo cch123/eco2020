@@ -23,3 +23,7 @@ In acquiescing, the Germans join the Swiss, Estonians and Austrians. All these c
 There is, of course, no general requirement for private firms to tune their products to the preferences of governments. A road-builder would not be expected to craft highways out of Gruyère simply because a democratically elected government asked it to. The Apple-Google decentralised protocol is the right choice when it comes to privacy. Once enabled, the centralised collection of contact data would have been open to abuse from less scrupulous governments. Yet the pandemic has highlighted the core role that digital systems play in human life. That important decisions about them seem to be made beyond the reach of democratic governance is worrying for some. For now, nations have more pressing matters to attend to. But having the terms of apps designed to help the public dictated to them by Silicon Valley is likely to irk many European governments. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/04/30/some-countries-want-central-databases-for-contact-tracing-apps

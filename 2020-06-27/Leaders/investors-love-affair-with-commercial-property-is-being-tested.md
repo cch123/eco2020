@@ -27,3 +27,7 @@ Savers and the fund trustees who represent them should follow two tracks. The fi
 The bigger task is for investors to embrace the restructuring that must take place. Hotels may need to become apartment blocks; malls may need to be reincarnated as e-commerce-fulfilment centres; and office blocks may need to be refurbished so that desks are farther apart. All of this involves not sitting on properties and milking them for rent, but reinvesting in them and, often, selling them to different owners. That holds open the potential for greater efficiency, but also for fee-skimming and unnecessary losses if unaltered buildings are sold off cheaply.
 
 Property has long been a slow-moving asset class because leases last for years and tenants normally change their behaviour only gradually. Landlords and their financial backers have thus got used to a business that moves at a glacial pace. For two decades a reliably easy way to make money has been to buy a commercial building and go to sleep. Time to wake up.■
+
+## URL
+
+https://www.economist.com/leaders/2020/06/27/investors-love-affair-with-commercial-property-is-being-tested

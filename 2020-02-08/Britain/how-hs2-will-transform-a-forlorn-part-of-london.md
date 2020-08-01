@@ -17,3 +17,7 @@ Partly because the station has blighted the area, Somers Town—jammed between E
 The plan imagines green spaces, housing, offices and retail above the new station, as well as building over exposed, below-street-level tracks that extend north for nearly a mile. It foresees bringing back the ancient street pattern to reconnect Somers Town and Regent’s Park with pedestrian and cycle routes over the roofs of the stations. Camden council has experience in such matters. The redevelopment of King’s Cross, a nearby station, transformed a huge chunk of derelict land into a vibrant quarter of the city. Google is building its London headquarters there.
 
 Like that project, Euston will involve multiple agencies, ministries and companies working together. Unlike it, Euston will prioritise what Danny Beales, a Camden councillor, calls “inclusive retail”—or shops that sell things Somers Town residents can actually afford. King’s Cross may be great for boutiques, but it is rubbish for daily necessities. If all goes to plan, few will lament the disappearance of 20th-century Euston, as they did the 19th-century version.
+
+## URL
+
+https://www.economist.com/britain/2020/02/06/how-hs2-will-transform-a-forlorn-part-of-london

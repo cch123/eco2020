@@ -17,3 +17,7 @@ Investor optimism derives in large part from the prospect of rapid growth in Chi
 Regulators have already intervened on behalf of China Tobacco, which paid 1.2trn yuan in taxes last year, accounting for 6% of government revenues. In November the authorities banned online sales of e-cigarettes (ostensibly to prevent minors from buying them). Now they can be bought only at physical outlets like convenience stores and karaoke bars. In recent months editorials in state-owned newspapers have claimed (falsely) that vaping is more harmful than conventional cigarettes. A spokesman for the Electronic Cigarette Industry Committee of China, a trade body, blames the online ban for a wave of bankruptcies among smaller firms.
 
 Bigger names like Smoore and RELX, both based in Shenzhen, face another problem. China Tobacco has already opened a lab in Shanghai to research e-cigarettes. If it concludes that vaping is here to stay, it too may get in on the action. It boasts a nationwide network of retail stores, and adding a new product to the mix would not be difficult. Cannibalising sales of ciggies may seem sensible if the alternative is losing millions of customers to rivals. ■
+
+## URL
+
+https://www.economist.com/business/2020/07/23/a-state-tobacco-monopoly-looms-over-chinas-e-cigarette-makers

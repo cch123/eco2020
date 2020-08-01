@@ -35,3 +35,7 @@ Only 0.33% of all official overseas aid is allocated to statistics, and even tha
 Better data allow governments to make better decisions. James Hollyer of the University of Minnesota and others have found that democracy is more likely to thrive when voters have good information. This boosts foreign direct investment, too.
 
 The fight against covid-19 further highlights the importance of having good data everywhere. In Africa, the word of gravediggers too often seems more reliable than that of governments. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/05/07/lacking-data-many-african-governments-make-policy-in-the-dark

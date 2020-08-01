@@ -27,3 +27,7 @@ Tony Fernandes stepped aside as chief executive of  AirAsia for at least two mon
 The American economy grew by 2.3% last year. That was the slowest pace since 2016 but around the annual average since the global financial crisis of 2007-09. An initial estimate found that the euro zone’s GDP grew by 1.2% in 2019, the weakest rate since 2013. See [article](https://www.economist.com//business/2020/02/06/after-a-nervy-year-america-inc-has-a-bounce-in-its-step).
 
 It was a hairy week for the razor industry, as the Federal Trade Commission launched a bid to block the proposed takeover of Harry’s, an online supplier of shaving gear, by Edgewell, which owns the Schick and Wilkinson Sword brands. The FTC described Harry’s as a “uniquely disruptive competitor in the wet shave market” that has broken the duopoly of Edgewell and Procter & Gamble’s Gillette. Harry’s co-founders bristled at the decision; they believe the acquisition should go ahead.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/02/08/business-this-week

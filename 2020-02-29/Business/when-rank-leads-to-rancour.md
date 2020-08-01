@@ -31,3 +31,7 @@ The Economist is a genuinely co-operative place (although Bartleby is locked in 
 In “Glengarry Glen Ross” two of the salesmen conspire to rob the office, steal some of the best sales leads and sell them to a rival business. If you set up a dog-eat-dog system, you risk having the hounds turn around and bite their owner.
 
 * “Rivals without a cause? Relative performance feedback creates destructive competition despite aligned incentives”
+
+## URL
+
+https://www.economist.com/business/2020/02/27/when-rank-leads-to-rancour

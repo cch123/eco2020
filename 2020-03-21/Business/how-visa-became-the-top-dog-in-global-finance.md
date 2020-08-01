@@ -27,3 +27,7 @@ Some countries are exploring alternative tracks. Bank-to-bank transfers, which u
 The last threat looms in cyberspace. So far, “fintech” payments startups like Square or Stripe shunt transactions onto Visa’s rails rather than offer a new set of tracks. Apple Pay and Google Pay are little more than a plastic-less way to store your Visa and Mastercard. Facebook’s more ambitious attempt to mint a digital currency, called Libra, has stalled. But Silicon Valley’s vast user base could in principle get around the chicken-and-egg problem, as China shows. Tencent and Alibaba used a huge social-media platform and an online emporium, respectively, to bootstrap payments systems. Amazon could do the same, especially now that Visa has said it would start charging the e-commerce giant higher card fees in its American online stores.
 
 Visa still has plenty of transactions to chase. At a time of social distancing, contactless payments and online shopping look more appealing than filthy banknotes or crowded supermarkets. Banks continue to tolerate it, not least because they receive the bulk of the fees merchants are charged for every Visa transaction. Its revenues of about $7 per card a year are not enough to spark consumer outrage. And it works; its systems are down just 0.001% of the time. Until a rival emerges that is literally everywhere consumers want to be, Visa will be hard to dislodge from its cosy perch.■
+
+## URL
+
+https://www.economist.com/business/2020/03/21/how-visa-became-the-top-dog-in-global-finance

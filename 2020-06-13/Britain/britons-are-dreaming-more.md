@@ -21,3 +21,7 @@ Weird dreams are normal during and after periods of collective trauma. Researche
 When life does eventually return to normal, with children to feed and clothe and drop off at school, and trains and buses to catch to work, Britons can expect to sleep less and dream less, and to remember their dreams less. But there are things they can do to improve their sleep, like keeping to a routine and avoiding phones before bed. And there are things employers can do to ensure their workers are well rested, and therefore more productive, too. Dr Foster suggests replacing high-sugar snacks with small protein-rich ones and lighting offices brightly enough to match employees’ circadian rhythms. For many of the nation’s tired workers, a good night’s sleep would be a dream come true. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/06/11/britons-are-dreaming-more

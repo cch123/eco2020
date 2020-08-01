@@ -35,3 +35,7 @@ Mr Liu says that his firm sees fewer and fewer face-recognition labelling tasks 
 Without this data-labelling infrastructure, China’s AI services would not have taken off. Labelling services like MBH are what have allowed Alibaba to create a powerful machine-learning service like Taobao’s image-based product search. An Alibaba shopper can take a photo of an item in a shop window and immediately be steered to a page where they can purchase it. Alibaba processes a billion images like this a day. It also relies on labelled data for the machine-learning algorithms that are used in its retail stores, which operate under the brand Hema. Cameras installed throughout the glitzy new supermarkets track shoppers around the store and identify the products they take off the shelves.
 
 Masses of labelled data don’t just make for powerful machine-learning software. By studying the inner workings of the software, microprocessor architects can concoct powerful new chips designed specifically to run machine-learning tasks. China’s digital infrastructure has produced some of the world’s most powerful such systems. Now those systems are producing, in turn, AI chips that are competitive with the best Silicon Valley has to offer. ■
+
+## URL
+
+https://www.economist.com/technology-quarterly/2020/01/02/chinas-success-at-ai-has-relied-on-good-data

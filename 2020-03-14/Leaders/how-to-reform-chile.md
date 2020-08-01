@@ -25,3 +25,7 @@ Is a new constitution essential to achieve these changes? It has been a device o
 That is not to deny the risks. On April 26th Chileans will vote not just on whether to set up the constitutional convention but also on whether this should be wholly elected or composed partly of existing legislators. The new body may suffer from inexperience. Many recent Latin American constitutions have been prolix and Utopian, stuffed with unaffordable “rights” and spending promises. But Chile has safeguards. Unless the new document is approved by a two-thirds vote of the assembly and then in a referendum, the existing constitution will remain.
 
 Above all, the convention offers Chile a path out of its labyrinth. The new constitution should embody a new social contract. It should remove the obstacles to reforming the police, providing universal health care and regulating private universities. A healthier, better-educated population would be more productive. A stronger safety-net would encourage workers to be more flexible. A new basic law could give Chile a fresh start—and Latin America a new model from which to learn. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/03/12/how-to-reform-chile

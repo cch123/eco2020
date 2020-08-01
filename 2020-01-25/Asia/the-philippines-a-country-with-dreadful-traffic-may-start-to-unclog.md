@@ -25,3 +25,7 @@ Public-private partnerships are also being used. More than a quarter of big proj
 The government says that by the middle of 2022 roughly half of the 100 “Build, Build, Build” projects should have been completed. Kelly Bird of the ADB says even finishing 30 would make the programme “hugely successful”. Filipinos are well aware of Mr Duterte’s efforts. A survey by Pulse Asia, a pollster, in December found that 69% of respondents thought his government was doing a “better” job of developing infrastructure than its predecessor.
 
 Obstacles will mount as Mr Duterte nears the end of his time in office, however, and his political power begins to ebb. And once he steps down there is no certainty that his successor will complete his plans. New presidents in the Philippines often kill projects initiated by their predecessors. In 2011 Benigno Aquino, the president of the day, cancelled 66 of 72 car-ferry ports planned by the previous president, Gloria Arroyo, alleging corruption. With luck, though, Mr Duterte’s successor will see the benefit in inheriting dozens of partially constructed projects and a host of shovel-ready ones. A bulging pipeline of sensible projects could prove as important a legacy as the infrastructure Mr Duterte actually manages to build. ■
+
+## URL
+
+https://www.economist.com/asia/2020/01/25/the-philippines-a-country-with-dreadful-traffic-may-start-to-unclog

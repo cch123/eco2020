@@ -25,3 +25,7 @@ Indians themselves seem to think the lockdown is sensible. A poll conducted by t
 Indeed, the government may be the one unquestionable beneficiary of the policy. Before covid-19 it faced mounting discontent over the weak economy, as well as protests over policies that were seen as an assault on secularism. But then the epidemic forced protesters off the streets, and saved the government’s face when it suspended a controversial tally of citizens that might have prompted further unrest. And now, of course, all India’s economic troubles, including those resulting from bad government policies, can be blamed on a deadly virus from China. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/asia/2020/04/23/indias-lockdown-has-brought-unexpected-benefits

@@ -27,3 +27,7 @@ In response, statisticians are making quick fixes. In America the output of publ
 Many are also looking to make more drastic changes by incorporating “real-time” data. Timely figures ranging from restaurant reservations to prices on Amazon are already widely used by private-sector economists. Institutional inertia and tight budgets had led many statistics offices to shun them; now they have little choice but to experiment. A handful of those in the European Union are using credit-card data to help measure GDP. In place of the survey of international travellers, the ONS is looking at passenger numbers from the aviation regulator, ferries and the Eurostar—as well as meteorological data. Other statisticians are scraping web pages. Things are tough now, but the wonks could emerge from the pandemic with a better understanding of how the economy really works. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/05/30/the-pandemic-could-lead-statisticians-to-change-how-they-estimate-gdp

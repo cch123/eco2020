@@ -2,15 +2,15 @@
 
 # Politics this week
 
-> Jul 23rd 2020
+> Jul 25th 2020
 
-After intense wrangling, the heads of government in the European Union agreed to a €750bn ($869bn) stimulus package. The negotiations were even more tricky than usual, though the outcome was hailed as a breakthrough. It is the first time the EU as a bloc will issue bonds on a huge scale to back stimulus, spreading the fiscal risk among all member countries. See [here](https://www.economist.com//node/21790050) and [here](https://www.economist.com//leaders/2020/07/25/europes-eu750bn-rescue-package-sets-a-welcome-precedent). 
+After intense wrangling, the heads of government in the European Union agreed to a €750bn ($869bn) stimulus package. The negotiations were even more tricky than usual, though the outcome was hailed as a breakthrough. It is the first time the EU as a bloc will issue bonds on a huge scale to back stimulus, spreading the fiscal risk among all member countries. See [here](https://www.economist.com//europe/2020/07/21/the-eus-leaders-have-agreed-on-a-eu750bn-covid-19-recovery-package) and [here](https://www.economist.com//leaders/2020/07/25/europes-eu750bn-rescue-package-sets-a-welcome-precedent). 
 
 A long-delayed report into Russian interference in British political life was published by Parliament’s intelligence and security committee. The report stated that the threat from Russia was more embedded, and has been a problem for longer, than previously thought. Russian interference is seen as the “new normal”. It said the government is playing catch-up, especially in cyber-espionage, in which Russia is a “highly capable” adversary. See [article](https://www.economist.com//britain/2020/07/25/russian-interference-highlights-britains-political-failings). 
 
 Iran’s president, Hassan Rouhani, said that as many as 25m Iranians, nearly a third of the population, have been infected with covid-19 since the beginning of the outbreak, and that the situation is getting worse. Restrictions have been reimposed in many cities.
 
-Israel banned indoor gatherings of ten or more people and shut some businesses. The country appeared to have contained the coronavirus earlier this year. Thousands of Israelis protested against the government’s handling of the outbreak and alleged corruption by Binyamin Netanyahu, the prime minister. See [article](https://www.economist.com//middle-east-and-africa/2020/07/25/binyamin-netanyahu-boasted-too-soon-of-defeating-the-coronavirus). 
+Israel banned indoor gatherings of ten or more people and shut some businesses. The country appeared to have contained the coronavirus earlier this year. Thousands of Israelis protested against the government’s handling of the outbreak and alleged corruption by Binyamin Netanyahu, the prime minister. See [article](https://www.economist.com//middle-east-and-africa/2020/07/23/binyamin-netanyahu-boasted-too-soon-of-defeating-the-coronavirus). 
 
 The United Arab Emirates successfully launched the Arab world’s first mission to Mars. Its Al Amal probe is expected to reach the red planet by next February and then orbit it for 687 days (a Martian year), gathering data about its atmosphere. It is the first of three international missions to Mars this summer.
 
@@ -50,4 +50,8 @@ Argentina began easing restrictions it imposed in March at the start of its lock
 
 The Bahamas banned most tourists from entering the islands either by air or sea. Visitors who test negative from Britain, Canada and the EU will still be allowed in, though Americans are by far the biggest group of visitors.
 
-With infections soaring in the United States, Donald Trump urged Americans to wear face masks, calling it “patriotic”. See [article](https://www.economist.com//united-states/2020/07/25/the-geometry-of-the-pandemic-in-america). 
+With infections soaring in the United States, Donald Trump urged Americans to wear face masks, calling it “patriotic”. See [article](https://www.economist.com//united-states/2020/07/23/the-geometry-of-the-pandemic-in-america). 
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/07/25/politics-this-week

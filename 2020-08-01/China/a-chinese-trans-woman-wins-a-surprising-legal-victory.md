@@ -17,3 +17,7 @@ It was not just the verdict that was surprising. The court also called for “to
 Though there are still few legal protections, being gay is now much more accepted in Chinese cities. But being trans is still difficult, not least because of the many requirements for changing your legal gender, one of which is undergoing full reassignment surgery. That can cost 100,000 yuan ($14,200). A person must also notify—and effectively seek permission from—their family, as well as be over the age of 20, unmarried, and heterosexual according to their self-identified gender. A recent survey found that only 15% of people who said they were transgender had undergone reassignment surgery, the most common obstacle being cost.
 
 Official media rarely discuss transgender issues, though they did report on a recent blogpost by J.K. Rowling, author of the Harry Potter books. The blog was criticised by many trans activists (and applauded by many feminists) in the West. It was good for transgender people in China, says Alex, the LGBT worker. “No matter if it’s positive or negative, it helps us to be seen.”■
+
+## URL
+
+https://www.economist.com/china/2020/07/30/a-chinese-trans-woman-wins-a-surprising-legal-victory

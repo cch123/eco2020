@@ -31,3 +31,7 @@ It would be ridiculous to expect insurers to underwrite all of the losses result
 Various schemes are being floated. One idea, being discussed by American lawmakers, is for the government to cover some losses. Another, backed by Lloyd’s, is for insurers to pay into a kitty, and for states to bear losses when the pot is exhausted. As the kitty grows, the threshold for public action rises. An additional proposal would encourage companies to sign insurance contracts lasting 10-15 years, instead of the usual one year, with states guaranteeing premium payments if businesses go bust. This would help insurers amass firepower to cover big events over the period, knowing that customers will not leave in between. The solutions could help the industry insure against other systemic risks, such as climate change.
 
 Plenty of thorny questions remain—whom to cover, and how much; how to encourage firms to buy insurance, rather than to expect bail-outs. But if they can answer these, insurers could be a bigger part of the solution to the world’s next crisis. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/07/18/the-threat-of-irrelevance-spurs-insurers-to-consider-new-ideas

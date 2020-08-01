@@ -59,3 +59,7 @@ To boost loyalty, Meituan has created a category call lepao, or happy runners, w
 In the long run, riders are unlikely to be satisfied. Pun Ngai of the University of Hong Kong says they risk becoming “trapped in the middle”—unable to move forward in urban life and unwilling to retreat to a rural one. Asked, pre-covid, why he had recently travelled 1,700km from his home in the western province of Gansu to Shanghai, a newly arrived waimai xiaoge replied, beaming: “Everyone likes a big city.” He paused. “But you can’t do this for ever. You need to do something that gives you a way up.” Contacted recently, he said he had quit. “Too tiring,” he grumbled. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/china/2020/04/03/delivery-apps-have-transformed-urban-life-in-china

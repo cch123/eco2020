@@ -41,3 +41,7 @@ Chinese officials may take advantage of the lull in building-work to think again
 If done right, without drowning countries in debt, BRI projects may yet provide a welcome boost to the global economy. Before the pandemic the World Bank estimated that BRI transport projects in Asia, including high-speed railways, would boost the GDP of participating countries by up to 3.4% overall. Some of those rail projects have stalled, and China is now preoccupied with its own hard-hit economy. But Daniel Rosen of Rhodium Group, a research firm, argues that China’s policy banks have ample capacity to maintain the present level of BRI lending. It just is not economically prudent for them do so, especially before a global recovery is on track.
 
 When that happens, the BRI may revert to its original focus. And many countries in desperate need of better infrastructure will welcome this. They have few other options. In November America, Japan and Australia announced an alternative to the BRI called the “Blue Dot Network” to fund infrastructure projects in the developing world. But, as with multilateral lenders such as the World Bank, the financial muscle behind it looks puny in comparison. “The BRI has the best promise of meeting the glaring infrastructure gaps in the global economy,” Mr Gallagher says. “There’s no global infrastructure surge without the BRI.” But for the moment, that boost will have to wait. ■
+
+## URL
+
+https://www.economist.com/china/2020/06/04/the-pandemic-is-hurting-chinas-belt-and-road-initiative

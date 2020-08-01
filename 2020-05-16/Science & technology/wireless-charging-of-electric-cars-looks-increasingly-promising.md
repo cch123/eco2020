@@ -27,3 +27,7 @@ Other companies are producing wireless-recharging systems which use various form
 Wireless recharging of electric trucks is also coming. In February, a team led by Omer Onar at the Oak Ridge National Laboratory, in Tennessee, demonstrated a 20 kilowatt set-up that thus takes three hours to recharge the 60-kilowatt-hour battery pack in a hybrid UPS delivery truck. The team have also developed a 120 kilowatt fast-charger, which Dr Onar says would be capable of wirelessly charging electric cars at a similar rate to a Tesla Supercharger, one of the fastest plug-in systems available.
 
 Crucially, as did not happen for plug-in vehicles, standards are being developed that should, at least in theory, permit any suitably equipped electric vehicle to use any wireless charger. China recently ratified a set of national criteria similar to those being developed and promoted by industry groups in the West, including WiTricity. As China has been one of the countries most forcefully pushing the electrification of vehicles, its clout in the marketplace might ensure that most companies, foreign ones included, keep to the standards it has set. ■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/05/14/wireless-charging-of-electric-cars-looks-increasingly-promising

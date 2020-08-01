@@ -19,3 +19,7 @@ Several strains of the theory have emerged. One is that 5G weakens immune system
 The theories have spread like wildfire in Africa, America and Europe, says Hanna Linderstal of Earhart, a security and risk-management firm, with Europeans the most enthusiastic proponents. Last week, they led to literal fires: mobile networks’ tower masts were set alight in Birmingham and Merseyside. Workers laying fibre-optic cable have been harassed in the street.
 
 Ms Linderstal analysed dozens of videos on social-media platforms. Many of them contain “expert advice” on “how you cure the virus with cold air and move away from 5G antenna or even destroy the 5G antenna to save your family”. Though the videos’ origins are unclear, the people spreading them are mostly worried rather than malign, she says. Yet at a time when Britons are stuck at home and unusually reliant on mobile networks and broadband to connect to the outside world, the actions of a small group of scared citizens risk causing real harm—unlike the tower masts they are burning down.
+
+## URL
+
+https://www.economist.com/britain/2020/04/08/how-5g-conspiracy-theories-used-covid-19-to-go-viral

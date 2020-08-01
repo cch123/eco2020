@@ -75,3 +75,7 @@ A big worry is what happens to the brain. Sherry Chou of the University of Pitts
 The mere fact of being in an ICU can also lead to cognitive impairment. The effect of more than a week in intensive care is comparable to that of a major head injury. The problems are linked to the delirium people often fall into when severely ill and heavily sedated in an unfamiliar environment. Delirium is a particular problem with covid-19, says Dale Needham of Johns Hopkins University. Patients spend a long time in the ICU during which they see no one they know—and the strangers caring for them in heavy-duty protective wear “look like aliens”.
 
 Patients who have come through ARDS may also suffer from anxiety and post-traumatic stress disorder. It all adds up to a bleak prospect. In 2017 a study in the Baltimore-Washington area found that a third of previously employed patients who survived ARDS were not back at work five years on. Covid-19 will cast as long a shadow over some survivors’ lives as it will over those who mourn the dead. ■
+
+## URL
+
+https://www.economist.com/briefing/2020/06/06/how-sars-cov-2-causes-disease-and-death-in-covid-19

@@ -23,3 +23,7 @@ Cool calculation would also reveal to professionals a second reason for hanging 
 The pleasure which professionals take in practising their new crafts may not be shared by those condemned to consume their output. No doubt their nearest and dearest will assure them that the density of the bread lends it gravitas and the tufts in the haircut originality; but such assurances should be taken as a measure not of the quality of the product but of love for the producer. These caring kith and kin deserve the best, and professionals who persist in making second-rate stuff for their own satisfaction are not providing it.
 
 Bankers who want to be really good bakers can give up their day jobs and take it up full time, but as their loaves rise, so their incomes will fall. Which raises one of the great questions in life: cash or craft? Dough or dough?■
+
+## URL
+
+https://www.economist.com/leaders/2020/07/09/sourdough-economics-no-need-to-knead

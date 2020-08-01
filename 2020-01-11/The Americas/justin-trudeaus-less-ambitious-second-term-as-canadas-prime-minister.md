@@ -31,3 +31,7 @@ Now the debt cap is at risk. The finance ministry predicts that the ratio of deb
 Though more sober, Mr Trudeau has no reason to be despondent. The finance ministry expects economic growth to remain modest, a little below 2%, but not to stall over the next two years. Business investment, which dropped by 10% during Mr Trudeau’s first term, will recover because the United States has agreed to a revision of NAFTA, Mr Morneau believes.
 
 Mr Trudeau has political breathing room. The opposition Conservative Party has dropped its leader, Andrew Scheer, and will not replace him until June. The NDP is unlikely to challenge the government strongly; it will not want to provoke a new election while its coffers are empty. The Bloc Québécois downplayed its separatism during the election and is expected to support the government on most votes. If Mr Trudeau celebrates, he will do it quietly.■
+
+## URL
+
+https://www.economist.com/the-americas/2020/01/09/justin-trudeaus-less-ambitious-second-term-as-canadas-prime-minister

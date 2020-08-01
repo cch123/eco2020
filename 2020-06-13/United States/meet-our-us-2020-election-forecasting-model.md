@@ -67,3 +67,7 @@ But just as it was wrong to count Mr Trump out four years ago, it is wrong to re
 This time, history suggests that the electorate will punish an unpopular incumbent saddled with a depressed economy, and voters are currently telling pollsters they plan to do just that. What Mr Biden needs to do is run out the clock. ■
 
 Dig deeper:
+
+## URL
+
+https://www.economist.com/united-states/2020/06/11/meet-our-us-2020-election-forecasting-model

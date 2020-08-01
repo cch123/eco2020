@@ -37,3 +37,7 @@ If the vaccine works, governments will have to decide who should get it first. I
 Boris Johnson has called the race for the vaccine “the most urgent shared endeavour of our lifetimes”. It is not, he insists, “a competition between countries”. But he would no doubt be delighted if the world’s first vaccine came from Oxford. Aside from extricating the world from a crisis, such a triumph would go some way to mitigating the blow to Britain’s international reputation dealt by the government’s poor management of the epidemic.■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/07/02/oxford-university-is-leading-in-the-vaccine-race

@@ -37,3 +37,7 @@ In an era and a country in which surveillance, censorship and humiliation were t
 He introduced the piece as “an excerpt from Wilson’s tragedy, ‘The City of the Plague’.” Set in London during the pestilent summer of 1665, Wilson’s play paints a morbid picture of an empty city traversed by “a miserable cart/Heap’d up with human bodies”. Pushkin, however, focused on a single scene, in which a group of youngsters carouse in a spontaneous street party and toast a deceased friend. The centrepiece is a hymn of Pushkin’s own devising, dedicated by the “master of revels” to the plague, which has already claimed the character’s wife and mother:
 
 When his confinement was over, the poet finally married Natalia. In 1837, after his brother-in-law tried to seduce her, Pushkin would be killed in a duel. But he did not have a death-wish, exactly—rather, the proximity of death made him feel alive. When a second wave of cholera struck in 1831 Pushkin was on honeymoon in an idyllic imperial residence near St Petersburg. From there he wrote again to Pletnev, who was succumbing to depression:
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/06/04/for-alexander-pushkin-lockdown-was-liberating

@@ -29,3 +29,7 @@ Hong Kong is already feeling the chill. Just before the law was passed, Joshua W
 Despite a police ban on protests on July 1st, and the risk of breaking the new law, thousands of people still gathered to protest. Elderly women handed out posters saying “Heaven will destroy” the Communist Party. But the number of demonstrators was far smaller than at many of last year’s protests. The police arrested 370 participants. At least ten were accused of violating the security bill, including a man caught with a pro-independence flag.
 
 China will try to make sure that Hong Kong continues to prosper, not least by pumping up its stockmarket. Shut out of American stockmarkets amid Sino-American tensions, Chinese firms are increasingly turning to Hong Kong’s exchange to list. The share index rose by more than 2.8% on July 2nd, the first day of trading after the law was published. But the territory’s political future is bleak. The local government says it has spent $6.29m to retain a public-relations company to help a “Relaunch Hong Kong” campaign. Its choice was Consulum, a firm that has tried to help Saudi Arabia improve its authoritarian image. It will have its work cut out in Hong Kong. ■
+
+## URL
+
+https://www.economist.com/china/2020/07/02/a-new-national-security-bill-to-intimidate-hong-kong

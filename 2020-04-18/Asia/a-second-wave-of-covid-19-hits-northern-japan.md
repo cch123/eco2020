@@ -21,3 +21,7 @@ But the number of new cases began rising again, from 198 on April 7th to 296 on 
 Pollsters say 95% of locals supported Mr Suzuki’s first state of emergency in February. His approval rating hit 88% in early April. The public disapproves, meanwhile, of the national government’s delay in following suit. Hokkaido’s new state of emergency is due to end on May 6th, in line with the one the prime minister, Abe Shinzo, declared in six prefectures in early April. That, says a bureaucrat in Hokkaido, “is probably too optimistic”. He should know.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/asia/2020/04/16/a-second-wave-of-covid-19-hits-northern-japan

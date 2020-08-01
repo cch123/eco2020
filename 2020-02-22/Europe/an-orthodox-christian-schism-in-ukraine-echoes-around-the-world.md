@@ -25,3 +25,7 @@ Greece’s foreign minister, Nikos Dendias, insisted on February 6th that effort
 Russo-Greek rumblings are affecting parts of Greece where pious Russians venerate holy sites. The Patriarchate of Moscow has published a list of Greek dioceses, including Athens, which Russian pilgrims have “no blessing” to visit. These are the areas whose local bishops have signalled support for the new church in Ukraine.
 
 In Ukraine itself, some ordinary churchgoers feel less passionate about the split than their spiritual masters do. A recent poll (excluding the Russian-held areas) found that 34% of Ukrainians identify with the new independent Orthodox church and 14% with the Moscow-aligned one. Another 28% say they are simply Orthodox and refuse to pick sides. ■
+
+## URL
+
+https://www.economist.com/europe/2020/02/20/an-orthodox-christian-schism-in-ukraine-echoes-around-the-world

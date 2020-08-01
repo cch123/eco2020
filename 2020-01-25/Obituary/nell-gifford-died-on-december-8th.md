@@ -25,3 +25,7 @@ People still wondered why she had plunged into circus so entirely. It was, after
 For circus was also family. She felt safe and at home there, being by the horses, in her community, in her tribe. And it was through families that circus was passed down. So when in 1999 she and Toti wrestled with names for theirs, “Giffords” came to seem obvious. Here was her multilingual travelling world of Cuban strongmen, Ethiopian jugglers, Italian acrobats and even a dashing Hungarian rider, Attila, in his glorious indigo robes—all helping, when necessary, to babysit her twins, Cecil and Red, or cook up a pot of supper, or give a wagon a strong shove out of the mud.
 
 She needed them, too, when the cancer struck, not that she intended to slow down for a minute. If she felt tired at Giffords she would paint vivid watercolours of circus scenes, or recline on her day-bed to watch rehearsals. When her blonde hair fell out she liked the boyish cropped look, which went well with the dashing outfits she copied from her Cossack riders. Or she could wear, as she did in the ring last summer, a flowing wig crowned with flowers to complement her long white dress and her wonderful white stallion, a queen of circus, not about to fade away. ■
+
+## URL
+
+https://www.economist.com/obituary/2020/01/25/nell-gifford-died-on-december-8th

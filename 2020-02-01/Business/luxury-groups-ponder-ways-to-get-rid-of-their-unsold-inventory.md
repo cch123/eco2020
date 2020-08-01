@@ -23,3 +23,7 @@ None of this will be enough to get rid of an outmoded collection—or diminish t
 The concept is booming. Out of an estimated €281bn in personal-luxury sales last year, €37bn were in such physical off-price stores, according to Bain, a consultancy. The figure has shot up by 85% in five years. But using the outlets for anything beyond liquidating inventory—for example by stocking them with cheaper, second-tier collections—is a way to dent a brand’s cachet permanently, warns Mr Solca. Best to keep only the most questionable styles and weirdest sizes in stock, and to push a brand’s real aficionados to Regent Street or Avenue Montaigne.
 
 Two things may come to the rescue of exasperated inventory liquidators. The first is the rise of second-hand-clothes sales online: expect to see many “used” frocks on offer that are in fact brand new. The second is “up-cycling”, when an unsold dress gets trimmed, combined and dyed into a new fabulous outfit. For luxury brands, these two trends are unmissable.■
+
+## URL
+
+https://www.economist.com/business/2020/01/30/luxury-groups-ponder-ways-to-get-rid-of-their-unsold-inventory

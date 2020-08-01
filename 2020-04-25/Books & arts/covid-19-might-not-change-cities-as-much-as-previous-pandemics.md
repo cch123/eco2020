@@ -49,3 +49,7 @@ History suggests that it is foolish to bet against big cities. Repeated terrible
 If covid-19 can be run to ground in a couple of years, the urban fabric might not change much. Plague, cholera and tuberculosis worked on cities slowly. They forced change because people believed they would return or never leave. By contrast, many people hope that coronavirus will be defeated fairly quickly. In the first country it attacked, some urban adaptations have already been undone. In China many apartment blocks acquired shelves where delivery drivers could leave food and other goods. Almost as soon as the lockdowns lifted, they were taken down. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/04/25/covid-19-might-not-change-cities-as-much-as-previous-pandemics

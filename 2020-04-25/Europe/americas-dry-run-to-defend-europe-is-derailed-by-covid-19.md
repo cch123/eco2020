@@ -25,3 +25,7 @@ Even so, under current EU rules it could still take a leisurely five days to iss
 “Scaling back Defender 20 is really a lost opportunity to effectively test that logistical knowledge of Europe’s infrastructure,” says Mr Lété. The planning efforts “were a huge success”, insists Rear-Admiral Pete Stamatopoulos, the director of logistics for US European Command. But only 6,000 or so American troops had arrived in Europe when the plug was pulled. The fact that America was prepared to spend hundreds of millions of dollars in an election year on an exercise is a sign of commitment and a signal to the Kremlin, says General Hodges. But whether American troops could get east in a hurry remains unproven. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/04/23/americas-dry-run-to-defend-europe-is-derailed-by-covid-19

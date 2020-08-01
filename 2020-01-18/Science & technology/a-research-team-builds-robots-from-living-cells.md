@@ -29,3 +29,7 @@ For xenobots to have a practical future, though, someone will have to find a les
 The new organisms could also do with upgrading in certain ways. At present, for example, they have short lives—a couple of weeks at most. This is because they do not have any apparatus for feeding themselves. In one sense that is a good thing, for it soothes fears about safety. If a bot should escape it would expire at the end of its allotted time and, being made simply of frog cells, would be biodegradable and non-toxic. But because longer-lived bots would be more useful, the researchers are looking at ways to extend their creations’ lives.
 
 A more controversial suggestion is to equip xenobots with reproductive systems—perhaps as simple as allowing them to divide themselves in two, in the way that flatworms can. This would help any application that required a swarm of the critters. It might also, though, raise concerns about escapees establishing themselves in the wild. All this, says Dr Bongard, means it will be necessary to work with policymakers to decide how the production of future life forms, as useful as they might be, might be regulated. ■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/01/16/a-research-team-builds-robots-from-living-cells

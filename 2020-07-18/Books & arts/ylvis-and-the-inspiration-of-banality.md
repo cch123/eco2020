@@ -17,3 +17,7 @@ Much of Ylvis’s comic appeal lies in the way they treat everyday, even banal, 
 “Jan Egeland”, a rock track with thundering electric guitars and falsetto vocals, pays tribute to a Norwegian diplomat involved in the Oslo accords. The country-inflected “Massachusetts” is a tongue-in-cheek ode to America’s 15th-most-populous state (it angered some Bay Staters by suggesting that they were homophobic). “Russian Government Process”, in the style of a traditional folk song, pokes fun at that country’s opaque bureaucracy—as the music increases in tempo, the list of instructions becomes harder to understand.
 
 Bard says the pair have “an appetite for all sorts of genres”. They have also written lampoons of sultry R’n’B (“The Cabin”), misogynistic hip-hop (“Work It”) and dubstep (“Someone Like Me”). Besides their sheer range, what sets Ylvis apart from other comedy groups is the catchiness of the melodies and the brothers’ versatile and prodigious talents. You will try—and fail—to hit their high notes in the shower. In these dull, repetitive days, their work is a heartening reminder that even anodyne things can be a source of inspiration. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/07/18/ylvis-and-the-inspiration-of-banality

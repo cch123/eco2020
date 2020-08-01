@@ -29,3 +29,7 @@ In its first forecast for 2021, the International Energy Agency said that demand
 In a rare admission of corporate wrongdoing on homicide-related charges, PG&E pleaded guilty to 84 counts of involuntary manslaughter in relation to the Camp Fire disaster in California two years ago. The electric utility’s faulty equipment sparked the inferno. Its chief executive (who was not in charge at the time of the fire) pled guilty to each one of the deaths of the 84 victims of the fire as their names were read out alphabetically. The company is soon to exit bankruptcy protection.
 
 Hertz postponed a sale of new shares after the Securities and Exchange Commission raised objections. A judge had earlier allowed the sale to proceed, an unprecedented ruling for a company that has filed for bankruptcy protection. The car-hire company had warned potential buyers of the stock that they stand to lose their shirts unless there is a significant and “currently unanticipated improvement” in its business, which has been hammered by the pandemic.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/06/18/business-this-week

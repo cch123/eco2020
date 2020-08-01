@@ -25,3 +25,7 @@ Mr Xi may find it hard to choose his moment to declare complete success. As peop
 In Wuhan, Mr Xi was careful not to sound triumphant. “Through arduous efforts, there has been a positive turn for the better in epidemic containment in Hubei and Wuhan. Important interim results have been achieved,” he said. But he also said there should be “no slackening at all” in anti-virus work. That will not be music to the ears of people in Wuhan and many other parts of China where draconian quarantine measures may have helped to curb the epidemic, but at no small cost, not least for firms and people in need of medical care unrelated to covid-19. ■
 
 Dig deeper:
+
+## URL
+
+https://www.economist.com/china/2020/03/12/china-appears-confident-that-its-coronavirus-epidemic-has-abated

@@ -29,3 +29,7 @@ Mr Macron can hardly take credit for all of this. France’s economy outperforme
 All this should help Mr Macron improve his dismal approval ratings. Yet in January they fell another four points to 30%, according to Ifop, a pollster. The president has struggled to shake off a reputation for arrogance and for favouring the rich. His government has bungled the piloting of its last big domestic reform, that of the pensions system. Legislation to merge 42 regimes into a single system went to parliament on February 17th, even though its financing has yet to be agreed. Periodic strikes and protests continue.
 
 Above all, Mr Macron has failed to craft a convincing and positive narrative around such results. It may be that his technocratic policymaking simply fits awkwardly with today’s debate. The birthplace of Enlightenment rationalism is proving as vulnerable as any country to distrust in facts, and to the populists who manipulate it. When INSEE, the official statistics body, unveiled the latest drop in unemployment, Marine Le Pen, a nationalist leader, tweeted: “What if we stopped lying to the French?” At a time when gut feelings trump bar charts, Mr Macron finds it hard to persuade people that his reforms are beginning to work. ■
+
+## URL
+
+https://www.economist.com/europe/2020/02/20/emmanuel-macrons-reforms-are-working-but-not-for-him

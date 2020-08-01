@@ -35,3 +35,7 @@ The Democratic candidates may keep in lockstep in their denunciations of Mr Trum
 Much foreign policy can be made by executive fiat. Overseas, adversaries and allies alike will find a change in the American presidency entails bumpier seesawing than ever before. “As Congress has become more and more dysfunctional, the presidency has taken more and more power,” says Daniel Drezner, a professor of international politics at Tufts University. “If you combine consolidated executive power with polarisation,” he adds, “it leads to schizophrenic foreign policy.” ■
 
 [Sign up to receive Checks and Balance](https://www.economist.com//checksandbalance/), our new weekly newsletter on American politics
+
+## URL
+
+https://www.economist.com/united-states/2020/01/16/the-democrats-debate-in-iowa-covers-foreign-policy-at-last

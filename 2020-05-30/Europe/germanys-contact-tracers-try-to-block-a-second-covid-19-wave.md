@@ -27,3 +27,7 @@ Having abandoned contact-tracing in March, only this week did Britain kick it ba
 Manual contact tracing has its limits: even the most helpful patient will struggle to identify fellow passengers on a train. Like other countries, Germany hopes to automate some tracing with a mobile app using Bluetooth. Yet its development has been plagued by technical and data-privacy woes; officials now hope to launch it in mid-June. Even then, technology can only support manual contact tracing, not replace it, says David Holtgrave, dean of the school of public health at the University of Albany, in New York state. Germany’s virus detectives have plenty of work ahead. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/05/28/germanys-contact-tracers-try-to-block-a-second-covid-19-wave

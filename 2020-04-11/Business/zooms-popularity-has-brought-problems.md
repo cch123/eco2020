@@ -17,3 +17,7 @@ The combination became a problem after the coronavirus hit. The number of daily 
 Zoom has every reason to relieve the tension inherent in a model that aims to provide a corporate service but is now used by people stuck at home and craving contact with the world beyond. Unless it does so it will create an opening for more business-oriented services, in particular Microsoft Teams, whose video service lags behind Zoom both in quality and popularity.
 
 Rivalry between Zoom and Teams highlights a battle that has been brewing for a while. On one side are firms that provide specialised tools for online collaboration, such as Zoom and Slack, a corporate-messaging app. On the other are those that offer a complete range of such services, like Microsoft and Google. If, as many predict, working remotely becomes far more common even after the virus recedes, the competition to create the virtual office will intensify. Expect to hear more about Microsoft trying to entice customers into its world—and startups complaining that the ex-evil empire is back to its old tricks.■
+
+## URL
+
+https://www.economist.com/business/2020/04/08/zooms-popularity-has-brought-problems

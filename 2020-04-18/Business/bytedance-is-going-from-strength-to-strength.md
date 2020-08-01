@@ -33,3 +33,7 @@ In statements, TikTok has said that it stores all American “user data in the U
 That, most lawyers and technologists reckon, may help get CFIUS off its back. Listing ByteDance in Hong Kong, which is under consideration, may also foster trust. So would anointing a non-Chinese successor—though, at 37, Mr Zhang may not be ready to retire. As a last resort, he is said to be willing to contemplate spinning TikTok off. That would cement the digital divide between China and the West—until another hit ByteDance app tries to bridge it. ■
 
 Correction (April 20th 2020): TikTok does not have 100m users in both America and China as we originally wrote. It has more than 100m in both China and the West.
+
+## URL
+
+https://www.economist.com/business/2020/04/18/bytedance-is-going-from-strength-to-strength

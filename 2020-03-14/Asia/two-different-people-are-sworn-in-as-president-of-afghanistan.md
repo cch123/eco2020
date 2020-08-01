@@ -21,3 +21,7 @@ Mike Pompeo, America’s secretary of state, said he hoped for an inclusive gove
 The horse-trading distracts from a harder and more important task for the Afghan political elite: bargaining with the Taliban. Talks between the militants and Afghan leaders had been due to start on March 10th. But the Taliban insisted that the Afghan government should release 5,000 prisoners first—something Mr Ghani has refused to do. On March 11th, however, he announced he would release 1,500 Taliban detainees in the coming weeks. Each fighter would have to give a written guarantee he would not return to the battlefield. If talks progress, Mr Ghani promised, a further 500 Taliban prisoners would be freed each fortnight, up to a total of 5,000.
 
 The Taliban immediately rejected the offer. Perhaps they were hoping for a better one from Dr Abdullah.■
+
+## URL
+
+https://www.economist.com/asia/2020/03/12/two-different-people-are-sworn-in-as-president-of-afghanistan

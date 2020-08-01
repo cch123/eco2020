@@ -49,3 +49,7 @@ Elaine Shuo Feng, an epidemiologist at Oxford University, has surveyed the varyi
 For everyone else, washing hands and maintaining social distance is the most important way to keep transmission down. Wearing masks in public does no harm, and may do some good—but that is always providing it does not reduce the supply available to local doctors and nurses. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/04/11/should-the-public-wear-masks-to-slow-the-spread-of-sars-cov-2

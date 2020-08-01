@@ -25,3 +25,7 @@ Part of him accepted that most people hoped to progress and change. But a great 
 All was not well. The Amazon, as he constantly repeated, was the lungs of the world, the great purifying filter of all its modern filth. Those lungs had a cancer now, and if it went on growing both they, and all living things, would be finished. Like Karamakate, he had to pass on this truth to his white brothers. The rainforest and its tribes must be supported and protected against invaders. He did not include among those the new illness that crept (from Brazil, the government feared), into his home town of Leticia, where Brazil, Peru and Colombia all met on the great river, and where most of the people were indigenous. For a while, infection rates there were Colombia’s worst. He caught it at the end of April.
 
 But he still had bigger worries. Often he felt like one of those dogs that went on barking, yap! yap! yap! until everyone was tired of it. He refused to be patted quiet. As he spoke of the dog he writhed and barked, while his blue eyes continued to smile with a wisdom barely known in the wider world, and fast vanishing.■
+
+## URL
+
+https://www.economist.com/obituary/2020/05/28/antonio-bolivar-died-on-april-30th

@@ -49,3 +49,7 @@ Clearly, for Dr Zimov’s project to have any effect on the climate it would hav
 Expansive though the tundra is, however, whether that effect will be large enough to weigh in the scales of a planet-sized problem is a matter of debate. The models suggest that the global temperature rise brought about by the shift from steppe to tundra was a bit over 0.1ºC. Reversing this shift would, presumably, push the temperature down by a similar amount. That, as Chris Field of Stanford University, in California, who was one of the modellers, points out, would help stabilise the climate, provided global temperature rises above preindustrial levels can be kept, by other means, below 1.5-2ºC, the objective agreed in Paris in 2015. But if the rise were much greater than this, he thinks the permafrost would melt anyway—mammoths or no. ■
 
 For more coverage of climate change, register for The Climate Issue, our fortnightly [newsletter](https://www.economist.com//theclimateissue/), or visit our [climate-change hub](https://www.economist.com//news/2020/04/24/the-economists-coverage-of-climate-change)
+
+## URL
+
+https://www.economist.com/the-world-if/2020/07/04/what-if-mammoths-are-brought-back-from-extinction

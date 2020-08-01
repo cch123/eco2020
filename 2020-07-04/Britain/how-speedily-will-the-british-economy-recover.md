@@ -15,3 +15,7 @@ Few doubt that May and June’s figures will be better, but it will be weeks bef
 ![](./images/20200704_BRC298.png)
 
 Many analysts are unconvinced. Unemployment looks likely to rise and precautionary savings may remain high. Data on card payments may well be flattered by a shift away from cash and, even if the picture is broadly correct, making up the final lost 10% of GDP will prove tricky if people continue to travel less and do not pack into restaurants and pubs. Samuel Tombs, of Pantheon Macroeconomics, spoke for many who prefer to rely on proven data sources when he tweeted his response (above).
+
+## URL
+
+https://www.economist.com/britain/2020/07/02/how-speedily-will-the-british-economy-recover

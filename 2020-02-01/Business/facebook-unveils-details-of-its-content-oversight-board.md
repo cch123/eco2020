@@ -29,3 +29,7 @@ Things would get more complicated were the board granted a say on how Facebook g
 The last set of unknowns concerns how others, notably governments and rival platforms, will react. If Big Tech takes up Facebook’s invitation to sign up to its creation, it could indeed turn into a court of appeal for cyberspace. This looks unlikely in the near term: why would a Google let someone else tie its hands? Some governments, for their part, may see the board as competing with official efforts to regulate speech online. However, both could yet find the nascent entity useful: a complement to government action and, if pressure on internet firms to moderate content mounts, a substitute for bodies they would otherwise need to convene themselves.
 
 A lot rests on how the oversight board turns out in practice. This will take time to assess. Even 20 years after its birth ICANN is a work in progress; just look at the controversy over the recent $1bn sale of .org, a domain mostly used by charities, to a private-equity firm. At a time when the internet is torn between its non-commercial roots and its hyper-commercial present, Facebook’s experiment is worth pursuing. ■
+
+## URL
+
+https://www.economist.com/business/2020/01/30/facebook-unveils-details-of-its-content-oversight-board

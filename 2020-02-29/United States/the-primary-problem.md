@@ -23,3 +23,7 @@ The good news is that some changes to the way the parties run their nominating p
 The problem is that establishment politicians are running scared of the fringe passions they helped unleash. If Mr Obama or Mrs Pelosi cannot bear to tell Mr Steyer to get out, who would lead a fight to exclude the Sandernistas from the Democratic mainstream? The idea is now unthinkable. Which means that on the left, as well as the right, a populist fire may have to rise and spread, before it can splutter, fail and Bern out.■
 
 Dig deeper:Sign up and listen to Checks and Balance, our new [newsletter](https://www.economist.com//checksandbalance/) and [podcast](https://www.economist.com//podcasts/2020/04/24/checks-and-balance-our-weekly-podcast-on-american-politics) on American politics
+
+## URL
+
+https://www.economist.com/united-states/2020/02/29/the-primary-problem

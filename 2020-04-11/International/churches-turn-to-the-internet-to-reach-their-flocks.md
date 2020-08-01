@@ -19,3 +19,7 @@ Religions whose declared aims include the preservation of ancient revelations ha
 When the coronavirus retreats, will digital worship go with it? Not likely. Life.Church, a mega-church based in Oklahoma that helps other parishes navigate the online world, says the number of communities using its Church Online Platform surged from 25,000 to 47,000 in March alone. Other outfits, such as Virtual Reality Church and Sanctuary First, expect to grow. In the meantime, Mr Bogle hopes to start running his virtual coffee shop 24 hours a day. He is considering starting one for Spanish-speakers: “I think that could be real fun.” 
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/international/2020/04/11/churches-turn-to-the-internet-to-reach-their-flocks

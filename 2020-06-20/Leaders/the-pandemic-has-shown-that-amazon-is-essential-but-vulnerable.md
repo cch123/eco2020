@@ -29,3 +29,7 @@ Amazon’s second problem is bloating. As Mr Bezos has expanded into industry af
 Mr Bezos’s last worry is competition. He has long said that he watches customers, not competitors, but he must have noticed how his rivals have been energised by the pandemic. Digital sales at Walmart, Target and Costco probably doubled or more in April, year on year. Independent digital firms are thriving. If you create a stockmarket clone of Amazon lookalikes, including Shopify, Netflix and UPS, it has outperformed Amazon this year. In much of the world regional competitors rule, not Amazon; among them are MercadoLibre in Latin America, Jio in India and Shopee in South-East Asia. China is dominated by Alibaba, JD.com and brash new contenders like Pinduoduo.
 
 The world’s most admired business is thus left having to solve several puzzles. If Amazon raises wages to placate politicians in a populist era, it will lose its low-cost edge. If it spins off AWS to please regulators, the rump will be financially fragile. And if it raises prices to satisfy shareholders its new competitors will win market share. Twenty-five years on, Mr Bezos’s vision of a world that shops, watches and reads online is coming true faster than ever. But the job of running Amazon has become no easier, even if it no longer involves packing boxes.■
+
+## URL
+
+https://www.economist.com/leaders/2020/06/18/the-pandemic-has-shown-that-amazon-is-essential-but-vulnerable

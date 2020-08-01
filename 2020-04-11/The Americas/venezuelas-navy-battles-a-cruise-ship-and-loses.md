@@ -21,3 +21,7 @@ Venezuela disputes this account. Its armed forces accused the Resolute of “cow
 Venezuela’s thuggish regime may be especially touchy now. In January the  uss Detroit, an American warship, conducted “freedom-of-navigation” operations close to Venezuela’s coastline. On March 26th the United States indicted Nicolás Maduro, the dictator, and his inner circle for drug-running and “narco-terrorism”.
 
 On April 1st Donald Trump announced that the United States was launching an “enhanced counter-narcotics operation” in the eastern Pacific and Caribbean, involving an impressive array of warships and spy planes. The operation would “choke off the funds that go to that corrupt regime”, said Robert O’Brien, Mr Trump’s national security adviser. The Bolivarian navy will be ready to repel any invaders—just as soon as its sailors dry off.■
+
+## URL
+
+https://www.economist.com/the-americas/2020/04/11/venezuelas-navy-battles-a-cruise-ship-and-loses

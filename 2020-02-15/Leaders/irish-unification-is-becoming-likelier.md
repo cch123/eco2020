@@ -29,3 +29,7 @@ There are obstacles and uncertainties. Sinn Fein’s recent success may turn som
 Yet sooner than most people expect, the momentum for a united Ireland could come to seem unstoppable. If Scotland chooses independence, many in Northern Ireland would lose their ancestral connection to Britain. If the government in Westminster persistently refused to recognise that there was a majority in favour of unification in Northern Ireland, that could be just as destabilising as calling a referendum.
 
 The island of Ireland needs a plan. The priority should be to work out how to make unionists feel that they have a place in a new Ireland. Work is needed on the nuts and bolts of unification—including how to, and indeed whether to, merge two health systems (one of which is free), the armed forces and police services, and what to do about the north’s devolved assembly. It helps that the republic has a fine record for the sort of citizen-led constitutional consultations that might help sort things out. Politicians from Britain and Ireland need to start talking, too. The price of ending violence two decades ago was for Northern Ireland, the republic and Britain to jointly set out a political route to a united Ireland. If the people of the north and the republic choose that path, the politicians must follow it. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/02/13/irish-unification-is-becoming-likelier

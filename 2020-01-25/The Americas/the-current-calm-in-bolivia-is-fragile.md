@@ -37,3 +37,7 @@ Polls suggest that 20-25% of voters support the MAS. Its candidate, whoever that
 Even if the election is clean, many Bolivians could reject the result. “The challenge facing the next president is to govern for all Bolivians,” says Soledad Chapetón, El Alto’s mayor, who is indigenous but from a party that opposes the MAS. Supporters of Mr Morales burnt her house, but she thinks that reconciliation is possible.
 
 The residents of District 8 are more pessimistic. Teenagers point out that Ms Áñez’s original cabinet had no indigenous ministers (she has since added a few). Parents say that their kids have nightmares about soldiers shooting into crowds. The wife and three children of Pedro Quisbert, a factory worker who was killed outside the gas plant, left to “escape the memories”, says his father, Primitivo, who stayed. Through a crack in the door of his house he blames both sides for the violence, but says he will vote for someone “from the humble class”. The massacre “broke the possibility of dialogue”, he says. It will be up to Bolivia’s next leader to prove him wrong. ■
+
+## URL
+
+https://www.economist.com/the-americas/2020/01/23/the-current-calm-in-bolivia-is-fragile

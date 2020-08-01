@@ -21,3 +21,7 @@ Russia appealed to a Dutch district court, which rejected the PCA’S interpreta
 GML’s lawyers still have to recover the money. Their efforts to do so in 2015, after the initial PCA ruling, did not go well. In Belgium efforts to seize Russian embassy bank accounts ran up against diplomatic immunity. When they tried to claim a $700m French government payment to Roscosmos, the Russian space agency, French courts ruled it was a private company unconnected to state debts. Belgium and France have since passed “Yukos laws” making it harder to attach the assets of sovereign states. Russia is pushing through constitutional changes that subordinate international law to its own.
 
 Russia’s low regard for international law was highlighted again last week in a report that fingered the FSB, Russia’s main spy agency, in the killing of a Chechen dissident in Berlin last August. The report by Bellingcat, a cyberforensic investigative group, and journalists at the Insider and Der Spiegel used leaked mobile-phone metadata to identify an FSB associate as the likely assassin. The Yukos case will be less violent; the Kremlin has threatened tit-for-tat retaliation against any country that upholds seizures of its assets. ■
+
+## URL
+
+https://www.economist.com/europe/2020/02/20/the-50bn-yukos-judgment-against-russia-turns-on-a-single-word

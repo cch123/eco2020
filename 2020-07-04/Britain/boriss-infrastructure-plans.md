@@ -27,3 +27,7 @@ More significant shifts in fiscal policy are likely at what the Treasury is call
 But “levelling up” is as much a political project as an economic one. Mr Johnson wants to show the voters who backed him in December that they’ve been heard. His new northern MPs have presented the Treasury with shopping lists of roads and railways. That points to quick, visible projects such as repaving high streets, and discourages serious reflection about their constituencies’ future role in Britain’s economy.
 
 Mr Johnson’s claim that Britain outside London has been “neglected and unloved” is politically convenient, but nonsense. The issue of regional inequality has occupied successive governments over decades, from Harold Macmillan’s National Economic Development Council to Tony Blair’s Regional Development Agencies. Given the lack of progress so far, the question deserves revisiting. But any solution needs 25 years to show results, and a cross-party consensus. Mr Johnson wants something to show by the general election in 2024, and to crush the Labour Party. ■
+
+## URL
+
+https://www.economist.com/britain/2020/07/02/boriss-infrastructure-plans

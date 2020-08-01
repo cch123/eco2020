@@ -23,3 +23,7 @@ The new president must secure a double majority, of countries representing 50% o
 The biggest reason to oppose his nomination is that he represents a polarising administration that may well lose an election in November, making him “the earliest lame duck in history”, as a South American official puts it. The sensible course would be to extend Mr Moreno’s term until next year, both to give time for other candidates to emerge and to see whether Mr Claver-Carone really represents the United States.
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/the-americas/2020/06/18/a-gringo-takeover-bid-for-the-inter-american-development-bank

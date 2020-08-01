@@ -27,3 +27,7 @@ Still, the economic consequences will be severe. The effort to switch the Saudi 
 The virus may also force Saudi Arabia to cancel the most important events on its calendar. The haj, the annual pilgrimage to Mecca (a once-in-a-lifetime duty for Muslims), is meant to begin in late July. Last year it drew 2.5m people. Such a crowd is unlikely while covid-19 rages. On March 31st the minister in charge of pilgrimages told Muslims not to make travel plans yet. A government-backed research centre has published a list of past pilgrimages interrupted by war, bandits and disease. But cancelling the haj would have a cost. Mecca is the largest contributor to GDP after oil.
 
 As for the G20, three weeks after the World Health Organisation declared covid-19 a pandemic, the bloc has done little to co-ordinate a response. Its heavyweights, America and China, would rather bicker with each other. Even the G7, a more homogeneous bloc, could not reach a joint statement because of America’s insistence on calling it the “Wuhan virus”, a name to which China objects. The crown prince’s coming-out party may be overshadowed by further feuding. That is, if it happens at all. If the virus roars back in the autumn, as some epidemiologists expect, the summit might end up not in a gilded ballroom, but on Zoom. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/04/04/a-lost-year-in-saudi-arabia

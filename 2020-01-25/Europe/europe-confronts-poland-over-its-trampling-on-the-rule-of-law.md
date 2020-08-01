@@ -33,3 +33,7 @@ This pattern of taking bits of other democracies and combining them into somethi
 That bill will probably be rejected by the Senate, where PiS lacks a majority since last autumn’s elections. But it can only send the bill back to the lower house for amendment, not block it. A report by the Venice Commission of the Council of Europe, a legal watchdog, denounces the bill as a blatant violation of judicial independence. (Poland’s justice minister called the report a “parody”.) Meanwhile, the European Commission is taking more drastic steps. On January 14th it asked the ECJ to order Poland to suspend the Supreme Court’s disciplinary chamber, effective immediately.
 
 Ms Gersdorf, the independent-minded Supreme Court president, must retire in April, and PiS will appoint her successor. Last month the court issued a warning that defying the ECJ could eventually force the country out of the EU. “You can’t be a member of the European Union if you don’t have independent, impartial courts,” Koen Lenaerts, the ECJ’s chief justice, agreed on a visit to Warsaw. Most analysts see a less apocalyptic scenario where Polish courts are ignored by other EU countries, sowing chaos in everything from business disputes to cross-border divorces. For Poland, that would be bad. For the EU, a union made of laws, it would be grave. ■
+
+## URL
+
+https://www.economist.com/europe/2020/01/23/europe-confronts-poland-over-its-trampling-on-the-rule-of-law

@@ -29,3 +29,7 @@ Treasury insiders argue that the problem is not the economic analysis, but polit
 The worry is that the coming attempt to redirect investment spending away from the south-east will reflect political rather than economic factors. Areas in the north that the Tories have recently won or are targeting will get lots of spending whilst other regions which lag London, such as the south-west and Scotland, will not. The Humber Bridge is a fine illustration of political infrastructure. It was announced during a by-election in Hull in 1966, and is credited with enabling Labour to retain its parliamentary majority of one and thus cling on to power for another six months. Thirty years after it opened, the Treasury wrote off half of the associated debt in order to cut tolls to encourage more traffic.
 
 Critics of the current rules tend to argue that transport and infrastructure spending decisions should, wherever possible, be devolved to local authorities that understand local needs, industry and skills better than Whitehall does. But if politics is to drive spending, as seems likely, that’s not going to happen. The Conservative government will not want control over and credit for infrastructure spending to go to councils which, in poorer regions, are often Labour-controlled. Hard hats are not becoming headgear; but Britons will see many more of them on their politicians over the next few years.■
+
+## URL
+
+https://www.economist.com/britain/2020/01/09/the-coming-splurge-on-northern-infrastructure

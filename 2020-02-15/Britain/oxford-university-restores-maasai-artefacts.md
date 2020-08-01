@@ -25,3 +25,7 @@ Sitting on the floor of Mrs van Broekhoven’s office, Mr ole Parit breathes int
 Artefacts matter to the Maasai, in part because they represent the continuation of a dead person’s life. Mr ole Parit says an isurutia—a necklace—was taken from a woman who was killed while she was carrying her baby. “If somebody dies, we treat the artefacts as equally as important as a dead body,” says Amos Leuka, a member of the delegation. If an object has been taken violently from somebody, their spirit cannot rest. The Maasai’s ancestors are therefore said to be joining the negotiations.
 
 So is Oxford’s vice-chancellor, Louise Richardson: once the Pitt Rivers has approved a claim, it is sent to her. Her attitude to this unusual method of establishing provenance has not yet been divined. But Mrs van Broekhoven says that the way knowledge systems are judged needs to be liberated. “Real decoloniality is to see each other’s knowledge systems as equal.” British colonial catalogues, she points out, are not models of accuracy. “All we have are labels with question-marks. It would be quite disingenuous to say, ‘Your knowledge system is inferior to ours’.” ■
+
+## URL
+
+https://www.economist.com/britain/2020/02/13/oxford-university-restores-maasai-artefacts

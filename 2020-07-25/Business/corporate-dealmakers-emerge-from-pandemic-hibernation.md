@@ -27,3 +27,7 @@ It helped that some sellers discreetly agreed to offer buyers better terms. Lawy
 A second wave of covid-19 may upset the revival. So could rising protectionism, which hampers cross-border deals. But M&A bankers are bullish about the rest of the year. Firms whose profits have held up are likely to be first to return to dealmaking, says Eamon Brabazon of Bank of America. With good options for parking money scarce, lenders are happy to bankroll takeover bids by strong suitors. Private-equity funds can draw on a record $1.5trn of their investors’ money, according to Preqin, a data provider. They are hunting for bargains. Even grim economic conditions worldwide have a silver lining for the acquirers, if these force struggling targets into a sale whether they like it or not. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/07/25/corporate-dealmakers-emerge-from-pandemic-hibernation

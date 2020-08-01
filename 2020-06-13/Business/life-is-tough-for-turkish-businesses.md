@@ -23,3 +23,7 @@ Turkish textile producers saw some evidence of this at the start of the year. Gu
 Turkish businesses will still need to attract outside investment. The instability of recent years, as well as the loss of central-bank independence and the takeover of key institutions by often under-qualified government loyalists, has led Western investors to give Turkey a wide berth. Chinese ones are cautious. To date, China has invested less in Turkey than in Venezuela. Unless it fixes its institutions, especially the central bank and judiciary, and relations with America and Europe, foreigners will stay away, leaving Turkish firms to recover from the pandemic on their own.■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/06/13/life-is-tough-for-turkish-businesses

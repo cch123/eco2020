@@ -37,3 +37,7 @@ Chinese and Russian firms also look poised to benefit from an arms embargo which
 The last threat to Western dominance may come from the importers themselves. Big defence contracts typically involve joint ventures with local companies. These, says Lucie Béraud-Sudreau of the International Institute for Strategic Studies, another think-tank, enable the customers to develop weapons themselves. Australia, Pakistan, South Korea and Turkey have all developed local defence industries from scratch, notes Strategy&, a consultancy, partly through offsets but also because of policies to help domestic suppliers.
 
 At the Dubai show the UAE unveiled Edge, a consortium of 25 defence firms. Saudi Arabian Military Industries (SAMI), another national group, was set up in 2017. The Saudis want to localise half their spending on arms by 2030, from 2% in 2017. They are enlisting foreign executives and experts. China has built a drone factory there; SAMI is run by a German. It will be a while before local companies rival the Western giants. But the days when the West could sell the sheikhs out-of-date muskets are not coming back.■
+
+## URL
+
+https://www.economist.com/business/2020/02/13/the-battle-for-the-middle-eastern-arms-market-is-heating-up

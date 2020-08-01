@@ -27,3 +27,7 @@ Words of the year are a way for lexicographical types to grab a rare slice of th
 Perhaps Dictionary.com captured the feeling best with its word of the year for 2019. Neither new nor fancy, it was foreboding nonetheless: “existential”.
 
 Sign up to our new fortnightly climate-change newsletter [here](https://www.economist.com//theclimateissue/)
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/01/04/of-train-boasts-plane-shame-and-electric-automobiles

@@ -19,3 +19,7 @@ Anta, established in 1991, has long been runner-up on its home turf to Nike and 
  Mr Ding’s all-hands-on-deck strategy and Anta’s clientele may have insulated the firm from the worst of covid-19’s ravages. Ms Cai observes that, as China began to re-open in late February, residents of cities where Anta is strong may have been less fastidious about social distancing than counterparts in richer locales. Revenues at Anta fell by 20-25% in the first quarter year-on-year, according to the firm’s latest financial update. That looks rosy compared with Adidas. It saw sales in China drop by 58% in the same period.
 
 Relying on rivals’ bad luck is not a long-term plan. Mr Ding recently wrote that Anta aspires to make the leap from an “affordable brand” to a “desirable” one. He has some more upmarket trademarks at his disposal. In 2009 Anta acquired the Chinese operation of Fila, a sportswear firm with Italian roots. Last year, in a $5.2bn deal, the firm bought a majority stake in Amer Sports, a Finnish outfit with assets including Wilson tennis rackets and Salomon skis. But that may not be enough to take on and beat Nike and Adidas. Shifting perceptions will be hard.■
+
+## URL
+
+https://www.economist.com/business/2020/05/14/anta-an-ambitious-chinese-sportswear-firm-does-some-fancy-footwork

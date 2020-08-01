@@ -29,3 +29,7 @@ Whatever model emerges, it will not be a Utopia. Indeed, 38% of Britons reckon i
 But workers are already voting with their feet. A recent survey by Unilever, an Anglo-Dutch consumer-goods group, found that half of staff in countries where offices were reopening did not yet want to return. Only 8% wanted to go back to the office full-time; the rest said they would like to come in for one or two days a week. “In five years’ time, if you’re an employer that tries to implement a strict office-based culture, you’re going to really struggle for talent,” predicts a work-policy wonk. Now they have tried flexible working, Britons seem unlikely to surrender it easily. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/07/18/britons-tip-the-work-life-balance

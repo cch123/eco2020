@@ -87,3 +87,7 @@ Institutions cannot always restrain a determined autocrat, but they can raise th
 The forces for and against democracy will shape African countries in different ways. Nic Cheeseman of the University of Birmingham expects there to be a “growing democratic divide” on the continent, as politics in countries such as Botswana, Ghana, Namibia and South Africa become more competitive, while authoritarian states become more repressive.
 
 The future of more fragile democracies, like Benin, is less certain. But Mr Sossoukpe is determined to ensure that the repression unleashed by Mr Talon is temporary. Citing the role of his father who helped topple Kérékou, the dictator, he adds: “I see it as a duty to my children to keep fighting.” ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/03/05/young-africans-want-more-democracy

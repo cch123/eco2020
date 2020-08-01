@@ -19,3 +19,7 @@ At key moments she is by herself. When, after becoming a teacher, she leaves the
 True, in the course of the novel, Jane has intense relationships with others: first with Helen Burns, a saintly and consumptive school friend who dies in her arms, and later with Rochester, with whom she engages in implausibly polished repartee. The portrayal of their affair—and especially of their reunion—is superlatively moving. But it is as a person alone in a hazardous world that Brontë’s heroine offers readers her most important lessons, as well as some of the book’s most enjoyable passages.
 
 Though she wishes to escape it, solitude gives her a licence to observe. She has a habit of detaching herself from others so that she is free to watch them. When Rochester entertains his wealthy friends and asks her to join them, she sits half-hidden by a curtain so that she “might gaze without being observed”. Her solitude makes for great passages of introspective analysis as well as peerless descriptions of solo walking. Her most acute reflections are made, not to her beloved Rochester, but to the reader. Jane Eyre, like many people, is at her best when she is alone. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/06/04/jane-eyre-like-many-people-is-at-her-best-alone

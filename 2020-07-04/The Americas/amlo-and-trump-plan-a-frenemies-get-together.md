@@ -21,3 +21,7 @@ The administration helped arrange the sale of 211 ventilators to Mexico. Otherwi
 Though AMLO is a fervent nationalist, his foreign-policy priority has been to shield Mexico from Mr Trump’s animus. The summit will showcase his success. The two leaders are ideological foes but in some ways kindred spirits: populists whose strengths are in the realm of symbols rather than the substance of government.
 
 But AMLO’s friendship with Mr Trump may come at the expense of his relations with Joe Biden, who now looks likely to win the presidency in November. Democrats are thought to be dismayed by AMLO’s subservience to Mr Trump. When Mr Biden visited Mexico as vice-president in 2012 he met all three candidates in Mexico’s presidential election, including AMLO. The Mexican president does not plan to return the favour on his trip. His advisers say that would risk politicising the summit. Some members of Mr Biden’s team think AMLO is trying to help Mr Trump get re-elected. If Mr Biden wins, Mexico’s president may have some fence-mending to do. ■
+
+## URL
+
+https://www.economist.com/the-americas/2020/07/02/amlo-and-trump-plan-a-frenemies-get-together

@@ -25,3 +25,7 @@ But looking only at numbers is not enough. They need to be cross-checked with ot
 Muddy Waters has built a reputation for diligent research. A pronouncement by Mr Block has the power to move prices. That worries regulators. Like Chandler’s detective, Mr Block seems to take as many beatings from cops as from bad guys. Even admirers worry about possible errors and lapses. But he is refreshingly candid about his flaws. A sense of alienation from his “postcard-perfect” surroundings as a youth bred an urge to expose the shallow, the vapid and the fake. “When I discovered there were all these frauds in China, it was a form of therapy,” he says.
 
 There are easier ways to earn a living. A few years after shorting Orient Paper, Mr Block totted up the numbers and found that he had lost $600. No matter. He sees no shortage of firms with accounting that distorts reality. “There are real excesses out there.” The bezzle has only grown fatter.
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/04/30/how-to-detect-business-fraud

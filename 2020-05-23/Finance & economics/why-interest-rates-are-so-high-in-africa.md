@@ -27,3 +27,7 @@ In Nigeria the central bank penalises banks that do not meet lending targets. Bu
 New models could spur change. Joshua Oigara, the boss of KCB bank and chairman of the Kenya Bankers Association, says that mobile banking, credit-information sharing and, before the pandemic, a stable economy helped to bring down lending costs. Others are saving on bricks and mortar by enlisting local agents, such as shopkeepers. Barely 18 months after adopting this model, Standard Bank’s Ugandan subsidiary processes more transactions through agents than at branches.
 
 Innovation can bring down costs, but it cannot loosen demographic constraints. It costs more to borrow locally when there are fewer savings to go around, notes Charles Robertson of Renaissance Capital, an investment bank. African households save less than those in Asia, say, in part because workers support more dependants. “If you’ve got six kids you’ve got no savings, whether you’ve got a mobile phone or not,” he argues. Until birth rates fall, interest rates will stay relatively high. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/05/21/why-interest-rates-are-so-high-in-africa

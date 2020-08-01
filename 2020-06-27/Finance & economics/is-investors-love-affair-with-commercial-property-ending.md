@@ -71,3 +71,7 @@ Such losses notwithstanding, investors’ love affair with commercial property i
 Yet others, mostly private real-estate funds, hope to swoop on bargains (most public vehicles are trading below their underlying asset values). Craig Duffy of GLP, a private-equity firm based in Singapore with a vast portfolio of warehouses, says the firm has $7bn of dry powder to deploy, and hopes to raise another $8bn-9bn by the end of 2020. Some will focus on debt at a time when liquidity to stretched borrowers comes at a premium: Skardon Baker of Apollo, a firm that invests in distressed assets, says its European opportunistic fund has deployed €500m in the past 12 weeks.
 
 The big winners will probably be giant firms like Brookfield, which closed a $15bn fund last year, and Blackstone, which raised a record $20.5bn vehicle a few months later. They have war-chests allowing them to command price discounts by buying bundles of assets at once. And they are among the few firms with the development skills needed to turn buildings round. Ever greater demand for their services may allow them to charge hefty fees, on ever bigger sums. Pension funds and insurers are becoming warier of commercial property. But for private-equity barons it remains a giant moneymaker. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/06/25/is-investors-love-affair-with-commercial-property-ending

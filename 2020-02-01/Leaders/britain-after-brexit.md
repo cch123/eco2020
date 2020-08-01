@@ -35,3 +35,7 @@ Mr Johnson’s mantra is “levelling up” by boosting growth in the regions. H
 Neither should the agenda be purely economic. Self-determination is central to liberalism, but over the past 150 years, power has slowly leached away from the English regions to Westminster. Scotland and Wales were given considerable autonomy in 1999, but England is highly centralised. Brexit was England’s revenge on Westminster (see [article](https://www.economist.com//britain/2020/01/30/brexit-and-english-nationalism)) for giving special privileges to Scotland and Wales but ignoring the regions; and the consequence may yet be the break-up of the union. But whatever the fate of the union, a liberal government needs to decentralise power, not just because decisions are best made as close to the action as possible, but also because people need to feel they have power over their own destiny.
 
 Britain’s future is full of uncertainty. No longer part of one of the great global blocs, it has to find a new role in the world. Pulled apart by the tensions within the union, its nations need to find a new accommodation. Shaken by the bitter arguments over Brexit, it has to mend its frayed social contract. The difficulties should not be underestimated. But when Britain previously reset its course, in 1945 and 1979, the choices it made helped reshape the world. It should aim to do that again.■
+
+## URL
+
+https://www.economist.com/leaders/2020/01/30/britain-after-brexit

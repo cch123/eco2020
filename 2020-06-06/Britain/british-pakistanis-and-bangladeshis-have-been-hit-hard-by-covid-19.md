@@ -23,3 +23,7 @@ Many women do not work at all, especially if they are married. In the first thre
 Many are being kept afloat by the state or by relatives. Some, though, have turned to their fellow Muslims. Iqbal Nasim, who runs the National Zakat Foundation, says that applications for zakat (a form of Islamic aid that is more like welfare than charity) have quadrupled in the past two months. Before Ramadan, he says, the organisation hit up previous donors, asking if they might contribute again. Some not only said they could not, but admitted that they would be asking for help this year. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/06/06/british-pakistanis-and-bangladeshis-have-been-hit-hard-by-covid-19

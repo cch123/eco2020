@@ -23,3 +23,7 @@ Contributions from members based on national income have long made up the bulk o
 If the own-resources discussion flops, countries could simply pay more into the next budget to repay the recovery-fund debt. But history shows that governments under fiscal pressure prefer to cut the EU’s spending, says Ms Rubio; common endeavours such as research were slashed to preserve the recovery fund last week. Still, a lot can happen before 2028. For the EU to borrow and redistribute hundreds of billions of euros would have seemed unimaginable a year ago. The topic of own resources “was never sexy”, says Mr Monti. “Now it is beginning to become so.” ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/08/01/the-eus-recovery-fund-revives-a-debate-on-common-taxes

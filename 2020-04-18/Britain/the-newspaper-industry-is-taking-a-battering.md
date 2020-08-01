@@ -25,3 +25,7 @@ The big worry is what happens when the lockdown ends. In 2009 print advertising 
 Correction (April 17th 2020): An earlier version of this article cited a figure of £32m as the Telegraph Media Group's revenues. In fact, it is the company's operating profit. This has been changed. 
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/04/18/the-newspaper-industry-is-taking-a-battering

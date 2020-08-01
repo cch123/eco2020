@@ -19,3 +19,7 @@ The three firms will also cut costs, moving beyond sharing platforms, the basic 
 The enthusiasm may be premature. The trio has suffered from a recent downturn in the global car market and the fallout from Mr Ghosn’s arrest. Now the virus may dent industry sales by 20% this year. On May 28th Nissan reported an annual operating loss of ¥40.5bn ($372m), the first time in the red since 2009. Renault is in even worse shape. Bruno Le Maire, France’s finance minister, said it could “disappear” without state support. Renault’s own awful results may be accompanied by details, expected on May 29th, of a €5bn rescue package.
 
 That will irk Nissan, which also announced it would reduce production capacity by 20%, close factories and diminish its range of vehicles. Renault should do the same but will have to keep factories open in France to appease its big shareholder. Luca de Meo, who successfully ran SEAT, part of Germany’s Volkswagen Group, takes over as Renault’s boss on July 1st. The former marketer will need all his powers of persuasion to keep the peace.■
+
+## URL
+
+https://www.economist.com/business/2020/05/28/the-renault-nissan-alliance-hunkers-down

@@ -27,3 +27,7 @@ His handling of the covid-19 crisis has not helped him. Some think he should hav
 Mr de Blasio has had successes. The mayor’s roll-out of universal nursery schooling has been copied all over the country. He has kept total crime down. He passed paid sick leave. He introduced an ID card for the city’s many undocumented immigrants. Now he is belatedly shifting NYPD funding to youth programmes. And the NYPD has disbanded plainclothes units involved in many shootings. But his handling of the protests and the pandemic will taint his legacy. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/united-states/2020/06/18/new-yorkers-turn-their-backs-on-bill-de-blasio

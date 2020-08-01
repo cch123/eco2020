@@ -37,3 +37,7 @@ Yet this manufactured image is starting to crack. Mr Putin’s ratings have drop
 Some big cities have been more open than the Kremlin. Moscow admitted that the real number of cases could be significantly higher than officially reported, and retained a lockdown.
 
 The Kremlin’s handling of the crisis reminds some of the cover-up of the Chernobyl nuclear disaster, which prompted Mikhail Gorbachev, the Soviet leader, to launch glasnost, a campaign for more openness. “The whole system is penetrated by the spirit of bootlicking, persecution of dissidents, clannishness, window-dressing. We will put an end to all this,” Mr Gorbachev told his politburo at the time. Mr Putin, who began his presidency 20 years ago by covering up the sinking of the Kursk submarine, is determined not to repeat the glasnost experiment, which helped to bring the whole system crashing down. ■
+
+## URL
+
+https://www.economist.com/europe/2020/05/21/russias-covid-19-outbreak-is-far-worse-than-the-kremlin-admits

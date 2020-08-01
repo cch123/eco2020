@@ -71,3 +71,7 @@ The big holes in modern physics will not be solved by a single machine, however.
 Some physicists, though, are impatient. They argue that the cautious, step-by-step approach should be abandoned. Instead of making precise measurements of the Higgs boson using electron-positron machines, researchers should embrace a 100TeV hadron machine as soon as possible, and see what happens. Their argument is that the uncertainty which now abounds in the field makes it risky to focus only on an electron-positron collider, as this might end up unable to operate at high-enough energies to push deep into the territory of new physics. Moreover, as detectors improve and the algorithms used to seek the most useful data from collisions get more sophisticated, the problem of hadron colliders’ messy output could disappear. Hadron colliders will, however, always maintain their superiority in pushing forward the energy barrier to finding new physics.
 
 As Jon Butterworth, a member of the team that discovered the Higgs boson in 2012, puts it, “My whole career there’s been a very clear road map of what we need to do next and now there isn’t one. We’ve outgrown our road map. Experiment is ahead of the theory. It’s an interesting and difficult time.” True. But then, making maps rather than following them is surely what exploration is about. ■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/01/02/finding-new-physics-will-require-a-new-particle-collider

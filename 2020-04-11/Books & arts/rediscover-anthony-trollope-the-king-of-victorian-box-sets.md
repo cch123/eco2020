@@ -21,3 +21,7 @@ Part of the appeal lies in Trollope’s ability to summon up a vanished society 
 The novel’s anti-hero, Augustus Melmotte, is one of the great portraits of the businessman as ogre—a “horrid, big, rich scoundrel”, “a bloated swindler” and “vile city ruffian” who bears an uncanny resemblance to the late Robert Maxwell (and to living figures who had best not be named for legal reasons). Despite his foreign birth and mysterious past, Melmotte forces his way into British society by playing on the greed of bigwigs who despise him yet compete for his favours. He buys his way into the House of Commons; he floats a railway company that is ostensibly designed to build a line between Mexico and America but is really a paper scheme for selling shares. The Ponzi scam eventually collapses, exposing Britain’s great commercial empire for a greed-fuelled racket and its high society as a hypocritical sham.
 
 “The Way We Live Now” is an excellent place to begin an affair with Trollope. It is relatively short by his standards and exquisitely executed. If you don’t like it, Trollope’s world is not for you. If you do, another 46 novels await you. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/04/11/rediscover-anthony-trollope-the-king-of-victorian-box-sets

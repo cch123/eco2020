@@ -55,3 +55,7 @@ As games evolve more into social networks, it is also harder to control the cont
 If anything checks the rise of e-sports competing with football or basketball for the world’s attention, though, it may be that video games move too fast. “League of Legends” has been going for a decade; “Counter-Strike” is almost two decades old. That is an aeon for a video game still to be played. But compared with sports that were codified in the 19th century, it is short. The Overwatch League has struggled over the past year as some of its players have switched to “Valorant”, a new shooting game, or from playing in teams to streaming live on YouTube. In the end, there may simply be too many games to try. ■
 
 Correction (June 29th 2020): This piece has been updated to correct the video game Daniel Abt was playing when he was disqualified in the Formula E virtual races. It was “rFactor2”, not the official Formula 1 game, as we originally wrote. We are sorry for the mistake."
+
+## URL
+
+https://www.economist.com/international/2020/06/27/the-pandemic-has-accelerated-the-growth-of-e-sports

@@ -35,3 +35,7 @@ Rail’s recent renaissance has changed all that. The industry expects the Willi
 Under the concession model, private firms still manage trains but they do so for a fee and pass on the fare income to the government. The model should make it easier to maximise economic benefit to the country rather than operator profits. It could mean, for example, more trains at peak times and more co-ordination across routes. It has worked well in London and Merseyside. But with more control comes more financial risk. If a recession or a new technology, such as driverless cars, emerges as a serious competitor, taxpayers will bear the losses.
 
 The problem will be matching up the rail geography of Britain to the political geography. In London and Merseyside an authority exists to run the concession process but it is hard to see who could manage the Transpennine route, which cuts across several local boundaries or the larger intercity network contracts. Whatever the size of his waistline, the transport secretary will be back in control.■
+
+## URL
+
+https://www.economist.com/britain/2020/02/06/hs2-and-the-return-of-the-fat-controller

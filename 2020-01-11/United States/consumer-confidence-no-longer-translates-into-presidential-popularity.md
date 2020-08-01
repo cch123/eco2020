@@ -23,3 +23,7 @@ Voters seem to have other preoccupations. On the left, health care and impeachme
 The new disconnect between economic sentiment and approval ratings has prompted social scientists to rethink their models of voting behaviour. Since the 1970s, their models have relied on the so-called “fundamentals” of the economy—GDP, in particular—and the president’s popularity to forecast election outcomes. In 2016 these models did a slightly better job of predicting the winner than models based on polls, but that may have been owing to larger-than-usual errors in horse-race polls. In 2020 methods that focus too closely on the economy may not see that the president otherwise suffers from low approval ratings. The well-informed have long known that the president alone cannot determine the health of the economy. Now it looks as if the health of the economy may not determine the president, either.■
 
 [Sign up to receive Checks and Balance](https://www.economist.com//checksandbalance/), our new weekly newsletter on American politics
+
+## URL
+
+https://www.economist.com/united-states/2020/01/11/consumer-confidence-no-longer-translates-into-presidential-popularity

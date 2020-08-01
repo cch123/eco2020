@@ -23,3 +23,7 @@ Time is very short. Since the government insists that it will not extend the tra
 The biggest worry is that the trade negotiations, which both sides admit are making little progress, may end with no trade deal at all being done. If that happens, customs duties will be charged on many goods, notably food, and the protocol would still come into force. This would require, for example, applying the EU’s single-market rules against state subsidies to any companies that do significant business in Northern Ireland, even if they are based in Great Britain.
 
 Some Tory Brexiteers reckon that after no deal the protocol could be ignored. But that would mean not just a breach of treaty obligations, but also the return of the very conundrum that the protocol is designed to solve: how to avert a hard border with Ireland. Northern Ireland may yet come to dominate the second round of Brexit negotiations just as it did the first. ■
+
+## URL
+
+https://www.economist.com/britain/2020/04/30/the-problematic-northern-ireland-protocol

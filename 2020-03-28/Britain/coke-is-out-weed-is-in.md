@@ -25,3 +25,7 @@ Richard Walton, a former senior cop who co-wrote the report, predicts that some 
 Still, some dealers have temporarily retired from the trade altogether. “I’m not going outside for a while,” says one. “I don’t want to be taking any cash that has had all those dirty hands on it.”
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/03/26/coke-is-out-weed-is-in

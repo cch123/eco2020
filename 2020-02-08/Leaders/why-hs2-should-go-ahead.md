@@ -27,3 +27,7 @@ The main point of HS2, similarly, is its impact on the cities and towns along it
 This is a tricky decision for Mr Johnson. It will be the biggest financial call of his time in office. His party is divided over the issue. HS2 will dog his premiership if it goes wrong. But if he wants his vision of Britain to work, he needs it.■
 
 Sign up to our fortnightly climate-change newsletter [here](https://www.economist.com//theclimateissue/)
+
+## URL
+
+https://www.economist.com/leaders/2020/02/08/why-hs2-should-go-ahead

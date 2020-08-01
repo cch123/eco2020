@@ -69,3 +69,7 @@ As a field and a threat, though, AI, like synthetic biology, does have the advan
 Getting such risks taken seriously will never be easy. It is to some extent contrary to human nature. Humans assume that the future will be like the past; they prepare for things they have experience of. Mr Murtagh says that grid operators at high latitudes take solar storms more seriously than others do because of experiences like that of Quebec in 1989. Countries hit hard by SARS have, by and large, done better against covid-19 than those which never had to get to grips with the previous pandemic. When it comes to the truly novel, no one will have that core of experience to build on.
 
 Where experience fails, though, science and imagination may sometimes fill in. Humans often look to the future like Herbert’s superstitious and fanatical mates staring up at the Carrington event’s strange skies, filled with “dire forebodings”. But it can be seen in other ways. You do not have to believe in trillions of people living the good life for ever. Just that there are things to come which are worth caring about, and worth protecting from those threats that reason reveals.■
+
+## URL
+
+https://www.economist.com/briefing/2020/06/25/the-world-should-think-better-about-catastrophic-and-existential-risks

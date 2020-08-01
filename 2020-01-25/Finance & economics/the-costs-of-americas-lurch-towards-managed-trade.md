@@ -29,3 +29,7 @@ Another danger is that China simply diverts trade from its other trading partner
 If the deal sticks, it will threaten the world’s trading system. That system, ironically, is the result of America’s turning away from managing trade in the 1990s. Realising that it could not preach the virtues of free markets while itself practising something so different, America sought the creation of the WTO, as a shift towards a system based on rules rather than power. Mr Trump’s presidency has consistently undermined those rules, and the deal with China again reinforces the idea that they do not matter. Now that he has won his share of the Chinese market, other countries may demand the same.
 
 But the deal could also very easily fall apart, ushering in another round of hostilities. America is tightening its export controls, which could limit the goods available for China to buy. So, whatever the deal’s fate, disruption looks inevitable. Whether Mr Trump will still be in office when that becomes clear remains to be seen. Official figures on whether China’s purchases have met this year’s target will not become available until early 2021, after the presidential election. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/01/25/the-costs-of-americas-lurch-towards-managed-trade

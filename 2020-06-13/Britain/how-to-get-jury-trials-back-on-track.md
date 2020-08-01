@@ -23,3 +23,7 @@ Innovation is in order. One option is to shrink the size of the jury, perhaps to
 The best solution may be the one most remain unwilling to countenance: online jury trials. Justice, a legal charity, has run experiments showing how they could work. In the next test, designed to overcome objections that jurors might struggle with technology or lack room at home, jurors will all log on from a church hall, with someone on hand to help with IT. A similar set-up in a sports hall would allow dozens of jurors to hear different cases simultaneously. In the end, the judiciary will need to weigh up opposing principles of justice. In-person jury trials may be the ideal, but justice delayed is justice denied. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/06/11/how-to-get-jury-trials-back-on-track

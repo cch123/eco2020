@@ -27,3 +27,7 @@ Admirers of Mr Xi may call his anti-corruption campaign a new Progressive Era. M
 Ms Ang is convincing about the economic risks of Mr Xi’s drive for conformity. But the party’s focus on politics is also rational, says Feng Chucheng, a political-risk analyst at Plenum, an independent research company. He notes that historically lots of bribes were paid by one official to another to secure a promotion, rather than by entrepreneurs to enable economic development. Other abuses of power involved no cash at all: helping a relative jump the queue for housing or a rationed car licence plate, for instance. Indeed the public is arguably more angered by social inequalities than by embezzled money. Mr Feng cites a singer, Tong Zhuo, who casually boasted during a broadcast in May that rules were bent to secure his place at a famous drama school. Viewers erupted. To date, 21 officials in two provinces have been punished, including Mr Tong’s stepfather, a mid-ranking party functionary.
 
 One effect of the purge has both economic and political consequences. Officials at all levels of government are more risk-averse and reluctant to innovate, says Mr Feng. Ms Ang describes outright paralysis among decision-makers. She adds that corruption’s true root cause is the state’s enormous power over the economy. That, alas, is a horse that the party is unwilling to dismount. ■
+
+## URL
+
+https://www.economist.com/china/2020/06/25/to-chinas-rulers-the-cupidity-of-officials-is-a-political-crisis

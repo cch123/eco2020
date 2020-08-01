@@ -23,3 +23,7 @@ ASPI argues that it has consistently met its obligations, spending more on maint
 The outcome of the standoff between the government and Italy’s biggest infrastructure company is unclear. Matteo Renzi, a former prime minister, has already said that his centre-left party, Italia Viva, will vote against the law change because “improvised” legislation will scare away international investors. The Five Star movement, which harbours the most punitive view of ASPI, is in a state of chaos.
 
 How the vote will go is anyone’s guess. Observers suspect that the government will try to extract big payments from ASPI in return for leaving its licences, perhaps €4bn, plus a cut in tolls. This would hurt ASPI but not fatally, and relieve pressure on Atlantia. Its subsidiary could keep running motorways, albeit under supervision by third parties. Just as well for Italian motorists—Atlantia’s infrastructure vehicle cannot easily be replaced. ■
+
+## URL
+
+https://www.economist.com/business/2020/01/09/autostrade-risks-losing-its-motorways

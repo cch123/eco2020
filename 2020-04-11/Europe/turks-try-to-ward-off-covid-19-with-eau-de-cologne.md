@@ -23,3 +23,7 @@ To this day, in homes across Anatolia, hosts sprinkle kolonya on their guests’
 Since the outbreak, kolonya has been flying off the shelves. One online retailer has reported a 3,400% increase in sales. Since kolonya is mostly alcohol, it may indeed destroy the virus. Granted, soap is cheaper. But kolonya smells nicer.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/04/11/turks-try-to-ward-off-covid-19-with-eau-de-cologne

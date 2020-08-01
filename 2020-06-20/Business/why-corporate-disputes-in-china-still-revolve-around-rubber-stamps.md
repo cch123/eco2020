@@ -17,3 +17,7 @@ The oddest recent chop bust-up occurred in April. Li Guoqing, the ousted co-foun
 Chops have figured in business fights elsewhere. In 2007 Russian police seized seals from Hermitage, an investment firm owned by Bill Browder, a deported financier, and used them to re-register its companies under others’ names. But in 2015 Russia eliminated the need for company seals. In Japan and South Korea, where chops are still used, tussles over them are rare.
 
 In China’s sharp-elbowed business world chop rows remain more common—and mostly unreported. Managers sometimes misuse seals to enter side contracts. Lawsuits to reclaim a chop can drag on, says Eric Carlson of Covington & Burling, a law firm, so many cases are resolved out of court. But, he notes, technology is catching up with tradition. China is starting to deploy electronic chops, which are easier to monitor—and to strip from aggrieved wielders.
+
+## URL
+
+https://www.economist.com/business/2020/06/18/why-corporate-disputes-in-china-still-revolve-around-rubber-stamps

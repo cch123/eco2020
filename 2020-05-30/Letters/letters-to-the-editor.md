@@ -53,3 +53,7 @@ SHENGGEN FANAGNES KALIBATAPAUL POLMANJEREMY OPPENHEIMFood and Land Use Coalition
 Re-reading “The Leopard” ([Home entertainment](https://www.economist.com//books-and-arts/2020/05/02/travel-to-a-land-of-sun-and-dust-with-the-leopard), May 2nd) as the world debates what is or is not fake news brings to mind a quote from the melancholy finale of Giuseppe Tomasi di Lampedusa’s novel:
 
 YACOV ARNOPOLINLondon
+
+## URL
+
+https://www.economist.com/letters/2020/05/28/letters-to-the-editor

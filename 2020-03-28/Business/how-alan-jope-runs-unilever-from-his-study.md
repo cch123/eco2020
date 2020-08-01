@@ -33,3 +33,7 @@ Apart from changing Unilever’s business, covid-19 is also reshaping its boss�
 No longer. Mr Jope says that right now strategy is not the main priority. His “operational brains”—the HR, supply-chain and operations chiefs—are more important than ever. His country heads are crucial to running businesses on the ground, including negotiations with panicky governments. Internal communication is critical. One day strategic opportunities will resurface. But right now is not the time for distractions. At least most of them: before saying goodbye he lets slip, slightly bashfully, that his next appointment is a virtual party organised by some of his younger employees. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/03/26/how-alan-jope-runs-unilever-from-his-study

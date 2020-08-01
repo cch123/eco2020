@@ -49,3 +49,7 @@ Chile said it would issue immunity cards to people who have recovered.
 Nearly 1,100 sailors aboard the Charles de Gaulle, a French aircraft-carrier, tested positive.
 
 The German state of Bavaria cancelled the Oktoberfest beer festival. The mayor of Munich supported the decision, but said it was still a bitter blow.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/04/25/politics-this-week

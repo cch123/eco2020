@@ -27,3 +27,7 @@ He kept his Polish accent. Penny Garrett, a student at Hornsey College of Art wh
 Marber died near his home in Essex on March 30th at the age of 94. But five years earlier, he did go back. The Galicia Jewish Museum in Krakow put on an exhibition of his work, and at the opening he addressed the guests in his elegant 1930s Polish, the first time he had visited the country in 70 years. He still could not return to Turek, where as a boy he rode in a haycart to his grandfather’s farm, eating cherries that the driver whipped from overhanging trees. But in Bochnia—where, on the night before he fled the ghetto, he “lost God”—he “remembered every street, every house”, says Tomasz Strug, the show’s curator.
 
 In Krakow, where the Gestapo caught him, Ms Frommer-Dawson took a photo of Marber gazing at a poster for the exhibition, which adapted his cover for the novel, “Lost Moorings”. As he sometimes did, Marber had used himself as a model; the image shows several versions of his profile, jaggedly layered on top of one another in white, black and green. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/05/02/remembering-romek-marber-a-master-visual-craftsman

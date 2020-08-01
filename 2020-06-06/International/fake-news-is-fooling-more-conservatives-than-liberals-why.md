@@ -53,3 +53,7 @@ Another cause of conservative mistrust is that, in some countries, the electoral
 The lessons from history are gloomy. Hofstadter believed that political paranoia “may be a persistent psychic phenomenon, more or less constantly affecting a modest minority of the population.” But, he warned, “certain historical catastrophes or frustrations may be conducive to the release of such psychic energies, and to situations in which they can more readily be built into mass movements or political parties.” Like the Iraq war and the global financial crisis, the pandemic may prove to be exactly that kind of catastrophe. ■
 
 Correction (June 8th, 2020): The poll cited in the third paragraph was by Gallup International, not Gallup as we originally stated. The two are separate organisations.
+
+## URL
+
+https://www.economist.com/international/2020/06/03/fake-news-is-fooling-more-conservatives-than-liberals-why

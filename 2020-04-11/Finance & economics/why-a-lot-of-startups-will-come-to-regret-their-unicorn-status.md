@@ -27,3 +27,7 @@ A good early-stage investment partner will advise founders not to go for a headl
 When funds are raised at lofty values, it can create misalignment later on between founders, early-stage VCs and late-stage investors, says Simon Levene of Mosaic, a London-based VC firm. A founder sitting under a mountain of preference stock is like the manager of an over-indebted firm. In a bear market, his stake is probably worthless. So why not blow the company’s remaining cash on perks, take undue business risks (“gamble for redemption”) or simply give up? He may use his voting rights to stymie an exit for other investors. It can get messy.
 
 Everyone can be a dreamer in a buoyant market. The kill rate is low. But when trouble strikes, it reverts to the mean—and, as a VC bigwig puts it, “a lot of things get whacked.”
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/04/08/why-a-lot-of-startups-will-come-to-regret-their-unicorn-status

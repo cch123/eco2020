@@ -93,3 +93,7 @@ There is also a worry that, the longer the economy is suppressed, the more long-
 In the end, just as lockdowns, for all that their virtues were underlined by the modellers’ grim visions, spread around the world largely by emulation, they may be lifted in a similar manner. If one country eases restrictions, sees its economy roar back to life and manages to keep the rate at which its still-susceptible population gets infected low, you can be sure that others will follow suit. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/briefing/2020/04/04/the-hard-choices-covid-policymakers-face

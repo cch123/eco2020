@@ -31,3 +31,7 @@ Technology has made organising easier, too. The GWC, explains Vanessa Bain, one 
 The latest wave of collective action will allow workers’ groups to grow and form new connections, predicts Veena Dubal of the University of California’s Hastings College of the Law. The strikes on May Day were the first to be organised jointly by several of them. Yet a revolution in American industrial relations, as happened after the Great Depression, is not quite on the cards. Gig workers are still far from matching the might of big platforms, whose business models often rely on fragmented labour. Thomas Kochan of the MIT Sloan School of Management argues that, to increase their leverage, labour groups need to redouble their efforts to make sure they are heard by customers, who can then push firms to change their ways. Protesting outside warehouses, however creatively organised, will probably not do the job. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/05/09/could-the-pandemic-give-americas-labour-movement-a-boost

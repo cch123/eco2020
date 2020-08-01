@@ -29,3 +29,7 @@ By contrast, loxit, for the much-hoped-for exit from lockdown, is a dud. Lose th
 An overlooked rule of portmanteaus is that the second element is more important than the first. That is because it is the core of the word: an XY is a type of Y, not a type of X. This explains the weakness of morona,a synonym for covidiot, from corona moron. It obeys the overlap requirement above (in the sharing of -oron-), but falls at the sequencing hurdle, since a morona is not a type of corona. Ditto for smizing, which is supposed to mean smiling with your eyes, while your mouth is hidden by a mask. It is not a kind of eyezing.
 
 Dictionary websites often have a notice to would-be word-coiners: please don’t send us your neologism and ask to have it included. Dictionaries record not useful words, but used ones, which are actually spoken or written long or often enough to convince the lexicographers that they have found a place in the language. If you want your contribution to coronaspeak to take off, you need to lobby not the dictionary-writers, but your friends and colleagues, and get them to use and publicise it. Good coinages are much rarer than failed ones, but pay attention to usefulness, transparency and sounds, and your invention may find its way into the panglossary.
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/06/27/the-rules-of-coronaspeak

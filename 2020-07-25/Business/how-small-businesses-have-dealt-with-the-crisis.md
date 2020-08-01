@@ -33,3 +33,7 @@ This flexibility reflects some of the rules Mr Huszar developed when serving in 
 The 20% pandemic closure rate among small businesses in America, bad though it is, could be read as showing that most soldier on. A survey from the National Federation of Independent Business shows that optimism among small firms rose for the second consecutive month in June. This month’s spike in infections might temper it again. But then small-business managers like Messrs Shamess and Huszar will once again adapt. They have the skills to do so.
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/07/23/how-small-businesses-have-dealt-with-the-crisis

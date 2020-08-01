@@ -53,3 +53,7 @@ When the world economy begins to open up after the pandemic, it will find the oi
 A sudden loss of production could, if demand picks up quickly, create an opportunity for more drilling. But investors may now be warier of oil companies’ spending plans. Especially if they suspect covid-19 fundamentally alters oil demand: more people may work remotely, a lot of international travel could come to be seen as unnecessary and companies may bring supply chains closer to home to avert disruptions. “Are we about to see a structural change in oil consumption?” wonders Mr Courvalin. “It is a very valid question.” Oilmen used to take comfort that it was an abstract one. No longer. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/briefing/2020/04/08/an-unprecedented-plunge-in-oil-demand-will-turn-the-industry-upside-down

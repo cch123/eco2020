@@ -21,3 +21,7 @@ At Moredon Turkish Barbers in Swindon, Mustafa Can explains their success. “Pe
 “A lot of Kurdish are freedom fighters, they like the gun,” says Ramzi Mawloud, an Iraqi in Swindon. “So when…they see that I’m making money, without any respect, they open a shop next door.” Aziz Buyukertas, a Turk operating in Melksham, says, “Kurdish barbers are going everywhere, some of them are taking the piss. Every town there are three, four, five of them.” Mr Can warns of newcomers’ suspect scissoring. “They don’t have a clue. They are going to burn your ears or cut your skin.” Fresh locations, he says, are drying up. “I google other places and see that they have one already. There is nowhere left to go.”
 
 Competition is forcing British barbers to change their practices. “The Turks keep us on our toes,” laments Gary Hatto, who has a chain of barbershops. “Turks are willing to work seven days a week and you’ve got to admire a man who does that…we’ve started trying to do that now.” But Mr Hatto is unlikely to be put off by intensifying competition. Four years ago, he was jailed for biting a rival barber. ■
+
+## URL
+
+https://www.economist.com/britain/2020/01/16/why-turkish-barbers-are-taking-over-britains-high-streets

@@ -21,3 +21,7 @@ The Israelis’ frustration with the Palestinians is understandable. But Mr Neta
 Arab states have also spoken up. Annexation “will certainly and immediately up-end Israeli aspirations for improved security, economic and cultural ties with the Arab world,” wrote Yousef al-Otaiba, an Emirati diplomat, in what is thought to be the first opinion piece by a Gulf official in an Israeli newspaper. King Abdullah of Jordan, who has millions of Palestinians in his country, warns of a “massive conflict”. Some of this is probably bluster. But even Israeli officials worry that annexation could lead to protests or violence.
 
 Even if annexation were to go ahead smoothly, there is another cost to consider. If Mr Netanyahu starts taking bits of the West Bank, Israel could end up facing a profoundly uncomfortable choice. It could decide to grant the Palestinians full Israeli citizenship, and thus risk seeing them one day outnumber and outvote Jews. Or it could choose to leave them shut away in reservations with minimal rights, like an apartheid state. To remain both Jewish and democratic, Israel must find a way to avoid those two outcomes. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/06/27/underestimating-the-risks-of-annexation

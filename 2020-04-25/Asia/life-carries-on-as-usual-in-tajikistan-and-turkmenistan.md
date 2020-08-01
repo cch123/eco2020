@@ -23,3 +23,7 @@ Elsewhere in Central Asia normal life has come to a standstill since the first c
 Turkmenistan, meanwhile, is gearing up for another sporting event: Horse Day on April 26th, which celebrates the Akhal-Teke, a local breed. The Protector has been known to join in the fun by competing in horse races. He will presumably think twice about rubbing shoulders with the other jockeys this year. Then again, he is such a gifted rider that he always wins by a big margin—a form of social distancing. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/asia/2020/04/23/life-carries-on-as-usual-in-tajikistan-and-turkmenistan

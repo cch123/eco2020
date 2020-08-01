@@ -41,3 +41,7 @@ His advantage is evident in polls. According to The Economist’s analysis of pu
 Mr Biden is not faultless. He is uninspiring on the stump and in debates. His Washington ties may inspire resentment from voters sceptical of elites. His candidacy would also represent a safety-first strategy for the Democrats at a time when many in the party desperately want to push a much more progressive economic, racial and social agenda. Yet for all that he still appears to be the Democrats’ best option in a contest against Mr Trump. ■ 
 
 Dig deeper:Sign up and subscribe to Checks and Balance, our new [newsletter](https://www.economist.com//checksandbalance/) and [podcast](https://www.economist.com//podcasts/2020/04/24/checks-and-balance-our-weekly-podcast-on-american-politics) on American politics
+
+## URL
+
+https://www.economist.com/united-states/2020/02/01/who-will-be-donald-trumps-most-forceful-foe

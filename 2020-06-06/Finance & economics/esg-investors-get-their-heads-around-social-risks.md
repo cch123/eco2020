@@ -23,3 +23,7 @@ Whizzy data analysis might fill the gap. Thinknum Alternative Data, a research f
 A third data firm, Truvalue Labs, assesses the sentiment of news coverage. Using this, Mr Serafeim and researchers from State Street, an asset manager, found that positive coverage of a company’s response to covid-19 was linked to smaller-than-average subsequent declines in stockmarket returns in February and March, controlling for size and industry.
 
 The rigour is helpful, but the challenge will be showing that such data can be consistently useful for investors. New social risks will arise as lockdowns end—for instance, relating to how companies make offices covid-proof. Plenty still to keep the number-crunchers on their toes. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/06/04/esg-investors-get-their-heads-around-social-risks

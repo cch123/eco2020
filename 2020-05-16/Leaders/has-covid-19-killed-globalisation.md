@@ -29,3 +29,7 @@ Don’t be fooled that a trading system with an unstable web of national control
 Tragically, this logic is no longer fashionable. Those three body-blows have so wounded the open system of trade that the powerful arguments in its favour are being neglected. Wave goodbye to the greatest era of globalisation—and worry about what is going to take its place.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/leaders/2020/05/14/has-covid-19-killed-globalisation

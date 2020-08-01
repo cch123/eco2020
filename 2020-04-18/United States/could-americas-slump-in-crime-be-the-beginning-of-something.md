@@ -29,3 +29,7 @@ Still, the idea of a firebreak bringing benefits after de facto curfews are lift
 Nor can anyone be sure how other pandemic-related changes under way will affect longer-term crime rates. Early releases of prisoners, police making fewer arrests, an 85% surge in national gun sales in March and record increases in unemployment could all return crime to levels seen before the lockdowns. Trying to make use of the firebreak makes sense. But keeping crime lower will prove difficult indeed. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/united-states/2020/04/16/could-americas-slump-in-crime-be-the-beginning-of-something

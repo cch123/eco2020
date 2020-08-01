@@ -25,3 +25,7 @@ The hunt epitomised other values for him. It brought the classes together not as
 And that, in the end, summed up England for him. As he argued in “England: An Elegy” in 2000, it was not a nation—it had never quite succeeded at that—but a home, in which, as in his old farmhouse, he could ease off his boots, pour a glass of wine, and know the place as his. As occupiers went in his particular part of it, he was very new, a town boy who also kept two rooms in the Albany off Piccadilly and whose accent was still foreign. But like Mustafa, the local craftsman cobbler, he had learned the ancient art of fitting in.
 
 His ideas, too, had mellowed amid the grass. He spoke warmly of feminism as part of natural reform, decrying only the destructive kind. He regretted his thoughts about homosexuality, which was complicated. Towards any nonsense from the left, however, he remained on high alert—ready, as soon as he heard it flustering the hen-coop, to seize crop and helmet and cry “Tally ho!” ■
+
+## URL
+
+https://www.economist.com/obituary/2020/01/18/obituary-sir-roger-scruton-died-on-january-12th

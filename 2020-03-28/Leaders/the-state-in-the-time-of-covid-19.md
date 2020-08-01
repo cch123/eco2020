@@ -39,3 +39,7 @@ The most worrying is the dissemination of intrusive surveillance. Invasive data 
 Surveillance may well be needed to cope with covid-19. Rules with sunset clauses and scrutiny built in can help stop it at that. But the main defence against the overmighty state, in tech and the economy, will be citizens themselves. They must remember that a pandemic government is not fit for everyday life. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/leaders/2020/03/26/the-state-in-the-time-of-covid-19

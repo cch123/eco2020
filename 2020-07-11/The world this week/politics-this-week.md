@@ -53,3 +53,7 @@ India passed Russia to record the third-highest cumulative number of coronavirus
  Melbourne, Australia’s second-biggest city, went back into lockdown. The border between the states of Victoria and New South Wales was closed. See [article](https://www.economist.com//node/21789134).
 
 There were riots outside Serbia’s National Assembly when lockdowns were reimposed and the government threatened a curfew.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/07/11/politics-this-week

@@ -17,3 +17,7 @@ On April 5th Global Witness, a watchdog, published a study showing how at least 
 Global Witness acquired a spreadsheet that seems to have been made by the RSF to track its purchases. By checking pictures of RSF technicals on social media, ship manifests and satellite imagery, Global Witness claims it was able to corroborate the information in it. The organisation claims that the RSF bought Toyota pickup trucks in the Gulf through two RSF front companies that are also linked to gold trading. This is a business in which the RSF’s commander, Mohamed Hamdan Dagalo (known as “Hemedti”), has a big interest. Despite the militia’s official status the money used to pay for the vehicles seems not to have come from the Sudanese state.
 
 Mr Bashir’s government was built almost entirely on violence and patronage. Many hope that his fall will lead to a civilian-led government and democracy. But the transition remains fragile. Real power, which grows out of the barrels of guns mounted on technicals, is still in the hands of the army and RSF.
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/04/30/how-sudans-warlords-buy-their-gun-trucks

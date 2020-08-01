@@ -25,3 +25,7 @@ The shared conservatism which once helped officers and troops to overcome class 
 Not all officers have moved in line with senior staff. Some allowed troops to attend counter-protests. But under new regulations officers who aren’t seen to encourage diversity will not be promoted. Anthony King, chair of war studies at Warwick university, thinks that in their drive to support diversity officers might sometimes be seen to promote women and ethnic minorities who had failed to meet the army’s own rigorous standards. “Independently of any committed racism or sexism on the part of the soldiers, this is bound to generate a reaction,” he cautions. A former squaddie says he left the army last year when a female officer was promoted despite failing fitness tests. According to a spokesman, “All fitness courses require the same challenges for both men and women—all staff being promoted are expected to pass the relevant tests.” The squaddie is unimpressed. “The army is just for shit cunts and liberals now,” he says. ■
 
 Correction (July 24th 2020): A version of this article previously said that the head of the armed forces had written to service personnel in support of Black Lives Matter, and that normal rules had been waived to allow them to attend BLM protests. This has been corrected. Sorry.
+
+## URL
+
+https://www.economist.com/britain/2020/07/18/black-lives-matter-and-the-british-armys-culture-war

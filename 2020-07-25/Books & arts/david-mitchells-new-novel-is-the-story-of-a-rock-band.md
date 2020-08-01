@@ -23,3 +23,7 @@ But their journey to the top has downs as well as ups. They encounter shady prom
 “Utopia Avenue” itself is not a fast ride. Some scenes go on too long, others take unnecessary tangents. Nevertheless it is a consistently absorbing book, which skilfully conveys the excitement and mayhem of the era, and the hopes and dreams of those swept up in it. Elf’s sections sketch a voyage of self-discovery, during which she recognises her abilities, moves on from a sponger boyfriend and embraces her true sexuality. Dean’s story is a cautionary tale rich with lurid scandals, comic misadventures and family feuds. Jasper develops into the novel’s most complex character. A former patient of a Dutch psychiatric clinic, he wrestles with “emotional dyslexia” and a fear of mirrors. But when he is plagued by persistent knocking from “the squatter in his skull”, both his sanity and the band’s future are threatened.
 
 The later sections told from Jasper’s perspective are filled with what one figure in “The Bone Clocks” termed “magickery-pokery”. Mr Mitchell overdid his mind-bending flights of fancy in that book; in this one there is method in his madness. There are entertaining cameos from famous faces, notably David Bowie, Francis Bacon and Janis Joplin. As ever, characters from the author’s earlier stories pop up and pass through this one, often in intriguing new guises. A lot of fun is had along the way, by both Mr Mitchell and the reader. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/07/25/david-mitchells-new-novel-is-the-story-of-a-rock-band

@@ -35,3 +35,7 @@ Yet these newfound powers would have drawbacks. For the CBDC to be a conduit for
 Central banks would also have to pay heed to new vulnerabilities. In the event of a panic, savers could convert their bank deposits into their CBDC accounts, adding to stresses on the financial system. Even without a panic, strong demand for CBDCs could chip away at banks’ deposit bases, making them more reliant on wholesale funding, which is often more costly and less stable. Some economists argue that limits on withdrawals and on issuance might help avoid some of these effects.
 
 In any case, the policy ramifications are the stuff of monetary fiction for now. A more practical concern is whether central banks can succeed in building sturdy, easy-to-use CBDCs. The past few months have brought several examples of failures in public technology, from overwhelmed unemployment websites in America to an abandoned coronavirus-tracing app in Britain. No government wants to see its currency crash, even if only virtually. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/07/23/a-shift-from-paper-to-virtual-cash-will-empower-central-banks

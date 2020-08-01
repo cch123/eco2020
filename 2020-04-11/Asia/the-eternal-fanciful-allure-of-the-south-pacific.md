@@ -23,3 +23,7 @@ But what about New Zealand? One-percenters who have long prepped for the apocaly
 Too bad if you’re among the filthy rich who thought of New Zealand only recently: it has tightened its laws to restrict foreign ownership of property. But even if you already own a bolthole, you need to get ahead of the looming catastrophe. Few anticipated Jacinda Ardern, the prime minister, closing borders so promptly last month. And how on earth do you decide which of your family and staff to bring? And—oh lord—which pets? No exceptions: the pets must spend at least ten days in government quarantine. A converted nuclear-missile silo in Kansas, whose prices are reported to be rising, starts to look more appealing.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/asia/2020/04/11/the-eternal-fanciful-allure-of-the-south-pacific

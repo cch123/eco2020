@@ -31,3 +31,7 @@ That began to change only in 1996, when Bristol hosted a “festival of the sea�
 But, as the activists proved this week, history is never over. The empty plinth already attracts crowds; the absence of a memorial is itself a memorial. Spurred on by the protest, Colston’s Girls School took down its own statue of the slaver and is considering changing its name. Activists hope a new slavery museum and a broader school curriculum will follow. For his part, Mr Rees’s priority remains dealing with the city’s present-day racial inequalities. As he puts it, “guilt don’t feed people, it doesn’t give people jobs.”
 
 In the early hours of June 11th, the authorities winched Colston’s statue from the harbour, feet first. Soon, it will be on display again—in a museum, adorned not with hagiography but with the placards the protesters left behind. ■
+
+## URL
+
+https://www.economist.com/britain/2020/06/11/the-colston-statue-and-britains-legacy-of-slavery

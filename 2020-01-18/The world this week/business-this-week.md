@@ -29,3 +29,7 @@ Buffeted by the grounding of its 737 MAX airliner, Boeing confirmed that last ye
 A report on drinking habits in the United States from IWSR, which analyses the drinks industry, found that the consumption of wine fell by 1% last year, the first drop in 25 years (the market for sparkling wine remained bubbly, however). Americans in search of a libation are increasingly getting a thirst for ready-to-drink mixes, a market that grew 50% by volume, especially fruity hard seltzers.
 
 Following (unconfirmed) reports that Carlos Ghosn was smuggled out of Japan in a case for a double bass instrument when he fled bail, Yamaha issued a warning for people not to get stuck in boxes intended for musical instruments. The Japanese maker of musical equipment said that (for reasons it won’t mention) there has been a spike in social-media posts of people hiding inside large receptacles for transporting instruments. This could cause, an “unfortunate accident”, it said. Especially if squashed next to a trombone.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/01/18/business-this-week

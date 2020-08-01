@@ -79,3 +79,7 @@ The combined effect of export controls and stockpiling could be devastating to p
 Global co-ordination could help keep that tragedy at bay. Last month 22 members of the World Trade Organisation, who between them account for 63% of the world’s agricultural exports, pledged to keep trade open, a good omen. More transparency on strategic stocks could ease tensions. Mr Laperrière suggests that co-operation could help on local levels, too: supermarkets could launch inter-trading platforms, where they can exchange produce when faced with shortages. If such co-operation and interconnection can be maintained, the worst of the covid-19 hunger may yet be averted. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/briefing/2020/05/09/the-worlds-food-system-has-so-far-weathered-the-challenge-of-covid-19

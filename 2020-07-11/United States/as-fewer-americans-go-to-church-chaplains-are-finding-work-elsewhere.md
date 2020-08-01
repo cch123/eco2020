@@ -21,3 +21,7 @@ Their particular speciality is death. A majority of Americans die in hospital. Y
 Covid-19 is also prompting chaplains and medical staff to work together more closely. Houston Methodist, a hospital in Texas’s biggest city, is one of many in which chaplains are still unable to visit covid-19 patients. Stacy Auld, the director of spiritual care, says the hospital tries to find ways round that. When it became obvious recently that a patient, who had expressed a desire to be baptised, would shortly die, a chaplain guided a nurse from behind a glass screen as he performed the rite.
 
 A few have visited patients with covid-19 throughout the pandemic. At its peak in Massachusetts, Brian Conley, a Catholic priest, administered the last rites to between three and five Catholic patients a day at Brigham and Women’s Hospital in Boston, more than five times his usual rate. He recited verses of the Koran and Jewish prayers for the dying when an imam or rabbi was not available. Being at the bedside of a patient dying from covid-19 is different from attending other deaths, he says, because he has to keep a six-foot distance and wear a face shield. Patients often remain hooked up to ventilators even after they have been switched off to reduce the threat of infection. “It can feel strange and distant,” he says. “But the need is the same.”■
+
+## URL
+
+https://www.economist.com/united-states/2020/07/11/as-fewer-americans-go-to-church-chaplains-are-finding-work-elsewhere

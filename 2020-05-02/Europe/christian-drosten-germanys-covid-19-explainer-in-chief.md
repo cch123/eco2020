@@ -21,3 +21,7 @@ His appeal to Germans is similar to that of Mrs Merkel. Both are measured speake
 Dr Drosten is also good at anecdotes, talking about his father, who wondered how social distancing would affect his shooting-club celebrations, or the struggles of balancing child care and work. And he admits to having enjoyed a drink at the pub before they closed down—but always from the bottle, as it is more hygienic. Of course.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/04/30/christian-drosten-germanys-covid-19-explainer-in-chief

@@ -25,3 +25,7 @@ As imports become harder to get, inflation is likely to rise. The collapsing pri
 In February the government said it would punish anyone spreading rumours about a serious outbreak. Officials have blamed America for fearmongering. But the regime’s own ailing members have made the scale of the crisis impossible to conceal. And it could get worse for Iran’s rulers. Many of them are old, infirm and especially at risk of dying from covid-19. ■
 
 Dig deeper:
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/03/12/iran-has-let-its-covid-19-outbreak-get-out-of-hand

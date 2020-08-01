@@ -19,3 +19,7 @@ What is more, the narrow definition of the crime and the reluctance of courts to
 Despite all these flaws, Taiwanese seem to like the adultery law. A poll conducted in 2017 by the Taiwanese Public Opinion Foundation found that 69% of adults wanted to keep it on the books. An earlier government survey found even stronger support for retaining the law. “In Taiwanese society, everyone thinks a stable marriage and family is the foundation of social stability,” Mr Tsai says.
 
 Nonetheless, several lower courts have asked the constitutional court to review the law. It heard oral arguments on the subject on March 31st, and says it will announce a ruling at the end of May. The court upheld the law as recently as 2002, but since then has issued a series of more liberal rulings. It was the court, for example, which ordered parliament to legalise gay marriage in 2017. Mr Tsai says the government is open-minded about the law’s future. The judges, however, are likely to be more categorical. ■
+
+## URL
+
+https://www.economist.com/asia/2020/05/14/taiwans-courts-may-decriminalise-adultery

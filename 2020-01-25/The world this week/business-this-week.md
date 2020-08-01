@@ -31,3 +31,7 @@ In its biggest acquisition since 2007,  BAE Systems agreed to pay $1.9bn for a G
 The share price of Alphabet continued to climb, after the market capitalisation of Google’s parent company passed the $1trn mark. It joins three other American companies that have seen their stockmarket value rise above that level: Amazon (briefly), Apple and Microsoft. They all have some way to go to become the world’s most valuable listed company. That crown now belongs to Saudi Aramco, which is worth $1.8trn following its IPO last month.
 
 Tesla’s market value accelerated past $100bn for the first time, making it the world’s second-most-valuable car company, after Toyota. Tesla’s share price has risen by a third since the start of the year. It still accounts for only a tiny fraction of global car sales. Last year it delivered 367,500 vehicles, compared with 11m from Volkswagen alone.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/01/23/business-this-week

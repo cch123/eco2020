@@ -31,3 +31,7 @@ Social transformation is not easy. When it happens fast, conflicts erupt, says K
 Economic change can be wrenching, too. Even before covid-19 hit, the export-led model that powered South Korea’s economic rise had come under scrutiny. Growth has slowed markedly: in 2019 the economy grew at a rate of just 2%, the lowest in a decade. Competition from China and the stalling of globalisation have hurt the chaebol, South Korea’s big conglomerates, which have long been the engines of its economy.
 
 The pandemic has already pummelled South Korea’s open economy. In the short term, it will be crucial to try to minimise the damage from the inevitable recession. But once South Korea emerges from the virus-induced slump, it needs to get back to looking for new sources of growth. One place to look is its burgeoning startup scene. ■
+
+## URL
+
+https://www.economist.com/special-report/2020/04/08/south-korea-is-going-through-deep-social-economic-change

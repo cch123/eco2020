@@ -23,3 +23,7 @@ Across the city, in North Evington, one of the worst affected neighbourhoods, Aa
 In a fortnight’s time the government will review the restrictions it has placed on Leicester. Until then, most residents say they intend to follow the rules, no matter the inconvenience. “It’s got to be done, hasn’t it?” sighs Yusuf, smoking on his doorstep. “It’s for individuals’ safety here.” Yet they are rather less sanguine about how the process has been handled. At the start of the original lockdown, Britons were mostly willing to give the government the benefit of the doubt. That goodwill has since evaporated. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/07/02/leicester-shuts-up-shop

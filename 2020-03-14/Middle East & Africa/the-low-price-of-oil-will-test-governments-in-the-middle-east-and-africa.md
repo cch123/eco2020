@@ -31,3 +31,7 @@ In the long term, a sustained fall in the price of oil may not be a bad thing fo
 The Gulf states talk a lot about diversification, but their business cycles are still hostage to oil prices. Muhammad bin Salman, the crown prince and de facto ruler of Saudi Arabia, has ambitious plans to invest in everything from tourism to tech. Foreign direct investment in the kingdom, though, was already weak, partly due to worries about Prince Muhammad’s arbitrary rule. Confidence will not be boosted by his surprise oil-price war. In the UAE, perhaps the most successfully diversified oil economy, the main alternative to crude is tourism, which provides 12% of GDP. But the covid-19 outbreak has scared off visitors.
 
 With less oil money around, African and Middle Eastern leaders may find it harder to keep the masses placid. In Angola elections are due in 2022 and the MPLA, which has ruled since independence in 1975, may face a genuine challenge. In Nigeria, the emir of Kano, who is a former central bank governor and critic of President Muhammadu Buhari’s economic policies, was dethroned on March 9th for showing “insubordination” to local authorities. Just before the oil price crashed, the authorities in Saudi Arabia arrested several influential royals, including Ahmed bin Abdel-Aziz, the king’s brother. In the absence of black gold, some strongmen will no doubt resort to the iron fist. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/03/12/the-low-price-of-oil-will-test-governments-in-the-middle-east-and-africa

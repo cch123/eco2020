@@ -25,3 +25,7 @@ Yet some experts worry that Mr Lofven is prioritising the health of the economy 
 During other pandemics, such as the outbreak of cholera at the end of the 19th century or the AIDS pandemic in the 1980s, Sweden imposed more stringent restrictions than its neighbours. So far the public is supportive of Mr Lofven’s contrarian strategy—but once the death toll rises this may quickly change. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/04/04/why-swedes-are-not-yet-locked-down

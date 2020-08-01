@@ -39,3 +39,7 @@ It is less obvious that in the longer term the epidemic will undermine the natio
 “When Europe has been in need, Italy has always given,” Mr Salvini railed in one of his many tweets. “Now that we are asking for help, all the [other] countries are starting to close their frontiers.” It is an oversimplification, but one that will strike a chord with many Italians. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/03/19/italy-is-overtaking-china-as-the-country-worst-hit-by-covid-19

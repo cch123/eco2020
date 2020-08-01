@@ -111,3 +111,7 @@ Sorensen, André, Junichiro Okata, and Sayaka Fujii. "Urban renaissance as inten
 Voigtländer, Michael. "The stability of the German housing market." Journal of Housing and the Built Environment 29, no. 4 (2014): 583-594.
 
 Blogs:Houses are assets not goods: taking the theory to the UK data [https://bankunderground.co.uk/2019/09/06/houses-are-assets-not-goods-taking-the-theory-to-the-uk-data/](https://www.economist.com/https://bankunderground.co.uk/2019/09/06/houses-are-assets-not-goods-taking-the-theory-to-the-uk-data/)
+
+## URL
+
+https://www.economist.com/special-report/2020/01/16/sources-and-acknowledgments

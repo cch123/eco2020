@@ -25,3 +25,7 @@ The first focus of his own energy was to bring back Moscow’s greatness. If the
 With such patriotism burning in him he was bound to be drawn to Russian politics. In 1998 he set up the Fatherland party, which aligned the next year with the All Russia party of Evgeny Primakov, recently prime minister. They could have been a governing duo, but were both destroyed by media attacks in Vladimir Putin’s favour. He never minded Mr Putin, and they were fairly close. It was Dmitri Medvedev, made president in 2008, who roused his ire and who at last fired him, since he clearly would never resign.
 
 Surprisingly for a city man, he promptly turned to farming, improving (in every way) a historic estate at Veedern, and keeping bees. Bees had long fascinated him, and he had drawn much criticism for spending more to rescue them from the peat-bog fires that choked Moscow in 2010 than he spent on helping Muscovites. But he found them a philosophy in themselves, so patiently building their city while he, the khozyain, almost Godlike, drew off the honey and perpetually watched over them. It was like the old days. ■
+
+## URL
+
+https://www.economist.com/obituary/2020/01/02/obituary-yuri-luzhkov-died-on-december-10th

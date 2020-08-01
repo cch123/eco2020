@@ -23,3 +23,7 @@ On the sinister side, jellyfish blooms have sometimes created havoc. Forty milli
 It may be that the meek will not ultimately inherit the Earth: jellyfish will. Because they can tolerate warming seas, acidification and pollution, some scientists believe that they may be set to outlast less robust animals. Others reckon that recent blooms simply reflect natural fluctuations in numbers.
 
 Enduring they may be; endearing they are not. Toy jellyfish, after all, are few and far between. “Octopuses, yes,” Mr Williams ruefully acknowledges, but “very, very few jellyfish”. They are too toxic and they look too weird. But, he argues persuasively, if they are ineligible for affection, they at least deserve humanity’s respect. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/04/02/jellyfish-not-the-meek-might-inherit-the-earth

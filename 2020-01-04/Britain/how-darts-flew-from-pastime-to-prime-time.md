@@ -21,3 +21,7 @@ This British pursuit has found devotees farther afield. German and Dutch fans bo
 In 2020 Madison Square Garden in New York will host a PDC event for the first time, as part of an effort to introduce the sport to even bigger markets. Although it is played in bars, darts has never been enjoyed as a spectator sport in the United States, according to Patrick Chaplin, a historian of the game. If Americans want to see big characters playing up to raucous crowds they can watch WWE wrestling. There is a knottier problem, too: much of the sponsorship for PDC events comes from bookmakers, but in most states gambling on sport is illegal. In New York punters can bet on sports only in a handful of casinos, not online or at events. Without bookies’ money, the PDC’s glitzy tournaments and bulging prize pots become less feasible.
 
 There may seem something indelibly British about darts; the heavy-drinking fans suggest that the game has never really escaped the pub. But the PDC is convinced that its boisterous, made-for-TV repackaging of the sport can find an even bigger audience abroad, and that players such as Ms Sherrock can shake off its blokey image. If the bet comes off, expect to see the arrows flying around the world.
+
+## URL
+
+https://www.economist.com/britain/2020/01/02/how-darts-flew-from-pastime-to-prime-time

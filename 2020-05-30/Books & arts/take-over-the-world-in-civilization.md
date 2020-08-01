@@ -19,3 +19,7 @@ The game’s makers try to take their cues from history, says Ed Beach, the lead
 In that initial version, released as the Soviet Union collapsed in 1991, there were two paths to victory. You could conquer the world, or you could be first to send human settlers to the stars. Adopting liberal democracy, which brought big scientific benefits, was generally the easiest way to win. When it became clear that history had not ended, the game evolved. You can win by converting everybody to your religion or seducing them with your culture. In the latest version players can supplant democracy with “synthetic technocracy” or “corporate libertarianism”.
 
 Perhaps what “Civilization” offers most in these queasy times is a world in which leaders’ decisions determine a nation’s fate. When your armies are routed and your cities sacked, you can usually tell what you got wrong. You can even plan for natural disasters. In real life, sadly, history often moves of its own accord. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/05/30/take-over-the-world-in-civilization

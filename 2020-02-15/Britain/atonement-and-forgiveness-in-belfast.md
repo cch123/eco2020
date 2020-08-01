@@ -29,3 +29,7 @@ Boris Johnson is said to feel “blindsided” by the legacy aspects of the powe
 Denis Bradley, a former Catholic priest who has played an important role in legacy debates, shares the widespread fear that clashes over dealing with the past could wreck the fragile new experiment in power-sharing. “The past has always been a mucky field, and it now risks turning into a swamp,” he says.
 
 Given that the DUP and Sinn Fein face opposing pressures from their voters, the best hope of a constructive approach to the legacy issue lay in London and Dublin continuing to play an active role in balancing truth discovery with vindictiveness, says Mr Bradley. But if Sinn Fein becomes a partner in the Irish government, as looks possible after the election on February 8th, and if the British Conservatives are determined above all to protect their soldiers, the two governments’ ability to act jointly as honest brokers will diminish fast. ■
+
+## URL
+
+https://www.economist.com/britain/2020/02/13/atonement-and-forgiveness-in-belfast

@@ -23,3 +23,7 @@ Nonetheless, for China the prudent policy is to try to speed up the development 
 Nonetheless all of this will be hard for China to accomplish and take a long time. Which means that Hong Kong will still matter in global finance. If you have a mutual fund with an allocation to Asian shares, or run a multinational company or bank, you should gauge Hong Kong’s financial health by three measures. One is how China implements the new security law—for example, whether it will be applied by independent judges or by judges congenial to Beijing. The second is whether America targets the dollar-payments system in Hong Kong, which has the potential to cause an immediate scare. And the last is whether the Communist Party attempts not just to suppress protests and to intimidate its critics inside Hong Kong and beyond, but also compromises the territory’s independent institutions—including its courts, the central bank, regulators and the regime for clean accounting.
 
 People have wrongly predicted the demise of Hong Kong for the best part of two centuries. If it fails these tests, its time as a global financial centre really will be up.■
+
+## URL
+
+https://www.economist.com/leaders/2020/06/06/can-hong-kong-remain-a-conduit-between-china-and-the-world

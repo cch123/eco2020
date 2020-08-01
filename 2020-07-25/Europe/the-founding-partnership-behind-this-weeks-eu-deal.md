@@ -17,3 +17,7 @@ The Franco-German tandem has driven most of Europe’s advances. The Maastricht 
 This latest deal tested that principle to the limit. The “frugals”—Austria, Denmark, the Netherlands and Sweden, joined by Finland—dug in, insisting on less money for grants and more for their budget rebates. Tempers flared. At one point Mr Macron “banged his fist on the table”, according to an aide, accusing Austria’s Sebastian Kurz of having “a bad attitude” and the Netherlands of behaving as Britain used to. It was exactly the sort of lecturing from France that, when it acts alone, so irks others.
 
 Yet this time, Mr Macron and Mrs Merkel led a double act. They devised a joint plan in May, steered talks à deux, even stormed out of a summit meeting together. After concessions, the frugals agreed to most of what they had rejected just months ago. “Macron held out his hand to Germany for a long time,” says Tara Varma of the European Council on Foreign Relations. “What made the difference is that in the end Merkel took it.”
+
+## URL
+
+https://www.economist.com/europe/2020/07/23/the-founding-partnership-behind-this-weeks-eu-deal

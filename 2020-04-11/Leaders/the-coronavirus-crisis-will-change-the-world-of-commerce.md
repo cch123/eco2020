@@ -31,3 +31,7 @@ The job of boards is not just to keep afloat, but also to assess long-run prospe
 The last long-term shift is less certain and more unwelcome: a further rise in corporate concentration and cronyism, as government cash floods the private sector and big firms grow even more dominant. Already, two-thirds of American industries have become more concentrated since the 1990s, sapping the economy’s vitality. Now some powerful bosses are heralding a new era of co-operation between politicians and big businesses—especially those on the ever-expanding list of firms that are considered “strategic”. Voters, consumers and investors should fight this idea since it will mean more graft, less competition and slower economic growth. Like all crises the covid-19 calamity will pass and in time a fresh wave of business energy will be unleashed. Far better if this is not muffled by permanently supersized government and a new oligarchy of well-connected firms.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/leaders/2020/04/08/the-coronavirus-crisis-will-change-the-world-of-commerce

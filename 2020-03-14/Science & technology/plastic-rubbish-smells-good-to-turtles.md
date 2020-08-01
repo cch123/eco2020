@@ -19,3 +19,7 @@ To test that idea, he and his colleagues set up an experiment involving loggerhe
 Two of the smells proved far more attractive to the animals than the others. When sniffing both the odour of food pellets and that of five-week-old bottles turtles kept their nostrils out of the water more than three times as long, and took twice as many breaths as they did when what was on offer was the smell of fresh bottle-plastic or deionised-water vapour. On the face of it, then, the turtles were responding to the smell of old bottles as if it were the smell of food.
 
 Though they have not yet tested whether dimethyl sulphide is the culprit, Dr Pfaller and his colleagues think it is the most likely candidate. In an unpolluted ocean, pretty well anything which had this smell would be edible—or, at least, harmless. Unfortunately, five-week-old plastic bottles and their like are not.■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/03/12/plastic-rubbish-smells-good-to-turtles

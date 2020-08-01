@@ -27,3 +27,7 @@ Contrast such relative transparency with official figures in the Netherlands. It
 As Europe begins to emerge from lockdown, those countries with a low or unreported share of covid-19 deaths in their care homes could well be in for a shock. Besides the Netherlands, Spain and Britain look particularly exposed. Spain in theory requires regional governments to provide figures. But, say Ms Comas-Herrera and her LSE colleagues, methodological problems mean that the health ministry has not yet released any national data on care-home deaths. As for Britain, the daily death toll in care homes is still rising, even as that in hospitals falls. Angela McLean, deputy chief scientific adviser, this week stated bluntly: “We need to get to grips with what is happening in care homes.” ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/05/09/many-covid-deaths-in-care-homes-are-unrecorded

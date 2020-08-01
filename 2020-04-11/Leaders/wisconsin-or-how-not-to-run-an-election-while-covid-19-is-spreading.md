@@ -31,3 +31,7 @@ America needs a dose of political reform aimed at distancing political campaigni
 States must not dither. It does not take a lively imagination to foresee a resurgence of covid-19 before the general election. States need to start preparing for that as soon as possible. That means making it easier to vote safely in person, as South Korea will next week. It also means finding secure ways to vote remotely. This is in the interest of both parties. It may be that in the autumn some rural areas will also be suffering from the virus, which would risk Republican voters being disenfranchised as well as Democratic ones. Wisconsin has issued a warning. Other states need to act now. ■ 
 
 Dig deeper:
+
+## URL
+
+https://www.economist.com/leaders/2020/04/09/wisconsin-or-how-not-to-run-an-election-while-covid-19-is-spreading

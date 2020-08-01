@@ -21,3 +21,7 @@ The scheme is also causing issues in the jobs market. Some sectors are still try
 Xiaowei Xu, an economist at the Institute for Fiscal Studies, a think-tank, argues that “alongside the imperative to protect jobs that will still be viable and productive once the crisis has passed, there is also an urgent need to reallocate some workers in sectors that have temporarily shut down to those facing labour shortages”. That may mean tweaking the retention scheme so that “it is available to furloughed workers who take up temporary work in priority sectors”. So far in this crisis, government policy has done a good job at supporting employment but unless resources are able to shift to where demand is still strong, bottlenecks and disruption will follow.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/03/26/the-jobs-retention-schemes-unintended-consequences

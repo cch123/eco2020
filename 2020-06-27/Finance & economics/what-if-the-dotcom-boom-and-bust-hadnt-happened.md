@@ -21,3 +21,7 @@ The legacy of the dotcom bust makes it all the more difficult. So as a thought e
 The value creed says rapid growth must eventually peter out. Instead the big business successes of the past decade—Google, Amazon and Facebook in America; Alibaba and Tencent in China—have grown to a size that was not widely predicted. Companies of this kind are characterised by network effects. The more people use them, the more useful they are to other customers. They enjoy increasing returns to scale. The bigger they get, the cheaper it is to serve another customer. Dotcom-era gurus banged on about the power of network effects and scale economies. There is more to building an enduring company, though. A business also needs something unique, a distinctive culture or a superior technology, that cannot be replicated by others. Picking winners is not easy; nor is paying a price for them commensurate with their chances of success. But screening for stocks with a low price-to-fundamentals is more likely to select businesses whose best times are behind them than it is to identify future success.
 
 In the late 1990s ideas about fundamental value went by the wayside. A bubble blew up. It then burst dramatically. The bust was a painful lesson for investors. But perhaps some lessons were learnt a little too well. “When fools shun one set of faults”, wrote Horace, “they run into the opposite one.”
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/06/25/what-if-the-dotcom-boom-and-bust-hadnt-happened

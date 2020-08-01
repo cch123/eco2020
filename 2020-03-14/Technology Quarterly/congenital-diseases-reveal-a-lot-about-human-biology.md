@@ -43,3 +43,7 @@ When she was six, Mila Makovec was diagnosed with Batten disease, in which a def
 The girl’s parents raised $3m dollars through crowdfunding to create Mila’s Miracle Foundation. With some of that Dr Yu designed an ASO tailored directly to Mila’s genome and got it produced. The molecule, called milasen, seems to have helped. The foundation is now trying to get the same thing done for hundreds of other very rare diseases.
 
 A lot of charities are doing similar things. Some are big: the Chan Zuckerberg Initiative has kick-started work on various other rare diseases with its Rare As One Network. The n-Lorem Foundation, launched this year, also aims to make the development of ASOs easier. Some are small, like the one Rohan Seth, an entrepreneur, started for his six-month-old daughter Lydia. An ASO to deal with the mutation in KCNQ2 that is making her progressively more disabled cannot come soon enough. Dr Nizar watches approvingly. The disease which afflicts her family is not yet amenable to this particular approach. But there may be more miracles on the way.
+
+## URL
+
+https://www.economist.com/technology-quarterly/2020/03/12/congenital-diseases-reveal-a-lot-about-human-biology

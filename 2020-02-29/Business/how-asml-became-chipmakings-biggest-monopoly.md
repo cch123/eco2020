@@ -33,3 +33,7 @@ Appreciation of ASML’s dominant position has not been confined to customers or
 ASML would hate to surrender access to the Chinese market, which is bigger than most and as captive. Being kept out of China may, in the long run, endanger ASML’s dominance—if it leads a Chinese rival unable to secure ASML kit to build its own, and sell it to others. Last April ASML said that six employees, including some Chinese nationals, were involved in pilfering trade secrets from its American office in 2015. The firm disputes the suggestion that the theft was linked to the Chinese government.
 
 Right now, though, China needs ASML more than ASML needs it. Of all the suppliers required for an advanced chip factory of the sort its authorities want built, “ASML’s technology is the most difficult to replicate”, says Pierre Ferragu, a technology analyst at New Street Research. Malcolm Penn of Future Horizons, another consultancy, thinks that it would take a Chinese rival a decade or more to catch up—and by then the cutting edge would have moved on again. The Dutch are already working on new EUV machines with better optics, which can process more silicon wafers per hour. These are due to ship in 2023—this time, ASML hopes, with no delays. ■
+
+## URL
+
+https://www.economist.com/business/2020/02/29/how-asml-became-chipmakings-biggest-monopoly

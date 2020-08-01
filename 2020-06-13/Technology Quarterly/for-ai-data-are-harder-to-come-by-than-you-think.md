@@ -49,3 +49,7 @@ The trick, says Euan Cameron, one of Mr Ciais’s colleagues, is ensuring simula
 The hope is that all this data-related faff will be a one-off, and that, once trained, a machine-learning model will repay the effort over millions of automated decisions. Amazon has opened 26 Go stores, and has offered to license the technology to other retailers. But even here there are reasons for caution. Many AI models are subject to “drift”, in which changes in how the world works mean their decisions become less accurate over time, says Svetlana Sicular of Gartner, a research firm. Customer behaviour changes, language evolves, regulators change what companies can do.
 
 Sometimes, drift happens overnight. “Buying one-way airline tickets was a good predictor of fraud [in automated detection models],” says Ms Sicular. “And then with the covid-19 lockdowns, suddenly lots of innocent people were doing it.” Some facial-recognition systems, used to seeing uncovered human faces, are struggling now that masks have become the norm. Automated logistics systems have needed help from humans to deal with the sudden demand for toilet roll, flour and other staples. The world’s changeability means more training, which means providing the machines with yet more data, in a never-ending cycle of re-training. “AI is not an install-and-forget system,” warns Mr Cameron. ■
+
+## URL
+
+https://www.economist.com/technology-quarterly/2020/06/11/for-ai-data-are-harder-to-come-by-than-you-think

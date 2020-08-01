@@ -49,3 +49,7 @@ A deep or prolonged depression will open up rich opportunities for crooks in at 
 In Italy, after the financial crisis, some firms accepted loans at below-market rates in return for taking onto the books—or the board—a mafioso who then began to give the orders. According to the chief of the Italian police, Franco Gabrielli, his officers in the regions worst hit by covid-19 have already come across men carrying cash-stuffed briefcases that may be part of the Italian mafias’ version of “helicopter money”. The risk is that politicians already struggling to cope with the effects of the pandemic will shove its implications for the underworld to the back of their minds and the bottom of their agendas. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/international/2020/05/16/the-pandemic-is-creating-fresh-opportunities-for-organised-crime

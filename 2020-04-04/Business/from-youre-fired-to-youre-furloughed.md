@@ -31,3 +31,7 @@ This is where Europe could learn something from America. Some industries have fa
 Both American and European labour policies have their pros and cons. In America rapid shake-outs in jobs markets help good firms grow and bad firms shrink, promoting dynamism. In Europe worker protections can reduce the devastating toll on employees and their families caused by slumps, but can slow the pace of recovery. American left-wingers believe that more European-style treatment of workers is long overdue—and will cheer examples of companies volunteering to furlough workers rather than fire them. But if America and Europe want to ensure that hospitals are staffed, deliveries are made and food is on the table, they must remember that flexibility, as well as some security, is essential. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/04/03/from-youre-fired-to-youre-furloughed

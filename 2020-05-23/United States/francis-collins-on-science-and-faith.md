@@ -21,3 +21,7 @@ As a scientist who is a Christian he often finds himself at the vortex of a cult
 As for the search for a covid-19 vaccine, he is cautious but optimistic. “We are further on than we thought we would be in mid-May,” he says. Meanwhile he spends every hour of lockdown to that end, breaking off only on a Sunday to join his church on Zoom. To him, that is a continuation of the day job. “Science is a form of worship,” he says.
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/united-states/2020/05/23/francis-collins-on-science-and-faith

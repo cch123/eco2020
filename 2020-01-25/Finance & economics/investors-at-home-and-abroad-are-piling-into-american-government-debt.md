@@ -33,3 +33,7 @@ Investors based in Europe appear to have been the most enthusiastic buyers (see 
 Can America’s government deficit remain so wide for much longer? Some economists worry that loose fiscal policy at a time of low unemployment will cause the economy to overheat, rousing inflation. That would force the Federal Reserve to raise interest rates, and push up government-borrowing costs. So far, though, there is little sign of that. Inflation is oddly soggy; the Fed cut rates three times last year.
 
 America’s fiscal profligacy may be able to continue for now, especially if the Treasury borrows more at longer maturities. But whether it is economically sensible is a different matter. Despite all the loosening, long-term GDP growth is middling and productivity growth weak. That may be because the splurge has been largely focused on tax giveaways, while federal investment spending has fallen as a share of government outlays. America’s fiscal policy may not be dangerous, but it may not end up doing much good. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/01/25/investors-at-home-and-abroad-are-piling-into-american-government-debt

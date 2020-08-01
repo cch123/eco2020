@@ -29,3 +29,7 @@ Facebook decided to ban deepfake videos, sophisticated manipulations of a person
 America’s Food and Drug Administration outlawed the manufacture and sale of fruit- and mint-flavoured e-cigarette cartridges, amid “epidemic levels” of use among young people. Health groups said they were perplexed by why tobacco and menthol cartridges were still allowed, and why the restrictions do not apply to vaping tanks.
 
 One of America’s biggest milk producers filed for bankruptcy protection. Borden Dairy traces its roots to 1856, when its founder patented the process for condensing milk. The business expanded by supplying Union troops during the civil war and in 1936 adopted the “Elsie” cartoon advertising brand. But along with other milk producers, Borden faces a cow of a market. Dairy-milk consumption has dropped by 40% per person since 1975, as consumers switch to milk alternatives, such as soy, and other beverages. Not everybody has got milk in their fridge these days.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/01/09/business-this-week

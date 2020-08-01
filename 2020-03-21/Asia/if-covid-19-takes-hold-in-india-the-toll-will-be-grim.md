@@ -31,3 +31,7 @@ The potential for a dire outcome is glaring. Yet as Mr Laxminarayan notes, India
 On the streets, meanwhile, it is common to hear the whimsical opinion that Indians are already so toughened by hardship that this virus won’t hurt them. Then, for the truly fervent, there are magic cures. At a recent event in Delhi, members of a fringe cult celebrated the curative properties of cow urine. “It should be served to all tourists on arrival to cure them, for the protection of India,” enthuses Rajeev Kumar of the All-India Hindu Mahasabha, a Hindu nationalist group. “We are even sending a little pack to President Trump, to keep him safe from corona!” ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/asia/2020/03/21/if-covid-19-takes-hold-in-india-the-toll-will-be-grim

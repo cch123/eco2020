@@ -25,3 +25,7 @@ As the disease spreads through the population, another sort of testing will beco
 Antibody testing is particularly susceptible to false positives and false negatives, so needs to be carefully validated. A bunch of Chinese companies produce antibody testing kits, and have been churning them out. They are in high demand. The British government is in negotiations to buy millions of them, but business sources say that countries that demand less validation data than Britain—such as Russia, Spain and the Gulf states—have been snapping them up. The swifter countries risk getting dodgy tests; the slower ones risk getting hold of kits too late. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/04/04/whats-gone-wrong-with-covid-19-testing-in-britain

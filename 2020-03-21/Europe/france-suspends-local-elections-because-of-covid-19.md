@@ -17,3 +17,7 @@ There followed surreal scenes on voting day. Polling stations were organised to 
 Why did Mr Macron not delay the elections earlier? His former health minister now says she knew it was a “masquerade” to go ahead. It turns out that postponement was still on the table as late as March 12th. Delaying a democratic vote, however, was a decision that required cross-party consensus, at least politically. There was already a climate of suspicion at the government’s recent use of a decree to pass its pension reform. Gérard Larcher, president of the Senate, opposed a postponement. Christian Jacob, the Republican leader (who has since contracted covid-19), had said publicly that a delay would constitute a coup d’état. Moreover, the scientific council advising the president suggested that voting would not pose a health hazard if sanitary rules were followed.
 
 As France deals with an acceleration of cases, such questions will become second-order. A military hospital is being mobilised in Alsace, one of the worst-affected regions. Fully 66% of the French told a poll that they found Mr Macron’s first address, which mixed solemnity and science with much-needed warmth, convincing. An astonishing 35m people, more than half the entire population, watched his second. And, despite disapproving of the decision to hold a first-round vote, 57% of the French think he and his government are managing the crisis well—his highest approval rating for a very long time. ■
+
+## URL
+
+https://www.economist.com/europe/2020/03/19/france-suspends-local-elections-because-of-covid-19

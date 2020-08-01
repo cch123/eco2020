@@ -27,3 +27,7 @@ Experiments suggested that material charred at 550°C extracted lead most effici
 Whether these laboratory observations can be turned into a practical process is hard to say. Special filtration-beds would have to be built in water-treatment plants—facilities of which India is in any case woefully short. But it is not short of material to make the biochar.
 
 An average hectare of Himalayan conifer forest produces over six tonnes of needles a year. The process of charring would reduce this to two tonnes, but that is still a fair yield. How much of this fallen foliage would need to be removed to reduce the fire risk and gain the other potential benefits, and what further effects this might have on the local ecology, remain to be determined. But Dr Mohan’s work does show how the cost of this removal might be turned into a benefit enjoyed by all.■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/07/18/stopping-pollution-with-pine-needles

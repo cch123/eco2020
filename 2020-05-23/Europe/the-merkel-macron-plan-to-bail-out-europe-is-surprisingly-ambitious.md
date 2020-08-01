@@ -25,3 +25,7 @@ These minnows will surely bow before the combined might of France and Germany, b
 The frugals’ greatest fear is a permanent shift to deeper fiscal integration. The new fund is supposed to be temporary, and can only hope to mitigate the harm to ravaged economies. But establishing the principle that common challenges require common debt may ensure that next time the threshold for action is lower, says Jacob Funk Kirkegaard at the Peterson Institute for International Economics. The need to repay the debt will also spur ideas for common EU revenues, such as a tax on plastic or climate-unfriendly imports. Mrs Merkel’s rhetoric on EU reform has begun a curious shift; in the twilight of her chancellorship she has revived talk of revising its treaties to shift towards “political union”. This week’s may not be her last surprise. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/05/21/the-merkel-macron-plan-to-bail-out-europe-is-surprisingly-ambitious

@@ -25,3 +25,7 @@ The new study closes down talk that significant numbers of unknown driver mutati
 Peter Campbell of the Wellcome Sanger Institute in Cambridge, Britain, and a member of the PCAWG consortium, says an important contribution of the study is that by sequencing so many tumours it has raised the number of patients in whom a genetic contribution to their cancer can be identified from less than 70% to 95%. The goal, he says, is for genome sequencing of tumours to become routine. Efforts to introduce this are under way in some countries, including Britain, the Netherlands and South Korea, he adds.
 
 Insights are all very well, but what about cold, hard clinical progress? Turning genome sequences into meaningful predictors of cancer will require comparisons between samples from tens of thousands of patients, say the researchers, along with data on their treatments and survival rates. Processing this would be beyond the reach of any single organisation. Instead, a follow-up project is planned that includes national funding agencies, charities and corporate partners from more than a dozen countries around the world. It aims to link full sequences of 200,000 cancer patients to their clinical data by 2025.■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/02/08/scientists-reveal-the-most-extensive-genetic-map-of-cancers-ever-made

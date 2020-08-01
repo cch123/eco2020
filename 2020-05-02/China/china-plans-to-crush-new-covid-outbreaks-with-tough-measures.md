@@ -31,3 +31,7 @@ Another sobering conclusion is drawn by Qifang Bi and others from the Johns Hopk
 Should others open up, China will look more and more unusual: a giant economy repeatedly slamming on the brakes to smother even small clusters. If effective vaccines or treatments fail to emerge, that cannot be sustainable for ever. Born out of caution, China’s virus exceptionalism is a gigantic gamble. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/china/2020/04/30/china-plans-to-crush-new-covid-outbreaks-with-tough-measures

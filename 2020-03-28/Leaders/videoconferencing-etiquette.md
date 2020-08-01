@@ -25,3 +25,7 @@ What of the risk that the sudden appearance of screaming, chocolate-smeared chil
 Humanity is now coming together to fight a common enemy. In these dark times, it is essential to maintain some of the pillars of normal life—such as showing that you’re doing better than everybody else. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/leaders/2020/03/26/videoconferencing-etiquette

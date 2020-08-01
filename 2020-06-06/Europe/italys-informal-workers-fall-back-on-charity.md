@@ -27,3 +27,7 @@ Italy has generally been able to withstand periodic crises because of its high l
 Federica De Lauso, a researcher at Caritas, a Catholic charity, says a further handicap has been delay. Furlough payments to workers on contract have had to go through a tortuous bureaucratic procedure that has only recently been simplified. “But there are people who have not received anything since March, and they include many who have turned to us,” she says. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/06/06/italys-informal-workers-fall-back-on-charity

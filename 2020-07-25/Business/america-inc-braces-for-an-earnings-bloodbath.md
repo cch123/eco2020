@@ -19,3 +19,7 @@ As America Inc begins to report its latest quarterly earnings—the first to cap
 For investors the earnings offer a belated inkling of how bad things are. By May one in two S&P 500 firms declined to issue guidance about their results for the quarter ending in June, citing pandemic uncertainty. Ignorance being bliss, the stockmarket swiftly rebounded from its collapse in March. Now a little knowledge may prove a dangerous thing.
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/07/23/america-inc-braces-for-an-earnings-bloodbath

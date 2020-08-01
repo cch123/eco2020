@@ -27,3 +27,7 @@ A bigger worry is credit markets and in particular corporate debt, which has soa
 Interest-rate cuts cannot do much to remedy the disruption. But they can help to soothe credit markets. Easier policy from the Federal Reserve has in the past—notably in 1998—been fuel for a late-cycle rally in risk assets in the face of formidable headwinds. A fortnight ago, just a single interest-rate cut from the Fed was priced in by the markets, says Kit Juckes of Société Générale, a French bank. Now two are. “We may be pricing in a third, if not a fourth, within a few weeks unless there’s a dramatic change in the covid-19 news.”■
 
 Read more:[Covid-19 is now in 50 countries, and things will get worse](https://www.economist.com//briefing/2020/02/29/covid-19-is-now-in-50-countries-and-things-will-get-worse) (February 27th)[To curb covid-19, China is using its high-tech surveillance tools](https://www.economist.com//china/2020/02/29/to-curb-covid-19-china-is-using-its-high-tech-surveillance-tools) (February 27th)[Covid-19 presents economic policymakers with a new sort of threat](https://www.economist.com//china/2020/02/29/to-curb-covid-19-china-is-using-its-high-tech-surveillance-tools) (February 20th)[How China’s coronavirus epidemic could hurt the world economy](https://www.economist.com//china/2020/02/29/to-curb-covid-19-china-is-using-its-high-tech-surveillance-tools) (February 13th)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/02/27/markets-wake-up-with-a-jolt-to-the-implications-of-covid-19

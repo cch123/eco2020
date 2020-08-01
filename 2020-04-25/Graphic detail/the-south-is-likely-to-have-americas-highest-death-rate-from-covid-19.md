@@ -19,3 +19,7 @@ However, demography is just as important. Places with older residents and more d
 Together, these variables leave a geographic footprint. If covid-19 does infect most Americans, the highest death rates will probably not be in coastal cities—whose density is offset by young, healthy, well-off populations and good hospitals—but rather in poor, rural parts of the South and Appalachia with high rates of heart disease and diabetes. Worryingly, the three states that announced plans this week to relax their lockdowns (Georgia, Tennessee and South Carolina) are all in this region. ■
 
 Sources: US Census Bureau; New York Times; Covid Tracking Project; Global Health Data Exchange; University of Washington; Google Health; Unacast;The Economist
+
+## URL
+
+https://www.economist.com/graphic-detail/2020/04/25/the-south-is-likely-to-have-americas-highest-death-rate-from-covid-19

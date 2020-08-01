@@ -23,3 +23,7 @@ Profit, narrowly defined as the income earned from making masks, also fails to e
 Pricing is usually the best way to allocate resources, by revealing who is willing and able to pay for something. But there is no doubt now that masks are most essential for medical workers. Ordering large supplies at fixed prices is the right policy. The public benefit of a functioning health system far outweighs any harm in impeding sellers from maximising their profits. This was a point made to the University of Chicago’s survey by one of the dissenting economists, who argued that it was fair to cap prices after a natural disaster. “Efficiency is less important than distribution under such transitory conditions,” said Angus Deaton, now a Nobel laureate. In a global health crisis, his argument is even more compelling. Conventional morality—the revulsion against price gouging—trumps conventional economics. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/04/11/many-economists-defend-disaster-profiteers-they-are-wrong

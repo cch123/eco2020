@@ -27,3 +27,7 @@ The furlough will test an alliance that was already strained. It comes at a time
 The most immediate impact, however, will be on workers who have just lost their income. Lim Yoon-kyung of the Pyeongtaek Peace Centre, which represents some of the workers, said the furlough amounted to “daylight robbery”. “These people’s jobs are directly related to their survival,” she says. The South Korean government said that it would try to pass a special bill to compensate the workers for lost salaries. That may curry favour with the public ahead of the election. But with the world economy slumping, America laying off workers will surely hurt its reputation. And with Mr Trump hoping to procure covid-19 test kits from South Korea, now might not be the wisest time to pick a fight.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/asia/2020/04/04/south-koreans-at-us-military-bases-are-furloughed

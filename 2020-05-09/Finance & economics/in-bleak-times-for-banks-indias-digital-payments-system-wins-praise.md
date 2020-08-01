@@ -31,3 +31,7 @@ UPI will next step into the realm of lending. Seven “account aggregators’’
 The benefits of such a system are clear. It would break the links between credit and collateral or personal relationships, and allow even small borrowers to get loans based on their transaction histories and their income. When combined with cheap transfer costs, the cost of lending to even the tiniest business could fall. These now pay as much as 4% for a one-day loan.
 
 But this is also where the drawbacks of UPI could become most apparent. Only a handful of transactions fail, but glitches have been known to occur. Aadhaar numbers have leaked before. Security matters more when access to credit is at stake. Another concern is the extent of the government’s control over parts of the infrastructure. In related areas it has not been above misusing its clout. In 2019, for instance, it shut down the internet in the troubled territory of Kashmir. Clever as India’s digital financial system is, such risks could mean that, for some, cash retains the edge. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/05/09/in-bleak-times-for-banks-indias-digital-payments-system-wins-praise

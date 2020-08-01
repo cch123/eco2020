@@ -21,3 +21,7 @@ There are no innocents in this story. The PPP governed for 23 years until Mr Gra
 Although institutions are weak, in part because of very high emigration, the government has tried to deal with the risks that come with sudden oil wealth, such as corruption and an overvalued currency. All the money will flow into a sovereign-wealth fund. The rules for drawing it down are strict. The government has not indulged in a debt-fuelled spending spree in anticipation of the oil windfall, one reason it may have lost the election.
 
 There is no reason to think that the PPP would govern better. It wants to scrap the law that created the sovereign-wealth fund, supposedly because it gives politicians too much control. A new law could create more opportunity for patronage and misspending. But pessimism about a PPP administration does not justify electoral theft. The votes must be counted honestly. Just as important, Guyana must find a way out of the dead end into which ethnic animosity has driven it. That will require a change of political culture and constitutional reforms. Petrodollars may help. But only if the government that controls them is honest, competent and legitimately elected. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/03/19/guyanas-dodgy-poll-is-all-about-oil

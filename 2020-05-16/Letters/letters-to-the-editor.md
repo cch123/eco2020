@@ -57,3 +57,7 @@ In response to your invitation for readers to share their covid-19 experiences (
 Laundry has given rise to mixed feelings. I have to do it because there are only so many pairs of underwear. However, there is very little else to add to the machine. A waste of $3 each time. Every penny counts on a student budget, but at least I can put off shopping for trousers a bit longer.
 
 NAREG SEFERIANArlington, Virginia
+
+## URL
+
+https://www.economist.com/letters/2020/05/14/letters-to-the-editor

@@ -37,3 +37,7 @@ A year and a half later, after charming prison guards and exaggerating his arthr
 Mr Wantchekon retains a fascination for African politics. He has written about the conditions under which warlordism can turn into democracy. He has co-written probably the only studies in which presidential candidates running in elections have subjected themselves to randomised controlled trials. These have found that, while promises of patronage are powerful in swaying voters, as cynics suggest, there are caveats. Women are less wooed by patronage, for example. And when candidates held town-hall meetings to discuss policy platforms, voters became more likely to vote on the basis of education and health rather than handouts.
 
 Another result of Mr Wantchekon’s political past is a preference for empiricism over ideology. A trip to Albania ended his blind affection for socialism. His school is not part of efforts to “decolonise” the African academy. Any student of politics must read Rousseau and Madison, he argues. The aim is to add to the sum of human knowledge, not subtract from it. “Be angry but also be thoughtful,” he says. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/05/21/trust-slavery-and-the-african-school-of-economics

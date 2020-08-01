@@ -27,3 +27,7 @@ The chief of staff, who had studied law at Cambridge University and been in char
 He was also cursed with bad luck. Mr Buhari took power after a crash in oil prices that pushed the country into recession and starved it of the money needed to fight the jihadists of Boko Haram. Mr Kyari had hoped that Mr Buhari’s second term would provide an opportunity to liberalise the corrupt oil and gas industries by making contracts and licences more transparent and taking them out from under the thumb of politicians. Yet covid-19 may well dash those plans, just as it has deprived Mr Buhari’s administration of its rudder. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/04/23/abba-kyari-who-tried-to-clean-up-nigeria-dies-of-covid-19

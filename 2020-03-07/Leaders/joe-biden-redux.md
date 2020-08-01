@@ -23,3 +23,7 @@ Yet Mr Biden also has strengths, which are easy to discount because he is so fam
 This contrast between Mr Biden and Mr Sanders is not just a matter of ideology. It also reflects a different approach to politics. Mr Sanders requires a political revolution to accomplish his ends. Mr Biden, by contrast, refuses to write off the other side as beyond redemption. Many younger Democrats think that the former vice-president’s faith in his power to persuade Republicans to cross the aisle and support him is touching at best, and dangerously naive at worst. Yet the only way to bring about long-lasting change in Washington is for a president to find a coalition in Congress that is broad enough to pass laws. After Super Tuesday, it looks as if only one candidate on the Democratic side may be capable of doing that.■
 
 Dig deeper:
+
+## URL
+
+https://www.economist.com/leaders/2020/03/05/joe-biden-redux

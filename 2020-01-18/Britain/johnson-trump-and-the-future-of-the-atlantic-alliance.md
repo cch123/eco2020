@@ -29,3 +29,7 @@ The SDSR will also have to confront the forbidding financial implications of act
 Home-grown air cover would also come with a hefty bill. The British Army, halved in size since the Falklands war of 1982, seeks to be able to deploy the whole of a combat division (40,000 or so troops). But a lack of air-defences means that fielding anything above a brigade (5,000 troops) without American support would leave troops dangerously exposed to enemy warplanes and missiles.
 
 If Britain is to pull away from America, the obvious place to turn to is Europe. Brexit will shut Britain out of EU defence schemes, but it may still have a role. The idea of “strategic autonomy”, a more independent European foreign and security policy, has become a rallying cry on the continent and several countries are keen to keep Britain involved. “The British must be a partner on European defence,” insisted Emmanuel Macron, France’s president, in an interview with The Economist in November. Yet the closer Britain clings to Europe, the less likely it is to get a generous trade deal from America. That, as Mr Johnson is finding, is the problem faced by a small power stuck between two great powers.■
+
+## URL
+
+https://www.economist.com/britain/2020/01/16/johnson-trump-and-the-future-of-the-atlantic-alliance

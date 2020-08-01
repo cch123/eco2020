@@ -25,3 +25,7 @@ Guo Jianmei founded Qianqian, a law firm which is representing the victim in the
 Another public-interest lawyer, Wang Yongmei, argues for still larger reforms. She would like to see adults barred from sex with anyone under 18. Ms Wang would allow some provision for consenting sex between teenagers, for she has seen cases where angry mothers have unjustly accused their daughter’s boyfriend of rape. China needs a child-protection agency and female police trained to support rape victims, she adds.
 
 It takes courage to accuse people in authority of sexual assault. A fledgling #MeToo movement has faced official pressure after young women challenged university professors, television presenters and other powerful men. Ms Wang sees such courage in a new generation of women who refuse to blame themselves for being assaulted. Their bravery is grounds for hope, if the law ever changes to keep up with them. ■
+
+## URL
+
+https://www.economist.com/china/2020/04/23/the-push-to-raise-chinas-age-of-consent-from-14

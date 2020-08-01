@@ -17,3 +17,7 @@ Watercolour often seems the poor cousin of more imposing oils. It can appear too
 In a state of social isolation, however, it is watercolour painting’s second virtue that comes into its own. When applied to a subject that is still, rather than constantly shifting—an apple, a cup, a stone—it becomes a deeply meditative practice. To describe a flower or a shell in words often fails, merely skating the surface. To try to paint it is to engage on an altogether different level: to look at structure and texture, to note the subtleties of colour and the effects of passing time, to feel its weight or weightlessness; to understand it. Gerard Manley Hopkins, a would-be painter as well as a poet, wrote of finding the inscape, the thisness of things. To focus on that is to begin to touch the heart of creation.
 
 In this meditation the brush slows, and becomes careful. Colours and mixtures silently suggest themselves. Surplus paint curls down beautifully through the water. You do not need to be painstakingly accurate; too much care can kill the life and motion that dwell even in inanimate things. What matters is to look as a painter does, contemplatively, fully. You may well still feel you are no good at it, and you might tear up your effort afterwards, but almost certainly you will find that even failure is not a waste of time. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/04/23/try-painting-in-watercolours

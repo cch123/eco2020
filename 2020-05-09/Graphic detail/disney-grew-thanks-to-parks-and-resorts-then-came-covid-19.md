@@ -19,3 +19,7 @@ The Fox deal apart, Disney’s biggest expansion under Mr Iger was in theme park
 Disney’s Shanghai park, at least, will re-open on May 11th, at below 30% capacity. Visitors are banned from hugging Mickey Mouse and must wear face-masks. The Disney shop sells those in packs of four, featuring Mickey or R2-D2, for $19.99.■
 
 This article appeared in the Business section of the print edition under the headline "Cruising for a brusing"
+
+## URL
+
+https://www.economist.com/graphic-detail/2020/05/09/disney-grew-thanks-to-parks-and-resorts-then-came-covid-19

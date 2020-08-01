@@ -41,3 +41,7 @@ More standard searches for chemical biosignatures could also be useful for SETI.
 The next generation of instruments will reveal whether the planets in Trappist-1 have atmospheres or oceans. If there are atmospheres, they will also reveal what gases are within them—possibly showing biosignatures of the sort Sagan spotted on Earth.
 
 Meanwhile, the Breakthrough Listen dataset continues to grow. In a study discussed in Seattle, a team of astronomers used it to look for radio transmissions from 20 stars in the so-called “Earth transit zone”—the part of the sky from which Earth itself would be detectable by the transit method. The hypothesis is that, if intelligent beings do exist in that region, they might thus have discovered Earth and be aiming transmissions at it. So far, the skies have been quiet. But SETI researchers are patient people. And they live in hope.■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/02/20/the-search-for-extraterrestrial-intelligence-moves-up-a-gear

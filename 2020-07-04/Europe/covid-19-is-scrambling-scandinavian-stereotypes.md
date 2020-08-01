@@ -21,3 +21,7 @@ Much of the conflict has played out on the bridge where the TV series was set. S
 Stereotypes shift. The Gotlandsvisan, a 14th-century Swedish ballad, portrays Danes as unreliable, which matches the modern image, and cruel, which does not. Danes once ridiculed Swedes’ cowardice; now they make fun of their formality. Covid-19 is just the latest crisis to give old roles a new twist.
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/07/02/covid-19-is-scrambling-scandinavian-stereotypes

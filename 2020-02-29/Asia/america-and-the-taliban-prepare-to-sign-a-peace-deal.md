@@ -27,3 +27,7 @@ Forging a political agreement among the Taliban, the government and Afghanistan�
 Bigger arguments loom. “What kind of political system will there be and who will be grabbing the most part of the government, or the authority,” says Abdul Hakim Mujahid, a Taliban official turned peace-campaigner. “This will be the field of competition.” On one side are Afghans who want the Taliban to accept the current democratic constitution, with its protections for women and minorities. But some Taliban hardliners view the status quo as the product of American occupation, and want to reimpose the Islamic “emirate” the Taliban ran in the 1990s.
 
 Whatever happens next, Afghans welcome the current respite. In some war-battered districts it has been celebrated with spontaneous sports matches and dancing. Mobile-phone service has also been restored in territory where it is frequently cut by militants. “We are thirsty for peace,” says Muhammad Ehsan, a politician from Kandahar. “It’s a priority for us.” The country is holding its breath. ■
+
+## URL
+
+https://www.economist.com/asia/2020/02/27/america-and-the-taliban-prepare-to-sign-a-peace-deal

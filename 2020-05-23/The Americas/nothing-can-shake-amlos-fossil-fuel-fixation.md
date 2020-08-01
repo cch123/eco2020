@@ -27,3 +27,7 @@ There is little sign that these bets will pay off. Even before oil prices slumpe
 Pemex’s cost of production has nearly tripled over the past decade. Factoring in other costs, like taxes and pensions, Pemex needs a price of $70 to break even, says John Padilla of IPD, a consultancy. The pandemic plunge has brought it down to below $30. Pemex made a loss of $23bn in the first three months of 2020. In April Mexico nearly derailed a global agreement on production cuts by refusing to reduce output.
 
 Oil prices may recover, but Pemex’s problems will not go away. More efficient and cleaner producers of oil will have the edge over Mexico as the world reduces its consumption. AMLO’s successor may have to bet on green.■
+
+## URL
+
+https://www.economist.com/the-americas/2020/05/21/nothing-can-shake-amlos-fossil-fuel-fixation

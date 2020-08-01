@@ -35,3 +35,7 @@ For much of economic history, work was conducted in small units by peasants, ten
 This may not be a bad thing. It was easy for employees in large factories to regard remote company owners as “them” rather than “us”, and indeed it was easy for business owners to perceive workers as an undifferentiated mass of people and treat them accordingly. Strikes were common.
 
 The modern company may settle on a model with a small group of “core” workers and a larger group of contract workers. The result may be more cohesion within the core staff but the non-core staff may be less well treated. The small core teams may work effectively. The big question will be the effect on morale of those outside those teams.
+
+## URL
+
+https://www.economist.com/business/2020/01/23/the-number-of-the-best

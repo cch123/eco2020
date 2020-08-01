@@ -49,3 +49,7 @@ The calculations for the reserve shortfall ignore the risk of capital flight, wh
 Indeed, in recent weeks 11 emerging economies have been able to sell over $44bn-worth of bonds between them, says Gregory Smith of M&G Investments, an asset manager. Even Panama, with large external debts and a big reserve shortfall, issued bonds at a yield of less than 4% at the end of March. The sale was three times oversubscribed. In a world of dirty shirts, some investors fancy a Panama hat. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/briefing/2020/05/02/which-emerging-markets-are-in-most-financial-peril

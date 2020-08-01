@@ -21,3 +21,7 @@ In mid-March the Greek government restricted public gatherings to ten people. It
 On top of an emergency boost of €10bn, Mr Mitsotakis insists that the country has “more weapons” to protect the economy, after around €12bn of its paper was declared eligible for inclusion in a €750bn bond-purchasing programme that has been launched by the European Central Bank. That should help to hold down the risk premium on Greek government debt. It is also, perhaps, a signal that the EU is prepared to believe in Greece’s recovery—once the virus is tamed. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/04/11/covid-19-hits-greece-even-harder-than-the-rest-of-the-euro-zone

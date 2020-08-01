@@ -39,3 +39,7 @@ Ultimately no child will learn anything “unless they feel psychologically and 
 Still, there are grounds for optimism. Home schooling has introduced parents to the horrors of trying to educate their children while holding down a job. But it has also made parents more sympathetic to teachers, says Odile Cordelier, a teacher in the French city of Dijon.
 
 Distance-learning, despite its glitches, has made teachers more familiar with technology. Recessions may force governments to trim school budgets but they may also get some new blood into the teaching profession. In Britain applications to teacher-training programmes surged in May and June. A recent study found that teachers in Florida who started their careers in downturns were better at raising test scores than those who did not. Schools will need all the help they can get. ■
+
+## URL
+
+https://www.economist.com/international/2020/07/18/as-schools-reopen-how-can-pupils-make-up-for-lost-time

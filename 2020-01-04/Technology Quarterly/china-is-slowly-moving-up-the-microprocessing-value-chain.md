@@ -41,3 +41,7 @@ If catching up on internal-combustion engines was hard, doing so on traditional 
 In one way, China’s challenge with chips is even harder than the problem it faced with combustion-engine cars. There is no completely new technology arriving which will free China from the need to catch up with the rest of the world. But China’s chip companies should still listen to the market, not chase prestige.
 
 Manufacturing and designing chips for the internet of things and AI applications offers an opportunity to leapfrog less agile chip companies, even if it is not the wholesale opportunity that electric vehicles present. If they can focus on these new areas and be patient, it is likely that the scale and depth of the country’s resources could end up winning its companies a permanent spot high on the global supply chain for semiconductors.■
+
+## URL
+
+https://www.economist.com/technology-quarterly/2020/01/02/china-is-slowly-moving-up-the-microprocessing-value-chain

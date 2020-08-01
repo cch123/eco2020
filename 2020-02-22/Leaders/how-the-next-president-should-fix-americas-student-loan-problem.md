@@ -23,3 +23,7 @@ By enrolling everyone automatically, Mr Biden’s and Mr Bloomberg’s plans wou
 Making student loans less onerous for borrowers is only half of the remedy, however. Congress should also clamp down on low-quality, for-profit colleges. These institutions depend almost entirely on federal student loans for their revenues, charge the highest possible prices and market themselves aggressively. When students graduate and cannot repay their debts, the taxpayer foots the bill. Barack Obama’s White House tried to rein these colleges in, but Donald Trump’s has loosened the rules. All the Democratic candidates recognise this problem. Republicans are supposed to be suspicious of feeding frenzies at the government trough, but they are in denial.
 
 A reform agenda might also include the federal government’s lending to graduate students. Unlike that to undergraduates, this is unlimited. Though not a large source of debt distress, it may be fuelling a pointless and costly arms race among the affluent. Governments have a part in helping finance higher education, but well-meaning policy can often go badly wrong.■
+
+## URL
+
+https://www.economist.com/leaders/2020/02/20/how-the-next-president-should-fix-americas-student-loan-problem

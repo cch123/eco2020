@@ -23,3 +23,7 @@ This was predictable. Most Republican voters are behind Mr Trump for the same re
 Even if predictable, this is unprecedented. Every previous presidential impeachment or near-impeachment (involving Andrew Johnson, Richard Nixon and Bill Clinton) was infected by partisanship. Yet, if Mr McConnell gets his way, this will be the first Senate trial conducted in head-on defiance of the principle of shared facts and evidence. The consequences would be graver even than the degrading of impeachment that would inevitably result. (Some Republicans are already muttering about impeaching Mr Trump’s next Democratic successor.) The Enlightenment tradition on which the American system depends—“of giving a damn about whether facts are facts”, as Frank Bowman, a pre-eminent impeachment scholar, puts it—would have suffered a jarring blow.
 
 This is what the handful of moderate Republicans who might yet force Mr McConnell’s hand should consider to be at stake. They, namely Lamar Alexander of Tennessee, Susan Collins of Maine, Lisa Murkowski of Alaska and Mitt Romney of Utah, will have little bearing on Mr Trump’s future either way. There is nothing Mr Bolton could say to turn many Republicans against the president. Yet merely by standing for a weighing of the available facts, in sober respect for the truth, Mr Alexander and the rest would signify that disavowing them, however tempting, may also carry a cost.■
+
+## URL
+
+https://www.economist.com/united-states/2020/01/16/the-senates-coming-test

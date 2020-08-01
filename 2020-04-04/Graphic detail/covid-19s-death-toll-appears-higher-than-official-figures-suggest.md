@@ -25,3 +25,7 @@ Still, the official covid-19 count will always seem too low in places like Nembr
 Sources: Claudio Cancelli; Luca Foresti; L'Eco di Bergamo; El País; INSEE; Santé Publique France; Ministero della Salute; Tuttitalia; Ministerio de Sanidad; Datadista; Instituto de Salud Carlos III; Instituto Nacional de Estadística; InTwig
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/graphic-detail/2020/04/03/covid-19s-death-toll-appears-higher-than-official-figures-suggest

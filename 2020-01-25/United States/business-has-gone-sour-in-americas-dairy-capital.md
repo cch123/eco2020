@@ -31,3 +31,7 @@ Could that matter in this year’s election? Attracting rural voters is part of 
 More generally there is anxiety that rural Wisconsin is losing people as the more educated move to cities, leaving mostly the elderly behind. Schools in many places—especially where Hispanic migrants are not settling—are emptying. Small towns suffer as businesses such as local feed-suppliers go bust and shops, cafés and bars close. What might save Mr Wegmueller’s farm and a few others is that urban visitors are ready to pay for the experience of trudging in mud and milking a cow for a day. Even if dairy fails, tourism may yet boom.■
 
 Correction (January 30th): In a previous version of this article Tina Hinchley’s name was misspelled. Sorry.
+
+## URL
+
+https://www.economist.com/united-states/2020/01/25/business-has-gone-sour-in-americas-dairy-capital

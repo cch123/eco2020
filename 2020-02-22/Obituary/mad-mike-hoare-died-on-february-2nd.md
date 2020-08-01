@@ -25,3 +25,7 @@ In eastern Congo, where he sent the Simbas’ Cuban officers packing, he dislodg
 Since the Wild Geese had long flown, he recruited 46 brawny men to pose as ex-rugby players on a charity flight to the Seychelles to take toys to children. Beneath the toys, in each kit-bag, were disassembled AK47s. All went well until one of these was found at the airport. A gun battle broke out, during which a Boeing 707 landed to refuel; he and his men hijacked it to return to South Africa, drinking champagne on board, only to be arrested on arrival. They ended up in prison and, worse, ridiculed on every side. Most hurtfully, he was expelled from the Institute of Chartered Accountants.
 
 His sentence was ten years. He served 33 months, memorising Shakespeare from a volume he had smuggled in. Such immersion suited him, since the man he had most wanted to be was Sir Francis Drake: the intrepid voyager and terror of Spaniards whose outrages were all forgotten when, on his return, he knelt before the queen and, though a robber, was made a knight. ■
+
+## URL
+
+https://www.economist.com/obituary/2020/02/22/mad-mike-hoare-died-on-february-2nd

@@ -77,3 +77,7 @@ The caseload of the pandemic is hard to predict, and it might be that even a use
 In the lab, SARS-CoV-2 will continue being dissected and mulled over. Details of its tricksiness will be puzzled out, and the best bits of proteins to turn into vaccines argued over. But that is all for tomorrow. For today doctors can only hope that a combination of new understanding and not-so-new drugs will do some good. ■
 
 Dig deeper:
+
+## URL
+
+https://www.economist.com/briefing/2020/03/12/understanding-sars-cov-2-and-the-drugs-that-might-lessen-its-power

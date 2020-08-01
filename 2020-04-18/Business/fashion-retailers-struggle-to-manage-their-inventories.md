@@ -25,3 +25,7 @@ Where cancellations are impossible retailers are asking partners to ship them mo
 As places like Austria, Spain and the Czech Republic slowly begin to ease restrictions on businesses, fashion retailers see a silver lining. Summer collections are less lucrative than pricey winter coats and jackets. If shoppers return in September, companies with solid balance-sheets, such as Inditex (which owns Zara, Massimo Dutti and Bershka), may recover quickly—if they can keep their suppliers alive. In the meantime, many are resigned to grasping at straws. Next reopened its website on April 14th—but shut it again within two hours because it had reached the maximum number of orders it could fulfil with skeleton staff. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/04/18/fashion-retailers-struggle-to-manage-their-inventories

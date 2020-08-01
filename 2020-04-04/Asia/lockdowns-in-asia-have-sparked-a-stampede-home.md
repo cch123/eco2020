@@ -33,3 +33,7 @@ More immediately, what many of the migrants fear is simply financial ruin, or ev
 Whether they service rich, advanced economies such as Singapore’s, or perform the menial drudgery in India, migrant workers are among the most vulnerable to any shocks. At times like this they pay the price for the trait that some of their employers most prize: being invisible.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/asia/2020/04/02/lockdowns-in-asia-have-sparked-a-stampede-home

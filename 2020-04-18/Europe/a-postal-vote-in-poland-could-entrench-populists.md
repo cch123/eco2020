@@ -23,3 +23,7 @@ Later that day, PiS passed a bill to shift the entire election to postal voting.
 If the election goes ahead, low turnout and voting mishaps are expected. Another problem stems from PiS’s changes to the courts. Besides the disciplinary chamber that the ECJ ordered to be suspended, the government established a chamber of “extraordinary control” whose duties include certifying elections. Critics charge that it, too, is invalid under EU law, rendering the election illegitimate.
 
 Poland’s government may evade these conflicts. The independent-minded president of the Supreme Court, long a thorn in PiS’s side, finishes her term at the end of April, and Mr Duda can appoint a more sympathetic one. That could smooth any trouble over the election. As for the EU, its tools are limited. The ECJ can impose fines if Poland defies its order. Other states could make it clear that Poland will fare less well in the apportionment of pandemic recovery aid and the EU’s multi-year budget. With covid-19 on its mind, Poland may have less appetite for fights over the rule of law. Then again, so may the EU. ■
+
+## URL
+
+https://www.economist.com/europe/2020/04/16/a-postal-vote-in-poland-could-entrench-populists

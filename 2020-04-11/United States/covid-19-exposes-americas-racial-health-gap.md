@@ -25,3 +25,7 @@ In Detroit chronic conditions are depressingly common. About 45% of adults were 
 Covid-19’s spread may further expose this racial health gap. Ms Lightfoot says that Chicago’s black residents—who make up less than 30% of the city’s population—live lives that are so much shorter that they account for 72% of its deaths. “Those numbers take your breath away.” ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/united-states/2020/04/11/covid-19-exposes-americas-racial-health-gap

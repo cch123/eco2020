@@ -41,3 +41,7 @@ Back in the 1920s, Lippmann might have agreed with much of this. He saw objectiv
 The danger is that advocates of moral clarity slide self-righteously towards crude subjectivity. This week Bari Weiss, a Times editor, resigned, criticising what she said was the new consensus at the paper: “that truth isn’t a process of collective discovery, but an orthodoxy already known to an enlightened few whose job is to inform everyone else.” Earlier Mr Rosenstiel warned, in a largely supportive response to Mr Lowery’s column, that “if journalists replace a flawed understanding of objectivity by taking refuge in subjectivity and think their opinions have more moral integrity than genuine inquiry, journalism will be lost.”
 
 As reporters learn more about a subject, he adds, the truth tends to become less clear, not more so. Recognising and embracing the uncertainty means being humble—but not timid. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/07/16/how-objectivity-in-journalism-became-a-matter-of-opinion

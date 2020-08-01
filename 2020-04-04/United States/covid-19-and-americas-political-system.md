@@ -39,3 +39,7 @@ If states like California and Washington had not acted when they did, their hosp
 Epidemiologists and, now, the White House think that America will remain closed for at least the next few weeks, its economy mothballed. Before states can relax restrictions, their epidemic curves must be bent. “The best thing we can do for the economy is get the virus under control […] And then we can open the economy back slowly and systematically, and have a much better chance that it remains open,” says Ashish Jha of the Harvard Global Health Institute. There must be sustained declines in new infections over a long period, perhaps two weeks. There must also be enough testing capacity to contain new clusters. After lagging behind, America is now consistently testing 100,000 people a day. Still, three times as many tests may be needed, says Dr Jha, to trace all the contacts of the newly infected and for random sampling. And hospitals must have the capacity to absorb the added demand that relaxation of social distancing could bring. It is possible to do all this in a month. But it is more likely that Mr Trump will have to extend his directives beyond May 1st.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/united-states/2020/04/02/covid-19-and-americas-political-system

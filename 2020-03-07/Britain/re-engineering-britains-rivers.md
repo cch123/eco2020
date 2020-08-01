@@ -29,3 +29,7 @@ It is not all plain sailing. The Lake District is a World Heritage site, which p
 Nonetheless, projects like the one under way in Swindale may help inspire farmers to think differently about their land. This is a time of change for them. After Brexit, the EU’s comfortable Common Agricultural Policy looks like being replaced with a new, less generous subsidy regime, in which payments will be tied to, among other practices, the provision of environmental services. “Most farmers in these areas will admit that it’s hard to make money in these marginal upland areas,” says Jim Bliss, who helps farm the 3,500-acre Lowther estate some 10km north of Swindale. “Diversification is the way forward. But this is a live debate: are we farming for goods or nature?”
 
 Lowther estate is in the process of shifting to the nature side. Like many others, it is transected by a straight river channel. But for some months now, Mr Bliss and his team have been nudging the water this way and that, encouraging it to go back to its natural winding course, whose trace can still be seen on the landscape. The goal is to have a much smaller, pedigree herd of 120 longhorn cattle that cost less to maintain and benefit from a richer, healthier “wildland farm”. And a wiggly river running through it all.■
+
+## URL
+
+https://www.economist.com/britain/2020/03/07/re-engineering-britains-rivers

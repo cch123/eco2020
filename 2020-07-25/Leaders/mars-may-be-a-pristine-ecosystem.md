@@ -6,7 +6,7 @@
 
 > Earthlings should be careful not to contaminate it
 
-> Jul 23rd 2020
+> Jul 25th 2020
 
 EARTH ASIDE, Mars is the most-studied planet in the solar system. Satellites zip around it. Rovers trundle over its surface. A helicopter may soon clatter through its skies, for a clutch of new missions are either on their way or planned to launch soon.
 
@@ -15,6 +15,8 @@ The motive behind all this is the hope that Mars, like Earth, may support life�
 Behind all this enthusiasm, though, is a worry. If Mars is sterile after all, or if any life which once dwelled there is now extinct, what people do to the planet by way of contamination with Earthly bugs probably does not matter. But if Martians do exist, even if they are but lowly bacteria (or something vaguely equivalent), that would mean Mars is a pristine ecosystem. Those wishing to investigate it should therefore tread lightly, for reasons of both moral and scientific prudence.
 
 Astrobiologists identify two kinds of risk in putative encounters with alien life forms that are not actually toting ray guns. The first, “forward contamination”, is that hardy micro-organisms from Earth might hitch a ride with a space probe and set up shop on landing. The second, “back contamination”, concerns the reverse: that samples returned to Earth might bring alien microbes with them.
+
+
 
 The first risk is no longer theoretical. Scientists reckon that the rovers and landers already on Mars each play host to tens of thousands of microscopic Earthlings. Shielded from radiation by the probes themselves, these bacteria are probably dormant—but not dead.
 
@@ -29,3 +31,7 @@ Countries are already required, by the Outer Space Treaty of 1967, to worry abou
 Plenty of ideas are worth discussing. Some advocate risk-management, in which the greatest care is taken when exploring those parts of Mars most likely to contain life, though lower standards apply in harsher regions. “Reversible exploration” holds that, if life is discovered, humanity should retrieve the probes that already dot the Martian surface, along with their microbial passengers. And should private individuals be required to follow the same rules as nation-states?
 
 International co-operation is not a popular idea just now. Never mind: it should be tried anyway. Nationalism and protectionism can wane as well as wax, and alien-hunting is the work of decades. Counter-measures need not be expensive—experience suggests they add 10% or less to the cost of a probe. And it is hard to think of a more intrinsically global problem than ensuring that one planet’s life forms do not contaminate another’s. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/07/25/mars-may-be-a-pristine-ecosystem

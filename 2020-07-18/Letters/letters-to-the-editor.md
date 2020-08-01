@@ -79,3 +79,7 @@ Lexington’s look at John Bolton’s account of Donald Trump’s China policy s
 JOHAN HUGOLeamington Spa, Warwickshire
 
 * Letters appear online only
+
+## URL
+
+https://www.economist.com/letters/2020/07/18/letters-to-the-editor

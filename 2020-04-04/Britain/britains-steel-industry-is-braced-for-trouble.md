@@ -21,3 +21,7 @@ The jobs-retention scheme too causes problems. Closing steel plants temporarily 
 ![](./images/20200404_BRM927.png)
 
 Steel may directly employ only 32,600 workers, fewer than the pub chain JD Wetherspoon. But the jobs are clustered together and the workers tend to earn around one-third more than others in their localities. Britain’s new political geography may offer some hope (see map). Much of existing steel employment is concentrated in and around former “red wall” seats that switched from Labour to Conservative at the last election. Even the chair of the All-Party Parliamentary Group on Steel is now a Tory. Steel may be the latest industry arguing its case for more support, but it is unlikely to be the last. ■
+
+## URL
+
+https://www.economist.com/britain/2020/04/02/britains-steel-industry-is-braced-for-trouble

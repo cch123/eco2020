@@ -21,3 +21,7 @@ Raphael’s artistic alchemy mingled and transmuted the emotion in da Vinci’s 
 As Italy emerges from lockdown, said Dario Franceschini, the culture minister, at the reopening, the country is “looking to its strengths: art, beauty and history”. Appetite for those is undimmed. Around 900 visitors were ushered through the show on the first day, the maximum now allowed. But far fewer will get to see this revealing exhibition than if the pandemic had not struck. In 2010 the Scuderie’s Caravaggio show clocked up almost 6,000 a day.
 
 That raises the question of how galleries and museums can survive financially on such small numbers. The publicly owned Scuderie has big reserves, but Mr De Simoni acknowledges that other institutions might respond with sharply increased entrance charges. In the age of covid-19, art, like air travel, could once more become a privilege of wealth. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/06/04/the-first-big-art-show-of-the-covid-era-is-a-vision-of-the-future

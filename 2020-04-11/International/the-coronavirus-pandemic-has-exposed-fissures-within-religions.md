@@ -51,3 +51,7 @@ And yet traditional Christian teaching may also have hygienically helpful things
 James Alison, a radical Catholic priest, proposes a solution both revolutionary and traditionalist. He is encouraging households to practise “Eucharistic worship” at home: to bless bread and wine and invoke the presence of Jesus. His approach, he says, affirms the intimacy and mystery of classical worship but challenges the idea of a caste of celebrants. As he points out, a lack of manpower in some parts of Christendom is already prompting a rethink of the role of priests: the virus could be the coup de grâce. Pope Francis has called the pandemic “a time to separate that which is necessary from that which is not”. Some may take him at his word. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/international/2020/04/11/the-coronavirus-pandemic-has-exposed-fissures-within-religions

@@ -27,3 +27,7 @@ Where Grove does on occasion stray into public policy, it is easy to see where h
 This does not mean that government can learn nothing from business. But the idea that businesspeople will automatically translate their success into government has been proved false by a host of examples, from Silvio Berlusconi in Italy to Rex Tillerson, head of ExxonMobil turned America’s secretary of state. They pull levers and find that nothing moves the way they expect.
 
 It won’t do civil servants any harm to read “High Output Management”. But it is not a road map for managing government. At least the officials can be grateful for small mercies: Mr Cummings isn’t making them read “The Fountainhead”.
+
+## URL
+
+https://www.economist.com/business/2020/01/30/from-the-cradle-to-the-grove

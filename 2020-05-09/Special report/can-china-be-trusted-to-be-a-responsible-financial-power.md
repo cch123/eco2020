@@ -39,3 +39,7 @@ Left unaddressed, those doubts could limit Beijing’s sphere of financial influ
 There is a different path. China can choose to reassure the financial community that it will not seek to hide truth when there are problems in the system, and that it will act promptly—but within commonly accepted rules—to solve them. It must show that it is ready to respect the rights of those who choose to trust it, even when they run contrary to its interests. Western-led institutions can help, by recognising the status it is owed. So will time, as finance folks exposed to Chinese assets and systems find out not just that profits are good, but also that promises are met.
 
 By many measures, America is becoming an ever smaller part of the global economy. The laws of gravity dictate that its ability to be the world’s sole central banker, sooner or later, will ebb, and that China will fill part of the vacuum. Much better for both powers to peacefully coexist and collaborate than barricade themselves in their own incomplete universes. ■
+
+## URL
+
+https://www.economist.com/special-report/2020/05/07/can-china-be-trusted-to-be-a-responsible-financial-power

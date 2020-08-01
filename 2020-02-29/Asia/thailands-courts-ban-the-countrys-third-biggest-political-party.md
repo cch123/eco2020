@@ -19,3 +19,7 @@ The legal onslaught against Future Forward began after its surprisingly strong s
 In the short term, Mr Prayuth’s position has been strengthened by Future Forward’s demise. Nine of its 65 now-homeless MPs are joining Bhumjaithai, a party in the governing coalition. But the banning also demonstrates the hollowness of Mr Prayuth’s claim to have restored democracy. Indeed, students at several universities held candlelit vigils or mock funerals for democracy in the wake of the decision.
 
 Although the constitutional court has dissolved eight political parties since 2006, until now the targets had been allies of Thaksin Shinawatra, a telecoms tycoon whose government was ousted in a coup that year, sparking a feud between pro-Thaksin “red shirts” and pro-army, monarchist “yellow shirts” that has dominated Thai politics ever since. Future Forward was neither clearly red nor yellow. Indeed, its colour, orange, spoke of a third way that could appeal to partisans of both tendencies. By banning it, the current regime has proved once and for all that it does not simply want to restore order and break the political logjam, as often claimed, but to run the country without opposition. ■
+
+## URL
+
+https://www.economist.com/asia/2020/02/27/thailands-courts-ban-the-countrys-third-biggest-political-party

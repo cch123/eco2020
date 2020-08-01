@@ -21,3 +21,7 @@ Yet a gap has emerged between how Canada sees itself and how the world sees it, 
 Mr Trudeau was late to build relations with African leaders, who have more than 50 votes at the UN. His whirlwind tour of the continent in February, which included promises of aid and a stop at the headquarters of the African Union in Addis Ababa, smacked of opportunism.
 
 More bad news followed the Security Council disappointment. On June 19th China announced that Michael Kovrig and Michael Spavor, Canadian citizens, have been charged with spying. China detained them in December 2018 after Canada, acting on an extradition request from the United States, arrested Meng Wanzhou, the chief financial officer of Huawei, a Chinese telecoms giant. The new memoir by John Bolton, President Donald Trump’s former national security adviser, confirms that Mr Trump dislikes the Canadian prime minister. Mr Trump called him a “behind-your-back guy”. Canada, to paraphrase the lyrics of an early hit for Ms Dion, is searching for a hand that it can hold.■
+
+## URL
+
+https://www.economist.com/the-americas/2020/06/25/why-canada-failed-to-win-a-seat-on-the-security-council

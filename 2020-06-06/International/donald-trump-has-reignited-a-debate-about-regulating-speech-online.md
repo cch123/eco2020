@@ -21,3 +21,7 @@ Section 230 and similar regulations have already gone through one round of mini-
 A second round of reforms has now begun. The EU intends to follow the example of Germany, which itself is in the process of tightening its law, the Netzwerkdurchsetzungsgesetz. Britain may soon get similar legislation. In America calls are growing to scrap section 230—on the left as well as the right. Joe Biden, the presumptive Democratic presidential candidate, is not a fan. But without such legislation social-media firms will probably err on the side of caution and become the “ministries of truth” that so many fear.
 
 Governments, particularly in Europe, where limits on free speech are more acceptable, seem to be urging online firms to police their platforms more. Tech titans are unlikely to put up much resistance, since they have already begun monitoring more content in the wake of the pandemic (see [article](https://www.economist.com//business/2020/06/04/twitter-and-facebook-have-differing-business-models)). Groups charged with overseeing the companies’ decisions will become more common. They may be public agencies, as is planned in Britain, or semi-independent self-regulatory groups, such as Facebook’s “oversight board”, also known as its “supreme court”, which in early May welcomed its first batch of judges. Perhaps one day Mr Trump can look forward to their rulings.■
+
+## URL
+
+https://www.economist.com/international/2020/06/04/donald-trump-has-reignited-a-debate-about-regulating-speech-online

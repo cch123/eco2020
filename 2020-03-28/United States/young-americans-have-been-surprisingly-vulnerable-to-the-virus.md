@@ -19,3 +19,7 @@ It remains to be seen whether young people will continue to make up such large p
 But there are some reasons to remain concerned about younger Americans. Research on the virus in China suggests that obese people, those with high blood pressure and those with pre-existing conditions such as diabetes may be more vulnerable. All those factors are especially prevalent in America. In Italy around 20% of people are obese; in America the figure is 36%. Over a tenth of Americans suffer from diabetes. Not all are old. On March 18th Donald Trump said he worried that many young people “don’t realise” the danger “and they’re feeling invincible.” His other statements have probably not helped with that, but his words ring true.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/united-states/2020/03/26/young-americans-have-been-surprisingly-vulnerable-to-the-virus

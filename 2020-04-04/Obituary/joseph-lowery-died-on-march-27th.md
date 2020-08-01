@@ -27,3 +27,7 @@ He believed deeply in that struggle. But he also knew that God’s plan was boun
 At Barack Obama’s inauguration he was asked to give the benediction. He was delighted to; that way, he would get the last word. Time for a rhyme, but a heartfelt one. He prayed for a day when black would not be asked to get back, brown could stick around, yellow would be mellow, and white would embrace what was right. “The Star-Spangled Banner” was the only thing that followed him.
 
 As an anti-war campaigner it was not a piece he liked, with all that “bombs bursting in air” stuff. But it sounded better than ever then. It was not the anthem that had changed; the country had changed. Say amen! And amen! In the fierce cold of that January day, hot tears coursed down his cheeks.■
+
+## URL
+
+https://www.economist.com/obituary/2020/04/02/joseph-lowery-died-on-march-27th

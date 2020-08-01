@@ -61,3 +61,7 @@ The toughest part is teaching old dogs new tricks. Managing newly diverse teams 
 Corporate America at last looks determined to take on racism in business. Josh Bolten, head of the Business Roundtable, which represents big American firms, says that there is even “widening shareholder appreciation that the corporation needs to serve something more than the immediate financial return to the shareholders.” Ms Meyer-Shipp sees a tipping point, with recent events a “wake-up call as the lack of progress on race is evident.”
 
 The last week had echoes of tumultuous years such as 1918, 1935 and 1968, when America’s economy and its fabric were shaken, reckons Mr Walker. It may lead to a great awakening at USA Inc. “The unprecedented convergence of health, economic and social crises has happened in a way that I am left feeling hopeful about corporate America realising the potential of greater diversity.”■
+
+## URL
+
+https://www.economist.com/business/2020/06/11/bosses-say-they-want-to-tackle-racial-injustice

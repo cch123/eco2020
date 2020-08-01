@@ -49,3 +49,7 @@ Glass Lewis, a shareholder-advisory firm, has said that offsetting bosses’ pay
 Incentive packages that postpone payouts may, it is true, prompt bosses to demand higher pay to compensate them for the added wait. Martine Ferland, boss of Mercer, admits a tension exists between the short term and the long term. Even so, she is convinced change is afoot. Executives “cannot prosper at the expense” of everyone else. Mr Larcker of Stanford sees the pandemic as “a wake-up call for boards”. About time. ■
 
 Correction (July 9th 2020): An earlier version of this article said that Bob Bakish, chief executive of ViacomCBS, last year received total compensation of $134m. That figure referred to the total compensation of Mr Bakish and Joseph Ianniello, CEO of CBS before its merger with Viacom in December 2019. Mr Bakish's total compensation in 2019 was $36.5m. Similar errors crept into a table of executive compensation, which has been removed. We also exaggerated the pay of Soren Skou, CEO of A.P. Moller-Maersk, as a result of an improper currency conversion. We apologise for the mistakes.
+
+## URL
+
+https://www.economist.com/business/2020/07/11/how-ceo-pay-in-america-got-out-of-whack

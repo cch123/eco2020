@@ -35,3 +35,7 @@ Germany and Russia responded angrily to America’s imposition of sanctions on c
 Boeing sacked Dennis Muilenburg as chief executive, deciding “that a change in leadership was necessary to restore confidence” in the company amid the debacle of its 737 MAX jetliner, which has been grounded for nine months after two fatal crashes. The new CEO will be David Calhoun, who is currently Boeing’s chairman.
 
 Stockmarkets had a sparkling 2019, ending the year much higher than when it started. The FTSE All-World, a global index, rose by a quarter over the year, its best performance since 2009. The S&P 500 was up by 29%, the NASDAQ by 35% and the Euro Stoxx 50 by 25%. Other European and Japanese markets recorded similar gains. After a rotten 2018, China’s CSI 300 index rebounded, rising by a third in 2019. See [article](https://www.economist.com//finance-and-economics/2020/01/02/the-causes-of-a-booming-stockmarket-are-unlikely-to-last-through-2020).
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/01/04/the-world-this-week

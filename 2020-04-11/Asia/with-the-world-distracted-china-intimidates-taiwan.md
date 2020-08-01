@@ -21,3 +21,7 @@ On March 16th China conducted its first night-time exercise near Taiwan, sending
 It helps that America has been underlining its support for Taiwan. On February 12th America sent two B-52 bombers up Taiwan’s east coast, two days after Chinese jets had crossed the median line. An American warship has also sailed through the Taiwan Strait in each of the past three months—an expression, the navy says, of America’s “commitment to a free and open Indo-Pacific”. Last year America agreed to sell Taiwan a whopping $8bn-worth of weapons, including 66 F-16 fighter jets.
 
 But the  uss Theodore Roosevelt, an American aircraft-carrier that was exercising near China weeks ago, is stuck in Guam thanks to a coronavirus outbreak among its crew (see [article](https://www.economist.com//united-states/2020/04/08/covid-19-takes-out-an-aircraft-carrier-and-a-navy-secretary)). In March the Chinese army held two weeks of exercises with Cambodia, even as America and its allies were cancelling drills. The effects of the virus aside, the military balance is shifting. “Based on current trends, and barring …technological breakthrough, America will probably have lost the ability to defend Taiwan within the decade,” says Brendan Taylor of the Australian National University. “Policymakers should be worried about the growing risk of strategic crisis during this window.” ■
+
+## URL
+
+https://www.economist.com/asia/2020/04/08/with-the-world-distracted-china-intimidates-taiwan

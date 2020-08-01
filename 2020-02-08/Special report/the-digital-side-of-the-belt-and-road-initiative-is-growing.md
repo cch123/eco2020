@@ -31,3 +31,7 @@ A final reason is that, even more than other dimensions, the digital one lends i
 The answer will come in part from how Europe handles the challenge. In places the digital dimension China is pushing is indistinguishable from the others. For instance, Huawei’s 5G proposals for Greece are pitched in part to help drive the next phase of the logistics transformation under way at Piraeus port, which Mr Xi calls the “dragon’s head” of Chinese investment in Europe.
 
 Last year Greece became the first western European country to join the 16+1 (now 17+1), a group of central and eastern European countries happy to work with Beijing. China’s influence over this group is a source of growing concern in Brussels as lines harden over Huawei’s future involvement in 5G. Europe’s biggest states are agonising over whether to let Huawei develop 5G, or ban it and face China’s wrath. America may insist that any compromise, in which Huawei is excluded from core parts of the 5G system, is unworkable. It is hard to imagine the EU splitting with America on such a profound matter—and the new government in Greece under Kyriakos Mitsotakis is more Western-friendly than its predecessor. But it is clear. The digital battle lines are about to be drawn.■
+
+## URL
+
+https://www.economist.com/special-report/2020/02/06/the-digital-side-of-the-belt-and-road-initiative-is-growing

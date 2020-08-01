@@ -27,3 +27,7 @@ So much unguarded sex had now been proved to make men sick. As important, it als
 His campaigns never ended. After all, HIV/AIDS was still rampant in the world, and its treatment still hampered by ignorance. Many gays still resisted his argument for monogamy, and were outraged by his accusations. So, by his own lights, he had failed. A good leader should not make so many enemies.
 
 One enemy, though, he had evaded. He did not have AIDS himself. He had HIV, contracted, he thought, from an encounter in 1980, but it never developed further. He was lucky; though frail, he could keep going. To ward off infections, he wore large turquoise rings and several turquoise bracelets. But the really effective way to keep plagues off, he had learned, was just to stand up and yell. ■
+
+## URL
+
+https://www.economist.com/obituary/2020/06/13/larry-kramer-died-on-may-27th

@@ -19,3 +19,7 @@ Before the epidemic, such diplomats often used Twitter to dismiss reports of hum
 The tweets get noticed. In July one of the country’s most outspoken Twitter-diplomats, Zhao Lijian, who has about 240,000 followers, posted a message saying that white people avoid a mostly black district in Washington. Susan Rice, a former American ambassador to the UN, tweeted that Mr Zhao, who was then the deputy chief of mission in Islamabad, was a “racist disgrace”. She called on Cui Tiankai, China’s ambassador in Washington, to “do the right thing and send him home”. Mr Zhao fired back that she was “shockingly ignorant”. But Mr Cui asked that word be conveyed to Ms Rice that he did not approve of Mr Zhao’s tweet, that Mr Zhao did not work in Washington and that his Twitter account did not reflect China’s stance. The offending tweets were soon deleted.
 
 Mr Zhao has since relocated to Beijing, where he is deputy chief of the foreign ministry’s Information Department. Part of the provocateur’s duties: getting more of China’s envoys to tweet. ■
+
+## URL
+
+https://www.economist.com/china/2020/02/20/china-finds-a-use-abroad-for-twitter-a-medium-it-fears-at-home

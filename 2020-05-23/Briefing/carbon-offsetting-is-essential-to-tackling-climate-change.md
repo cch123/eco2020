@@ -19,3 +19,7 @@ But it is likely to become easier. Ben Caldecott of Oxford University points out
 If the world is to achieve net-zero emissions, the only permissible offsets will need to be genuine negative emissions (rather than schemes that simply reduce emissions). This may mean sucking carbon out of the air using machines. A nascent industry aims to do this, but the costs are big. An estimate in 2018 by researchers at Carbon Engineering, a Canadian firm, put the cost of direct air capture between $94 and $232, many times the carbon price in most places.
 
 It is possible that with sufficient investment those costs could fall as carbon prices rise, allowing a “direct air capture” industry to make money by selling credits into emissions-trading schemes. Direct-capture machines are much more efficient in terms of land. Mr Caledcott hopes that Britain, which has said it will leave the ETS now it is no longer in the EU, will pioneer the first net-zero emissions trading system including such offsets.
+
+## URL
+
+https://www.economist.com/briefing/2020/05/21/carbon-offsetting-is-essential-to-tackling-climate-change

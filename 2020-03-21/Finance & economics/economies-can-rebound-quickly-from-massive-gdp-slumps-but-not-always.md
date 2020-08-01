@@ -31,3 +31,7 @@ And third, it is important to get macroeconomic policy right. The global financi
 Even the mildest brush with the coronavirus could prove economically destructive if governments are reluctant to provide enough stimulus. The world should be able to bounce back to growth once covid-19 is brought under control. It has only to avoid the errors of history.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/03/19/economies-can-rebound-quickly-from-massive-gdp-slumps-but-not-always

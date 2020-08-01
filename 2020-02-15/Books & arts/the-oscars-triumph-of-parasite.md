@@ -17,3 +17,7 @@ His rehabilitation chimes with political changes in South Korea. Ms Park’s lie
 Some conservatives are still wary of Mr Bong, whose work criticises capitalism and social hierarchies. But despite its themes of inequality and class resentment, South Koreans’ jubilation over “Parasite” transcended politics. The many who had been breathlessly following the Oscars ceremony erupted in pride when the best-picture envelope was opened. Cinemas swiftly added new screenings for the few laggards who had not yet seen the film (more than 10m tickets were sold when it was shown in South Korea last summer). A pizza joint and supermarket that feature in the story were overrun by reporters. The municipal government promoted tours of the film’s locations, including a grimy underpass.
 
 Little good the enthusiasm will do the city’s strugglers—at least, if “Parasite” itself is any guide. Nothing avails the Kims, neither crime nor (when they try it) going straight. Still, for all its fatalism, part of the appeal of Mr Bong’s zany movie is that it is never simplistic. The Kims aren’t saints, and the Parks are more blithe than villainous; they just cannot help noticing the odour that seems to emanate from the servants. If audiences stop to think about it, the grisly denouement is only a slight inflection of a reality in which, sometimes, the poorest are left to feed on scraps. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/02/13/the-oscars-triumph-of-parasite

@@ -33,3 +33,7 @@ It may be lost altogether. Without the Monday-to-Friday commute, the weekend see
 Looking further out, the AD era may bring other changes. Some may decide to live in small towns where housing costs are lower, since they have no need to commute. Men will have fewer excuses to skip cleaning or child care if they are not disappearing to the office. In a sense, this is a return to normal: until the 19th century most people worked at or close to their homes. But social historians may still regard 2020 as the start of a new age.
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/05/30/working-life-has-entered-a-new-era

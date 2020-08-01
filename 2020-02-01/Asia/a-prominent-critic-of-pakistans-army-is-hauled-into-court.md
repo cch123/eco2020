@@ -21,3 +21,7 @@ Moreover, the army says it has tried to fix the problems the PTM has raised. It 
 But the generals are more adept with sticks than carrots. Journalists have been told to stop reporting on the PTM. Senior officers have stated ominously that its time is up. In May the army shot into a crowd of PTM supporters heading to a sit-in, killing at least 13. (The soldiers said they were fired on first.) Two PTM-supporting parliamentarians were arrested and spent four months in detention.
 
 The trigger for Mr Pashteen’s arrest may have been the fresh campaign of rallies that the PTM recently initiated. He has been denied bail, and PTM members protesting his detention have themselves been arrested. For the most part, Pakistan’s courts seem unconcerned about the abuses that Mr Pashteen has railed against. But daring to complain about the army’s impunity—now that is a serious offence. ■
+
+## URL
+
+https://www.economist.com/asia/2020/01/30/a-prominent-critic-of-pakistans-army-is-hauled-into-court

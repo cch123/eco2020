@@ -23,3 +23,7 @@ The decree puts the national government in charge of health care and policing. I
 So far Spaniards seem to be rallying round. Each evening at 8pm residents stand on balconies to applaud harried health workers. Patience may flag. But for now, the virus has revived the nation-state after years of centrifugal pressure. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/03/19/spaniards-are-uniting-against-covid-19

@@ -25,3 +25,7 @@ A group of internet grandees came forward this month with an alternative proposa
 Ethos says it will honour the previous price cap and will set up a “stewardship council” to hear feedback from .org registrants. ISOC’s president argues that the deal gives the organisation a hefty endowment to support the net’s development without being tied to a single funding source, .org.
 
 The ICANN board is to meet on January 24th-26th in Los Angeles. The body’s rules require it to reach a decision on the matter by February 17th. ICANN argues that its remit is narrow—not to approve the sale per se, but to give its consent to the change of control of .org from ISOC to Ethos. Yet that change would represent something much broader: a shift away from the internet’s non-commercial roots.■
+
+## URL
+
+https://www.economist.com/united-states/2020/01/23/a-proposed-sale-of-rights-to-org-web-addresses-sparks-a-backlash

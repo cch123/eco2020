@@ -27,3 +27,7 @@ Italy’s need for help has also put Mr Di Maio at the centre of another controv
 The M5S also has a record of intermittent Euroscepticism. But, says Mr Di Maio, its criticism has been directed more at the euro than at the EU itself. As for himself, “I was never one of those who wanted to leave Europe or weaken it.”
 
 His hope is that, as has often happened in the past, Europe will take advantage of the current crisis to become more united. Among changes he favours, apart from the definitive scrapping of fiscal austerity and an equally definitive embracing of debt mutualisation, are greater fiscal harmonisation and a more central role for the European Parliament. With a hint of asperity he says: “We are, of necessity, heading for a Europe that learns from its mistakes.” ■
+
+## URL
+
+https://www.economist.com/europe/2020/04/30/an-interview-with-luigi-di-maio

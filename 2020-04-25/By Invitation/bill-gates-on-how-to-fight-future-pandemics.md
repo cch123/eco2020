@@ -41,3 +41,7 @@ None of this is inevitable. History doesn’t follow a set course. People choose
 Bill Gates is the co-founder of Microsoft and co-chair of the Bill & Melinda Gates Foundation. This is part of a series on the world after covid-19 which can be found at [Economist.com/coronavirus](https://www.economist.com/http://Economist.com/coronavirus)
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/by-invitation/2020/04/23/bill-gates-on-how-to-fight-future-pandemics

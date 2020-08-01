@@ -25,3 +25,7 @@ What was most notable about her plan was its economic analysis. She talked airil
 Such numbers are tiny compared with the likely losses from new barriers to trade with the EU. Treasury analysis in November 2018 found that, over ten years, a Canada-style deal would reduce GDP by some 4.9% compared with staying in the EU. Leaving with no trade deal would cut it by as much as 7.7%.
 
 The government refuses to update this analysis. David Frost, its Brexit negotiator, has said the impact of tariffs and customs barriers is exaggerated, but offered no economic argument to support this claim. In its trade mandate, the government promises only to “invite contributions about the economic implications of the future relationship”. As for the November 2018 study, Downing Street says primly it was done by “another government”. What accounts for this coyness? Maybe the fact that most economic models show losses from leaving the EU being vastly bigger than gains from trade deals with other countries.■
+
+## URL
+
+https://www.economist.com/britain/2020/03/05/the-gaps-between-the-eu-and-britain-are-wide-and-time-is-short

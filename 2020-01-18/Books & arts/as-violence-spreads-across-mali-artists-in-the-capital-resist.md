@@ -27,3 +27,7 @@ For all the turmoil, life goes on in Bamako. The street bars still hum with the 
 For Mr Camara the festival is particularly important. His work was first noticed there in 2009, and he knows how valuable the exposure it brings can be for his students. Without such attention, he worries that Mali’s image will increasingly be defined not by its people, but by the Western journalists who have arrived to report on the bloodshed. “All they see is our misery,” he says. “They don’t see our happiness. No one can portray us better than ourselves.”
 
 He cannot travel across his country as he once did. Yet, for him, Bamako itself is filled with hidden tales and significance. He says the cliffs surrounding the city have a metaphorical meaning that helps define its inhabitants. “On one side of us are the cliffs of power,” he says gesturing towards the president’s hilltop palace. “On the other, you have the cliffs of knowledge, where the university is. In between, the people of the Niger welcome all.” ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/01/16/as-violence-spreads-across-mali-artists-in-the-capital-resist

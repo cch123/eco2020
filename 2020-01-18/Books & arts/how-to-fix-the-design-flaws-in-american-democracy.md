@@ -25,3 +25,7 @@ Unlike those reforms, fixing the oddest quirk of the American political system�
 At times, Mr Drutman rhapsodises about multiparty democracy as if it were a panacea for all America’s ills. It would, he thinks, combat not only polarisation, but also low turnout, inequality and demagoguery. Yet the force of his argument, rigorous and limpidly expressed, is almost irresistible. He emerges as one of the keenest observers of America’s political pathologies—if only because he questions what others take for granted. Tracing the arc of the doom loop, he also spies a way out. ■
 
 [Sign up to receive Checks and Balance](https://www.economist.com//checksandbalance/), our new weekly newsletter on American politics
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/01/18/how-to-fix-the-design-flaws-in-american-democracy

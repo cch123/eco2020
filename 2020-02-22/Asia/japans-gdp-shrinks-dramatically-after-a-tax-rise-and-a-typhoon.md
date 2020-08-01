@@ -23,3 +23,7 @@ Faced with these fiscal, meteorological and viral setbacks, how will policymaker
 A possible solution, proposed by Stefan Angrick of Oxford Economics, a British consultancy, would be for the BoJ to pay positive interest on more reserves, to shore up the banks’ profitability, but even lower rates on the remainder, to help stimulate borrowing. A more sharply tiered system like this helped Switzerland’s central bank cut interest rates to -0.75%.
 
 One twist is that all three of Japan’s recent disasters—the tax increase, the typhoon and the virus—ought to put upward pressure on prices, even as they depress demand. That should prevent any return to outright deflation. But even policymakers desperate to ensure Japan escapes from deflation are unlikely to prefer stagflation. ■
+
+## URL
+
+https://www.economist.com/asia/2020/02/20/japans-gdp-shrinks-dramatically-after-a-tax-rise-and-a-typhoon

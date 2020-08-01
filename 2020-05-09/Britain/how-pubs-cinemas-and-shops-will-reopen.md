@@ -25,3 +25,7 @@ Mr Richards’s plan is to stagger screening times in a cinema’s different aud
 Correction (May 8th 2020): A previous version of this article incorrectly stated that UK cinema attendance has diminished in recent years. In fact, it peaked in 1946, bottomed out in 1984, and has risen since. Apologies.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/05/09/how-pubs-cinemas-and-shops-will-reopen

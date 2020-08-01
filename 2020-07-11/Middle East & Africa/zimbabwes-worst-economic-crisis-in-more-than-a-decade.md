@@ -27,3 +27,7 @@ Mr Mnangagwa has stuffed ministries and his office with allies, many of whom hai
 In a sign of the heated atmosphere in Harare, on June 10th security officials held a press conference in which they assured reporters that there was no imminent effort to depose Mr Mnangagwa. “For the avoidance of doubt, there is no coup in the making,” said Kazembe Kazembe, the home-affairs minister. Since few people had sensed one in the first place, the event simply increased speculation.
 
 Zimbabwe has long proved adept at finding new depths to plumb. But the difficulty for the regime is that, in the midst of a pandemic, ordinary Zimbabweans have fewer ways to survive. An indefinite lockdown makes it hard to “engage in any side hustles”, like raising chickens, says Tsitsi, the teacher. Then there is a bitter irony: though schools will reopen on July 28th, many teachers will not be able to afford the fees. “We will be teaching other people’s kids while ours stay home,” she says. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/07/09/zimbabwes-worst-economic-crisis-in-more-than-a-decade

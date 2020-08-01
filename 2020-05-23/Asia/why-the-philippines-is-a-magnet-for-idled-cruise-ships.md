@@ -21,3 +21,7 @@ Onward travel is even more daunting for foreigners, since flights in and out of 
 The delay is spurring other complaints. Some unlucky sailors have been confined to windowless cabins. Several ships are anchored too far offshore to pick up mobile signals. Some trapped sailors say they are no longer being paid. A typhoon that scattered the Manila Bay fleet for a while added to their unease. One posted a plaintive plea on Facebook: “Please let us go home, we are begging whoever is in charge.” ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/asia/2020/05/23/why-the-philippines-is-a-magnet-for-idled-cruise-ships

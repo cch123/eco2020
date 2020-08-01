@@ -25,3 +25,7 @@ They promised to cut the share of spending that goes on public-sector wages and 
 South Africa’s problem is not a lack of ideas. It is politics. Although he has said he supports Mr Mboweni, President Cyril Ramaphosa has done little to show it. He has often made the job of his finance minister harder, for instance by promising that there would be no “mass retrenchment” of public employees, and by dithering over state enterprises. Corruption remains rife. Credit-rating agencies doubt that Mr Mboweni will meet his targets. Few believe that Mr Ramaphosa will face down trade unions or his party ahead of its National General Council and local elections in 2021.
 
 So this may not be the last time South Africa turns to the fund. The next bail-out would come with tough conditions, which would infuriate the ANC. But the party ought to appreciate what Mr Mbeki and Mr Manuel understood: that the way to protect your economic sovereignty is to avoid the need for the IMF in the first place. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/07/30/south-africa-borrows-from-the-imf-for-the-first-time-since-apartheid

@@ -17,3 +17,7 @@ It is a plausible idea. But two sample points (mammals and birds) do not prove i
 Adding reptiles, amphibians, sharks, bony fish, arachnids and insects to the list, they confirmed that the relationship between longevity and heterogameticity does indeed hold up in other groups of animals. But there is a twist. When males are heterogametic the sex difference in lifespan averages 20.9%. Despite extreme examples like the spruce grouse, however, when females are heterogametic the average difference is only 7.1%. These numbers suggest that fighting and showing off are involved in determining longevity differences, too.
 
 Correction (March 11th, 2020): A previous version of this article mistakenly included a picture of a peacock. It has been replaced with a photograph of a male spruce grouse.
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/03/07/which-is-really-the-weaker-sex

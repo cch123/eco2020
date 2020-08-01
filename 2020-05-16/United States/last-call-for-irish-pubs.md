@@ -27,3 +27,7 @@ Historically, “the Irish pub was the place where business was done, jobs were 
 People will keep going for the craic (Irish for fun). Not all pubs need to reinvent themselves, says Andrew Rigie, head of the New York Hospitality Alliance, an industry group. “Sometimes just being traditional and keeping to your roots is the best business plan possible.” But the days when you could slap an “O’Reilly’s” sign over the front door and get crowds are long gone. ■
 
 Editor’s note: The Economist is making some of its most important coverage of the covid-19 pandemic freely available to readers of The Economist Today, our daily newsletter. To receive it, register [here](https://www.economist.com//newslettersignup). For our coronavirus tracker and more coverage, see our [hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/united-states/2020/05/16/last-call-for-irish-pubs

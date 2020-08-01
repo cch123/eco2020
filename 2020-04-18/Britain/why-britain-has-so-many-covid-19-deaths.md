@@ -37,3 +37,7 @@ Careful accounting will require adjustment for a huge range of things like the p
 Britain has failed to get on top of the the virus in the way other countries have managed to. At this stage, it is clear that the government has made mistakes. It is not yet clear, however, quite how damaging they have been.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/04/18/why-britain-has-so-many-covid-19-deaths

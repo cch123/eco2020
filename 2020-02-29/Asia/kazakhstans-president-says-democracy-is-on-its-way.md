@@ -13,3 +13,7 @@ THE PRESIDENT of Kazakhstan, Kassym-Jomart Tokayev, likes to bang on about polit
 It was a busy weekend for the police, who detained scores more demonstrators at separate protests organised by Democratic Choice of Kazakhstan, a banned movement led by a rich Kazakh, Mukhtar Ablyazov, who lives in France. In Almaty the detainees included Erik Zhumabayev, a disabled man who attended a demonstration in his wheelchair. A prominent activist, Dulat Agadil, died in custody in Nur-Sultan, the capital, a few days later. That brought more protesters onto the streets, leading to more arrests.
 
 The detentions followed the government’s publication of a bill ostensibly intended to loosen restrictions on free assembly, but which critics say would actually impose new ones. Some 5,000 people were arrested at pro-democracy rallies last year. The demonstrations began after Nursultan Nazarbayev, Kazakhstan’s strongman of 30 years, abruptly resigned, handing power to Mr Tokayev with little pretence of a democratic transition. Mr Nazarbayev, who still pulls the political strings, has never shown any tolerance of dissent. Mr Tokayev likes to paint himself as a reformer, poised to overhaul the old order. The latest clampdown sends “a clear message” that liberalisation is not on the cards, says Mr Mamay, who was released after two days’ detention. He plans to try again to form his new party, but no doubt hopes not to have to do so from a cell.
+
+## URL
+
+https://www.economist.com/asia/2020/02/27/kazakhstans-president-says-democracy-is-on-its-way

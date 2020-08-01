@@ -21,3 +21,7 @@ In reality, however, few visas were being issued, after consulates suspended wor
 Correction: This article originally said that 169,000 people entered America on an H-1B visa in the second half of 2019.
 
 Dig deeper:
+
+## URL
+
+https://www.economist.com/united-states/2020/06/23/highly-skilled-migrants-are-no-longer-welcome-in-america-maybe

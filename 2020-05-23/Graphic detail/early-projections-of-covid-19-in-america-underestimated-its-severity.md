@@ -21,3 +21,7 @@ There are several reasons why forecasts got off to a bad start. First, the early
 With better data and improved models, the forecasts made today should prove more accurate—either by luck or design—than earlier ones. Yet future estimates remain widely divergent. The IHME expects total deaths to stabilise in July at 140,000, whereas Mr Gu expects the virus to persist into August, at which time there will have been nearly 200,000 deaths. Either total would mean that covid-19 would have exacted a truly terrible toll. ■
 
 Sources: Covid19-Projections.com; Institute for Health Metrics and Evaluation; Los Alamos National Laboratory; New York Times; Reich Lab, University of Massachusetts Amherst;The Economist
+
+## URL
+
+https://www.economist.com/graphic-detail/2020/05/23/early-projections-of-covid-19-in-america-underestimated-its-severity

@@ -25,3 +25,7 @@ The authorities’ atmanirbharta can also have sinister implications. The Suprem
 Even Amit Shah, the home minister, who as Mr Modi’s campaign wizard is reputed for sensing the national pulse, seems to be infected with atmanirbharta. Showing unusual detachment in a recent online election rally, he admitted that the government may have fallen short in its handling of covid-19. Then he added a question that rang particularly tuneless after six years in power with a crushing parliamentary majority: “But I want to ask the opposition, what did you do?”
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/asia/2020/06/11/indias-bureaucrats-are-fighting-covid-19-with-red-tape

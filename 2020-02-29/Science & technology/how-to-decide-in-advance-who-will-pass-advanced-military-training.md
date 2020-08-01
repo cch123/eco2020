@@ -23,3 +23,7 @@ Dr Saxon’s sample proved pretty representative in their rates of completion of
 She also showed when the towel was most likely to be thrown. A majority of droppings out happened just before a series of timed drills, conducted in a deep-water pool, in full uniform. These drills are designed to test candidates’ ability to perform tasks underwater, holding their breath, in a chaotic environment.
 
 What the marine corps’ trainers will do with this information is not yet clear. They could use it to winnow out likely failures before the course starts, though that might seem unfair to introverts who would nevertheless have made it. Or they might choose to identify those who need a bit of encouragement to throw themselves into both the literal and metaphorical deep end, on the presumption that, having done so, they will then take the rest of the course in their stride. Either approach would, presumably, reduce the drop-out rate. What you can be sure of, though, is that the course itself will not be made any easier.■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/02/27/how-to-decide-in-advance-who-will-pass-advanced-military-training

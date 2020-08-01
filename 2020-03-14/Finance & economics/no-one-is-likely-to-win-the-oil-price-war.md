@@ -33,3 +33,7 @@ Russia may fail in its attempt to kill off America’s shale industry. Moreover,
 With some of the world’s cheapest oil, Saudi Arabia may be able to pile more pressure on the Russians. Aramco has more than 50 years of reserves, and costs per barrel of less than $9, according to Rystad Energy, a data firm, compared with $15 for Russia. Still, Saudi Arabia may struggle to maintain production—even 12.3m b/d will require tapping its vast inventories.
 
 Moreover, the kingdom’s budget requires an oil price of more than $80, estimates the IMF. Goldman Sachs, a bank, reckons that if it increases output and oil prices recover, its finances will weather temporary pain. But if the virus persists and demand keeps plunging, the damage may be more lasting. It is a price war that no one looks likely to win. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/03/12/no-one-is-likely-to-win-the-oil-price-war

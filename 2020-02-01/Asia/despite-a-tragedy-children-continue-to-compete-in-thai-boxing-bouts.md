@@ -19,3 +19,7 @@ For some children, boxing is a route out of poverty. Those participating in publ
 But doctors say that blows to the head from “the art of eight limbs”, which involves punching, kicking, kneeing and elbowing, may stunt children’s development and increase the risk of Parkinson’s and Alzheimer’s. A study from Mahidol University found that boxers under the age of 15 had lower IQs than average; those who had been fighting the longest were furthest behind. The study’s lead author, Jiraporn Laothamatas, considers putting children in the ring a form of child abuse.
 
 One force helping sustain the sport, underage bouts included, is tourism. The Tourism Authority of Thailand energetically promotes muay thai. Foreigners tend to snap up the most expensive seats in the biggest stadiums, looking for a slice of Thai life. Many may not realise how young some of the fighters they are watching are—although the weight categories should give them an inkling. Anucha was competing in the under-41kg division. ■
+
+## URL
+
+https://www.economist.com/asia/2020/01/30/despite-a-tragedy-children-continue-to-compete-in-thai-boxing-bouts

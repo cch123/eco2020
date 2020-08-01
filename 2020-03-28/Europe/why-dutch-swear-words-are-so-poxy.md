@@ -15,3 +15,7 @@ Because expletives are based on social taboos, in most cultures they are linked 
 Scholars are not sure why the Dutch swear with illnesses. One theory links it to Calvinism, the puritanical strain of Protestantism that caught on here in the 16th century, which holds that the virtue of those destined for heaven will show itself in worldly prosperity, health and hygiene. “There was a shift in focus from the afterlife to this life, which, for example, diminished the strength of ‘God damn it’,” says Marten van der Meulen, a Dutch linguist and author of a book on swearing. On this theory, “a curse might be stronger if you used something in actual life, like a disease.”
 
 However, there is also what linguists call the frequency hypothesis: the Dutch may curse with diseases simply because it caught on. Language, as Laurie Anderson said, is a virus. Perhaps someday Dutch kids will savage each other on the playground with cries of coronalijer.
+
+## URL
+
+https://www.economist.com/europe/2020/03/26/why-dutch-swear-words-are-so-poxy

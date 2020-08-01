@@ -19,3 +19,7 @@ Ange Samma, along with five other active-duty service members, and the American 
 In 2018 there was a 70% drop in naturalisation applicants from the armed forces after the extra vetting was put in place. The lawsuit says the servicemen would have been naturalised faster if they had taken the lengthy civilian route. Their applications are being rejected at a higher rate than civilian ones. Margaret Stock, a retired lieutenant-colonel and now an immigration lawyer, says some serving soldiers are placed in deportation proceedings by the same government that they volunteered to fight for, before the application process has been completed.
 
 Some countries are loosening citizen-enlistment rules because of military-recruitment problems, but only a few make service a path to citizenship as America does. This distinction helps with recruiting. Without immigrants the army would have failed to meet its goals nearly every year between 2002 and 2013. A Department of Defence report in 2016 found that non-citizens perform better, have lower attrition rates and are more likely to have medical and IT expertise than their citizen counterparts. Not only do they make useful recruits to the armed forces; they would make good citizens, too.■
+
+## URL
+
+https://www.economist.com/united-states/2020/04/30/the-path-to-citizenship-for-those-who-put-on-american-uniform-has-narrowed

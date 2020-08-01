@@ -41,3 +41,7 @@ The biggest constant since 2016 is that Mr Trump has retained his relative advan
 That scenario looks unlikely at the moment, however. After all the fancy maths, six months before the election, Mr Biden is six points ahead of Mr Trump. If the vote were held today he would probably win.■
 
 Dig deeper:
+
+## URL
+
+https://www.economist.com/united-states/2020/05/02/we-spent-the-lockdown-sorting-american-voters-into-380000-distinct-groups

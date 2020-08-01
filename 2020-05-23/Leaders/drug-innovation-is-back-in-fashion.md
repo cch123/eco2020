@@ -19,3 +19,7 @@ It looks like big pharma’s moment to shine. However, the pandemic has also cre
 There is an alternative to beggar-thy-neighbour nationalism and taking a sledgehammer to the intellectual-property regime. First, a global agreement is needed to govern the manufacture and distribution of a potential vaccine. It could take several years to vaccinate the world’s population; global co-operation will mean that the vaccine is deployed first where it brings most benefit.
 
 Second, the patent system should be preserved because, correctly designed, it incentivises investment in new treatments. The big drugs firms have already said they will make any vaccine available at cost-plus prices. Arrangements exist for tiered pricing of medicines and free vaccinations for diseases afflicting the world’s poor that should be extended to covid-19 treatments. If a smaller drugs firm tried to price-gouge, governments in the West and elsewhere have the powers to pass compulsory licensing orders in an emergency. When the pandemic passes, there must be no going back to the bad old days. Governments should seek to authorise new drug patents faster, as the best way to balance innovation and lower prices. And big pharma needs to keep investing. That will help shareholders and global public health, too.■
+
+## URL
+
+https://www.economist.com/leaders/2020/05/23/drug-innovation-is-back-in-fashion

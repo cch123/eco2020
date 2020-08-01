@@ -25,3 +25,7 @@ Mr Abbott’s pandemic management has followed a similar pattern. Having covered
 Mr Abbott’s judiciously disguised pragmatism looks like his party’s best hope of avoiding that fate. It has made him popular in a divided state. His approval rating is 63%, 12 points higher than the president’s. It has also won him the confidence of the conservative donors who may need to spend unprecedented sums in November to shore up the Republican ballot in Texas.
 
 His qualified success also offers his party pointers for the post-Trump future that may be looming over it. In a rapidly diversifying society—nationally as well as in Texas—the Republicans will have to expand their appeal to keep winning elections. Yet it may well take a fire-breathing conservative (or ostensibly one, at least) to effect the shift. Who knows? Perhaps Mr Abbott could even be that fire-breather: defeat for Mr Trump would arguably make him the Republicans’ foremost leader. But that feels like a remote possibility at most. For now the governor has a real-life catastrophe to worry about.■
+
+## URL
+
+https://www.economist.com/united-states/2020/07/02/its-messing-with-texas

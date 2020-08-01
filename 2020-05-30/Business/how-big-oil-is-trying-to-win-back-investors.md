@@ -25,3 +25,7 @@ There are two hitches. The break-even price for some firms, though lower than it
 European supermajors look like Birkenstocked tree-huggers in comparison. Still, their promises are loose. Italy’s Eni said in February that its oil-and-gas production would plateau by 2025, but left wriggle room for a “flexible decline” for oil thereafter. On May 5th Total vowed to reach net-zero—but only for products sold in Europe. Shareholders will consider a resolution for more expansive goals on May 29th. BP, under pressure from activists, is working to explain how it can meet climate targets.
 
 The firms have a way to go. Norway’s Equinor devoted about 8% of capital spending last year to renewables; Shell’s figure was 2%. Meanwhile, a new type of rival is emerging. At $68bn, the market value of Iberdrola, a Spanish utility that develops solar and wind farms, has overtaken Eni’s and Equinor’s, and is chasing BP’s. ■
+
+## URL
+
+https://www.economist.com/business/2020/05/28/how-big-oil-is-trying-to-win-back-investors

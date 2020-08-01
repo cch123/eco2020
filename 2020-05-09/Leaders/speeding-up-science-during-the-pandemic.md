@@ -31,3 +31,7 @@ Preprints are not perfect. As they grow more common, there may be unpleasant sid
 As the deluge of work on covid-19 has shown, fast, free-flowing scientific information is vital for progress. The virus has changed the way scientists do their work and talk to each other, we hope for good.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/leaders/2020/05/09/speeding-up-science-during-the-pandemic

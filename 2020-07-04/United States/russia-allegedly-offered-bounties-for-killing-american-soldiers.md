@@ -19,3 +19,7 @@ What explains Mr Trump’s softness on Russia? According to his former national 
 First, it has already made a nonsense of the administration’s decision to place Russia alongside China as a “revisionist power” in its 2017 National Security Strategy. Sceptics warned from the start that elevating the threat of a country with an economy smaller than Canada’s to this degree made no sense. And to be thus aggrandised could only delight, and probably embolden, Russia—as seems to have happened. It has celebrated its “revisionist” status in all manner of needling and worse ways: including assassinations in NATO allies, stepped-up cyber operations, sabre-rattling jet flights off the coast of Alaska. And instead of pushing back hard on this misbehaviour—which his administration unwittingly encouraged—Mr Trump has downplayed and denied it, while meanwhile lobbying for Russia to be readmitted to the G7.
 
 Second, the damage this is doing to US democracy is significant. Half of Americans think their president is a shill for the Kremlin. The other half think Russia isn’t so bad after all. This is an even bigger win for Mr Putin than whatever his killers were up to in Afghanistan.
+
+## URL
+
+https://www.economist.com/united-states/2020/07/02/russia-allegedly-offered-bounties-for-killing-american-soldiers

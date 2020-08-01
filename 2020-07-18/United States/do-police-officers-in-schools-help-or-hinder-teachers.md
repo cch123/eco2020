@@ -33,3 +33,7 @@ Mr Hall, an African-American raised in the Bronx, thinks that some teachers rely
 Mr Hall cites the racial make-up of the New York City teaching force as a problem: 80% of students are non-white, whereas 42% of teachers are. Still, rather than fully remove the programme, Mr Hall recommends that schools take a deeper look into how teachers use SROs within schools.
 
 Others are also calling for reform rather than complete elimination. California’s superintendent of public instruction, Tony Thurmond, favours a redefinition of SRO roles, such as ending SRO involvement in student discipline. Philadelphia’s superintendent, William Hite junior, wants something similar. Yet with limited proof of their effectiveness and much evidence of their deleterious effects, SRO programmes are on shaky ground. ■
+
+## URL
+
+https://www.economist.com/united-states/2020/07/18/do-police-officers-in-schools-help-or-hinder-teachers

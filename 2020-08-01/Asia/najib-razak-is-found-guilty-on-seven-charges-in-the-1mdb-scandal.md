@@ -23,3 +23,7 @@ Relations between Perikatan Nasional’s constituent parties are lukewarm. UMNO 
 Mr Najib was not widely expected to be convicted on all seven charges. Some of his backers could seek to make trouble within Perikatan Nasional. But other UMNO members may be chastened. That would benefit Mr Muhyiddin—as will the opportunity to make tough-sounding noises about corruption, which will please the public.
 
 In the longer term, Mr Najib’s conviction may increase the chance of Mr Muhyiddin choosing to leave his newfangled party and returning to UMNO, four years after his confrontation with the former prime minister led to him being kicked out of it. This possibility is openly discussed by the party’s elites. It could save Bersatu and UMNO from scrapping for the same voters at any future election. It would be a remarkable turnaround if Mr Najib’s conviction were to end up helping his party prolong its time in power.■
+
+## URL
+
+https://www.economist.com/asia/2020/07/30/najib-razak-is-found-guilty-on-seven-charges-in-the-1mdb-scandal

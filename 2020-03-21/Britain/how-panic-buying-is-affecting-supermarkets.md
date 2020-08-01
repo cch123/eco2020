@@ -25,3 +25,7 @@ One difficulty is that supermarkets have been engaged in a multi-year price war 
 Italy has managed to maintain food supplies despite a more severe outbreak of covid-19 and a much tighter lockdown. The British supermarket industry is confident it can do the same, but in the weeks ahead disruption is likely and the range of goods offered to consumers will probably narrow still further.
 
 Shelf-stackers in east London are not convinced rationing will put an end to panic buying, however. “First it was toilet roll,” one explains, “then it was pasta, then it was tinned tomatoes, then it was bread, and now it’s fruit and veg.” Her colleague adds that “it will be beer next.”■
+
+## URL
+
+https://www.economist.com/britain/2020/03/21/how-panic-buying-is-affecting-supermarkets

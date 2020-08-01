@@ -21,3 +21,7 @@ As is the case with Mount Mazama, Budj Bim the volcano has erupted in a past tha
 To do so she applied a method called argon dating to samples of Budj Bim’s rocks. Argon dating relies on the gradual decay of a radioactive isotope of potassium into non-radioactive argon. Because argon is a gas, which escapes easily from molten rock, the argon “clock” is reset whenever molten rock solidifies. It is therefore a reliable indicator of when lava was erupted.
 
 Dr Matchan’s calculations showed that Budj Bim’s last eruption—which presumably marks the origin of legends about the eponymous being—was 37,000 years ago. That makes Budj Bim the being almost five times older than Skell and Llao, and thus the oldest known protagonist in human story telling.
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/02/27/an-australian-legend-may-be-the-worlds-oldest-datable-story

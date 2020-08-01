@@ -47,3 +47,7 @@ To forestall conflicts, firms are moving to spell out their expectations in code
 In the midst of all these prescriptions, Pam Jeffords of PwC wonders whether companies might more usefully replace demands for “respect” with requests for “civility” in employment conditions. “It’s not realistic to demand I respect someone who believes women don’t have a right to drive,” she says, “but it’s reasonable to ask me to be civil.”
 
 The workplace is where most discrimination disputes emerge. It is where people are most likely to spend time with those with whom they fundamentally disagree. Most employers simply want a pragmatic approach to regulating speech at work that allows people to get on with their jobs while avoiding both the courts and the media. That is easier said than done. ■
+
+## URL
+
+https://www.economist.com/international/2020/02/27/companies-are-increasingly-worried-about-what-their-employees-say

@@ -23,3 +23,7 @@ The true character of the new virus will become better known in the coming weeks
 The WHO has long worried about the possible emergence of a “disease X” that could become a serious international pandemic and which has no known counter-measures. Some experts say the virus found in China could be a threat of this kind. And there will be many others. Further illnesses will follow the same well-trodden path, by mutating from bugs that live in animals into ones that can infect people. Better vigilance in places where humans and animals mingle, as they do in markets across Asia, would help catch viral newcomers early. A tougher task is dissuading people from eating wild animals and convincing them to handle livestock with care, using masks and gloves when butchering meat and fish, for example. Such measures might have prevented the new coronavirus from ever making headlines. ■ 
 
 Correction (January 24th 2020): A previous version of this article said the Spanish influenza pandemic in 1918 killed 3-5% of the world's population. The piece has been clarified to note that the pandemic killed 2-10% of those infected.
+
+## URL
+
+https://www.economist.com/leaders/2020/01/25/the-world-is-better-prepared-than-ever-to-stop-the-wuhan-coronavirus

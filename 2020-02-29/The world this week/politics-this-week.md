@@ -47,3 +47,7 @@ Harvey Weinstein was found guilty of two of the charges brought against him in N
 The latest Democratic debate produced the usual fireworks. It was the last to be held before the South Carolina primary and Super Tuesday, when Democrats in 14 states will vote on who they want to be their presidential candidate. Bernie Sanders remains the firm favourite following his decisive win in Nevada. See [article](https://www.economist.com//united-states/2020/02/29/the-primary-problem).
 
 Meanwhile, it was reported that Russia is meddling in the primaries to get Mr Sanders elected, and is also stepping up plans to interfere in the general election to re-elect Donald Trump. So it is a win-win situation for the Kremlin if either Mr Sanders or Mr Trump is victorious in November. See [article](https://www.economist.com//leaders/2020/02/27/bernie-sanders-nominee).
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/02/27/politics-this-week

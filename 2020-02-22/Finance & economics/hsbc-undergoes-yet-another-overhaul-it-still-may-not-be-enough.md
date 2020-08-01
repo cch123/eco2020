@@ -23,3 +23,7 @@ A bigger worry for investors is whether the bank can do as it promises. Joseph D
 Boosting sales while cutting expenses is not easy to pull off. Demoralised staff may be hesitant to launch new products. Scale matters in banking, and losing it will make it harder to gain an edge. The asset sales may compound the problem. Reinvesting $100bn in proceeds could take some time: HSBC’s Asian risk-weighted assets have barely budged since 2017. It also wants to grow its retail and wealth-management arms, but most investment banks, penalised by heftier capital requirements, are earlier at it. In the interim parking the cash in low-yielding, liquid alternatives, like money-market funds, may reduce income, notes Daniel Tabbush of Tabbush Report, a research firm.
 
 The uncertain outlook makes HSBC’s dithering over its new chief executive all the more surprising. Mr Tucker has not yet entrusted Mr Quinn with the authority a boss needs to enforce a painful overhaul; yet recruiting an external candidate, after such a thorough restructuring has been announced, will be hard. Mr Tucker should make his choice, sharpish.■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/02/20/hsbc-undergoes-yet-another-overhaul-it-still-may-not-be-enough

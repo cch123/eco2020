@@ -47,3 +47,7 @@ More states in America reimposed lockdowns amid a surge in covid-19. The number 
 Leicester, a city in Britain, was put back under lockdown as cases there continued to rise, to three times that of the city with the next-highest rate. See [article](https://www.economist.com//britain/2020/07/02/leicester-shuts-up-shop).
 
 The European Union reopened its borders to residents from 14 countries where the virus is under control, such as Canada and New Zealand. The list does not include Brazil, Russia or the United States. China will be added if it reciprocates.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/07/04/politics-this-week

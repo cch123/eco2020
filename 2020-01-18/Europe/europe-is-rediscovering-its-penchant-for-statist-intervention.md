@@ -37,3 +37,7 @@ This has stung Germany of late: Chinese firms that used to buy machines from the
 The dirigiste swing is far from settled policy in Berlin. The torchbearer for the new approach is Peter Altmaier, the economy minister. Last year he went even further than France, for example suggesting a public fund that could be used to acquire stakes in certain companies at risk of foreign takeover. The plan was panned even within his own party—it is said that the minister drafted much of the proposal himself, so unimpressed were his aides by the idea. It has since been rolled back.
 
 But the German shift, even if incomplete, has swung the pendulum in France’s direction. How far will become clearer in March, when Mrs von der Leyen is to unveil a new “industrial strategy” for Europe. Politicians devising blueprints for business has a decidedly five-year-plan-ish ring to it. But bringing some order to how Europe thinks about industry is overdue. Past exercises in this vein have been usually excuses to recycle bromides about the importance of skills, supply chains and small businesses. Expect a more substantial shift in policy this time. ■
+
+## URL
+
+https://www.economist.com/europe/2020/01/16/europe-is-rediscovering-its-penchant-for-statist-intervention

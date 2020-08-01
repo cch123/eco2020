@@ -21,3 +21,7 @@ This big shift is the result not only of the closure of much of the economy by g
 Not everybody is seeing their piggy-banks fatten. Analysis by the Resolution Foundation, a think-tank, points to a reasonably consistent fall in incomes across the earnings distribution for working age households but vastly different changes in spending. Households that had little discretionary spending in the first place have seen much more modest drops in expenditure, or even rises, as having the children out of school for weeks has increased their shopping bills. Prosperous commuters, by contrast, are saving a small fortune on train fares, coffees and lunches. Pensioners’ incomes have fallen by less, but their spending by more. Despite three months of falling consumer credit, gross repayments are actually down on pre-pandemic levels, but new gross lending is down by a lot more.
 
 How households will react to the reopening of the economy is “one of the big questions that will determine the shape of the recovery”, says Paul Dales of Capital Economics, a consultancy. It seems likely that workers’ worries about rising unemployment will keep precautionary saving high. The OBR’s central scenario predicts that the household savings ratio will remain above 10% in the next few years. That’s bad news for the economic outlook.
+
+## URL
+
+https://www.economist.com/britain/2020/07/18/household-savings-are-up-in-britain

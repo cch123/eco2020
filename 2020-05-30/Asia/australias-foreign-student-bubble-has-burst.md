@@ -27,3 +27,7 @@ Since students who do not enroll this year will not pay fees in 2021 or after, a
 So far, the government has been disinclined to help. It says it will still fund the places of domestic students, even if they drop out rather than embrace online learning. But it has excluded universities from its A$60bn wage-subsidy scheme, JobKeeper. Dan Tehan, the education minister, has called for “a greater focus on domestic students”.
 
 Few seem to think universities will fail. Smaller, regional institutions are in the most danger, but since they are an important source of jobs, state and federal governments might be persuaded to prop them up. They will, however, have to shrink to survive. Universities will be “smaller in staffing and smaller in revenue”, says John Dewar, La Trobe’s vice-chancellor. There could be “a massive change in the types of courses they offer”, Mr Hurley predicts. That seems to be just what the government wants. ■
+
+## URL
+
+https://www.economist.com/asia/2020/05/28/australias-foreign-student-bubble-has-burst

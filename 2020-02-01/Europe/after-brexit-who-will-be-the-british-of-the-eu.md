@@ -23,3 +23,7 @@ A Utopian fantasy still exists in some quarters that an EU without Britain will 
 The fact that the Brit awards attract so many entries suggests that Britain was not such an odd man out. Once Britain has left, the EU will still have a rain-sodden, low-tax, English-speaking island in the north-west: Ireland. It will still host a former imperial power with a tendency to write geopolitical cheques it cannot honour: France. Likewise, anyone who thinks Britain was the only country with a morbid determination to bring up the second world war should glance at Polish politics. Perhaps Britain was a normal EU country after all.
 
 Still, there can only be one overall winner. The Netherlands would be an obvious choice, given the similar policies of the British and Dutch governments. But the Dutch sit happily in the euro zone, as the Brits never would. Poland, like Britain, is outside the euro and recoils from European defence integration. Britain, however, was generally a constructive partner in the EU, which cannot be said of the current Polish government. This leaves one candidate. Liberal on trade, yet miserly when it comes to the EU’s budget, this country also enjoys opt-outs on a Britannic scale. Congratulations, Denmark! It is a long time since Danes ruled half of England, but the two nations have much in common. ■
+
+## URL
+
+https://www.economist.com/europe/2020/01/30/after-brexit-who-will-be-the-british-of-the-eu

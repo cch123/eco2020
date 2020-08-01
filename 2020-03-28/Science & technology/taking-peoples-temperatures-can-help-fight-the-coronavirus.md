@@ -31,3 +31,7 @@ Once a fever kicks in, people tend to take their temperature frequently. Kinsa t
 Covid-19 is not influenza, of course, and presumably has different patterns of spread. But even before these have been worked out properly, data from Kinsa’s remote thermometers are flagging up useful warnings. As The Economist went to press, atypically high numbers of fevers had popped up in much of peninsular Florida. Time, then, for Floridians to get off the beaches and start keeping their distance from one another.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/03/26/taking-peoples-temperatures-can-help-fight-the-coronavirus

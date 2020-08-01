@@ -25,3 +25,7 @@ Across much of the Arab world, secular authorities have hobbled religious ones. 
 Jokowi has long pandered to conservatives who accuse him of insufficient piety or even of being a closet Christian. Mr Khan knows the snap of a cleric’s finger can bring tens of thousands of protesters out on the streets. And however eagerly Sheikh Hasina Wajed, Bangladesh’s prime minister, locks up critics, she makes an exception for religious leaders. She trembles before Hefazat-e-Islam (“Protectors of Islam”), a puritanical group founded in the country’s madrassas whose boss, Shah Ahmad Shafi, recently reversed course and called for mosques to remain open during Ramadan. The pandemic terrifies governments across Asia. But for some, the self-declared emissaries of God are even more frightening.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/asia/2020/04/30/many-of-asias-muslims-are-celebrating-ramadan-in-the-normal-way

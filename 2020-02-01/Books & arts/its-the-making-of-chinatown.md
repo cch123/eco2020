@@ -25,3 +25,7 @@ Mr Wasson is a stylish chronicler of Hollywood politics, and sensitive to how of
 As Mr Wasson recounts, 1974 was a golden year for Hollywood. Paramount received a staggering 43 nominations for the Academy Awards, including 11 for “Chinatown” (although only Mr Towne took home an Oscar) and a best-picture award for “The Godfather Part II”. But in retrospect, this was the end of a cinematic heyday. More and more, the industry became commercially minded as film budgets swelled to pay for rising promotional costs and rocketing salaries. For its creators, too, “Chinatown” was a farewell. Evans soon lost his career and reputation to cocaine; Mr Polanski fled the consequences of his own crimes against a teenage girl.
 
 Outsiders “pretend to be interested in how pictures are made”, F. Scott Fitzgerald once observed, but “they never see the ventriloquist for the doll.” “The Big Goodbye” is a captivating and revealing look at how the magicians of cinema really work. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/01/30/its-the-making-of-chinatown

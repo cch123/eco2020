@@ -25,3 +25,7 @@ If taking on the genius of Beethoven in this way seems a bit hubristic, in the f
 Mr Lang’s previous works have showcased music’s political potential. They include a community opera involving 1,000 singers that was staged along the High Line in New York, and a powerful choral piece based on Hans Christian Andersen’s “The Little Match Girl” (for which he won his Pulitzer in 2008). “I’m a total politics junkie, completely obsessed,” he says. “And the great gift of being a composer is that you get to spend a lot of time alone, thinking about what you believe in.”
 
 Can a 65-minute opera truly have a political impact? Mr Lang reckons that, in an era of “children put in cages”, attending to the lives of prisoners is as necessary as ever. “In America we throw everyone we want to in prison and never think about them again,” he laments. “Hopefully we can take our momentary, flitting attention and do something good with it.” Beethoven would no doubt applaud. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/01/09/a-bold-american-composer-updates-fidelio

@@ -35,3 +35,7 @@ But not all improvements will be as cost-effective. The reason employees are cra
 Some elements, like more cleanliness, may stick. The pandemic will speed up the trend towards virtual meetings and home-working. Companies may try to lure highly skilled workers with more personal space, like first-class seats on an aeroplane. But the masses will still be crammed in economy.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/05/09/dont-stand-so-close-to-me

@@ -25,3 +25,7 @@ FedEx may yet get its act together. Its latest results were considerably better 
 Even then, problems would not go away entirely. The biggest of these—for FedEx and its industry rivals alike—looms in the shape of Amazon. The technology giant has just announced the purchase of an autonomous-driving startup (see [article](https://www.economist.com//business/2020/07/04/the-pandemic-is-giving-unmanned-deliveries-a-fillip)). More threatening in the short-term is its fast-growing conventional delivery fleet, which already boasts 30,000 trucks and 80 aircraft. That is still some way off FedEx’s 40,000 trucks and 600 aeroplanes. But Amazon’s gargantuan size—on July 1st its share price rose by 5%, accruing more than FedEx’s $41bn market capitalisation in a day—and deep pockets mean the gap may be bridged before long.■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/07/02/fedex-tries-to-think-beyond-the-pandemic

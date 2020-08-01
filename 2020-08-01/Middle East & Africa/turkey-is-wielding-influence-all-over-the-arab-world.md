@@ -33,3 +33,7 @@ Does Turkey have staying power? Its armed forces may already be stretched thin, 
 There is a domestic political benefit for Mr Erdogan, too. His attacks on the Kurds and posturing in the Mediterranean have delighted the nationalists who are his allies in parliament. They, in turn, have influence over the police and army.
 
 But the going could get tougher. Egypt has mobilised its forces on Libya’s border and vows to cross it if Turkey advances further. Saudi Arabia and the UAE, staunch anti-Islamists, would probably back Egypt. Russia is also on the opposing side in Libya—and in Syria, where it is believed to have killed dozens of Turkish troops in February. Mr Erdogan may soon feel he has bitten off more than he can chew. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/08/01/turkey-is-wielding-influence-all-over-the-arab-world

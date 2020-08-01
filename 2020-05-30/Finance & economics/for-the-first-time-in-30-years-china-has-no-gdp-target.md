@@ -13,3 +13,7 @@ CHINA HAD long been the only large economy with an annual growth target. On May 
 ![](./images/20200530_FNC731.png)
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/05/30/for-the-first-time-in-30-years-china-has-no-gdp-target

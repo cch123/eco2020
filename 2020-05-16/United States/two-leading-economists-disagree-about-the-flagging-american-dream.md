@@ -21,3 +21,7 @@ Pundits take the research on “neighbourhood effects” as evidence that “zip
 That topic has a history of descending into ugly spats about the personal culpability of the poor, which may ward off social scientists. Mr Heckman sees his own research—tracking long-term outcomes for children and parents randomly assigned to a high-quality early-learning scheme—as strong evidence that families can become more stable and that disadvantaged children can be helped without having to move. The point is not to yearn for a return to “shotgun marriages”, he says, but to encourage stable cohabiting relationships.
 
 This debate matters not just because two prominent economists disagree, but because they suggest different methods for tackling the urgent problem of intergenerational immobility. Mr Chetty’s experimental work on the primacy of place will be an important test of his theories, yet it also has a limit on its scale: every disadvantaged American plainly cannot be moved to opportunity. Mr Heckman’s project of encouraging early-childhood education has some scaling questions, too: could every child in America receive a programme as intensive as the ones he studies? For now, the answer, as with all messy scientific debates, is to let the experiments proceed. ■
+
+## URL
+
+https://www.economist.com/united-states/2020/05/14/two-leading-economists-disagree-about-the-flagging-american-dream

@@ -23,3 +23,7 @@ The results shocked Dr Morono, “At first I was sceptical, but we found that up
 To find such living fossils from as far back as the Cretaceous is extraordinary. It is not possible to be sure, given the length of time involved, that they have undergone no growth and cell division whatsoever. But if they have, it will have been minimal given the lack of nutrients in the ooze they were found in. Nor is it likely that they migrated there from layers above. The ooze in question was sealed off by a bacteria-proof layer of chert-like material called porcellanite.
 
 This discovery will therefore throw interesting light on the evolution of bacteria on Earth. It will also raise the spirits of those who hope to find life elsewhere in the solar system. The sediments that will be examined for signs of biology by Perseverance, an American Mars rover which took off from Cape Canaveral, in Florida, on July 30th, are 35 times older than those studied by Dr Morono and Dr D’Hondt, and have not had the protective shielding from environmental degradation that comes from being buried at the bottom of the sea under many metres of overburden. But future Mars rovers will drill beneath the planet’s surface into strata that have had equivalent levels of protection from rock above them, if not from seawater. And a factor of 35, though large, does not sound insurmountable.■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/08/01/researchers-revive-bacteria-from-the-era-of-the-dinosaurs

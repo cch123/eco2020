@@ -29,3 +29,7 @@ It also ensures that impunity flourishes. Beyond the usual corruption, accusatio
 Justice is less kind to ordinary Kenyans. A policeman last month stopped a motorist, Mildred Owiso, for using her mobile phone while driving and climbed into her car. Mrs Owiso, a strong-willed social activist, protested: policemen usually only get into vehicles when they want a bribe and she had no intention of paying. A fracas ensued and members of the public came to help her, sending the policeman packing.
 
 People power did not prevail for long. That night, ten tear-gas-lobbing officers raided her house and arrested Mrs Owiso and her husband on charges of incitement to violence. For good measure, they also killed her dog. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/02/13/one-law-for-the-mighty-in-kenya

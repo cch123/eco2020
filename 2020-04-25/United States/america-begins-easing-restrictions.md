@@ -35,3 +35,7 @@ Should that happen—should Texans and Georgians fall ill and look balefully nor
 Keeping immigrants out will not make the country healthier. Although immigrants comprise 14% of America’s population, they account for nearly 30% of its doctors. Yet the president is arguing in a different register. He may not be able to control the virus, but he has more power to choose the territory where the election is fought. Natives versus foreigners worked well in the past—why not try it again?■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/united-states/2020/04/23/america-begins-easing-restrictions

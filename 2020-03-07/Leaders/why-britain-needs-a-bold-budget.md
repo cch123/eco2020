@@ -25,3 +25,7 @@ How to pay for all this? In the long run, modestly higher public spending will r
 Most of the extra spending, however, should be funded by borrowing. That alarms many sensible Britons, who worry that the government is getting too far into debt and will lose credibility by, yet again, breaking the fiscal rules it has set itself. Those fiscal rules have been revised five times over the past decade.
 
 These are valid concerns, but they are outweighed by Britain’s situation. The amount of debt matters less than the cost of servicing it, and, with interest rates historically low, that has fallen steadily from 6.5% of tax revenues in 2010 to 4.6% now. Britain is also insulated against shocks because the government’s bonds, at a 15-year average maturity, are longer-dated than those of any other major economy. Of Britain’s three fiscal rules—to balance the current budget in three years, to keep capital spending below 3% of GDP and to keep an eye on government borrowing costs—the one that really matters, therefore, is a pledge to keep the government’s interest bill below 6% of tax revenues. Time to junk the other rules, stick to that one, and start spending. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/03/05/why-britain-needs-a-bold-budget

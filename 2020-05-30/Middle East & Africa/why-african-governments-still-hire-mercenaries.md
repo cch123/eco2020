@@ -33,3 +33,7 @@ DAG’s website claims it has undertaken “security-based operations” in at l
 OAM Middle East, another security firm run by a former Rhodesian, John Gartner, lists no fewer than 18 African countries where it has operated. Many such companies stress their credentials as wildlife conservationists, using helicopter gunships to deter poachers.
 
 Although opposed to mercenaries on paper, the UN may have softened its stance of late. It now has a code of conduct for how they may work and has itself used them to help with things such as logistics, neutralising landmines and training security teams. Chris Kwaja, a Nigerian who chairs a “working group on the use of mercenaries” for the UN’s High Commissioner for Human Rights, thinks they can be useful as long as they are subject to “binding international instruments”. Some private military firms now accept ethics clauses written into their contracts.■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/05/28/why-african-governments-still-hire-mercenaries

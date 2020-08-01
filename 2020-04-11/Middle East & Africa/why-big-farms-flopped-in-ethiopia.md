@@ -25,3 +25,7 @@ South Omo has also been deprived of resources it needs for development, which ma
 In recent years the government has tried to improve matters. Since 2013 it has cancelled several big contracts, drawn up stricter requirements for investors and introduced maximum landholdings. In 2016 the state development bank temporarily suspended lending to commercial agriculture, after years of handing out questionable loans. The following year some responsibility for leasing land was returned from the federal government to the states to give locals more say.
 
 Yet officials have hinted that the government wants to promote huge farms once more, this time by expanding wheat production to boost food security. The lesson they should remember is that the details matter more than scale or haste. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/04/08/why-big-farms-flopped-in-ethiopia

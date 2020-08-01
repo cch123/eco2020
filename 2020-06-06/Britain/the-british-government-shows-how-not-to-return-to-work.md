@@ -17,3 +17,7 @@ So concludes one scene in “This House”, an account of government in the 1970
 Jacob Rees-Mogg, the leader of the House of Commons, was concerned that the new online approach, which is seen to have worked well, could become permanent. That would be a problem. “Voting while enjoying a sunny walk or watching television does democracy an injustice,” he explained. “The solemn decisions we take together affect the lives of millions of people in this country.” No matter that his preferred method would force MPs who are vulnerable to covid-19 to choose between shielding from the virus and representing voters. Or that it is an absurd waste of time.
 
 Boris Johnson conceded on June 3rd that vulnerable MPs should be able to vote by proxy. Later that day, the business secretary came down with symptoms of covid-19. Observers expect further U-turns. Parliament has a history of silliness. Indeed, the Habeas Corpus Act of 1679 passed only when a chubby peer was put down for ten votes. Even so, the current mess is probably too much for MPs to bear.
+
+## URL
+
+https://www.economist.com/britain/2020/06/06/the-british-government-shows-how-not-to-return-to-work

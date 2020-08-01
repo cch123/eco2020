@@ -23,3 +23,7 @@ Pillar two has the greater chance of being agreed—and would raise more revenue
 That might explain why Steven Mnuchin, America’s treasury secretary, was reasonably positive about the second pillar last month. But he wants to put talks on the first on hold. In December he proposed that the new system should be optional for American firms. The suggestion, which would in effect neuter any new rules, was badly received by other countries. But as it stands, the OECD’s plan is unbalanced: it asks America to hand over the right to tax its companies to other countries, without getting much in return.
 
 Without an agreement on pillar one that divvies up tax rights, a proliferation of digital-tax schemes seems likely. (The European Union’s resolve to implement one may have been stiffened by its loss on July 15th of a big tax case against Apple.) These taxes are a much cruder fix than a pillar-one solution. Companies could face a stack of competing tax bills. The levies also mostly apply to revenues rather than profits, and often try to exempt domestic champions. To top it all off, they are a recipe for trade conflict. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/07/18/the-row-over-taxing-tech-firms-heats-up

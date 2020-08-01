@@ -43,3 +43,7 @@ Complaints about centralisation persist. Local authorities are struggling to get
 Mr Burnham, in Manchester, concurs. “It’s like a local detective being asked to solve a crime without the names and addresses of witnesses or suspects,” he says. When he asked why more granular data were not provided, data-protection concerns were offered as the explanation. “It’s about as useful as a chocolate teapot,” says a DPH in southern England of the data—which is also a reasonable description of how parts of the machinery of government performed when the heat was on.■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/07/18/how-centralisation-impeded-britains-covid-19-response

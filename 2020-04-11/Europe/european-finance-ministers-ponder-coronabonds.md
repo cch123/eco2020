@@ -35,3 +35,7 @@ Countless proposals aim to square the difference. There is talk of turning the E
 Even Angela Merkel, Germany’s chancellor, calls the corona crisis the biggest test the EU has ever faced. Yet her government’s diagnosis of the problem remains fundamentally at odds with much of the rest of the euro zone. The debate is not over, but Costa-style optimism is thin on the ground. “Whatever they do magic up is unlikely to meet the scale of the need,” says Mr Rahman. “Something may break.” ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/04/09/european-finance-ministers-ponder-coronabonds

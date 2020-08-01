@@ -35,3 +35,7 @@ Italy’s central bank thinks the country’s Gini coefficient rose from 0.35 to
 Three-quarters of Europe’s income inequality, measured at a continental level, is caused by differences within individual countries. The gap between poor Sicily and wealthy Milan is more important than that between Milan and Paris. But that could change. The covid-19 recession opens up a split between countries that have the fiscal capacity to rein in inequality and those that do not—notably in central and eastern Europe. Germany’s government intervention has amounted to almost 10% of GDP. Italy and Spain, constrained by debt, have done much less. Hungary has barely raised spending; Poland has done so mainly to prop up companies, not to subsidise workers or the unemployed.
 
 In recent years, some economists have argued that wars and pandemics can lower inequality by destroying the wealth of the rich and creating opportunities for the masses. In a paper last month, economists from the IMF found that for epidemics, this did not hold: the big ones of the past century raised inequality. Mr Elsjan of Wipper does not count on his industry coming back: “When I talk to younger guys, I tell them to think about another career.” ■
+
+## URL
+
+https://www.economist.com/europe/2020/06/06/covid-19-threatens-europes-success-at-fighting-inequality

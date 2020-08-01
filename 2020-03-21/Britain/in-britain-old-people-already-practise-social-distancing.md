@@ -27,3 +27,7 @@ All this is a shame in many ways—but it does protect old Britons from dangerou
 Despite their isolation, old Britons do not feel particularly lonely. According to the national Community Life Survey, conducted in 2016 and 2017, just 3% of over-75s report feeling lonely all the time, compared with 10% of 16- to 24-year-olds. That could reflect a generally benign outlook on life—the old are more cheerful in many ways. Or it could be that the few social interactions they have are especially enjoyable. We are about to find out.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter), or visit [our coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/03/21/in-britain-old-people-already-practise-social-distancing

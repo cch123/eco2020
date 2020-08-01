@@ -23,3 +23,7 @@ The government has spent lavishly on infrastructure, but its investment in healt
 China’s investment in health care has mostly gone to big hospitals in cities. Wuhan has about half of Hubei’s best medical facilities, but only about one-fifth of the province’s population. Far less attention has been paid to primary-care clinics, which in more developed systems handle minor ailments and escalate the rest to specialists. Only about 5% of China’s registered doctors serve as general practitioners. The average in the OECD, a club mostly of rich countries, is 23%. After Wuhan imposed a lockdown in late January, panicky residents converged on large hospitals seeking reassurance. The queues would have promoted cross-infection, says Xi Chen of Yale University.
 
 Public anger about health care, including the gouging of patients by hospitals, has triggered occasional violence against doctors. In late January a man attacked medical staff in Wuhan after his father-in-law died from the virus. But the system’s public image may have improved during the current crisis. Many people praise doctors’ willingness to join the fight in Hubei, despite high rates of infection among medical workers there. They will need such support in the struggle ahead. ■
+
+## URL
+
+https://www.economist.com/china/2020/02/06/a-weak-health-care-system-complicates-chinas-coronavirus-battle

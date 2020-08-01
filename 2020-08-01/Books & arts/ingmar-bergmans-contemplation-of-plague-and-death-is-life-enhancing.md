@@ -21,3 +21,7 @@ Jons goes into a church, much like the one Bergman entered in Taby, where he fin
 The struggle between man and death is always one-sided, and largely pointless. The chess game is rigged. Von Sydow died earlier this year, Bergman in 2007. Yet as he, the son of a pastor, suggests in “The Seventh Seal”, salvation may await not in the next world, but in this one. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/08/01/ingmar-bergmans-contemplation-of-plague-and-death-is-life-enhancing

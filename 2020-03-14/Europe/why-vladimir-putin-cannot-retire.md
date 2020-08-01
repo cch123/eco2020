@@ -41,3 +41,7 @@ In the two years since Mr Putin’s most recent election in March 2018, trust in
 Ella Paneyakh, a Russian sociologist, argues that the Kremlin has lost touch with society. Its channels of communication have been reduced to broadcasting propaganda, which is losing its effect. Even bribing people with their own money does not seem to work any more.
 
 The only instrument left is repression, which the government has already shown a willingness to use. “The state has plenty of potential for repression and it can be used again and again, until it encounters a problem that cannot be resolved by force,” Ms Paneyakh says. Mr Putin’s constitutional coup and his growing reliance on repression rather than patronage or propaganda raises the cost of challenging him, reduces the chances of an orderly transfer of power and increases the risk of violence in Russia. All this in the name of stability. ■
+
+## URL
+
+https://www.economist.com/europe/2020/03/14/why-vladimir-putin-cannot-retire

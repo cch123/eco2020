@@ -23,3 +23,7 @@ But those who muttered that two lions cannot live on the same mountain proved ri
 Meanwhile, Mr Anwar’s former research assistant is suing his political secretary for alleged assault (he denies it). Other modernisers, including Mr Anwar’s daughter, have recoiled from the tone of the debate. It all leaves the direction of Malaysian politics unclear. Dr Mahathir may yet hand over to Mr Anwar later this year. Or he may attempt to abandon Pakatan and forge a new government pandering to Malays, encompassing the rump of UMNO and conservative Islamists. One straw in the wind is the government’s refusal wholeheartedly to condemn a fiery, race-baiting TV evangelist, Zakir Naik, wanted in India on money-laundering charges. The prime minister says ominously that he can work with anyone except Mr Najib.
 
 Meanwhile, the region’s leaders wonder what on earth is going on. An entrepreneur says that the lack of political direction is having an “appalling effect” on the investment climate. Indeed, it is a blow to reform in general.
+
+## URL
+
+https://www.economist.com/asia/2020/01/23/malaysias-reformist-government-has-not-put-an-end-to-sleaze

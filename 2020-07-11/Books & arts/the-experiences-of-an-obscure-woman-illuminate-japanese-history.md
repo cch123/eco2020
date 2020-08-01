@@ -23,3 +23,7 @@ Tsuneno’s life was not a heroic one. The heroism lies rather in Ms Stanley’s
 What her letters lack in lyricism, Ms Stanley makes up for by painting a vivid portrait of village life and of the parts of Edo where Tsuneno lived. For women, life was often brutal. One of Tsuneno’s sisters was caged by her in-laws for her behaviour. A sister-in-law was sexually assaulted (as Tsuneno, too, probably was). Sometimes the author overdoes her attempts at reconstructing Tsuneno’s life from the fragmentary evidence that remains. Her task might also have been easier if her protagonist were more lovable.
 
 To add to the poignancy of the tale, though, Tsuneno lived in the decades just before the arrival of Commodore Matthew Perry’s “black ships” from America in 1853, which led to the opening of Japan and the downfall of the shogunate. As Tsuneno struggles to make ends meet amid famine, rice riots, inflation and failed efforts to modernise the regime, her story becomes a portent of Edo’s doom. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/07/11/the-experiences-of-an-obscure-woman-illuminate-japanese-history

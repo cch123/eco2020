@@ -39,3 +39,7 @@ In practice China’s economy is undergoing a daily stress test. The authorities
 The uncertainty touches even basic matters, such as whether to eat in restaurants. Last month Nanjing launched a campaign to encourage residents to leave their homes, handing out 318m yuan ($45m) in shopping vouchers. But signs around the city still admonish people to avoid crowds and stay in well-ventilated spaces. The pandemic descended on China and the world suddenly—but its shadow will take much longer to disappear. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/04/16/why-has-chinas-stimulus-been-so-stingy

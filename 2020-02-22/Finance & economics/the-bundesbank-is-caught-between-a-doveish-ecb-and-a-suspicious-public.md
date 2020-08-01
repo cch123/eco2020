@@ -39,3 +39,7 @@ Without change, further rows over policy loosening seem likely. But the relation
 And Germany’s appointment of Isabel Schnabel, a more consensus-minded economist than Mr Weidmann, to the ECB’s executive board might help the bank communicate directly with the public. In a speech on February 11th she tackled common misperceptions around negative interest rates.
 
 A bigger shift at the Bundesbank could even come through adversity. Germany’s growth model is looking increasingly shaky, warns Mr Posen. In 2019 its economy fared better only than Italy’s in the euro zone; a repeat performance is expected in 2020. That would give the Bundesbank something to fight for. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/02/22/the-bundesbank-is-caught-between-a-doveish-ecb-and-a-suspicious-public

@@ -25,3 +25,7 @@ Most state schools have set homework but have not tried to teach online, so have
 It is not even clear that all children will return to school in September. That is the government’s plan. But plans have been announced before, then abandoned. Many parents are confused and fearful. Children in year six (aged 10-11) are supposed to be at school; on June 18th only a third were. Attendance is especially low in north-west England, where Andy Burnham, the mayor of Greater Manchester, has argued that the lockdown is being ended too quickly.
 
 “We don’t know how much learning has been lost,” says Binks Neate-Evans, the executive principal of three primary schools in Norfolk. She is planning for a “recovery term” in the autumn—and, probably, some delicate conversations with parents about the importance of their children turning up. Shutting schools was much simpler and quicker than restarting them.■
+
+## URL
+
+https://www.economist.com/britain/2020/06/27/does-tutoring-work

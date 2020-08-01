@@ -35,3 +35,7 @@ There are moments when the United States has required something like a revolutio
 Instead America needs repairing—lowering the cost of housing and health care; moving to a low-carbon economy; finding a voting system that rewards consensus, not partisanship. For that, national politics needs to become boring again, not to be an exhausting, outrage-spewing fight between Mr Trump and the most extreme candidate the Democratic Party can muster. ■
 
 Dig deeper:Sign up and listen to Checks and Balance, our new [newsletter](https://www.economist.com//checksandbalance/) and [podcast](https://www.economist.com//podcasts/2020/04/24/checks-and-balance-our-weekly-podcast-on-american-politics) on American politics
+
+## URL
+
+https://www.economist.com/leaders/2020/02/06/the-democratic-primaries-will-be-a-contest-between-radicals-and-repairers

@@ -31,3 +31,7 @@ What happens now is unclear. Mr Zingaretti proposed that the Five Stars formally
 That sets a leisurely timetable given the pace at which the M5S is disintegrating. The governing coalition is safe in the lower house where it has a majority of 24. But in the Senate, the Five Star defections have already left it two seats short of a majority and dependent on the support of assorted regionalists and independents.
 
 The PD is more compact. But that is largely because it has lost almost 40 of its parliamentarians to Italia Viva, a group set up last year by a former prime minister, Matteo Renzi. Italia Viva is not yet a party and remains in the government’s orbit. But Mr Renzi, who has been wooing the more moderate wing of Forza Italia, remains a wild card. Against this background, Mr Salvini’s best course may be to sit tight and do only as much as necessary. But it is one the League’s hyperactive, publicity-hungry leader will find hard to follow. ■
+
+## URL
+
+https://www.economist.com/europe/2020/01/30/regional-elections-in-italy-buttress-the-government

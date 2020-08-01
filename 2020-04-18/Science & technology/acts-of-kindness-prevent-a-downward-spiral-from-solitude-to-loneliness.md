@@ -29,3 +29,7 @@ Dr Lyubomirsky now picked up the baton. In collaboration with Dr Cole and with M
 As she and her colleagues reported to this year’s conference of the Society for Personality and Social Psychology, held in New Orleans in February, they found that in the case of loneliness, the saying about it being more blessed to give than to receive is true. Asking lonely people to perform acts of kindness to others significantly reduced the offerer’s feelings of loneliness, as well as the myeloid response that drives inflammation. Also, and perhaps portentously given the meeting’s timing, Dr Fritz and Dr Lyubomirsky reported the preliminary results of a second study. This compared the effect on a lonely person’s feelings of acts of kindness he or she performed face to face with those performed online: donating money to a gofundme effort, for example, or writing a thank-you note to a friend.
 
 The study’s results suggest that online kindness has the same beneficial effect as the face-to-face variety. And that could help to address Dr Cole’s fears of a post-covid loneliness epidemic. No doubt (though this was beyond the scope of these studies) merely having contact with others while staying in isolation is beneficial to those at risk of loneliness. But asking lonely people to use those means to commit random acts of kindness to others might go beyond this, and be just what the doctor ordered.■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/04/18/acts-of-kindness-prevent-a-downward-spiral-from-solitude-to-loneliness

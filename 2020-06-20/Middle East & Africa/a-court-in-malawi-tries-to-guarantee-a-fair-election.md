@@ -29,3 +29,7 @@ But the duo are far from home and dry. There is still a dash to organise the vot
 But that may not work. If the margin of victory is wide, the court will probably forgive a snafu or two. The judges have not only upheld the constitution in the past year. They have also reflected the mood of the people: 80% of Malawians wanted a re-run, says IPOR.
 
 Brave judges ensured that Malawi has a chance of a fair election. But they can do only so much. “Malawians will need to stay vigilant,” says Mr Kamchedzera. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/06/18/a-court-in-malawi-tries-to-guarantee-a-fair-election

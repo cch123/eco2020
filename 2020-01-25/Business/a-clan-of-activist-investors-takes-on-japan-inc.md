@@ -23,3 +23,7 @@ For oversight actually to benefit shareholders, it must be more than token, acco
 By contrast, firms with big “allegiant” shareholdings—large stakes held by other firms which help protect against unwanted takeovers but also insulate management from the remaining shareholders—did relatively poorly. Every 1% of allegiant stakes was linked to a 0.12-percentage-point drop in the return on invested capital. That is a problem for investors in Japan. Hundreds of companies on the Tokyo Stock Exchange own allegiant stakes in each other. The total market value of such cross-shareholdings in non-financial blue chips is roughly ¥31trn, reckons Mr Benes—big enough to weigh on overall stockmarket returns.
 
 These peculiar listed subsidiaries, a unique feature of Japanese capitalism, are under less pressure to reinvest profits or hand them back to shareholders because those who wield ultimate control care more about maintaining it than about returns. Japanese companies’ cash piles exceeded ¥446trn last year, even after they had bought back a record ¥6.5trn in shares the year before. Firms’ reluctance to part with cash shortchanges investors in Japan by ¥16trn a year, according to one estimate. The Murakamis are unlikely to be the last to grow restless. ■
+
+## URL
+
+https://www.economist.com/business/2020/01/23/a-clan-of-activist-investors-takes-on-japan-inc

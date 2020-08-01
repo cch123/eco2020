@@ -45,3 +45,7 @@ Four years after that war, Mao Zedong’s Communists seized power in China. They
 The family never criticised the Communists or the seizure of their assets. When China began to open up in the late 1970s somebody quietly replaced Elly’s tombstone, which Red Guards in Shanghai had ripped out. In Beijing Lawrence pleased leaders by praising China’s economic policies and cautioning against democracy in Hong Kong. Today Shanghai is once again international and cosmopolitan—and the Kadoories are back on the Bund. Now, though, modern skyscrapers across the river in Pudong dwarf the famous old skyline: no question who is boss.
 
 Yet is another cautionary tale about to play out in Hong Kong? China this week imposed a draconian security law, undermining what sets Hong Kong apart from the dictatorship on the mainland. The Kadoorie heirs—they are still the biggest generators of power—voiced their approval. Stability is all. But an approach that ignored fundamental injustices did not work out in Shanghai, and may not in Hong Kong either. The new law is intended to shunt popular discontents from view; meanwhile, many elderly Hong Kongers collect cardboard at night for a pittance. The tycoons and officials have stopped noticing. It is surely not the end of the story. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/07/02/a-pair-of-displaced-dynasties-shaped-two-extraordinary-cities

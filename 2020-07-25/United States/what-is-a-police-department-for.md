@@ -27,3 +27,7 @@ Others object to how replacing the police department was proposed. Nekima Levy A
 Ms Levy Armstrong also argues that council has undermined Medaria Arradondo, the city’s current and first black police chief, who swiftly fired Derek Chauvin, the officer who killed Mr Floyd, and the three others with him—something few previous chiefs would have done. Unlike many big-city chiefs, who get poached from other departments, Mr Arradondo is a Minneapolis native who came up through the ranks. In 2007, while he was still a lieutenant, he sued the department for racial discrimination (the suit was settled out of court). Ms Williams—who like Ms Levy Armstrong supports reform but opposes the charter amendment—calls Mr Arradondo “our best hope...He treats us with humanity and dignity.”
 
 Others worry about the effects on public safety. Brian Herron, the pastor of Zion Missionary Baptist Church in north Minneapolis, says the city council has “created a climate where people believe that the police have no power...That creates lawlessness.” And indeed Minneapolis has seen a jarring spike in gun violence since the protests began. “We’re not in Shangri-La where every issue is about people not having housing or opportunity,” Mr Herron explains. “We have to come to grips with the fact that people are committed and dedicated to this lifestyle. It’s a very small number, [but] none of the people pushing this will stand in front of the bullets.”■
+
+## URL
+
+https://www.economist.com/united-states/2020/07/25/what-is-a-police-department-for

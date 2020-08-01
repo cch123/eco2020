@@ -25,3 +25,7 @@ When he walked into town he still smiled, as uncomplaining as ever. No one could
 For Willie Levi, rescue was like a holiday. They went to the Super 8 Motel, slept in clean beds and had waffles for breakfast. From now on, he would be protected. He wouldn’t have to work with turkeys any more. He certainly wouldn’t eat them, ever again. And he could tell the true story to other people, especially to Dan Barry of the New York Times, who turned his notes from “the boys in the bunkhouse” into an unsparing documentary and a book. Mr Barry picked his portrait, in his red St Louis Cardinals cap, to be the first picture in it, as he had so often taken the lead in talking.
 
 Back in Atalissa, the townsfolk felt lonely without them. The place seemed empty. In 2014 they tore the schoolhouse down, but memories were harder to lose. Many felt they should have noticed more, done something. The former pastor remarked that almost no one was in church now. He wondered what had happened to the guy with the tambourine, the one who always kept the beat.■
+
+## URL
+
+https://www.economist.com/obituary/2020/05/09/willie-levi-died-on-april-23rd

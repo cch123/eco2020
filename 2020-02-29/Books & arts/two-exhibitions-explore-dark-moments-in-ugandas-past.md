@@ -29,3 +29,7 @@ Many were taken by Okello Moses Rubangangeyo, who was kidnapped from school by t
 But Mr Rubangangeyo also took pictures as mementoes, or “just to feel happy”, mimicking ordinary life in extreme circumstances. On special days, such as Christmas, the rebels would sling a sheet between two trees and pose in their bush studio, just as their families did at home. In the exhibition and an accompanying book, these visual souvenirs are presented alongside interviews with their subjects, who are now rebuilding their lives. Some have sat for new photos, taken by the Congolese photographer Georges Senga, which echo the pose and composition of the originals. Faces age and soften; old comrades give way to wives, husbands and children.
 
 Mr Rubangangeyo smiles as he looks through these images; they are a chronicle of the only youth he ever had. Still, notes of coercion and loss run through the collection. In one picture, a woman stands stiffly next to a uniformed commander, his hand draped over her shoulder. Today she is seen in a banana garden, alone. “With the name they gave me, I won’t get another man,” she explains in a caption. “That name is: ‘She’s a rebel, she’s from the bush’.” As these exhibitions show, there are silences in history. But there is rarely an escape. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/02/29/two-exhibitions-explore-dark-moments-in-ugandas-past

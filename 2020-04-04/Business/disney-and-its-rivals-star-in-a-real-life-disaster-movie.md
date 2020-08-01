@@ -37,3 +37,7 @@ Correction: This article originally stated that Disney’s closure of its parks 
 Dig deeper:
 
 For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/04/02/disney-and-its-rivals-star-in-a-real-life-disaster-movie

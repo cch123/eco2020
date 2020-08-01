@@ -31,3 +31,7 @@ Another success was Street Child. This was the cheapest operator ($37 per pupil 
 Some development types are unimpressed with Liberia’s experiment, pointing to how far behind many pupils remain. Yet one can be too cynical. Running such a programme in Liberia was always going to be messy, argues Mr Skidmore. Donors often say they want projects to be quick, cheap, rigorously evaluated and under the control of local politicians. Liberia’s scheme was all of that. It cost far less than a typical project (using just $23m of donor cash); it was set up in less than a year; and it was subjected to a RCT. It also survived a change of government.
 
 That hints at another success: the project was seen as useful by Liberian policymakers. Through the scheme Mr Werner and his successor were able to glean insights from school operators who would not otherwise have come to the country. The government is now encouraging those who improved scores to take on the running of more schools. Rising began with just five; today it has 87. Several African governments are mulling similar “public-private partnerships”. If designed well, they could help hundreds of thousands of children. But it is not only children who must learn lessons through these experiments. Policymakers must do so, too. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/01/02/lessons-from-a-radical-education-experiment-in-liberia

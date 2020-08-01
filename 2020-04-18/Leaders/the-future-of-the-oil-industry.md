@@ -31,3 +31,7 @@ Beyond this year a deeper adjustment awaits. Volatility will dampen investors’
 For years the oil industry has faced the possibility that demand might fall, as governments moved to limit climate change. That threatened to heap chaos on oil producers, as capital dried up and companies battled for their share of a dwindling market. A peak in demand may still be years away. But oil producers should see covid-19’s turmoil for what it is: not an aberration, but a sign of what is to come.■
 
 Sign up to our fortnightly climate-change newsletter [here](https://www.economist.com//theclimateissue/)
+
+## URL
+
+https://www.economist.com/leaders/2020/04/18/the-future-of-the-oil-industry

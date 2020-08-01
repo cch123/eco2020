@@ -23,3 +23,7 @@ What most of these series share, along with others such as “Engrenages” (“
 The results speak for themselves. When she started out, Fanny Herrero, creator of “Dix Pour Cent”, analysed the best contemporary American television drama, realising that its French counterpart “had to modernise”. Now it has. Régalez-vous. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/05/16/catch-up-on-the-finest-french-television-dramas-during-lockdown

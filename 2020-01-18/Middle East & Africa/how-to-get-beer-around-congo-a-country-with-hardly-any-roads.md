@@ -67,3 +67,7 @@ Since 2010 Bracongo has started to promote different kinds of beers to different
 On the journey back to Mbandaka, this time on a wooden canoe which threatens to capsize as a priest and his friends get on board, your correspondent stops in a tiny riverside village. Here a woman complains that the nearest pharmacy is a three-hour boat trip away. Getting antibiotics quickly is impossible, but getting beer is not—just next door to her an old man, Garus, sells large, warm bottles of dark ale. Fishermen pool their day’s earnings to buy them. There is no electricity, but Garus turns his straw-roofed house into a bar at night, using torches to light it. He too pumps rumba music out of a battery-powered radio. “People here drink beer to forget their worries, to de-stress,” he explains.
 
 Mr Barcat would be out of business if Congo had proper roads. Politicians keep promising to build them, but somehow never do. Mr Barcat jokes that he will be able to retire comfortably; his barges also take the empty bottles back to Kinshasa on the return journey, so he makes money both ways. The river will remain Congo’s main artery for years to come. And poor people will continue to club together to buy one of the few colonial relics that nearly everyone loves: clear, refreshing, temporarily worry-dispelling beer. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/01/18/how-to-get-beer-around-congo-a-country-with-hardly-any-roads

@@ -19,3 +19,7 @@ Before the financial crisis jobs data were thought to give a good signal about t
 The reason for the subsequent lack of interest is that falling unemployment is no longer a good guide to the Fed’s actions. Inflation has been unusually quiescent. The unemployment rate has fallen from 9% in 2011 to 3.5%, the lowest rate in 50 years. If the usual Phillips-curve relationship held, a rise in inflation would have followed. In fact, it has fallen: personal-consumption expenditure inflation, the Fed’s preferred measure, has slipped from 2% to 1.6%. At first that prompted Fed officials to think that there was more slack in the labour market than they had assumed. Lately it has caused them to doubt that the amount of slack is knowable at all, and to wait for inflation to pick up rather than predicting it based on jobs data.
 
 As a result markets no longer expect strong payroll numbers to be followed by interest-rate rises. Traders still pay attention to the wage figures in the report, though. In February 2018 a larger than expected pickup in average hourly earnings, together with a flat unemployment rate, led to a spike in bond yields and a stockmarket sell-off. But pay growth has lost momentum since, even as unemployment has fallen. Ahead of this month’s jobs report, due on February 7th, after The Economist went to press, traders might be forgiven for choosing to stay at the bar. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/02/06/traders-lose-interest-in-americas-jobs-report

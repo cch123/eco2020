@@ -17,3 +17,7 @@ A third, more sinister sort of euro-myth described cunning plans to force Europe
 Still, most people, it seemed, were able to tell euro-myth from euro-reality. In 2016 YouGov found that only a tenth of Britons believed that the bloc planned to ban the sale of rhododendrons. Only 14% believed it wanted to change “Bombay mix” to “Mumbai mix”.
 
 The supply of euro-myths will decline after Brexit, for Britain’s newspaper culture is unique in the EU in its appetite for mocking bureaucracy and petty rules, says Geoff Meade, a Press Association veteran of Brussels. But the demand among the nation’s hacks for this type of story will persist, so they will hunt for absurdities closer to home. Whitehall’s mandarins should watch out.
+
+## URL
+
+https://www.economist.com/britain/2020/02/01/brexit-spells-farewell-to-the-medias-euro-myth

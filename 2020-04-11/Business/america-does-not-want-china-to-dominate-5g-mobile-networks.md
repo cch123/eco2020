@@ -53,3 +53,7 @@ Huawei has dismissed the nethead approach as “a dream”. In contrast to Erics
 Still, governments could promote the nethead alternative, argues Tom Wheeler, a former chairman of America’s Federal Communications Commission, now at the Brookings Institution, a think-tank. A bipartisan bill in the Senate would create a $750m research fund to spur the development of open-architecture networks and help carriers purchase such equipment. Some American lawmakers want to mandate the use of gear with open interfaces.
 
 The Trump administration faces a clear choice. It can either bellheadedly try to beat the Chinese at their own game, going after Huawei and embracing industrial policy. Or it can do something altogether more American: help usher in innovation that lets many companies thrive at a time when cheaper, better connectivity is precisely what a post-pandemic world needs. ■
+
+## URL
+
+https://www.economist.com/business/2020/04/08/america-does-not-want-china-to-dominate-5g-mobile-networks

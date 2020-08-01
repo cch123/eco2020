@@ -19,3 +19,7 @@ In the long run, however, accounting conventions cannot lower the actual cost of
 This is a slow-motion crisis, precisely because the liabilities stretch out over many decades. But by 2025 eight funds may have only enough assets to cover less than four years of benefits, the CRR estimates; three of these funds—Chicago Municipal, Dallas Police and Fire, and New Jersey Teachers—will have a mere two years’ worth. If that happens, taxpayers will simply have to stump up more money to keep benefits flowing. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/06/04/americas-public-pension-funding-crisis-worsens

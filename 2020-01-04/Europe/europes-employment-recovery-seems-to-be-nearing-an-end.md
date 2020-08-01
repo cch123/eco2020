@@ -25,3 +25,7 @@ By contrast, unemployment rates in France, Italy and Spain are still high compar
 The labour-market effects of the slowdown are, unsurprisingly, most evident in Germany’s manufacturing sector, which has been in recession for over a year. There, employment actually fell in the third quarter of 2019 for the first time in four years. Bosses have also been squeezing workers’ hours: a survey by the IFO Institute for Economic Research found that 8.4% of German manufacturing firms were operating short-time working schemes in December 2019, the highest share since 2010. More than 15% are expected to bring in shorter hours over the next three months.
 
 What happens next will depend on how the economy fares, and whether the slowdown spreads beyond manufacturing, which employs only around 15% of the EU workforce. Forecasters expect the unemployment rate barely to budge: the European Commission, for instance, expects the EU rate to drop no further than to 6.2% by 2021. That assumes the European economy does not slow further; but the bad news keeps coming. A survey of purchasing managers, released on January 2nd, suggested that manufacturing activity in Germany was still shrinking in December, and that it decelerated in France. The longer these troubles continue, the more likely it is that bosses will become reluctant to hire more workers, and may lay some off. ■
+
+## URL
+
+https://www.economist.com/europe/2020/01/02/europes-employment-recovery-seems-to-be-nearing-an-end

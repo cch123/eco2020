@@ -33,3 +33,7 @@ The women in these stories turn to revenge only after they are failed by the ins
 Similarly, the assaults in “M.F.A.” and “Promising Young Woman” are reported to a university official—in both cases, a woman—who does nothing. “I kept seeing a lot of the same story in the news,” says Leah McKendrick, the writer of “M.F.A.”. “A young female is raped on a college campus, she’s brave enough to report it and is treated like a liar and a gossip and a problem.” She began work on the film in 2014 in pursuit of “some fantastical justice”; it was released just as Harvey Weinstein’s depredations began to be exposed.
 
 “For anyone who’s felt outraged at being treated unfairly,” says Ms Pollard, the academic, “it can be cathartic to cheer on a fictional surrogate who’s licensed to act out our grievances.” But like the #MeToo movement with which the genre has coincided, these feminist revenge dramas are less interested in vanquishing a single bad guy than in purging a rotten system. And, like the most enduring avengers of previous eras, the best new stories feel both acutely contemporary and ageless. “There are elements to [“Promising Young Woman”] that are timely,” Emerald Fennell, the writer and director of the film, has said; all the same, “women have been talking about [these issues] for many, many centuries.” ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/04/08/a-new-breed-of-feminist-avengers-are-righting-overlooked-wrongs

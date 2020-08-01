@@ -25,3 +25,7 @@ Brussels needs to come up with a ladder for opponents of enlargement to climb do
 The EU’s influence in the region is at stake. North Macedonia changed its name. Albania has made good on pledges to crack down on bent judges. Accession talks were the quid pro quo. Failing to live up to promises will strengthen regional rivals, such as Russia and Turkey, or prompt countries to embrace distant potential friends, such as China. “They never say the EU is crap, they say: ‘It’s great, but they are lying to you’,” notes an EU official. In the case of Albania and North Macedonia, they were right.
 
 The EU has a chance to undo the damage. Whether Mr Macron and allies back down is another matter. Spending years wrangling over the rules of joining the club would only weaken it. North Macedonia heads to the polls in April. The government’s pitch to voters has been that it is making progress in its EU talks. Come the summit in Zagreb, a less Europe-friendly government may be in power in Skopje. European leaders such as Mr Macron want the bloc to start punching its weight on the international stage. Solving the enlargement debate would be a sign that the EU is prepared to put geopolitics first. But Europeans who yearn for such an outcome will doubtless have to wait—like the citizens of North Macedonia. ■
+
+## URL
+
+https://www.economist.com/europe/2020/01/18/for-europe-geopolitics-starts-at-home

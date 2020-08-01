@@ -39,3 +39,7 @@ Many stronger firms would prefer a private-sector rescuer. Those with solid bala
 Some companies with iffier prospects can get their hands on cash, too. Carnival, a cruise-line operator whose share price is down by 83% this year, is raising $4bn through a sale of bonds (in part by mortgaging its ships) as well as fresh equity. Markets are charging a hefty price for this support. So long as they remain willing to shore up corporations on the brink, taxpayers may be spared big payouts—and governments, blushes for helping out unloved big business.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/04/03/governments-are-once-again-splurging-to-keep-big-companies-afloat

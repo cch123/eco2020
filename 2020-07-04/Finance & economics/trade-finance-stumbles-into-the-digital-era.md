@@ -27,3 +27,7 @@ Still, the damage could have been worse. Thankfully, banks have sturdier equity 
 The question is how long the support lasts. Banks and insurers will see their capital eaten up as loans sour. Government aid could be withdrawn too soon, worries Alexis Garatti of Euler Hermes, a trade-credit insurer. Support could be taken away just as the demand for finance returns. As new orders work their way through supply chains, exports appear to be bouncing back faster than manufacturing.
 
 Still, the pandemic could lead to lasting gains by forcing the industry to digitise. Alexander Goulandris of Essdocs, which promotes paperless trade, says 60 chambers of commerce have opted for its electronic certificates of origin in recent months, compared with the usual rate of ten a year. Some countries have also adopted laws recognising the validity of e-documents. Digital standards could make it easier to bundle trade-finance loans into securities that can be sold on to institutional investors, providing more oxygen to commerce. Trade finance has long followed outmoded practices. Now might be its chance to blow everyone’s socks off. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/07/04/trade-finance-stumbles-into-the-digital-era

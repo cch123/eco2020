@@ -57,3 +57,7 @@ The uncertainties in what the models predicted was as striking as ever (see char
 Sign up to our fortnightly climate-change newsletter [here](https://www.economist.com//theclimateissue/)
 
 Dig deeper:Climate brief 1: [Why tackling global warming is a challenge without precedent](https://www.economist.com//schools-brief/2020/04/23/why-tackling-global-warming-is-a-challenge-without-precedent)Climate brief 3: [Humanity’s immense impact on Earth’s climate and carbon cycle](https://www.economist.com//schools-brief/2020/05/09/humanitys-immense-impact-on-earths-climate-and-carbon-cycle)Climate brief 4: [Damage from climate change will be widespread and sometimes surprising](https://www.economist.com//schools-brief/2020/05/16/damage-from-climate-change-will-be-widespread-and-sometimes-surprising)[The Economist’s climate-change hub](https://www.economist.com//news/2020/04/24/the-economists-coverage-of-climate-change)
+
+## URL
+
+https://www.economist.com/schools-brief/2020/05/02/how-modelling-articulates-the-science-of-climate-change

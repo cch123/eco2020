@@ -29,3 +29,7 @@ Most Mexicans want less violence against women. Universities and business groups
 The protests are aimed more at changing social attitudes than government policy. Their leaders do not expect much help from Mr López Obrador. Though a former agitator himself, he dislikes forces he cannot control. He claims that the feminist movement has been “infiltrated” by conservatives, who exploit its anger to criticise him. In February, while promoting a lottery to pay for medical supplies, he responded to questions from reporters about murdered women by saying, “I do not want femicides to overshadow the raffle.” Some activists defend Mr López Obrador by saying that his administration includes more feminists than did earlier governments.
 
 Being a feminist in Mexico has never been easy. “We were 20 locas [crazy women] in the streets with pro-abortion signs,” says Marta Lamas, a professor at the National Autonomous University, recalling protests she took part in 45 years ago. A spate of horrific murders has captured Mexicans’ attention. That may not bring about the broader changes that feminists seek. ■
+
+## URL
+
+https://www.economist.com/the-americas/2020/03/05/mexicos-new-feminist-wave

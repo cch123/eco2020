@@ -21,3 +21,7 @@ The city insists that it has always dealt responsibly with its Nazi history. Its
 Mr Hoguet says he remains attached to Austria, and to the many friends he has made in the Alpine republic. He used to work for Creditanstalt, a big Austrian bank founded by his ancestor. Until recently his family still owned lots of land. Last year they parted with the last chunk, selling about 7,000 hectares (17,300 acres) of forest in Lower Austria.
 
 The sale marked the end, after more than 200 years, of the physical presence of the Rothschilds in Austria. Yet Mr Hoguet’s ancestors would approve of his fight for their posthumous rights. Although he was an exile in America at the time of his death in 1955, his great uncle Louis, the last male Austrian Rothschild, chose to be buried at the Central Cemetery in Vienna. ■
+
+## URL
+
+https://www.economist.com/europe/2020/02/27/a-rothschild-heir-sues-vienna

@@ -31,3 +31,7 @@ Perhaps those looking to get away from it all could look to space. Virgin Galact
 ![](./images/20200627_WWC216.png)
 
 The pandemic has stranded many workers at home, and also sent millions to the unemployment line. But that has meant tech giants have done well as home offices are kitted out with equipment and people communicate remotely. The soaring stock of those companies, and others, has increased the wealth of their bosses and, as a consequence, America has gained nearly 30 new billionaires since March, according to the Institute for Policy Studies, a left-leaning think-tank. The top five are thought to be 26% richer collectively than before covid-19.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/06/27/business-this-week

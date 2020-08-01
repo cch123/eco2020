@@ -23,3 +23,7 @@ Analysts are now asking whether loans and interest obligations will be fully rep
 How much capital is needed is unclear, given the uncertainty over loan losses. In April Prakhar Sharma, an analyst at Jefferies, an investment bank, put the fresh capital needed by the public banks at 889bn rupees ($12bn) and at half that for the private lenders. Some banks are beginning to prepare themselves: Kotak Mahindra raised nearly $1bn in May; ICICI plans to seek a similar amount, as does the State Bank of India, the country’s largest lender. But many of India’s weaker banks, saddled with legacy problems and uncertain loan losses, are likely to attract scant interest from investors. Much of the RBI’s early response to the pandemic involved protecting borrowers. It may yet find itself being forced to step in to save some lenders. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/08/01/has-indias-moratorium-on-loan-payments-delayed-the-pain-for-banks

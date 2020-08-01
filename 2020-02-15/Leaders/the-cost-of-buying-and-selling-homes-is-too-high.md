@@ -21,3 +21,7 @@ What to do? America’s trust-busters last looked into the industry in depth in 
 Boosting competition is a complex problem, but the antitrust policemen are right to intervene. They should seek to enforce two principles. First, that agents are genuinely free to compete by lowering commissions—or by abandoning the practice of requiring sellers to pay two sets of fees. Second, that any firm which wants to gain access to industry data can do so freely at reasonable prices. The best tests of whether regulators succeed are whether commissions fall towards levels in the rest of the rich world and the market share of new entrants rises.
 
 Plenty of entrepreneurs are keen to get involved. Some $6bn of venture capital flowed into “prop tech” firms in 2019. Opendoor and Zillow have algorithms that crunch data to determine the value of a home, and allow them to make “instant offers” to sellers that are all cash and can be paid within days. Other firms have developed tools to lift agents’ productivity, such as automatic home-tour booking systems. Competition can make America’s property market work better. If regulators lower the barriers to entry, they will be knocking on an open door.■
+
+## URL
+
+https://www.economist.com/leaders/2020/02/13/the-cost-of-buying-and-selling-homes-is-too-high

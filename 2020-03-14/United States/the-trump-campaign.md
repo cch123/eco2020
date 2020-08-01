@@ -31,3 +31,7 @@ The mystique surrounding Mr Parscale and his digital arts appears to be largely 
 Journalists who covered the 2016 election also have reasons to buy the myth of Mr Trump’s digital mastery. It allows them to downplay their own responsibility for his win by providing blanket coverage of the Republican candidate and the many slanders he levelled at Mrs Clinton, concerning her emails, alleged corruption and so forth. It is also a means to avoid confronting the uncomfortable fact that 63m Americans heard who Mr Trump was from his own mouth, unfiltered, and still voted for him. That is a better explanation for his success than Mr Parscale’s dark arts.■
 
 Dig deeper:
+
+## URL
+
+https://www.economist.com/united-states/2020/03/14/the-trump-campaign

@@ -43,3 +43,7 @@ Perhaps the best that can be said of the revival of collaborations between Weste
 Time will tell if Western investors’ latest dalliances of convenience pay off. The lot of Reliance businesses’ partners has not always been easy. India’s securities regulator has ordered Reliance Industries to compensate minority shareholders in Reliance Petroleum, an affiliate for a series of transactions between the two entities that, the regulator says, disadvantaged the outside investors. The case is pending. Reliance Industries denies any wrongdoing.
 
 As good as Jio looks on paper, it must still show it has what it takes to run a modern tech behemoth. Ventures such as Jiomart (e-commerce) and JioMoney (finance) have yet to live up to the hype. Until they do, Jio’s nationality may remain its chief attraction.■
+
+## URL
+
+https://www.economist.com/business/2020/07/04/india-incs-inward-turn

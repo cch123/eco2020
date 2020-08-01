@@ -31,3 +31,7 @@ The chancellor, a scientist fluent in the argot of reproduction rates and risk m
 There have been wobbles as well as wins. The government has struggled to step up production of face-masks, for example, although all 16 states now mandate their use. And the cross-party consensus forged in adversity is now starting to crack. Yet Germany’s successes in managing the outbreak are undeniable. The fact that it is now arguing vigorously about what comes next is not the least among them. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/04/25/germany-excels-among-its-european-peers

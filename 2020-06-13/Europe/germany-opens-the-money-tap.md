@@ -29,3 +29,7 @@ Will the changes last? Not necessarily. Mr Scholz sits inside the Social Democra
 The European argument is a little different. Mr Scholz has taken to grand talk of Hamiltonian moments, fiscal union and handing tax powers to the EU. The fact that Germany’s spending will only widen the gulf with its partners—the Bundesbank forecasts a 6% fall in GDP this year, far gentler than France and Italy—strengthens the case for big intra-EU transfers. German exporters also need European custom. True, when Europe’s leaders begin debating the fund on June 19th, it is Mrs Merkel rather than Mr Scholz who will be negotiating.
 
 But the clock is ticking on her chancellorship. Mr Scholz will probably secure the SPD’s nomination to campaign to succeed her next year. If so, he will not offer his CDU rival an open goal by promising to ignore the old budget rules. But he may be emboldened to push the debate beyond traditional fiscal concerns, such as Germany’s investment gap, its worryingly large share of low-paid jobs and its role in Europe. If nothing else, that would mark a change. ■
+
+## URL
+
+https://www.economist.com/europe/2020/06/11/germany-opens-the-money-tap

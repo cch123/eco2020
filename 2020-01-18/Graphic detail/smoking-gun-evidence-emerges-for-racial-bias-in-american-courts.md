@@ -22,3 +22,8 @@ On its own, ending this gap would barely dent the racial imbalance in American j
 
 Sources: US Bureau of Justice; World Prison Brief; World Bank; “Racial Disparities in Federal Sentencing: Evidence from Drug Mandatory Minimums”, by Cody Tuttle, University of Maryland; FBI; The Economist
 
+
+
+## URL
+
+https://www.economist.com/graphic-detail/2020/01/18/smoking-gun-evidence-emerges-for-racial-bias-in-american-courts

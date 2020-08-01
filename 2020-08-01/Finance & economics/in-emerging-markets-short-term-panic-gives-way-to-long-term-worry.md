@@ -45,3 +45,7 @@ Measures of this kind were necessary. But they may prove tricky to undo. Governm
 One reason why covid-19 inflicts lasting harm on those infected is the aggressive immune reaction it can trigger. This “cytokine storm” may help kill the disease. But it can also endanger the patient. Policymakers in developing countries must take care to prevent something similar happening to their economies. They have responded with justifiable aggression to the pandemic. If left unchecked, however, this storm of defensive measures could have some nasty side-effects of its own. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/08/01/in-emerging-markets-short-term-panic-gives-way-to-long-term-worry

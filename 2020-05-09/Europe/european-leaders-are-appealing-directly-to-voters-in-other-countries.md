@@ -25,3 +25,7 @@ Appealing to an embryonic European point of view is far from foolproof. During t
 This time, the strategy has a better chance. Politicians in southern Europe have found a more sympathetic audience in foreign media than previously. A pandemic comes without the moral baggage of the euro crisis. The German press, which once revelled in caricatures of inflation-addicted Italians and siesta-taking Spaniards, has been more open to the ideas for getting out of the economic crisis put forward by their southern cousins. Both Der Spiegel, a centre-left news weekly, and Süddeutsche Zeitung have written in favour of some form of mutualised debt, which is a no-no for much of the German establishment and the holy grail for southern Europe. A genuinely European political debate is emerging.
 
 Whether it will last is another matter. Interest in the life of the EU has peaks and troughs. When the EU appears on the edge, it dominates headlines. (An irony of Brexit was that the actions of the EU dominated British journalism in a way they seldom had before Britain decided to leave.) But when the EU sails through serene waters, journalists look for drama elsewhere. After this crisis passes, the audience may narrow again. Public opinion will keep its national boundaries while true power resides far from Brussels. The discourse may be increasingly European, but the voters who count are still as national as ever. ■
+
+## URL
+
+https://www.economist.com/europe/2020/05/07/european-leaders-are-appealing-directly-to-voters-in-other-countries

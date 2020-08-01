@@ -55,3 +55,7 @@ Postponing the vote until the autumn seemed too risky. So on May 26th, despite n
 The voting started the day after Mr Putin’s parade. Its result was never in doubt, but whether the exercise succeeds in buttressing Mr Putin’s legitimacy certainly is. A barrage of caricatures and rude comments on social media suggests that the ruse is not working. “Putin has lost his majority,” says Mr Belanovsky. His focus groups show that it is not just democracy-minded Russians who have turned away from him. So have nationalists and communists. Once delighted by Mr Putin’s annexation of Crimea, they now see him as corrupt and deceitful. Most important, Mr Belanovsky writes, is that Mr Putin has lost the backing of the apolitical middle that used to be his main base.
 
 The weaker its support, the more Mr Putin’s regime is likely to rely on repression. Yet using force without even a veneer of legitimacy can quickly bring the parade to an end. In March 1991 the Soviet people were asked whether the Soviet Union should be preserved. Almost 78% of them answered yes. Five months later the KGB mounted a coup to oust Mikhail Gorbachev, a reforming leader, and to stop the disintegration of the state. In two days the coup was crushed, and by the end of the year the Soviet Union was gone. ■
+
+## URL
+
+https://www.economist.com/europe/2020/07/04/a-phoney-referendum-shows-putins-legitimacy-is-fading

@@ -21,3 +21,7 @@ The all-weather funds have low, fixed management costs and no performance fees. 
 Bridgewater has also become engaged in a public spat with its former co-chief executive, Eileen Murray, who left in March. She has since alleged that the firm discriminated against her and claims it offered her a smaller exit package than those offered to male peers. In response, the firm is seeking to withhold deferred compensation, worth between $20m and $100m, from Ms Murray. It claims that, by speaking publicly about her allegations, she may have violated the confidentiality terms of her contract. On July 24th Ms Murray filed a lawsuit in Connecticut saying that she had followed, and would continue to respect, the rules on the disclosure of the firm’s confidential information and trade secrets. In court documents she claimed that the firm was using a “bad faith assertion” to avoid paying her deferred compensation, “as part of a cynical plan to intimidate and silence” her.
 
 Even hedge funds with clever managers and successful long-term strategies stumble occasionally. Many stage a speedy recovery. As the number of covid-19 cases in America rises, the economy continues to wobble and the spat with Ms Murray escalates, though, Bridgewater’s troubles may continue to mount. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/08/01/bridgewater-faces-losses-and-a-lawsuit

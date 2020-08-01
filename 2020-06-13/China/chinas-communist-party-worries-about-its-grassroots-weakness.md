@@ -29,3 +29,7 @@ That is an important aim. Resolving local disputes before they erupt into street
 One idea is to promote the creation of “big party committees” in neighbourhoods. These would have a clearer mandate to wield authority over other party branches at the same level, including those in firms. Experiments with this have been praised in the party’s press. “A solo has become a chorus,” as one local government put it. Mao would be proud. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/china/2020/06/11/chinas-communist-party-worries-about-its-grassroots-weakness

@@ -29,3 +29,7 @@ After two big crises at a formative period of their lives, a politicised and tra
 But the anger built up during the previous crisis has not receded. About two-thirds of Spaniards declare themselves dissatisfied with democracy in their country. This provides fertile ground for populist parties, points out Ignacio Jurado, an academic at University Carlos III of Madrid: “People are more interested in politics, but they expect less. They trust less in government. They are more dissatisfied.” In Spain, the result has been straightforward. New parties such as Vox on the right and Podemos on the radical left have flourished, with younger voters in particular constituting their core support. In Italy, just under half of all voters aged between 25 and 34 opted for the Northern League, a hard-right anti-immigration party, or the Five Star Movement, a more leftist populist group, at last year’s European elections. Europe’s mainstream parties will find it hard to win them back. A resurgence of a left-right split on economics could help these established parties. But many voters will feel that the social contract has been so badly breached that they would rather rip it up altogether. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/04/16/southern-europes-millennials-suffer-two-huge-crises-by-their-mid-30s

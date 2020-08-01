@@ -31,3 +31,7 @@ If European leaders spurn “more Europe” on the fiscal level, then at least t
 Covid-19 will offer the most brutal test not of the EU but of Europe’s member-states. Without the EU finally binding itself together fiscally, it will be left to individual states to write the cheques that stop their economies choking. It will be states that deal with the sick. It will be states that take the blame from the bereaved. “More Europe” offers a tantalising solution to the EU’s latest crisis. But “less Europe” must also have its role. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/03/21/more-europe-or-less

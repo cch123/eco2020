@@ -33,3 +33,7 @@ Business is slumping. Many big firms reported soft sales in the first quarter, w
 Other Arab states are emerging from lockdown into the same problems. Although Egypt’s tourism revenues are large in absolute terms, the sector in Tunisia, Lebanon and Jordan is bigger as a share of GDP. The latter two also depend heavily on remittances. All three have lower long-term credit ratings than Egypt (none worse than Lebanon, which defaulted in March). Egypt was astute to ask the IMF for early help: its neighbours are not far behind. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/05/23/egypt-chose-a-looser-lockdown-its-economy-is-still-in-crisis

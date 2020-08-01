@@ -27,3 +27,7 @@ What is in it for the suits? Money, for a start. Before it was bought outright, 
 Yet cloak-and-dagger arrangements can go badly wrong. Companies that collaborate with spooks can put—often unwitting—employees abroad at risk. In 1992 Hans Buehler, a salesman for Crypto AG, was detained in Iran for nine months and freed only after a $1m ransom payment (he claimed he knew nothing of the firm’s back doors). Then there are the reputational costs. An aggrieved Mr Buehler went to the press, and the firm’s secret trickled into the open, prompting German spies to walk out of the deal (with a tidy five-fold return on the original investment). Crypto AG was wound up in 2018; its once-illustrious brand name is now destroyed.
 
 A worse fate befell Ferranti, a British engineering firm that purchased International Signal and Control (ISC), an American arms contractor that turned out to be a CIA front for rampant gun-running. Ferranti went bankrupt in short order. When James Guerin, ISC’s CEO, was convicted of fraud and illicit arms dealing, Bobby Ray Inman, a former deputy director of the CIA, wrote to the judge with a character reference: “Mr Guerin displayed patriotism toward our country…even though it could have risked unfavourable publicity for his company.” Alas, gratitude from the spooks is scant consolation for aggrieved shareholders.■
+
+## URL
+
+https://www.economist.com/business/2020/02/22/spies-often-use-businesses-as-cover

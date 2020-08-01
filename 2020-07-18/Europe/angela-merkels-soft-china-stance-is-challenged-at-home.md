@@ -39,3 +39,7 @@ However, the chancellor’s hopes of docking China into the multilateral system 
 None of this signals “decoupling” of the sort Mike Pompeo, America’s secretary of state, has urged on Europe. But Germany needs a “significant rebalancing”, says Mr Benner, who suggests it should nurture European capabilities in critical infrastructure like 5G, tell companies that have bet on China they will no longer enjoy political cover, and assemble alliances with like-minded countries at risk of Chinese economic coercion, such as Australia and South Korea. In German business and politics alike, the winds are changing. ■
 
 Correction (July 17th 2020): A previous version of this article misnamed the German Economic Institute. A figure has also been corrected.
+
+## URL
+
+https://www.economist.com/europe/2020/07/16/angela-merkels-soft-china-stance-is-challenged-at-home

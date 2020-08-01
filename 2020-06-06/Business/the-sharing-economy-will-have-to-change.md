@@ -45,3 +45,7 @@ Smaller sharing-economy firms are surprisingly optimistic, too. In places which 
 If there is one example of how the pandemic may push the sharing economy back to its roots, it is Olio. Motivated by a mission to reduce food waste, the London-based service lets its users share groceries and other items they no longer need with neighbours. “We first had a moment of panic: can a neighbour-to-neighbour sharing app continue to exist?” explains Tessa Clark, who runs the firm. But after changing the service to no-contact pickup, sharing surged by about 50% for food and 200% for other things.
 
 Firms building on activity that existed before the internet, such as sharing food with neighbours, will fare better after the crisis than online marketplaces that are more artificial new creations, predicts Sonali De Rycker, a partner at the European arm of Accel, a venture-capital firm, which has invested in both BlaBlaCar and Olio. If anything, she says, after the pandemic consumers will be even keener to save money or to make some on the side by renting things out. Expect more of yours to be mine and mine to be yours, even if it has to be thoroughly cleaned in between.■
+
+## URL
+
+https://www.economist.com/business/2020/06/04/the-sharing-economy-will-have-to-change

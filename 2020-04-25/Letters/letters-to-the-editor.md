@@ -63,3 +63,7 @@ ANDREW DAWSONWorcester
 The “[Hard choices](https://www.economist.com//briefing/2020/04/04/the-hard-choices-covid-policymakers-face)” (April 4th) being made because of the pandemic, and the methods used to assess the likely path of the disease, sound like an adage familiar to any risk manager: all models are wrong, but some are useful.
 
 CHRIS MATTENLondon
+
+## URL
+
+https://www.economist.com/letters/2020/04/23/letters-to-the-editor

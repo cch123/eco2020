@@ -35,3 +35,7 @@ If China has an appetite to hurt Britain then it has a range of brands and secto
 Charles Parton, a veteran British diplomat and senior associate fellow at the Royal United Services Institute, a think-tank, argues that such measures may spook leaders but are usually short-lived, do not prevent overall exports from rising, and should not deter politicians from challenging Chinese policy when Britain’s interests are threatened. Chinese investment in Britain is linked to profit-seeking, not politics or charity. “The pain gets put on the politicians,” says Mr Parton. “The real world goes on. Students study. Tourists tour. Business does its business.”
 
 Yet the main cost may not be in present pain but in future benefits forgone. A falling-out with China would scotch new initiatives designed to give Britain a competitive advantage over its European peers. The spat may kill the tie-up between the London and Shanghai stock exchanges and hinder emerging fields, such as the issuing of green bonds in London by Chinese firms. Few MPs would notice that. But many fret that the lost advantages are stacking up. “We’ve had covid, we’re doing Brexit—do we need to pick a fight with China?” asks a former cabinet minister of the “golden era”. That will soon become clear.■
+
+## URL
+
+https://www.economist.com/britain/2020/07/11/a-ban-on-huawei-further-worsens-britains-relations-with-china

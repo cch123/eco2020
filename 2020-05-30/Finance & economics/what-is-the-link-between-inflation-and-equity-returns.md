@@ -27,3 +27,7 @@ Further out, though, the outlook for inflation is murkier. There is no shortage 
 Globalisation, a key reason for the secular decline in inflation, is reversing. Big companies are likely to emerge from the crisis with more pricing power. The rise of populism in rich countries is hard to square with endlessly low inflation. Fiscal stimulus is in favour. The more government debt piles up, the greater the temptation to try to inflate it away.
 
 For all such speculation, it is far from clear whether, how fast and by how much inflation might rise. A modest pickup might even be good for stock prices—especially in Europe, where bourses are tilted towards the cyclical stocks most hurt by unduly low inflation. But it is foolish to believe that inflation will leave your stock portfolio unharmed—and too easy to forget the damage it can do.
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/05/28/what-is-the-link-between-inflation-and-equity-returns

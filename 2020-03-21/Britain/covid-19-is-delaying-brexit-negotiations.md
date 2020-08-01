@@ -25,3 +25,7 @@ But while the logic of a delay is straightforward, the politics are not. A delay
 The hope is that Eurosceptic concerns are outweighed by more pragmatic ones. Businesses will plead with the government not to compound the economic hit from the virus with the pain of a hard exit. Given that any settlement with the EU will probably require compromises on sensitive questions such as fisheries and the European Court of Justice, Mr Johnson may conclude they are best rushed through while attention is elsewhere.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter), or visit [our coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/03/21/covid-19-is-delaying-brexit-negotiations

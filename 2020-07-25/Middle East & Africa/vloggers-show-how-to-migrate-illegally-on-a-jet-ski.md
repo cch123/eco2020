@@ -19,3 +19,7 @@ But the vlogs are full of useful information for would-be migrants, such as the 
 There is often more information in the comments section, such as phone numbers of smugglers. But that’s the old way of doing things. The vloggers caution against paying shady human traffickers. Instead, they suggest buying a ticket to Turkey and hiking into Greece. Jet skis are a popular option for Moroccans heading to Spain. Many of the vloggers are university graduates and have similar viewers. Long considered the desperate pursuit of no-hopers, illegal migration is attracting a growing number of the educated and employed. The vlogs are “making haraga mainstream and middle-class”, says Mr Ghoulidi.
 
 They also make money. Mr Mzouri says he earns $2,000 a month from advertising and product placements. When Zizou landed in jail, his followers crowdfunded his bail. North African vlogs have an advantage over the competition. The authorities in the West know enough standard Arabic—or can use Google translate—to track the information shared on social media by migrants from places like Syria. But the dialects of north Africa are more of a challenge. “The vlogs are beyond the radar of Western officials,” says Matt Herbert, an expert on migration based in Malta. And the vloggers themselves are adept at avoiding the authorities.
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/07/23/vloggers-show-how-to-migrate-illegally-on-a-jet-ski

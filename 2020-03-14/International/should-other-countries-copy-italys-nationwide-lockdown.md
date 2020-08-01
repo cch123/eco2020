@@ -49,3 +49,7 @@ But on March 11th a new cluster of infections was discovered in a call centre in
 As countries employ varying intensities of measures to battle their covid-19 epidemics, it should become clearer which work best—and whether the most drastic are the most effective. Gabriel Leung, an epidemiologist from Hong Kong University who was part of a World Health Organisation team that examined China’s efforts to contain its epidemic, says nobody knows yet what combination of controls works best against covid-19. “Do you need to do everything that the Chinese have done to control it?” he says, or is it enough to copy only certain elements. “That”, says Mr Leung, “is really the big question.” ■
 
 Dig deeper:
+
+## URL
+
+https://www.economist.com/international/2020/03/12/should-other-countries-copy-italys-nationwide-lockdown

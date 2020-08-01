@@ -35,3 +35,7 @@ Might the president be willing to take more radical measures against China, egge
 In China, officials have so far responded with relative restraint. They can read polls too, and may want to see if the current trajectory of relations continues after January. Some propagandists have suggested they would like Mr Trump to win, on the argument, like Mr Blinken’s, that he has weakened America’s strategic position and strengthened theirs. That may be bluster. Or they may also view Mr Biden as someone who would back up tough talk on issues like human rights, rather than turn matters of principle into bargaining chips. On that score even hawks who are wary of Mr Biden do not doubt his sincerity. China has changed since he was vice-president, as has the elite consensus in Washington. It will take more than an election to end the dark new era in US-China relations. ■
 
 Dig deeper:Sign up and listen to Checks and Balance, our [weekly newsletter](https://www.economist.com//checksandbalance/) and [podcast](https://www.economist.com//podcasts/2020/07/24/checks-and-balance-our-weekly-podcast-on-american-politics) on American politics, and explore our [presidential election forecast](https://www.economist.com/https://projects.economist.com/us-2020-forecast/president)
+
+## URL
+
+https://www.economist.com/united-states/2020/07/30/would-a-biden-administration-be-softer-than-trump-on-china

@@ -21,3 +21,7 @@ It is easy to see how online meetings could dampen shareholder dissent. In a roo
 Most observers support online meetings during the pandemic as a stopgap, so long as they meet high standards of transparency. ISS urges firms to ensure that shareholders can still “ask questions of directors and senior management and to engage in dialogue”.
 
 But the consensus among corporate-governance types is that AGMs should be held in person as soon as it is safe to do so. Otherwise, warns Mike Mayo, an analyst at Wells Fargo, post-crisis annual meetings risk becoming “emotionless, toneless, check-the-box exercises”. He finds attending them to be an invaluable way to hold executives to account. In contrast with the “one and done” question-and-answer session typical of online forum, in-person encounters allow for a proper grilling of bosses and board members. “For directors, it is a meet-your-makers moment,” echoes Mr Elson. The makers would no doubt rather meet in a room than on Zoom.■
+
+## URL
+
+https://www.economist.com/business/2020/04/30/online-annual-meetings-may-favour-managers-over-shareholders

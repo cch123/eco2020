@@ -29,3 +29,7 @@ Another solution is to recruit locals idled by the shutdown. In Germany a websit
 Europe’s farmers would rather not rely on first-timers. Edwin Veenhoeve, an asparagus farmer in the Netherlands, says that in the past 40 years perhaps ten Dutch people had ever applied to work the harvest on his family farm. This month alone 30 have applied. Still, compared with experienced Poles, Romanians and Bulgarians, they are not ideal farmhands, he adds: “Dutch people are used to working Monday to Friday, nine to five. But the asparagus keeps growing seven days a week.” ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/04/04/when-borders-close-who-will-pick-the-crops

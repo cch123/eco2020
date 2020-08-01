@@ -25,3 +25,7 @@ Firms such as Serco, a big contractor, are in talks with the government to provi
 Most people have no idea what they were doing on the evening of a particular day two weeks ago. “So what you try to do is you break the day up into segments,” says Dr Azeem Majeed, a public-health expert at Imperial College London. As Britons wait for the army of new tracers to be hired, and indeed for a tracking app to download, one way to fill the days may be to get in the habit of keeping a diary. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/04/30/an-army-of-sleuths-could-help-britain-emerge-from-lockdown

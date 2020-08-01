@@ -23,3 +23,7 @@ There was then a tough decision to make. The principles of the fund called for r
 The fund’s long-term focus means it can be bold during crises. But there are also constraints that do not apply to other investors. The need for transparency rules out dabbling in private-equity funds. NBIM has been a pioneer in socially responsible investment. This might look like Nordic do-goodery and a sop to posturing politicians. But the approach is hard-headed. A lot of decisions to exclude stocks are taken with an eye to long-term returns. Coal shares, for instance, are out because the business does not appear to have a lasting future. Companies in emerging markets that do not pass muster on corporate governance are avoided. In general this has been a way to improve returns.
 
 The tennis analogy is: stay on your baseline; eliminate basic errors; be solid first—and only then, be smart. You will win in the long term. A lot of fund managers see a risk to their careers in looking too far into the future. They may lose clients in the meantime. Things are different at Norway’s oil fund. “The career risk”, says Mr Slyngstad, “is not to implement the strategy.”
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/04/04/the-departing-boss-of-norways-oil-fund-on-building-an-asset-manager

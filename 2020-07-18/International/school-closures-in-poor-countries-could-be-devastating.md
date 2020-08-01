@@ -43,3 +43,7 @@ Still, some governments are making progress. Education ministries in Dominica, G
 Experience helps. Sierra Leone used radio programming during the country’s Ebola outbreak in 2014. It was easy to reboot it, says David Moinina Sengeh, the country’s education minister. Preparation for schools to reopen started before they even shut. Mr Sengeh enlisted an army of bus drivers to ferry children, whose families had moved during lockdown, back to the villages and towns their schools were in.
 
 He also rushed to overturn a law banning pregnant girls from going to school, offering incentives to teenage mothers to return to their studies and adding sex education classes to lessons broadcast by radio to reduce the likelihood of girls getting pregnant. Mr Sengeh sees the pandemic as an opportunity to ensure that everyone, everywhere, gets a good education. Covid-19 has given the government the “oomph” it needs to make it happen, he says. Others could learn from him. ■
+
+## URL
+
+https://www.economist.com/international/2020/07/18/school-closures-in-poor-countries-could-be-devastating

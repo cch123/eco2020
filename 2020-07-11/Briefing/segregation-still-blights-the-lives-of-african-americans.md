@@ -71,3 +71,7 @@ Unfortunately, the fact that the benefits of such programmes would accrue dispro
 “My parents literally had to get a white couple to pose as us in order to buy a home in an affluent area of suburban New Jersey with great public schools,” remembers Cory Booker, now a senator from that state. As well as promoting a bipartisan bill on criminal-justice reform, Mr Booker has also pushed a programme to remove lead pipes in schools; baby bonds formed a major plank in his run for the Democratic nomination.
 
 “[Dr King] eloquently said that we have to repent in our day and age, not just for the vitriolic words and violent actions of the bad people, but the appalling silence and inaction of the good people,” Mr Booker says. “Well, I fear that we will have to repent in our generation, if more of us who are good people—and that is the overwhelming majority of Americans—let another generation go by where we don’t correct these persistent injustices.”■
+
+## URL
+
+https://www.economist.com/briefing/2020/07/09/segregation-still-blights-the-lives-of-african-americans

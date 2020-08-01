@@ -43,3 +43,7 @@ Such uncertainty means more trouble for the oil sector, whose poor returns and c
 Natural gas, the fossil fuel for which analysts have long predicted continued growth, has weathered the pandemic better than its two older siblings. But it, too, faces accelerating competition. One of gas’s niches is powering the “peaker” plants which provide quick influxes of energy when demand outstrips a grid’s supply. It looks increasingly possible for batteries to take a good chunk of that business.
 
 Those hoping for fossil fuels’ imminent demise should not be overconfident. As lockdowns around the world end, use of dirty fuels will tick back up, as they have in China. Energy emissions no longer rise in lockstep with economic growth, but demand for fossil fuels remains tied to it. Mr Currie of Goldman Sachs, for one, is wary of declaring a permanent decoupling: “I’m not willing to say there is a structural shift in oil demand to GDP.” Even so, a peak of fossil fuels in the 2020s looks less and less farfetched—depending on what governments do next in their struggle with the pandemic. Of all the uncertainties in energy markets, none currently looms larger than that. ■
+
+## URL
+
+https://www.economist.com/briefing/2020/05/21/can-covid-help-flatten-the-climate-curve

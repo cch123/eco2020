@@ -27,3 +27,7 @@ For nine years he tried, establishing cultural centres and poetry workshops all 
 Eventually the fervour cooled. No one seemed able to adopt either Christianity or Marxism fully in practice; the creeds were equal in that, too. The Sandinistas’ beautiful revolution turned dynastic under Daniel Ortega and his wife, who in 1988 eased him out of the ministry. By 1994 he had left the movement; in 2008 he condemned it as a thieving monarchy. And his priestly life, too, had gone. He had been stripped of his sacramental functions in 1984, soon after his airport scolding, because he refused to leave the government. Only a year ago did he get them back.
 
 That loss he dealt with in his own way, through books and the practice of poetry. He was ever Trappist; in his bare room he needed only a bed, a shelf, a crucifix and a desk. He retreated to Solentiname where God, he said, slept with him in his hammock by the lake. But he wrote less about politics now, and more about the wonders of the cosmos: the stardust that made humans universal, the flowering of galaxies, the poignancy of messages sent to uninhabited planets. His favourite reading was scientific journals. There he tracked the discoveries that showed creation ever greater, evolving slowly, despite many a slip, towards a perfect revolution—as Marx taught and as Christ taught, both alike.■
+
+## URL
+
+https://www.economist.com/obituary/2020/03/05/ernesto-cardenal-died-on-march-1st

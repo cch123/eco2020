@@ -41,3 +41,7 @@ That is just what the country’s racially charged politics may prevent. Afro-Gu
 The antagonism is made sharper by Guyana’s electoral system, which awards seats in the National Assembly on the basis of proportional representation. After elections party leaders handpick the politicians who occupy the legislature’s 65 seats, including the 25 regional seats. They are thus more beholden to their leaders than to racially mixed groups of constituents.
 
 The main hope for ending the standoff rests with mixed-race and indigenous Guyanese, whose weight in the population is increasing. An array of third parties is trying to break the duopoly. Lenox Shuman, the presidential candidate of the Liberty & Justice Party, which represents mainly indigenous people, hopes to be “the balance of power and bring reason to the house”. With more reason and less rancour, Guyana will have a better chance of making the most of its new riches. ■
+
+## URL
+
+https://www.economist.com/the-americas/2020/02/27/ahead-of-oil-riches-guyana-holds-a-decisive-election

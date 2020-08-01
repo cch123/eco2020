@@ -31,3 +31,7 @@ Covid-19 provides Britain with an opportunity to recapture the memory of the Bli
 Back in 1940 the British showed an acute sense of the power of history to inspire a beleaguered people. The Picture Post said in 1940 “some nations are separated by a sad gulf from a heroic past but we are not”. The Times likened the struggle for control of the Channel ports to epics of English history such as Agincourt, the Armada and Waterloo. On June 18th Churchill urged the British to “so bear ourselves that if the British empire and its commonwealth last for a thousand years men will say, ‘This was their finest hour’.” Winning the war against covid-19 will require the world to mobilise all its resources. One of the most powerful resources that Britain has is its memory.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/03/21/spirit-of-the-blitz

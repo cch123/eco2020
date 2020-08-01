@@ -29,3 +29,7 @@ In some places, preparation of new triage guidelines is under way. In Canada a f
 Whether on the battlefield or in a crowded ICU, humans tend to be inclined to treat others according to need and their chances of survival. That framework seems broadly morally acceptable. Even so, it will involve many heart-wrenching decisions along the way. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/briefing/2020/04/02/the-tough-ethical-decisions-doctors-face-with-covid-19

@@ -21,3 +21,7 @@ The power of trust bias appears to be strongest in times of political or economi
 It is unclear whether analysts are aware of the bias in their recommendations. They may think that a firm’s nationality does not affect their judgment, or that they are correctly accounting for the context in which a company operates. Alternatively, they might be pandering to their audience. As Greece defaulted on bonds held in spades by German entities, it would have taken a brave German analyst to endorse Greek shares. In any case, it is another reason to be cautious about sell-side analysis. ■
 
 Source: “Cultural Biases in Equity Analysis”, by V. Pursiainen, 2020
+
+## URL
+
+https://www.economist.com/graphic-detail/2020/02/15/analysts-stock-recommendations-are-coloured-by-their-cultural-biases

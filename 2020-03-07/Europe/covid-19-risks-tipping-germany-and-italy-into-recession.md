@@ -27,3 +27,7 @@ Expectations are rising that policymakers will help companies that face the most
 So far governments have shown varying degrees of enthusiasm for loosening the purse strings. Italy has promised to spend €3.6bn ($4bn) on health care and tax cuts to help companies facing the most disruption. Given the unusual circumstances, it has a dispensation from the European Commission to spend more than the EU’s fiscal rules would allow in normal times. France’s finance minister, Bruno Le Maire, is urging more spending to cushion the blow to the economy. By contrast, Germany’s government, traditionally tight-fisted, has so far done little.
 
 This could rapidly change if the virus spreads further. Analysts from Deutsche Bank predict that euro-area GDP growth could fall at an annualised rate of 4% in the second quarter if there is a more severe outbreak, and by even more in Germany. The prospect of job losses and bankruptcies might soon jolt governments into doing a lot more. ■
+
+## URL
+
+https://www.economist.com/europe/2020/03/05/covid-19-risks-tipping-germany-and-italy-into-recession

@@ -23,3 +23,7 @@ Yet the chance of that is minimal. While various gun-control bills have been int
 Over the past decade or so, as the suburbs of Washington, DC, Richmond and the Hampton Roads region have grown, the state has gradually become more Democratic-leaning than the rest of the country. At the same time, the rest of the state has become sharply more Republican-leaning. In rural parts of Virginia, gun crime is quite rare but almost everyone will know somebody who uses a gun safely.
 
 Yet as urban America has grown at the expense of its rural parts, the share of Americans who support stricter gun laws has risen from less than half in 2010 to two-thirds now. For the most part, that has not led to much tightening of gun laws. Virginia may be a hint that politics is at last catching up. Rallying in Richmond may have made gun-toting Virginians feel better, but it has made no difference to their chances of stopping the new laws.■
+
+## URL
+
+https://www.economist.com/united-states/2020/01/23/virginias-gun-rally-wont-halt-gun-control-laws

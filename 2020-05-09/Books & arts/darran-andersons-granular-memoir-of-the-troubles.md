@@ -19,3 +19,7 @@ His own (Catholic) family were stalwarts of the city. His grandfather was a smug
 The daily news was a roster of violent death. The residents of the city, mostly innocent civilians, were killed frequently and in diverse ways. Some murders were banal: you could be shot carrying your supper from the fish-and-chip shop. Others were fiendish: victims were kidnapped, then beaten and killed in pubs to entertain mobs. The presence of the army and paramilitary outfits made adolescence hazardous. Prowling around derelict buildings in a teenage posse was risky, given the proximity of trigger-happy adults. The paramilitaries’ assumption of policing duties meant Mr Anderson and his friends risked death or disability for standard youthful excesses such as throwing noisy parties.
 
 None of this was very long ago, but—two decades after the Good Friday Agreement ended the violence—it now feels remote in history. Here are lives lived under extreme stress in a divided community, where everyone was marked by poverty, superstition and bloodshed. The book is an admirable feat of recreation that yanks the past back into clear focus—and, as Brexit calls into question the border arrangements that are part of the peace deal, a timely warning. As Mr Anderson says, “we are only sheltered from tragedy and brutality by the thin ice that we call time.”
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/05/07/darran-andersons-granular-memoir-of-the-troubles

@@ -21,3 +21,7 @@ Germany has had to slaughter several sacred cows to get here. The government’s
 For now the measures will cushion the worst of the blow. But for smaller firms with thin cash reserves, the help will only go so far. Alexander Zimmer, who runs the Marienburg Monheim Manor, a conference centre near Dusseldorf, is one example. His workers will receive Kurzarbeitergeld, but he will top it up to a full salary to make life easier for them. He thinks he can do that for three months at most.
 
 At the European level there has been some cross-border solidarity: several German states have accepted patients from overloaded French and Italian hospitals. But the German government is unwilling to heed requests to back jointly guaranteed euro-zone debt (see [article](https://www.economist.com//europe/2020/03/26/how-grasshoppers-triumphed-over-ants-in-europe)). “If we’re declaring war on the virus, eurobonds should be the instrument of choice, but I’m not hopeful,” says Moritz Schularick, an economics professor at the University of Bonn. The pandemic has changed a lot in Germany. But not everything. ■
+
+## URL
+
+https://www.economist.com/europe/2020/03/26/germany-offers-cash-for-everyone

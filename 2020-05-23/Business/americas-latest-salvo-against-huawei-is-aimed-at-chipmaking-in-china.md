@@ -37,3 +37,7 @@ Another mystery relates to an announcement made just as the new American measure
 Even if that is not TSMC’s intention, workarounds are bound to proliferate. On May 18th the boss of Samsung Electronics toured his company’s new chip factory in Xian, a city in central China. The South Korean firm, which plans to invest $115bn in its chipmaking business over the next decade, has made it clear that it will not ignore China. America’s export controls may prompt it to kit out its foundries with equipment that will not fall foul of Sino-American geopolitics.
 
 Chip-industry insiders report that semiconductor equipment is already being marketed inside China as “EAR free”—meaning Chinese buyers need not worry about the “export administration regulations” that the Trump administration is using to attack Huawei. A person close to American toolmakers says some of them are thinking about moving their patents abroad to rebuild operations from scratch away from America’s jurisdiction, in order to circumvent present and future anti-Chinese restrictions. Mr Trump’s attempt to de-Sinify the semiconductor industry may do more to de-Americanise it instead. ■
+
+## URL
+
+https://www.economist.com/business/2020/05/23/americas-latest-salvo-against-huawei-is-aimed-at-chipmaking-in-china

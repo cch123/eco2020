@@ -15,3 +15,7 @@ Few members of the Parisian elite hang on to their regional accents, if they onc
 There are exceptions. Charles Pasqua, interior minister under President François Mitterrand, kept his Provençal accent. François Bayrou, a centrist politician from the south-west, occasionally lets his filter through. Jean-Michel Aphatie, a broadcaster originally from the Pyrenees, is well-known for retaining his. Given the backlash against the globalising elite, an accent can in fact hint at a precious link to le terrain, or local region, which may have helped Mr Castex—a high-flying technocrat—get the job.
 
 Parisians may now have to overcome their glottophobie, or snobbery against regional accents. A law professor in Toulouse called the fuss about Mr Castex’s “irritating condescending Parisianism”. As for Mr Castex, when asked, as he inevitably was, he feigned surprise. “I’ve got an accent?” he asked, adding: “I’m proud of my accent, I am what I am.”
+
+## URL
+
+https://www.economist.com/europe/2020/07/18/parisian-snobbery-towards-regional-french-accents-persists

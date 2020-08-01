@@ -23,3 +23,7 @@ The central government, however, would not be happy with a total ban. It accused
 But many Hong Kongers are fearful. Memories are still fresh of SARS in 2003, a disease caused by another coronavirus discovered in China. That outbreak infected about 1,750 people in Hong Kong and killed almost 300. Mrs Lam, not least, will be mindful of events that year. Public anger over the government’s perceived hesitancy in handling SARS fuelled unrest caused by a proposed national-security bill. The crisis eventually prompted the central government to replace Tung Chee-hwa, Hong Kong’s first post-colonial leader.
 
 Mrs Lam appears to have retained the central government’s backing during the past few months of turmoil on Hong Kong’s streets. But in a territory where distrust of the government runs deep, it is unlikely that her response to the new coronavirus will boost her abysmal ratings at home. ■
+
+## URL
+
+https://www.economist.com/china/2020/02/06/the-coronavirus-is-fuelling-tensions-in-protest-racked-hong-kong

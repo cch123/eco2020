@@ -23,3 +23,7 @@ But America’s contradictions are dwarfed by those of the Iraqi state, which sh
 Iran’s baleful influence is making Iraq even more dysfunctional. The government is dominated by people like Mr Amiri, who are in thrall to Tehran. They have used its backing to accumulate power, while entrenching ethnic and sectarian divisions and milking the state. Rather than curb Iranian meddling, as the people want, they invite it, ignoring the dreadful example Iran has set lording over crisis-ridden Lebanon and war-torn Syria.
 
 The Iraqi people know their country can do better. Its politicians should heed them, not the mullahs next door. Until that happens, however, Iraq will be caught in a miserable tug-of-war between America and Iran, a global superpower and a regional one. It is a struggle that, going by the evidence of this week, America will lose—and that Iraq will thus lose, too. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/01/02/america-shows-how-not-to-tame-iran

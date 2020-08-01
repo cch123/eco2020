@@ -43,3 +43,7 @@ Where does all this leave the industry? It is likely to emerge a touch more admi
 But the industry was already headed in that direction. The past few years saw a slew of mega-mergers, including CVS’s $69bn purchase of Aetna, a big insurer, and the $67bn tie-up of another big insurance firm, Cigna, with Express Scripts, a middleman which manages prescriptions for health plans. Those on America’s left who see the crisis as a chance to reform what they see as an unjust system, which charges more than other rich countries for worse health outcomes, may be disappointed. Investors who hold their nerve for the next year or two might not be. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/05/09/the-pandemic-will-recast-americas-health-care-industrial-complex

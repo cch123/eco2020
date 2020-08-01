@@ -21,3 +21,7 @@ In 2016 a crisis presented the new group with their opportunity. The club was ne
 Rick Currie, a fourth-generation member, and two other members lent it 6.5m rand ($450,000). Part of the deal was to revamp the club, which now hosts weddings, parties, opera recitals and jazz nights. Rooms are rented out on Booking.com, a travel site. Artists from across Africa have been invited to display their works. It houses a bookshop and tailor. All of these activities have helped the bottom line—the club is profitable for the first time in decades—and loosened up the straitened atmosphere.
 
 For some the Rand will always be a relic of a backward era. But for Ms Thompson it is transcending its history. Ascending the main staircase, she points to where a portrait of Queen Elizabeth used to be. In Her Majesty’s stead is a painting of Nelson Mandela. His steady gaze is a reminder that change can happen, even in the most unexpected places.
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/01/02/the-new-generation-trying-to-overhaul-a-once-racist-and-sexist-club

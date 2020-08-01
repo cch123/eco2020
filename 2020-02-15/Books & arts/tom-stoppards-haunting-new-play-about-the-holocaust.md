@@ -25,3 +25,7 @@ The ultimate, savage dramatic irony—the fate that the audience knows but the c
 In scenes that unfold and contrast like the movements of a musical score, the action shifts to the political maelstrom of 1924, after some of the characters have fought and died for Austria. By 1938 one is enrolled in a school for butlers in the hope of getting an exit visa as a domestic servant. Finally comes the coda in 1955.
 
 The combination of music and trauma is another Stoppardian motif. A spectral orchestra haunts a Soviet psychiatric institute in “Every Good Boy Deserves Favour” (1977); in “Rock ’n’ Roll” (2006), Czech rockers undermine communism. In the tragic diminuendo of “Leopoldstadt”, the symphony of the early family gatherings subsides to a bare trio, one of whom—Leo, the witty Englishman—carries a trace of the ghetto in his name. The quicksilver repartee for which Sir Tom is renowned is hushed. As he puts it, “the language becomes elementary”, then disintegrates in a way that echoes the ending of “King Lear”. At the close, a single word reverberates: Auschwitz. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/02/13/tom-stoppards-haunting-new-play-about-the-holocaust

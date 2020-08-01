@@ -37,3 +37,7 @@ As a result willing buyers are getting ever harder to find. Chevron is trying to
 Some acquirers will emerge for the same reasons others stay away: the transition to cleaner energy is uncertain and markets will remain volatile for a while. Opportunistic buyers may purchase resources as they would an option, which could pay out if demand picks up and prices rise. It is a credible strategy, but a risky one. In recent months Saudi Arabia has shown it can unleash millions of barrels of crude to win market share. “Companies will be able to find buyers for difficult resources,” says Per Magnus Nysveen of Rystad. “It’s all a question of the price.” Right now, buyers drive a hard bargain. ■
 
 For more coverage of climate change, register for The Climate Issue, our fortnightly [newsletter](https://www.economist.com//theclimateissue/), or visit our [climate-change hub](https://www.economist.com//news/2020/04/24/the-economists-coverage-of-climate-change)
+
+## URL
+
+https://www.economist.com/business/2020/07/18/oil-giants-want-to-own-only-the-cheapest-cleanest-hydrocarbons

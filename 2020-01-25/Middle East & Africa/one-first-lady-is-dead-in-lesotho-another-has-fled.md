@@ -23,3 +23,7 @@ These parties have no real ideological differences, says John Aerni-Flessner of 
 It is unclear why the actions against Mr Thabane and his third wife came when they did. It may have been the eventual product of hard work by dogged detectives. Alternatively, it may reflect how dimly the Basotho elite view the first lady. She is often compared to Grace Mugabe, another relatively young woman who married a veteran African leader and became the apparent power behind the throne.
 
 Whatever the truth, the country can ill afford chaos. Its official unemployment rate is 23.5%, one of the highest in the world. Just 20% of people in rural areas have access to electricity. A legacy of high rates of HIV/AIDS means that life expectancy is 53, compared with 60 in the late 1980s. The immediate victim of this saga was of course Lipolelo Thabane. But the people of Lesotho are victims, too. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/01/23/one-first-lady-is-dead-in-lesotho-another-has-fled

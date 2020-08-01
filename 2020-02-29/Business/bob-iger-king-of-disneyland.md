@@ -27,3 +27,7 @@ On November 12th the firm launched Disney+, a streaming service, in America and 
 Mr Iger leaves his successor a company in good shape, but also in the midst of two transformations: digital and, with 20th Century Fox to fold in, organisational. Both will soon test whether Mr Chapek has learned Mr Iger’s lessons. He certainly appears to share his mentor’s belief in the importance of brands and content, dating back to childhood visits to Walt Disney World. A big test of his respect for talented types with strong opinions will be convincing Kevin Mayer, the go-getting head of Disney’s direct-to-consumer business whom many expected to get the top job, to stay put. The even greater challenge of integrating a behemoth like 20th Century Fox, a bigger acquisition than Pixar, Marvel and Lucasfilm combined, will require a degree of adaptability that would have strained the old boss himself. As it is, Mr Iger has bowed out before his most epic plot has unspooled. ■
 
 Correction (March 2nd, 2020): A previous version of this article said "Frozen 2" was produced by Pixar. In fact it was produced by Walt Disney Animation Studios.
+
+## URL
+
+https://www.economist.com/business/2020/02/27/bob-iger-king-of-disneyland

@@ -31,3 +31,7 @@ One difficulty the commission will face is that the critics of the current dispe
 Nor do the critics agree on the prescriptions for reform. Mr Ekins wants a Constitutional Restoration Act to reverse the effects of the prorogation judgment, rename the Supreme Court and increase ministerial involvement in judicial appointments. Lord Sumption, meanwhile, essentially wants the judges to have a stiff word with themselves.
 
 The government should tread carefully. Lord Sumption is right to warn that “judges are famously resistant to having their wings clipped”. Previous attempts to reform judicial review have been dropped or scaled back. And there is no guarantee that the public will support reforms. Some might decry individual judgments, but judges are pretty popular on the whole. According to a poll by IPSOS Mori, more than four-fifths of Britons trust them to tell the truth, while less than a seventh say the same of politicians. If ministers are seen to be interfering with the independence of the judiciary, they will be judged harshly. ■
+
+## URL
+
+https://www.economist.com/britain/2020/02/20/why-pruning-the-british-judiciarys-powers-will-prove-tricky

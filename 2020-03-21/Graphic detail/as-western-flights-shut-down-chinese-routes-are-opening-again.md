@@ -19,3 +19,7 @@ There is no guarantee that people will fill these flights. The government owns s
 Airlines that serve China are displaying more caution on international routes. As Western countries tighten travel rules, OAG data show that carriers are heavily revising down their seat capacity on flights entering China in April. For months, the world worried about the risk posed by Chinese visitors. Now, it may be China’s turn to worry about travellers from abroad. ■
 
 Sources: OAG; CAPA
+
+## URL
+
+https://www.economist.com/graphic-detail/2020/03/21/as-western-flights-shut-down-chinese-routes-are-opening-again

@@ -91,3 +91,7 @@ One cannot easily shake off unwanted associations with partners picked up during
 MATTHEW KAPSTEINDirector of studies, emeritusPractical School of Advanced StudiesParis
 
 * Letters appear online and in app only
+
+## URL
+
+https://www.economist.com/letters/2020/08/01/letters-to-the-editor

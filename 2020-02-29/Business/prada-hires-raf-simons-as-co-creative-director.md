@@ -17,3 +17,7 @@ Both Ms Prada and her husband, Patrizio Bertelli, the group’s chief executive,
 A good rapport alone will not guarantee Prada’s revival. That, Mr Solca notes, requires undoing past mistakes. Some, like its drab online presence and recent uninventiveness, which Mr Simons is to tackle, are being reversed. Other errors, notably efforts to narrow its offering and to ape rivals like Hermès and Chanel, and their high prices, have yet to be.
 
 With all luxury firms infected this week by the new coronavirus, which hurts their lucrative Chinese sales, it is hard to discern what investors make of Mr Simons’s arrival. Those holding out hope of an acquisition may at least comfort themselves that, at 4% of LVMH’s market value, Prada remains a tasty morsel—which a talented haute-couturier like Mr Simons makes tastier still.
+
+## URL
+
+https://www.economist.com/business/2020/02/27/prada-hires-raf-simons-as-co-creative-director

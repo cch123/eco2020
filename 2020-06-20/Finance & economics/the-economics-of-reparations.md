@@ -23,3 +23,7 @@ Another area of disagreement concerns the form that reparations should take. Mr 
 To this end, some economists argue that reparations should fund training and education programmes, or subsidise business lending. Others point to “baby bonds”, which would be targeted at poor children and help them pay for university or to start up a business. Naomi Zewde of the City University of New York finds that baby bonds could substantially reduce racial wealth gaps among young people.
 
 Reparation payments could be spent in other ways. Money paid out to Japanese ex-internees has been used to fund academic chairs and historical archives. Reparations from Germany pay for food and medicine for Holocaust survivors. But before America can widen support for reparations, it will have to debate what works. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/06/18/the-economics-of-reparations

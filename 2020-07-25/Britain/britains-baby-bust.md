@@ -23,3 +23,7 @@ A lack of what Ferraby called “zest” could be part of it. Although the minim
 You could also blame immigrants, who supplied 29% of the new babies in England and Wales last year. As a rule, immigrants have higher birth rates than natives. But the gap is closing: since 2004 the immigrant fertility rate in England and Wales has fallen from 2.46 to 1.97. Germany’s fertility rate has held up partly because the country has taken in lots of people from Syria, where big families are normal. Britain has seen big increases in migration from low-fertility countries like Italy, Lithuania and Romania.
 
 Few places have changed as much as the East End of London. In the early 2000s, immigrant-heavy boroughs like Hackney and Tower Hamlets were Britain’s nurseries, with fertility rates above the national average. Both boroughs now have below-average fertility, and the proportion of births to immigrant mothers is falling. What starts in the East End tends to spread.■
+
+## URL
+
+https://www.economist.com/britain/2020/07/23/britains-baby-bust

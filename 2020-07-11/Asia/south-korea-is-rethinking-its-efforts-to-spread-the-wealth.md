@@ -25,3 +25,7 @@ Back in Jinju, a young mother who used to live in the older part of town says sh
 As a result, the government has begun to emphasise urban regeneration over building towns from scratch. Residents have a say in what they feel needs doing to improve their environment. In Jochiwon, a town half an hour from the government complex in Sejong, locals have planted a public garden around the old train station, installed a co-working space and convinced the city to pedestrianise some nearby streets.
 
 Planners such as Mr Kang dismiss this approach as “planting flowers and painting walls”, but residents consider the place much improved from a few years ago. “The idea is to improve quality of life while preserving the fabric of a place,” says Lee Ji-hye of the Ministry of Land, which is now located in Sejong. ■
+
+## URL
+
+https://www.economist.com/asia/2020/07/09/south-korea-is-rethinking-its-efforts-to-spread-the-wealth

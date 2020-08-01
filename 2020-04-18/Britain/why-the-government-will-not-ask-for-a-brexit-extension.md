@@ -31,3 +31,7 @@ Another idea would be to fudge the question of who has to call for an extension.
 More flexibility in Brussels might indeed help. Yet the chances of the British government being ready to accept an extension even in June still look small. And sadly, the let-out of waiting until November or December may not be available. The provision in the withdrawal treaty will expire in June. Thereafter any extension would require an entirely new treaty, which might have to be ratified by all EU parliaments, a tortuous process at best. It looks like end-June or bust—and, for now, bust is as likely an outcome as any. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/04/18/why-the-government-will-not-ask-for-a-brexit-extension

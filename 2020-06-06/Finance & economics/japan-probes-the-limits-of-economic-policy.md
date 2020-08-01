@@ -23,3 +23,7 @@ Investors’ indifference to such borrowing may come as a relief to other rich-w
 There is a risk of over-interpreting the lessons of Japan’s trailblazing, though. Debt issuance of 40% of GDP, tacitly financed, in large part, by central-bank easing, will probably influence debates around the world about the extent to which sustained borrowing can be used to fund generous social programmes. But all its stimulus notwithstanding, Japan’s economy is hardly roaring ahead. Its output per person, in real terms, is unexceptional by the standards of the rich world.
 
 In fact, Japan has been able to borrow so much, now and in more placid times, because the rest of its economy spends so little. High levels of net saving by households and firms—that is, savings less investment—are a persistent problem, and represent forgone consumption and unused economic capacity. Demography is partly to blame. People approaching retirement save more, and that surely discourages companies from making large investments at home. But corporate thrift also represents a failure of reform, and of ambition; an inability to take full advantage of the country’s capabilities and its attractiveness to would-be immigrants, for instance. Japan has shown the rest of the world a policymaking route that is seemingly sustainable. That does not mean it is worth following. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/06/04/japan-probes-the-limits-of-economic-policy

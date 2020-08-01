@@ -35,3 +35,7 @@ Art imitates life and life responds in kind. One reader tweeted the famous chart
 Dig deeper:[An interview with Yiyun Li, from our sister magazine, 1843](https://www.economist.com/https://www.1843magazine.com/design/my-life-in-six-objects/yiyun-li-my-life-in-six-objects)
 
 For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/04/25/readers-across-the-world-are-finding-solace-in-war-and-peace

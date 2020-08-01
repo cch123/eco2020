@@ -17,3 +17,7 @@ It now appears that for more than 30 years, from 1970 to 2005, Vanier had sexual
 Now that they have, it is clear that Vanier followed the lead of Fr Thomas Philippe, the man who had encouraged him to come to Trosly-Breuil and found L’Arche in the first place. Philippe, his spiritual mentor, had long indulged in “deviant theories and practices”; again, it was L’Arche itself that exposed this, more than two decades after his death in 1993. Vanier, at L’Arche, joined in.
 
 When Philippe’s perversions came to public attention in 2015, Vanier wrote to his followers about them. The revelations, he said, “hit me like a terrible storm”. He had been “totally in the dark”; he could “only weep” with the victims, and say “I do not understand.” Alas, he understood all too well.
+
+## URL
+
+https://www.economist.com/europe/2020/02/27/scandal-topples-the-reputation-of-the-founder-of-larche

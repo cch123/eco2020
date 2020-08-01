@@ -23,3 +23,7 @@ The peace agreement tries to guard against such a dismal outcome by stringing ou
 The deterrent has to be credible for this week’s agreement to have any value. Mr Trump’s last-minute disavowal of a previous version of the accord may have helped, by showing that he is not prepared to accept peace on any terms. But even on its way out, America will have to maintain an active role in Afghan politics to see the inter-Afghan talks to a fruitful end. At the moment, it is not clear who leads the government: two candidates have claimed the job of president after a disputed election. America will not only have to knock heads to get civilian politicians to present a vaguely united front, but also cajole them to give the Taliban concessions that they have been hoping to avoid.
 
 The signing of the peace accord, in short, is more of a beginning than an end. It does at least put an end in sight. But America will have to stick to its guns if it is to have any hope of persuading the Taliban to lay down theirs. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/02/27/america-and-the-taliban-have-struck-a-deal

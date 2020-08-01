@@ -27,3 +27,7 @@ The primaries are now all but over. Mr Biden emerges from the latest contests wi
 Mr Sanders’s campaign will not have been for nought; he has moved the party left on the issues he cares about most. Ultimately, though, Democrats just did not believe he could beat Donald Trump. ■
 
 Dig deeper:
+
+## URL
+
+https://www.economist.com/united-states/2020/03/12/working-class-whites-deserted-bernie-sanders-in-the-midwest

@@ -25,3 +25,7 @@ Brad Smith, Microsoft’s president, notes that fewer than 100 firms collect mor
 Indeed, like IBM before it, Microsoft has reasons other than altruism to champion open data. It makes most of its money not by extracting value from hoarded data through targeted advertising, like Alphabet or Facebook, but by selling services and software to help others process digital information. The more data that are shared, the better for Microsoft. Mr Smith argues that this makes his firm the perfect campaigner for open data. “If you want to know who to trust”, he says, “you should look at the company’s business model.”
 
 That may be so. But this also points to a bigger hurdle. Even if technical and legal barriers to sharing could be removed, many data-rich firms will be reluctant to loosen their lucrative grip on user information. Mr Zuckerberg’s declarations notwithstanding, don’t expect Facebook to follow Microsoft’s lead any time soon.■
+
+## URL
+
+https://www.economist.com/business/2020/04/23/microsoft-embraces-big-data

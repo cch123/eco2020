@@ -33,3 +33,7 @@ Better-off parents can buy help from such services as Fudaojun, an app which off
 Because the epidemic broke out during the spring-festival holidays, easy-going students “still feel they’re on winter break, they haven’t quite shifted their mindset,” worries the chemistry teacher. Nonetheless, one of her tutorial students, a boy with bad school grades, is experiencing a useful culture shock. “Now his mum is home full time, she doesn’t allow him to go out and has set very specific times for study and homework. He’s already doing much better.” That is both a cheering tale and worrying. If good schools promote equal opportunities, closed schools play up accidents of birth. In exam-obsessed China covid-19 is going to break a lot of young dreams. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/china/2020/03/21/how-the-virus-kills-dreams-for-chinese-teens

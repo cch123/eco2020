@@ -49,3 +49,7 @@ Jair Bolsonaro, Brazil’s president, said he had recovered from covid-19, after
 Robert O’Brien, Donald Trump’s national security adviser, tested positive for the virus, the most senior member of the administration to do so.
 
 Mr Trump in effect cancelled the bit of the Republican convention that was to be held in Jacksonville because of Florida’s surging infections. See [article](https://www.economist.com//united-states/2020/07/26/donald-trump-cancels-his-florida-celebration).
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/07/30/politics-this-week

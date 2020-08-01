@@ -31,3 +31,7 @@ Could this year’s dramatic events help their plans? By early July, all polls p
 Mr Biden may have some leeway. In a tighter race he might have felt obliged to pick a running-mate from the Midwest, just as Mr Trump did with Mike Pence, a former governor of Indiana. Candidates could have included Gretchen Whitmer, governor of Michigan, Tammy Duckworth, a senator from Illinois, or Tammy Baldwin, one from Wisconsin. The region might yet gain its own champion in the White House.■
 
 Dig deeper:Sign up and listen to Checks and Balance, our [weekly newsletter](https://www.economist.com//checksandbalance/) and [podcast](https://www.economist.com//podcasts/2020/07/17/checks-and-balance-our-weekly-podcast-on-american-politics) on American politics, and explore our [presidential election forecast](https://www.economist.com/https://projects.economist.com/us-2020-forecast/president)
+
+## URL
+
+https://www.economist.com/special-report/2020/07/23/americas-divided-middle

@@ -27,3 +27,7 @@ The Footnotes Analyst, a blog on accountancy, uses Amazon’s accounts to highli
 The cashflow statement only gets you so far. As do reported earnings, or the balance-sheet. You need all three to understand a company, says Nathan Cockrell, of Lazard Asset Management, just as you need three co-ordinates (longitude, latitude and altitude) to know where anything is with precision. To say that cashflow never lies is itself a lie. After all, when your friend with the bulging money clip keeps boasting about how flush he is, you start to wonder if he might actually be skint.
 
 *[Footnotesanalyst.com/free-cash-flow-amazon](https://www.economist.com/https://www.footnotesanalyst.com/free-cash-flow-amazon/)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/02/20/the-appeal-and-the-flaws-of-cash-based-accounting

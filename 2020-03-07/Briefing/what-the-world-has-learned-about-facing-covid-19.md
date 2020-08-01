@@ -65,3 +65,7 @@ The second big problem is that, because pandemic preparedness is not generally b
 At the patient level, the costs of medical testing and treatment could act as a hindrance to effective containment. There are already widely circulating reports of worried patients showing up to emergency rooms for testing who are leaving with medical bills for thousands of dollars. More than a quarter of the 28m uninsured Americans say they have put off medical care they cannot afford. The Trump administration is said to be considering routing disaster-relief funds towards reimbursing the uninsured, which would ease things. The implications for the un- and under-insured of the $8.3bn “supplemental appropriation” passed by the House on March 4th are not clear.
 
 Not all countries can be as well prepared as Singapore: rich enough to pledge S$5.6bn ($4bn)—as much as Italy—to blunt the disease’s economic impacts, well organised enough to enforce pretty strict measures and shaken by SARS into taking such things seriously. Yet Lee Hsien Loong, the prime minister, still worried in February that the costs would eclipse those of SARS. Lawrence Wong, co-chair of the ministerial task force on covid-19, warns that “all it takes is one incident, one event, and there is a sharp spike in cases and sustained transmission.” Everyone has things to learn. Some have more than others. ■
+
+## URL
+
+https://www.economist.com/briefing/2020/03/05/what-the-world-has-learned-about-facing-covid-19

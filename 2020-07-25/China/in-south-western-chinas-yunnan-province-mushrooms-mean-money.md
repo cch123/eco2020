@@ -19,3 +19,7 @@ At the market where Mr Wu and his wife hawk the morning’s finds, 170 tonnes of
 Some are lethal. A type identified in 2012 is called “little white” because of its resemblance to an innocuous oyster mushroom. Mr Yang’s institute named it as the culprit behind Yunnan Unknown Cause Sudden Death Syndrome, which for decades had haunted villagers during the monsoon. Little whites now feature on billboards at wet markets in the region that show how to discern the delectable from the deadly (and warn against the mind-bending, which are popular).
 
 Another danger lurks. Mycologists fret that harvesting is damaging the mushrooms’ habitat. Some hunters unearth them too young, says Yang Hongying, an old-timer on the hills. She finds only a tenth of what she recalls gathering as a child. But back then there “wasn’t really a market for mushrooms”, says Ms Yang. Now the villagers’ everyday meals—nutty summer truffle shaved raw over eggs, or yellow jizong stir-fried with salted ham—are considered truly to die for. ■
+
+## URL
+
+https://www.economist.com/china/2020/07/23/in-south-western-chinas-yunnan-province-mushrooms-mean-money

@@ -23,3 +23,7 @@ England’s tatty criminal courts do not look ready for the influx. Despite the 
 Prisons are even less prepared. The remaining warders are having a tough time keeping order. Last year, the prisons watchdog found “too many” jails were “plagued by drugs, violence [and] appalling living conditions”. The number of assaults by prisoners on staff and other inmates has more than doubled in the past five years, as has the number attempting to harm themselves. On January 9th a terrorist attack took place inside a prison, when a convicted jihadist is alleged to have attacked a guard. All of this has happened while prisoner numbers have been falling; they are down by 6% from their peak in 2011. If charging rates had not dropped, “the prison system would have broken,” says the ex-minister. Mr Johnson’s pledge to beef up sentences for violent prisoners and terrorists will only add to the strain.
 
 Mr Johnson might simply bung the courts and prisons some more cash. He has promised a commission to improve the effectiveness of the system; it seems sure to recommend more investment. But that would take time: cuts are quicker than finding and training recruits to replace lost expertise. In the meantime, more cops may not mean more justice. ■
+
+## URL
+
+https://www.economist.com/britain/2020/01/16/britains-20000-new-cops-wont-get-the-justice-ministry-celebrating

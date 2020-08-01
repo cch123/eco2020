@@ -31,3 +31,7 @@ The FAO’s Keith Cressman hopes they will stop in Sudan, which is generally fai
 After a slow start, governments are reacting. More than half a million hectares in east Africa have been sprayed with pesticides, despite delays in the arrival of experts from abroad and shipments of chemicals because of covid-19. Many of the region’s most valuable crops have been protected. But pastoralists reliant on grasslands have not been so lucky. Foreign donors have pitched in. The World Bank will lend $500m to countries in east Africa and the Middle East, but it is not nearly enough. Ethiopia has received less than two-thirds of the $77m it asked donors for.
 
 The best way to beat the bugs is to track them constantly, then spray them before they can breed again. Prevention is also much more cost-effective than controlling an outbreak once it has taken hold. For example, in 2003 it cost $570m to eliminate swarms of locusts in the Sahel, a sum that could have paid for 170 years of prevention, says the FAO. And that is before taking into account the damage to crops and pastures that the locusts caused. But early action is not happening. Last year the FAO repeatedly and unsuccessfully asked for pre-emptive help for Yemen and Ethiopia. The FAO has since appealed for $23m for surveillance and prevention in west Africa. So far nothing has been pledged. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/07/02/locusts-have-hit-east-africa-hard

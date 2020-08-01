@@ -23,3 +23,7 @@ Since June 2017 the CAC has stopped providing a breakdown of reported content by
 Why do citizens play along? Some people are genuinely worried about vulgarity, pseudoscience and the peddling of unsafe products. An official survey last year of more than 200,000 netizens found that dishonest advertising, rumour and pornography were the most frequently encountered types of problematic content. But some netizens are simply anxious to impress. In 2015 the Communist Youth League began requiring each university to organise a group of volunteer censors. Would-be members of the league, or the party, have an incentive to sign up. Weibo, a Twitter-like service, has a team of 2,000 volunteer “supervisors” (in addition to its army of in-house censors). They can earn rewards for reporting harmful material. In October they found 3.8m examples.
 
 The party’s efforts may be working. In 2019 Freedom House, an American think-tank, lowered China’s internet-freedom score to “10% free”, down from 15% when Mr Xi took power in 2012. Controls keep tightening. Information-technology rules, which took effect on December 1st, oblige new subscribers to mobile-phone services not only to prove their identities, as has long been required, but also to have their faces scanned. That, presumably, will make it easier for police to catch the people who post the bad stuff online. ■
+
+## URL
+
+https://www.economist.com/china/2020/01/18/some-people-in-china-help-the-party-police-the-internet

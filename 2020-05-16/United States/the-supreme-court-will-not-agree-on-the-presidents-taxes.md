@@ -23,3 +23,7 @@ Justice Elena Kagan sought to elicit more persuasive responses from Mr Letter an
 When rulings arrive this summer, Mr Trump may win a majority in Trump v Mazars—keeping his finances out of the newspapers, for now. But he seems likely to lose Trump v Vance, the clash over the New York subpoena (if so, only the grand jury would be privy to Mr Trump’s records while he remains in office). In Vance, Jay Sekulow, Mr Trump’s lawyer, offered a royalist vision of the presidency shielded by “absolute immunity” from criminal investigation. But he struggled to explain how, in 1997, the court could unanimously order Bill Clinton to appear for depositions in a sexual-harassment suit, whereas a grand jury probing Mr Trump’s alleged payoffs to paramours was constitutionally barred from peeking at the president’s papers.
 
 Noel Francisco, the solicitor-general, defended Mr Trump on somewhat less outlandish grounds. Carey Dunne, ably representing Mr Vance, argued that the investigation was “well within the scope of legal process permitted by this court” since 1807. If the justices side with Mr Trump, Mr Dunne warned, presidents may wind up unchecked and “above the law”. ■
+
+## URL
+
+https://www.economist.com/united-states/2020/05/14/the-supreme-court-will-not-agree-on-the-presidents-taxes

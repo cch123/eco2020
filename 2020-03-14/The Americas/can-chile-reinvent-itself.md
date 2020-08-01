@@ -73,3 +73,7 @@ Will that be enough? Much will depend on whether the constitutional convention t
 As with the student rebellion in France in May 1968, Chile’s events have shaken a country that seemed to be progressing, placing both the survival of its president and its political stability in doubt. Mr Piñera says he has been reading a new biography of General Charles de Gaulle, who weathered the 1968 protests as France’s president but bowed out shortly afterwards. Mr Piñera insists he will soldier on to the end of his term in 2022.
 
 “We don’t yet know whether this crisis will be a way of improving Chile or whether it will get worse,” he admits. The country lacks a recent populist tradition, but some of the elements are there. “The people, united, functions without parties”, proclaims a large graffito. The next few months will determine whether Chile seeks a saviour or follows a path of improving its institutions. Time alone will not heal: there is no going back to the country of October 5th.■
+
+## URL
+
+https://www.economist.com/the-americas/2020/03/12/can-chile-reinvent-itself

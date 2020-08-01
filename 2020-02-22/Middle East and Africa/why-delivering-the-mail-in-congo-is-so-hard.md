@@ -21,3 +21,7 @@ Rural Catholic missionaries sometimes help, picking up bundles of post every wee
 In its heyday, 100 years ago, the postal service was one of the most desirable employers in Congo. “Back then, everyone wanted to work here,” says Mr Molisho. Today its glory is as faded as the red paint on the walls of the Goma branch, where staff have not been paid for a year. They make ends meet by leasing adjacent land to small businesses.
 
 Still, they are proud. “A letter is a letter, nothing can replace the post,” says Martin Wema, the immaculately dressed finance director. Before leaving, your correspondent is asked to leaf through a dusty pile of letters addressed to aid workers in Goma, in case she happens to know any of them. After spotting two familiar names on envelopes dating back a year she is sent away with a handful.
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/02/20/why-delivering-the-mail-in-congo-is-so-hard

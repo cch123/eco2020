@@ -49,3 +49,7 @@ Reports from Nigeria, Somalia and Tanzania of a sharp rise in unexplained deaths
 New Zealand’s prime minister, Jacinda Ardern, said border restrictions would remain for “some time to come”. But she would like a quarantine-free travel “bubble” with Australia.
 
 In Germany shops were allowed to reopen, with social distancing. Football matches will resume in the Bundesliga, but without spectators.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/05/07/politics-this-week

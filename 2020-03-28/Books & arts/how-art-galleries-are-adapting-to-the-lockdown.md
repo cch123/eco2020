@@ -21,3 +21,7 @@ Besides depth and texture, there are aspects of gallery-hopping that a website i
 There are ways to compensate for these inevitable deficiencies. As they shut their physical doors, some of the world’s finest galleries and museums are offering whizzy interactive visits, 360-degree videos and walk-around tours of their collections, all without queues and high ticket prices. One of the best is laid on by the Rijksmuseum in Amsterdam; its tour allows visitors to view its Vermeers and Rembrandts, including the magnificent “Night Watch”, far more closely than would normally be possible. Another standout offering is from the Museu de Arte de São Paulo, which has an even broader collection. On its virtual platform, its paintings, spanning 700 years, appear to be hanging in an open-plan space, seemingly suspended on glass panels, or “crystal easels” as the museum calls them, ideal for close-up inspection.
 
 But such wizardry may be beyond most galleries and artists. For Art Basel, Tracey Emin, a British artist at White Cube, exhibited a heartfelt demand spelled out in icy-blue neon: “Move me” (pictured on previous page). At a distance, that is hard. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/03/26/how-art-galleries-are-adapting-to-the-lockdown

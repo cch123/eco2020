@@ -29,3 +29,7 @@ Then came covid-19, which has spread across several vessels. Tight quarters make
 Mr Modly’s own brief tenure only came about because of the last mess. In November his predecessor, Richard Spencer, was fired after resisting what he called Mr Trump’s “shocking and unprecedented intervention” in the case of a Navy Seal who had been accused of war crimes. In a parting letter to the president, Mr Spencer said that this meddling had put at risk “good order and discipline”. The navy now looks more rudderless than ever.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/united-states/2020/04/08/covid-19-takes-out-an-aircraft-carrier-and-a-navy-secretary

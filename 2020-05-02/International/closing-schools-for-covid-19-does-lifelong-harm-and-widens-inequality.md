@@ -49,3 +49,7 @@ As well as letting final-year secondary-school students facing exams resume clas
 Around the world many parents will be hoping their children’s schools can also safely reopen soon. Some children may have mixed feelings about swapping extra Xbox time for geography lessons. Tough luck: holidays have to end sometime. For the future well-being of whippersnappers scooting around the streets of Amsterdam, it is good news that Dutch primary schools will partially reopen on May 11th.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/international/2020/04/30/closing-schools-for-covid-19-does-lifelong-harm-and-widens-inequality

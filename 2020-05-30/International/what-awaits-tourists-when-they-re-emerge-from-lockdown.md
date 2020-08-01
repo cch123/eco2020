@@ -73,3 +73,7 @@ Giant cruise-liners carrying thousands of often-old people will take longer to r
 Much attention has been lavished in recent years on the problems of overtourism for a handful of superstar cities such as Venice and Barcelona. But most destinations have found a happy balance between tourism and normal life. It is those places that will feel its absence hardest. As Mr Buttigieg says, speaking from a deserted Malta, “Nobody realised how important tourism was until it was gone.” ■
 
 Clarification: The figure showing the share of Airbnb reservations which are domestic bookings was updated after the publication of this article. 
+
+## URL
+
+https://www.economist.com/international/2020/05/30/what-awaits-tourists-when-they-re-emerge-from-lockdown

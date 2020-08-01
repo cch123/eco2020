@@ -33,3 +33,7 @@ Mr Trump’s opponent, Joe Biden, supports re-entering the JCPOA (if Iran starts
 That could augur well for Iran’s hardliners, who have already taken control of two branches of government. Parliament’s new speaker is a former Revolutionary Guard commander, and the chief justice was Mr Rouhani’s opponent in the past election. In a speech to Iran’s new parliament on July 5th, Muhammad Javad Zarif, the pragmatic foreign minister, was heckled. Several MPs chanted “death to a liar”.
 
 When Mr Trump left the JCPOA, critics feared he would fail to replace it. If he leaves office in six months they will probably be proved right. He will have achieved little except raising tensions to their highest level since the 1980s. Mr Biden may find Iran in little mood for concessions. And he will have other problems to occupy his time. That leaves a return to covert war—and more booms in the night. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/07/09/what-to-make-of-a-series-of-odd-explosions-in-iran

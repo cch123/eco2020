@@ -35,3 +35,7 @@ That is all too clear when looking from the ground up. Art Cullen, a newspaper e
 He blames weak regulators and politicians, who let a few firms dominate. “It unquestionably would have been more secure if there were lots of independent hog farmers and meatpackers,” he says. Instead he watches a “brutal” system, where bottlenecks in one or two big companies’ supply chains are putting workers at risk, threatening shortages and forcing the culling of millions of healthy animals. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/united-states/2020/05/02/in-america-the-virus-threatens-a-meat-industry-that-is-too-concentrated

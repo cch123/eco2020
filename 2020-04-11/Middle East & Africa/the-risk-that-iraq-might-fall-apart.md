@@ -31,3 +31,7 @@ President Donald Trump says Iran “will pay a very heavy price” if its proxie
 With no leader and outside powers preoccupied with their own interests, it is not clear who will hold Iraq together. Grand Ayatollah Ali al-Sistani, Iraq’s spiritual arbiter, has receded from politics. The Kurds, who have sought independence before, may do so again if the central government cannot produce the cash promised to their region. Sunni leaders are discussing carving out their own state, too. And the protests are likely to resume once the outbreak subsides. Politicians and analysts differ over how Iraq might collapse, but many think it is only a matter of time. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/04/11/the-risk-that-iraq-might-fall-apart

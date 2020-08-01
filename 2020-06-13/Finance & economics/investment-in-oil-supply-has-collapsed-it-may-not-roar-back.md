@@ -37,3 +37,7 @@ This bodes well for OPEC and its allies, which have been battered in the past de
 The desire to chasten American frackers remains, though. OPEC controls about 70% of the world’s oil reserves, more than its 40% market share would suggest, points out Martijn Rats of Morgan Stanley, a bank. If the world’s appetite for oil shrinks due to changing habits, cleaner technology or greener regulations, countries with vast reserves risk having to leave oil below ground. “OPEC will defend its market share more firmly in the future,” predicts Mr Rats. Even better, then, if state-owned firms can depend on their rivals’ paltry investment to limit supply for them. ■
 
 Sign up to our fortnightly climate-change newsletter [here](https://www.economist.com//theclimateissue/)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/06/13/investment-in-oil-supply-has-collapsed-it-may-not-roar-back

@@ -23,3 +23,7 @@ Inevitably, that will contract, if only because Ujjivan’s success attracts com
 India’s government has created identification cards and payment networks that make opening accounts easier. Ujjivan is in the midst of a serious effort to make that digitised network work for the illiterate—a large if unquantified proportion of its customers—in ways that both broaden the bank’s appeal and reduce its costs. Already, its app’s voice-recognition feature can understand and speak in nine languages, which will soon increase to 14 and then 22. This will work in tandem with a picture-based interface that allows customers to conduct electronic transactions without needing to read.
 
 Ujjivan’s success stands in stark contrast to much of the rest of India’s financial system, which is in a slow-boil crisis, with answers being demanded from large banks, regulators and politicians. But the rise of an innovative lender engaged with poorer customers suggests there are grounds for optimism, albeit arising from the country’s slums, not its leaders. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/02/06/ujjivan-is-a-rare-bright-spot-in-indian-finance

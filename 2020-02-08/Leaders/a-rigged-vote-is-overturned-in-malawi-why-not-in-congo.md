@@ -23,3 +23,7 @@ Granted, the new president has released political prisoners and allowed more ope
 Not only is Mr Tshisekedi illegitimate, he is also weak. The backroom deal that brought him to office left Mr Kabila pulling many of the strings. The two men’s supporters squabble energetically over the spoils of power but barely bother governing. None of this is a recipe for stability, as the bloodshed in the east and protests in Congolese cities attest.
 
 Reforming Congo will take decades, and is a job for the Congolese themselves. However, outsiders can help—with trade, know-how and a willingness to call a coup a coup. If a future American administration wants long-term influence in Congo or anywhere else in Africa, it should be more engaged and less cynical. Those who bless stolen elections share responsibility for what the thieves do with power. Those who press for the rule of law are not always disappointed—as Malawi shows.■
+
+## URL
+
+https://www.economist.com/leaders/2020/02/06/a-rigged-vote-is-overturned-in-malawi-why-not-in-congo

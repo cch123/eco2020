@@ -37,3 +37,7 @@ What ByteDance fears most is a forced sale of 90-100% of global TikTok to Americ
 Letting go of some or all of TikTok would be a financial blow to ByteDance. Without TikTok America its potential value would fall from $500bn to perhaps $300bn, reckons a big investor. Losing TikTok globally would be more painful still. A split could also stunt the future development of the app, whose popularity has been fuelled by ByteDance’s algorithms, honed in developing Douyin and Toutiao.
 
 TikTok’s woes offer others an opening. In India, where 200m users lost access to it overnight, a local rival, Roposo, got 22m sign-ups in 48 hours. In America Facebook is about to launch Instagram “Reels”, a TikTok clone, and YouTube will soon roll out “Shorts”. The White House may yet think twice about banning an app so many Americans are hooked on. Its corporate structure may change. But Ms Pappas is resolute: “TikTok is not going away.” ■
+
+## URL
+
+https://www.economist.com/business/2020/07/25/tiktoks-chinese-parent-is-scrambling-to-hang-on-to-its-hit-app

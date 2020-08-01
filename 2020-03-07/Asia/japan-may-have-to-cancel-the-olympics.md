@@ -27,3 +27,7 @@ The government claims that Japan will return to normal in April. That seems impl
 Much more rides on the Olympic Games in Tokyo this summer. Mr Abe intends them to foster the patriotism whose absence among ordinary Japanese he laments. He wants the games to make Japan seem open, global and even multicultural. And, though vastly over budget, they are to crown the prime minister’s seven-year rule.
 
 To cancel the games would generate not only disappointment among ordinary Japanese but anger at the wasted expense they have already had to bear. But a pandemic would take the decision out of his hands—not least, says Nakano Koichi of Sophia University, because the Olympic village would be “a cruise ship on land”. Bet on a postponement of the games at the very least, and on a long delay before the prime minister’s popularity shines again.
+
+## URL
+
+https://www.economist.com/asia/2020/03/07/japan-may-have-to-cancel-the-olympics

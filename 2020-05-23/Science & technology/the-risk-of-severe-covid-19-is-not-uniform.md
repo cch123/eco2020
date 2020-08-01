@@ -39,3 +39,7 @@ Communication is also important. Translating information on SARS-CoV-2 preventio
 Certain jobs, too, carry a particular risk of infection. Some of the biggest outbreaks in America, Germany and Denmark have been in slaughterhouses, where crowded working conditions, and also possibly the cold (for there is evidence that SARS-CoV-2 survives better at low temperatures), make the spread of the virus particularly easy. Nor does it help that workers in these places are often migrants who live in crowded housing. Some other jobs, too—especially in the service sector of the economy—have a similar double-whammy: a greater risk for SARS-CoV-2 infection and a high share of older workers (see chart 2). In Britain jobs that fall into this category include security guards, plumbers and bricklayers. Employers need to follow stricter measures to shield such workers from infection. These could include reassigning the vulnerable to less risky tasks, stricter hygiene, rules that ensure physical distancing in the workplace and routine checks for symptoms.
 
 All of these fine-grained prevention strategies would depend on the continued collection of data about the prevalence of infection in various groups. Increased testing capacity and better tests for current and past infection are making that easier. If these can be rolled out quickly and reliably, the next waves of covid-19 cases should be smaller and less damaging to social life and national economies. ■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/05/21/the-risk-of-severe-covid-19-is-not-uniform

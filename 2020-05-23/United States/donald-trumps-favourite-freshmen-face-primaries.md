@@ -25,3 +25,7 @@ Antone Melton-Meaux, a 47-year-old lawyer and the most serious of her primary op
 Ms Tlaib is probably the most endangered of the four. In 2018 she defeated Brenda Jones, the Detroit city-council president, by one point in a six-way primary that split the (majority) African-American vote. That contest also featured Bill Wild, the mayor of Westland, a mostly white city in the district’s western edge, who will not be running. Ms Jones is the sole opponent this time. If she can consolidate the African-American vote and capture a critical mass of Mr Wild’s voters, she will win.
 
 Yet should Mr Trump lose in November, Squad members who return to Congress may get less attention. They would no longer have a president who boosts their profiles by insulting them. They would be outspoken progressives in an age of resurgent centrism. Where’s the fun in that?■
+
+## URL
+
+https://www.economist.com/united-states/2020/05/21/donald-trumps-favourite-freshmen-face-primaries

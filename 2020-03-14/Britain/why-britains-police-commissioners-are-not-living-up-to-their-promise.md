@@ -19,3 +19,7 @@ Two other problems have emerged. The first concerns what they do. Tackling organ
 The second problem is who they are. Mr Cameron billed the role as a “big job for a big local figure”. He wanted bosses and “pioneers of all sorts” to become PCCs, as well as politicians. Yet only three of the current crop of 40 stood as independents. Most of the rest are stalwarts of Britain’s two dominant political parties. A salary ranging from £65,000 ($84,000) to £100,000 makes for a plum job for those who have spent years delivering party leaflets. The plans they have produced are stuffed with “value-free rhetorical cliches” not analysis of local crime patterns, says a study by John McDaniel of Wolverhampton University. Voters do not appear to find them inspiring. Only 27% of eligible electors cast a ballot in 2016.
 
 The government has promised more power for PCCs. That might help. Elected mayors in London and Manchester act as PCCs, but with more power to co-ordinate initiatives with councils and local health services. A handful of powerful regional mayors might be more effective than diffuse PCCs. And a beefier role might attract a higher calibre of candidate. Two of the current big-city mayors are former ministers; a third is an ex-boss of John Lewis, a big retailer. The answer to a flawed reform may be further reform. ■
+
+## URL
+
+https://www.economist.com/britain/2020/03/12/why-britains-police-commissioners-are-not-living-up-to-their-promise

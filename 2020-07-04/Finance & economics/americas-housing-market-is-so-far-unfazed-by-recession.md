@@ -21,3 +21,7 @@ Cash handouts from the government have also been generous—so much so that, in 
 What happens to the housing market next depends on the evolution of the covid-19 outbreak and, in turn, that of the overall economy. Yet when the fog does eventually clear, a period of even stronger price growth might not be a surprise. A raft of academic evidence draws a strong link between loose monetary policy and bubbly housing markets. Other researchers noted before the pandemic that the supply of new housing in America was failing to keep up with demand—owing in part to increasingly complex land regulations and reduced competition in house-building. Social-distancing requirements are also likely to hold construction back in the coming months. With supply constrained and demand boosted, house prices seem to rest on solid foundations. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/07/02/americas-housing-market-is-so-far-unfazed-by-recession

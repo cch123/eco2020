@@ -25,3 +25,7 @@ Mr Johnson thinks the EU caves in only under the pressure of time. He believes t
 Privately, the government believes that covid-19 has reduced the political risk of leaving without a deal, since its costs will be hidden by the greater damage from the pandemic. Yet this argument is not only improperly self-serving but also fallacious. Covid-19 has severely affected non-tradables, such as restaurants and bars, whereas Brexit without a trade deal would hit big exporters such as carmakers (goodbye, Nissan?) as well as creating visible chaos in Dover.
 
 A sensible, responsible government would treat an extension of the transition not as a political weapon but as an option contract, for use only if a deal cannot be struck in time. If Mr Johnson continues to reject it out of hand he will show his government to be, on the matter of Brexit, neither sensible nor responsible.■
+
+## URL
+
+https://www.economist.com/leaders/2020/06/11/boris-johnsons-government-should-prolong-the-brexit-transition

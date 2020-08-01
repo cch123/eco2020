@@ -23,3 +23,7 @@ Many of the residents of these areas suffer from the kind of ill health that mak
 Allowing life to return to normal in other parts of the country would be folly, warns the national medical association. The whole of Australia should “rethink the pace of easing”, it advises. Other jurisdictions seem to agree. The Australian Capital Territory paused plans to unwind its restrictions after it uncovered a handful of cases linked to the outbreak in Melbourne. Several more infections have trickled across the border from Victoria into New South Wales. It has now been shut for the first time since the flu pandemic of 1918-19. Soldiers and police have been called in to enforce the closure. They will use drones to hunt for scofflaws trying to sneak across via bush tracks or along rivers. All this is especially galling given Victoria’s long-standing rivalry with New South Wales. No need to patrol the border, sniffs an MP from Victoria, the coffee in Melbourne is far better than anything on the other side. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/asia/2020/07/09/australias-second-city-faces-a-new-wave-of-contagion

@@ -21,3 +21,7 @@ Ms Brooks first heard about the Sarajevo Haggadah when, as they hunkered in a ho
 The leather-bound artefact was long considered too delicate to be exhibited; over more than 100 years, it was on public view for just four hours in total. But since 2018, with the aid of French funding, it has been displayed for two hours a week in a climate-controlled, theft-proof room in the cavernous museum. Now Danis Tanovic, a Bosnian director who won an Oscar in 2001 for “No Man’s Land”, is set to make a film adaptation of Ms Brooks’s novel. Mr Tanovic was in Sarajevo during the siege and joined the fire brigade’s effort to salvage cultural treasures.
 
 For him, the book symbolises “fighting, kindness from some, and persecution”; but, like the flight from Egypt that it commemorates, it also tells a “story of survival”. Filming has been delayed by the pandemic; even so, it is clear that there are more chapters to be written in the Haggadah’s chronicle of exile, heroism and endurance. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/04/16/why-is-this-haggadah-different-from-all-others

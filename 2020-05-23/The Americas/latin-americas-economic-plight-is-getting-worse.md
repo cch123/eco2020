@@ -25,3 +25,7 @@ Only the financially strongest countries, such as Peru and Chile, have public sa
 Mr Cárdenas suggests that the IMF should set up a fund that would issue bonds for rich-country central banks to buy, with the money being used to help Latin America weather the crisis. That may be a tall political order. But the alternative may be years of economic prostration and political instability.
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/the-americas/2020/05/23/latin-americas-economic-plight-is-getting-worse

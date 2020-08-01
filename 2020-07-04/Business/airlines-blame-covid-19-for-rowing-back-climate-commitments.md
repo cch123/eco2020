@@ -29,3 +29,7 @@ Industry executives claim that the original baseline would have imposed cripplin
 Forgoing those savings would have been a small price to pay for burnishing airlines’ reputations as they seek billions in government bail-outs. Accusations of greenwashing will make calls to attach potentially much costlier green strings to the rescue packages grow louder. ■
 
 For more coverage of climate change, register for The Climate Issue, our fortnightly [newsletter](https://www.economist.com//theclimateissue/), or visit our [climate-change hub](https://www.economist.com//news/2020/04/24/the-economists-coverage-of-climate-change)
+
+## URL
+
+https://www.economist.com/business/2020/07/04/airlines-blame-covid-19-for-rowing-back-climate-commitments

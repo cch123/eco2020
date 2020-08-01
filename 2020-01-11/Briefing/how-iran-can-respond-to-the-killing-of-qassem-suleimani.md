@@ -85,3 +85,7 @@ In whose hands the diplomatic leverage—or the actual bomb—might end up is no
 With his general’s blood on American hands it will be harder than ever for Mr Khamenei to cross the Rubicon and accept the offer to talk that Mr Trump made last year and reiterated on January 8th. But he has no other plausible way of getting relief from the unrelenting sanctions which set off the savagely repressed unrest last November, and which America has now tightened further. The erosion of America’s influence in Iraq, while appealing, will do little to ease those pressures. So he can but wait for this November’s American elections with a hopeful heart—aware as he does so that the sense of common cause brought out by General Suleimani’s funeral, though mostly genuine, was neither universal nor necessarily long-lasting.
 
 When America shot down an Iranian airliner in 1988, having helped Saddam Hussein repel Iranian forces on the Faw peninsula in the south-east of Iraq, Iran swore revenge. Just two months later Khomeini accepted what he called “the poisoned chalice” of the ceasefire that ended eight years of war with Iraq. Iran’s best bet now might be to reach for such a chalice again, using the bargaining power offered by its regional power and centrifuges to get the bitter brew sweetened. But a guard corps brought closer to power, and made thirsty for revenge, by the loss of its brightest star is unlikely to see things that way. ■
+
+## URL
+
+https://www.economist.com/briefing/2020/01/09/how-iran-can-respond-to-the-killing-of-qassem-suleimani

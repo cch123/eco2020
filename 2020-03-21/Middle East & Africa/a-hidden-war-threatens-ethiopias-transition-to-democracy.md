@@ -33,3 +33,7 @@ What is not in doubt is that there has also been political repression. “The op
 All this comes months before what is supposed to be Ethiopia’s first free and fair election (unless it is derailed by covid-19). In Wollega and Guji the vote will probably be postponed on security grounds. This will help the government, which is unpopular in these places.
 
 The government insists it remains open to negotiation with the rebels. “It is good for people to solve their issues through discussion, meetings and conversations,” Abiy told lawmakers last month. But it seems uninterested in further peace talks and acts as if the conflict can be resolved through force. The rebels, meanwhile, continue to denounce the Ethiopian state as a colonial oppressor which can never be trusted. And so the carnage continues. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/03/19/a-hidden-war-threatens-ethiopias-transition-to-democracy

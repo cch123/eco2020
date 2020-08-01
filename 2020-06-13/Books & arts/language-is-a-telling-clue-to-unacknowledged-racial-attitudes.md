@@ -25,3 +25,7 @@ When racialisation happens, words do not change their dictionary definition; rat
 The difference between “racist” and “racialised” helps explain why Americans often talk fruitlessly past each other when discussing words such as “thug”. With overt racism waning, it has become painfully obvious to some people—though not all—that the submerged part of the iceberg, implicit racial beliefs and associations, plays a bigger role than was once realised. Overcoming those is particularly difficult because of their semi-conscious nature.
 
 A long struggle has made “racist” one of the worst things you can be. That counts as a great success, but the corollary is that the remaining problems are hard to talk about. Some fear being branded racist just for trying. Seeing the bias in even innocently intended language is a first step towards understanding that there is still work to do.
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/06/12/language-is-a-telling-clue-to-unacknowledged-racial-attitudes

@@ -27,3 +27,7 @@ Cold commercial logic sent Japanese coffin-makers to Zhuangzhai. Shandong offere
 Mr Li is unfazed by talk of the rich world decoupling from China. Some Japanese clients did try sourcing coffins in Vietnam and Indonesia, he concedes. But they found that workers in South-East Asia lacked “discipline”, so returned to Shandong. His corner of China has paotong trees, skilled labour and trusted suppliers. “Price-wise, talent-wise, this place is pretty far ahead,” he says.
 
 Demography is a bigger worry. It is not just Zhuangzhai’s workers who are ageing. With more than one in four Japanese over 65, coffin sales are brisk. But clients from Japan remind Mr Li that Japan’s population is shrinking fast. “They told me I’ve got about 30 years in this line of business,” he says. China’s hyper-local version of globalisation may prove surprisingly resilient in the face of decoupling. But some storms will overcome the deepest roots. ■
+
+## URL
+
+https://www.economist.com/china/2020/05/14/a-small-town-in-china-makes-half-of-japans-coffins

@@ -31,3 +31,7 @@ The Federal Reserve extended its “Main Street” lending-support programme for
 Financial regulators in China took control of nine insurance companies, trust firms and stockbrokers, in a crackdown on alleged corporate wrongdoing and concern about risky bets amid a rally in China’s stockmarkets. Several of those seized, including Huaxia, a life insurer, are linked to Xiao Jianhua, a Chinese billionaire who was abducted from Hong Kong in 2017. It is thought he is awaiting trial in China.
 
 Walmart’s nationwide policy requiring customers to wear face masks came into force. Most abided by the rules, though there were reports of a few differences of opinion being aired among patrons in some stores. Many of America’s retailers now insist on face coverings. Shoppers in England also debated the merits of masks, which are mandatory in shops from July 24th.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/07/23/business-this-week

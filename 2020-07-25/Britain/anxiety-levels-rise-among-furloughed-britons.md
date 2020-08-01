@@ -25,3 +25,7 @@ Several of Dr Martin’s patients were initially happy to be paid not to work. B
 Millions are waiting to discover their fate, unsure whether to put their feet up or spend their days scrolling through job sites. “Some days I think it’s sunny, I don’t have to work, I can go to the park and read,” says a furloughed Londoner in the music industry. “Other days I think I won’t have a job in the future. How do I keep my career going when my industry might not exist in the same way?” ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/07/23/anxiety-levels-rise-among-furloughed-britons

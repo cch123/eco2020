@@ -29,3 +29,7 @@ There are other clouds on the horizon. Even before the covid-19 outbreak crashed
 One question is how large British startups can become. In “The Social Network”, a film depicting the rise of Facebook, Sean Parker, Facebook’s first president, tells the site’s founder, Mark Zuckerberg, that “a million dollars isn’t cool—you know what’s cool?” The answer is a billion dollars. That was ten years ago. Today, quite a lot of British unicorns are billion-dollar cool. But America’s and China’s home-grown champions are bigger still (AirBnB, for instance, was valued at $35bn in 2019; Didi Chuxing, a Chinese ride-hailing service, hit $62bn in the same year).
 
 Britain has a long way to go before it can boast of any startups approaching that size. But the past five years have demonstrated that the country can indeed breed unicorns. The next challenge is to turn them into dragons—and to keep other dragons from gobbling them all up.■
+
+## URL
+
+https://www.economist.com/britain/2020/03/12/britain-is-ahead-of-many-of-its-competitors-in-technology-startups

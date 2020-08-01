@@ -39,3 +39,7 @@ Even the Trumpist candidate, the disgraced former president’s eldest son Donal
 In a televised debate the younger Trump launched a bizarre sales pitch for “using capitalism to make these huge mirrors that are called aerosols for whitening the climate”. Rightly fearing he had lost his audience, he then ended with a bump: “But, whatever, it’s all green shit!” Mercilessly, Mr Hilton’s former employer, Fox News, cut away to show Mr Hogan, at the adjacent podium, disdainfully shaking his head. “I like you, Don,” he said. “But I’m green and you’re full of it.” It became his unofficial campaign catchphrase. ■
 
 For more coverage of climate change, register for The Climate Issue, our fortnightly [newsletter](https://www.economist.com//theclimateissue/), or visit our [climate-change hub](https://www.economist.com//news/2020/04/24/the-economists-coverage-of-climate-change)
+
+## URL
+
+https://www.economist.com/the-world-if/2020/07/04/what-if-the-republicans-pivoted-on-climate

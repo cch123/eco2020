@@ -25,3 +25,7 @@ Vitol, an even bigger trader, keeps a low profile and appears more cautious. It 
 There is good reason for caution. The crisis has brought home the danger of collapse among indebted counterparties. Even before American oil prices plunged below zero on April 20th, Hin Leong, Singapore’s largest home-grown oil-trading company, declared insolvency. In the aftermath the big traders quickly reassured banks that they were in no danger. Trafigura, with “adjusted” debt of about $5.3bn, sent a letter to banks explaining the market moves and saying that it had been able to minimise risks before April 20th.
 
 Bigger challenges lie ahead. Large European producers, such as BP, Shell and Total, have become more aggressive traders in their own right, increasingly clawing back the ground they once surrendered. Middle Eastern oil titans, such as Saudi Aramco, are also trying to muscle in. This could squeeze traders’ margins in the long run. They also face heightened scrutiny over transparency, governance and climate change. Energy has always been a murky business; the pressure is mounting to make it less so. One day Trafigura and the others may be forced to move away from the black stuff. When precisely that will be is anyone’s guess. Timing, yet again, will be everything.■
+
+## URL
+
+https://www.economist.com/business/2020/05/07/the-buoyant-oil-traders

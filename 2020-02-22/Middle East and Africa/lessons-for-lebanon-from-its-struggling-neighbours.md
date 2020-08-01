@@ -29,3 +29,7 @@ Decades of under-investment mean that workers struggle to compete. The World Eco
 Arab governments hobble one another, too. Countries in the region export just 16% of their goods to each other, compared with 52% among Asian states and 63% in the European Union. A recent report by the WEF and Majid al-Futtaim, a Dubai-based retail giant, wagered that cutting tariffs and other trade barriers would unlock $130bn in new business for firms. “There are huge opportunities for growth in the region, but it requires a proper integration,” says Alain Bejjani, the firm’s CEO.
 
 If Lebanon strikes its own IMF deal, there is plenty of fat to trim. The state wastes billions on electricity subsidies and make-work jobs. A currency peg, in effect since the 1990s, is costly and makes exports artificially expensive. But austerity will hit hard in a country where one-third of the population is poor. And it will not fix the underlying problems that impoverished Lebanon in the first place. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/02/20/lessons-for-lebanon-from-its-struggling-neighbours

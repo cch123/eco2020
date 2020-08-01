@@ -23,3 +23,7 @@ In the Netherlands Jan Pieterszoon Coen, who massacred thousands of Indonesians,
 Yet it matters not just that the undeserving are taken off their pedestals, but also how they go. The indignation of those who brought down Colston may have been righteous, but they were wrong to topple him themselves. Statues should be taken down, just as they ought to be put up, by social consensus; and even if the authorities dither for years—as Bristol’s council has done over the erection of a plaque explaining Colston’s sins—that is no excuse for the mob to take charge.
 
 Prosecuting the topplers would not, however, be a good use of the state’s resources; nor should Colston be reinstated. He has now been dredged out of the river, and the council is planning to put him in a museum. Other countries with difficult histories have found more imaginative solutions. Hungary put its collection of communist-era statues in the rather weird Memento Park, for day-trippers to wonder at. Paraguay crushed Alfredo Stroessner with a vast block of concrete. And Mumbai, with a pleasing touch, consigned Edward VII to the zoo. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/06/11/how-to-handle-racists-statues

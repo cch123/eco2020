@@ -19,3 +19,7 @@ It has put its money where its mouth is. Before the pandemic the government had 
 Such help is gratefully received. Farming in the city can be expensive. Property and labour are costly. To maximise space, farmers stack plants. Some go inside, which means losing a free and plentiful input—the sun—but allows greater control of the environment. “Every room is its own climate,” says Sven Yeo of Archisen, an indoor farm that tinkers with temperature, humidity, carbon dioxide, light, water and nutrients to produce tastier lettuce, sorrel and chard. The technology does not come cheap, but it does allow for more frequent and bountiful harvests. Mr Swan says his farm yields 178 times more lettuce per square metre than a traditional one. It started production in 2015 and broke even for the first time in 2018. His labours are bearing fruit. ■
 
 Correction (July 6th 2020): An earlier version of this story said that 720 square kilometres of land had been set aside for farms.
+
+## URL
+
+https://www.economist.com/asia/2020/07/04/singapore-looks-to-the-skies-for-fields

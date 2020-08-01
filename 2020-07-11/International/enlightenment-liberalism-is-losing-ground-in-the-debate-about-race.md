@@ -75,3 +75,7 @@ This would be a huge programme that might involve curbing housing segregation, m
 The problem is thorniest for libertarians who resist redistributive egalitarian schemes, regardless of the intention behind them. But even some of the most committed, such as Robert Nozick, concede that their elevation of property rights makes sense only if the initial conditions under which property was acquired were just. Countries in which the legacy of racial oppression lives on in the distribution of wealth patently fail to meet that test. Putting right that failure, Mr Mills says, “should be supported in principle by liberals across the spectrum”.
 
 Plenty of people are trying to work out what that entails, but the practicalities are formidable. Having failed adequately to grapple with racial issues, liberals find themselves in a political moment that demands an agenda which is both practically and politically feasible. The risk is that they do not find one. ■
+
+## URL
+
+https://www.economist.com/international/2020/07/09/enlightenment-liberalism-is-losing-ground-in-the-debate-about-race

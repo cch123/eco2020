@@ -27,3 +27,7 @@ Some opposition leaders want Mr Museveni to declare a state of emergency and pos
 The most radical opposition figures, such as Mr Besigye, say that Mr Museveni has such a tight grip that an election alone will never unseat him. Instead, they see the polls as the catalyst for a political crisis, or even a popular uprising. The deployment of armed militia to enforce the covid-19 curfew looks to some like a dress rehearsal for suppressing post-election protests. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/07/23/can-uganda-have-a-fair-election-amid-covid-19

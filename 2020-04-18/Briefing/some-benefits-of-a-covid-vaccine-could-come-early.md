@@ -25,3 +25,7 @@ Regeneron is now making a pair of antibodies that target the SARS-CoV-2 spike pr
 Correction (April 25th 2020): An earlier version of this article said that remdesivir was designed to block the Ebola vaccine’s reproduction. We meant the Ebola virus’s reproduction. Sorry.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/briefing/2020/04/18/some-benefits-of-a-covid-vaccine-could-come-early

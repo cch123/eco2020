@@ -23,3 +23,7 @@ While Congress fails to act decisively, fighting the crisis has been left to the
 The Fed’s loans, however, are both inadequate and undesirable. They are inadequate because bans on borrowing will restrict their uptake. They are undesirable because central banks are meant to be guardians of the financial system, not vehicles for disaster relief. The appeal of using the Fed is that it can act fast and keep costs off the government’s balance-sheet. Its $500bn of loans is underwritten by just $35bn provided by Congress to protect it against defaults. But the Fed cannot be indemnified against political risks. Its claims on state and local taxpayers will compete with those of pensioners and public-sector workers—an awkward position for an institution tasked with remaining above the fray. And the Fed has been insufficiently clear that its actions are in response to an extraordinary health emergency, rather than the new normal for fighting economic crises. That raises the risk of moral hazard.
 
 Better for Congress to stump up. A bipartisan proposal to give a $500bn grant to states and local governments lies before lawmakers. Mr McConnell and his colleagues should pass it.■
+
+## URL
+
+https://www.economist.com/leaders/2020/04/30/congress-not-the-fed-should-bail-out-americas-state-and-local-governments

@@ -29,3 +29,7 @@ After a lifetime entangled with Russia, Mr Reddaway has a wealth of revealing an
 Above all, like the people he defended, he never lost heart. Whereas most Western experts were sure the Soviet Union would endure, as far back as 1962 Mr Reddaway was writing: “Ultimately, I’m afraid, I see a new revolution as the only outcome—in 30 years’ time?” Most of the dissidents he befriended shared his view that the Soviet Union was unreformable unless the communist system was junked. In 1970 a Dutch publishing house set up with Mr Reddaway’s help issued Andrei Amalrik’s “Will the Soviet Union survive until 1984?”
 
 Yet this book evinces no sense of triumphalism. How could it? Mr Putin has spent most of his life ensuring that dissent against the state be suppressed. Still, Mr Reddaway’s memoir makes clear that the dissidents’ cause will live on. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/04/08/a-chronicle-of-heroism-in-the-soviet-union

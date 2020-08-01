@@ -43,3 +43,7 @@ What will the young left in Zacatecas do? Mr Saldivar’s granddaughter, Italia,
 And yet Mr Ureño covets a slice of such a life. He is studying business administration in Jerez, and wants to go to California when he finishes. He wants a garage for his car and a house like his neighbour’s. “It’s sad” that so many kids want to leave, his mother explains. “But it’s what we do.”
 
 Some communities may just disappear. Back near Los Haro, Ms Nava parks her truck at Los Huertas, the village where her late husband grew up. It has been entirely abandoned since the 1980s. Trees grow where bedrooms once stood. Bees fly about a hive in an old living room. Ms Nava bends down and plucks a fork hidden beneath the weeds. “Stainless steel,” she says. “From the United States.” ■
+
+## URL
+
+https://www.economist.com/the-americas/2020/07/23/mexicos-emigrants-in-america-are-ageing

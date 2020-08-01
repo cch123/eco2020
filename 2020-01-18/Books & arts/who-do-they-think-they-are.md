@@ -25,3 +25,7 @@ The “missing word”, Mr Baron says, is “they”. People have been using it 
 But all that comes as a different singular they has come to the fore: to refer to a known individual who identifies as non-binary, as growing numbers do, in sentences such as “Alex forgot their keys.” This is the increasingly widespread singular they that was recently recognised by the American Dialect Society as its Word of the Decade. 
 
 The two usages are quite different. The one in “Everyone has their own opinion” is actually quite conservative, given its age, its literary pedigree and the fact that most people already say it in casual speech. They in “Alex forgot their keys” is, by contrast, innovative and jarring to many; for the uninitiated, it takes practice to use it consistently. And though both feminists and transgender activists have embraced the singular they, they have done so for different reasons, and other issues still divide them. A rare moment of liberation through grammar risks being caught up in wider, rancorous culture wars.
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/01/16/who-do-they-think-they-are

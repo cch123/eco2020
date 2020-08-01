@@ -55,3 +55,7 @@ China knows flexibility serves its image best. It offers development money and d
 In January 2017 a train quietly pulled into the sidings on the outskirts of London. Its containers had started their journey just 12 days earlier in eastern China, less than half the time than had they gone by sea, at less than half the cost by air, travelling through Khorgos. The route is rapidly becoming more popular. HP, an American computer giant, has moved its computer factories to the inland Chinese city of Chongqing, building its business model on rail delivery via Khorgos to the Netherlands.
 
 In part because of HP’s move, trains from China to Europe have risen from three a week in 2013 to over 25. An industrial zone and distribution centre is being built in Khorgos with $600m of investment from the provincial government of Jiangsu province 3,700km to the east. The hope is to attract businesses that serve the through-trade—packaging and putting price tags on retail products, for instance—and light manufacturing migrating from higher-cost China. Coming the other way, BMW sends several trains a week to China, its biggest market. Yet, for all this new connectivity, much still can, and does, go wrong. ■
+
+## URL
+
+https://www.economist.com/special-report/2020/02/06/china-wants-to-put-itself-back-at-the-centre-of-the-world

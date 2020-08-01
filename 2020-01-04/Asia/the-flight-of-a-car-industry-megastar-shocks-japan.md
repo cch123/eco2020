@@ -25,3 +25,7 @@ In the statement released after his arrival in Lebanon, Mr Ghosn referred to “
 Mr Ghosn will find it tough rebuilding his career. In September he, Mr Kelly and Nissan settled with America’s Securities and Exchange Commission over charges of filing fraudulent records of Mr Ghosn’s pay and retirement benefits. Mr Ghosn paid a $1m penalty and accepted a ten-year ban on serving as an officer or director of a public firm. He, Mr Kelly and Nissan neither admitted nor denied wrongdoing.
 
 However, few expect Mr Ghosn, a lover of the limelight who celebrated his second marriage and his new wife’s 50th birthday with a Marie Antoinette-themed party at Versailles, to fade into obscurity. “I can now finally communicate freely with the media, and look forward to starting next week,” he said in his statement. He will have many questions to answer. ■
+
+## URL
+
+https://www.economist.com/asia/2020/01/02/the-flight-of-a-car-industry-megastar-shocks-japan

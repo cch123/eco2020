@@ -17,3 +17,7 @@ Taxing property should reap big benefits, but it is hard to value buildings when
 It has since been digitised with the help of the International Growth Centre and International Centre for Tax and Development (ICTD). Researchers used satellite photos to count properties and sent staff traipsing around the city with smartphones, plugging in data such as the size of the roof and whether a house was made of brick or tin. A points-based system lets them value properties consistently. Under the old method “they were cheating us,” says Victor Obofor-Smith, who owns a tin shack but has been paying the same in tax as his neighbour in a three-storey brick edifice. In Kampala, Uganda’s capital, the city council is also revaluing property.
 
 Systems can be too simple. For instance, some cities in Congo, Eritrea and Burundi tax a wooden hut at the same rate as a brick one with similar dimensions. Freetown’s new system has found a “sweet spot”, says the ICTD’s Wilson Prichard, as it is simple to administer, efficient and fair. Still, citizens need convincing that they should pay taxes in cities with crummy services. Counting houses is only half the battle. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/06/18/a-mayor-is-reforming-sierra-leones-rotten-property-tax

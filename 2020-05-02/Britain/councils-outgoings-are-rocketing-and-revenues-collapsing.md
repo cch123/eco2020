@@ -27,3 +27,7 @@ Since 2013 councils have been allowed to keep at least half the business-propert
 By law, councils must run balanced budgets. Those that do not must declare de facto bankruptcy and freeze non-essential spending. That is rare in normal times but risks becoming more common without more support from Mr Jenrick. It may be the fate of Bradford Council, which forecasts a £60m deficit this year, of which only half will be covered by the bailout. “We are really, really stuck,” says Chris Chapman, the finance director. “What services can we feasibly cut?” ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/05/02/councils-outgoings-are-rocketing-and-revenues-collapsing

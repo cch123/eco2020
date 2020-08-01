@@ -21,3 +21,7 @@ Unsaturated bonds are more reactive, and it is here that ozonolysis does its wor
 And that, in practice, is what Dr Hinners and Dr Lee found. They asked three volunteers to leave their prints on a number of glass slides. They then tested some of those slides immediately, using a sensitive analytical technique called matrix-assisted laser desorption/ionisation (MALDI) to produce a spectrum of the prints’ chemical contents. The other slides they left exposed to the air for between one and seven days, testing them at regular intervals.
 
 As they suspected, as time progressed the ratio of saturated to unsaturated triglycerides in a sample rose, and so did the quantities of two characteristic products of ozonolysis—aldehydes and Criegee ions. On the basis of what is, admittedly, a small sample, Dr Hinners and Dr Lee therefore think that MALDI analysis of fingerprint residues should prove accurate enough to date to within 24 hours when a fingerprint under a week old was made—and thus whether it is associated with a crime temporally, as well as spatially.■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/01/30/fingerprints-can-now-be-dated-to-within-a-day-of-when-they-were-made

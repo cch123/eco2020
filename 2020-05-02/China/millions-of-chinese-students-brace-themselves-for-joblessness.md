@@ -39,3 +39,7 @@ The government is right to worry about social stability. Well-educated young peo
 Graduating at a time of such economic hardship could be more than just a temporary setback. Studies show that it can have “a huge impact” on lifetime earnings, says Li Jin of the University of Hong Kong. That is because many will go into a different line of work from the one they had hoped to pursue, and for lower pay. In normal times, according to Zhaopin, a third of Chinese graduates aim to earn between 6,000 and 8,000 yuan a month in their first jobs, but fewer than one in five end up doing so. Their disappointment will be far greater this year—and may last well beyond it. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/china/2020/05/02/millions-of-chinese-students-brace-themselves-for-joblessness

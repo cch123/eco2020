@@ -25,3 +25,7 @@ Actors are accustomed to finding ways to pay the bills in fallow patches between
 The crisis will, at least, spur innovation. Some theatres are planning to experiment with streaming productions online. Papatango, a charity that supports new writers, is soliciting monologues penned in self-isolation. And Fra Fee, an actor who usually performs to sell-out crowds at venues like the National Theatre, says he will post videos of Irish songs online to pep others up. “We’ve got a whole load of people sitting in their bedrooms going nuts,” says Ben Todd, executive director of the Arcola. “We will figure out a way to be useful.” ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter), or visit [our coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/03/21/the-closure-of-londons-theatres

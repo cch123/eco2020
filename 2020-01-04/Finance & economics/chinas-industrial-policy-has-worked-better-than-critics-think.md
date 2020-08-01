@@ -35,3 +35,7 @@ Mr Liu’s model does not indicate when subsidies are too high, nor does it set 
 After conducting extensive case studies of the vehicle and renewable-energy sectors, among others, the bank ascribes some of the blame to Chinese industrial policies that undermine fair competition. It argues that rather than targeting support at specific firms, China should shift to more market-oriented policies. Even-handed regulations and incentives, which treat state firms no differently from private companies or foreign investors, would do more than lavish subsidies to promote entrepreneurship.
 
 Such a shift would have the convenient side-effect of dealing with America’s concern that China’s mammoth subsidies undercut competitors globally. Industrial policy is always contentious. But it now looks like that rarest of things, an issue on which Chinese and American interests are aligned. Whether their leaders see it that way is another matter. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/01/02/chinas-industrial-policy-has-worked-better-than-critics-think

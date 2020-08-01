@@ -21,3 +21,7 @@ The expulsion of the Wall Street Journal reporters putatively came as punishment
 China hawks have long advocated retaliation against state media operating in America. Some have suggested the administration’s actions do not go far enough in sending a message to Beijing. President Donald Trump could threaten to blunt China’s propaganda drive in America more directly, by taking aim at the broadcasts of CGTN, or at the practice of paying for China Daily’s reports to be published as inserts into American newspapers. That would accord with the Trump administration’s argument that the Chinese employees affected are not “journalists” but propaganda workers, like those for Pravda and Tass.
 
 Press-freedom advocates have argued that instead America should set an example, as an open society. Raising the cost to China, albeit marginally, of treating foreign journalists poorly, may seem like a good idea. The problem for America is that, when playing this game, the side that cares about press freedom is at a disadvantage to the one that does not. On March 3rd Hua Chunying, spokeswoman for the foreign ministry, intimated in a tweet that “reciprocity” would mean tougher visa restrictions for America’s media, perhaps including single-entry visas that force journalists to reapply for entry every time they leave the country. “Now the US kicked off the game,” she wrote, “let’s play.”■
+
+## URL
+
+https://www.economist.com/united-states/2020/03/07/the-white-house-kicks-out-journalists-working-for-chinas-state-media

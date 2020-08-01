@@ -21,3 +21,7 @@ For $10 visitors are allowed to partake in Mr Zinho’s Fa ceremony. After payme
 Despite all this, Ouidah has not been spared the effects of covid-19. Residents are told to stay indoors as much as possible. Gatherings are restricted. Tourism has dwindled. But diviners are busier than ever, as locals seek their help with the pandemic. “There is a greater awareness of human fragility,” says Geoffrey Aidjinou, a guide. He explains that the Vodun god of wind is especially popular at this time. “Only it can speak to the invisible enemy in the air.”■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/05/09/voodoo-priests-recommend-voodoo-to-stop-covid-19

@@ -81,3 +81,7 @@ A more complacent view exists in the EU’s northern capitals, particularly in B
 According to an old joke, economists have predicted nine of the past five recessions. Those predicting the demise of the EU may look similarly foolish. The bloc, its currency and its institutions are so central to much of European political life that unpicking them all would require a level of wanton destruction that not even the EU’s harshest critics have advocated. However after a decade of crises survivor bias afflicts the EU’s supporters and fresh thinking is urgently needed. An uncomfortable journey is justified if the destination is worthwhile. But without a clear answer to the question of what Europe stands for, the next decade or so will resemble a rather pointless ride. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/briefing/2020/05/14/the-covid-19-pandemic-puts-pressure-on-the-eu

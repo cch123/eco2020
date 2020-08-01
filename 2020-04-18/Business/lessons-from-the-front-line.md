@@ -31,3 +31,7 @@ Will any of these crisis lessons outlive the pandemic? Certainly, some working p
 The bigger change may be to produce a cohort of managers who are more risk-averse. Until a vaccine is developed and distributed economic conditions may be volatile. Countries could ease restrictions, then reimpose them. Like the cinema audience at a horror movie, executives scarred by covid-19 may forever be bracing for the next jump scare.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/04/18/lessons-from-the-front-line

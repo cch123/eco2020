@@ -23,3 +23,7 @@ Most South Koreans seem to have accepted that the massacre was just that. A majo
 Right-wingers seem to be taking note. The leadership of the main opposition party, possibly chastened by a resounding defeat in April’s legislative election, displayed rare contrition about the massacre at this year’s commemoration. They said they were sorry that some of their party’s members had “denigrated” the victims. Some commentators noted approvingly that the right-wing party leader sang loudly along to “March for the beloved”, the unofficial anthem of South Korea’s democracy movement. Members who peddle conspiracy theories about the uprising have been disciplined; one was expelled.
 
 Many in Gwangju, however, will need more convincing. “They killed hundreds of students right in front of our eyes and we couldn’t even talk about it for years, or we would get kidnapped and disappear,” laments an elderly lady who introduces herself as Ms Ji. She says that things have improved since the advent of democracy, but she still does not trust politicians. “They only take our taxes but they don’t really care about us.” ■
+
+## URL
+
+https://www.economist.com/asia/2020/06/04/south-korea-debates-a-massacre-of-40-years-ago

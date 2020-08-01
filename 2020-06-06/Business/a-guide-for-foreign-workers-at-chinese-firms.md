@@ -29,3 +29,7 @@ A further cultural difference is in the style of presentations. Chinese executiv
 Despite all these differences, the trend for foreign workers to join Chinese companies is likely to continue, even if businesses from the People’s Republic are barred from making acquisitions abroad. Many foreigners want to work for a Chinese firm because they think it will enable them to develop skills and knowledge that would help their careers.
 
 Furthermore, Chinese companies want to employ foreign staff to deal with overseas clients, because of the cultural sensitivity and linguistic ability they bring. A number of Chinese companies now provide “onboarding” programmes to help overseas recruits adjust. To update Horace Greeley’s 19th-century motto, the advice for the future might be “Go east, young man”.
+
+## URL
+
+https://www.economist.com/business/2020/06/04/a-guide-for-foreign-workers-at-chinese-firms

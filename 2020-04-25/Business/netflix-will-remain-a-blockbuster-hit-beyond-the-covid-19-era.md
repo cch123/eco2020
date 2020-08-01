@@ -27,3 +27,7 @@ Yet this ignores the devastating impact of the pandemic on media conglomerates i
 That sets the stage for an endgame to the “streaming wars” that will unfold sooner than anyone might have imagined. Rather than starving Netflix of content, some of its rivals will struggle to survive. Their debt-laden parents may be forced once more to license shows to Netflix. Disney, its most formidable nemesis, will lack the financial muscle to kill it off completely. Amazon and Apple, whose streaming services have nothing like the depth of Netflix or Disney+, have bags of cash to shake up the contest. Meanwhile, Netflix will try to entrench its global lead, not least by banging out more international smash hits like “Money Heist”. When El Profesor declares, prophetically, “We are the Resistance”, he could be channelling Mr Hastings. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/04/23/netflix-will-remain-a-blockbuster-hit-beyond-the-covid-19-era

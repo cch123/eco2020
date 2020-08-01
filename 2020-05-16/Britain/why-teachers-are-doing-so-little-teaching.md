@@ -33,3 +33,7 @@ But the most striking difference is between state schools and private schools. T
 It isn’t just the private schools. Those who charge for lessons, from music teachers to karate instructors, have often found ways of carrying on more-or-less as normal. Anouska Leckie, a Kumon tutor in Cardiff, switched from in-person group classes to live video lessons a week after the lockdown. She lost several clients at first: many of the children she instructs are from working-class immigrant families, who ran short of money. But some are returning, saying that their children are not being taught nearly enough by their schools. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/05/16/why-teachers-are-doing-so-little-teaching

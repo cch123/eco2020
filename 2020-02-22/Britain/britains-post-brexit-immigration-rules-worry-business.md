@@ -25,3 +25,7 @@ Britain’s farmers are concerned for next year’s harvest. Although the govern
 But the impact of the changes will spread beyond low-skilled, low-productivity sectors. Manufacturing bosses in the north and the Midlands, where skilled technicians often earn below the £25,600 threshold, worry that the new rules will make it easier for firms in the south-east, where technicians tend to earn over the threshold, to expand. That is hardly what a government committed to “levelling up” wants to see. Businesses also worry about the costs of becoming registered as employment-sponsors, which firms that only employ EU workers are not currently required to do.
 
 Under the new system an A-level qualified entrant with good English and job offer at £21,000 would score only 50 points, but if their role was on the SOL they would hit the required 70. So many businesses are now likely to start lobbying the MAC to get themselves covered. A liberalising measure risks generating more bureaucracy. ■
+
+## URL
+
+https://www.economist.com/britain/2020/02/20/britains-post-brexit-immigration-rules-worry-business

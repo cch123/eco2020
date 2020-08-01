@@ -25,3 +25,7 @@ Howard Wasserman, a law professor at Florida International University, agrees wi
 Mila Sohoni, a professor at the University of San Diego law school, speculates that Justice Gorsuch’s missive may be designed as a warning to judges “to be more cautious in issuing such broad injunctions” and an invitation to the Department of Justice to keep up its “aggressive” efforts against injunctive overreach.
 
 But contrary to Justice Gorsuch’s claim that the use of broad injunctions “has proliferated only in very recent years”, Ms Sohoni’s forthcoming article in the Harvard Law Review traces the practice back to the 19th century. It is not “some late-blooming efflorescence of post-Warren Court judicial hubris”, she writes. There is a debate to be had regarding when universal injunctions are appropriate, says Amanda Frost, a law professor at American University, but it is “almost laughable” to argue that they are unconstitutional. Ms Frost says administrative law explicitly allows judges to invalidate regulations “as to everyone, not just the plaintiff”.■
+
+## URL
+
+https://www.economist.com/united-states/2020/01/30/the-supreme-court-votes-to-allow-a-green-card-wealth-test

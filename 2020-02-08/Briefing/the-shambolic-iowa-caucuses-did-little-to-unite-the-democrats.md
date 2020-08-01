@@ -75,3 +75,7 @@ But as everyone else was flying around, the person who may have done best out of
 On Monday around 80 of Mr Trump’s surrogates—cabinet members, supportive legislators and his family—fanned out across Iowa where, unsurprisingly for a sitting president with no serious challengers, he won 97% of the vote. The next day the president delivered a jubilant state-of-the-union address. And in Wednesday’s vote on impeachment Republican senators backed him even more resoundingly than Iowa caucusers had. The Republicans will go into the campaign united. The Democrats have a lot of flights to take before they can promise the same. ■
 
 Dig deeper:Sign up and listen to Checks and Balance, our new [newsletter](https://www.economist.com//checksandbalance/) and [podcast](https://www.economist.com//podcasts/2020/04/24/checks-and-balance-our-weekly-podcast-on-american-politics) on American politics
+
+## URL
+
+https://www.economist.com/briefing/2020/02/08/the-shambolic-iowa-caucuses-did-little-to-unite-the-democrats

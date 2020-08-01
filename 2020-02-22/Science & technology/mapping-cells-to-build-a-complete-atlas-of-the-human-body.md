@@ -27,3 +27,7 @@ Kerstin Meyer of the Wellcome Sanger Institute in Britain, meanwhile, trailed th
 The thymus, located just above the lungs, is where T-lymphocytes develop. By looking at 25 thymuses from embryos, fetuses, children and adults, Dr Meyer and her colleagues have constructed a map that stretches through time, as well as space. Their transcriptome sequencing distinguishes more than 40 cell types, and they can follow the ebb and flow of these at different stages of life.
 
 The thymus is, admittedly, but a small continent in the world that is a human body. Mapping it is, however, an important advance for the cellular cartographers. Bigger organs will follow soon. The result will be the most granular view yet obtained of human anatomy.■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/02/22/mapping-cells-to-build-a-complete-atlas-of-the-human-body

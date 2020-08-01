@@ -47,3 +47,7 @@ For officials the most worrying trend is a sharp rise in joblessness. The unempl
 More help may be on the way. The government has given provinces more leeway to raise funds for such things as infrastructure and buildings. Spending of this kind has been a cornerstone of China’s past stimulus packages. But now it is proceeding gingerly. It fears that unleashing more of it could push up debt levels, which are already dangerously high. Most crucially, for all their talk about restarting the economy, China’s leaders are wary of letting growth rip until they are certain that a boom in business will not also bring a resurgence of covid-19. “We want to reduce risk to the absolute minimum and will not count the cost of that,” says Mr Gu. The economic rebound can wait. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/china/2020/03/26/china-goes-back-to-work

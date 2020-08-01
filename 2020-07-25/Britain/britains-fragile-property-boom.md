@@ -23,3 +23,7 @@ Consider a couple hoping to buy a house for £220,000, the average price paid by
 Nationwide, one the country’s largest lenders, announced the return of 90% LTV-ratio loans on July 16th but said they would be subject to “enhanced lending criteria”. In plainer English, higher incomes and better credit ratings will be required. Housing-market analysts do not expect such loans to be widely available. Neal Hudson of BuiltPlace, a consultancy, reckons that although low borrowing costs and forbearance from lenders will support prices in the near term, constrained mortgage availablilty will slow the market overall. He warns that 2021 looks set to be a tougher year for the market than 2020.
 
 Much will depend on what happens to the job market as the government’s furlough scheme tapers off. Rising unemployment, a possible no-deal Brexit and the end of the stamp-duty cut all suggest there will be a difficult start to the new year. The housing market’s immunity to covid-19 is unlikely to be permanent. ■
+
+## URL
+
+https://www.economist.com/britain/2020/07/23/britains-fragile-property-boom

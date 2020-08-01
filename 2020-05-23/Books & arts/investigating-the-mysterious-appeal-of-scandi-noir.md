@@ -21,3 +21,7 @@ She peppers the book with observations on Scandinavian life and writing, from th
 This is a rich subject. But instead of probing deeply into the Scandinavian psyche, Ms Lesser moves on to discuss the weather. She might profitably have woven the two halves of her book together, introducing authors as she wanders around their countries and riffing off the people and places she encounters. The travelogue is needlessly written in the third person (“the first time she sees Stockholm, she feels she is coming home”). Her chatty voice sometimes slips into banality.
 
 Still, Ms Lesser is an engaging and amiable guide to a cultural phenomenon that has swept much of the planet. She visits Ystad, the pleasant but unremarkable Swedish town which, in Mankell’s stories, is home to Wallander. Its streets are thronged with tourists following in the detective’s footsteps. Here, perhaps, is the answer to the mystery of Scandi noir’s appeal: Wallander, like Hole and Salander, offers safe passage into a bleak and dangerous world, one which readers in other countries may enter and leave at their pleasure. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/05/21/investigating-the-mysterious-appeal-of-scandi-noir

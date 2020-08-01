@@ -23,3 +23,7 @@ The Spanish empire looked stronger than it was. Zama’s salary goes unpaid for 
 An early admirer said of “Zama” that it is “a deliberate refutation of the very idea of the historical novel”. In place of baroque magic realism, Di Benedetto writes in sharp, modern, deceptively simple prose. Without proposing to be so, he was a bridge between Jorge Luis Borges, with his mental labyrinths, and Roberto Bolaño, a peripatetic Chilean whose work explored both the condition of the writer and chronic violence in Latin America. Bolaño recognised a debt, paying fictional homage to Di Benedetto in a short story. More recognition has come with a film of “Zama” in 2017 directed by Lucrecia Martel, an Argentine.
 
 In an extraordinary twist, Di Benedetto’s own life came to resemble that of Zama’s final years. He was politically moderate. Yet hours after the coup in Argentina in 1976 he was arrested, jailed, tortured and subjected to four mock executions. Released after 18 months, he went into exile in Spain. “I’ll never be sure whether I was jailed for something I published,” he said later. “The uncertainty is the worst of the tortures.” That, too, is a statement that many Latin Americans might identify with.
+
+## URL
+
+https://www.economist.com/the-americas/2020/05/07/antonio-di-benedetto-and-the-latin-american-condition

@@ -29,3 +29,7 @@ So the American strike was a welcome distraction. On December 30th a coalition o
 Iran would be happy to see America go, but Iraq has plenty to lose. Its army remains weak, demoralised and corrupt. Shia militias and Kurdish peshmerga are motivated and capable but have their own agenda. What is left—army commando units and the CTS, which played a pivotal role in rolling back IS—relies on close co-operation with American special forces and spies. Since 2014 America has spent $5.8bn on military aid for Iraq. That would matter less had the crisis not come at an especially delicate time. IS is regrouping in Iraq. In December a Kurdish intelligence chief told the BBC that the group had become “like al-Qaeda on steroids”, nestled in Iraq’s Hamrin mountains and flush with cash.
 
 For the time being America is sending more troops. Mr Trump dispatched 100 marines to reinforce the embassy. As The Economist went to press, hundreds more soldiers were preparing for deployment to Kuwait, and perhaps onward to Iraq. Meanwhile, militia leaders eventually told their men to withdraw from the embassy, out of “respect for the Iraqi government”. But they had made their point. Sixteen years after America invaded Iraq with the hope of installing a friendly government, it can barely keep its own embassy safe. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/01/02/the-conflict-between-america-and-iran-intensifies-in-iraq

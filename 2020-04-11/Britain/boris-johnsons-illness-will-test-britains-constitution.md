@@ -37,3 +37,7 @@ But the death of a prime minister in office, which has not happened since 1865, 
 The queen appoints as prime minister whoever can carry the support of the House of Commons—normally the leader of the largest party. Conservative Party rules require that the leader is elected by the membership. That would take too long, so a decision would need to be made on whether the new prime minister should be chosen by the cabinet or by a ballot of Conservative MPs, which is how the party got its leaders before 2001. Speed is of the essence, and the cabinet would be faster, but given the rivalries within it, hostilities might break out into the open. MPs, along with the entire nation, will be fervently hoping that it does not come to that.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/04/08/boris-johnsons-illness-will-test-britains-constitution

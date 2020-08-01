@@ -27,3 +27,7 @@ The army also runs a grave risk to its reputation. It is now in charge of the he
 Mr Bolsonaro does not look strong enough to pull off a coup. He is opposed by most of Brazil’s state governors. Although the virus has temporarily disabled Congress, Mr Vieira notes that the Supreme Court is acting in an unusually united way. Nevertheless, “democracy can die even if you don’t have a strongman”, warns Matias Spektor of the Centre for International Relations at FGV. If Mr Bolsonaro is eventually impeached Mr Mourão would succeed him, bringing the army still closer to power.
 
 Another threat, notes Mr Spektor, is Mr Bolsonaro’s hollowing out of Brazil’s democratic institutions and fomenting of conflict. He has installed a friendly prosecutor-general, and has influence over the state police forces as well as the federal police. A police raid has silenced Rio de Janeiro’s governor, recently a critic of Mr Bolsonaro’s. Brazilian democrats, often adversaries, are starting to unite in opposition to the president. They are right to be alarmed.
+
+## URL
+
+https://www.economist.com/the-americas/2020/06/11/does-jair-bolsonaro-threaten-brazilian-democracy

@@ -31,3 +31,7 @@ Sometimes nations are brought together by joyful moments, like the 2012 Olympics
 The sense of despondency that currently hangs over the nation may soon be dispelled. Mr Johnson was probably transferred to intensive care earlier than another patient would have been out of an abundance of caution. He has not, according to Number 10, been put on a ventilator. News that he is improving, if it comes, will lighten the public mood just as news of his illness has darkened it. Britons are praying that it comes quickly. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/04/11/boris-johnsons-illness-has-darkened-britains-mood

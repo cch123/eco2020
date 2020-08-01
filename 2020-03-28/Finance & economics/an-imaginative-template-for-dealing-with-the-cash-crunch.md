@@ -27,3 +27,7 @@ In our ideal world, there is one lender and one owner. The real world is messier
 The goal should be to keep healthy firms intact. There are some specialists that buy the debts of troubled companies in the expectation they will be forced into bankruptcy, wiping the shareholders out and leaving the debt-holders as owners. A change at the top is sometimes necessary. But in general, it makes sense only if the management has screwed up. That does not apply to the vast majority of companies now in distress. It will need a lot of ingenuity and capital to tide them over. It will also need a fair bit of goodwill.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/03/26/an-imaginative-template-for-dealing-with-the-cash-crunch

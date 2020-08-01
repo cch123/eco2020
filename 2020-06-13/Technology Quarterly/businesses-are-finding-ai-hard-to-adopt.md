@@ -43,3 +43,7 @@ Because they are complicated and open-ended, few problems in the real world are 
 The tech giants’ experience of the covid-19 pandemic, which has been accompanied by a deluge of online conspiracy theories, disinformation and nonsense, demonstrates the benefits of always keeping humans in the loop. Because human moderators see sensitive, private data, they typically work in offices with strict security policies (bringing smartphones to work, for instance, is usually prohibited).
 
 In early March, as the disease spread, tech firms sent their content moderators home, where such security is tough to enforce. That meant an increased reliance on the algorithms. The firms were frank about the impact. More videos would end up being removed, said YouTube, “including some that may not violate [our] policies”. Facebook admitted that less human supervision would likely mean “longer response times and more mistakes”. AI can do a lot. But it works best when humans are there to hold its hand. ■
+
+## URL
+
+https://www.economist.com/technology-quarterly/2020/06/11/businesses-are-finding-ai-hard-to-adopt

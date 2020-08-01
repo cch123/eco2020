@@ -23,3 +23,7 @@ Samsung executives believe it is time for another big flutter on the future—no
 The second challenge is China. The country is changing both as a market and as a source of competition. Last year Samsung pulled the plug on smartphone production in China after its market share, once in double digits, fell below 1%. Big Chinese firms have the cash and long-term focus to give it a run for its money in semiconductors. Phone companies like Xiaomi are better at software and apps. As one of the biggest beneficiaries of globalisation, Samsung will draw little consolation from the prospect of supplying the West if the tech cold war gets worse.
 
 Despite $81bn of net cash (more than the market value of Sony) to invest, a sense of gloom pervades Samsung Electronics. With the Lee family in an agonising limbo, it is unable to place big strategic wagers, jeopardising its ability to move beyond manufacturing or compete with Chinese rivals. There is a way forward. Like most dynastic firms, Samsung will eventually have to put all its faith in professional managers, rather than in its founding family. Now is as good a time as any to start. To be sure, it will take the mystery out of the firm. It doesn’t have to kill its mojo. ■
+
+## URL
+
+https://www.economist.com/business/2020/05/02/what-is-weighing-on-samsung

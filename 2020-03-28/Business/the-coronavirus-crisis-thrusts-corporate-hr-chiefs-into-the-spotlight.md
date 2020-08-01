@@ -29,3 +29,7 @@ Covid-19 may lead more HR chiefs to adopt such systems. Right now most have more
 Many companies outside the knowledge economy face tougher choices. HR leaders must strike a balance between a firm’s professed purpose, which these days often involves treating staff well, and the bottom line, observes Dan Kaplan of Korn Ferry, a consultancy. The instinct is to cut costs through mass lay-offs. Rather than slash payrolls willy-nilly, says Bill Schaninger of McKinsey, another consultancy, good HR heads can try to reconfigure company work flows: what needs to be done by whom, what can be automated and what requires people to share the same space. Some workers who at first appear redundant may be redeployed or reskilled.
 
 The smartest HR-ers at the doughtiest firms are already gazing beyond the flattened curve. Though not quite recruiting—times are too uncertain—Ms Gherson has begun to groom rivals’ talent. Now that everyone is working from home, she says, no one is listening in on their calls. For an HR chief, “it’s the perfect opportunity.”■
+
+## URL
+
+https://www.economist.com/business/2020/03/26/the-coronavirus-crisis-thrusts-corporate-hr-chiefs-into-the-spotlight

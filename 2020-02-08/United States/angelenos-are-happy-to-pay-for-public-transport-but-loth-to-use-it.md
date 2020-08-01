@@ -29,3 +29,7 @@ Yet such tweaks will probably not be enough to lessen LA’s legendary traffic j
 For other American cities, or at least those which look a little like LA, all this ought to be worrying. Among the fastest-growing parts of America are sunbelt cities such as Houston, Atlanta and Phoenix. Such places also tend to have liberal leaders who want to move away from space-hogging polluting cars. Yet none of those cities have anywhere near the resources LA has put into public transport to such little effect. Money is important but to get people out of their cars it will take bravery too. ■
 
 Sign up to our fortnightly climate-change newsletter [here](https://www.economist.com//theclimateissue/)
+
+## URL
+
+https://www.economist.com/united-states/2020/02/08/angelenos-are-happy-to-pay-for-public-transport-but-loth-to-use-it

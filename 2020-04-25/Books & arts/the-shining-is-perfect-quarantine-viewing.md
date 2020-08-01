@@ -23,3 +23,7 @@ Kubrick is known as an obsessive perfectionist, and so some fans believe that he
 That is why “The Shining” is ideal viewing now. Not only is the Torrances’ tremendous sense of isolation a gothic caricature of the lockdown, but you can watch the film again and again without ever working out what it all means. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/04/25/the-shining-is-perfect-quarantine-viewing

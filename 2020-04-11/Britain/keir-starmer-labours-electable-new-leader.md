@@ -25,3 +25,7 @@ The challenge for Sir Keir is enormous. The party’s performance in last year�
 The pandemic may heighten voters’ enthusiasm for public services, which will be good for Labour. But it will also leave Britain indebted, and thus present hard choices on public spending. “Since 2010 Labour has struggled to rebuild its reputation for economic competence, and the crisis clearly doesn’t remove the need for us to convince voters we can once again be trusted to manage the economy,” says Spencer Livermore, who ran the party’s election campaign in 2015.
 
 The party must take care not to appear opportunistic, warns Peter Mandelson, an architect of Mr Blair’s centrist New Labour. Voters’ support for a more protective state “should not be mistaken for a headlong embrace of big-state socialism”, he cautions. Sir Keir’s arrival may clarify whether British voters shunned socialism because of the policies, or their advocates.■
+
+## URL
+
+https://www.economist.com/britain/2020/04/11/keir-starmer-labours-electable-new-leader

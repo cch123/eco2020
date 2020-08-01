@@ -39,3 +39,7 @@ Others are managing borders differently. South Korea still admits foreigners, pr
 Yet New Zealand’s elimination plan has widespread public support. A poll in early April found that 84% of New Zealanders approve of the government’s response to the pandemic—30 percentage points higher than the average in the G7. There is even hope that other countries may be able to join its putative virus-free zone. The deputy prime minister, Winston Peters, has raised the prospect of a “trans-Tasman bubble” once both Australia and New Zealand have the virus tightly under control. That could also include some Pacific countries—provided it does not burst. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/asia/2020/04/23/what-next-for-countries-that-are-nearly-covid-free

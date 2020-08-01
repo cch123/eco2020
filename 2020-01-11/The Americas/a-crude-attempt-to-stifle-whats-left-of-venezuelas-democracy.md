@@ -23,3 +23,7 @@ Many analysts in Caracas had expected Mr Maduro to wait for the parliamentary el
 The motive may be to drive Mr Guaidó into exile. The more radical figures in the opposition (most of whom are safely abroad) want this, too, because they fear that the only way to survive inside Venezuela is to make deals. According to Datanálisis, a pollster, Mr Guaidó’s popularity has fallen from 61% in February to 43%, because of frustration that he has failed to oust Mr Maduro. But he remains Venezuela’s most popular politician. Leave, and he risks irrelevance.
 
 Mr Maduro has weathered the sanctions and Mr Guaidó’s efforts to peel the army away from his regime. Some 5m Venezuelans have fled the country and millions more are poor and hungry. The economy has contracted by an astounding 70% since Mr Maduro took office in 2013. But helped by Cuba and Russia, creeping dollarisation and the lifting of socialist price and exchange controls, he is achieving a precarious semi-stability. “It’s survival rather than recovery,” says Phil Gunson, who works in Caracas for Crisis Group, an NGO. “Survival is absolutely everything for them.” Mr Guaidó has also survived his latest bout with the regime. Venezuela’s recovery will come only if outside pressure forces the regime to negotiate the terms of its retreat.
+
+## URL
+
+https://www.economist.com/the-americas/2020/01/09/a-crude-attempt-to-stifle-whats-left-of-venezuelas-democracy

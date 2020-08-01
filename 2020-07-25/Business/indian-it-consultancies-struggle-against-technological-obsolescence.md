@@ -31,3 +31,7 @@ Worse still, multinationals are increasingly reluctant to outsource their IT. Ra
 The popularity of such in-house operations has to do with the changing economics of technology. This once required armies of people, so spreading costs among many clients made sense. With falling prices of hardware and software, and more skilled workers around, a captive centre can pay for itself with just 50 employees, says Peter Bendor Samuel of the Everest Group, a research firm. Firms in industries from energy to entertainment are discovering the value of developing their own technology. Their pace of spending with the consultants has slowed (see chart 2).
 
 The Indian IT consultancies are not going away. They retain the ability to solve common problems at a modest cost. This month Infosys signed a new ten-year deal, the biggest in its history, to help Vanguard, a huge American asset manager, keep records and run its website. A new generation of bosses may shake things up. On July 17th HCL’s founder became the last of the industry’s grandees to step aside, leaving his daughter in charge. In May Wipro named Thierry Delaporte, a former executive at Capgemini, a smaller French consultancy, as its CEO. The new guard have their work cut out if the Indian champions, having helped engineer one profound change in the nature of the modern corporation, are not to be left behind by another. ■
+
+## URL
+
+https://www.economist.com/business/2020/07/23/indian-it-consultancies-struggle-against-technological-obsolescence

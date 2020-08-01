@@ -25,3 +25,7 @@ Whether that is fast enough remains to be seen. Hospital chiefs in London are co
 Some influential voices are nevertheless hopeful. Speaking to a House of Commons committee on March 25th, Neil Ferguson of Imperial College London, whose modelling prompted the government to enforce a lockdown, said that although there would be “hotspots” where the NHS is overwhelmed, his calculations suggest that overall demand will now be within the system’s increased capacity. It will soon be clear whether he is right.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/03/26/how-the-national-health-service-is-transforming-itself

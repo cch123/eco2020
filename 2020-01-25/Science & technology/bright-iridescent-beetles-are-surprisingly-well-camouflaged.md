@@ -21,3 +21,7 @@ The research team found that 646 of the 886 dummies they had deployed were attac
 The survival of black dummies, which are presumably hard to spot, was no surprise. What intrigued Dr Kjernsmo was the survival of the iridescent dummies. She therefore ran another experiment, this time involving people. She distributed more dummies through the woods and asked volunteers to find them. Each of 36 participants was equipped with a laser rangefinder and asked to walk along one of the two paths. Participants were told to stop and point the rangefinder at a model as soon as they saw it. This yielded two sets of data: whether a model was spotted and, if it was, how close it had to be to a hunter to be noticed.
 
 The upshot was that when models were on glossy leaves such as holly and ivy they were indeed much harder to spot—something presumably true of real beetles as well. So, in this species at least, iridescence really does act as cryptic colouration. As long as a beetle chooses the right leaf to perch on.■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/01/23/bright-iridescent-beetles-are-surprisingly-well-camouflaged

@@ -23,3 +23,7 @@ That everyday life was also not remote from history. But she preferred to call i
 Such themes were inevitable, for her discovery of her woman’s voice in poetry was meshed to her discovery of Ireland. She had left that home at the age of six, when her diplomat father was posted to London and then New York. When at 14 she returned, she did not know the secret language of the country, especially of Dublin, which she grew to love. As a woman she saluted “Anna Liffey” as the river rose in the hills above her house, flowing through black peat and bracken, then claiming and “retelling” the city for her, putting the pieces together, as she went on trying to.
 
 Ireland, though, could still disappoint her. In 1991, when the monumental Field Day Anthology of Irish Writing came out, she was one of only three contemporary women poets included. Furious, she fired up her campaign for women to be noticed and, through poetry workshops, for poetry to be extended to all who had no voices. After 1996 a professorship at Stanford, alternating with trips home, allowed her to check on progress from abroad. By the 21st century, to her delight, women poets were flourishing in Ireland, and two new Field Day volumes were devoted to women’s writing. Though she never liked to take credit, she had been a voice and a constant encouragement; she had changed the conversation.
+
+## URL
+
+https://www.economist.com/obituary/2020/05/16/eavan-boland-died-on-april-27th

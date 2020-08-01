@@ -21,3 +21,7 @@ Only a decade ago, when it still enjoyed good relations with Europe, Mr Erdogan�
 Mr Erdogan’s attempts to raise what he calls “a pious generation” have not had the desired impact, however. Studies show young people are turning away from religion. That may be why the ruling Justice and Development (AK) party and the Diyanet have decided to double down. “They’re increasingly insecure politically and culturally and they don’t want to give an inch to those who take other interpretations of Islam,” says Omer Taspinar of the Brookings Institution, a think-tank. “Now there’s a spirit of defensive jihad against moral laxity and relativism.”
 
 In the row over Mr Erbas, Mr Erdogan and his surrogates are suggesting that there is only one immutable Islam, which should not accommodate changing norms. Turkey’s history suggests that is not true. But anyone who still thinks moderate Islam and AK belong in the same sentence might want to take note. ■
+
+## URL
+
+https://www.economist.com/europe/2020/05/09/turkey-investigates-those-who-object-to-homophobia

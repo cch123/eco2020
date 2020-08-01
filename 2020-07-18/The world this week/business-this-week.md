@@ -33,3 +33,7 @@ The European Court of Justice struck down an agreement that allowed companies in
 The Twitter accounts of several prominent American figures, including Barack Obama, Elon Musk and Bill Gates, were hacked by bitcoin scammers. In response Jack Dorsey, the firm’s chief executive, said “We all feel terrible this happened.”
 
 Clarification (July 20th 2020): An earlier version of this article did not mention that the fall in Singapore’s GDP rate was at an annualised rate. 
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/07/18/business-this-week

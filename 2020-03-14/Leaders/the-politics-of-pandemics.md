@@ -37,3 +37,7 @@ In the West covid-19 is a challenge to the generation of politicians who have ta
 Yet the pandemic also puts doctors, scientists and policy experts once again at the heart of government. Pandemics are quintessentially global affairs. Countries need to work together on treatment protocols, therapeutics and, it is hoped, a vaccine. Worried voters may well have less of an appetite for the theatrical wrestling match of partisan politics. They need their governments to deal with the real problems they are facing—which is what politics should have been about all along. ■
 
 Dig deeper:
+
+## URL
+
+https://www.economist.com/leaders/2020/03/12/the-politics-of-pandemics

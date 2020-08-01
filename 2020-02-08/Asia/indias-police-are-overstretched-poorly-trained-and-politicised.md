@@ -25,3 +25,7 @@ The survey also reveals rather relaxed attitudes to such things as procedures an
 Critics of the police often trace the force’s trouble to colonial times, when its job was to suppress unruly “natives”. The Police Act of 1861 still provides the main legal framework. Among its archaic provisions is one that stipulates that officers are permanently on duty. Only very recently have some states begun to introduce eight-hour shifts for officers. As under the British Raj, the 5,000 highly trained, centrally appointed officers of the Indian Police Service form an elite corps, superimposed on less-well-paid and disgruntled state police. More than 80% of the overall force are barely trained constables. These footsoldiers’ self-esteem is generally low: on average, they are likely to receive just one promotion in a lifetime, even as higher officers sail up the ranks gaining such perks as staff cars, housing and, all too often, the services of constables as personal orderlies.
 
 These failings have long been recognised. Repeated commissions and public inquiries have demanded reform. The Supreme Court itself issued a detailed list of demands in 2006, following a petition by a retired officer. Mr Rai, for his part, says there is no point in tinkering: “No reforms are possible until and unless the basic structure of the police is changed.” ■
+
+## URL
+
+https://www.economist.com/asia/2020/02/06/indias-police-are-overstretched-poorly-trained-and-politicised

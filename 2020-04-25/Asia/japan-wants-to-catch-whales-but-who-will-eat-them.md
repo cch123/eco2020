@@ -29,3 +29,7 @@ Yet the challenges are immense. Whalemeat consumption has fallen from 230,000 to
 Morishita Joji, a former whaling diplomat at Tokyo University of Marine Science and Technology, says Kyodo Senpaku is hampered by government requirements to distribute whalemeat to all regions, even though demand is concentrated near a few ports with long traditions of hunting and eating whales. In such places, tiny operators never stopped catching small species of whale that did not fall under the IWC’s remit. These local enterprises are more likely to survive, Mr Morishita predicts.
 
 As for the national fleet, perhaps it was just a piece of kabuki theatre to bring it back with such fanfare from the Southern Ocean. In reality, the prospects of the whales look slightly better than those of their predators.
+
+## URL
+
+https://www.economist.com/asia/2020/04/23/japan-wants-to-catch-whales-but-who-will-eat-them

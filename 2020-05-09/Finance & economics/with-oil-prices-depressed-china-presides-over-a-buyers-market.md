@@ -23,3 +23,7 @@ Oil suppliers continue to look to China, which has eased its lockdown before oth
 It is unclear if China will remain a bright spot. Despite analysts’ best efforts—by, say, using satellite images to track outlines on storage tanks—no one knows precisely when China’s oil stocks may near its capacity to store it, says Mr Beveridge. The International Energy Agency expects Chinese demand to be tepid in the second half of the year, as the global economy remains weak. “Crude imports are going to have to slow down a bit to run down some of the stocks,” argues Chris Midgley of S&P Platts Analytics, a price-reporting firm.
 
 Meanwhile competition to sell to China continues. Saudi Arabia posted steep discounts for crude heading to Asia in May; rivals are nervously awaiting Saudi prices posted for June. Complicating the outlook for gas exporters to China, the government is keen to support domestic gas and the cost of Chinese wells has dropped. The American Petroleum Institute (API), a lobby group, is urging officials to lean on China to import more American oil and gas, as agreed in a recent trade deal. “China has a growing demand for energy,” says Frank Macchiarola of the API, “and we have a growing need for markets.” Join the club. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/05/07/with-oil-prices-depressed-china-presides-over-a-buyers-market

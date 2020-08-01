@@ -37,3 +37,7 @@ The slow economic response could jeopardise the impressive public-health work. P
 Across the world covid-19 has held up a mirror to societies, revealing their virtues and their flaws. South Africa has world-class scientists and doctors, many of whom won their spurs fighting AIDS. It has vibrant NGOs, full of community activists keen to help where the state has failed. But it has shocking levels of poverty and violence—legacies of apartheid and, more recently, misrule by the ANC. In responding to covid-19 South Africa is drawing on its past. It is also battling it. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/04/16/what-south-africa-learned-from-aids

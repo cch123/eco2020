@@ -27,3 +27,7 @@ The price of equity options varies greatly over time. It can make sense to use t
 Complex situations can befuddle even the best minds. After a few dozen moves in one of the Kasparov-Short games, the grandmaster pundits agreed that Mr Short had lost. As he rose from the board, they thought he had conceded. But no: the game was a draw.
 
 *“Portfolio Protection? It’s a Long (Term) Story”.
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/06/04/is-there-a-role-for-options-insurance-in-equity-portfolios

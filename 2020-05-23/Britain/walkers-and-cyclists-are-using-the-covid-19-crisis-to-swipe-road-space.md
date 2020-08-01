@@ -25,3 +25,7 @@ It might be a worthy one nonetheless, if urbanites can be jolted out of their ca
 The cycling and driving lobbies agree on one thing: although they are sometimes described as temporary, many of the changes to roads will be permanent. People get used to new arrangements, and those who benefit do not want to give them up. “We’re not going to go back to the same situation,” says Mr Norman. Cities have learned the lesson of London in the 17th century. You can change a city following a crisis, but you have to move quickly, before things go back to normal. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/05/23/walkers-and-cyclists-are-using-the-covid-19-crisis-to-swipe-road-space

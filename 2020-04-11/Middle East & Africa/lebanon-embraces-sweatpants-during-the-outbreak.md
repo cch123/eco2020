@@ -25,3 +25,7 @@ For those old enough to remember the civil war, lockdown feels familiar: long ho
 But this shock is different. Even before the coronavirus arrived, Lebanon was mired in a monetary crisis. Thousands of businesses had closed; more are now quietly going under. When the pandemic passes, there may be less demand for designer clothes.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/04/11/lebanon-embraces-sweatpants-during-the-outbreak

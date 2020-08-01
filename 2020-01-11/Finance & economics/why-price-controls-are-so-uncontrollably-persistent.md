@@ -23,3 +23,7 @@ One reason not to impose price controls is that they are so hard to remove. “W
 When removing price controls, it helps to get the timing right. With ceilings, it is best to act when market prices are low. Ivory Coast, Mexico and Rwanda took advantage of the oil-price slump after 2014 to reduce their fuel subsidies. The bank also recommends linking the removal of price controls with offsetting measures to help the needy. Egypt, for example, increased spending on health and education after raising prices for gas, petrol and electricity. But not everyone was appeased. Many people who know that higher prices will hurt them doubt that higher social spending will ever help them.
 
 In 2010 Iran tried to overcome such scepticism by giving money to households to compensate them for a reduction in fuel subsidies. In an ingenious twist, it paid the transfers first, depositing the money in accounts that were locked until prices were lifted. It is a lesson other countries should heed, argues Shanta Devarajan, a former World Bank economist. Unfortunately, Iran itself seems to have forgotten it. In November it raised fuel prices sharply and suddenly. Protesters poured onto the streets. “It’s very difficult to remove these controls,” says Ms Ohnsorge. “It’s better not to have them in the first place.”■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/01/09/why-price-controls-are-so-uncontrollably-persistent

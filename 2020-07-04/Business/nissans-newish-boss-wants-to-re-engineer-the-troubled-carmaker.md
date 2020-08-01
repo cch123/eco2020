@@ -25,3 +25,7 @@ Conservative or not, Mr Ushida’s profitability goal may be hard to attain. Boo
 And even if Mr Uchida succeeds in fixing Nissan, he will struggle inside an alliance fraying with internal tensions but too intertwined to unpick. Nissan’s grievances over Renault’s 43% controlling interest in Nissan (well above its 15% stake in Renault) have not gone away. The most notable thing about Nissan’s annual meeting on June 29th was strident denial that its executives conspired to oust Mr Ghosn, in part to forestall his plan for a full merger with the French firm.
 
 Mr Ushida is less categorical about the future of the alliance, which he has been asked about “100 times” since taking the job. Further integration, he insists, is not something he and his opposite numbers at Renault and Mitsubishi talk about, and “we don’t intend to”. As for rebalancing the shareholder structure, he says, “it is not a discussion for us”. Such prevarication will only store up trouble. A smaller Nissan may not automatically translate into smaller problems. ■
+
+## URL
+
+https://www.economist.com/business/2020/07/02/nissans-newish-boss-wants-to-re-engineer-the-troubled-carmaker

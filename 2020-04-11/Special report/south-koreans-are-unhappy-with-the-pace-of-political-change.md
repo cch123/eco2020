@@ -35,3 +35,7 @@ Three years on, the Moon government’s plan to be less haughty than its predece
 To some, the president is also falling back into old patterns of dealing with the judicial authorities: prosecutors investigating his political allies, including the former justice minister and an associate accused of meddling in a mayoral election, found themselves reassigned to provincial outposts. “This kind of stuff is extremely demoralising,” says one disappointed left-wing professor. “People think you have a better chance in politics if you’re morally corrupt, and if that’s how these guys behave then why should I be a good citizen? It ruins social trust.”
 
 The election on April 15th will show whether South Koreans consider Mr Moon’s government a disappointment by the standards the president set himself. But whoever is in charge will still have to deal with the looming problem to the north. ■
+
+## URL
+
+https://www.economist.com/special-report/2020/04/08/south-koreans-are-unhappy-with-the-pace-of-political-change

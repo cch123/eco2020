@@ -25,3 +25,7 @@ Inaction is riskier than it seems, however. The Fed cannot easily make things be
 Too little communication on policy could mean more permanent job losses, entrenched pessimism and the erosion of Mr Powell’s credibility. Few would blame him if another devastating downturn is followed by another anaemic recovery. But he may just be able to persuade Americans to expect something better. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/07/09/americans-need-more-guidance-from-the-fed

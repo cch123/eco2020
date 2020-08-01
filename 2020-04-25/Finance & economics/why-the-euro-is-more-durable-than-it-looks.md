@@ -29,3 +29,7 @@ The sight of politicians squabbling over who should bear the budgetary cost of c
 In most places, this reckoning will take place within a country’s borders. In the euro zone, by contrast, the burden-sharing would ideally be across borders. Some countries will lose; others will win. That is what makes the argument so bitter. For all the bickering, the euro zone has become good at lasting another day. It never quite does enough to resolve all its contradictions. But they have never quite proved fatal.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/04/25/why-the-euro-is-more-durable-than-it-looks

@@ -25,3 +25,7 @@ Social distancing has meant that the large anti-government protests rocking coun
 The calm may not last, though. The pandemic has hit the region’s economic mainstays, such as tourism and remittances, while a collapse in the price of oil has cut into government revenues, putting public-sector jobs at risk. Meanwhile, the WHO is casting doubt on the outbreak data coming from governments in the region. Insufficient testing means the number of infected people is undoubtedly higher than the official tallies. Most health systems are not equipped to deal with a large outbreak. As more people fall ill, the region’s authoritarians may regret having long spent more on their armies and security services than on hospitals and medical supplies. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/03/26/as-covid-19-spreads-arab-states-are-clamping-down

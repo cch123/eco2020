@@ -31,3 +31,7 @@ Like thermometers, perhaps? “That’s nothing.” Then like self-reporting any
 Pennsylvanians seem to appreciate Mr Wolf. His ratings have risen during the pandemic as Mr Trump’s have dropped. Hopefully they have heeded his frankness, too. Through luck and solid leadership at every level below the presidency, America seems to be emerging from the first wave of the pandemic less scathed than it might have been. But it is largely unprepared for the virus’s resurgence.■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/united-states/2020/06/11/how-pennsylvanias-governor-is-battling-the-pandemic

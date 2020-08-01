@@ -21,3 +21,7 @@ The goal is always straightforward: amass a better five-card hand than your oppo
 Soon they will figure out how to read their opponents—observing that cockiness can be a cover for weakness, and reticence a ploy to tempt others into overconfidence. They will see that a lost hand is not a lost game, and a lost game today does not augur the same tomorrow. In poker, as in life, the race is not always to the swift, and chance and bad beats (losing a winnable hand) happeneth to one and all.
 
 But the only way they will learn any of these lessons is if they hurt. After a few practice rounds with matchsticks or toothpicks, the stakes must be actual money—and adults must keep it when they win. This may be difficult: children come into the world lovable but broke, and no parent wants to further impoverish their own. On the other hand, children are also expensive. Consider any victory a partial repayment for their upbringing. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/04/04/the-joys-of-teaching-poker-to-your-kids

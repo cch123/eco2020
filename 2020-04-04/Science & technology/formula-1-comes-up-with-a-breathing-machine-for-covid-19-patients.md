@@ -19,3 +19,7 @@ Mercedes-AMG worked with a team at University College, London, to take apart, co
 “The speed with which the team developed the device is remarkable,” reckons Duncan Young, a professor of intensive-care medicine at Oxford University, who is not part of the project. Patients too unwell for simple oxygen masks, but not ill enough to need a ventilator, can be treated with a CPAP machine, says Dr Young. This could, he adds, save lives by freeing up ventilators for those in urgent need of them.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/04/03/formula-1-comes-up-with-a-breathing-machine-for-covid-19-patients

@@ -29,3 +29,7 @@ The interesting question is what sort of a turn politics takes after the pandemi
 But there is also a case that the crisis will drag politics back to the centre. If the government is to deliver vital public services at a time of soaring public debt, it will have to embrace reform and innovation. If globalisation is to survive, then the winners will have to do much more for the losers. The world will be shaped not just by the fight against the coronavirus but also by the fight over the best way to recover from its effects. Mr Blair is making it abundantly clear that, whatever his past sins, he wants to be at the centre of that fight. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/04/30/tony-blair-is-having-a-covid-moment

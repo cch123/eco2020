@@ -25,3 +25,7 @@ How different things might have been if people had paid attention to Hu Yaobang.
 While calling for a “dining-table revolution”, state media are careful to respect the view of many Chinese that dish-sharing is a sign of intimacy. “Divide food, not love,” a common new slogan urges. In the capital, a Peking-duck restaurant offers serving chopsticks to any guest who asks for them. But a waitress says there are few requests. In a social-media poll of about 210,000 netizens, 27% said they would use serving utensils, but 30% said they would not, because it was “too much trouble”. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/china/2020/04/23/china-asks-whats-the-safest-way-to-use-chopsticks

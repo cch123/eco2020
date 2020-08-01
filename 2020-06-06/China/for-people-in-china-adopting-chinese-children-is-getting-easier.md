@@ -29,3 +29,7 @@ Mr Zhuang, who is 49, is not so traditional. Some 14 years ago he and his wife, 
 Mr Zhuang concedes that his father is a bit more conservative. But the old man was mollified by the fact that he has a biological grandson, Lele’s older brother (and doting protector, growing up). As for Mr Zhuang’s friends, they had already watched him quit the safe government job he earned after graduating from Beijing Normal University, one of China’s best, to become a therapist. That career change was such a “completely odd and unreasonable decision” that adopting a child barely startled them, he laughs.
 
 Today, Lele is 16 and sometimes helps his father give therapy to autistic children. Not once does Mr Zhuang suggest that he and his wife deserve praise. Instead, he calls adopting his son an opportunity which they could not miss. The Zhuangs may be an uncommonly brave and open-hearted family. The public response to China’s new adoption laws will show if they have company.■
+
+## URL
+
+https://www.economist.com/china/2020/06/04/for-people-in-china-adopting-chinese-children-is-getting-easier

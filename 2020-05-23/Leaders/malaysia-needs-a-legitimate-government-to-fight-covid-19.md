@@ -19,3 +19,7 @@ But politicking will not go away. The wobblier Mr Muhyiddin appears, the weighti
 Moreover, a government of dubious legitimacy is making unprecedented and sweeping decisions whose effects will be felt for years. As in many countries, the lockdown to curb covid-19 is bludgeoning the economy. The government has adopted a relief package with a notional value of 16% of GDP. It will soon have to decide whether to restrict Malaysians’ freedoms yet longer, and whether to spend even more money it does not have to mitigate the consequences. Decisions of such magnitude should be made only by a government that a majority of MPs and, by extension, a majority of Malaysians, support.
 
 A vote of confidence may also be a way to force awkward MPs to behave. Would they really want to precipitate an election now? Some may be induced to support Mr Muhyiddin by their conscience—imagine!—rather than by bribes. And if an election really is the only way out, so be it. It would have to be conducted safely, of course, ideally with lots of postal voting or over several days, to allow social distancing. But it is when difficult decisions are being made that democracy is most needed—not when the going is smooth. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/05/21/malaysia-needs-a-legitimate-government-to-fight-covid-19

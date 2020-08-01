@@ -23,3 +23,7 @@ The scale of the covid-19 crisis offers a nihilistic twist to Aesop’s fable. S
 Grasshoppers do not have everything their way. On March 25th, Paris and Rome led a group of nine countries demanding the EU issue mutually guaranteed debt in response to the crisis. This idea is dismissed in Berlin and The Hague. A compromise where countries struggling to pay for the covid-19 response can access bail-out funds without overly strict conditions is more likely. At the start of the decade, the grasshoppers would have leapt at such a deal; now they fume that the ants have not capitulated further.
 
 In this way, the grasshoppers are repeating a mistake of the ants’. Rather than building a fiscal policy that worked for both camps, ants forced grasshoppers to adopt ant ways. As a consequence, resentment festered and populists thrived in southern Europe, which snapped back to its fiscal instincts as soon as the opportunity arose. Similarly, a bout of profligacy in response to a crisis will not compel the likes of Germany to adopt a loose fiscal policy for ever. Already, the ants in Brussels and national capitals mutter that fiscal discipline will be needed to bring order to public finances once this crisis has passed. Both sides must recognise they are stuck together. Rather than triumphant chirping, a compromise between ant and grasshopper is in order. A lasting peace trumps temporary hegemony every time. ■
+
+## URL
+
+https://www.economist.com/europe/2020/03/26/how-grasshoppers-triumphed-over-ants-in-europe

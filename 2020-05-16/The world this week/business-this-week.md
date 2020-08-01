@@ -33,3 +33,7 @@ Toyota said it expects operating profit for the current financial year to fall b
 While industries in the physical world bear the brunt of locked-down economies, those in the virtual realm continue to thrive. Tencent, one of the world’s biggest tech conglomerates, reported a 26% rise, year on year, in quarterly sales, as the number of subscribers to its video service surged to 112m and that for its music service to 43m. It made a profit of 28.9bn yuan ($4.1bn) in the quarter.
 
 Uber was reportedly in talks to merge Uber Eats, its food-delivery service, with Grubhub, a rival in that market. The combined operations would take a 55% slice of the food-delivery industry in America. That might be too much to swallow for trustbusters in Washington.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/05/16/business-this-week

@@ -27,3 +27,7 @@ Mr Alesina puzzled over why fiscal irresponsibility had become acute. Perhaps, a
 Whatever the explanation, something had to change. “If the French think that they can keep retiring at 60, they’re kidding themselves,” he argued. One solution was for governments to impose constraints on themselves. In the 1990s he argued for independent central banks, which made it harder for politicians to inflate debts away. Another solution was to adopt fiscal rules—for instance, a promise to balance the budget over the economic cycle. Yet Mr Alesina worried that these alone would not suffice. Could governments credibly commit themselves to upholding them?
 
 Perhaps politicians could be persuaded to be more responsible. He found little evidence to support the idea that lawmakers who take tough decisions are booted out of office. But Mr Alesina also wanted them to recognise that, without vigilance, the logic of politics encourages unsustainable fiscal policy. As covid-19, rising health-care costs and an older population cause debt to mount, his arguments may soon seem more relevant than ever. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/05/28/the-legacy-of-alberto-alesina

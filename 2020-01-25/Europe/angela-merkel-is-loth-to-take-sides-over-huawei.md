@@ -25,3 +25,7 @@ But Mrs Merkel also has geopolitics in mind. She wants to avoid taking sides in 
 Yet MPs are unconvinced. Having failed to win them over, Mrs Merkel may want to delay a Huawei decision until after a discussion among EU leaders in March. A common European strategy could shield countries from Chinese retaliation. The debate also suits those who want a more active European industrial policy. Since the Chinese state props up its firms, dirigistes argue that the EU should help European 5G kitmakers like Nokia and Ericsson.
 
 But delay cuts both ways. On January 29th the European Commission will suggest that governments should consider banning dodgy suppliers, as part of a “toolbox” of 5G security proposals to sway decision-makers who are still undecided. Mrs Merkel may seek compromise by barring Huawei from “core” elements of Germany’s 5G network but not the (more lucrative) “peripheral” antennae. Yet that is not good enough for her critics, who say 5G tech renders the core-periphery distinction defunct. Mrs Merkel would like not to choose. But she may have to. ■
+
+## URL
+
+https://www.economist.com/europe/2020/01/23/angela-merkel-is-loth-to-take-sides-over-huawei

@@ -25,3 +25,7 @@ Throughout the pandemic Mr Abe has devoted lots of attention to a controversial 
 Nonetheless, the prime minister remains the unchallenged centre of Japan’s political universe. The inept opposition is “not really taking advantage of this situation”, says Ms Nakabayashi. Although voters during the pandemic have preferred the more decisive leadership of governors such as Tokyo’s Koike Yuriko and Osaka’s Yoshimura Hirofumi, moving from local to national politics is tricky. Ms Koike’s party flopped at national elections in 2017. Mr Abe’s ruling Liberal Democratic Party remains dominant in the polls, and his challengers inside the party have stayed quiet. “People distrust his leadership,” says Mr Toshikawa. “But at the same time they recognise there is no alternative national leader at this moment.” ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/asia/2020/05/23/japan-is-not-rallying-around-its-prime-minister

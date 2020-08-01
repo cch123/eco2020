@@ -53,3 +53,7 @@ In another survey last year, by the Chicago Council on Global Affairs, seven out
 It would be naive to expect sudden enthusiasm for multilateralism from Mr Trump—and even beyond him. American suspicion of foreign entanglements is as old as the republic. Frustration with the WTO, NATO and the rest was mounting before Mr Trump tapped into it. The divisions at home that have deepened under his presidency make leadership abroad harder. Still, victory for Joe Biden in the presidential election in November would be, if not exactly a game-changer, at least a game-restarter. “We will be back,” Mr Biden promised last year’s Munich Security Conference.
 
 The UN wants to use its 75th anniversary for a grand consultation on the future of multilateralism. Covid-19 has hijacked the global agenda. But it also creates an opportunity. Rather than destroying the system, the upheaval could spur countries into strengthening it. That will require planning for the future while tackling the crisis of the present. Today’s leaders need to emulate what their predecessors achieved so magnificently in 1945.■
+
+## URL
+
+https://www.economist.com/special-report/2020/06/18/global-leadership-is-missing-in-action

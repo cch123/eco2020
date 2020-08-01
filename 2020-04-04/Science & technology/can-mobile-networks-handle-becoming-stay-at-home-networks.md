@@ -29,3 +29,7 @@ Around a third of the planet’s inhabitants are now stuck at home. That is bad 
 Correction (April 2nd 2020): A previous version of this piece spelled Mr Gorti's name incorrectly. 
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/04/03/can-mobile-networks-handle-becoming-stay-at-home-networks

@@ -19,3 +19,7 @@ The book focuses on two linked events that thrust them together. In the first, R
 Tales of hubristic tycoons being brought to heel often make for enjoyable reading. But Ms Berfield’s second event demonstrates how all-mighty Morgan had become. The coalminers’ strike of 1902 dragged on for months, despite Roosevelt’s desperate interventions. Ms Berfield describes how, as fuel supplies ran out, a school burned oil-soaked railroad sleepers to keep its pupils warm. New Yorkers sheltered in their homes; a shivery winter loomed. In October, when Roosevelt’s only remaining option seemed to be to send in the troops, Morgan went to Washington and—in an “hour of fate” that gives the book its title—brokered a peace.
 
 Not long ago, this description of a crisis that closed schools and factories would have seemed an outlandish relic; today, the parallels with the pandemic-stricken economy are stark. Meanwhile, in her epilogue the author notes that although Roosevelt’s rhetoric about “malefactors” might sound outdated, his message of the need for corporate oversight might have been delivered by Elizabeth Warren. Wisely, Ms Berfield resists the temptation to dwell on such analogies. Her stories make her case.
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/05/28/when-theodore-roosevelt-took-on-john-pierpont-morgan

@@ -45,3 +45,7 @@ A group at University College London rallying ideas for making ventilators has a
 At a very basic level, some designs could be built at home. Among them is an open-source ventilator developed by a collection of engineers in Barcelona. The oxyGEN machine, as it is called, uses a modified windscreen-wiper motor to squeeze an Ambu bag. Adjustments to the air volume can be made by fitting different-sized parts. But anyone trying to make one should take care. “It is a device designed to avoid life and death situations in emergency triages, not to replace other superior, professional and much safer devices,” the group cautions. Even so, as covid-19 continues to spread, and health-care systems are swamped, some doctors may be so desperate that they take the risk.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/international/2020/03/26/scientists-and-industry-are-dashing-to-make-more-ventilators

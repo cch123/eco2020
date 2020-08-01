@@ -28,3 +28,8 @@ Most important, in a few places the rate of home ownership is low and no one bat
 
 Is it possible to escape the home-ownership fetish? Few governments today can ignore the anger over housing shortages and intergenerational unfairness. Some have responded with bad ideas like rent controls or even more mortgage subsidies. Yet there has been some progress. America has capped its tax break for mortgage-interest payments. Britain has banned murky upfront fees from rental contracts and curbed risky mortgage lending. A fledgling YIMBY—“yes in my backyard”—movement has sprung up in many successful cities to promote construction. Those, like this newspaper, who want popular support for free markets to endure should hope that such movements succeed. Far from shoring up capitalism, housing policies have made the system unsafe, inefficient and unfair. Time to tear down this rotten edifice and build a new housing market that works. ■
 
+
+
+## URL
+
+https://www.economist.com/leaders/2020/01/16/home-ownership-is-the-wests-biggest-economic-policy-mistake

@@ -19,3 +19,7 @@ The biggest blow to the army’s standing came in February, when a soldier went 
 Soon after the massacre General Apirat pledged to reform military housing and root out corruption. Mr Prayuth weighed in, too, promising to halve the number of generals—there are about 1,700 of them—and to trim the army overall. Thailand has some 560,000 soldiers and reservists. Britain, with a similar population and pretensions as a global power, has about 230,000.
 
 Many doubt that the promised reforms will come to much. “Nothing is being done,” says Paul Chambers of Naresuan University. Besides, the most urgent reform of all—an end to the army’s involvement in politics—is hardly one that Mr Prayuth is likely to pursue. ■
+
+## URL
+
+https://www.economist.com/asia/2020/05/09/thais-seem-ever-less-impressed-by-the-army

@@ -23,3 +23,7 @@ Enter the trading platforms. MarketAxess started 20 years ago as a way for pensi
 The wonder is that it has taken so long for electronic trading to take hold in bond-land. It seems rather quaint that some deals are still brokered by traders with a phone glued to each ear. Screen-based trading is more transparent and far more efficient. But old habits die hard. A challenge for any platform—whether it is a dating website or an online-trading venue—is to persuade customers that there will be plenty of other customers to transact with. The barriers to “open trading” were high; traders were at first chary of advertising their bids and offers to all and sundry for fear that prices would move against them. But that has changed, says Rich Schiffman, head of Open Trading at MarketAxess. “They have come to realise that the benefits far outweigh the risks.” The more people who see your order, the better chance someone will fulfil it. Renewed market volatility might even attract more arbitrageurs to the platform.
 
 Big tests lie ahead. Half of all investment-grade bonds have a credit rating of BBB. In a deep recession some of those bonds will be downgraded to junk. A lot of mutual funds can hold only investment-grade bonds. If big blocks of bonds have to change hands quickly, it might overwhelm the market’s liquidity. A lot rests on the further success of the electronic platforms.■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/03/05/electronic-platforms-are-challenging-bond-broker-dealers

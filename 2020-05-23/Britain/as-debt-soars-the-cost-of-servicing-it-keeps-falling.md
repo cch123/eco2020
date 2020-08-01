@@ -17,3 +17,7 @@ But at the same time, interest rates have collapsed. When the budget was deliver
 ![](./images/20200523_BRC684.png)
 
 Low borrowing costs are good news for the government’s finances. In the Resolution Foundation’s scenario, interest costs will take up a smaller share of tax revenues by 2024 than was expected at the budget. Indeed, they will be lower than at any point in Britain’s post-war history. And not only will new borrowing attract a lower rate, but as existing debt is refinanced the cost of servicing it will fall, too. More debt leaves the government vulnerable if interest rates return to higher levels. So far, though, there is little sign of that happening.
+
+## URL
+
+https://www.economist.com/britain/2020/05/21/as-debt-soars-the-cost-of-servicing-it-keeps-falling

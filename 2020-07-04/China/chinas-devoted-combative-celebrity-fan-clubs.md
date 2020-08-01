@@ -23,3 +23,7 @@ Fandom also entails spending. Nearly 15% of fans born since 2000 lavish at least
 Despite the unruliness of fanquan, the government may see occasional benefit in their ability to organise. After Wuhan, the city where covid-19 cases first soared, went into lockdown on January 23rd, fanquan raised and helped to distribute more than 7.4m yuan in relief money within about ten days. Last year, during pro-democracy unrest in Hong Kong, the mainland’s state media urged fanquan to praise “brother China” against critics abroad. They duly complied, and launched tirades against the protesters. The Communist Youth League called it #thefangirlscrusade.
 
 But the fanquan are not always biddable. This year the League tried in vain to encourage their members to praise animated idols named after Mao Zedong’s writings. The idea was scrapped within hours. ■
+
+## URL
+
+https://www.economist.com/china/2020/07/02/chinas-devoted-combative-celebrity-fan-clubs

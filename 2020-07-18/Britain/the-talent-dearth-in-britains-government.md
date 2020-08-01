@@ -27,3 +27,7 @@ The ISC debacle shows how counterproductive Mr Johnson’s personnel-management 
 Populist revolutions are always in danger of falling into a familiar trap. Their leaders mobilise outsiders against insiders and neophytes against old hands. But those who win find themselves running the country, which requires the services of clever, competent types. Recruiting and retaining such people does not come naturally to populists. Donald Trump has included a former contestant on his game show (Omarosa Manigault Newman), a far-right activist (Steve Bannon) and law-breakers (Michael Flynn and Roger Stone) in his entourage, while sneering at those who know their stuff, such as Dr Anthony Fauci, his covid-19 adviser.
 
 Mr Johnson has shown that he’s wilier than Mr Trump by listening to scientists during this crisis. He still has a chance to redeem his premiership by restocking his government with talent from across the party. But his enthusiasm for rubber-room residents such as Messrs Fox and Grayling does not bode well. ■
+
+## URL
+
+https://www.economist.com/britain/2020/07/18/the-talent-dearth-in-britains-government

@@ -21,3 +21,7 @@ China will not stay away from Turkey for long. It is a market of 80m people and 
 Turkey has struggled to attract foreign investment in the past few years, largely as a result of tensions with America and Europe, over such things as its friendliness to Russia, the purchase of Russian missiles and human rights. Some in government advocate cosying up to China as well as Russia. But China is unlikely to bail out Turkey’s economy. Of the total stock of foreign investment in Turkey between 2002 and 2018, some 75% came from Europe; the Chinese share was around 1%.
 
 At his newly opened Beijing Hotel, close to Istanbul’s main entertainment and shopping district, Jackie Cheng watches a group of Chinese guests trickle out of the main entrance, past a restaurant that serves respectable Chinese fare, and into a tour bus. Mr Cheng arrived in Turkey two decades ago, made his fortune dealing in textiles and souvenirs, and opened Istanbul’s first Chinese hotel last year. Business has been good, he says. He plans to open branches elsewhere in Turkey. Asked what might help bring in more tourists and investors from the old country, he mentions government support and simpler procedures for getting a residence permit. “But one thing that’s really needed right now”, he says, “are more signs in Chinese.” ■
+
+## URL
+
+https://www.economist.com/europe/2020/01/30/why-chinese-road-signs-cause-outrage-in-istanbul

@@ -21,3 +21,7 @@ Economists are particularly intrigued by provisions in the new law governing inc
 Finally, the new law may help encourage some Americans without a retirement-savings account to get one. A series of provisions should make it easier for small businesses to club together to provide retirement plans to their staff, point out J. Mark Iwry and David John of the Brookings Institution, a think-tank. Another part of the legislation offers financial incentives, in the form of tax credits, to firms which create retirement schemes for their staff and enroll them automatically.
 
 America could go further. Many pensions experts argue that the single most effective reform would be if workers were to be automatically enrolled in retirement plans. Some countries have made bold changes. A few years ago Britain enacted a scheme along these lines, leading to a jump in the share of employees with a workplace pension of 36 percentage points, according to research from the Institute for Fiscal Studies, a British think-tank. If American politicians are serious about improving people’s prospects in retirement, tweaking around the edges will not be enough. ■
+
+## URL
+
+https://www.economist.com/united-states/2020/01/16/americas-pensions-system-is-now-less-of-a-mess

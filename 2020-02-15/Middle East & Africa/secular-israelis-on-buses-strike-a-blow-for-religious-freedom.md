@@ -17,3 +17,7 @@ In November 2019 Tel Aviv and neighbouring towns established a privately run bus
 Tel Aviv and many of its suburbs are relatively secular. In the two stalemated elections held in 2019, their residents tended towards centre-left opposition parties. Neither Mr Netanyahu nor Benny Gantz, an opposition leader, could form a coalition. On March 2nd Israel will hold its third election in 12 months.
 
 Mr Gantz is targeting “soft-right” voters souring on Mr Netanyahu. Dahlia Scheindlin, a pollster, thinks some might be attracted to “the murky concept of a liberal government”, meaning enforcing the rule of law, tackling corruption (Mr Netanyahu is under indictment) and defying religious coercion. According to her surveys, between one-quarter and one-third of Likud voters are concerned about these issues. Who knows where a taboo bus ride might lead?
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/02/13/secular-israelis-on-buses-strike-a-blow-for-religious-freedom

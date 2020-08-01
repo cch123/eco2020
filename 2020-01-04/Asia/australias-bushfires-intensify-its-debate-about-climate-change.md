@@ -21,3 +21,7 @@ Critics say such measures are inadequate. Greta Thunberg, a Swedish climate acti
 The fires are raising the temperature of Australia’s climate-change debate. Mr Morrison says climate change is just one of “many factors” behind the inferno. Greg Mullins, a former fire chief, retorts that these factors all relate to climate change. He and fellow ex-chiefs still plan to convene a meeting to discuss the problem, even if the government stays aloof. “We’ll invite the prime minister,” he says, wryly. Some business leaders also want the government to adopt a tougher climate policy. Peter Harmer, the head of IAG, an insurance firm, speaks of an “urgent need for Australia to prepare for and adapt to climate change”. With no end to the bushfires in sight, such calls are bound to grow. ■
 
 Sign up to our new fortnightly climate-change newsletter [here](https://www.economist.com//theclimateissue/)
+
+## URL
+
+https://www.economist.com/asia/2020/01/02/australias-bushfires-intensify-its-debate-about-climate-change

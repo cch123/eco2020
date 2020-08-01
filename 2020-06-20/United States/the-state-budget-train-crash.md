@@ -31,3 +31,7 @@ The federal government has also offered help, but not enough. It is financing ne
 With tax increases politically unfeasible at the moment, states will have little choice but to impose big spending cuts. Ohio’s governor has instructed state agencies to chop their budgets by 20% in the coming fiscal year. In Washington state, the reduction is 15%. California’s governor and legislators are deadlocked over plans for $14bn of spending cuts, but even these would not be enough to close the expected $54bn deficit. Spending cuts imply lay-offs. The states have already furloughed or sacked 1.5m workers in March, April and May, twice as many as in 2009-11.
 
 Such cuts will be a drag on growth when recovery starts. As Pew’s Josh Goodman points out, states were reining back spending years after the Great Recession, resulting, as late as 2018, in shortages of teachers, and infrastructure spending at 50-year lows as a share of GDP. The budget squeeze now will be greater than it was then. And remember what programmes are provided by states: Medicaid at a time of covid; unemployment insurance at a time of recession; policing at a time of protest. In the absence of proper presidential leadership, governors such as Maryland’s Larry Hogan and Michigan’s Gretchen Whitmer have provided much of what useful guidance America has had during the pandemic. But they, and other governors, must now brace themselves for the coming crash. ■
+
+## URL
+
+https://www.economist.com/united-states/2020/06/18/the-state-budget-train-crash

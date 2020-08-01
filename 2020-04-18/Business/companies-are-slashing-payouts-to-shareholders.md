@@ -21,3 +21,7 @@ All told, global payouts to shareholders are expected to tumble from $2.2trn in 
 Withheld payouts remain on firms’ balance-sheets, helping to pare down net debt. Once pruned, dividends take time to grow back—welcome news for those who think shareholders have been rewarded too richly of late. In America companies now return more money to owners than they spend on capital investments, research and development. 
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/04/18/companies-are-slashing-payouts-to-shareholders

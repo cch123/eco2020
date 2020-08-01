@@ -31,3 +31,7 @@ Yet it is not just small, scrappy firms that push innovation forward. Big firms 
 That is the optimist’s scenario. A more pessimistic one is that big tech will use its moneybags and muscle to stifle competition, by buying or scaring off more enterprising rivals. What is in little doubt, though, is that the covid-19 crisis, which has turned so many people’s lives upside down, will eventually produce a wealth of new business opportunities. If it attracts swarms of entrepreneurs crawling over cosy oligopolies so much the better. But even if the tech titans prevail for now, they will inevitably find themselves victims of the forces of change. Schumpeter’s “perennial gale of creative destruction” will one day blow them away, too. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/05/16/creative-destruction-in-times-of-covid

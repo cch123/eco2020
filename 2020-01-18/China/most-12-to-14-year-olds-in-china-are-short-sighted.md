@@ -27,3 +27,7 @@ More controversially, schools must ensure that pupils do “eye exercises” twi
 The government could be doing more. Academics believe the proportion of pre-teens in China’s countryside who suffer from myopia may be five percentage points lower than in urban areas. That may be because they spend more time outdoors. But only one in seven rural schoolchildren who need glasses wear them, says a recent report by James Chen of Clearly, an international charity. A pair of cheap spectacles costs less than 50 yuan ($7). Yet many rural Chinese think that wearing glasses aggravates myopia. In fact, squinting without glasses puts more strain on the eyes, and may cause sight to worsen. Officials should try harder to discredit mistaken beliefs.
 
 Yang Lili, a mother of a bespectacled 12-year-old in Beijing, is grateful that officials are belatedly paying attention to “the poison” of myopia. But they are “only scratching the surface, not solving the real problem”, she says. Ms Yang blames the entire culture of education. The fact remains that admission to the best universities involves intense cramming for a single exam. Schools may reduce homework. But parents “will continue to find private tutors and anything that gives their child an edge”. Another plan may be needed. ■
+
+## URL
+
+https://www.economist.com/china/2020/01/18/most-12-to-14-year-olds-in-china-are-short-sighted

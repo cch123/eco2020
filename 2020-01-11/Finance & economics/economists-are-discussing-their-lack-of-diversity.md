@@ -23,3 +23,7 @@ Today’s calls for greater diversity similarly include criticisms of the discip
 Some of the criticisms amount to the claim that excluding people of certain backgrounds limits what the elite of the profession regard as good ideas. Randall Akee of the University of California, Los Angeles, spoke of postponing the research he wanted to do on indigenous people and working instead on other subjects, in order to be taken seriously. Diversity, said Ms Conrad, would mean “new questions and new ways of seeing the world”.
 
 Senior economists may be willing to tinker with recruitment practices. But it is unclear whether they are ready to re-evaluate their intellectual frameworks, or indeed overturn hierarchies in which they are at the top. “We need to motivate change throughout the profession,” said Ms Yellen. “That will take time.” ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/01/09/economists-are-discussing-their-lack-of-diversity

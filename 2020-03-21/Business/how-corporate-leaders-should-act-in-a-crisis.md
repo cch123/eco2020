@@ -33,3 +33,7 @@ A good manager must take time to listen to staff concerns and answer their quest
 Have a clear message, keep calm and be transparent: all obvious stuff, crisis or no crisis. Another kind of leadership may be more painful. Executives at airlines like Qantas and United have agreed to take pay cuts (or forgo their salaries entirely) until the pandemic passes. Good leaders show they face at least some of the same dangers as their troops.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter), or visit [our coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/03/21/how-corporate-leaders-should-act-in-a-crisis

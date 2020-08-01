@@ -21,3 +21,7 @@ It appears to have been similarly upright and transparent about its Dead Sea mis
 Yet purchasing and then displaying such artefacts without first establishing their provenance is no way to run an institution that presents itself as an authority on the Bible. The error is indicative of a wider lack of academic rigour at the museum. Though its display of biblical artefacts is impressive, with fact-based descriptions of how the Old and New Testaments were gathered and translated, elsewhere, including in a walk through the stories of the Old Testament, the museum tends to elide biblical stories with historical fact in a way that makes many biblical scholars uncomfortable. Given that America’s division of church and state means few people have the opportunity to learn about the history of the Bible, this seems unfortunate.
 
 Yet the museum may be evangelising to fewer people than it had hoped, even before the novel coronavirus led to its temporary closure this week. In its first year, when entry was free, it received a million visitors. Since late 2018, it has charged an entrance fee. Though it will not say how many visitors it has welcomed since, it seems likely that fewer tourists, visiting the free museums on the Mall, have been swinging by to see its treasures. ■
+
+## URL
+
+https://www.economist.com/united-states/2020/03/19/the-bible-museums-fake-scrolls

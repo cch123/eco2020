@@ -19,3 +19,7 @@ Go-Go’s decline began the following decade when, in an effort to curb violence
 These changes have particularly harmed Go-Go because it was created to be experienced live. Its characteristics include call-and-response, which turns the audience into part of the performance, and the use of percussive solos instead of pauses between songs—which is how Go-Go got its name. That makes the music unsuitable for radio or three-minute hits. Without live venues, a new generation had mostly given it a miss.
 
 That, says Mr Campbell, has changed since last year’s protests. He is developing an internet streaming service for his huge collection of live recordings. A Go-Go museum is in the works and this week DC Council declared Go-Go the city’s “official music”. Though it is not clear quite what that will entail, it seems likely to involve tourists. The efforts to preserve Go-Go may end up gentrifying a form of music that was created to be anything but.
+
+## URL
+
+https://www.economist.com/united-states/2020/02/20/washington-dcs-declining-black-population-fights-to-preserve-its-musical-heritage

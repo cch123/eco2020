@@ -27,3 +27,7 @@ Perhaps the best of the books is Mr Tobaccowala’s. That is because the author,
 The book is clearly written and full of sensible and practical suggestions. They include assessing all meetings to eliminate those that waste time and suggesting that all employees spend 20% of each month trying to enhance their skills.
 
 Both Mr Tobaccowala and Mr Benioff reflect on how companies can pursue both broader social goals and the desire to grow. Indeed, they argue that the aims are complementary, rather than contradictory. They also demonstrate the benefits of practical advice over grand philosophising about every social issue of the day. Those lessons even apply to managers who aren’t writing books.
+
+## URL
+
+https://www.economist.com/business/2020/07/02/keeping-stakeholderism-practical

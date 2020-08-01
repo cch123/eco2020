@@ -31,3 +31,7 @@ Jaguar Land Rover appointed Thierry Bolloré as its new chief executive. Mr Boll
 The average age of cars on American roads has approached almost 12 years, and around a quarter are at least 16 years old, according to IHS Markit. That is the highest in two decades; in 2002 the average age was around 9.5 years. Improved mileage and better- built vehicles mean that motorists are more inclined to hang on to their Betsy, perhaps more so now that commuting times have dropped during the pandemic, so cars should last even longer.
 
 It failed to foresee the digital revolution that overthrew the market for camera film, but Kodak has been quick to seek out opportunities in the coronavirus crisis. The company signed a deal with the American government to make active pharmaceutical ingredients for generic drugs with the support of a development loan, the first under a programme to boost domestic production in response to covid-19. In the days following the announcement Kodak’s stock rose by 2,190%.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/07/30/business-this-week

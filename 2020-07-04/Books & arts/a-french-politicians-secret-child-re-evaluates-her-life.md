@@ -23,3 +23,7 @@ Though their cloistered life revolves around a distinguished man, it is the feel
 Above all, this is a lacerating portrait of a solitary, secretive girl who is both vulnerable and cruel. Margot is “formed and unformed”, observes a woman who offers to ghostwrite her memoir. She seesaws between the child aching for love and a hardened soul who is expert at withholding feelings and truths. The plot’s twists partly flow from her manipulative, almost sociopathic disregard for others.
 
 Good novels can supply insights into other cultures, and, for outsiders, one of this book’s pleasures is the glimpse it affords into French mores and habits. Ms Lemoine is half-French and half-Japanese, but she studied in America and writes in English. Here she lifts the window slats not just on the covert behaviour of consenting adults, but on many facets of bourgeois Parisian life, from its obsession with female bodies and clothes to recipes for clafoutis and vinaigrette. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/07/02/a-french-politicians-secret-child-re-evaluates-her-life

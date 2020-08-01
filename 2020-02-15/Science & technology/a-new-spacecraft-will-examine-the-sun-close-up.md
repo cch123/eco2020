@@ -19,3 +19,7 @@ They also hope that Solar Orbiter will advance the nascent science of solar-weat
 These risks are not hypothetical. In 1859 a massive CME caused auroras as far south as the Caribbean and damaged telegraph systems all over America and Europe. Another, in 1989, caused nine-hour blackouts across large parts of north-eastern Canada. Britain’s government lists a direct hit from a big CME on its National Risk Register of potential disasters, alongside floods, pandemic diseases and big terrorist attacks. Early warning of such space-going storms would help resist their effects.
 
 Solar Orbiter is not the only craft soon to endure a close encounter with the sun. In 2018 NASA, America’s space agency, launched the Parker Solar Probe. This will orbit even closer, at a distance of just 6.2m km. Researchers see the missions as complementary. Parker will fly through the corona, a tenuous atmosphere that stretches far out from the sun’s luminous sphere, allowing it to sample the gas there directly. But that is much too close for any kind of direct optical observation, says Richard Harrison, chief scientist at the Rutherford Appleton Laboratory in Britain, and one of Solar Orbiter’s designers. Parker, in other words, suffers from the same limitation as Earthbound human astronomers: it cannot look directly at the blinding light emitted by the object it is studying. ■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/02/13/a-new-spacecraft-will-examine-the-sun-close-up

@@ -21,3 +21,7 @@ Using their artificial pacemaker, Dr Xu and Dr Dabiri were able to turbocharge a
 High-speed jellyfish are unlikely, of themselves, to be much use. But if a more sophisticated prosthesis can steer the animal as well as controlling its speed, then the technology of cyborg Cnidaria will be in business. Researchers elsewhere are trying to develop swimming robots for ocean exploration. Prototypes of these, however, require between 10 and 1,000 times as much energy as the device developed by Dr Xu and Dr Dabiri because a robot’s battery must provide propulsive power as well as running the control system. A cyborg gets its energy for propulsion by feeding.
 
 A steerable cyborg jellyfish, fitted with instruments as well as a control pack, would therefore be a boon for marine scientists. Jellyfish go everywhere. Pick the right species and you could dive to the deepest parts of the ocean. Then, once the cyborg’s mission was accomplished, it could be steered back to the surface and its instruments—and the data they contain—recovered.
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/01/30/half-machine-half-jellyfish-the-latest-thing-in-ocean-exploration

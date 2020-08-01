@@ -67,3 +67,7 @@ Mr Biden has described himself as a “bridge” to the next generation of Democ
 Mr Obama, who represented profound change simply by virtue of his race and background, chose in Mr Biden an old-white-guy complement who represented experience and stability. He went on to govern cautiously and to be succeeded by his old-white-guy antithesis, a cruel man bereft of experience and deeply chaotic. Now Mr Biden, who still represents stability, seems by that very fact to represent the change people want. If they act on that desire, he may find himself in a position to govern more ambitiously than his one-time boss. ■
 
 Dig deeper:
+
+## URL
+
+https://www.economist.com/briefing/2020/07/04/joe-biden-has-a-good-chance-of-becoming-a-surprisingly-activist-president

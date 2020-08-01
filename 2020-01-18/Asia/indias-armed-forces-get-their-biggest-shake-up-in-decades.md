@@ -25,3 +25,7 @@ General Rawat’s promotion also raises questions about civil-military relations
 As army chief, General Rawat did little to allay these concerns. He “has often ventured into political and foreign-policy territory with his media statements, making many observers uncomfortable”, notes Sushant Singh, a former army officer who is now deputy editor of the Indian Express. In December, just days before becoming CDS, General Rawat provoked anger by criticising students protesting against a controversial citizenship bill.
 
 His successor as army chief, General M.M. Naravane, struck a very different note in his first public remarks on January 12th. “As the army, we swear allegiance to the constitution of India,” he said. “Justice, liberty, equality and fraternity...should guide us.” The fact that those values were drawn from the constitution’s preamble, which has been read aloud at protests across the country, was not lost on anyone. ■
+
+## URL
+
+https://www.economist.com/asia/2020/01/18/indias-armed-forces-get-their-biggest-shake-up-in-decades

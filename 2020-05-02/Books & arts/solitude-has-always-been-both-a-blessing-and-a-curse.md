@@ -47,3 +47,7 @@ The healthiest form of solitude is a flexible kind that combines it with sociabi
 There is also something disturbing about the way the boundaries between solitude and sociability are blurring. Visit a gym and you see sweaty solipsists performing private workouts in public. On a train many of your fellow passengers will be insulated by headphones. Those ubiquitous devices are double-edged: they can fill your head with babble or, thanks to noise-cancelling, leave you in Trappist silence. As the two categories mingle, so the quest for balance becomes more intense. Popular modern fads offer a reacquaintance with the virtues of solitude: mindfulness provides access to peace and silence; some of the most popular pastimes in Silicon Valley, the source of so much noise and distraction, are hiking, yoga and meditation.
 
 The lockdown has put the question of solitude at the heart of politics. Social distancing has been a tragedy for those living and, in some cases, dying alone. But for others it has proved a strange blessing. Overworked people have been able to take a break from the treadmill of commuting. Many have picked up long-abandoned hobbies, such as tending the garden or playing bridge. Solitude is both one of mankind’s greatest blessings and greatest curses—and thanks to a virus that has been carried across the world by human sociability, more people than ever are getting the chance to experience both. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/04/30/solitude-has-always-been-both-a-blessing-and-a-curse

@@ -23,3 +23,7 @@ Yet the damage to Facebook is likely to be small. After a brief boycott-induced 
 Facebook has promised tweaks. Like Twitter, it will label posts that break its rules but are newsworthy enough to remain up. Other tech firms have tightened their moderation, too. On June 29th YouTube blocked various white-supremacist channels. Twitch, a video site, suspended President Donald Trump’s own channel for “hateful conduct”. Reddit deleted a forum, “The_Donald”, over hate speech.
 
 This points to a pressure greater than advertising: politics. American tech firms have walked a fine line between Republicans, who accuse them of being too censorious, and Democrats, who want closer moderation. Now, as Mr Trump’s poll numbers swoon, Silicon Valley seems to be edging towards the Democratic view of things. Time, perhaps, to make new friends. ■
+
+## URL
+
+https://www.economist.com/business/2020/07/02/why-facebook-is-well-placed-to-weather-an-advertising-boycott

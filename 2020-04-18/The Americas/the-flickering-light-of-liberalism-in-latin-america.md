@@ -21,3 +21,7 @@ Despairing scholars began to argue that Latin America’s Catholic, corporatist 
 Contemporary Latin American liberalism suffers from two weaknesses. It has failed to shed the damning characterisation that it is heartless “neoliberalism”. In part that is because some who call themselves “liberals” in Latin America (and Iberia) are in fact conservatives, who oppose efforts to reduce unacceptable inequalities from which they benefit. Second, genuine liberalism tends to be the preserve of an upper-middle-class elite, with degrees from foreign universities. They have failed to produce a new generation of effective leaders to replace those who steered democratisation.
 
 Yet it is liberalism that is best placed to provide many of the things that Latin Americans want: justice systems that check the powerful; equality of opportunity; the public good rather than the protection of private privilege; better public services at an affordable fiscal cost; the defence of minority rights and tolerance in the face of renewed religious bigotry; and science rather than ideological quackery. Covid-19 makes all these things more urgent. This should be Latin American liberalism’s hour.
+
+## URL
+
+https://www.economist.com/the-americas/2020/04/16/the-flickering-light-of-liberalism-in-latin-america

@@ -27,3 +27,7 @@ For most European citizens, arguments about privacy have been about as intelligi
 A nervous discourse has already started among Europe’s decision-makers, who were in a funk about the EU’s place in the world even before covid-19 devastated the bloc’s economy and left nearly 100,000 of its citizens dead, with doubtless much more disaster still to come. If other systems of governance, whether outright autocracy or “managed” democracy, are seen to handle the virus better, it could push them into a crisis of confidence. Their lofty ambitions on privacy could well be jettisoned in such circumstances. Defending a political system by ditching one of its fundamental tenets may seem self-defeating. But politics is a results business. EU governments will be judged on how quickly life returns to normal, with states that used heavy-handed surveillance the obvious comparison. If a gap emerges, even the apostles of privacy may find it hard to keep the faith. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/04/23/privacy-in-a-pandemic

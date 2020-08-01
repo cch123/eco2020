@@ -21,3 +21,7 @@ The bank’s actions so far look like sensible support for the government in exc
 Mr Bailey’s volte-face is unlikely to do him much harm. During a crisis “being right is more important than being consistent,” argues a fund manager. Gilt investors are relaxed about the temporary use of the facility and confident about the bank’s independence; government bond yields barely budged on the news. Mr Bailey can afford to relax a little, too.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/04/18/why-the-bank-of-england-is-directly-financing-the-deficit

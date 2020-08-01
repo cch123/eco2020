@@ -17,3 +17,7 @@ That has led them down lyrical paths previously unseen in K-pop. “Dionysus”,
 Rather than put fans off, the public soul-searching and the references to Greek mythology and psychoanalysis have struck a chord in a way that no previous K-pop act has ever managed. In 2019 BTS were the highest-paid boy band in the world, selling out stadiums from Seoul to São Paulo. Their latest album topped the charts not just in South Korea but also in Britain and America. “The band’s story is very compelling,” says Hong Seok-kyeong of Seoul National University. “Just these seven ordinary boys who grow together.”
 
 Contrary to common narratives in the West, the South Korean government’s efforts to promote Korean culture have had little to do with this success, says Ms Hong. “Western observers still find it hard to accept that a small east Asian country could generate this amount of cultural influence without a five-year plan from the government.” But that is precisely what BTS appear to have done.
+
+## URL
+
+https://www.economist.com/special-report/2020/04/08/k-pop-is-changing-too

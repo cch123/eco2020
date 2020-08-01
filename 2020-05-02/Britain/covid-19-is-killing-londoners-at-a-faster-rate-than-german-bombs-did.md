@@ -19,3 +19,7 @@ In its effect on London, covid-19 is now rivalling the Blitz. According to figur
 Because the Blitz looms so large in the national psyche, it is startling that covid-19’s toll is already in its league. Yet the Blitz is a myth as well as a memory, and the reality was not quite as upstanding as the rhetoric suggests. Under the cover of blackout, crimes rose by 57%; there were 4,584 recorded lootings during the bombardment. Not all of the nation’s grandparents were model citizens.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/04/30/covid-19-is-killing-londoners-at-a-faster-rate-than-german-bombs-did

@@ -15,3 +15,7 @@ Much of this is down to technology companies, which are on a tear even as some o
 ![](./images/20200125_WBC296.png)
 
 European tech still pales next to America’s titans. At a combined market value of $5.3trn, Apple, Microsoft, Google, Amazon and Facebook are worth as much as Europe’s 40 biggest firms put together. Tech makes up a third of the S&P 500 but only 6% of the STOXX Europe 600. As the likes of ASML keep outperforming the rest of Europe, at least that share will grow.
+
+## URL
+
+https://www.economist.com/business/2020/01/25/europes-earnings-recession-may-be-at-an-end

@@ -43,3 +43,7 @@ Last, governments should invest in health care, even if their efforts take month
 Be under no illusions. Such measures might still not prevent the pandemic from extracting a heavy toll. Today governments seem to be committed to suppression, whatever the cost. But if the disease is not conquered quickly, they will edge towards mitigation, even if that will result in many more deaths. Understandably, just now that is not a trade-off any government is willing to contemplate. They may soon have no choice. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/leaders/2020/03/19/paying-to-stop-the-pandemic

@@ -27,3 +27,7 @@ In a few big cities it may be possible to run some hospitals “red” (taking c
 At the end of March the NHS struck a deal that allowed the state to use private-sector beds. An extension is likely to be announced soon, with the extra capacity used to treat the backlog, rather than the virus itself. Some senior people in the system want the emergency “Nightingale” hospitals, which are being mothballed, to be repurposed to help out. Yet even with these measures, the combination of a huge backlog and reduced capacity means that waiting times are about to become very long indeed. Like many covid victims, the NHS will take time to get back on its feet. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/05/23/why-the-nhs-will-not-be-back-to-normal-for-a-very-long-time

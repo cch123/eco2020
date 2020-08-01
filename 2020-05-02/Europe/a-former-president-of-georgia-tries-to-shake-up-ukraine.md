@@ -23,3 +23,7 @@ To mark this month’s first anniversary of his presidency, Mr Zelensky has rele
 Corruption remains widespread. An independent-minded prosecutor-general, Ruslan Ryaboshapka, has been replaced by a loyalist who is going after Mr Poroshenko. Covid-19 may make matters worse. An independent journalist, Katya Gorchinskaya, has exposed shenanigans in the procurement of medical equipment.
 
 Mr Saakashvili argues that corruption can be stemmed only by deregulating the economy and dismantling the system that facilitates extortion. Few Ukrainians seem convinced. Many reckon that, if Mr Zelensky brings Mr Saakashvili in, it will merely be to create the illusion of activity. “We are moving into the second season of Zelensky’s presidency,” says Sevgil Musaeva, editor of Ukrainska Pravda, an online outlet. “It makes sense to bring back a character from a previous series.” ■
+
+## URL
+
+https://www.economist.com/europe/2020/04/30/a-former-president-of-georgia-tries-to-shake-up-ukraine

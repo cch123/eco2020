@@ -63,3 +63,7 @@ EBERHARD NEUTZLaguna Beach, California
 Your recent leader on paying for the pandemic said that such measures will still not prevent the coronavirus from “extracting a heavy toll” (“[Closed](https://www.economist.com//leaders/2020/03/19/paying-to-stop-the-pandemic)”, March 21st). The correct expression should be “exacting” a heavy toll. “Extracting a toll” is an eggcorn, a misheard word or phrase that retains its original meaning. Thanos, a supervillain, said “this day extracts a heavy toll” in “Avengers: Infinity War”. So I guess now we are stuck with it.
 
 MARTHA GROVESLos Angeles
+
+## URL
+
+https://www.economist.com/letters/2020/04/18/letters-to-the-editor

@@ -17,3 +17,7 @@ Lagardère fils lacks his father’s touch. Some units, like the Hachette publis
 A London hedge fund argued fresh leadership could boost returns. Amber Capital built an 18% stake, bigger than the 7% owned by Mr Lagardère, whose grip is aided by an antiquated corporate structure that blends a partnership with limited liability. The besieged heir called on some powerful pals, even co-opting Nicolas Sarkozy, a former French president, to the board. A state-run fund with a 3% holding also backed him.
 
 Mr Lagardère’s position may not be safe for long. A firm controlled by Vincent Bolloré, a French tycoon, last month took an 11% stake in the group. Mr Bolloré has a knack for coming in as a white knight before turning hostile. Mr Lagardère has won his battle against Amber. He may lose the war for control.
+
+## URL
+
+https://www.economist.com/business/2020/05/09/the-french-establishment-closes-ranks-to-help-lagardere

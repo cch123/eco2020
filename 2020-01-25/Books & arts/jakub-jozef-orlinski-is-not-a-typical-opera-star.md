@@ -19,3 +19,7 @@ Modern countertenors mostly sing parts originally intended for others. In previo
 Opera has a reputation for being staid and exclusive, but, perhaps because of his appealing looks as well as his artistry, Mr Orlinski is reaching new audiences. A former pin-up for Levi’s and Nike adverts, he has a big following on social media. When your correspondent met him, he had just performed at Sofia University in Bulgaria. The hall was packed with students who, he reckons, were impressed. So, he remembers, were a group of breakdancers on a recent trip to Switzerland.
 
 “I looked up the local [breakdance] crew in Zurich and joined their training session,” Mr Orlinski says. After that, “I got them tickets and they came to see me sing. They couldn’t believe it!” His combination of talents and interests might seem eccentric, but look closely, and they chime. In breakdancing, anything goes. In ornamentation—the flourishes of notes that punctuate musical phrases—there is the same sort of licence, especially in the Baroque pieces that Mr Orlinski frequently sings. Both marry finely honed technique with the thrill of freedom. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/01/23/jakub-jozef-orlinski-is-not-a-typical-opera-star

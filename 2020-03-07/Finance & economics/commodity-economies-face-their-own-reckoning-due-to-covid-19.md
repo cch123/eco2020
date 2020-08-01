@@ -23,3 +23,7 @@ The rising fiscal pressure on commodity economies could hardly come at a worse t
 A severe but temporary economic shock seems a perfectly reasonable excuse for a government to borrow more than planned. Commodity-based economies with a history of capable macroeconomic management can run larger deficits without fear of a market backlash; indeed, the yields on bonds issued by Australia have fallen sharply over the past month, reducing the cost of borrowing for a government grappling with a dual public-health and economic threat. Other big commodities producers will need to be more careful. In those with a history of recent financial stress, like Argentina and Venezuela, the covid-19 pandemic could pile misery upon misery. Brazil only recently escaped a cycle of fiscal incontinence, market scepticism and accelerating inflation.
 
 Least predictable of all are the political effects of a potential pandemic. In good times, commodity wealth can blunt the complaints of political malcontents, while straitened circumstances expose all manner of ills. The slump of the past few years has already bred public disaffection across commodity economies, from Russia to Bolivia. The shock from covid-19 will test political systems around the world. Among commodity producers, especially those with little fiscal room for manoeuvre, fractures will be exposed more quickly and, occasionally, more destructively. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/03/05/commodity-economies-face-their-own-reckoning-due-to-covid-19

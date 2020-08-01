@@ -103,3 +103,7 @@ Still, says the shareholder rep, rather than leading by example on labour Amazon
 The antitrust cudgel may in fact be an attempt to force Amazon to spruce up its labour track record. How far regulators are willing to go will depend on the public mood. Americans’ reliance on the company and the goodwill it has generated with consumers may help it, says an antitrust expert close to Congress. An AWS spin-off, if it occurred, might obviate the need for drastic antitrust action.
 
 Mr Bezos has managed to keep Amazon from ageing beyond Day 1 for longer than most companies can dream of. But not even the best magician can stop the passage of time. One day, Day 2 will come. ■
+
+## URL
+
+https://www.economist.com/briefing/2020/06/18/can-amazon-keep-growing-like-a-youthful-startup

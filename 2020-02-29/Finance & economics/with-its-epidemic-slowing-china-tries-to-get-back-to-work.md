@@ -25,3 +25,7 @@ Like factory managers around the country, Mr Wang is taking precautions. Workers
 All being well, many analysts think that China’s businesses will be back to full capacity by the end of March. Economists at big banks forecast that this resumption could allow first-quarter growth to reach about 4%, year on year. That would be the weakest since quarterly records began, but anything above zero will inevitably raise questions about the credibility of the data. The risks are also changing as the virus hits other countries. China now faces the prospect of much weaker global demand and the danger that the epidemic, controlled within its borders, re-enters from abroad.
 
 Even if the world can slow the spread of the virus, Yiwu is testimony to some of the ways in which people far and wide will feel its economic effects. Agnes Taiwo, a businesswoman from Lagos, arrived in China just as the government started its fight against the epidemic. She had hoped to make a bulk purchase of children’s shoes and get back to Nigeria by early February. Nearly one month on, she has not been able to complete her order. And her return to Nigeria has been complicated because EgyptAir, the airline she flew on, has cancelled all flights to China. “This is serious,” she says. It is a sentiment that many others around the world are starting to share. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/02/27/with-its-epidemic-slowing-china-tries-to-get-back-to-work

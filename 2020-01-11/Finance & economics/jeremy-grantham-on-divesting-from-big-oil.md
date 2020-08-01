@@ -29,3 +29,7 @@ Investors might, for instance, miscalculate the speed of transition to greener e
 Is there also a moral case for disinvestment? An argument against is that oil firms are best placed to speed the transition to solar and wind power. They have experience of managing big projects in difficult terrain. And many would say that dumping oil stocks is a pointless salve to the eco-warrior’s conscience. Bill Gates, a software mogul and philanthropist, has argued that people should not waste idealism and energy on a policy that will not cause any reduction in the use of fossil fuels. What matters are incentives set by governments: tax breaks to fund research in green energy; tax rises to discourage carbon use. But this misses the point, says Mr Grantham: “You have to make the oil industry a pariah for bad behaviour.” Only then will politicians feel the need to act.
 
 A lot of finance types quietly suspect that greenery is anti-capitalism in metastatic form. Mr Grantham is clearly not of this anti-business persuasion. That makes it far harder to dismiss his arguments out of hand. “This is the first time that a major industry has been put on notice that it is going out of business, even if it may take a long time,” he says. His arguments pose a challenge to investors: do you really want to go along for such a bumpy ride?
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/01/09/jeremy-grantham-on-divesting-from-big-oil

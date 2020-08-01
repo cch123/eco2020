@@ -31,3 +31,7 @@ A durable solution will require more people, presumably to be paid for by Europe
 In the meantime, Greece and Europe are relying on deterrence. Turkey claims that 130,000 refugees have already headed for Greece, a wildly inflated figure aimed at satisfying domestic anti-refugee pressure. Most of them are not Syrians, but Afghans and others. No one knows the real numbers, nor how many have made it across. Those who have, and were caught, return with harrowing stories.
 
 Ali Khoja, an Afghan teenager, says he crossed the river four times, once by swimming and three times by boat. He says the Greek police took his phone, identity papers and clothes, and sent him back in his underwear. Others say they were beaten or tasered. On March 4th migrants and Turkish authorities reported that Greek police had fired on a group crossing near the town of Pazarkule, killing one and wounding five; the Greek government denied it. Greece may be avoiding another migrant crisis, but it risks plunging Europe into a crisis of conscience. ■
+
+## URL
+
+https://www.economist.com/europe/2020/03/05/turkey-threatens-to-let-asylum-seekers-flood-into-europe

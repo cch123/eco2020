@@ -27,3 +27,7 @@ Once-neglected kitchens are in constant use. One family’s kettle has broken un
 Many say the situation is strengthening their friendships, as people check up on each other. A resident of 44 years’ standing, who has only ever been “on nodding acquaintance” with neighbours, is now on a WhatsApp group, organising support for the elderly. One member of the group has volunteered to lead online workouts. Many are fantasising about the end of the crisis; some are hoping to throw a street party. But even being woken up by a plane would be a welcome glimmer of normality.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/03/26/how-covid-19-is-playing-out-on-a-london-street

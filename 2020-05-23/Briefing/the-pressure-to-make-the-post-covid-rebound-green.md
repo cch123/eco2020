@@ -39,3 +39,7 @@ Many economists might prefer to see governments simply provide incentives for en
 Against that needs to be considered the problem of the “90% economy”. Some service-sector jobs will come back quite slowly, if at all. If governments incentivise, say, home insulation and offer training and certification, all sorts of local companies might provide the actual service, and they would be quite labour intensive.
 
 In Pakistan the unemployed are being released from lockdown to work on a tree-planting programme that predates the crisis. The climate impact may not be that high; but refugees from service sectors around the world might rather enjoy similar opportunities, at least for a while. And they would not need all that much training. As Cameron Hepburn of the University of Oxford points out, you can go from pulling pints to planting pines pretty quickly. ■
+
+## URL
+
+https://www.economist.com/briefing/2020/05/21/the-pressure-to-make-the-post-covid-rebound-green

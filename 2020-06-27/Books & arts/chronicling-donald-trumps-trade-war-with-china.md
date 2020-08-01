@@ -29,3 +29,7 @@ Resolving this clash of economic systems peacefully was always going to be diffi
 What followed was, in Mr Davis’s and Ms Wei’s telling, a stunningly cack-handed negotiation. Mr Lighthizer was undermined by colleagues pushing for tariffs on American allies who might have helped cajole the Chinese. Mr Trump himself was torn between a desire to lift the stockmarket and fury that the Chinese were not buying more soyabeans (John Bolton, his former national security adviser, alleges in his new book that the president was preoccupied with the impact on his own re-election prospects: see Lexington). At one point in the talks Washington was full of references to Mr Trump as the title character in “Jack and the Beanstalk”: might all this fuss have been over a cup of beans? A Chinese delegation interpreted a packed room of officials as evidence that they were being taken seriously. In fact it indicated that the Americans did not trust each other.
 
 Ultimately the two sides settled, literally and metaphorically, for a few beans. The initial deal they signed in January 2020 left the hardest problems for another day. Mr Klein and Mr Pettis demonstrate that giving up is unwise, because ordinary folk deserve a bigger share of the economic pie, and conflicts will persist until they get it. Mr Davis and Ms Wei show that the Trump administration was unfit to do the job. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/06/25/chronicling-donald-trumps-trade-war-with-china

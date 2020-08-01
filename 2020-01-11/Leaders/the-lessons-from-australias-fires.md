@@ -21,3 +21,7 @@ The last lesson is that, as the costs of climate change stop being just about ab
 Scott Morrison, the prime minister, won an election in 2019 in stunning fashion, partly on a climate-sceptical platform that appealed in Queensland, a swing state with a big coal industry. He is now being pilloried for his government’s laggardly climate policies and stuttering response to the fires. His position may be secure for now, but 61% of Australians think climate change is a pressing problem. Sooner or later, in hot, dry places all over the world, politicians who fail to deal with climate disasters may find their credibility going up in smoke.■
 
 Sign up to our new fortnightly climate-change newsletter [here](https://www.economist.com//theclimateissue/)
+
+## URL
+
+https://www.economist.com/leaders/2020/01/11/the-lessons-from-australias-fires

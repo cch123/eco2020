@@ -21,3 +21,7 @@ Arab governments have passed laws against cybercrime and online terrorism to cow
 Governments use more subtle forms of pressure, too. They have threatened to tax Facebook’s in-country earnings and lean on advertisers. Many also operate electronic armies to bombard Facebook with content, often complaining about opposition groups. A watchdog backed by Israel called Act.IL claims to have 15,000 “online volunteers” from 73 countries keeping an eye on the platform. As a result, say critics, Facebook screens content by Palestinians far more vigorously than posts by Israelis.
 
 In an effort to restore user confidence, the firm recently deleted hundreds of fake accounts promoted by Saudi Arabia, Iran and Egypt. In May it unveiled a new oversight board which will act as its “supreme court”. It will hear appeals and monitor government websites for incitement. “Official terrorist designations will not necessarily be binding on us, especially when they come from authoritarian governments that misuse terrorism to abuse opponents,” says Tawakkol Karman, a Yemeni journalist and Nobel laureate who is one of two board members from the Middle East. More such thinking is needed. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/07/02/facebook-has-been-bending-to-the-will-of-arab-despots

@@ -21,3 +21,7 @@ The one thing environmentalists may have hoped the fires would kill is Australia
 Despite little immediate damage from flames or threat from regulators, the fires are having an effect on business. Katherine Klosowski of FM Global, an engineer-cum-insurer, says clients are paying more attention to risk-reduction measures like clearing spaces between bushland and buildings. Karl Mallon of Climate Risk Engines, an Australian consultancy, says some firms are at last moving from analysing risk to drawing up climate-resilience plans. Bosses know they may not be so lucky when the next calamity strikes.■
 
 Sign up to our fortnightly climate-change newsletter [here](https://www.economist.com//theclimateissue/)
+
+## URL
+
+https://www.economist.com/business/2020/01/25/australias-bushfires-have-left-businesses-surprisingly-unscathed

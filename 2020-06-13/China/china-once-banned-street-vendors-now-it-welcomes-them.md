@@ -27,3 +27,7 @@ But the street stalls do dovetail with a separate policy, launched last year, to
 Late one recent evening in Suzhou, thousands of people flocked to its official night market. Most were not wearing face masks, a sight unthinkable just a month ago. “I was cooped up at home for a long time,” says Cao Yunqiang, 19, visiting from Henan province, further inland. “Things aren’t fully back to normal, but it’s the right time to come out and have some fun.” ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/china/2020/06/11/china-once-banned-street-vendors-now-it-welcomes-them

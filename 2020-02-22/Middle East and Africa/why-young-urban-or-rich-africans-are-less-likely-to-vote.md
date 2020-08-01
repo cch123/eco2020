@@ -23,3 +23,7 @@ One reason is that ruling parties find it easier to bribe or bully rural voters 
 Turnout among the young is strikingly low, no matter where they live. In its most recent election survey, Afrobarometer, a pollster, found that only 59% of 18- to 25-year-olds voted, compared with 80% of people who were 35 or older. Youngsters everywhere tend to vote less frequently than their grandparents. This matters far more in Africa, because 60% of the population is under 25, whereas in Europe just 25% are of a similar age. One reason why young Africans vote less is that registering for the first time can be confusing. Another may be that many of them (42% of 18- to 25-year-olds, according to Afrobarometer) plan to emigrate, so they give up on seeking to improve things at home.
 
 Still, some politicians do try to shake things up by targeting youngsters in the cities. Bobi Wine, a singer turned opposition politician in Uganda, is doing so through music. “We are the youngest population in the world, we stand a chance,” he sings in “Zukuka” (Wake Up), a recent hit. “If we only come together we can change our destiny.” For that to happen, voter registration, gerrymandering and even tax collection may need to change first. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/02/20/why-young-urban-or-rich-africans-are-less-likely-to-vote

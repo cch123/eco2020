@@ -25,3 +25,7 @@ Borrowing a phrase from Balint Magyar, a Hungarian writer and politician, Gessen
 Bracing as it is, though, this book underplays the robustness of some of the institutions it frets over. The Supreme Court, for instance, has recently issued a string of rulings that enraged the president; though Republican senators preserved him in office, occasionally even some of them have disappointed him. And it misses the extent to which the fightback Gessen craves is already happening. Mr Trump has led Republicans towards nativism, but also to three years of electoral defeats—including the loss of the House of Representatives. Should Democrats win the presidency and both chambers of Congress in November, he may inspire a raft of ethics legislation.
 
 Mr Trump may be a sign of decadence in American democracy, as Gessen implies. He could also prove its renewer. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/07/02/donald-trump-is-not-like-other-presidents-argues-masha-gessen

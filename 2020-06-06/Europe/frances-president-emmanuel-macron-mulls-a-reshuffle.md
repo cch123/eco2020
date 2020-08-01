@@ -23,3 +23,7 @@ Despite the post-partisan idea behind LREM, there is now a strong push among som
 The irony is that Mr Philippe is emerging from the pandemic more popular than his boss. His poll ratings have risen, even as Mr Macron’s have dropped. But the prime minister’s whitening beard betrays the stress of the job. “He is exhausted,” says an LREM deputy. Mr Philippe also happens to be running in elections for his old job as mayor of Le Havre, a northern port. So an exit may be available, should it be needed.
 
 Nobody can quite know what Mr Macron has in mind. A surprise cannot be ruled out. The president can make bewildering nominations and is often reluctant to ditch colleagues. As he turns these options over, he will know better than most that, once outside government, a former ally can turn into a rival. Which is exactly what Mr Macron did when he decided to quit his ministry, set up a party and run for the top job. ■
+
+## URL
+
+https://www.economist.com/europe/2020/06/06/frances-president-emmanuel-macron-mulls-a-reshuffle

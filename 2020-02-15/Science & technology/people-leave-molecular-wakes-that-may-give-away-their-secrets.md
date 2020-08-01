@@ -33,3 +33,7 @@ The police may be tempted to push the boundaries as well. The fourth amendment t
 That is not necessarily wrong, if it means more criminals are caught and convicted. But it needs to be thought about carefully, because many metabolites are sticky. Cocaine is a case in point. Studies have shown that as many as two-thirds of the dollar bills in circulation in America carry traces of this substance, which might thus end up on the fingertips of the innocent, as well as the guilty.
 
 Perversely, this might even help someone who really had taken the drug. The law in many jurisdictions permits employers to fire employees for unlawful conduct, even if it happens outside the workplace. But as Michelle Terry of WKS Law in Los Angeles, observes, given how sticky research has shown cocaine metabolites to be, it is hard to guess how the courts would rule if someone lost their job for testing positive, yet claimed never knowingly to have touched the stuff.■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/02/13/people-leave-molecular-wakes-that-may-give-away-their-secrets

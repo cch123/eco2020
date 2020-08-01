@@ -33,3 +33,7 @@ The most overlooked risk is of a political backlash. The slump will hurt smaller
 For now, equity investors judge that the Fed has their back. But the mood of the markets can shift suddenly, as an extraordinary couple of months has proved. A one-month bear market scarcely seems enough time to absorb all the possible bad news from the pandemic and the huge uncertainty it has created. This stockmarket drama has a few more acts yet.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/leaders/2020/05/07/the-market-v-the-real-economy

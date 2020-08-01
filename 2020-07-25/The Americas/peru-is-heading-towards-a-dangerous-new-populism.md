@@ -25,3 +25,7 @@ At least economic recovery may be swifter than elsewhere, thanks partly to the i
 But this depends in part on business confidence, which is being undermined by a legislature bent on populist measures ahead of a general election due in April. In September Mr Vizcarra dissolved the congress elected in 2016, which was dominated by supporters of Keiko Fujimori, the daughter of an autocratic former president. It was obstructive and had many corrupt members. Its replacement is as bad. Many of the new lot on both the right and the left are inspired by a crude anti-capitalism. Congress has suspended tolls in roadbuilding contracts; it has allowed pensioners to withdraw up to 25% of their private pension funds and threatens to refund some workers’ contributions to the state pay-as-you-go system, which would bankrupt it. It wants to impose price controls and freeze loan repayments although banks have already offered grace periods to many debtors.
 
 The crisis has exposed shortcomings in Peru’s economic policies, as well as in its state. There are too many de facto monopolies. But they need intelligent regulation, not persecution. “For the first time in 20 years populism is gaining strength to the point that it could govern the country after the election,” fears Carlos Basombrío, a political consultant. Preventing that will require more effective leadership from Mr Vizcarra.
+
+## URL
+
+https://www.economist.com/the-americas/2020/07/23/peru-is-heading-towards-a-dangerous-new-populism

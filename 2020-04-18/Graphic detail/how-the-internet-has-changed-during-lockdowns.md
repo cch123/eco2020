@@ -17,3 +17,7 @@ Some of the biggest changes are in how people spend time online. Surprisingly, t
 These trends could reverse once lockdowns are lifted. However, firms may not wish to turn back the clock. Researchers at Stanford found in 2015 that among workers at a Chinese call-centre, those randomly assigned to telecommute were 13% more productive than colleagues who stayed in the office. Companies that have now integrated remote workers can save on office space, and better retain staff during child-rearing years. In March Gartner, a research firm, asked 317 executives how many of their employees who have switched to remote work will not go back to the office; the average reply was 10%. Online dating will return one day. But office workers of the future may still have to fend off 9pm messages from telecommuting colleagues. ■
 
 Sources: Cloudflare; Slack; SimilarWeb 
+
+## URL
+
+https://www.economist.com/graphic-detail/2020/04/18/how-the-internet-has-changed-during-lockdowns

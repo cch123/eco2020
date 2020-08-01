@@ -21,3 +21,7 @@ Many young people have scarpered from cities to lockdown with their parents, hun
 Slow-burning activities like learning an instrument are educational and kill time, too. The Sound Garden, an independent music shop in north London, has sold out of all entry-level acoustic guitars. Ukuleles are also popular. Karen Davis and her 12-year-old son have taken it up. “We strum away badly, sing terribly and bring joy into the monotony of lockdown,” she says. “Self-isolation is forcing us to rethink family time. You don’t want your evenings to become what they used to be, slumping in front of the sofa and watching Netflix.” And the 21st century can help with 1950s pastimes: their ukulele tuition is being provided by a local music school, via Zoom. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/04/04/how-british-family-life-is-going-back-to-the-1950s

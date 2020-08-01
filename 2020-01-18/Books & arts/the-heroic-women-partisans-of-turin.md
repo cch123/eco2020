@@ -21,3 +21,7 @@ As Ms Moorehead makes clear, this work was not only about national liberation. H
 Meanwhile Italian fascist militiamen, grenades strapped to their belts, looked for suspects to torture. The Germans were at least as bad. In one massacre, a lieutenant drank a bottle of cognac before shooting 54 prisoners. Ms Moorehead conveys the terror with understated power; she is equally good at conjuring the blurred morality of civil conflict. Malan escaped a firing squad because a fascist soldier took pity—her brother had once saved his fiancée from execution by the resistance.
 
 Many partisans fled to the mountains north of Turin, and Ms Moorehead evokes the valleys and wild flowers in technicolour detail. This was a place where peasants thought raw snails could combat rickets, and bread was hung from ceilings to harden, then broken with hammers and softened in milk. The partisans delighted in all this: amid round-ups and reprisals, Ms Moorehead writes, Gobetti noticed “meadows dotted with yellow and violet and the briars covered in white flowers”. The mountains helped these remarkable women retain their humanity, even as they battled for their country and their rights. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/01/16/the-heroic-women-partisans-of-turin

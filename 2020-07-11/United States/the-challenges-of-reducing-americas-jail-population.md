@@ -25,3 +25,7 @@ In both 2012 and 2018, 54% of inmates were black. One of the risk factors used i
 “There is no doubt that risk assessments are biased,” says Megan Stevenson of the University of Virginia. “Anything that has data from a biased world will have a biased output.” But this means that “there is no way to test a risk assessment tool for fairness”, because any measures, such as if a bailed person is rearrested, can also be affected by racial bias in the justice system.
 
 The challenge of bail reform is that “we haven’t been able to establish a baseline of best practice”, says Rashawn Ray of the Brookings Institution. But many jurisdictions are moving away from a cash-for-freedom system. Washington, DC has gone furthest. The risk-assessment tool it uses is opaque, but it releases 94% of defendants before trial. “There is no perfect alternative” to cash bail, observes Marie Ndiaye of the Legal Aid Society, a law firm. Many would like to see pretrial detention eliminated for all but a tiny minority of dangerous defendants. Still, despite the rollback of the New York reforms, Mr Feige of the Bronx Freedom Fund thinks things are moving in the right direction. He is closing his organisation to focus on national bail-reform efforts. “We are realising”, he says, “the dream of our own irrelevance.”■
+
+## URL
+
+https://www.economist.com/united-states/2020/07/09/the-challenges-of-reducing-americas-jail-population

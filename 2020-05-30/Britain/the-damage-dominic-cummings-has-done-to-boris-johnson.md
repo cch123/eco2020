@@ -23,3 +23,7 @@ Mr Johnson’s keenness to keep his adviser has demonstrated how remarkable a fi
 His importance lies in part in his vision, and Mr Johnson’s lack of one. Mr Johnson became prime minister with little idea what he wanted to do with the job, other than “Get Brexit Done”; his agenda for government—to “level up” poorer regions, boost scientific research and break hard with Europe—comes straight from his aide’s blogs. Mr Cummings has also built himself a formidable power base. Many Downing Street aides, working on communications, Brexit policy and in Mr Johnson’s private office, are loyal graduates of the Vote Leave campaign Mr Cummings ran, while independent-minded ministers and aides have been shoved out. Yet Mr Cummings’s power rested on his reputation as a strategic genius. This week he did not look so clever. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/05/28/the-damage-dominic-cummings-has-done-to-boris-johnson

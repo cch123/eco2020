@@ -21,3 +21,7 @@ Rosenhan (who died in 2012) was a gifted teacher, combining twinkly charisma wit
 “The Great Pretender” is a sobering exercise in revisionism. It is also an impressive feat of investigative journalism—tenaciously conducted, appealingly written (despite the odd purple patch) and, when it focuses on Rosenhan’s story, as compelling as a detective novel. In the end Rosenhan emerges as an unpalatable symptom of a wider academic malaise.
 
 Many of psychology’s most famous experiments have recently been discredited or devalued, the author notes. Immense significance has been attached to Stanley Milgram’s shock tests and Philip Zimbardo’s Stanford prison experiment, yet later re-runs have failed to reproduce their findings. As Ms Cahalan laments, the feverish reports on the undermining of such theories are a gift to people who would like to discredit science itself. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/01/09/the-psychologist-who-pretended-to-be-insane

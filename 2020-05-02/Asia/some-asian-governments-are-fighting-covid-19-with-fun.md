@@ -21,3 +21,7 @@ Cheery traffic police in Hyderabad, the sixth-biggest city in India, have donned
 A resort to patriotism is yet another tactic. Streets in Vietnam have been plastered with posters proclaiming, “To stay at home is to love your country”. Le Duc Hiep, their designer, says he mimicked old-fashioned propaganda posters to “invoke patriotic emotions”. Vietnam’s claim to have brought its outbreak under control without a single death is presumably another spur to national pride.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/asia/2020/04/30/some-asian-governments-are-fighting-covid-19-with-fun

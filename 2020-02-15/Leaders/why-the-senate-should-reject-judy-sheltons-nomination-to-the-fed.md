@@ -19,3 +19,7 @@ The second problem is Ms Shelton’s record of changing her mind on interest rat
 Ms Shelton is right that the Fed’s independence is more principle than law. But that is all the more reason to defend it, by opposing the appointment of cronies. The central bank already looks vulnerable. If Mr Trump wins re-election, he could choose to replace Jerome Powell, the Fed’s chair. If he loses, the new occupant of the White House may want to pick a fight with the Fed. Bernie Sanders is now the front-runner for the Democratic nomination (see [article](https://www.economist.com//united-states/2020/02/15/mike-bloombergs-very-expensive-moment)). He once sponsored legislation designed to give Congress more control over monetary policy, and in 2015 denounced an interest-rate rise as evidence of a “rigged economic system”. Democrats and Republicans alike have grown accustomed to the ballooning deficits that low interest rates make possible. Washington will be in no mood for tighter monetary policy if that proves necessary.
 
 The Fed is one of the few parts of America’s government not to have been afflicted by the country’s toxic partisan divides and win-at-all-costs politics. The Senate must protect the central bank by rejecting overtly political nominations to its board. It should say no to Ms Shelton. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/02/13/why-the-senate-should-reject-judy-sheltons-nomination-to-the-fed

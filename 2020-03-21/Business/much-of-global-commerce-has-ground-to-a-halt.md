@@ -49,3 +49,7 @@ Companies with the most resilient businesses, deepest pockets and longest invest
 The Depression wreaked economic havoc but also produced radical new business models from carmaking and entertainment to beauty products. In time, today’s crisis, too, may lead to some corporate resurrections—and plenty of new births. Comparisons to that agonising time in world history must not be made lightly. That they look apt is a sign of just how bad things are looking right now. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/03/21/much-of-global-commerce-has-ground-to-a-halt

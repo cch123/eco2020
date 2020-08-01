@@ -21,3 +21,7 @@ But many Indonesians believe that exposure to the sun also kills the virus in it
 The idea that the sun can zap the virus has been endorsed by prominent politicians. Tito Karnavian, the home-affairs minister, said in March that covid-19 cannot spread in a tropical climate like Indonesia’s, and invited the public to snuff out the disease by sunbathing. The number of confirmed cases in the country has since risen to more than 12,000. Perhaps the minister should have read the WHO’s covid-19 myth-busters website, which states, “Exposing yourself to the sun or to temperatures higher than 25°C DOES NOT prevent covid-19.” ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/asia/2020/05/09/sun-shy-indonesians-are-suddenly-soaking-up-the-rays

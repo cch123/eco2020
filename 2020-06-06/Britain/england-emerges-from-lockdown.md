@@ -21,3 +21,7 @@ The decision is ultimately a political one about risk. In parts of England the v
 As John Edmunds, an epidemiologist and one of the dissenting SAGE members, has noted, much now rests on the country’s track-and-trace infrastructure. That consists of a mobile app, as well as some 25,000 human contact tracers charged with finding people who have been in contact with infected patients. Along with widespread testing, it is supposed to allow health authorities to monitor and quickly suppress outbreaks. Mr Johnson promised a “world-beating” system by June 1st.
 
 Yet the app has still not been released, with no word on when it is due. John Newton, the testing chief, admitted on June 1st that the contact tracers were “not fully occupied”. Promises to turn all tests around in less than 24 hours are yet to be fulfilled. On June 3rd Dido Harding, who is in charge of the track-and-trace programme, was unable to provide the health and social care select committee with crucial information on tests or tracing. Not surprisingly, Britons appear nervous. A poll by YouGov found that almost two-thirds thought ministers were not being cautious enough in easing measures. Still, the government marches on. ■
+
+## URL
+
+https://www.economist.com/britain/2020/06/06/england-emerges-from-lockdown

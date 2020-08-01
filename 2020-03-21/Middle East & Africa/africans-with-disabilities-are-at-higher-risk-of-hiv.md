@@ -21,3 +21,7 @@ Once the disabled get HIV, treatment is difficult. Travel costs are a big reason
 Some are trying to improve the situation. A project in Kenya led by Humanity & Inclusion, an international NGO, provides HIV information to the blind using Braille and radio shows. Community health workers in South Africa offer in-home HIV treatment to the immobile. In Rwanda they are taught to communicate the basics about the virus in sign language. Senegal conducted a prevalence survey of disability and HIV—a good step in the “disability data revolution” that advocates say is necessary to tailor future policies. All but five African countries have ratified the Convention on the Rights of Persons with Disabilities, which pledges them to ensure broad legal equality for the disabled.
 
 No country stands out as a model. Policymakers often fret that providing for disabled people will be expensive and consume scarce resources. But some solutions that do not cost much can make a big impact. Health centres, for example, could start by installing wider doorways, adjustable beds and ramps. And health and education departments could do a far better job of teaching their own staff about the sex lives of the disabled, even if it may take time to remove social stigmas and correct horrific misapprehensions, such as that rape is a cure for HIV. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/03/19/africans-with-disabilities-are-at-higher-risk-of-hiv

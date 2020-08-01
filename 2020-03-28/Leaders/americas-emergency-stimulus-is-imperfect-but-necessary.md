@@ -29,3 +29,7 @@ Cash handouts to the public are simple enough. But $1,200 is not much help for a
 Make no mistake: we would vote for the bill, most of which is urgent and necessary. But it is far from perfect. And just like past emergency stimulus, it could work better for big firms than for anyone else, leaving a lingering sense of injustice. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/leaders/2020/03/26/americas-emergency-stimulus-is-imperfect-but-necessary

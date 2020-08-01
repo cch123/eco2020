@@ -19,3 +19,7 @@ That did not stop Pfizer, its producer, from charging a lot for it. America’s 
 Steve Pearson of the Institute for Clinical and Economic Review, which examines how drugs’ prices stack up against their clinical value, says the rebate system in particular has often snuffed out efforts to compete on cost. Slightly cheaper drugs known as biosimilars, popular in Europe, have made limited headway in America. EQRx will need to offer drugs at prices that are too low for the system to ignore.
 
 The deep-pocketed venture capitalists see promise in EQRx’s third way, between expensive branded medicines and cheap generics. If this is to work, EQRx must become pretty big, pretty fast, so that higher volumes offset lower margins. Industry insiders are sceptical; developing drugs is harder than developing software, they note. Even harder, especially if the firm went public, may be resisting shareholders’ calls to charge as much for them as the distorted market will bear.■
+
+## URL
+
+https://www.economist.com/business/2020/01/18/eqrx-wants-to-make-high-end-medicines-less-costly

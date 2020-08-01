@@ -17,3 +17,7 @@ Yet in 2013 the government, which owns most of the land in Singapore, announced 
 Many Singaporeans shrug. The game’s grip on the national imagination is weakening. The number of people who play regularly has not much changed for years, thinks Jerome Ng, general manager of the Singapore Golf Association. Some 55% of golf-club members are 55 or older. “Young people are now into other sports,” says Lee Lee Langdale, who brokers country-club memberships. She says youngsters are put off by the exorbitant cost. Some clubs charge hundreds of thousands of dollars just to join. Garish clothes aren’t cheap, either. The game’s image has suffered. One banker says that he sometimes feels “self-conscious” admitting that he is a golfer.
 
 It will be possible to play golf in Singapore for years to come. But the government has yet to renew the lease of any club beyond 2040, which worries enthusiasts. “We will lose everything,” says Ms Langdale. Others are sanguine. “The people we used to play with are either dead or not playing any more,” says Aidan Wong, who has been swinging irons since he was 12. When his club closes in 2021, he says, “I will probably put my clubs away.”■
+
+## URL
+
+https://www.economist.com/asia/2020/08/01/demand-for-land-in-singapore-is-bad-news-for-golfers

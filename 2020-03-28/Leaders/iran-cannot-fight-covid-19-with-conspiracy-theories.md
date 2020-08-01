@@ -27,3 +27,7 @@ That bolsters Mr Zarif’s argument that sanctions are keeping Iran from getting
 Perhaps they were not needed, as some officials claimed. But state media absurdly portrayed MSF’s efforts as part of an American spying operation. “Iran does not need hospitals established by foreigners,” said a health official. Iran’s leaders, it seems, prefer to confront the outside world rather than engage with it. Their prejudice will cost Iranian lives. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/leaders/2020/03/26/iran-cannot-fight-covid-19-with-conspiracy-theories

@@ -19,3 +19,7 @@ Then there is the question of designing the warheads in the first place. For ove
 All this could have serious implications for Britain’s status as a nuclear-armed country. Its stockpile of 200 warheads is expected to become obsolete in the late 2030s. Extending their life or making new ones (a decision is due shortly) would require modern facilities in good working order. If delays persist or the new sites are sub-par, “then clearly CASD as we currently know it would be at risk”, warns Mr Plant, “perhaps from a safety-related shutdown to an ageing programme-critical facility, or from a lack of data or components to design and produce new warheads.”
 
 Dominic Cummings, Boris Johnson’s chief aide, is already on the warpath over mismanaged defence projects and profligate spending. The nuclear complex may be next in his sights.■
+
+## URL
+
+https://www.economist.com/britain/2020/02/06/botched-nuclear-projects-put-the-future-of-britains-defences-at-risk

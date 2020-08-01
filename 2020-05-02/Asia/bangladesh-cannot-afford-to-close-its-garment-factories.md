@@ -31,3 +31,7 @@ But good health care is in short supply. Bangladesh has 170m people but fewer th
 Some factories, having already suffered a financial blow from cancelled orders, are trying to cut costs by flouting the rules designed to curb the disease. The one in which Rumi works in Gazipur, another covid-19 hotspot, has stayed open throughout lockdown, despite the government’s changing directives. Eight of her colleagues have died. She says that BGMEA told her bosses to hand out gloves, but they seem to have kept them for themselves. “Why aren’t we given gloves too?” Rumi asks. “Our lives are worth less, it seems.” ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/asia/2020/04/30/bangladesh-cannot-afford-to-close-its-garment-factories

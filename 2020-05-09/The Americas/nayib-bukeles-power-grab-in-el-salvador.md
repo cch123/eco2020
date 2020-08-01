@@ -31,3 +31,7 @@ The president responded harshly. He tweeted that police could kill gangsters to 
 The covid crackdown has not made citizens safer than those in more relaxed countries nearby. El Salvador’s 695 confirmed infections and 15 deaths are comparable to the toll in Guatemala, a much bigger country. To soften the economic effect of the lockdown the government promised one-off payments of $300 to 1.5m poor households, triple what many workers earn in a month. But with public debt at 70% of GDP it cannot afford much largesse. The next round of aid will take the form of 2m food parcels.
 
 Mr Bukele’s pre-pandemic ambitions are slipping away. A five-year plan drafted by consultants “fell apart”, says an insider. No progress has been made on pledges to raise the minimum income-tax threshold and to spruce up 50 town centres. A Commission Against Impunity, created in September, never looked like a serious effort to fight graft. It lacks the money and legal structure to do its job. The pandemic has helped to extend Mr Bukele’s honeymoon. It may not last much longer. ■
+
+## URL
+
+https://www.economist.com/the-americas/2020/05/07/nayib-bukeles-power-grab-in-el-salvador

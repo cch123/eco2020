@@ -25,3 +25,7 @@ If Mr Sessions were a slightly more sympathetic figure, his downfall would be tr
 A few prominent conservative populists are still struggling to make Trumpism mean something more than presidential whim—led by the Fox News presenter Tucker Carlson and a handful of senators, including Josh Hawley and Marco Rubio. But none, for obvious reasons, is eager to enter the administration, which makes them much less influential than Mr Sessions and Mr Bannon were. The result, less than four months from the election, is that Mr Trump appears to have no policy agenda of any kind for a second term. Trumpism, as Mr Sessions must now suspect, as he slopes back to his church and grandchildren, appears to mean little more than Mr Trump. Actually, he must have suspected that all along.■
 
 Dig deeper:Sign up and listen to Checks and Balance, our [weekly newsletter](https://www.economist.com//checksandbalance/) and [podcast](https://www.economist.com//podcasts/2020/07/17/checks-and-balance-our-weekly-podcast-on-american-politics) on American politics, and explore our [presidential election forecast](https://www.economist.com/https://projects.economist.com/us-2020-forecast/president)
+
+## URL
+
+https://www.economist.com/united-states/2020/07/18/donald-trump-ends-the-career-of-his-former-chief-ideologue-jeff-sessions

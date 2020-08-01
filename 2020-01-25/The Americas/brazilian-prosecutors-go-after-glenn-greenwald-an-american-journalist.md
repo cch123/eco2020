@@ -17,3 +17,7 @@ Mr Greenwald, an American, became famous by helping publish Edward Snowden’s l
 The case against Mr Greenwald has provoked an outcry. It represents “a threat to press freedom”, tweeted Rodrigo Maia, the president of the lower house of congress. It is not the first since Mr Bolsonaro became president. The government said it would reduce advertising in Folha de S. Paulo, a newspaper, in retaliation for its negative coverage, but relented. This month a judge banned Netflix from showing a comedy that portrayed Jesus as gay. A supreme-court judge quickly overruled him. 
 
 Mr Bolsonaro is not responsible for every attempt to stifle speech. But his anti-gay views may have encouraged the judge who sought to ban the Netflix film. His son called the film “garbage”. In choosing a new attorney-general in September, Mr Bolsonaro ignored the candidates on a shortlist presented by prosecutors. That fuelled suspicion that he was seeking to curb prosecutors’ independence. Questioned by journalists about the case against Mr Greenwald, Mr Bolsonaro retorted, “Don’t you have faith in the justice system?” Brazilians are starting to wonder.■
+
+## URL
+
+https://www.economist.com/the-americas/2020/01/23/brazilian-prosecutors-go-after-glenn-greenwald-an-american-journalist

@@ -33,3 +33,7 @@ No doubt the system in America could be improved. It seems unlikely that gifted 
 Mr de Blasio floated the idea of scrapping the entrance test and admitting the top 7% of students from each middle school (roughly, for pupils aged 11 to 14) to specialised schools. One problem is that at some middle schools this would include students who had not passed the state maths exam. This infuriated many Asian parents, who do not see why their children should be punished for studying hard.
 
 Children from poor homes have problems that need to be tackled long before they reach high school. A good education system should be as capable of delivering remedial instruction as education for the gifted—and herein lies the problem. Segregating pupils in schools of high poverty, with few additional resources, is a recipe for stagnation. The aim of integration should be to eliminate such schools, but perhaps not to dismantle upper-tier courses. The fear that this might trigger white or middle-class flight from public schools may be overblown. Parents in Park Slope, a mostly well-to-do neighbourhood in Brooklyn, proposed an integration plan for middle schools which went into effect last year. The share of white children in the schools did not drop at all.■
+
+## URL
+
+https://www.economist.com/united-states/2020/01/09/a-battle-over-gifted-education-is-brewing-in-america

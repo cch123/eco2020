@@ -21,3 +21,7 @@ Relief may be premature, though. Central-bank and government action has bought b
 If unemployment persists and companies go bust, as many economists expect, many more loans will sour. Roberto Frazzitta of Bain, a consultancy, predicts that 2021 will see a surge of non-performing loans as big as that in the financial crisis, if not bigger. This will be compounded by accounting: as customers’ balance-sheets worsen, the probability of default will rise, and regulators will demand that this be reflected in loss provisions, even if loans are still performing. Some losses will eventually be absorbed by government guarantees. But the European Banking Association still expects losses to eat up to 3.8 percentage points of European banks’ core tier-one capital ratio (the average buffer for banks in the region is 14.8%).
 
 Higher provisions could have three consequences, on both sides of the Atlantic. It may lead investors to question banks’ ability to pay dividends (Europe’s have suspended them, but America’s still dole them out). It may prompt banks to refine their standard loss-prediction models by using more alternative data, says Ian Shipley of Oliver Wyman, a consultancy. And it may lead to calls for weaker lenders to consolidate, in order to improve their resilience. That would be a hard pill to swallow, but could prove a handy cure. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/06/11/why-are-bank-bosses-sounding-more-optimistic-about-loan-losses

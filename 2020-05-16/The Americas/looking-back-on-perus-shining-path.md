@@ -27,3 +27,7 @@ In this century a flood of books about the Sendero years has appeared. In 2015 a
 As for Ayacucho, “terrorism destroyed everything,” says Carlos Añanyos, whose family set up a soft-drinks business in Huamanga in 1988 that is now a multinational headquartered in Madrid. The region’s income per person is still only two-thirds of the national average. Mr Añanyos has set up a foundation that, pre-pandemic, was promoting tourism in Ayacucho, as well as the region’s products, such as speciality potatoes, natural colourings and handicrafts.
 
 There are other grounds for hope. Out of the wreckage of the 1980s Peru created a successful market economy that slashed poverty. The racial divide has blurred, especially among the young. Economic growth has reached people in the Andes, thanks to better communications. Ayacucho means “corner of the dead” in Quechua. Covid-19 aside, at least that is no longer true.
+
+## URL
+
+https://www.economist.com/the-americas/2020/05/16/looking-back-on-perus-shining-path

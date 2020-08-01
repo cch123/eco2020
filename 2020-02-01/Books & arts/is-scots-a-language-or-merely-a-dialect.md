@@ -27,3 +27,7 @@ David Adger, a Scot at Queen Mary University of London (and, like Mr Pullum, a s
 This makes Scots and English different from, say, Danish and Norwegian. Speakers of those related tongues understand each other with few problems. But they are not in the habit of making transitions between the two—they speak one or the other. Politics is integral to the divide: Norwegian was consciously developed away from Danish as part of a push for independence.
 
 As an old saying goes, “a language is a dialect with an army and a navy.” Recognition for Scots as a language may, ultimately, be clinched not by grammatical arguments but by political ones. In other words, proclaiming it to be a language to support Scottish independence may have little impact. But gain independence, and outsiders might take Scots seriously as a separate language, too.
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/01/30/is-scots-a-language-or-merely-a-dialect

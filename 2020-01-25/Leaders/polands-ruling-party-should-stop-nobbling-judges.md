@@ -29,3 +29,7 @@ Only Poland can avert this disaster. The government has rushed its new judiciary
 If it does not, the ECJ should suspend the disciplinary chambers. European leaders and the European Parliament should press ahead with plans to dock aid in the next EU multi-year budget to countries, including Poland, that harm the rule of law. Countries outside Europe should weigh in, too, as some American lawmakers have. Businesses operating in Poland should warn the government that a split from EU law would cause grave economic damage. And Polish voters should wake up. Those who defend the rule of law are defending the fundamental rights of all Poles, including PiS’s own supporters. ■
 
 *After The Economist went to print, the Polish parliament adopted the new law unchanged. President Andrzej Duda should veto it.
+
+## URL
+
+https://www.economist.com/leaders/2020/01/25/polands-ruling-party-should-stop-nobbling-judges

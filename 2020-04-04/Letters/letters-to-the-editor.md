@@ -69,3 +69,7 @@ GERALD SMITHWellington, New Zealand
 “[A little lichen relief](https://www.economist.com//the-americas/2020/03/19/canadas-quest-for-a-national-lichen)” (March 21st) notes that Iceland, Scotland and the Faroe Islands have issued stamps depicting lichen, giving their people a lichen likeness, one might say. I must, however, ask: do they like licking lichen?
 
 KEITH SNIDERAlexandria, Virginia
+
+## URL
+
+https://www.economist.com/letters/2020/04/02/letters-to-the-editor

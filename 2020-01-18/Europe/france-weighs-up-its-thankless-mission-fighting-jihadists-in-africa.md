@@ -25,3 +25,7 @@ So it is with evident frustration that Mr Macron now also finds himself the targ
 Amid the charges and countercharges, the purpose of this week’s summit in Pau, says a French official, was “clarification”. Mr Macron declared in December, while at the NATO summit in London, that he “cannot and will not” keep French soldiers on the ground in the Sahel as long as there is ambiguity about whether they are welcome. In Pau he secured from the leaders of the five Sahel countries a formal affirmation of their “wish that the French military engagement in the Sahel should continue”.
 
 Yet France finds itself increasingly alone. It has some limited help from the British, Danes, Estonians and Germans. And it is trying to help build up local capacity. Its real partner, though, is America, which runs its own counter-terrorism activities in the region, including an air and drone base in Agadez, in the desert in central Niger, and another surveillance facility in the north. Now the Pentagon is considering scaling back its operations. “We are stuck,” says François Heisbourg of the Foundation for Strategic Research, “We’re in exactly the sort of place we wouldn’t want to be; it’s a small Afghanistan.” ■
+
+## URL
+
+https://www.economist.com/europe/2020/01/18/france-weighs-up-its-thankless-mission-fighting-jihadists-in-africa

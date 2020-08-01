@@ -19,3 +19,7 @@ Investors typically rush into gold when geopolitical risk soars. However, its pr
 Analysts at PIMCO, a fixed-income asset manager, think of gold as an asset with no default or inflation risk (in inflationary times, investors often regard it as a hedge against rising prices). That makes it pretty similar to TIPS, except that gold never yields any interest. If real rates rise, gold’s relative attractiveness falls; when they fall, it rises.
 
 Gold is not for everyone. Warren Buffett, probably America’s most celebrated investor, is certainly no fan. He once said that the metal “gets dug out of the ground in Africa, or someplace. Then we melt it down, dig another hole, bury it again and pay people to stand around guarding it. It has no utility.” John Pierpont Morgan, eponymous founder of America’s biggest investment bank, held a different opinion, quipping that “gold is money, everything else is credit”. And when the return for providing credit is close to zero, it is little surprise that investors want their money in gold.
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/01/09/the-killing-of-qassem-suleimani-sends-gold-to-a-seven-year-high

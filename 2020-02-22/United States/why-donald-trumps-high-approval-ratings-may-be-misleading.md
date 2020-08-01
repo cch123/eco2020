@@ -25,3 +25,7 @@ Data from YouGov, which conducts online polls with The Economist and adjusts its
 Hence pollsters who do not adjust for partisan bias have picked up a recent—and mostly phantom—swing in Mr Trump’s favour. Yet Ms Kennedy is quick to say that weighting is not a magic wand for ensuring high-quality results. A recent Pew report found that online surveys, in particular, can also be unduly influenced by so-called bogus participants who could be causing even more errors in pollsters’ measurements by submitting nonsensical, and disproportionately positive, responses. “Although it is not a large effect,” says Ms Kennedy, “it’s systematic”, and could be enough to nudge even a collection of different polls in one direction. Such are the challenges pollsters face if they want to be sure that movements in public opinion—like the recent shift towards Mr Trump—are in fact real.■
 
 Dig deeper:Sign up and listen to Checks and Balance, our new [newsletter](https://www.economist.com//checksandbalance/) and [podcast](https://www.economist.com//podcasts/2020/04/24/checks-and-balance-our-weekly-podcast-on-american-politics) on American politics
+
+## URL
+
+https://www.economist.com/united-states/2020/02/22/why-donald-trumps-high-approval-ratings-may-be-misleading

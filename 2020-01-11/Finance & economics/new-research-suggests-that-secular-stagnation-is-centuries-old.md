@@ -21,3 +21,7 @@ The data also challenge some of the arguments of Thomas Piketty’s “Capital i
 Mr Schmelzing’s conclusions pose an even starker challenge to central bankers. If the historical trend continues, by the late 2020s global short-term real rates will have reached permanently negative territory. By the late 21st century, long-term rates will have joined them. Even unconventional monetary policies, which rely on driving down long-term rates, would then lose traction. Any hopes for nominal rates of 2% or more, in the long term, may prove to be a pipe dream. ■
 
 *P. Schmelzing, “Eight centuries of global real interest rates, R-G, and the ‘suprasecular’ decline, 1311-2018”, Bank of England Staff Working Paper No. 845, January 2020.
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/01/09/new-research-suggests-that-secular-stagnation-is-centuries-old

@@ -25,3 +25,7 @@ Growing inequality in football has mirrored broader trends in British society. E
 Fans of struggling teams have noted the parallel between their hometowns and football clubs that once served as a pillar of community. “The system...always lets people down at the bottom,” says Zoë Hitchen, a Bury supporter. “It never lets down the people at the top...You can’t split this from what’s happening in the UK at the moment. You can’t split it away from Brexit.” ■
 
 Sources: Deloitte; Transfermarkt; Footstats.co.uk; Footballgroundguide.com; Chris Hanretty; ONS
+
+## URL
+
+https://www.economist.com/graphic-detail/2020/02/29/globalisation-has-left-lower-league-football-clubs-behind

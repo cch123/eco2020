@@ -23,3 +23,7 @@ Some may be able to supplement their income by turning to a growth industry for 
 The economy is slowly recovering. Travel is getting easier. But for itinerant beekeepers it is too late to catch the early blooms of spring. Ms Zhang grumbles that life even before covid-19 was “mediocre”—not helped by her father’s poor health. “We must practise the spirit of the bees, live and learn, keep busy and grow old,” she says. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/china/2020/04/11/chinas-beekeepers-feel-the-sting-of-covid-19

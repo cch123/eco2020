@@ -25,3 +25,7 @@ Still, irregardless isn’t nonstandard in the way that, say, ain’t is. Ain’
 In other words, there is a better case against irregardless than the fact that it is malformed. (After all, many words are malformed: television combines Greek and Latin roots. Flammable arose from a misunderstanding of inflammable, which means “capable of being inflamed” but was misinterpreted as “not flammable”.) The real problem is that it has never quite found a secure place in the English language. It may be said now and then by people who either do not think of it as an error or do not mind, but the fact that it virtually never appears in edited prose—except when discussed as a solecism—suggests that it may never settle in.
 
 A word it is, but maybe another sense needs to be added to those dictionaries: “irregardless: a word that distinguishes people who do not care much about English usage from those who care terribly—and want the world to know it.”
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/07/25/the-shadowlands-of-language

@@ -23,3 +23,7 @@ A final similarity with the euro-zone crisis is an unwillingness of governments 
 There are differences between the foreign-policy crisis and its euro cousin. Unlike euro policy, the EU’s foreign policy is not entirely in its gift to solve. There is no obvious buzzer marked “Fix Libya” that EU leaders are refusing to press. Markets cheer when the EU shows a modicum of political unity over the future of the euro. Given a similar breakthrough in foreign policy, leaders in Turkey and Russia would probably simply shrug. Likewise, while economic concerns are always at the top of voters’ minds, foreign policy appears only when something goes badly wrong. There is less political impetus to boost the EU’s geopolitical standing.
 
 A totemic belief for EU officials is that crisis breeds integration. It is a view first put out by Mr Monnet that Europe is “forged in crisis”. Such an attitude can lead to complacency but in the case of the euro it stood the test. The currency bloc stumbled but never fell, with politicians taking necessary steps, albeit belatedly. A similar path is available when it comes to the EU’s foreign policy. After all, there are plenty of crises to test the theory on. Just look at a map. ■
+
+## URL
+
+https://www.economist.com/europe/2020/08/01/europe-still-lacks-a-foreign-policy

@@ -19,3 +19,7 @@ The defining feature of “Twin Peaks” is its seamless switching of registers,
 Few shows have been more influential. The lesson of “Twin Peaks”—that respecting the audience’s intelligence can reap rewards—inspired “The Wire” and “The Sopranos”. Its fusion of the quotidian and supernatural recurs in “The X-Files” and “Stranger Things”. Its stature has only grown over the years, spawning all the paraphernalia of the cult classic, from fan conventions to all-night watch parties (Mr MacLachlan hosted a virtual one in April).
 
 Mr Lynch’s own interest waned after the suits at ABC, the network that first aired the programme, forced him to identify Laura’s killer part-way through the second season; so did the quality of the drama. A third season, broadcast in 2017, contains flashes of brilliance but its experiments test the patience. Highlights include a three-minute segment of a barman sweeping up peanut shells. In Mr Lynch’s world, as in a lockdown, time operates at a different pace. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/05/30/the-world-of-twin-peaks-chimes-eerily-with-the-mood-of-the-lockdown

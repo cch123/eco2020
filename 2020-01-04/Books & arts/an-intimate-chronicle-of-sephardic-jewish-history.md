@@ -21,3 +21,7 @@ The languages the Levys used were as varied as their personalities. Ottoman Turk
 This focus on the traditional language of Sephardic culture reflects Ms Stein’s broader, underlying theme—for what begins as an intimate tale of the Levys becomes a far wider chronicle. Like the Levys, many Sephardic families would spend the 20th century tugged between secularism and faith, and between loyalty to old empires and a new nationalism. Many would meet the same desperate fate: 98% of Salonikan Jews died in the Holocaust. 
 
 “Family Papers” climaxes in the second world war—including the outlandish career of one Levy who helped the Nazis—but Ms Stein finishes her story in gentler times. Some Levys survived the war in hiding; others had already emigrated. Today, she says, the descendants of the original clan are “amiable, generous souls living culturally vibrant lives” from Lisbon to Berkeley. One became a French ambassador. Another played Miss Moneypenny in a James Bond film. Most have no contact with each other, nor any idea of their shared history. Yet through their inherited idiosyncrasies, they retain a family resemblance—even if the passion for writing letters has gone the way of Ottoman Salonika. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/01/02/an-intimate-chronicle-of-sephardic-jewish-history

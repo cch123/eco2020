@@ -21,3 +21,7 @@ It is not all easy, dating in a lockdown. Kevin, a 26-year-old tech worker, says
 Still, it could be worse. “It has brought us back to an older way of connecting with people, which is just talking, not all these visual branding cues on profiles,” says Katie Nelson, a journalist confined to her parents’ home in Minneapolis. She used to despair of men rushing to meet up before she knew anything about them. When lockdowns end, it may be too much to hope that the return of slow courtship will last. But by then some people might have become experts at it.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/united-states/2020/03/26/the-return-of-slow-courtship-to-american-dating

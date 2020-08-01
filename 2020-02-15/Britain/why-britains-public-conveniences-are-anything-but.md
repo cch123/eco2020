@@ -19,3 +19,7 @@ The campaign is on to something. Public toilets were once a source of municipal 
 But councils are under no legal obligation to provide toilets and, after budget cuts under successive governments, town halls are hardly flush. Toilets, which are costly to keep in good nick, provide a convenient target for cost-cutters. In 2017 the City of London spent nearly £1m running four loos, despite charging users between 20p and 50p each time. London councils have stopped maintaining 13% of conveniences since 2010, according to the BBC. Several Victorian lavatories have been refashioned as quirky cocktail bars. One, in Clapham, is still called WC, though that now stands for wine and charcuterie rather than “water closet”. Nobody knows exactly how many public loos London has, but the number would fall way short of Paris’s 400.
 
 After Bristol City Council closed all of its public toilets in 2018, it replaced them with a “community toilet scheme”, under which a group of local businesses has opened 84 loos to non-customers. But many of the firms listed on the scheme’s website do not display signs in their window indicating that their toilet is free to use. Staff in two of the businesses that signed up had only dimly heard of the initiative. If such schemes are not publicised, they will go down the pan. ■
+
+## URL
+
+https://www.economist.com/britain/2020/02/15/why-britains-public-conveniences-are-anything-but

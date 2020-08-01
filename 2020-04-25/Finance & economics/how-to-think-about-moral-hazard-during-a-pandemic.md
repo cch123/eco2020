@@ -27,3 +27,7 @@ Questions of moral hazard cannot be put off for ever, though. Some will become m
 In the years after the pandemic, even harder choices loom. Covid-19 may seem a uniquely devastating and global disaster. But the threat posed by climate change means that such extraordinary natural calamities might not be so infrequent. It might thus become harder for governments to credibly declare that aid provided during such disasters is a one-off, as is needed to discourage reckless behaviour and to stop dangerous risks from accumulating. Governments are right to help without hesitation now, but the years ahead will force societies to demand more personal, and collective, responsibility. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/04/25/how-to-think-about-moral-hazard-during-a-pandemic

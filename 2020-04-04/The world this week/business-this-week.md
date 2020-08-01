@@ -35,3 +35,7 @@ Xerox abandoned its $30bn hostile takeover bid for  HP because of market uncerta
 ![](./images/20200404_WWC095.png)
 
 March was the best month on record for British supermarkets, with sales rising by a fifth compared with the same month in 2019, according to retail research. Sales of frozen food were up by 84% (Iceland’s revenue rose the most among the big chains). With pubs closed, alcohol sales jumped by an intoxicating 67%. An analysis of global search trends over March showed a sharp rise of interest in eco toilet paper, bidets, weights equipment and bulk ammunition.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/04/02/business-this-week

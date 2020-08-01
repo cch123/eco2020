@@ -23,3 +23,7 @@ Investors who put assumptions about a company’s long-term success over its sho
 The latest assault came on May 15th, when the Department of Commerce introduced new export-control rules that prevent SMIC from using American chipmaking equipment to produce microprocessors for Huawei, the Chinese telecoms giant at centre-stage in the technological cold war. Bernstein, a research firm, says that if SMIC were to lose Huawei’s custom that would shave 20% from its existing revenue and, crucially, deprive it of “most” of its expected growth. SMIC’s already thin margins may turn negative when $1.7bn in capital spending since 2016 begins to incur depreciation costs, according to Bernstein, which recently said in a report that SMIC’s shares looked overvalued.
 
 SMIC and its investors will hope that the firm can ride out these and future bumps to reach the lucrative position as chipmaker-in-chief to the Chinese market. Being backed to the hilt by China’s government will help. The question hanging over SMIC, and all of the country’s chip ambitions, is whether a combination of stockpiling kit and negotiating with partners can keep existing supply chains in place long enough, even in the face of American disruption, to allow for the development of domestic replacements. If it can, SMIC may flourish. If not, Beijing will miss its objective. ■
+
+## URL
+
+https://www.economist.com/business/2020/07/09/why-smic-is-surging

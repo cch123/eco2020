@@ -15,3 +15,7 @@ The authorities confiscated his motorbike after suddenly banning two- and three-
 Instead of ushering in modernity, the ban has wrought chaos. Riders have clashed with police and burned tyres in the neighbourhood of Alimosho, west of the city centre. Commuters have suffered. At dawn thousands of people trek by foot through inner-city streets. Those able to take cars have done so, adding to the city’s already insufferable gridlock: one study before the ban found that residents spent almost as much time commuting to work (30 hours a week) as they spent once they got there. To fill the gap the government has laid on an extra 65 buses. That is roughly one bus for every 300,000 residents.
 
 Another effect of the ban may be to deter investment. Nigeria already has a reputation for arbitrary governance; making gridlock worse won’t help. Among the worst-hit firms are Gokada, a sort of Uber for motorcycle taxis, and Max, a motorcycle courier business. Both had attracted millions of dollars from foreign investors. Valuations of both have slumped. Lagos without okadas may be both less liveable, and poorer.
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/03/12/a-ban-on-motorcycle-taxis-is-causing-chaos-in-lagos

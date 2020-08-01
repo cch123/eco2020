@@ -53,3 +53,7 @@ The regional government in Catalonia put in place restrictions on areas where th
 Masks are to be compulsory in shops in England from July 24th. Boris Johnson wore a mask in public for the first time, as did Donald Trump.
 
 South Africa banned sales of alcohol, to free up intensive-care beds for covid-19 patients. See [article](https://www.economist.com//middle-east-and-africa/2020/07/18/south-africa-bans-alcohol-sales).
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/07/18/politics-this-week

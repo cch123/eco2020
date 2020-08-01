@@ -25,3 +25,7 @@ All of this is likely to involve tackling what Nick Pearce, head of the Downing 
 He writes that part of the reason he and his then-boss, Michael Gove, “got much more done than ANY insider thought was possible—including [David] Cameron and the Perm Sec—was because we bent or broke the rules.” A devil-may-care approach could spread in a government eager to get things done. Mr Cummings thinks politicians are cowed by government legal advice, often by lawyers citing European directives. A recent report by Policy Exchange, a sympathetic think-tank, suggests making it easier for ministers to take advice from external lawyers.
 
 Rearranging government departments “is a very sizeable task in and of itself,” with a mixed record of success, notes Catherine Haddon of the Institute for Government, a think-tank. Writing about how to transform the state is one thing; doing so is quite another. So old hands suspect gradual evolution is more likely than a big bang. To Mr Cummings, that may sound like the usual complacency: “There is a widespread befuddled defeatism that nothing much in Westminster can really change,” he blogged. Now he has another chance to prove the establishment wrong. ■
+
+## URL
+
+https://www.economist.com/britain/2020/01/02/dominic-cummingss-plan-to-reshape-the-state

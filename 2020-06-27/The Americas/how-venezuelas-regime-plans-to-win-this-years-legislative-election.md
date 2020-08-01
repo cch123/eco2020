@@ -25,3 +25,7 @@ If Mr Guaidó no longer leads the legislature, his foreign allies will also have
 Not everything is going his way. The production of oil, Venezuela’s main source of foreign income, has slumped to the lowest levels since the 1920s. Its price is low. By the end of this year, in real terms the economy is expected to be a fifth the size it was in 2013, when Mr Maduro became president. American economic sanctions are biting. There is less cash to buy loyalty from the armed forces, the final arbiter of the regime’s fate. It will someday fall.
 
 Venezuelans who yearn for change have little hope. “They have won,” said a disillusioned teacher, who has been protesting against the regime since 2007. “I honestly believe this country is lost.”■
+
+## URL
+
+https://www.economist.com/the-americas/2020/06/25/how-venezuelas-regime-plans-to-win-this-years-legislative-election

@@ -21,3 +21,7 @@ And it is getting more expensive. Applying for a marriage-based green card, whic
 When somebody was refused an extension to their visa in the past, they were usually trusted to leave the country (and most did). These days they are thrown straight into immigration courts for deportation, says Mr Chen. Many of these people probably qualified for a visa, and simply made a mistake in filling in their applications.
 
 Some groups have been singled out. In April 2017 Mr Trump signed the “Buy American, Hire American” executive order. That tightened rules on the H1B visas, the one Mr Iyer uses, most of which go to Indian tech workers. Since Mr Trump’s executive order, denial rates have shot up, particularly at large Indian-owned consultancies. In 2016 Infosys, one such company which is the largest single recipient of H1Bs, was allowed 14,000 visas. Just 3% of applicants were rejected. By last year, the figure had fallen to just 3,200 and 36% of applicants were rejected. Consultancies are being told to provide evidence of exactly which clients their workers would be serving, for the three-year length of their visas. So much for that big beautiful door.■
+
+## URL
+
+https://www.economist.com/united-states/2020/02/29/the-trump-administration-doesnt-like-high-skilled-immigrants-either

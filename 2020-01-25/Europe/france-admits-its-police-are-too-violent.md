@@ -19,3 +19,7 @@ Yet the accumulation of serious injuries, and the damage this has done to the im
 The message seems to have sunk in. This month Christophe Castaner, the interior minister, urged the police to “keep their sangfroid” even in the face of provocation. For his part, Mr Macron acknowledged that there have been cases of police action that are “not acceptable”, stressing that such behaviour undermines the overall credibility of the forces. He has asked Mr Castaner for proposals on how to improve police ethics.
 
 Tension remains high, not least within the police force, where some see the government’s criticism as a betrayal. Exasperation and fatigue contribute to excessive use of force, says one officer, and proportionate violence belongs to the police force’s toolkit. Further incidents may be inevitable. A long-running public-transport strike over pension reforms is coming to an end, and as it does the conflict is radicalising. Mr Macron had to be rushed out of a theatre by security agents on January 17th, after irate protesters tried to force their way in. With or without new police tactics, France’s dispiriting violence looks set to continue. ■
+
+## URL
+
+https://www.economist.com/europe/2020/01/23/france-admits-its-police-are-too-violent

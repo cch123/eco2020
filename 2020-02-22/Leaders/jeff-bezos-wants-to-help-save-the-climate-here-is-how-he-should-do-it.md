@@ -29,3 +29,7 @@ In technology, progress will come from putting large amounts in well-chosen area
 A smaller chunk of the fund could be reserved for technologies much further from acceptance. One such is solar geoengineering—cooling the Earth by reflecting away some incoming sunlight. In most discussion of climate action this approach, widely seen as unpalatable and dangerous, is sidelined. Although by no means a silver bullet, or even necessarily a desirable strategy, assessing how it might be undertaken in a responsible way deserves more attention. Funding is feeble at present—perhaps $20m a year worldwide. Mr Bezos could double that at the stroke of a pen.
 
 His goal of creating a new civilisation in the heavens to save Earth remains far-fetched and, to many, unattractive. But he does not need to achieve that to speed up the fight against climate change. He just needs to spend copiously, but wisely. And that is how he got rich in the first place.■
+
+## URL
+
+https://www.economist.com/leaders/2020/02/22/jeff-bezos-wants-to-help-save-the-climate-here-is-how-he-should-do-it

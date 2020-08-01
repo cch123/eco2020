@@ -29,3 +29,7 @@ Democrats want to hear from them, as well as other witnesses whom the White Hous
 These five senators, running this autumn in states where Mr Trump has a negative net-approval rating—Susan Collins of Maine, Martha McSally of Arizona, Thom Tillis of North Carolina, Cory Gardner of Colorado and Joni Ernst of Iowa—are in an unenviable position. Voting to convict Mr Trump risks prompting a Republican primary challenger. Helping to form majority support for more witnesses and evidence risks inviting a long court fight—Mr Trump will probably try to block Mr Bolton from testifying—which leaves time for questions from pesky reporters. Yet, appearing too eager to rush to a verdict risks harming them with the independent voters they need to hold on to their seats.
 
 Mr Trump, watching the initial proceedings from Davos, appeared supremely unconcerned with anyone’s fate but his own. He called the House managers “major sleazebags”, and fantasised about attending his trial in order to “sit right in the front row and stare into their corrupt faces”. And he boasted, “Honestly, we have all the material. They don’t have the material.” That is, of course, precisely what is alleged in the second article of impeachment.■
+
+## URL
+
+https://www.economist.com/united-states/2020/01/25/the-strange-impeachment-trial-of-donald-trump

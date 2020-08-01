@@ -25,3 +25,7 @@ It is also possible that the error occurred on Google’s side. Machine-learning
 Problems with complex systems like this can be solved, but they are opaque not just through Google’s choice, but inherently through their technical design. If YouTube’s comment-moderation systems were nudged into the automated deletion of anti-CCP phrases, despite the application of the highest tech, similar holes will surely pop up in future.
 
 The only way for Google to win this game of cat-and-mouse is to shut down YouTube comments entirely. Or it could gain an edge by spending a lot of money on humans to do the moderating. Neither is likely. Instead, such issues will probably keep providing sticks with which Mr Cruz and friends can beat the tech giant. With the outcome of a Department of Justice investigation into Google’s monopoly power looming, that may prove a liability. ■
+
+## URL
+
+https://www.economist.com/united-states/2020/05/28/googles-removal-of-anti-beijing-comments-raises-political-eyebrows

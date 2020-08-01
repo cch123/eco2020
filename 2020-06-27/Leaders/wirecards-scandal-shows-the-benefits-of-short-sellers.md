@@ -23,3 +23,7 @@ Those who bet against companies have long been eyed with suspicion; short-sellin
 Shorting does more than just root out funny business. It also helps sharpen price discovery when legitimate firms are overvalued. Short-sellers tend to do their homework because they have a lot at stake. Stocks can rise by more than they can fall and shorts can bleed money if a target’s shares remain buoyant for years. They have to face writs and illegal tactics, too—Wirecard is suspected of ordering cyber-attacks on its critics.
 
 More’s the pity, then, that as protectionism mounts, governments are becoming more tempted to cuddle up to home-grown corporate stars. Typically, frauds have a global element—Wirecard falsely claimed that the missing cash was in the Philippines; NMC has creditors in Taiwan and Oman, among other places; and Luckin was incorporated in the Cayman Islands. But the trade war and fracturing of global regulation make it harder for sceptics to work their magic. More Chinese firms may eventually shift their main listing from New York to China, where short-selling is less tolerated. Professional naysayers will never be popular, profiting as they do from the misery of others. But if they cannot keep markets honest, nobody wins.■
+
+## URL
+
+https://www.economist.com/leaders/2020/06/24/wirecards-scandal-shows-the-benefits-of-short-sellers

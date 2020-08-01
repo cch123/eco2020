@@ -21,3 +21,7 @@ The government’s counter-insurgency tactics are inept, too. It has so far reli
 Neighbours, especially South Africa, the biggest regional power, and Tanzania, which borders Cabo Delgado, should press the Mozambican government to behave better. They should also share intelligence with it. Right now they are preoccupied by covid-19, but the insurgency will probably outlast the pandemic. A summit about Islamist violence scheduled for May should go ahead, albeit virtually. Western countries should tell Mozambique to let aid agencies and journalists do their jobs.
 
 Energy firms, which include giants such as ExxonMobil and Total, could do more as well. They have sought to cocoon themselves from the violence by hiring private-security firms. That is not enough. Their projects will remain insecure unless they can show that the benefits of their investments flow to ordinary Mozambicans, not just the FRELIMO elite. If Mozambique were to fall apart again, it would be a tragedy. If jihadism were to take root, it could spread to neighbouring countries, as it has in the Sahel. Mozambique, and Africa, deserve better. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/04/02/jihadists-threaten-mozambiques-new-gasfields

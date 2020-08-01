@@ -29,3 +29,7 @@ So how should the trade architecture work in an age of mistrust? The goal should
 Chinese firms should also be required to accept open governance of their big subsidiaries in the West, including local shareholders, foreign directors and managers with real autonomy, and disclosures that all help create a degree of independence from the state. This is not hard: multinationals such as Unilever have been doing it for decades. TikTok could be a pioneer.
 
 Open societies are stronger when they act in unison. Europe may be tempted to go it alone, ending decades of transatlantic co-operation. Yet at some point, soon if Mr Trump fails to win a second term, America will reinvigorate its alliances because it has been less effective without them. The West cannot fundamentally change China or ignore it. But by acting together, it can find a way to do business with an authoritarian state it mistrusts. Huawei marked a failure to do this. Time to start again.■
+
+## URL
+
+https://www.economist.com/leaders/2020/07/18/china-v-america

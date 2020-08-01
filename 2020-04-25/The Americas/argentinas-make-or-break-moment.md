@@ -39,3 +39,7 @@ Mr Fernández is trying to shield poor Argentines from the consequences of the l
 The pre-existing recession makes the trade-off between public health and economic growth even more painful than it is for most countries. Under pressure from trade unions and business, Mr Fernández has allowed organisations in 11 sectors, including export industries and refuges for victims of domestic violence, to reopen. But he is likely to rule out a quick return to normality like that advocated by Brazil’s president, Jair Bolsonaro, who makes light of covid-19. Mr Fernández knows that the pandemic is more merciless than Argentina’s creditors. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/the-americas/2020/04/23/argentinas-make-or-break-moment

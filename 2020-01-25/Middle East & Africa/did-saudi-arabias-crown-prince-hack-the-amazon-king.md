@@ -25,3 +25,7 @@ The same goes for foreign leaders. Intelligence officials in America and elsewhe
 On the bright side, wags quip, the alleged hack was perhaps another example of burgeoning ties between Israel and the Gulf states. Though the UN could not pinpoint the malware used, researchers believe it relied on Pegasus, spyware designed by NSO Group, an Israeli firm. It is the subject of multiple lawsuits—including one by WhatsApp itself—that accuse it of providing spyware to authoritarian regimes. (NSO Group denies wrongdoing.)
 
 The report, if true, is perhaps most troubling for Prince Muhammad’s own subjects. Scores of the government’s critics have ended up in jail. A Saudi dissident living in Canada, Omar Abdulaziz, claimed in a lawsuit filed in Israel in 2018 that Pegasus was used to tap his phone and monitor his communications with Khashoggi. If the world’s richest man is a target, any Saudi citizen has good reason to worry. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/01/25/did-saudi-arabias-crown-prince-hack-the-amazon-king

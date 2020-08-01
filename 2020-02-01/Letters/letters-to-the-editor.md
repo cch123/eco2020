@@ -53,3 +53,7 @@ GRAEME SHELFORDThetis Island, Canada
 I commend your article on the importance of culture in defining what is disgusting (“[Overcoming the yuck factor](https://www.economist.com//international/2020/01/09/what-a-museum-of-disgusting-food-reveals-about-human-nature)”, January 11th). Readers interested in the subject should turn to William Ian Miller’s superb book, “The Anatomy of Disgust”, published in 1997. Mr Miller provides such trenchant insights as “vomit may be more disgusting than faeces (only faeces is playing by the rules)”, and that “even in the Middle Ages, with its presumably high thresholds of disgust…one simply did not drink pus.”
 
 JOHN HANSONCambridge, Massachusetts
+
+## URL
+
+https://www.economist.com/letters/2020/01/30/letters-to-the-editor

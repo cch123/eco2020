@@ -75,3 +75,7 @@ This patchwork of global systems presents its own challenge: how to make them ta
 And there’s the rub. Covid-19 demands an array of drastic, immediate responses. It also requires thinking that looks beyond the next two weeks. The network of computers built for entertainment, convenience, connection and security is helping in all sorts of quotidian ways, from video-conferencing to team-working to gaming for rest and recuperation. But it also provides a network of sensors that can co-ordinate the responses of both individuals and whole populations to a degree unimaginable in any previous pandemic. Countries are learning how to make use of that panopticon’s power in a pell-mell, piecemeal way. The systems that they lash together may last a long time. It would be best to keep an eye on them.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/briefing/2020/03/26/countries-are-using-apps-and-data-networks-to-keep-tabs-on-the-pandemic

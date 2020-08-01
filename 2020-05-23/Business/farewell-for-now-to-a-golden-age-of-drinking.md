@@ -27,3 +27,7 @@ In addition, two longer-term threats loom on the horizon: demography and drugs. 
 Drinks firms can take some comfort from China, where covid-19 fears are on the wane. Punters there are once again queuing up to enter bars. The share price of Kweichow Moutai, China’s most exclusive brand of baijiu firewater, continues to soar, hinting at a thirst for luxury tipples among the super-rich. And some quarters are abuzz about the potential of e-commerce to reshape the business, arguing that if producers can use technology to sell booze directly into the home rather than through supermarkets, they can gain a better understanding of how to get deeper down drinkers’ throats. There will, to be sure, be more opportunities to innovate. But for now most of the excitement will be about new direct-to-consumer business models, rather than new types of exotic liquor. Business innovation is always alluring. Not quite in the same way as whisky fumes in the nostrils, though. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/05/23/farewell-for-now-to-a-golden-age-of-drinking

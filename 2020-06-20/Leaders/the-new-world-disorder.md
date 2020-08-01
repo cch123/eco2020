@@ -37,3 +37,7 @@ Defending the international order is necessary, too. China’s stature is growin
 Some think the job of middling powers is triage, to keep the system going until America returns to the party under a different president. It is more than that. Although polls suggest that most Americans would like to play a bigger global role, there is no going back to the “unipolar moment” after the Soviet collapse, when America ran the show single-handed. Not only did that provoke a backlash abroad, exploited by Russia and China, but it also stirred up resentment at home.
 
 At the time, President Barack Obama responded by asking like-minded countries to help America make the world safe. They shrugged. They must not make the same mistake again. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/06/18/the-new-world-disorder

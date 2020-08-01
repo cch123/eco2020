@@ -27,3 +27,7 @@ But in many places cash rates are below current inflation. A superior way to hed
 By holding TIPS to maturity, an investor can receive inflation insurance and also be paid a real return of 0.1% a year. True, were there to be an inflation shock, the Fed would react and real interest rates would go up, which would have a downward effect on the price of TIPS. But that would be more than offset by the upward effect of a surge in demand for insurance against higher expected inflation, say John Roe and Chris Jeffery of Legal and General Investment Management.
 
 Reasonable people might ask: “Why bother?” Inflation has been slain. The fear that it is just around the corner led to investment mistakes and policy errors during the 2010s. Fair enough. But the reasons for quiescent inflation in the face of low unemployment and the secular decline in interest rates are not fully understood. A decade from now, a successor to Mr Powell may be explaining to Congress how the Fed had undercooked its inflation forecasts.
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/01/02/why-the-most-important-hedge-is-against-unexpected-inflation

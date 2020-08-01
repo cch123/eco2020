@@ -21,3 +21,7 @@ Like other artists, meanwhile, professional singers, most of whom are freelancer
 Westminster Abbey’s choir, which kept singing through the second world war, is bound to survive the pandemic. Others will adapt to a new, socially distanced reality. Justin Doyle, conductor of the RIAS Chamber Choir in Berlin, suggests the disruption could be a spur to new formats. After the hiatus, his group’s live performances may involve three teams of singers taking turns to deliver the same programme to small audiences. “We can innovate more than football can,” Mr Doyle reckons.
 
 But without targeted financial support, many other ensembles may have to fold; the prospects of the highly regarded Vienna Boys’ Choir, among others, look bleak. For many enthusiasts, life after lockdown will be less melodious, and lonelier. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/07/08/choral-singing-has-been-hit-hard-by-the-pandemic

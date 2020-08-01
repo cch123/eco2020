@@ -35,3 +35,7 @@ Earlier this month Mr Trump was lambasted for having allegedly tried to buy a pr
 Mr Trump’s effort to redefine relations with China as fundamentally competitive may prove to be his most enduring legacy. Contrary to his politicking, even Democrats now see the relationship in those terms. His management of it, as the pandemic highlights, is a different story: it shows how America can lose.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/united-states/2020/03/26/relations-between-china-and-america-are-infected-with-coronavirus

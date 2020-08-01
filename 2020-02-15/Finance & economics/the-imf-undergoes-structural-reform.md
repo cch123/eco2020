@@ -31,3 +31,7 @@ There are also concerns that Mr Lipton might be replaced by someone less capable
 Ms Georgieva still needs to convince some fund-watchers that she is updating its mission not diluting it. New ambitions require resources—or a sense of which old tasks will be cut to make way for new ones. Structural reforms need not do damage. But they should be enacted with care. ■
 
 Correction (February 14th 2020): By convention America appoints the first deputy managing director of the IMF, not the first managing director, as we originally wrote.
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/02/15/the-imf-undergoes-structural-reform

@@ -23,3 +23,7 @@ Mr Xi defined it as a “new era” in relations. He was to have come on a state
 The new era has since been losing its shine. Since April Chinese coastguard vessels have sharply increased operations around the Senkakus, with near-daily visits. And now Hong Kong has become a thorn in the relationship. In its strongest language against Japan in years, China lashed out at criticism of its plan to impose a draconian security law in the territory (see [article](https://www.economist.com//china/2020/06/27/china-is-secretive-about-its-new-national-security-law-for-hong-kong)), even though Mr Abe had walked a delicate line by declining to join Australia, Britain, Canada and the United States in an admonitory joint statement.
 
 Some 1,400 Japanese companies and 26,000 Japanese make Hong Kong their home. But Japan’s greater concern is what China might do to Taiwan, its democratic neighbour and friend. It all means, for Mr Abe, that domestic political constraints will grow, too. Already, ordinary folk increasingly fault China for Japan’s epidemic. And, crucially, they remain suspicious of China’s intentions. The same Genron NPO poll found that the proportion of Japanese with an unfavourable opinion of China had remained at 85%. Bet on Mr Xi’s state visit never happening. Don’t count on the new era lasting either.■
+
+## URL
+
+https://www.economist.com/asia/2020/06/27/a-supposed-detente-between-japan-and-china-is-already-fading

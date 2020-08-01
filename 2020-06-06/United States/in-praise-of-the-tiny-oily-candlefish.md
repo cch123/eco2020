@@ -21,3 +21,7 @@ With a genus name—Thaleichthys—that is Latin for “rich fish,” hooligan a
 For many Alaskans, hooligan usher in the season of harvesting as locals fan out into meadows to gather fiddlehead ferns and wild greens, head to charred sites of old wildfires in search of morel mushrooms and launch skiffs to drop a hook for the first time of the year.
 
 When panic-shopping emptied grocery store shelves earlier in the year, and Alaskans were reminded of the fact that they live at the end of a very long supply chain, many felt a renewed drive to become more self-reliant. While some stores still restrict the amount of meat customers can buy here, there are no limits on hooligan catches.
+
+## URL
+
+https://www.economist.com/united-states/2020/06/04/in-praise-of-the-tiny-oily-candlefish

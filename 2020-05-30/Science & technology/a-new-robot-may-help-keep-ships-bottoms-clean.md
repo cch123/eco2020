@@ -29,3 +29,7 @@ That can easily happen with conventional cleaning-by-diving, because this leaves
 The HullSkater approach is not perfect. Regular cleaning by robot could, the makers admit, wear away some types of antifouling coating, thus limiting the process’s efficacy. Jotun has, however, developed a special, hard-wearing coating, which it plans to sell in conjunction with the robot, to minimise this problem.
 
 HullSkater is now being tested in various parts of the world (for rates of fouling depend on local conditions, such as sea temperatures), and the plan—at least at the moment—is to roll it out commercially this summer. If that is a success, according to Hans Peter Havdal, Semcon’s general manager, the next stage will be to develop a family of such robots, designed for ships of different sizes and types. Ideally, these will have higher levels of autonomy than HullSkater. They may even be able to learn the shape of the hull they have been designated to keep spick and span, and thus get on with the job unsupervised.■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/05/28/a-new-robot-may-help-keep-ships-bottoms-clean

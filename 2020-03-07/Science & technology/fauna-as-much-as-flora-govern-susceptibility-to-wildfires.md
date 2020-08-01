@@ -25,3 +25,7 @@ Other species actually collect leaves and wood for various purposes. For example
 Dr Foster and her colleagues suggest that an understanding of the activities of animals in an area would thus help those fighting fires there predict how big a fire is likely to get, how quickly it is likely to spread, how patchy it will be and whether or not it has a good chance of spreading to the canopy. There may even be the potential to shape the behaviour of future fires through measures that increase the populations of fire-suppressing species.■
 
 Sign up to our fortnightly climate-change newsletter [here](https://www.economist.com//theclimateissue/)
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/03/07/fauna-as-much-as-flora-govern-susceptibility-to-wildfires

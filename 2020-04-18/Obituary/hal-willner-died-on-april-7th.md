@@ -25,3 +25,7 @@ In 1980 he became the music co-ordinator for the sketches of “Saturday Night L
 Like so many who had grown up in the shadow of the second world war, though, he knew that the difference between being OK and not OK was paper thin. As music and music production became increasingly computerised, he saw that he was no longer the new kid on the block. Death, which his musical energy had succeeded in banishing, now slunk back, first among his mentors and then his friends.
 
 Back in November, in between swinging punches at Donald Trump and Harvey Weinstein, his Twitter feed became a roll-call for the recently departed and a roster of just how many had called him a friend, starting with rock writer Nick Tosches. A salute to Michael Pollard, the actor with whom he worked on Terry Southern’s “Give Me Your Hump”, was followed by one to composer Irving Burgie and Stacey Foster of SNL. Then it was the turn of Monty Python collaborator Neil Innes on New Year’s Eve, McCoy Tyner for so long part of the John Coltrane Quartet, and Danny Thompson who played flute, alto sax, baritone sax and bassoon. On March 30th he was sending love to country singer John Prine, who was dying of coronavirus. The next week he, too, died of the virus, just a couple of days after he turned 64; the Beatles, with him to the end.■
+
+## URL
+
+https://www.economist.com/obituary/2020/04/16/hal-willner-died-on-april-7th

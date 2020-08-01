@@ -41,3 +41,7 @@ The European Commission in Brussels published plans to halve carbon emissions wi
 Priti Patel, Britain’s home secretary, came under fire following the resignation of the most senior civil servant in her department. Sir Philip Rutnam left while issuing a claim for constructive dismissal against the Home Office, an unprecedented move. He claims she was involved in a briefing against him because she wanted to replace him. Allegations emerged that Ms Patel bullied officials in other departments. She denies any wrongdoing. See [article](https://www.economist.com//britain/2020/03/05/priti-patels-bust-up-at-the-home-office).
 
 In Slovakia, a new party created by an anti-corruption campaigner was the unexpected winner in a parliamentary election. The ruling party was ousted by a group called the Ordinary People and Independent Personalities party. See [article](https://www.economist.com//europe/2020/03/05/an-anti-corruption-campaigner-triumphs-in-slovakia).
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/03/07/politics-this-week

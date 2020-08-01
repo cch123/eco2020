@@ -23,3 +23,7 @@ Vow taken, he had fun. For his students he made abstruse theorems simple and eve
 As a magpie, though, hopping after any bit of plastic papered with gold, he drew back from some of the vaster ideas his “thinkering” touched on. Enthusiasts often said the Game of Life modelled not merely life but the universe, anything and everything. He doubted that. He hoped that surreal numbers might lead to something “greater”, but did not pursue that path himself. From 2004 he worked on the Free Will Theorem, which proposed that if experimenters had free will to decide what quantities to measure in an experiment, then elementary particles could choose how to spin. He threw out the provocation and left it there.
 
 The question that dogged him most concerned the Monster group. Its enormous number of dimensions was not arbitrary. So what was it all about, and why was it there? On and off, he would have a think about it. He would like to have known. But meanwhile, no one had quite solved his Piano Problem: what was the largest object that could be manoeuvred round a right-angled corner in a fixed-width corridor? That would be good to know, too. ■
+
+## URL
+
+https://www.economist.com/obituary/2020/04/23/john-conway-died-on-april-11th

@@ -23,3 +23,7 @@ On other issues, Mr Netanyahu and Mr Gantz are not so far apart. Both candidates
 Israel’s election commission is already preparing for a possible fourth vote, in September. That might suit Mr Netanyahu, who would like to show up in court as a sitting prime minister. But most Israelis, including many of Mr Netanyahu’s allies, want to avoid another election. Though things have been running smoothly under the interim government, it cannot pass a budget or make big decisions. The monthly outlays for government ministries have automatically reverted to those in the 2019 budget, making it harder to build new infrastructure, fund social programmes or raise taxes to shrink a deficit that reached 3.7% of GDP last year. The lack of a budget “will not only affect government offices, but also the entire economy”, warned the accountant-general in November.
 
 If they cannot form a government on their own, Mr Netanyahu and Mr Gantz will come under pressure to team up. A unity government featuring Likud and Blue and White was discussed after the last election. Mr Netanyahu agreed to split the prime minister’s term with his rival, but insisted on going first. Mr Gantz has ruled out serving under Mr Netanyahu while he is facing criminal charges. The prime minister’s allies could force him to the sidelines—though it is just as likely that the indomitable Mr Netanyahu will defy the odds, and hang on to his office. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/02/29/will-israels-third-election-in-a-year-at-last-produce-a-government

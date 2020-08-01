@@ -25,3 +25,7 @@ Consider Anand Teltumbde, a 69-year-old management professor who champions the r
 Perhaps most disturbing has been the government’s failure to act at all against far more obvious troublemakers. During the covid-19 crisis, it has seemed completely uninterested in staunching a nasty wave of Muslim-baiting on social media, just as it ignored incitement to violence against anti-government protesters before the Delhi riots. The gist of the rumours doing the rounds is that the Muslims are deliberately spreading the epidemic as a “corona jihad” against the Hindu majority. One watchdog group has counted no fewer than 94 fake-news videos circulating in the past month, attracting millions of views, in which Muslims are supposedly shown propagating the disease by spitting in food, dropping infected currency notes and so on. Naturally, any meaningful debate about the government’s handling of the epidemic has been buried under this dangerous rubbish.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/asia/2020/05/09/indias-government-is-better-at-curbing-critics-than-covid-19

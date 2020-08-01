@@ -51,3 +51,7 @@ Scaling up testing infrastructure will also face regulatory hurdles. For example
 The cost for all this? The Harvard group estimates around $15bn per month and that it would need to be in operation for a year or more, depending on when (and if) treatments and vaccines became available. That price tag may seem eye-watering, but lockdown costs far more. Estimates place the cost to America of the pandemic at up to $400bn a month. Given the alternative, building the largest medical-testing system the world has ever seen is a steal. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/04/23/how-to-build-and-deploy-testing-systems-at-unprecedented-scale

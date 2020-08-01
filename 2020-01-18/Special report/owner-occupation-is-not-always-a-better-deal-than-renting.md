@@ -17,3 +17,7 @@ That calculation nonetheless underestimates the cost of owner-occupation. Whethe
 Owner-occupiers must also account for wear and tear. Each year in America they pay around $200bn in maintenance and improvement costs (about 1% of the value of the houses in their possession). Home ownership also carries opportunity costs. In recent decades housing has proven to be a good investment; that may well continue. But capital locked up in a house could have made an even higher return if invested elsewhere.
 
 What happens when you factor all this in? Take the example of the British housing market. In the run-up to the financial crisis of 2008-10, rapid increases in house prices and rising interest rates meant the user cost of owning actually rose well above rents. But over the long run the two tenures have cost about as much as each other. This is as economic theory would predict. Renting a home, and buying the right not to have to rent a home, are economically equivalent actions.
+
+## URL
+
+https://www.economist.com/special-report/2020/01/16/owner-occupation-is-not-always-a-better-deal-than-renting

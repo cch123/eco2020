@@ -21,3 +21,7 @@ Charities and local authorities face their own challenges. About a tenth of staf
 Despite the difficulties, charities are looking at the crisis as an opportunity. Once it is over, “it would be a tragedy to say ‘off you go’,” says Mr Sinclair. But for now, the focus remains on ensuring the streets of London—and Britain—become just a little bit more deserted.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/04/04/how-the-pandemic-has-helped-britains-rough-sleepers

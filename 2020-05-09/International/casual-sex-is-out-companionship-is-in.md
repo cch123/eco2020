@@ -37,3 +37,7 @@ Isolation has improved their emotional lives, says Dr Gur. Those who felt hurt b
 Where lockdowns lift, the old ways are returning. In Beijing, which is slowly reopening, parks are filling up with strolling couples and restaurants are busy serving tables for two. In Iran, which has allowed cars back on the streets, a teacher says that he has registered as a driver on one of the country’s ride-hailing apps, hoping to meet women. But Ms DeAlto predicts that until people need no longer worry about covid-19, most singletons will be wary of close contact with potential mates. Almost all OkCupid users, polled since March, say they plan to continue using video. The virtual date may outlast the pandemic. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/international/2020/05/09/casual-sex-is-out-companionship-is-in

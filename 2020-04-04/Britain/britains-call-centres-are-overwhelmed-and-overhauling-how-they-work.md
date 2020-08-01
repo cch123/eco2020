@@ -23,3 +23,7 @@ But it is not impossible. Sensée, as an entirely work-from-home call centre ope
 Other operators are reconfiguring their processes, often overnight. Serco, a big contractor for the public sector, has moved more than a third of its call-centre workers to home-working. Ascensos, a Scottish firm with 1,200 employees in Britain had ten such positions a month ago; now 600 employees work from home. Virgin has 1,800 laptops ready to go for when it is forced to send employees home. Ms Stagg says several insurance firms she has spoken to are preparing for 100% home-based call centres, even if it means providing fewer services over the phone. “They are having to make the choice: do we give no service or do we give some service,” she says. The future of the industry is on the line.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/04/04/britains-call-centres-are-overwhelmed-and-overhauling-how-they-work

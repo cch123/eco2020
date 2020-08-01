@@ -23,3 +23,7 @@ China may also see an interest in teaching India that, should it continue to fli
 Yet whatever the efficacy of generals meeting in windblown tents, it is a reckless way to fix problems between two rising nuclear powers that are home to a third of humanity. India has previously suggested that, as a second-best to a formal agreement over where the border lies, the two sides should at least present maps showing their view of where the line of control runs in practice. China, perhaps thinking itself the more astute Go player, has always refused to do so. This allows it to claim that any Indian move is a violation of its own understanding.
 
 It is time to stop playing games. China looks stronger just now but India, if pushed, will find ways to cause it pain. And the last thing the wider world needs is an escalating slugfest between a dragon and an elephant over a lofty patch of frozen earth.■
+
+## URL
+
+https://www.economist.com/leaders/2020/06/18/how-to-end-the-perilous-indo-chinese-border-spat

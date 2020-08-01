@@ -29,3 +29,7 @@ That future is likely to be ever closer to large urban or suburban areas, as onl
 Moreover, Prologis wants to burnish the industry’s image. To see how, cycle back down the Lea Valley to the heart of the East End, where it hopes to refurbish a listed four-storey warehouse dating back to the Victorian era. The aim is to include storage, light manufacturing, creative industries, a gym and a coffee shop. It will be solar-powered and surrounded by green space. A few decades ago abandoned industrial warehouses became trendy places to live. Those of the future may even be alluring places to work. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/05/30/the-e-commerce-boom-makes-warehouses-hot-property

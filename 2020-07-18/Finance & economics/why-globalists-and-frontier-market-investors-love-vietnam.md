@@ -23,3 +23,7 @@ There is an irony here. Vietnam’s economic strategy looks much as China’s on
 All this sounds lovely. But there is a catch. Vietnam imposes foreign-ownership limits on many home-grown companies. This is in large part why it is classed by MSCI, an index provider, as a “frontier” market, not an “emerging” one. A foreign investor who wants a stock that has reached the limit must buy from another foreigner. These off-exchange trades can take weeks to be arranged and approved, says Andrew Brudenell of Ashmore, a fund manager. A handful of stocks attract hefty price premiums. Shares in Mobile World, an electronics-cum-grocery retailer, recently changed hands among foreigners at a 51% premium to the on-exchange price, according to Viet Capital Securities.
 
 The trade-oriented nature of Vietnam’s model means it is at the mercy of events elsewhere. However well it has handled the pandemic, there will be nerves about rising infections in America, its biggest export market. The government has dusted off infrastructure plans and relaxed land-use rules. Last month it approved a new $9.3bn tourist resort. Foreign investors, naturally, have a piece of that. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/07/18/why-globalists-and-frontier-market-investors-love-vietnam

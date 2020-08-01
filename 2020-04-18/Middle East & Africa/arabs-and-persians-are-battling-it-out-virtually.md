@@ -25,3 +25,7 @@ Not everyone is so enthusiastic. Young Arabs joke that their acceptable job opti
 Panics about video games are not unique to the region. Lawmakers in America periodically seek to blame them for school shootings. Simulated violence seems less of a worry for officials in the Middle East, where the evening news is often more tragic than anything in “Call of Duty”. Some have been banned for sex scenes or for perceived slights against religion. The concern with PUBG seems to be simply that young people spend too much time on it. Tencent added a feature last year that lets parents restrict playing time—though, with their children now trapped at home, they may be happy to turn that feature off.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/04/16/arabs-and-persians-are-battling-it-out-virtually

@@ -17,3 +17,7 @@ Cue the latest proposal of the prime minister, Mia Mottley. She intends to intro
 It did not take a pandemic for some digital workers to consider moving to a beach. But before now, it was legally difficult. Getting a work permit or immigrant status meant weeks or months of form-filling. Workers had to pay Barbadian income taxes. The new procedure looks quick and easy by comparison. For a fee of $2,000 for one person, or $3,000 for a family, you can take your Zoom calls from a real pristine white sandy beach, instead of merely selecting it as a virtual background. You continue paying tax according to the rules of whichever country you came from.
 
 There will be some checks on new arrivals. We do not want “the scum of the earth, but decent and upstanding types”, says Mr Symmonds. Applicants must have health insurance, and the main breadwinner must earn at least $50,000. But otherwise the gates are open. “We welcome all. Everyone,” says Ms Mottley. “All must breathe, in this world and in this country.”
+
+## URL
+
+https://www.economist.com/the-americas/2020/07/23/barbados-invites-you-to-work-from-the-beach

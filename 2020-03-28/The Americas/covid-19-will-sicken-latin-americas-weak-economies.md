@@ -29,3 +29,7 @@ How will they pay for all this? Some may face a “sudden stop” in private cap
 Countries that can still tap financial markets should make it clear that their spending measures are temporary and that they don’t imply losing control over public finances, urges Mr Levy. Others may turn to the IMF, which is preparing emergency finance. Some governments may print money, something that has been rightly frowned upon by serious policymakers in Latin America since the 1980s, when it was associated with hyperinflation. But today deflation looks a bigger risk than inflation. Desperate times call for desperate measures.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/the-americas/2020/03/26/covid-19-will-sicken-latin-americas-weak-economies

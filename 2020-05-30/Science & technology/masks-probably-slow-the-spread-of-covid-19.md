@@ -35,3 +35,7 @@ The World Health Organisation has not advocated widespread mask-wearing, and has
 In light of all this, regulations requiring people to wear masks have spread, as an increasing number of governments view the evidence as strong enough to warrant compulsion. India now requires them to be worn in crowded public spaces, as do France, Germany, Italy and Spain. In most of the world, people either wear them in such spaces without being told to, or are required to by their governments.
 
 Among big countries, Britain and America are outliers. In Britain the government advises people to wear masks, but to little effect. On the London Underground around a third of travellers do so. On the Paris metro where people risk a €135 fine if they fail to cover their faces, everybody does. In America the Centres for Disease Control and Prevention, which previously recommended mask-wearing only for health workers, changed its mind in early April. It now recommends that everybody should wear them in places where it is hard for people to stay far enough apart. Several states have passed regulations along those lines, as has New York City. But, as Governor Burgum noted, the rows go on.■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/05/28/masks-probably-slow-the-spread-of-covid-19

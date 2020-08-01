@@ -19,3 +19,7 @@ Business looks brisk. But “it’s not busy at all,” says the manager at La M
 This point is crucial for the French Med. Local tourism, however welcome, cannot replace the foreign variety. A French tourist on the Riviera spends an average of €58 a day. Russians, Americans and Middle Easterners splurge nearly three times as much. In preparation for an expected easing on July 1st of EU rules for travel, the region is launching marketing campaigns to remind people of its charms and to reassure them about covid-19. Nice airport has already begun to schedule flights to and from other European cities from July. The city is also the starting-point this year for the Tour de France cycling race, rescheduled for August 29th. The aim for the Riviera, says Ms Behar, is “to save the rest of the season”.
 
 In the meantime locals are getting a hint of what the south of France must have felt like in the 1950s, when St Tropez was still a fishing village. Few cars with foreign number plates are to be seen on the roads. Of the French who plan a holiday this summer, 71% told a poll they intend to stay in France. Locals may secretly rather like having their beaches and restaurants to themselves. But those in the tourist industry yearn for high-spending Germans and Russians to return, even if their yachts sometimes spoil the view. ■
+
+## URL
+
+https://www.economist.com/europe/2020/06/25/why-the-french-riviera-is-full-of-ghost-yachts

@@ -13,3 +13,7 @@
 Mr Khan returned empty-handed, saying that the spy-pen had failed to work. By then, Mr Sayed-Khaiyum was becoming suspicious of the supposed double-agent, whom he reported to the police. They are duly investigating Mr Khan. But they also took his allegations seriously enough to raid the offices of the National Federation Party, one of the two opposition outfits, hunting for evidence of links to “Fiji Exposed”—to no avail.
 
 Mr Khan, meanwhile, claims to have recorded his conversations with Mr Sayed-Khaiyum, not on a spy-pen but on a mobile phone. “You prepare well,” he advised his denouncer, “as I now have nothing to lose.” Mr Sayed-Khaiyum, for his part, has held a press conference to “set the record straight”. He says he was never convinced by Mr Khan and threatened to sue the opposition parties for mocking him. He clearly does not have the political acumen of his brother, who is sometimes known as A2Z because he is thought to oversee everything the government does. Whether that includes his brother’s work is unclear.■
+
+## URL
+
+https://www.economist.com/asia/2020/06/27/a-malfunctioning-spy-camera-causes-a-scandal-in-fiji

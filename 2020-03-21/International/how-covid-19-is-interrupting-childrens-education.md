@@ -47,3 +47,7 @@ Even done properly, online learning is a poor substitute for the kind that happe
 Online learning has clear potential. Educational technology powered by artificial intelligence can help children in poor countries with iffy schools—supposing they have internet access. In 2018 researchers found that after four and a half months of using an Indian app called Mindspark, which tests basic language and maths skills, children made more progress in these areas than those in the control group. But the success of such initiatives relies on preparation and organisation, not sudden scrambles to teach existing curriculums to entire populations of students in the midst of a pandemic. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/international/2020/03/19/how-covid-19-is-interrupting-childrens-education

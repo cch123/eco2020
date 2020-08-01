@@ -29,3 +29,7 @@ Xerox formalised its $35bn hostile bid for HP by sending a letter to shareholder
 Following a lengthy bidding process, Thyssenkrupp decided to sell its elevator business to a private-equity consortium for €17.2bn ($19.2bn), one of the largest-ever buy-out deals in Europe. The consortium is led by Cinven, an activist investor that has been pushing the German engineering group to break up its business. See [article](https://www.economist.com//business/2020/03/05/two-buy-out-firms-pay-eu17bn-for-thyssenkrupps-lifts-business).
 
 A ban on plastic bags came into force across New York state. Officials reckon that New York’s 19.5m residents use 23bn plastic bags a year, which clog landfills and get entangled in trees. The ban took many disgruntled shoppers by surprise. Disgruntled retailers will be able to flout the law until April 1st; after that they face a fine.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/03/05/business-this-week

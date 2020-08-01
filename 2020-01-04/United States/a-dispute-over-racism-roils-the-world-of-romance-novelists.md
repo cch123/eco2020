@@ -19,3 +19,7 @@ The romance-writing world was already roiled by issues of race and representatio
 At this point, romance readers might wonder several things. Is it really unimaginable for a fictional woman in the 19th century—even a Chinese woman, with all the attendant stereotype warnings—to praise demureness and modesty? Why did Ms Davis not simply apologise for having given offence? Is there any fight more bitter than one among well-intentioned, decent people who are trying to convince each other that they are best intentioned and most decent?
 
 Ms Milan was initially punished, as Ms LaQuette notes, for “something that amounted to an argument on Twitter.” As Ms Dimon noted, the RWA’s board, which made the mess, was “incredibly diverse.” RWA board members seem broadly committed to the goal of improving things for writers from overlooked groups. Tone-deaf racial representations in bodice rippers may rank fairly low on the hierarchy of America’s social ills. Yet if a trade group that has done well by numerous writers sunders over it, romance authors of all backgrounds may find themselves bereft.
+
+## URL
+
+https://www.economist.com/united-states/2020/01/02/a-dispute-over-racism-roils-the-world-of-romance-novelists

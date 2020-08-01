@@ -31,3 +31,7 @@ The design of the stimulus, though, matters as much as its size. Broadly speakin
 Government pledges to protect jobs are normally a bad idea. They prevent workers moving from failing sectors to up-and-coming ones, slowing the recovery. The coronavirus recession may be different, however. If the lockdowns are lifted soon, some European economies will be able to resume production quickly. Elsewhere workers will have to search for jobs, and bosses to hire them. Some American workers will even do better to stay on benefits than find work; according to Noah Williams of the University of Wisconsin-Madison, benefits in six states could exceed 130% of the average wage. That will mean it takes longer for GDP to recover its pre-pandemic level once the lockdowns lift. Instead of leading to a painful few months, the damage could be much longer-lasting. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/04/16/how-deep-will-downturns-in-rich-countries-be

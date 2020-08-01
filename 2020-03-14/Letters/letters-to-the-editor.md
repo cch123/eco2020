@@ -55,3 +55,7 @@ BERTRAND HORWITZAsheville, North Carolina
 At last, proof that facial expressions are not an accurate guide to how someone feels (“[Face blind](https://www.economist.com//science-and-technology/2020/02/20/do-not-rely-on-facial-expressions-for-how-people-are-feeling)”, February 22nd). I tend to have a downturned mouth, more so with age, yet life is wonderful. Even more so now, since I have cut out your article, and intend to wave it at every builder or scaffolder who has the temerity to yell out, “Cheer up love, it might never happen.”
 
 LUCY BERESFORDLondon
+
+## URL
+
+https://www.economist.com/letters/2020/03/14/letters-to-the-editor

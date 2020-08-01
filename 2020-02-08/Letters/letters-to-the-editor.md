@@ -65,3 +65,7 @@ RYAN JUENGERCosta Mesa, California
 The comparison of Sir Alex Ferguson, a former manager of Manchester United, to the queen, current manager of the monarchy, was fantastic. Sir Alex famously referred to a particularly tense period of his tenure as “squeaky-bum time”. I am sure the queen has an equally telling if not more elegant turn of phrase to describe the current position of the monarchy.
 
 ZACK GOLDBERGLondon
+
+## URL
+
+https://www.economist.com/letters/2020/02/08/letters-to-the-editor

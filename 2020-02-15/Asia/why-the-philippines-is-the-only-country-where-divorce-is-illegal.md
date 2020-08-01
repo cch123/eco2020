@@ -31,3 +31,7 @@ The nature of the Philippine political system allows such conservatives to thwar
 Fierce religious opposition helped to delay by 13 years the passage of the law allowing the government to distribute contraceptives. Even after it passed, Congress refused to fund it adequately, leaving many poor Filipinos without access to modern birth control. The Catholic church, meanwhile, persuaded the courts to issue an order to restrict the sorts of contraception that could be provided under the law, on the grounds that some methods were tantamount to abortion.
 
 The ongoing battle bodes ill for the bill to legalise divorce that is currently under consideration in Congress. Mr Duterte’s own marriage was annulled, after a court found he was so prone to affairs that his wife of 27 years had only been a nominal one. Yet so strong is the religious opposition to the bill that not even Mr Duterte supports it. Nonetheless, argues Carlos Conde of Human Rights Watch, a pressure group, the continuing attempts to introduce liberal bills despite their small chances of success are an encouraging sign in themselves. ■
+
+## URL
+
+https://www.economist.com/asia/2020/02/13/why-the-philippines-is-the-only-country-where-divorce-is-illegal

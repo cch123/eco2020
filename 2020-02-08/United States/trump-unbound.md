@@ -29,3 +29,7 @@ Republicans such as Ms Collins say an election is the only proper means of holdi
 Mr Trump’s sometimes comical strangeness long made the fears of despotism he stirred seem overblown. But think of authoritarianism as a corrosive process, not a dictatorial end-state, and they no longer do. He has never looked more threatening to American democracy. And thanks to Senate Republicans, with one laudable exception, it has never looked more vulnerable to him.■
 
 Dig deeper:Sign up and listen to Checks and Balance, our new [newsletter](https://www.economist.com//checksandbalance/) and [podcast](https://www.economist.com//podcasts/2020/04/24/checks-and-balance-our-weekly-podcast-on-american-politics) on American politics
+
+## URL
+
+https://www.economist.com/united-states/2020/02/06/trump-unbound

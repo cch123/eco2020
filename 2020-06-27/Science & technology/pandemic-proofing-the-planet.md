@@ -99,3 +99,7 @@ He cites the example of remdesivir, a substance originally intended to treat Ebo
 Many governments are reflexively unwilling to share data about their citizens (and some citizens have their doubts, too). They are often also protective of the potentially lucrative genetic details of their native biodiversity. Local officials are concerned about their power, and worry about being shown up as incompetent by surveillance. Zoonotic hotspots are, almost by definition, a long way away from the infrastructure that big biological-research programmes depend on. And not all public-health systems would be able to act on the sort of early warning such a system might provide.
 
 But if there were ever a time when those problems looked tractable, surely that time is now. It is no coincidence that many of the countries which have responded most effectively to covid-19 are those that were dealt the heaviest blows 18 years ago by SARS. Canada, Hong Kong, Singapore and Taiwan were all hit in this way. And though South Korea, another effective responder, got off lightly when SARS was around it saw an outbreak of MERs in 2015. People do learn from experience. And now the world has experienced a pandemic that has affected almost everyone, whether they have become infected or not, maybe it will think more seriously about measures that could smother the next one at birth. ■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/06/25/pandemic-proofing-the-planet

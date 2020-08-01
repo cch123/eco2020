@@ -79,3 +79,7 @@ The HIV/AIDS pandemic is therefore likely to remain a lethal presence. Increasin
 The idea that the world may have to live with covid-19 for years, if not decades, is hardly a popular one. But the example of HIV/AIDS shows that scientific breakthroughs can take much longer than people expect. An HIV vaccine has been years away for decades.
 
 And if there is an ultimate lesson, it is that human behaviour—from safe sex to needle exchanges and the screening of blood donations—can do much to stop a pandemic, even if that change is slow. Drugs have suppressed HIV/AIDS and societies have adjusted in subtle, often painful, ways. As the world grapples with its latest great outbreak, HIV/AIDS suggests that, while pandemics do subside, they may not end. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/06/25/how-hiv/aids-changed-the-world

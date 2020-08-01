@@ -25,3 +25,7 @@ It was her special duty, she felt, to cheer up boys who were forgotten. In Burma
 She traded on that for the rest of her long life. Any brave things she had done were brushed off, as she kept her Burma souvenirs (the tiny secret diary, the fresh-tugged bullet she was given by a surgeon) in a plastic bag stowed in a drawer. After all, she had been one among so many. But she went on singing the songs and working for forces’ charities, and thus stayed firmly fixed in public hearts. Producers of her many concerts and TV shows, from the 1950s to the 1980s, often tried to update her. They persuaded her to wear modern gowns and to sing Lennon-McCartney and country music, both of which she rather liked. But if they dared to suggest that “White Cliffs” or “I’ll Be Seeing You” were outmoded, she was horrified and offended. The songs summed up Britain in its finest hour. She—after 1975, Dame Vera—had to keep that memory alive.
 
 The public certainly understood. Her appearances, even with her voice long gone, drew crowds who cheered her as warmly as ever. In chillier weather the regal fur came out again, if only as a hat. She would smile back in constant delight, regularly waving, as if she had been born to it. Women would sometimes curtsy to her, feeling it was right somehow. For this was like a queen passing.■
+
+## URL
+
+https://www.economist.com/obituary/2020/06/25/vera-lynn-died-on-june-18th

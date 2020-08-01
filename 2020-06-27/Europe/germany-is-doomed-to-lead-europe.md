@@ -23,3 +23,7 @@ Instead, there is recognition that without some form of transfer between Germany
 Keeping the EU on the road takes on an existential importance now that America, the bedrock of German prosperity in the post-war era, has become an erratic ally. Strengthening the EU’s internal structures, by filling the gaps in its pockmarked constitution, is seen as the best way of protecting it from external threats. Ideas that were once off-limits, such as the long-winded, politically difficult task of changing the EU’s treaties, are now openly floated by Mrs Merkel. It is, at heart, a conservative radicalism. Things are allowed to change, but only so that things stay the same—specifically the rich, peaceful lives of German voters.
 
 German leadership in Europe makes people uneasy, particularly Germans. In private, Mrs Merkel used to point out that Germany was unsuited for such a role since the country was itself a mini-EU, its complicated federalism built on delicate compromise. Nimble decisions were impossible in such circumstances. Anyone relying on Germany to take bold steps would be disappointed, as many were. If this record is to change, now is the time. An institutional conjunction has left Germans calling the shots in Brussels. Rather than a lame chancellor limping to the end of her 15-year career, Mrs Merkel sits on a pile of political capital, gained from competent handling of the pandemic. Germany has the means to change Europe—if it chooses. ■
+
+## URL
+
+https://www.economist.com/europe/2020/06/25/germany-is-doomed-to-lead-europe

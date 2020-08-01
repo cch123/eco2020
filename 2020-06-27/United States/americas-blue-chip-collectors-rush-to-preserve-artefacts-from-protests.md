@@ -17,3 +17,7 @@ Though the term was coined by the Victoria & Albert museum in London, which has 
 Similar efforts to gather protest paraphernalia are being made by museums across America. In a digital era in which events are recorded in great detail, it may seem odd that often ordinary objects have assumed such value. But digital records are easily lost: online storage systems become obsolete, and laws often get in the way of archiving videos. Digital material is more compelling viewed alongside the physical objects which bring most people to museums. Establishing provenance, which can be complicated for an item collected only a few years later, is straightforward if it is picked up at the scene.
 
 Yet collecting museum pieces in this way can still be a delicate business. Curators have begun the collection process slowly, hanging out, telling demonstrators about their work, and taking the signs they are given. There is no plan yet to display them, says Aaron Bryant, a curator from the NMAAHC, though he expects they will take their place in a wider exhibition. “Our first and most urgent priority is to preserve,” he says.■
+
+## URL
+
+https://www.economist.com/united-states/2020/06/27/americas-blue-chip-collectors-rush-to-preserve-artefacts-from-protests

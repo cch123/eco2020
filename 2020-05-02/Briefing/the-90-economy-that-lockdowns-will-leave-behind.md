@@ -69,3 +69,7 @@ The longer the 90% economy endures, the more such inequalities will deepen. Peop
 The world economy that went into retreat in March as covid-19 threatened lives was one that looked sound and strong. And the biomedical community is currently working overtime to produce a vaccine that will allow the world to be restored to its full capacity. But estimates suggest that this will take at least another 12 months—and, as with the prospects of the global economy, that figure is highly uncertain. If the adage that it takes two months to form a habit holds, the economy that re-emerges will be fundamentally different. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/briefing/2020/04/30/the-90-economy-that-lockdowns-will-leave-behind

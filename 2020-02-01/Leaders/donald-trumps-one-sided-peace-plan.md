@@ -21,3 +21,7 @@ The Palestinians do not believe it. If Mr Trump were serious about peacemaking, 
 Should Mr Netanyahu win another term, he will undoubtedly move ahead with annexation. His main challenger, Benny Gantz, will face pressure to do the same if he is victorious. Far from easing the conflict, Mr Trump has pushed it down a perilous path. He has given Israel a green light to take so much territory that a coherent Palestinian state is all but impossible. And he offers no viable alternative to the two-state solution. That may soon leave Israel with a choice: give the Palestinians equal rights and watch as they multiply and outvote Jews, or treat them as second-class citizens and formally become an apartheid state.
 
 The best that can be said of the Trump plan is that it acknowledges the Oslo peace process is moribund and a new approach is needed. But a successful peace deal means not only discarding what has not worked, but also coming up with what will: a plan that demands concessions from both sides as well as fair-minded leaders to implement it. This is not that plan. And Mr Trump, Mr Netanyahu and Mr Abbas are not those leaders. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/01/30/donald-trumps-one-sided-peace-plan

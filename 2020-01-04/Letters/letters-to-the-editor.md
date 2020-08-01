@@ -59,3 +59,7 @@ RICHARD MILBURNMarjan Centre for the Study of Conflict and ConservationKing’s 
 Lexington’s column on Joe Biden provided a noteworthy example of Winston Churchill’s observation that America and Britain are divided by a common language ([December 7th](https://www.economist.com//united-states/2019/12/07/the-stickiness-of-joe-biden)). With all of Mr Biden’s problems with the #MeToo movement, he would surely be unhappy to be reported as “planting peckers” on one elderly cheek. One hesitates to visualise it.
 
 RICHARD WAUGAMANClinical professor of psychiatryGeorgetown UniversityWashington, DC
+
+## URL
+
+https://www.economist.com/letters/2020/01/02/letters-to-the-editor

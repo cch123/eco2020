@@ -61,3 +61,7 @@ MALCOLM BEGGTokyo
 The transition away from the physical office engenders a lackadaisical approach to the work day for many workers. It brings to mind Ignatius Reilly’s reasoning for his late start at the office from “A Confederacy of Dunces”:
 
 ROBERT MOGIELNICKIArlington, Virginia
+
+## URL
+
+https://www.economist.com/letters/2020/07/02/letters-to-the-editor

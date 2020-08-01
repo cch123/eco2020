@@ -23,3 +23,7 @@ On June 16th an industry-wide agreement allowing emergency extensions to labour 
 But it is governments, not shipowners and managers, who must solve the problem. Last month the International Maritime Organisation, an arm of the UN, published a protocol for safe crew-changes in the pandemic. Almost no country has yet got round to implementing it. The most important step is to classify merchant seamen as essential workers, thus enabling them to cross borders and travel to and from ports during lockdowns. Ports and airports need holding facilities and accommodation for testing and quarantine for sailors. In ordinary times, all this might seem onerous. But the covid-19 world is one where hairdressers sterilise their scissors between cuts and offices allocate desks on a rota to maintain social distancing. Shipping needs to adapt to these new realities, too.
 
 Global trade’s invisible hands must not be forgotten. When their work is done, they deserve to go home. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/06/20/cargo-ship-crews-are-stuck-at-sea

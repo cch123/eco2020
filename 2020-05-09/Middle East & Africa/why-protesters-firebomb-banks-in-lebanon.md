@@ -35,3 +35,7 @@ Protests that began in October united many Lebanese in disgust at the entire pol
 Other countries should take heed. Before the pandemic protests roiled the region. Iraqis rallied against a useless government. Algerians overthrew their longtime dictator, Abdelaziz Bouteflika, and kept protesting against his army-backed successor. The pandemic cleared the streets, but governments have squandered that respite. Low oil prices will push some states to insolvency. Iraq made just $1.4bn from selling crude in April, down from $7bn in April 2019. Analysts say it may need to borrow $40bn to get through the year. Lebanon will not be the only country where lockdowns give way to protests. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/05/09/why-protesters-firebomb-banks-in-lebanon

@@ -27,3 +27,7 @@ The parties that oppose Mr Netanyahu won a small majority, but are divided. Righ
 Even if he is given the green light, Mr Netanyahu has work to do. His coalition won 58 seats, so he needs to peel off three opposition members to get a majority. Alternatively he could cut a deal with Blue and White. During the campaign Mr Gantz ruled out serving under an indicted prime minister. But his poor result might soften his stand. On election night he insisted only that the allegations against Mr Netanyahu be heard in court. The prime minister’s trial is due to begin on March 17th (though some in his coalition still hope to grant him retroactive immunity).
 
 The outcome also raises the question of annexation. Mr Netanyahu has promised to proceed with Mr Trump’s peace plan, which allows Israel to apply sovereignty to large parts of the occupied West Bank, including the Jordan Valley. The prime minister has been working with the Americans on how to move forward. He may feel that action needs to be taken before Mr Trump might have to vacate the White House. And becoming the man who brought more of the promised land under full Israeli control would make for an excellent campaign slogan in case a fourth election is required to break the deadlock. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/03/05/binyamin-netanyahus-party-has-come-out-on-top-in-israels-election

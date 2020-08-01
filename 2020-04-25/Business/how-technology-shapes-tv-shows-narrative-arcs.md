@@ -21,3 +21,7 @@ Streaming services like Netflix take the opposite tack to syndication, luring vi
 The upshot of the shift away from syndication and towards streaming has been a decline in the average number of episodes per season. Based on figures for 34,000 TV shows worldwide that debuted between 1955 and 2018, compiled by the TVDB, a website, this fell from over 20 to under 11 (see chart). The number of seasons per series dropped, too, by nearly 70%. 
 
 Many actors, producers and writers love these abridged runs because they give them the flexibility to take other jobs. Creators also no longer need to worry that their shows will one day be aired sporadically through syndication, so are free to let plots unspool over multiple episodes. Sitcom episodes remain mostly self-contained but serialised drama is “uniquely suited” for streaming, says Sandra Stern of Lionsgate, a production company. The internet has also enabled “binge-watching”, which Netflix pioneered with the release of the entire first season of “House of Cards”, a political thriller, on February 1st 2013. Binge-friendly platforms allow viewers to skip the opening and final credits—and encourage creators to start with a bigger bang and end hanging on a steeper cliff. ■
+
+## URL
+
+https://www.economist.com/business/2020/04/23/how-technology-shapes-tv-shows-narrative-arcs

@@ -27,3 +27,7 @@ My instinct is to be contrarian, to buy what others now hate. Some industries, s
 There will come a time when the market surveys the whole panorama—bad businesses cleared out; interest rates even lower; fiscal policy in the pipeline; cheaper stocks—and changes direction. I have to be ready for that. The S&P 500 is America’s capital stock. It will survive (or most of it will). People will want to fly, stay in hotels and go to restaurants and coffee bars again. I have to keep that in mind always. I feel queasy. But this is the game I have chosen to be in.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/03/21/the-agonies-of-stock-picking-in-a-falling-market

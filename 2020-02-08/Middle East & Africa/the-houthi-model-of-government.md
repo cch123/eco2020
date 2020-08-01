@@ -27,3 +27,7 @@ The Houthis say they are leading a Zaydi revival, but they are also changing the
 Many northern Yemenis initially backed the Houthis in their struggle against the government. The group’s anti-Saudi rhetoric and appeals for resistance echoed past calls to combat Sunni empires, such as the Ottomans, that attacked from the north. But as the Houthis’ rule has grown more predatory and paranoid, people appear increasingly unhappy.
 
 Some predict that the Houthis will relax once the war subsides. But even if the Saudis retreat, the fighting may not stop. Yemen’s civil war is now multi-sided, with several groups vying for control of parts of the country. Last month America reportedly launched an (unsuccessful) air strike on a senior member of Iran’s Revolutionary Guard Corps inside Houthi territory. Mr Houthi, for his part, says he is leading a massira quraniya, or Koranic march. His followers say he will next take Islam’s holiest cities—Mecca, Medina and Jerusalem—from the infidels and their lackeys. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/02/06/the-houthi-model-of-government

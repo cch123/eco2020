@@ -73,3 +73,7 @@ More recently a backlash against vaccination has put hard-fought gains against d
 Prosperity now, as ever, relies on human connections within great cities. A world more populous and integrated than ever before will continue to face a serious risk of pandemic disease. What is not yet clear is how many accommodations are needed. What new public investments must be made to prevent contagion from shutting down the world economy? What behavioural changes will persist in the years after this pandemic? Which invisible walls of affects will be erected to reconcile our need to be social with our desire for good health? As sophisticated and modern as we perceive ourselves to be, our clumsy efforts to manage the health risks of a growing global economy might well strike the healthier, richer people of the future as depressingly Dickensian. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/08/01/how-hand-washing-explains-economic-expansion

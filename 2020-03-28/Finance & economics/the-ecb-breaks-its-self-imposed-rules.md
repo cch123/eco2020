@@ -27,3 +27,7 @@ Even with all this flexibility, there is still a question of whether the stimulu
 One reason for investors’ gloom may be that governments are still doing too little. Even after Germany’s splurge, new spending across the euro zone amounts to only 2% of GDP. Economists at Citibank estimate that something nearer 5% is warranted. Leaders were set to consider whether to make cheap credit lines available to governments through the zone’s bail-out fund after The Economist went to press. Such talks tend to become mired in arguments over what type of strings should be attached to the cash. The pandemic means that a deal looks likelier than ever. But central bankers are also well aware of another, less happy, link between monetary and co-ordinated fiscal policy. The more the ECB does, the less governments feel they need to take action. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/03/26/the-ecb-breaks-its-self-imposed-rules

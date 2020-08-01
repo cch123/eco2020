@@ -19,3 +19,7 @@ Many banks at the time acted to minimise financial hardship, by agreeing to dela
 If such measures are required for a longer period, the pressures on banks to lend or offer forbearance might clash with post-crisis regulatory restrictions. Big banks already report seeing “flight to quality” deposits pouring in. But leverage ratios constrain bank balance-sheets. More deposits might induce banks to cut back on other activities.
 
 No one is served by defaults on the part of borrowers who would have been solvent but for the epidemic. The question for banks, their customers and their regulators is how these can be avoided.
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/03/05/can-americas-banking-system-keep-cash-flowing-if-activity-dries-up

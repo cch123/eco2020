@@ -35,3 +35,7 @@ The popular demand for change could radicalise politics faster than it did after
 Yet that may prove to be wishful thinking. In the next 18 months everyone with an agenda will argue that the pandemic proves their point. After 2007-09 politicians failed to deal with the grievances of ordinary people and the demand for change led to a surge in populism. The 90% economy threatens even greater suffering. The anger it creates may end up feeding protectionism, xenophobia and government interference on a scale not seen in decades. If, like this newspaper, that is an outcome you would reject, it is time to start arguing for something better. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/leaders/2020/04/30/life-after-lockdowns

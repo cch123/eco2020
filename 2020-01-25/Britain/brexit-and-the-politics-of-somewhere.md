@@ -25,3 +25,7 @@ But the “somewhere” wing is now in the driving seat. Dominic Cummings, Mr Jo
 Ideas are being flung around. Most are still without substance—move the House of Lords to York!—but some changes are rooted in reality. The party is planning to move some of its functions out of London. New MPs who were carried into Westminster on the 2019 wave are building local constituency operations. Activists are creating new organisations such as Young Blue Northerners. Policies are being reoriented to appeal to provincial Britain. Under David Cameron and George Osborne the Northern Powerhouse, a scheme to boost economic growth in the north of England, was largely about linking cities into the global economy. Under Mr Johnson it is much more about making poorer people more economically secure (hence the emphasis on police and the NHS) and dealing with the decline of provincial towns.
 
 The shock that Brexit is administering to Britain is likely to do the place plenty of harm, but it may do it some good, too. The political class had come to see its job as representing the state to the people rather than the people to the state. It had also come to resemble a cloistered elite that knew more about New York than old York. Britain is engaged in a process of self-correction. The political system is being reattached to the people it represents. In the process the social contract, which has been frayed almost to breaking-point in recent years, may slowly be repaired. ■
+
+## URL
+
+https://www.economist.com/britain/2020/01/23/brexit-and-the-politics-of-somewhere

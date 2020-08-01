@@ -29,3 +29,7 @@ Yet more uncertainty surrounds America’s part in Afghanistan’s future. The o
 Covid-19 has made all these questions more fraught. The disease is said to be barrelling through the Afghan security services. The American troops who remain in Afghanistan are providing less training to the Afghan army in part to avoid catching it from their Afghan comrades. Attempts to contain the spread of the virus have also hit the already sputtering Afghan economy. Nation-building, under any government, is looking harder than ever.
 
 Afghans like Miss Ibrahimi anxiously await the start of talks. She wants to remain working in Afghanistan to justify her parents’ sacrifices. But she doubts that the gun-toting zealots her mother told her about have changed much. “If the Taliban come with that ideology that they had before 2001, then it won’t be a change for peace, or better security or a better country,” she says grimly. ■
+
+## URL
+
+https://www.economist.com/asia/2020/07/02/america-is-rapidly-pulling-troops-from-afghanistan

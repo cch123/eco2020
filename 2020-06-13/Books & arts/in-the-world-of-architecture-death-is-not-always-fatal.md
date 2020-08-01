@@ -23,3 +23,7 @@ And, often, other architects. Rem Koolhaas, a Dutch architect, has noted the rol
 In the case of the Leipzig orb, the story began in 2007 when Mr Koehne visited Brasilia and was wowed by Niemeyer’s designs for the presidential residence, which was completed in 1960, and the city’s cathedral, finished in 1970. Four years later, mulling the idea of a restaurant—his canteen cook deserved a bigger stage, he says—Mr Koehne wrote to Niemeyer and was invited to Rio. Before long he received an email with sketches, side elevations and cross-sections. “It was all there, the tower as a supporting shaft, the sphere with two levels—just like it stands here now.”
 
 But “the physics of the design were insane,” Mr Koehne thought. “How are we going to build this?” It took another two years to find the right structural engineers and several more to make meaningful progress. In the meantime, Niemeyer died. Luckily, Mr Valera was on hand and wanted to finish the project. “I knew Oscar extremely well,” he says. “That made it easy for me to know what he would have done”—which, Mr Valera recalls, always included listening to the client. His own role does not detract from the building’s authenticity, he insists: “This is a piece of architecture by Oscar Niemeyer—it was his idea.” ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/06/11/in-the-world-of-architecture-death-is-not-always-fatal

@@ -25,3 +25,7 @@ Edward Aspinall of Australian National University thinks it likely that Mr Anies
 But Mr Anies also understands how to exploit Jokowi’s weaknesses. Many devout Muslims consider Jokowi too secular in his outlook and of dubious piety. They long for a champion to take on his government and seize the presidency in 2024, when Jokowi completes his second and final term. Such voters underpinned Mr Prabowo’s two runs for president, and Mr Anies is already known to many of them because of the Ahok affair. The governor of Jakarta is often in the news, which will help Mr Anies build a national profile. Jokowi himself used the job as a springboard to the presidency. And the easiest way for Mr Anies to define himself is in opposition to Jokowi.
 
 Mr Anies has probably calculated that the pandemic provides a good opportunity to show off qualities many feel Jokowi lacks, such as decisiveness and empathy, says the foreign diplomat. The gambit may work. Most presidential candidates will not start their campaigns for another two years. Mr Anies is already courting opposition MPs. Nasdem, one of the parties in Jokowi’s coalition, is getting closer to Mr Anies, says the former aide to Jokowi. It’s a long road to election day. But as Mr Arifianto says, “Anies is just making a head start.” ■
+
+## URL
+
+https://www.economist.com/asia/2020/06/06/indonesias-president-has-a-new-rival

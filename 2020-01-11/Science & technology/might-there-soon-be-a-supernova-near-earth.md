@@ -25,3 +25,7 @@ Betelgeuse is destined to become a supernova soon, that much is certain. But “
 On top of these random events, Betelgeuse is also known to be a semi-regular variable star. This means its brightness changes as it pulses up and down in size. As that happens, its surface area increases or decreases proportionally. Since the brightness per square kilometre of a star tends to remain the same during these pulses, a larger surface area means the star will emit more light overall, and a smaller one, less. Various cycles like this operate within Betelgeuse, with periods ranging from a few hundred Earth days to several thousand.
 
 Astronomers will continue watching the star over the coming weeks. Most, realistically, expect it to brighten up again as the internal cycles continue. But even if there is no supernova this time around, that merely postpones the day when Betelgeuse will undergo a real-world equivalent of the Great Collapsing Hrung Disaster.■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/01/11/might-there-soon-be-a-supernova-near-earth

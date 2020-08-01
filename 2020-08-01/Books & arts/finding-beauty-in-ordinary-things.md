@@ -31,3 +31,7 @@ After his father’s death, Sori took over as the Mingeikan’s director, inspir
 Mingei involves approaching the world with a heightened awareness of the objects that fill everyday lives. Yanagi urges you to ponder the coffee mug that fuels endless Zoom meetings with the same intensity as you contemplate a Cézanne (whose work he once hung in the reception room of the Mingeikan). “Today, when everything is trending toward the frail and sickly, the beauty we see in these common objects is both a blessing and a joy,” he wrote with eerie resonance. He asks people, in short, to appreciate what is under their noses.
 
 Take the humble face mask. Your correspondent’s is sewn out of tan cloth and patterned with fish. Its light-blue ear straps, now frayed, suggest the ocean. A blue mahi-mahi stretches its bulbous forehead over the crease of the nose. A silver tigerperch edges towards the ear. The yellow spines of a John Dory’s dorsal fin spread across the cheek, evoking the beard of the man in the bottom of the mingei bowl. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/08/01/finding-beauty-in-ordinary-things

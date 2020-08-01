@@ -17,3 +17,7 @@ Six states are set to use a partial form of RCV in their primaries. And in the g
 What would happen if the Democrats held a national RCV primary? YouGov, a pollster, recently asked 2,000 voters to rank the candidates. Its data show that Joe Biden, the national polling leader, would also win under RCV. But he would owe his victory as much to the stubbornness of Mr Sanders’s fans as to his own popularity. ■
 
 Source: YouGov/The Economist
+
+## URL
+
+https://www.economist.com/graphic-detail/2020/02/01/under-ranked-choice-voting-left-wing-purism-would-aid-joe-biden

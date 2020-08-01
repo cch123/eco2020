@@ -53,3 +53,7 @@ A high likelihood of drought and crop failures; changes to regional climate that
 Sign up to our fortnightly climate-change newsletter [here](https://www.economist.com//theclimateissue/)
 
 Dig deeper:Climate brief 1: [Why tackling global warming is a challenge without precedent](https://www.economist.com//schools-brief/2020/04/23/why-tackling-global-warming-is-a-challenge-without-precedent)Climate brief 2: [How modelling articulates the science of climate change](https://www.economist.com//schools-brief/2020/05/02/how-modelling-articulates-the-science-of-climate-change)Climate Brief 3: [Humanity’s immense impact on Earth’s climate and carbon cycle](https://www.economist.com//schools-brief/2020/05/09/humanitys-immense-impact-on-earths-climate-and-carbon-cycle)[The Economist’s climate-change hub](https://www.economist.com/https://economist.com/climatechange)
+
+## URL
+
+https://www.economist.com/schools-brief/2020/05/16/damage-from-climate-change-will-be-widespread-and-sometimes-surprising

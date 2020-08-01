@@ -23,3 +23,7 @@ Matthew Akester, a Tibet researcher based in India, says the regulations, under 
 No American law is going to deter China from trying. But neither will Tibet’s new regulations change an enduring fact: the strongest symbol of Tibet’s identity remains the Dalai Lama himself and the hold he has on Tibetan loyalties, despite 61 years in exile. As China should have learnt from the history of the Panchen Lamas, the Communist Party will never be accepted by Tibetans as the arbiter of their faith. ■
 
 Editor's note: This article was updated after publication to remove a reference to a meeting of the Senate Foreign Relations Committee on May 14th, which was in fact postponed.
+
+## URL
+
+https://www.economist.com/china/2020/05/14/why-there-are-two-panchen-lamas-and-one-is-missing

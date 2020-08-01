@@ -27,3 +27,7 @@ That will not stop investors worrying. If Vision Fund firms run into trouble dur
 The Vision Fund could continue spilling red ink over SoftBank’s accounts for a while. In the last quarter of 2019 its $2bn loss all but wiped out the group’s profits. As markets tumble, unlisted startups will lose value in line with listed firms. But some of its companies, notably in e-commerce and health care, are thriving. Business at Coupang, a South Korean e-commerce firm, has soared. Vision Fund executives see Bytedance, the parent of TikTok, a video-sharing app, as another Alibaba in waiting.
 
 Venture capitalists liken Mr Son to a Mississippi riverboat gambler. His risk-loving style is not going away, they say. But his recent losing streak will force him to play things safer—for a while.■
+
+## URL
+
+https://www.economist.com/business/2020/04/08/is-softbanks-boss-changing-his-ways

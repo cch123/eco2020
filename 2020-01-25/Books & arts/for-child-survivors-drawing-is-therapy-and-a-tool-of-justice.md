@@ -33,3 +33,7 @@ These examples could yet have a bearing on the latest genocide, of the Rohingya 
 ![](./images/20200125_BKP002.jpg)
 
 As yet, there is no plan to enlist these as evidence. But as courts whirr into action—on January 23rd, as The Economist went to press, the International Court of Justice was due to issue a ruling on the slaughter—interest in them may grow. Experience shows that, uncluttered by adult artifice, children can provide the most honest impressions of unspeakable acts, and the most searing. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/01/25/for-child-survivors-drawing-is-therapy-and-a-tool-of-justice

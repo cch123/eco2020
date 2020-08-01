@@ -29,3 +29,7 @@ Next month’s inauguration offers an opportunity to reintroduce Uruguay to the 
 The next president faces high expectations and only a short period, maybe a year or 18 months, in which to meet them, predicts Mr Garcé. Voters were split in the last election. And the opposition, especially the trade-union movement, remains strong. Reforms must strike a balance between reassurance and disruption. Mr Lacalle Pou seeks a middle way, in line with the people who elected him. “I voted for change, and I’m optimistic our president will be a vehicle for change,” says Ernesto Cis, a driver and tour guide. “We Uruguayans don’t do revolutions. We like change with continuidad.” ■
 
 Clarification (February 22nd 2020): An earlier version of this article referred to special police forces as “paramilitaries”. Mr Lacalle Pou did not use this term.
+
+## URL
+
+https://www.economist.com/the-americas/2020/02/22/an-interview-with-uruguays-president-elect-luis-lacalle-pou

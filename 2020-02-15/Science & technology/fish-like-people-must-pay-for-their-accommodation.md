@@ -19,3 +19,7 @@ What was needed to clear the point up was an experiment. And fish are easier to 
 Left alone, the fish behaved much as they would have done in the wild, with the tenant doing the grunt work of maintaining the hollows in the sand, and good relations pertaining between all. However, if a tenant was prevented for a time from fulfilling its duties, by trapping it behind a partition inserted into the aquarium for that purpose, things changed. When the partition was removed, the landlords attacked it, and it showed a big increase in submissive behaviour for several minutes before things returned to normal.
 
 Whether similar treatment would be meted out for a failure to defend the landlords’ eggs has yet to be determined. When prevented by a partition from driving away predators, tenants were not subsequently on the receiving end of aggression from landlords—but since there were no eggs to defend at the time, that may not have been part of the contract. The predators in question, a species called Telmatochromis vittatus, are not a threat to adult specimens of N. pulcher, only to eggs and fry. It is nevertheless clear from Dr Naef’s and Dr Taborsky’s experiment that, for cichlids at least, the rent must be paid in a timely fashion, or punishment will be faced.■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/02/13/fish-like-people-must-pay-for-their-accommodation

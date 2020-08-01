@@ -27,3 +27,7 @@ The researchers believe voice-activation is a safer alternative that should be e
 The migration of vehicle controls to touchscreens has also led to complaints about the machines’ rather than the drivers’ reaction times being too slow, and requiring a confusing number of steps, to boot. In April, after examining the touchscreens in new vehicles, What Car?, a British motoring magazine, reported that adjusting the heater fan can take twice as long when using a touchscreen rather than a physical button, and that selecting a new radio station takes eight times longer.
 
 Carmakers are developing screens that are easier to operate and positioning them more in line with a driver’s view of the road. Haptic feedback, which adds physical, tactile responses, is also coming. This might, for example, detect a moving finger and produce a clicking sound and a slight vibration when a virtual button on the screen is felt and pressed. Old-school motorists may, however, still prefer their cars to come with real knobs on.■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/05/07/motorists-using-touchscreens-in-cars-are-being-distracted

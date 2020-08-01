@@ -29,3 +29,7 @@ Yet Canadians prefer to keep Americans out. John Williamson, an MP from a border
 Could the pandemic permanently alter Canada’s relationship with the United States? In early July Mr Trudeau turned down an invitation from Mr Trump to visit Washington, DC, on the basis that complying with quarantine rules on his return north would be too disruptive. Many saw it as a snub. Yet although the arguments are over real issues, Mr Trump’s personality does not help. If Joe Biden wins the election in November, Canadian officials will relax, reckons Colin Robertson of the Canadian Global Affairs Institute, a think-tank. But if Mr Trump finds a way to win, Canada’s problems are likely to intensify. And regardless of what happens, the Toronto Blue Jays may find themselves stuck south of the border for some time to come.■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/the-americas/2020/08/01/covid-19-has-strained-canadas-relations-with-america

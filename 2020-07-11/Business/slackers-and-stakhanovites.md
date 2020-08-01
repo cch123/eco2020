@@ -31,3 +31,7 @@ Bartleby has heard from a number of contacts in recent weeks that they spend the
 To the extent that these meetings are voluntary, this creates another divide between slackers and Stakhanovites. The first group will avoid such meetings and the latter group will sign up for all of them. Furthermore, in the pre-lockdown days, staff could earn brownie points by turning up for such gatherings, provided they caught the boss’s eye. Mere attendance is insufficient for a Zoom meeting; one must be seen and heard. In turn, that makes Zoom meetings longer, further using up the time of managers and their Stakhanovite subordinates (many slackers have yet to learn how to use the “raise hand” button). It is a digital version of the paperwork shuffling described by Parkinson 65 years ago.
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/07/11/slackers-and-stakhanovites

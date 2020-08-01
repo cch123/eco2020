@@ -23,3 +23,7 @@ Nor is the risk of a contraction in bank lending the only potential drawback to 
 All this leads to a third question: are negative rates worth the hassle? As the experience in Europe and Japan has not been disastrous, central bankers in America and Britain may eventually gingerly cut rates to below zero. (On May 20th Andrew Bailey, the governor of the Bank of England, said that negative rates were under “active review”.) But an easing of half a percentage point or so, while not unwelcome, is too small to mean the difference between a strong recovery and a weak one. Regulatory changes needed to achieve deeply negative rates at acceptable risk would probably prove politically contentious. Meanwhile, far more potent weapons—such as fiscal stimulus in combination with central-bank asset purchases—have not reached their economic and political limits. Little reason yet to venture far into sub-zero terrain. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/05/23/should-the-fed-cut-rates-below-zero

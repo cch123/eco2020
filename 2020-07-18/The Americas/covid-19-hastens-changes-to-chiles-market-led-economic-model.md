@@ -39,3 +39,7 @@ There is broad agreement that tax revenue needs to rise from 20% of GDP. Already
 Popular anger inspires more radical ideas. The rebellion against the first version of the middle-class aid package led to a proposal in Congress to allow Chileans to withdraw 10% of their pension savings to help them through the pandemic. That would reduce future benefits, which Chileans already deem too low, or, more likely, force the government to plug the hole, at a cost of at least $16.5bn. Either way, if passed the bill would weaken a central institution of the Chilean model. Some members of Mr Piñera’s coalition joined the opposition in backing it. The extra cash for formal workers was a way to win them back. So was Mr Piñera’s promise of “major surgery” for the pension system. It is not working. On July 15th Congress’s lower house passed the bill, sending it to the Senate.
 
 Such radicalism poses a risk. Most Chileans agree that the state should act to reduce inequality and uplift the needy. But their anger could create support for populist policies that would make the country poorer. The success of Chile’s reinvention “will depend on whether the political system is capable of setting limits,” says Mr Vergara. The next lot of leaders will have to do better than the current ones.■
+
+## URL
+
+https://www.economist.com/the-americas/2020/07/18/covid-19-hastens-changes-to-chiles-market-led-economic-model

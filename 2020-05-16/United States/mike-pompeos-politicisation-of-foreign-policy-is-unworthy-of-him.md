@@ -29,3 +29,7 @@ The other explanation is that Mr Pompeo represents a broader politicisation of f
 The hyper-partisanship of foreign policy Mr Pompeo has come to represent is a dreadful lookout, unworthy of his talents. It carries a risk of endless instability, with successive administrations seeking to undo their predecessors’ legacy, just as Mr Trump has sought to dismantle Mr Obama’s. It also introduces a new rationale for American diplomacy as far removed from its expansive, globally minded strengths as it is possible to imagine. This wretched moment exemplifies that. On current form, Mr Pompeo will not be remembered for squeezing Iran. He will be remembered for undercutting the world’s reasonable case against China’s handling of the virus by throwing mud for his boss in the midst of a pandemic. That is not American leadership.■
 
 Editor’s note: The Economist is making some of its most important coverage of the covid-19 pandemic freely available to readers of The Economist Today, our daily newsletter. To receive it, register [here](https://www.economist.com//newslettersignup). For our coronavirus tracker and more coverage, see our [hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/united-states/2020/05/16/mike-pompeos-politicisation-of-foreign-policy-is-unworthy-of-him

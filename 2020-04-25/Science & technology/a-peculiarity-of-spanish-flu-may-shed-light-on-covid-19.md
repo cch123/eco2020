@@ -25,3 +25,7 @@ Dr Shanks and Dr Brundage observed that in 1890, the birth year of those who wer
 Nor is the example of 1918 unique. According to Dr Gagnon, people who were themselves born during that epidemic showed increased vulnerability to the Hong Kong flu of 1968. And those born during the Asian flu of 1957 showed higher mortality in the face of swine flu in 2009. He therefore wonders if something similar is going on now, with elderly people mounting inappropriate immune responses that reflect the infections of their youth. Since all of his examples relate to influenza viruses, which are different beasts from coronaviruses, this is speculation. But it is a line of inquiry that might be worth following once the immediate crisis is over.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/04/25/a-peculiarity-of-spanish-flu-may-shed-light-on-covid-19

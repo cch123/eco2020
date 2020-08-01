@@ -25,3 +25,7 @@ Officials appear keen to stem the return flow, especially to Beijing (protecting
 Many Chinese students abroad say there are good reasons to stay put. Going home before graduation could make it harder to find jobs overseas. Some worry that they could catch the virus in transit, or that returning would cause hassle for their parents. On balance, Ms Wang thinks she made the right decision. She says being home is a great relief. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/china/2020/03/21/china-worries-about-infections-by-travellers-from-abroad

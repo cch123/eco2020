@@ -51,3 +51,7 @@ Xi Jinping said there had been a positive turn to contain covid-19 in the provin
 The central bank of Nigeria will, in effect, ban imports of hand sanitiser. The governor said this would boost local production.
 
 For our latest coverage of the virus and its consequences please visit [economist.com/coronavirus](https://www.economist.com/http://economist.com/coronavirus) or download the Economist app.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/03/14/politics-this-week

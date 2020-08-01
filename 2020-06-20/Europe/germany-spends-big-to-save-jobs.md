@@ -27,3 +27,7 @@ Those sceptical of furlough schemes argue that they are costly and keep alive ba
 Oliver Stettes of the Cologne Institute for Economic Research says Austria illustrates why such schemes are working. The registered unemployment rate there rose to 12.8% in April (5.5 percentage points more than a year before). However, once a much improved scheme was brought in, replacing up to 90% of wages, the jobless rate steadied at 11.5% in May. Short-time work schemes are a useful way to bridge a short period of low demand for economies that do not suffer from fundamental structural weaknesses. Depending on the shape of the recovery, unemployment in euro-zone countries may eventually rise once the money runs out—but less than it would have done without furlough schemes. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/06/18/germany-spends-big-to-save-jobs

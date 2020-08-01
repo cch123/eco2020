@@ -21,3 +21,7 @@ Building was a natural occupation for someone of his background. Rock-climbing w
 In truth, making a living by jamming up cracks and hanging on ledges was never going to be easy. He could have made money from his fame, especially after 15m BBC viewers saw his climb on the Old Man of Hoy. But he hated all that. He wished his CBE could have been slipped into his pocket in a plain brown envelope, rather than all the fuss. And he refused outright to speak at any dinners; he liked to eat at home, with family. His solution to the money problem later was to open mountain-equipment shops in Snowdonia and make his own helmets for them, good rock-proof ones, just right for the job.
 
 He made a few TV shorts, though. In one series, after each spectacularly difficult climb, he would emerge to find a near-inaccessible pool and go fishing. Angling was his second great love, as if he was back in Manchester trying his luck in the industrial canals. On most of his expeditions he took a collapsible rod with him, and in the Andes in 1979 he reached a black pool where explorers later found gold. He didn’t find any himself, and in his TV programmes he appeared to catch no fish either. As usual, it didn’t matter. Simply getting up there had been perfection enough. ■
+
+## URL
+
+https://www.economist.com/obituary/2020/05/02/joe-brown-died-on-april-15th

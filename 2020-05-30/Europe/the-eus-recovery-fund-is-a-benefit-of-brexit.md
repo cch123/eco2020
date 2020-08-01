@@ -29,3 +29,7 @@ But the EU is not doomed to repeat old mistakes. Rules of spending have tightene
 Whenever money is involved, the EU descends into an undignified brawl. Yet the outline of a deal is emerging. A compromise whereby the “frugal four” keep their rebates, eastern Europe continues to receive generous transfers, and Italy and Spain get their recovery fund seems feasible. France is able to cast itself in a lead role, while Germany reassures itself that nothing can happen in the bloc without its blessing. A scrap is still necessary. Part of this is choreography so leaders can declare victory at home; part of this is leaders grabbing what they can. With the seven-year budget and the recovery fund totalling €1.85trn, there is plenty to wrestle for, and even a planned negotiation can turn nasty. During the coming summer of arguments over cash, it may seem as if Britain never left. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/05/30/the-eus-recovery-fund-is-a-benefit-of-brexit

@@ -31,3 +31,7 @@ However, SDRs do not have to be used to be useful. Their very presence on balanc
 It is perhaps no surprise that America has doubts about an instrument first designed to reduce the dollar’s dominance. Keynes proposed bancor just after sterling lost its sway. It might take the emergence of a serious challenger to the dollar’s crown before America sees the appeal of the SDR.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/04/11/should-the-imf-dole-out-more-special-drawing-rights

@@ -33,3 +33,7 @@ To understand food as a national-security issue is wise; to bend that understand
 The work of the food-supply system is not yet done. In the next 30 years supply needs to rise by about 50% to meet the needs of a wealthier, growing population, even as the system’s carbon footprint needs at least to halve. A new productivity revolution is required, involving everything from high-tech greenhouses near cities to fruit-picking robots. That is going to require all the agility and ingenuity that markets can muster, and huge sums of private capital. This evening, when you pick up your chopsticks or your knife and fork, remember both those who are hungry and also the system feeding the world. It should be left free to work its magic not just during the pandemic, but after it, too.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/leaders/2020/05/09/the-global-food-supply-chain-is-passing-a-severe-test

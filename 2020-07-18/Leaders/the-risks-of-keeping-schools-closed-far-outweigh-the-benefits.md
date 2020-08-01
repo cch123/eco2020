@@ -31,3 +31,7 @@ European countries waited on average about 30 days after infections had peaked b
 The trade-offs in the global South are even harder. Only a quarter of schools in the poorest countries have soap and running water for handwashing. However, schools in such places are also where pupils are often fed and vaccinated. Closing them makes children more vulnerable to hunger and measles, and this risk almost certainly outweighs that of covid-19. The prudent course for poor-country governments is therefore to act boldly. Face down unions and reopen schools. Conduct loud re-enrolment campaigns, aimed especially at girls. Offer small cash transfers or gifts (such as masks or pens) to ease parents’ worries about the costs of getting their offspring back to class.
 
 Reopening the world’s schools safely will not be cheap. Besides billions of bottles of hand sanitiser, it will require careful organisation, flexible schedules and assistance for those who have fallen behind to catch up. It will cost taxpayers money, but taxpayers are often parents, too. Rich countries should help poor ones with some of the costs. Steep as these will be, they are nothing like the costs of letting the largest generation in human history grow up in ignorance. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/07/18/the-risks-of-keeping-schools-closed-far-outweigh-the-benefits

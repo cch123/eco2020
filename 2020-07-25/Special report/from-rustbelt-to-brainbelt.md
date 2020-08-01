@@ -27,3 +27,7 @@ Another model is Pittsburgh, a once-dying steel city now nicknamed “Roboburgh�
 Can these trends go on? Not every city can bank on a university. And many smaller colleges are threatened by demographic change, lower immigration, the pandemic and, for public ones, looming cuts in funding. But federal authorities, seeking ways to recharge the economy, could adopt an idea of professors at MIT to “jumpstart America” through $100bn of investment in 20 new centres of high-technology, innovation and commercialised research, similar to DPI in Chicago. The idea is that lots of rivals to Silicon Valley could bloom. Of the top 20 candidates in the professors’ list, 13 were around universities in the Midwest. With luck it will take less than 200 years to produce results.■
 
 Dig deeper:Sign up and listen to Checks and Balance, our [weekly newsletter](https://www.economist.com//checksandbalance/) and [podcast](https://www.economist.com//podcasts/2020/07/17/checks-and-balance-our-weekly-podcast-on-american-politics) on American politics, and explore our [presidential election forecast](https://www.economist.com/https://projects.economist.com/us-2020-forecast/president)
+
+## URL
+
+https://www.economist.com/special-report/2020/07/23/from-rustbelt-to-brainbelt

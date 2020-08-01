@@ -29,3 +29,7 @@ Nerves are jumpier farther east. A drawdown from Germany could weaken NATO’s a
 At home, Mr Trump’s announcement has had the unusual effect of galvanising bipartisan opposition. Twenty-two Republican members of Congress objected that cutting troops would encourage Russian aggression and undermine American military effectiveness. A Democratic bill seeks to deny funding for costs incurred by the withdrawal. With barely four months until an election that could see Mr Trump defeated by Joe Biden, who says he wants to repair America’s alliances, delay to a withdrawal plan that already faces considerable logistical hurdles could be fatal.
 
 Yet as Heiko Maas, Germany’s foreign minister, has warned, the Atlantic is clearly widening. Tiffs over energy, trade, security and China are now threaded through the entire transatlantic relationship. Pro-American Germans say the sabre-rattling of Mr Trump and Mr Grenell makes it harder for them to make their case to a sceptical public. A recent Pew poll found that Germans now value their relations with China as strongly as those with the United States. Still, at least in Kaiserslautern, Americaphilia reigns supreme. “We don’t want the troops to leave,” says Mr Weiler. “It’s an honour to have them here.” ■
+
+## URL
+
+https://www.economist.com/europe/2020/06/25/donald-trumps-baffling-proposal-to-withdraw-troops-from-germany

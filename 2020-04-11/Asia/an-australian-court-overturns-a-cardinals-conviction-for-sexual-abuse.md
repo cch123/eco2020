@@ -23,3 +23,7 @@ It is hard to “satisfy a criminal court that the offending has occurred beyond
 Australia has long wrestled with claims of sexual abuse of minors. In 2018 the prime minister, Scott Morrison, issued a lengthy apology to survivors. After the High Court’s ruling, Daniel Andrews, the premier of Victoria, issued a statement telling victims: “I believe you.” Yet some of the cardinal’s supporters feel that justice has eluded them, as well. An innocent man was imprisoned by a biased jury, they say, and the judges who heard the initial appeal upheld its decision. “Nobody is safe” in such a system, one pundit railed.
 
 While some consider it unseemly for judges to overrule a jury, others would like to entrust them with more authority. Victoria is the only state in Australia that does not allow well-known defendants to be tried by a judge alone, if they fear that the public mood is against them, notes Matthew Collins, a barrister. Nick Papas, Victoria’s former chief magistrate, would like the state to adopt the same procedure. ■
+
+## URL
+
+https://www.economist.com/asia/2020/04/08/an-australian-court-overturns-a-cardinals-conviction-for-sexual-abuse

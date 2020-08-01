@@ -27,3 +27,7 @@ The BBC responded to the idea by commissioning the whole series, without the usu
 Though some of the scenes are difficult to watch, “I May Destroy You” is also fun. Ms Coel explores the subjects of sexual consent and abuse through young lives in a big city in the 21st century, replete, as they often are, with money troubles, unsuitable flings, social media and house parties. The morning after Arabella is assaulted, she stumbles onto the streets of central London, disoriented, her ears ringing; a fan approaches her at a bus stop, gleefully quoting passages of her book and asking for a selfie. After she goes to the police, the show jumps back three months to a trip to Italy, on which she and her best friend Terry indulge in a drugs binge (and, in Terry’s case, in a threesome).
 
 Those characteristic tonal shifts have become even more pronounced and arresting. The emotional whiplash is meant, Ms Coel explains, to capture a fundamental truth. “I think a lot of people of colour, their lives are not a gag a minute,” she says. “There is darkness and there is light—and we should take both.” ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/07/02/the-jolting-artistry-of-michaela-coel

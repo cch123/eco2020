@@ -33,3 +33,7 @@ Another option would be to prolong the more generous unemployment system past Ju
 Most probably, the unemployment system will return to its pre-pandemic ways sooner rather than later. Lindsey Graham, a Republican senator, has said the $600-a-week programme would be extended “over our dead bodies”. The economy is reopening and bosses are looking for workers. Congressional Republicans have pressed for broader protections for employers, similar to those given by President Donald Trump to the meat industry, which would shield them from liability for covid-related deaths provided they follow minimum federal safety standards. Democrats may reluctantly fall in line in exchange for more state and local aid in the next round of relief. Before long, many American workers will face unpalatable choices. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/united-states/2020/05/16/inefficiencies-bedevil-americas-response-to-soaring-joblessness

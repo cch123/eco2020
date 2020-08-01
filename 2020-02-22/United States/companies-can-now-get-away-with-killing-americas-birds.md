@@ -25,3 +25,7 @@ Despite improvements in signalling electric lines, these kill even more: perhaps
 What of America’s bird-loving millions? If Mr Trump wins re-election, they are unlikely to stop his scheme. Like gun control or taxing the rich, conservation is something most voters support, but not forcefully enough to overcome resistance from a well-funded, politically favoured lobby. The fact that the FWS is already advising companies that they can get away with killing birds, accidentally on purpose, has sparked little protest.
 
 Another question, if the administration gets its way, is what will become of America’s mass enthusiasm for the beauty and elusiveness of birds? It is a culture founded on law, regulation and the high status that birds have gained from them. If birds are less protected, that suggests, they may in time be less loved.■
+
+## URL
+
+https://www.economist.com/united-states/2020/02/22/companies-can-now-get-away-with-killing-americas-birds

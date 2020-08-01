@@ -23,3 +23,7 @@ Against the idea, however, is work published this week in the Proceedings of the
 This study is in line with work done specifically on coronaviruses by Tracey Goldstein of University of California, Davis. In 2017 she and her colleagues published a piece of research in which they had tested for coronaviruses in bats, rodents and primates (including people) in 20 countries in Africa, South America and Asia. Individual bat species normally had between one and five types of coronavirus. (For comparison, human beings have seven, including the newly emerged SARS-CoV-2.) Scale that up for the 1,400 different species of the animals and it means there are potentially more than 3,000 coronaviruses circulating in bats. This certainly increases the odds that bats will be responsible for generating a coronavirus dangerous to people. But only because there are lots of them.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/04/18/bats-spread-viruses

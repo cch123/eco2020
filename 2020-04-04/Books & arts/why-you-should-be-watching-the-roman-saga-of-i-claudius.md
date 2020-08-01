@@ -19,3 +19,7 @@ The story is told in flashback by the aged Claudius as he recalls the (literally
 Many scenes stick in the mind 40 years after they were first broadcast. In one, Livia carefully explains to Augustus how she has poisoned him with fruit from a fig tree, as Mr Blessed stares in mute, unblinking silence for what seems like five minutes. In another, Claudius’s mother, Antonia, imprisons her daughter, Livilla, after the latter killed her own husband. As Livilla screams, Claudius asks, “How can you leave her to die?” “That’s her punishment,” his mother answers. “How can you bear to sit out here and listen to her?” Claudius says. Antonia replies, “And that’s mine.”
 
 Gulp this down now, and you will need to make allowances. The 1970s were an era of limited budgets, so the series was shot in the studio; vast Roman legions are represented by half a dozen soldiers. But the story is so compelling that it overcomes these shortcomings. It is, above all, a meditation on the corrupting influence of absolute power. Place all authority in the hands of one individual, and society is at risk from his follies and petty jealousies. Even the well-meaning Claudius is betrayed by almost everyone he trusts and, in his dying moments, learns that his dreams of a restoration of a republic will be dashed. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/04/04/why-you-should-be-watching-the-roman-saga-of-i-claudius

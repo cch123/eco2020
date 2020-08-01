@@ -33,3 +33,7 @@ The way funds are structured means that managers cannot deploy their “dry powd
 Bailing out existing investments will drag down returns for PE shops. It remains to be seen if buying opportunities can make up for that. Most PE managers hope to use their newly expanded credit arms to scoop up bombed-out loans and bonds with collapsed prices—Leon Black, the founder of Apollo, has said the opportunity is “massive”. But the volume of traditional buy-outs dropped sharply in March, and only a few firms have since made purchases. For years PE barons have boasted of their huge piles of dry powder, which, if spent in a downturn, might generate outsized returns. Now it is time to pounce.■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/05/30/can-private-equity-firms-turn-a-crisis-into-an-opportunity

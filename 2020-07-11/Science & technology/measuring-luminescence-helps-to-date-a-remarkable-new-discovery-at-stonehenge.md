@@ -29,3 +29,7 @@ As they report in Internet Archaeology, the OSL analysis allowed the researchers
 What purpose the pits served remains speculation. They would have required a massive effort to build, with tools made from stone, wood and bone. They may have been boundary markers, possibly containing large totem-like poles. Henges have cosmological significance and some think Stonehenge was a site for the dead while Durrington Walls, which had wooden structures, was a site for the living. The archaeologists hope to open up trenches throughout the pits to discover more.
 
 Elsewhere, OSL is proving successful in some surprising areas. Eren Sahiner of Ankara University in Turkey used the technique to date Ata Agac (Grand Tree), an ancient olive tree in western Turkey. The age of a tree can normally be determined by counting its growth rings, but the centres of ancient trees have often rotted away, making estimates difficult. Dr Sahiner carefully dug six holes to collect mineral samples from around the tree’s roots. His analysis, published in Journal of Quaternary Science, showed that quartz and feldspar in the soil were last exposed to sunlight up to around 3,000 years ago. That, reckons Dr Sahiner, means Ata Agac was probably planted during the Iron Age by early Greeks who valued olive oil imported from other regions and were keen to plant trees to produce their own. Which just goes to show how illuminating a photon can be.■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/07/11/measuring-luminescence-helps-to-date-a-remarkable-new-discovery-at-stonehenge

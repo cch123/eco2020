@@ -29,3 +29,7 @@ The lack of an American strategy for negotiation means that the general’s kill
 Meanwhile, sanctions and deterrence will gradually become less potent, because they always do. If America wants its approach to be sustained, the price could well be repeated rounds of sanctions buttressed by sustained military counters to Iranian aggression—and an aerial campaign if Iran appears about to get the bomb. Is Mr Trump prepared for that? Are his successors?
 
 Both Barack Obama and Mr Trump realised that turmoil in the Middle East consumes American resources and attention that would be better focused on Asia. Mr Obama tried to negotiate his way out of the region and failed. Mr Trump is trying to bully his way out instead, but he is likely to fail, too—because his strategy towards the regime in Tehran depends on America being present in the Middle East to contain Iran and maintain deterrence. The dramatic assassination of General Suleimani may look like a gamble that has paid off in the short term. Unfortunately, it has not solved America’s Iran problem. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/01/09/donald-trump-wants-to-curb-iran-has-he-gone-about-it-the-right-way

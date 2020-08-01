@@ -65,3 +65,7 @@ Reagents are not the only thing in short supply. Swabs to take samples from pati
 Every plan and guideline for what a country must have in place before it lifts its lockdown puts expanded testing near the top of the list, but few outline how to do this fast. For countries hoping to be rid of both their lockdowns and a runaway covid-19 epidemic, no problem is as urgent.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/international/2020/04/16/governments-are-starting-to-ease-restrictions

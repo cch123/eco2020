@@ -29,3 +29,7 @@ Dig deeper:
 Sign up and subscribe to Checks and Balance, our new [newsletter](https://www.economist.com//checksandbalance/) and [podcast](https://www.economist.com//podcasts/2020/04/24/checks-and-balance-our-weekly-podcast-on-american-politics) on American politics
 
 Correction (January 27th): This piece originally said that Bernie Sanders’s campaign slogan was “Bernie” when in fact the official slogan is “Not me. Us.”;“Bernie” is merely an unofficial slogan, albeit extremely prominent at Mr Sanders's campaign events. Sorry.
+
+## URL
+
+https://www.economist.com/united-states/2020/01/25/could-it-be-bernie

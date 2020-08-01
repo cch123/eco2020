@@ -33,3 +33,7 @@ The remaining population will be harder to reduce, but some individuals who are 
 This wish may not be forlorn. Efforts are under way in several states to change laws so as to shrink the incarcerated population: by doing away with cash bail, for example, or by getting police to carry out fewer arrests for misdemeanours. Such existing programmes are routinely backed by both political parties and have made it easier to respond quickly in the face of covid-19, according to Laurie Garduque of the MacArthur Foundation, which funds research on jail reform. The speedy action of many courts, sheriffs and other officials in the past week or so she describes as admirable. The pandemic brings a reminder that society’s most vulnerable—the poor, homeless and mentally ill—commonly end up in jails. Efforts to help them now are “not radical”, says Ms Garduque, “but are pushing in the same direction that we knew from before.” After the pandemic, she predicts, “we can go even further.” ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/united-states/2020/03/26/the-virus-should-speed-efforts-to-shrink-americas-prison-population

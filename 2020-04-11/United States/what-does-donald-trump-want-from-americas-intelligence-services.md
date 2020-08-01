@@ -31,3 +31,7 @@ Other harms are more nebulous and harder to forecast. Because the IC works in th
 This may reverse under a different president. So could, with enough time and reassurances, other countries’ wariness to share their secrets. But a second Trump term could leave the IC less a collection of independent analysts than an institution with broad powers to operate in secret for the president’s personal and political benefit—without, as Mr Atkinson’s sacking warns, any real oversight.■ 
 
 Dig deeper:
+
+## URL
+
+https://www.economist.com/united-states/2020/04/11/what-does-donald-trump-want-from-americas-intelligence-services

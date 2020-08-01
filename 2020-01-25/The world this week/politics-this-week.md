@@ -41,3 +41,7 @@ A Chinese court sentenced a former head of Interpol, Meng Hongwei, to 13-and-a-h
 The newly appointed head of the Chinese government’s office in Hong Kong, Luo Huining, strongly hinted that the territory should pass legislation relating to national security. He said current loopholes in the “national-security mechanism” could allow “external forces” to engage in infiltration and sabotage.
 
 The International Court of Justice in The Hague issued an interim ruling in the Gambia’s complaint against Myanmar for genocide. It ordered Myanmar to take measures to prevent further harm to Rohingyas, a Muslim minority that were victims of an army-led pogrom in 2017. The decision comes despite the personal appearance of Aung San Suu Kyi, Myanmar’s leader, before the court in December to argue against any such order. The court has no power to enforce its ruling.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/01/23/politics-this-week

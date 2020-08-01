@@ -29,3 +29,7 @@ The government is taking on some more unlikely examples of “blobism”. It is 
 And Mr Cummings has an even bigger force on his side than the Conservative Party’s instincts—the technological revolution that is reordering the world and that, according to him, most people in SW1 know almost nothing about. It is particularly menacing for the liberal professions that depend on licences and restrictive practices. Can the BBC survive in a world of multi-screens and multichannels? Or can the CBI continue to represent business when companies are being born and destroyed at a furious rate?
 
 The combative Mr Cummings may pick too many fights for his own good. He might get edged out of Downing Street, or just flounce out. But if that happens, the blob should not kid itself that it has won, for it has other, more dangerous enemies. ■
+
+## URL
+
+https://www.economist.com/britain/2020/02/06/cummings-v-the-blob

@@ -29,3 +29,7 @@ The current cabinet is one of the weakest in post-war history precisely because 
 Mr Johnson’s career has always been defined by his powerful sense of history (hence his obsession with Churchill) and his ruthlessness in achieving his goals (hence his willingness to break with friends and even family in order to achieve Brexit). He needs to realise that covid-19, not Brexit, will determine how he goes down in history. And he needs to apply the same ruthlessness to clearing out the Brexit cabinet that he applied to clearing out the government that he inherited from Theresa May. He should not try to fight today’s battles with yesterday’s weapons. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/03/26/politics-in-the-time-of-covid-19

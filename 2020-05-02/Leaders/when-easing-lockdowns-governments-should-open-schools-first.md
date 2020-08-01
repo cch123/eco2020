@@ -47,3 +47,7 @@ The best approach would be to apply attendance rules sensitively. Insist that ed
 Reopening schools may feel like a rash experiment with young lives. In fact it is an exercise in risk-balancing. Schools are the most powerful engines of social mobility in any society. Let the children in, and let them learn. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/leaders/2020/04/30/when-easing-lockdowns-governments-should-open-schools-first

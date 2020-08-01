@@ -19,3 +19,7 @@ Google searches for “restaurant reservations” are way down. The maître d’
 What happens next depends on whether America gets a handle on the outbreak. If it does not, then over time revenue-starved firms and salary-starved families will struggle. Any short-term economic boost from stockpiling would be cold comfort in the face of lower spending on services. But if America contains the virus, it can look forward to a bounceback of sorts. Real-time data in China, from traffic congestion to energy consumption, remain weak but are fast improving as the number of new infections slows. An acute economic shock does not have to turn chronic. ■
 
 Dig deeper:
+
+## URL
+
+https://www.economist.com/united-states/2020/03/14/tracking-the-economic-impact-of-covid-19-in-real-time

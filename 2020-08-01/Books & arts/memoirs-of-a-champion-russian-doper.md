@@ -25,3 +25,7 @@ Keeping one step ahead in the cat-and-mouse with WADA and global sports administ
 The author has since attained celebrity as a snitch, starring in an Oscar-winning documentary, “Icarus” (see picture), and having an American anti-doping law named after him. But his status has come at a cost. Granted political asylum in America, he lives in protective custody in an undisclosed location. When he leaves home, flanked by at least one bodyguard, he sometimes wears a bulletproof vest. He has reason to worry, given Russia’s vengeful attitude to “traitors”. Two former doping officials who stayed in Russia died 11 days apart in mysterious circumstances.
 
 His erstwhile paymasters have been forced to admit violations, but hardly appear chastened. Russia is appealing against a four-year Olympic ban. It continues to play games, submitting “a clumsily adulterated pack of lies” to WADA investigators, which, says Mr Rodchenkov, was “so artlessly counterfeited that it was almost as if they were begging to be caught”. Paraphrasing George Orwell, he concludes that the Russian state is as conscious as ever of the truth, but as wedded as ever to lies. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/08/01/memoirs-of-a-champion-russian-doper

@@ -23,3 +23,7 @@ America may turn more Canadian when it comes to regulations, too. Unlike Justin 
 In Canada the premier of oil-rich Alberta argues that provinces should be freer to develop oil projects within their borders. It is not impossible to imagine a world in which oil states battle a more restrictive national government in America, too. ■
 
 Sign up to our fortnightly climate-change newsletter [here](https://www.economist.com//theclimateissue/)
+
+## URL
+
+https://www.economist.com/business/2020/02/29/canadian-tar-sands-offer-lessons-for-american-shalemen

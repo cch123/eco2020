@@ -21,3 +21,7 @@ As in previous volumes, the obvious question—where is Jesus?—generates suspe
 Mr Coetzee’s tone is philosophical but not arid. The tender antagonism between David and Simón, left flat-footed by his precocious ward, brims with emotion, even comedy, which anyone who has ever tied themselves in knots answering a child’s whys will enjoy. When Simón attempts to console the boy by saying his illness is just bad luck, since “in ninety-nine cases out of a hundred” germs “fail to get in”, David upends the logic: “Simón says I am number one hundred, and number one hundred has to die.”
 
 The characteristically concise present-tense narration creates a kind of crystalline opacity; “The Death of Jesus” is a novel with many doors, but no key. It is a remarkable achievement by a writer whose evolution, at the age of 79, continues to surprise. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/01/30/jm-coetzees-new-novel-has-many-doors-but-no-key

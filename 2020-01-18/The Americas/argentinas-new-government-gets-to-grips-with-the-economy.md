@@ -23,3 +23,7 @@ Time is of the essence. If the government moves quickly, the bonds will still be
 “We are navigating through a narrow passage,” according to Mr Guzmán. Missing is a chart for the other side of the corridor. Unless they are strictly temporary, the controls will create big distortions of the kind that built up under Cristina Fernández de Kirchner, the powerful vice-president, who held the top job from 2007 to 2015. The government has yet to link its emergency measures to a macroeconomic plan. That may be because Mr Fernández, a pragmatic moderate, must negotiate not just with creditors but also with his vice-president, a leftist populist.
 
 His stance is thus ambiguous. On the one hand, he has rightly stressed that Argentina needs to boost its exports, and he has called for a national consensus on a long-term plan. On the other, in a reference to the IMF, he has lashed out at “recipes that have always failed”. In fact, they have always failed only in Argentina, which has long wanted to play by its own rules. “The world, unfortunately, is real,” as the writer Jorge Luis Borges put it. It is Mr Fernández’s task to persuade Argentines of that.
+
+## URL
+
+https://www.economist.com/the-americas/2020/01/16/argentinas-new-government-gets-to-grips-with-the-economy

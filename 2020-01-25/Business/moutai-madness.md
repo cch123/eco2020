@@ -29,3 +29,7 @@ More recently, another anti-corruption push has shaken the firm. Mr Yuan, who st
 Next, the government is its largest shareholder—and a meddlesome one. It appears to want prices to remain stable. Exorbitantly priced booze is at odds with its professed socialist ideals. Yet minority investors—including many foreign funds—lament that Moutai’s wholesale price is a third of what it sells for in shops. Raising it could boost the company’s profits further. Many shareholders would also like Moutai to increase direct sales to capture more of the retail value. Instead, in what some see as a travesty of corporate governance, its majority owner has plans to set up its own sales channel. As Mr McLeish delicately puts it, Moutai does not behave like a “value-maximising shareholder company”.
 
 In the long run, its biggest risk may be millennials. As they grow older, health concerns, work-life balance and the desire for more wholesome pursuits than binge-drinking may curb the “Ganbei!” toasting culture on which so much of the demand for Moutai rests. For the time being, though, the party goes on. As Mr Sandhaus writes, citing a saying that has gained currency on Chinese social media: in China it is still better to do one bad thing with your boss than a hundred good things for your boss. That is not a sentiment on which Western marketers would build a business. But in China it has helped create the world’s biggest alcohol brand. ■
+
+## URL
+
+https://www.economist.com/business/2020/01/23/moutai-madness

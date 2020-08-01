@@ -27,3 +27,7 @@ Perhaps in this respect, the new coronavirus is a tonic for Mr Morrison. His pol
 As for the latest bleaching, the government has largely ignored the news. Mr Morrison’s official “envoy” to the Great Barrier Reef, Warren Entsch, a Queensland politician, points out that “bleached corals are not dead corals” and predicts that many will recover. Although he admits climate change is a concern, he once complained that “indoctrinating” youngsters to be worried about it is a form of “child abuse”. Most Australians care both about climate change and about the Great Barrier Reef—but not enough, alas, to call their government out over such ambivalence.
 
 Sign up to our fortnightly climate-change newsletter [here](https://www.economist.com//theclimateissue/)
+
+## URL
+
+https://www.economist.com/asia/2020/04/18/big-parts-of-the-great-barrier-reef-are-dying

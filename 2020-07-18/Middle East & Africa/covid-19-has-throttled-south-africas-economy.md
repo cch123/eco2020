@@ -39,3 +39,7 @@ Mr Ramaphosa seems to be siding with the statists. This may be tactical: he need
 Ms Mothiba has more prosaic concerns. She worries that there may be no point in trying her luck again in Johannesburg, even if the pandemic subsides. She is thinking of setting up a fruit and vegetable stand to make ends meet. It was not the return to the land she envisaged. “But I can’t just sit here and fold my arms.” ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/07/18/covid-19-has-throttled-south-africas-economy

@@ -27,3 +27,7 @@ In a response that has left the government defensive and bewildered, students at
 The ongoing citizenship row has had the effect of healing myriad divisions among India’s 200m Muslims, releasing their pent-up frustration with Mr Modi, and encouraging them to find allies from across Indian society. The apparent impunity with which thugs attacked secular, middle-class university students in the middle of India’s capital seems to have offended another slice of the Indian public.
 
 In the absence of a strong parliamentary opposition to exploit the government’s missteps, the sight of Ms Ghosh with blood pouring down her face may soon be forgotten. Mr Modi still has no rival for mastery of Indian politics. Yet he seems to have missed an important point. The country’s first-past-the-post electoral system has exaggerated the scale of his popularity: his party’s 38% of the national vote translated into a 56% parliamentary majority. Now, it seems, the 62% of Indians who did not vote for him, and certainly did not endorse the Hindu-nationalist project to turn India into a monochrome state, are beginning to speak out.■
+
+## URL
+
+https://www.economist.com/asia/2020/01/09/an-assault-on-students-brings-trouble-for-narendra-modi

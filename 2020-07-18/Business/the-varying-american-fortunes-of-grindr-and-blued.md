@@ -19,3 +19,7 @@ Growth has been brisk. BlueCity’s revenues reached 207m yuan ($30m) in the fir
 CFIUS did not disclose the reason for its decision. One obvious worry relates to the potential for blackmail. Reports surfaced last year that some of Beijing Kunlun’s engineers in China had access to the personal data of Grindr’s millions of American users. The fear is that the private messages of certain users, such as closeted politicians, could be turned over to China’s government. (No evidence of foul play was ever made public by CFIUS.)
 
  Unlike Grindr, which was popular in America before Kunlun bought it, Blued is a minnow outside Asia. Its relative obscurity may shield it from examination for a while. If it starts to gain a foothold in America, which is tussling with China over technology and trade, regulators are likely to take a closer look. Anticipating this, Blued insisted in its prospectus that “data related to users in and outside of China are strictly stored on servers in and outside of China, respectively.” Investors seemed reassured at first; BlueCity’s share price soared by 63% on the first two days of trading. That it has since lost a chunk of those gains suggests that Mr Ma has his work cut out. ■
+
+## URL
+
+https://www.economist.com/business/2020/07/18/the-varying-american-fortunes-of-grindr-and-blued

@@ -47,3 +47,7 @@ Many have compared the covid crisis to armed conflict. After the first world war
 Mark Carney was governor of the Bank of England. This is part of a series from outside contributors on the world after covid-19.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/by-invitation/2020/04/16/mark-carney-on-how-the-economy-must-yield-to-human-values

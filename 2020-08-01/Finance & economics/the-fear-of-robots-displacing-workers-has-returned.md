@@ -25,3 +25,7 @@ Such severe, lasting labour-market pain in the aftermath of the pandemic may act
 Tech-induced mass unemployment, then, seems unlikely. But there is one scenario where covid-19 could unleash the robots—if labour costs start to drift upwards, perhaps as global supply chains break down, or minimum wages rise. The reshoring of manufacturing jobs could lead to pressure to replace cheap foreign labour with robots at home. Production could no longer take advantage of low-cost labour, as America’s meat-processing industry does.
 
 Years of economic dysfunction have energised campaigns for higher minimum wages and a more generous welfare state. The economic devastation wrought by the pandemic lends them momentum; like past crises, it could lay the groundwork for a new social contract. If post-pandemic policy were to enable workers to enjoy more security on fewer hours worked, firms might then face some genuine labour scarcity. And that would really work up an appetite for disruption. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/07/30/the-fear-of-robots-displacing-workers-has-returned

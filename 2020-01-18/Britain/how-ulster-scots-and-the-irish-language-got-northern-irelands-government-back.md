@@ -25,3 +25,7 @@ Hardly anybody in Northern Ireland actually uses these languages regularly. The 
 Still, the language has proved a convenient marker for young, secular Republicans whose grievances are social and economic rather than religious and who link their cause to feminism and gay rights. The campaign is based on “intersectionality”, insists Conchur O’Muadaigh, a youth organiser, using a term that refers to multiple and interdependent types of disadvantage.
 
 The boost for Ulster Scots, similarly, will be cheered by the good number of people in the northern strip of Ireland (by no means all of whom are Protestant) who grew up speaking broadish Scots at home but felt they had to talk posh in public. Now they don’t have to any more—or, as they would prefer to put it, they dinnae hae tae ony mair. ■
+
+## URL
+
+https://www.economist.com/britain/2020/01/18/how-ulster-scots-and-the-irish-language-got-northern-irelands-government-back

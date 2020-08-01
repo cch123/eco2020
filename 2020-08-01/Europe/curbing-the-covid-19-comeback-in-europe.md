@@ -23,3 +23,7 @@ That, however, still leaves the matter of intensifying local transmission. A pat
 As the summer starts to wind down, the need to contain outbreaks across Europe will become increasingly acute. A huge worry in all countries is the autumn, when people start to spend more time indoors and flu and other respiratory infections rise as they do every year, filling hospital beds. Countries that reach that point with a high plateau of covid-19 cases could see a return to exponential growth that overwhelms hospitals again. Across Europe, they are better prepared for a second wave than they were for the first, with new measures to curb the spread of covid-19 in hospitals and extra beds and field hospitals that are mothballed now. But how hard they are hit will depend largely on how much their citizens choose to play by the rules of the new normal.■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/08/01/curbing-the-covid-19-comeback-in-europe

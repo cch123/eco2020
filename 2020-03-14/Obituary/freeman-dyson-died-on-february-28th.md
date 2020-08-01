@@ -23,3 +23,7 @@ The project was scuppered in the end by a mix of political queasiness over the f
 He was an iconoclast, too, and enjoyed being known as one. Heretics were useful in science. It was far better to be contradicted than ignored; better to be wrong than vague. As a colleague said, whenever consensus was forming like ice hardening on a lake, he would do his best to chip away at it. He dared to challenge natural selection as the only driver of evolution, and he queried climate change: not the fact that it was happening, but the usefulness of the models that aimed to predict its effects. In any case, some of those effects might be beneficial—a longer growing season, for example, and fewer deaths from the cold. Environmentalism struck him as more a religion than a science.
 
 Not that he was against religion; he supported it, in a diffident Church of England way. To get back beyond the Big Bang, certainly, you needed religion. But the real faith that sustained him was a boundless belief in the power and possibilities of science. He had witnessed at first hand how it could give mere mortals the power to destroy their own world. Perhaps they could use science to save it, too—or, if not, leave it for another altogether. ■
+
+## URL
+
+https://www.economist.com/obituary/2020/03/12/freeman-dyson-died-on-february-28th

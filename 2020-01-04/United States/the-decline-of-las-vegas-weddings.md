@@ -19,3 +19,7 @@ Ron DeCar, an Elvis impersonator and owner of the Viva Las Vegas chapel, has see
 For all the creativity, this chapel, like the others, faces a shaky future. One of the most venerable, A Little White Wedding Chapel, the venue for about 800,000 ten-minute weddings, failed to find a buyer after six months. Even fame as the chapel of choice for Britney Spears, Frank Sinatra and Michael Jordan did not help. In October its owners gave up, stuck for now with a little white elephant.
 
 To drum up trade, the clerk’s office will run a pop-up licence booth at the local airport in 2020. It should make marrying more expedient—and perhaps tempt newly arrived couples. Christine Crews of the airport’s public affairs department enthuses that between the booth, flower-vending machines, jewellers and liquor stores, the airport offers all you need for an impromptu proposal. However slick the set-up, the integral ingredient—the willing couple themselves—may yet remain elusive.
+
+## URL
+
+https://www.economist.com/united-states/2020/01/02/the-decline-of-las-vegas-weddings

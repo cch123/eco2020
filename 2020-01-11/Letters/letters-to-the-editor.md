@@ -51,3 +51,7 @@ Your Christmas special on hot-metal type printing brought tears to my eyes (“T
 Lenny would hold them in his blistered and calloused hands, turning them over and peering intently at each letter. Every so often he would take one and shove it at me. “Take this, kid,” he would say. I didn’t realise at the time that they were the rejects, but I clutched them as if they were rare gems dug out of a deep mine. I took them home and saved every one. Decades and many apartments and homes later, I still have the precious relics in the top drawer of my desk.
 
 MATT TALLMERLos Angeles
+
+## URL
+
+https://www.economist.com/letters/2020/01/11/letters-to-the-editor

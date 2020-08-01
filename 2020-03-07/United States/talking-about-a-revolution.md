@@ -27,3 +27,7 @@ This saga holds several lessons. Libertarian ideals were the intellectual basis 
 The Times’s 1619 Project (named after the year Africans were first brought to North America) is not only a corrective to that tradition, but part of it. It has been criticised for being partial and containing inaccuracies. It also downplays the contribution of African-Americans to America’s struggle to live up to the founders’ vision; and the inspiration many of them have found in it. African-Americans were participants in the Boston Massacre and, in one of the first states to restrict and then abolish slavery, beneficiaries of the events it helped set in train. In the figure of Attucks, they also found an unlikely inspiration in massacre propaganda.
 
 Sticklers for historical accuracy have much to complain of here. Yet the incontestable fact of the massacre offers consolation. In 18th-century Boston, justice and the rule of law prevailed over politics and the mob. Perhaps even more than ideas of freedom, they are America’s foundation. May Adams’s successors remember it.■
+
+## URL
+
+https://www.economist.com/united-states/2020/03/07/talking-about-a-revolution

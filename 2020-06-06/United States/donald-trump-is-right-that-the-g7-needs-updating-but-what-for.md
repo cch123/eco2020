@@ -21,3 +21,7 @@ In truth, Mr Trump is right that the G7 could do with rethinking. When it starte
 So what is the point of it? With his suggested four extra members, Mr Trump seems to envisage a G11 (or perhaps G12, if Brazil came in too) becoming a China-containment club. But having China’s junior partner, Russia, in the mix would undermine that idea. By contrast, points out Michael Fullilove of the Lowy Institute, an Australian think-tank, “if this is to be the steering committee of the world economy, then China deserves to be included.”
 
 Perhaps it should simply be a modernised version of what the G7 has aspired to be all along, a powerful group of like-minded democracies. With their impressive response to the pandemic, Australia and South Korea can claim to have earned a place at the top table. The problem is that it is less clear how well America itself fits into the club these days. Under Mr Trump, especially since a contentious summit in Canada two years ago, when he withdrew his name from the concluding statement, the group has often looked more like a G6+1. The next episodes should be gripping. ■
+
+## URL
+
+https://www.economist.com/united-states/2020/06/04/donald-trump-is-right-that-the-g7-needs-updating-but-what-for

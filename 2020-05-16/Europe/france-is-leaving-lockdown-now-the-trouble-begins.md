@@ -33,3 +33,7 @@ Yet there is an underlying fearfulness, which Yann Algan, an economist at Scienc
 The balance between safety and prosperity is perilous. As Eric Chaney of the Institut Montaigne, a think-tank, points out, chômage partiel (which covers 12.4m workers) has been the right policy to avoid lay-offs, “but creates the wrong incentives about returning to work”. The government now talks about gradually shifting the cost of the scheme to employers from June. Having played so well to French angoisse to impose confinement, the government may find it peculiarly hard to secure the trust needed to assuage those fears, and get the country fully back to work. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/05/14/france-is-leaving-lockdown-now-the-trouble-begins

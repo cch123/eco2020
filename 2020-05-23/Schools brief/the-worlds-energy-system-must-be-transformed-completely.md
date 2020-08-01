@@ -49,3 +49,7 @@ But governments need to make the signals clear. Around the world, they currently
 However much they do, though, and however well they do it, they will not stop the climate change at today’s temperature of 1°C above the pre-industrial. Indeed, they will need to expand their efforts greatly to meet the 2°C target; on today’s policies, the rise by the end of the century looks closer to 3°C. This means that as well as trying to limit climate change, the world also needs to learn how to adapt to it. ■
 
 Correction (May 22nd 2020): This article previously stated that Britain had 10,000 offshore wind turbines. In fact that is the total number of turbines; only 2,016 are offshore. We're sorry for the error.
+
+## URL
+
+https://www.economist.com/schools-brief/2020/05/23/the-worlds-energy-system-must-be-transformed-completely

@@ -27,3 +27,7 @@ As for Japan, defeat after the second world war aggravated what a Japanese write
 Mr Abe and his allies, by contrast, have no truck with self-loathing. With China on the rise and America proving a wobbly ally, he believes it is time for Japan to stand tall again and celebrate tradition. As in China, shades of Confucianism are back. Mr Abe wants to change the constitution to emphasise family over the individual.
 
 Still, asks Jeffrey Kingston of Temple University in Tokyo, is name order “the big naming question facing Japan in the 21st century?” Surely, he says, that is the official ban on married couples retaining separate family names, a rule that in practice means wives nearly always take their husbands’ names. Mr Abe may be a traditionalist, but didn’t he promise to empower women?
+
+## URL
+
+https://www.economist.com/asia/2020/01/02/why-japanese-names-have-flipped

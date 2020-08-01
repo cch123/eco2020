@@ -21,3 +21,7 @@ The tribe has asked for a preliminary injunction to prevent the land from being 
 Other tribes are worried about what the decision means for them. More than 100 other tribes have gained federal recognition since 1934 and hold thousands of acres of land in trust. Mr Cromwell said he was “blindsided” by the call in March from the Bureau of Indian Affairs. He thought the bureau was checking in to see how the tribe was coping with covid-19, which has hit Native Americans particularly hard.
 
 The impact of disestablishment extends beyond the casino. The tribe had started building housing for its community and a childcare centre on the land. Those projects, along with a tribal courthouse, could be in jeopardy. Losing the land itself is a possibility, if they cannot pay taxes. Federal recognition is not at risk, but Ms Sibbison wonders what that is worth if land and sovereignty can be taken away.■
+
+## URL
+
+https://www.economist.com/united-states/2020/05/28/what-connects-casinos-the-first-thanksgiving-and-the-trump-administration

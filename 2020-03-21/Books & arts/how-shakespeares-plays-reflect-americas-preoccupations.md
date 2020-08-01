@@ -23,3 +23,7 @@ These cases, Mr Shapiro argues, show how Shakespeare alerts Americans to the “
 Consider a controversial production of “Julius Caesar” in New York in 2017 (pictured), which left no confusion over the intended modern parallels. Caesar was a tall, blustering blond in dark suits and overlong ties whose comely wife had a Slavic accent. Anyone familiar with the play knows that the brutal assassination, notionally in defence of the republic, is more ugly than heroic, and that the conspiracy ends badly. In this case, Oskar Eustis, the director, aimed to subvert the contemporary appeal of political violence. But after Fox News played a 12-second clip of this murderous scene, devoid of context, public pressure on social media forced corporate sponsors to withdraw their support. Mr Eustis and others received death threats.
 
 Like Mr Shapiro’s other examples, the production handily highlighted the nation’s rifts. But rather than contend with the play’s ideas, critics simply pushed to shut it down. There is a grim and timely irony in the fact that a show hoping to inspire debate about threats to democracy instead revealed “how easily democratic norms could crumble”. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/03/19/how-shakespeares-plays-reflect-americas-preoccupations

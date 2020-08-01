@@ -29,3 +29,7 @@ Some governments have put their efforts into greening their covid-19 bail-outs. 
 The covid-19 pause is not inherently climate-friendly. Countries must make it so. Their aim should be to show by 2021, when they gather to take stock of progress made since the Paris agreement and commit themselves to raising their game, that the pandemic has been a catalyst for a breakthrough on the environment.
 
 Covid-19 has demonstrated that the foundations of prosperity are precarious. Disasters long talked about, and long ignored, can come upon you with no warning, turning life inside out and shaking all that seemed stable. The harm from climate change will be slower than the pandemic but more massive and longer-lasting. If there is a moment for leaders to show bravery in heading off that disaster, this is it. They will never have a more attentive audience. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/05/21/countries-should-seize-the-moment-to-flatten-the-climate-curve

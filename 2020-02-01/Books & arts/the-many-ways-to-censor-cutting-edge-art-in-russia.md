@@ -29,3 +29,7 @@ In this parallel censorship drive, far-right agitators have taken aim at several
 On the contrary, says Valentina Bobrova, the National-Conservative Movement’s founder. Outfits like hers may further the Kremlin’s bid to stoke a culture war between conservatives and those it portrays as radicals, but she insists the movement is privately funded and has no links with the authorities. She says she never had much hope that her complaint would close the company—and that it is not the likes of her but liberal voices that hold too much sway in modern Russia. “Teatr.doc is an enemy of our country that is working from within,” she says. “We cannot stay quiet and we decided to act.” She was behind the disruption of “Out of the Closet”, too. Her members are looking out for other signs of “anti-Russian” activity.
 
 Ms Patlay worries about the effect of all this on the audience, who might conclude “that you have to be particularly brave to go to the theatre. And we don’t have the right to ask spectators to be brave.” As to whether Teatr.doc has managed to change Russian society, she is illusionless. “I don’t think the percentage of decent people has increased,” she accepts. “But those people who are still here, who haven’t emigrated, perhaps it is a support of some kind.” At the very least, she says, the company has shown it is possible to talk openly about things that others would rather hush up. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/01/30/the-many-ways-to-censor-cutting-edge-art-in-russia

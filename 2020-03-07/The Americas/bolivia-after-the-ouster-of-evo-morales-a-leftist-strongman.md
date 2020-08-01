@@ -25,3 +25,7 @@ Mr Morales’s position inside Bolivia is weakening. He imposed Luis Arce, his f
 Abroad, Ms Áñez is chiefly known for brandishing a large bible at the presidential palace and exclaiming “Glory to God” when she took over. She is a social conservative but in some other ways is less reactionary and more pragmatic than her image. A mestiza from a poor background, she is an experienced parliamentarian. She decided to stand after a poll gave her a 43% approval rating.
 
 Whoever wins faces two big tasks. One is to fix the economy, which Mr Morales left with a big fiscal deficit, an overvalued exchange rate and declining gas revenues. The other is to unite the country. It may help that if Mr Arce loses, the MAS is likely to split between diehards and younger, more moderate leaders. After 14 years of Mr Morales, “we have to go back to recognising that politics involves disagreement, debate and deal-making,” says Roberto Laserna, a social scientist in Cochabamba. These tasks may fall to Ms Áñez.
+
+## URL
+
+https://www.economist.com/the-americas/2020/03/05/bolivia-after-the-ouster-of-evo-morales-a-leftist-strongman

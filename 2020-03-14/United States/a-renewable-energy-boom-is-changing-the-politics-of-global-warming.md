@@ -27,3 +27,7 @@ But the shift towards greener energy is changing some minds. Curt Morgan, the CE
 Yet will that persuade Republicans? Mr Morgan says he thinks the party is moving in the right direction. They have moved from being a “just say no party on climate change to a party that recognises it is a problem,” he says. But, he adds, progress is slow. “The politicians have a problem—they need to get re-elected.” In February Republicans in the House of Representatives proposed to reduce emissions by creating a tax credit for carbon sequestration and encouraging the planting of trees. Despite its modesty, the plan was immediately denounced as capitulation by some groups on the right. The Republican Party risks being left behind defending old industries even as new ones sweep them away.■
 
 Sign up to our fortnightly climate-change newsletter [here](https://www.economist.com//theclimateissue/)
+
+## URL
+
+https://www.economist.com/united-states/2020/03/14/a-renewable-energy-boom-is-changing-the-politics-of-global-warming

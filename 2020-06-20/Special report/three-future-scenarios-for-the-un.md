@@ -29,3 +29,7 @@ None of this can happen overnight. A start could come from a P5 summit, with a f
 If the wartime model were followed, the road might even lead to a grand convention, as in San Francisco in 1945. The main actors at that conference were the delegates of the governments involved, especially the big powers. But in all—counting the secretariat workers, the press, interpreters, security personnel and assorted lobbyists and observers—about 5,000 people crowded into town, in a foretaste of the General Assembly that clogs New York every September. “Consultants” representing industries, labour, religions, professions, women and minorities were accredited. They managed to influence the charter on education and human rights, and successfully pushed for an article allowing the UN’s Economic and Social Council to consult NGOs. A rethink of the rules ought to be even more inclusive.
 
 Such a prospect looks far-fetched when the world is consumed by the fight against a virus, and when America and two other big powers are waging a new cold war. But in the midst of the second world war it was hard to imagine that institutions would emerge that would keep the peace for three-quarters of a century. The statesmanship that created them is now needed once again.■
+
+## URL
+
+https://www.economist.com/special-report/2020/06/18/three-future-scenarios-for-the-un

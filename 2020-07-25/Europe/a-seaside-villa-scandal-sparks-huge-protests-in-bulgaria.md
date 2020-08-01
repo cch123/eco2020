@@ -21,3 +21,7 @@ The response was swift. On the morning of July 9th police raided the president�
 Mr Borisov’s term ends next spring, but he may not last that long. Axing his finance, economy, interior and culture ministers was meant to deflect blame, but it hardly suggests strength. Dimitar Bechev, a political scientist at the University of North Carolina, thinks he has lost control of the agenda: voters suspect he is beholden to Mr Dogan and Mr Peevski. But early elections would bring little relief. Apart from Mr Borisov’s conservative GERB party, only the Socialists are strong enough potentially to form a government. They are seen as little better than GERB on corruption, and are friendly towards Russia.
 
 All this has made for a rough summer. Bulgaria handled the first stage of the covid-19 epidemic well, with a tough lockdown. Early this month the European Commission accepted its entry into the “waiting room” for adopting the euro. But covid-19 cases have begun to rise, and the scandals are a reminder of how little progress has been made against corruption. “The state of democracy, the state of the institutions and the quality of life have been going backwards rather than forwards,” says Ruzha Smilova, a political scientist at Sofia University. At least the weather at Mr Dogan’s villa has been marvellous. ■
+
+## URL
+
+https://www.economist.com/europe/2020/07/23/a-seaside-villa-scandal-sparks-huge-protests-in-bulgaria

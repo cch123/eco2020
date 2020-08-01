@@ -25,3 +25,7 @@ The second factor is land. In Ethiopia, all land is owned by the state. Although
 “Our fathers lost their land, so we have nothing to inherit,” says Tsige’s son Betemariam. An added sore is that public housing built on land that belonged to Oromo farmers was typically given to more prosperous city-dwellers. “It’s not fair,” says Beshadu Degife, who lives down the lane. “This land is ours but now it’s people from other places who are enjoying it.”
 
 The growing perception is that towns with mixed populations are strongholds of Abiy’s Prosperity Party, which seeks to have no ethnic slant. This perception may further aggravate tensions. As Ethiopia prepares for delayed elections some time next year, towns will be places to watch—and worry about. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/08/01/how-land-disputes-erupt-in-ethiopia

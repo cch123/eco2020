@@ -23,3 +23,7 @@ This convoluted claim to legitimacy can be heard in the context of the current c
 It is too simplistic to assume that all bad things that happen in China must harm Mr Xi. The virus outbreak could end swiftly, amid worldwide praise for the bravery of China’s doctors and nurses, the self-discipline of the public and the resolve of Chinese leaders, albeit after a slow start. If the crisis does not end well, scapegoats will be found, and underlings punished. That alone would not have to shake Mr Xi’s authority, which can always be shored up with repression, still greater ideological discipline and nationalist propaganda. But a botched response to the virus would lay bare tensions inherent in the party’s hybrid claims to legitimacy.
 
 Mr Xi’s China is two things at once. It is a secretive, techno-authoritarian one-party state, ruled by grey men in unaccountable councils and secretive committees. It also claims to be a nation-sized family headed by a patriarch of unique wisdom and virtue, in a secular, 21st-century version of the mandate of Heaven. If forced to choose between those competing models, bet on cold, bureaucratic control to win out. For Mr Xi and his team learned their own lesson from the Soviet Union’s fall, five years after the Chernobyl disaster. Expressions of public love for Mr Xi, the “People’s Leader”, are all very well. But keeping power is what counts. ■
+
+## URL
+
+https://www.economist.com/china/2020/01/30/xi-jinping-wants-to-be-both-feared-and-loved-by-chinas-people

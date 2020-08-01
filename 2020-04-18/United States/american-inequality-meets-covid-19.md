@@ -39,3 +39,7 @@ The roll-out of the small-business bail-out scheme has been bumpy, too, with own
 Assessing the long-run effect of the last economic downturn on children, some of America’s leading scholars on poverty concluded: “The near immunity of college-educated families and the large negative consequences for less-educated families mean that the Great Recession increased the already large divide between families at the top and bottom of the income distribution.” There is little reason to doubt that the same dynamic will reappear this time.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/united-states/2020/04/18/american-inequality-meets-covid-19

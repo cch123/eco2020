@@ -29,3 +29,7 @@ A communal house in Oakland, California, has gone further, drawing up a 12-page 
 That is extreme. But the big public-health problem lies not in shared households that go too far but in irresponsible ones that do not go far enough. How sharers respond will determine not only how quickly covid-19 passes, but also whether, afterwards, millions will continue to live in households that are an infection risk. ■
 
 Editor’s note: The Economist is making some of its most important coverage of the covid-19 pandemic freely available to readers of The Economist Today, our daily newsletter. To receive it, register [here](https://www.economist.com//newslettersignup). For our coronavirus tracker and more coverage, see our [hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/united-states/2020/04/11/house-sharers-find-covid-19-restrictions-especially-hard-to-deal-with

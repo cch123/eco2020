@@ -23,3 +23,7 @@ On February 17th Mr Machar flew to Juba with Lieutenant-General Abdel Fattah Abd
 Still, a unity government is most likely to take shape in the coming weeks. The question then is how long it will last. The process of integrating rebels into the national army, which is far behind schedule, will be fraught. “How are you going to get 83,000 men who have spent more than six years slaughtering each other to work together?” asks Peter Martell, the author of a recent book on South Sudan.
 
 The bigger issue is that the latest deal, like those before it, aims to do little more than restore the balance of power between the president and his rival. “We’re essentially trying to reset the button to 2013—back to the very problem which kick-started this war,” says Mr Martell. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/02/20/south-sudan-inches-towards-a-unity-government

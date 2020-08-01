@@ -21,3 +21,7 @@ It was nonetheless notable that Mr Johnson ducked any suggestion that he would d
 Getting the balance between hard and soft power is tricky at the best of times. Especially in Africa, where most British aid is disbursed, diplomats involved in conflict resolution have complained that their punch has weakened as DFID’s has grown. One called it “the DFID-isation of foreign policy”. Rory Stewart, a former minister for DFID who competed against Mr Johnson to lead the Conservatives last year, has bemoaned the shrinkage of the Foreign Office. “It is no longer staffed or funded to act as a global power,” he says.
 
 But folding DFID into it is not the answer, he argues. At Mr Johnson’s request a historian, John Bew, has been reviewing Britain’s foreign policy with the aim of integrating diplomacy with commerce, security and aspects of soft power such as development aid. Friends and foes of the new arrangement are equally puzzled by the prime minister’s decision to act before Lord Bew reports. ■
+
+## URL
+
+https://www.economist.com/britain/2020/06/19/british-diplomats-and-donors-are-told-to-merge

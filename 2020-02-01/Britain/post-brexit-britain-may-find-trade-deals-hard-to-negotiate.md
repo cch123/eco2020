@@ -25,3 +25,7 @@ Sectors matter too. Big companies can deal with tariffs, trade and customs barri
 Above all is the idea of looking at services, not goods. Non-tariff barriers matter more than tariffs, and they affect services most. David Henig, a trade economist, notes that services account for 80% of Britain’s GDP and 40% of its exports, a share that is growing fast. Yet progress towards freer global trade in services has been glacial. America and Britain are, respectively, the world’s biggest and second-biggest exporters of services. Could they team up to push greater liberalisation? ■
 
 Correction (January 31st 2020): This piece originally said that America requires deals to lapse if its partner negotiates with China. Actually, the legislation permits America to allow a deal to lapse if its partner agrees one with China.
+
+## URL
+
+https://www.economist.com/britain/2020/02/01/post-brexit-britain-may-find-trade-deals-hard-to-negotiate

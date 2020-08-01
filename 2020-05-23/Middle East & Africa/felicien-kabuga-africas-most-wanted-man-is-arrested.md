@@ -21,3 +21,7 @@ Yet uncomfortable questions remain. How did Mr Kabuga escape detection for so lo
 Some questions will be directed at Kenya. Much of Mr Kabuga’s time was spent there, almost certainly with the connivance of officials. Attempts to nab him in Nairobi in 1997, 2003 and 2008 came to naught. Instead, detectives would find a note on a kitchen table warning Mr Kabuga to get out—or find a corpse. In 2002 Pierre-Richard Prosper, America’s then special ambassador for war crimes, accused a Kenyan official of harbouring him, which the official denied.
 
 Human-rights activists suggest that as recently as 2016 Mr Kabuga may have lived in the Kenyan town of Eldoret. By then, however, American investigators had given up trying to catch him, fearing that other informants could end up like Munuhe. Those trying to uncover who harboured Mr Kabuga will probably not get much help from Kenya, where the president and deputy president have both had run-ins with the International Criminal Court. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/05/21/felicien-kabuga-africas-most-wanted-man-is-arrested

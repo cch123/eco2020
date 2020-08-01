@@ -31,3 +31,7 @@ The economy is bigger but less fizzy than it was in 2003. During the SARS outbre
 The part of the economy most hurt by SARS was the services sector, which then accounted for about 40% of GDP. Today the share is higher than 50%. But consumer spending could be more resilient this time because of huge growth in the popularity of online shopping. If they are fearful of venturing out (Wuhan has ordered residents to wear masks in shops and other establishments where people congregate), people can continue to buy goods at home.
 
 China can also draw comfort from the speed with which its economy recovered after SARS was conquered. By the second half of 2003 it was back to double-digit growth. Consumers indulged their pent-up demand for everything from cars to beer. But as the current crisis grows, the grim reality of the present is all that many people—especially the millions confined to Wuhan—are likely to be contemplating. ■
+
+## URL
+
+https://www.economist.com/china/2020/01/23/the-coronavirus-discovered-in-china-is-causing-global-alarm

@@ -29,3 +29,7 @@ For a sense of what that means in practice, consider Mr Biden’s platform. His 
 The first is a public option in health care, allowing Americans to buy health insurance from the government. America has been inching its way towards universal health care, a move that Mr Trump has been unable to reverse. Under a Biden presidency it could come within touching distance. The second policy is a significant reduction in greenhouse-gas emissions. Mr Biden wants to pass legislation to bind America to reaching net-zero emissions by 2050. Add to this Mr Biden’s return to multilateral engagement in foreign policy—which America’s allies would wholeheartedly endorse, and which could begin to steady a chaotic world. Even if Mr Biden accomplished only part of this agenda, the criticisms from the Democratic left would seem churlish.
 
 Some consequential presidents have been accidental radicals. Think of Lyndon Johnson, who took office after JFK’s assassination and passed the Civil Rights Act, or George W. Bush, transformed by 9/11 from a compassionate conservative into a neocon who started two of his country’s longest wars. To have a hope of a transformative presidency, Mr Biden must not misread the paradox on which his future depends. It is by cleaving to the centre that he can best lead America in a new direction. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/07/02/why-joe-bidens-instinctive-caution-makes-real-change-possible

@@ -51,3 +51,7 @@ Colombians feel a historic obligation: many of them went to work in Venezuela ba
 But in the short term, the welcome mat has worn thin. A year ago most Colombians approved of the government’s policy of offering a haven to Venezuelans, according to Gallup. Now most do not. Many people near the border “feel threatened. They feel there is no control over who is coming in,” said Estefania Colmenares, a journalist, shortly before the border closed.
 
 Colombia did not create either of these crises. The drug trade is driven by global demand. The Venezuelan exodus is driven by a corrupt, brutal and incompetent dictatorship in Venezuela. Yet Colombia is left to deal with the consequences: swathes of ungovernable territory in one part of the country, overstretched public services in another. It needs the right kind of help: less bullying to wage an unwinnable war on drugs, and more cash to cope with a refugee crisis in the middle of a pandemic. ■
+
+## URL
+
+https://www.economist.com/the-americas/2020/03/19/a-tale-of-two-crises-in-colombia

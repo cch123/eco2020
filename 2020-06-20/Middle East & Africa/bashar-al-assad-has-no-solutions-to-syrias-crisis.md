@@ -25,3 +25,7 @@ Other former supporters are also turning their backs on the regime. Hundreds of 
 On June 11th Mr Assad dismissed his prime minister, Imad Khamis. The president now relies on a diminishing circle of cronies. But his problems are growing. On June 17th America implemented tough new sanctions on Syria, under what is known as the Caesar Act (named after a former Syrian military photographer who smuggled pictures of torture out of the country). They target any person, company or institution—Syrian or foreign—that does business with or provides support to the regime. The legislation’s net has been cast so wide that it is expected to deter investors and firms which hoped to participate in Syria’s reconstruction.
 
 Mr Assad is undoubtedly weak. Still, he is probably not going anywhere. His people are worn out; millions depend on him to allow the delivery of UN food aid. Four decades of sanctions have taught the regime how to cope with pressure and redirect blame. It says the West is waging an economic war on Syria, after failing to unseat Mr Assad by arming the rebels. It castigates America for handing the territory containing Syria’s oilfields and its bread basket to the Kurds. It is falling back on old smuggling routes, mostly through Lebanon, and creating new ones. Most importantly, Russia and Iran continue to prop up the dictator. They are still hoping for a return on their investment. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/06/18/bashar-al-assad-has-no-solutions-to-syrias-crisis

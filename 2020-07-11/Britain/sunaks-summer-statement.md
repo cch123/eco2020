@@ -21,3 +21,7 @@ More conventional stimulus measures were targeted on especially hard-hit sectors
 Commentators were underwhelmed. Samuel Tombs of Pantheon Macroeconomics argues that £30bn will not “fill the void” when the retention scheme ends in October. He still forecasts that GDP will be about 5% below its pre-covid-19 level at the end of the year. With the chancellor keen to emphasise that the policies in the summer statement were merely the next rather than the final step in his plans, more expansionary policies seem likely in the autumn fiscal statement. Adam Marshall, head of the British Chambers of Commerce, thinks that “the scale of the stimulus needed to help the UK economy restart, rebuild and renew will need to be greater still over the coming months.”
 
 There was little mention in the speech or the accompanying documents of the overall health of the public finances. The Resolution Foundation, a think-tank, calculates that the deficit could hit £350bn, about 16% of pre-covid-19 GDP, this year. Phase four of the chancellor’s plan, the necessary tax rises and spending cuts to bring the deficit back to more normal levels, is not something on which the Treasury is keen to dwell.■
+
+## URL
+
+https://www.economist.com/britain/2020/07/08/sunaks-summer-statement

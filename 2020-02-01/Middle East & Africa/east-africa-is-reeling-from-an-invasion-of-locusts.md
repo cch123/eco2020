@@ -29,3 +29,7 @@ But prevention does not attract much funding. “This is a Catch-22,” says Kei
 Preventive measures have also been hindered by conflict in Yemen and Somalia, where gaining access to some areas for spraying was deemed too dangerous. Meanwhile, extreme weather has given the locusts six legs up. Last year there were eight cyclones over the northern Indian Ocean, the most since 1976. These brought heavy rains to parts of the Arabian Peninsula and Horn of Africa. The resulting vegetation gave the insects plenty to munch on.
 
 As the planet warms, climate models suggest that the weather in the Horn of Africa will become less predictable, making it harder to anticipate locust infestations. That seems all the more reason to invest in tracking and control measures, and to make sure that action is taken quickly. Several international organisations are building systems that trigger the release of aid from an existing pot when forecasts of drought, another bane of east Africa, grow dire. The same could be done to stop locusts before they get off the ground. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/01/30/east-africa-is-reeling-from-an-invasion-of-locusts

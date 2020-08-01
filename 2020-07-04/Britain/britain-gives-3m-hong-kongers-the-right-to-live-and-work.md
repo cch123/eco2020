@@ -25,3 +25,7 @@ But the bigger impact will be on Britain’s foreign relations. China had warned
 Yet the government is increasingly wary of Chinese investment and under pressure from America to kick out Huawei from its telecoms infrastructure. Hours after Mr Raab’s announcement it emerged that Britain had granted asylum to Simon Cheng, a BNO who worked for the British consulate in Hong Kong. He said he had been tortured in China last year. The China Research Group, a caucus of Tories whose name is meant to echo the European Research Group that led the Eurosceptic movement in Parliament, is gaining adherents.
 
 Downing Street still talks of “a strong and constructive relationship with China in many areas” but with the caveat that “this relationship does not come at any price”. Boris Johnson insists that “I’m not going to get drawn into Sinophobia because I’m not a Sinophobe.” That may well be so. But there is a dawning realisation in government that it can no longer sit on the fence in its approach to China.■
+
+## URL
+
+https://www.economist.com/britain/2020/07/02/britain-gives-3m-hong-kongers-the-right-to-live-and-work

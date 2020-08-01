@@ -19,3 +19,7 @@ But the Hirak also spies an opportunity. The lockdown has exacerbated many of th
 Protesting is risky while the threat of the virus persists, and not just for health reasons. The lockdown could give the generals an excuse to open fire, which some have long wanted to do. That might, in turn, trigger a violent response from the protesters, who have remained remarkably peaceful and united. Old divisions could re-emerge, between liberals and Islamists, Berbers and Arabs, rich and poor. If the people fear another civil war, like the one that killed tens of thousands in the 1990s, they may abandon the Hirak.
 
 Some are already taking to the streets, though. Before the pandemic the biggest protests were in Algiers, the capital. Today the provinces are stirring. In Bejaia, a city in the Berber heartland about 200km east of Algiers, business owners have protested against the lockdown and activists have blocked the police from arresting their friends. In nearby Kherrata, which was the first town to rise against French colonial rule, demonstrators chanted anti-government slogans during Eid al-Fitr celebrations last month. Protests are expected to resume soon in Algiers, too. “It’s going to be a hot summer,” says a businessman in the capital. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/06/04/algerias-protest-movement-considers-how-and-when-to-come-back

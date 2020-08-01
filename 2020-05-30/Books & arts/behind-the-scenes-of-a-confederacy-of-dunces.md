@@ -25,3 +25,7 @@ Just how “Confederacy” came to be published is a story Walker Percy, himself
 Eventually, he convinced Louisiana State University (LSU) Press to publish the novel in a small, untrumpeted print run. It found fame largely because LSU offloaded the paperback rights to Mr Carroll, who knew he had a winner on his hands and had the savvy to sell it. “I was just entranced,” he recalls. Millions of copies are now in circulation in dozens of languages.
 
 For a tribute to such an original writer, “I, John Kennedy Toole” is a straightforward effort. You can imagine Ignatius dismissing the workmanlike prose for its “lack of theology and geometry”. But given the aura around Toole’s life, it is a pleasure to spend some time with him, if only to rue the books he never had a chance to write. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/05/28/behind-the-scenes-of-a-confederacy-of-dunces

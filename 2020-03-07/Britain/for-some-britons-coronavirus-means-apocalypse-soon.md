@@ -19,3 +19,7 @@ Those disinclined to stay calm are stripping supermarket shelves of bottled wate
 Their advice ranges from stockpiling tips to instructions on fitting ultraviolet lights above your doormat that kill germs arriving on your mail. Mostly, though, the survivalists’ advice is about discouraging people from going rogue and “bugging out” (running away). “A lot of people think they are going to live in the woods, and live off rabbits and fish,” says the South East England Preppers commander, a Gillingham travel agent by day. “If they do go and live off that diet for three weeks, they are going to be very ill indeed.” He is giving lessons on what happened after the Romans left Britain. To help his followers survive the modern Dark Ages now looming, he has been instructing amateurs in the making of pottage, a vegetable stew.
 
 Others have turned to more professional outfits. James Blake, who runs Europe’s largest crisis food supplier, says orders are up 100-fold. Demand, Mr Blake suggests, may have been suppressed in recent years. “We’ve had a long extended period of austerity, so emergency planning has always taken a back seat.” It’s a reasonably priced way to get ready for the apocalypse: £425 ($550) buys three months’ supply of food that will last 25 years. For even more parsimonious preppers, there’s the budget option: pottage.■
+
+## URL
+
+https://www.economist.com/britain/2020/03/05/for-some-britons-coronavirus-means-apocalypse-soon

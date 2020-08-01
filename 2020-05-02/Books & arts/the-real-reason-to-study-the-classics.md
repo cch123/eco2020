@@ -21,3 +21,7 @@ Coulter George’s new book, “How Dead Languages Work”, is a reminder that G
 That Greek, Latin, Sanskrit and such are highly complicated, dripping with grammatical endings in particular, may suggest such languages forced people to develop a greater rigour of thought. It shouldn’t. All languages are easy for their speakers. Nor were all ancient languages heavily inflected like Greek or Sanskrit. Classical Chinese is virtually the opposite of a language such as Latin—it is almost entirely monosyllabic and lacks rigid distinctions between parts of speech. Instead of making it easy, this merely presents different challenges.
 
 Mr Gardini gives another reason for studying classical languages: “The story of our lives is just a fraction of all history…life began long before we were born.” This is the very opposite of a practical argument—it is a meditative, even self-effacing one. To learn a language because it was spoken by some brilliant people 2,000 years ago is to celebrate the world; not a way to optimise yourself, but to get over yourself.
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/04/30/the-real-reason-to-study-the-classics

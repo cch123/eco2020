@@ -29,3 +29,7 @@ One can side with the company or its critics. To your columnist some of its prac
 Others may disagree with Bartleby. But if you are writing a book about Amazon, you should form a view. Appraising a firm’s management style should involve an assessment of how it treats not just its executives, but the bulk of its workers. Too few business books do.
 
 Economist.com/blogs/bartleby
+
+## URL
+
+https://www.economist.com/business/2020/01/09/lost-in-the-amazon-jungle

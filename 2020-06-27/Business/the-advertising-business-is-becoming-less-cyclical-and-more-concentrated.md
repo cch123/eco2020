@@ -41,3 +41,7 @@ Then there is Amazon. The e-empire is still a distant third in digital ads but g
 The tech giants are stealing business from the admen, too, by making it easy for advertisers to create their own ads. In Britain only 13% of online search adverts and 44% of online display ads go through the five largest agencies, which handle most of TV advertising, according to Enders Analysis, a research firm. The share prices of the big five—WPP (which owns GroupM), Omnicom, Publicis, Interpublic and Dentsu—have been flat or sliding for at least three years; all have dived in the pandemic.
 
 The agencies are fighting back, offering more data analytics and pitching themselves as broader brand consultancies. Since 2006 Publicis has spent $15bn buying specialist firms in those areas. Mr Tobaccowala estimates that only 35-40% of the group’s business is now conventional advertising. Consulting firms have expanded in the opposite direction; Accenture has acquired more than two dozen advertising agencies in the past ten years. Mr Tobaccowala believes his industry can dodge the asteroid. “Agencies are like cockroaches and not like dinosaurs,” he says. “We scurry around, we figure out the new world.” Nowadays this counts as optimism. ■
+
+## URL
+
+https://www.economist.com/business/2020/06/25/the-advertising-business-is-becoming-less-cyclical-and-more-concentrated

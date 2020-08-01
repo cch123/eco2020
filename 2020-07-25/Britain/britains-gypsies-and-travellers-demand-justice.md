@@ -23,3 +23,7 @@ Some have drawn comparisons between George Floyd, whose murder by police sparked
 Campaigners point to the flying of the Romany flag by Kent police last month as a success, but they have yet to shift opinion among settled people, who tend to consider hostility to travellers as the consequence not of prejudice but of criminal behaviour. In June, a traveller was charged with the murder of a man at a camp in Oxford, and in July a man was hospitalised after travellers attacked him on a camp at a business park in Clevedon, Somerset. In 2017, 11 members of a traveller family were imprisoned for human trafficking. Mr Jones argues that such cases are not representative of the community as a whole, and are used as an excuse to “keep them moving”.
 
 Even if the government does make life harder for travellers, it is unlikely to persuade them to settle. The number of caravans has risen by 13% over the past five years. “You could give a Gypsy a house, and in five years it’ll be empty,” laughs Mr McDonagh, as he surveys his family’s campsite proudly. “It sounds silly, but I’ve got everything I need in my caravan.”■
+
+## URL
+
+https://www.economist.com/britain/2020/07/23/britains-gypsies-and-travellers-demand-justice

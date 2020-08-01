@@ -29,3 +29,7 @@ That feeds jitters about bad debts in credit markets. The interest-rate spread o
 Two questions now hang over the markets. First, is their reaction to the epidemic exacerbated by technology? Algorithmic trading has come to dominate stockmarket transactions. Just one in ten equity trades is carried out by a human. Plenty of sensible people worry that these “algos” exacerbate short-term moves. But the evidence in this case suggests that they are not to blame. Algos tend to trade heavily at the open and the close. Market moves since the middle of February have been characterised by extremely high volumes throughout the day.
 
 Second, will the turmoil continue? The VIX gauge offers the closest thing to an answer. Because stocks tend to sedately tick up, but lurch downwards, volatility usually only rises when stocks are falling. But recent news has caused stocks to lurch in both directions. Unusually, volatility therefore remains elevated despite a recovery in share prices. A high VIX also suggests that violent swings will continue. Investors should get used to the rollercoaster ride, because the end is not in sight. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/03/05/what-the-markets-imply-about-the-economic-impact-of-the-coronavirus

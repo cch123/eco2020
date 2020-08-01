@@ -21,3 +21,7 @@ Yet conservatives fear their liberal peers are exploiting the crisis to challeng
 Polls suggest the flock agree. One found two-thirds of regular churchgoers want churches open before July. That is more proof, say conservatives, of a gulf between liberal clergy and their congregation. Some liberals seem to have doubts about how sensible their parishioners are, says Mr Walker. “The arguments have been: ‘Well, we can’t trust them not to come to church if they’re supposed to be shielding.’”
 
 Liberal priests are having none of it. If churches reopen, and innovations keep going, they believe they can attract more people to the faith. “My friends from the gym don’t ever come to church with me,” admits Mr Gumbel. “But I ran past one of them and he said, ‘I’ve been watching all your services online’—that is amazing.” ■
+
+## URL
+
+https://www.economist.com/britain/2020/06/04/online-services-swell-the-church-of-englands-congregations

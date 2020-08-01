@@ -21,3 +21,7 @@ Furthermore, the most valuable part of the industry is no longer catching but pr
 Is there scope for compromise? Britain could agree to multi-year quotas, while the EU could accept that British shares must rise over time. But Brexiteers will cry betrayal the moment Britain agrees to let EU trawlers keep on hoovering up British fish. And feelings on the continent are just as strong. Herring (almost all caught in British waters) are close to the hearts, and stomachs, of the Dutch. The French have fished in British waters for centuries.
 
 Politics makes everything harder. Emmanuel Macron, France’s president, faces a tough re-election battle in early 2022 and will want to placate the country’s fishermen. The British government fears nationalist gains in next year’s election in Scotland, where most fish are caught. But Boris Johnson needs a trade deal, and without agreement on fish, he may find it impossible to land one.■
+
+## URL
+
+https://www.economist.com/britain/2020/07/23/how-fisheries-could-sink-a-brexit-trade-deal

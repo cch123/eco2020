@@ -33,3 +33,7 @@ All this explains why companies that can avoid co-determination try to do so. Ma
 Günzburger Steigtechnik, a maker of ladders in Bavaria, has more than 350 staff but no works council. Employees are involved in big decisions, insists Ferdinand Munk, the boss, whose family has owned and run it for four generations. The company pays attention to workers’ special needs—such as organising an employee’s shift around the care of his ailing wife—without badgering by a works council. A formal structure, Mr Munk thinks, would only slow things down. He says that co-determination is “actually counterproductive” in an age where speed and nimbleness are of the essence. Mario Ohoven, head of the Mittelstand association, calls it “out of date”.
 
 Most employers concede that co-determination played a constructive role in the decades after the war. But times have changed. The world is overtaking German corporate giants. Only one, SAP, a software-maker, is among the world’s 100 biggest companies. Apple’s $1.4trn market value is roughly that of the entire DAX 30. Co-determination may not be the sole reason. European countries which do not embrace it hardly do better. But as cars go electric and manufacturing goes digital, German industry faces drastic restructuring—including of its biggest companies’ vast workforces. Bosses who agree with Mr Ohoven will be ever less timid to say so. ■
+
+## URL
+
+https://www.economist.com/business/2020/02/01/deutschland-ag-rethinks-workers-role-in-management

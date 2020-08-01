@@ -39,3 +39,7 @@ The authors reckon that without containment measures 16-26% of those in the WHO 
 Because the model assumes no mitigating measures such as lockdowns, the actual tallies should be lower. Yet many African governments are in the midst of loosening restrictions, as they try to balance the harm of covid-19 with that to their economies and public health more broadly. Researchers at Imperial College London reckon that in some countries the knock-on effects on treatment for HIV, TB and malaria could be of the same order of magnitude, in terms of years of life lost, as that of covid-19.
 
 Many rich countries are easing lockdowns after reaching, in theory, peaks in new cases. African countries may be doing so while case-rates accelerate. Africa seems to be suffering a slower pandemic, but the risks are still immense. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/05/16/why-covid-19-seems-to-spread-more-slowly-in-africa

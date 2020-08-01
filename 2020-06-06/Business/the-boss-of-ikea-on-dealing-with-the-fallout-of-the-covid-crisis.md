@@ -23,3 +23,7 @@ Despite the European crowds, Mr Brodin expects the shift online to continue. Sur
 The second bet is on greenery. IKEA began making an effort to be kinder to the environment earlier than rivals. It is planning to be “climate positive” by 2030, which means that it will reduce greenhouse-gas emissions by more than its supply chain emits. To that end Ingka Group has invested €2.2bn ($2.5bn) in renewable energy, some of which it could sell back to the grid, and in forests, which suck up carbon from the air. All this makes business sense in a world of increasingly climate-conscious consumers, according to Mr Brodin. He cites surveys showing that 70% of shoppers profess to be deeply concerned about the climate.
 
 Last year IKEA’S retail sales grew by 6.5% compared with 2018, to €41bn—and Ingka Group’s revenues grew by 5% to €36.7bn. This year sales will dip, though it is hard to say by how much. The company is in sound financial health. It has plenty of liquidity and, in line with the thrifty philosophy of its late founder, Ingvar Kamprad, no net debt. During the global financial crisisIKEA also took a hit, says Mr Brodin, but increased its market share after the recovery. Swedes are a hardy bunch.■
+
+## URL
+
+https://www.economist.com/business/2020/06/04/the-boss-of-ikea-on-dealing-with-the-fallout-of-the-covid-crisis

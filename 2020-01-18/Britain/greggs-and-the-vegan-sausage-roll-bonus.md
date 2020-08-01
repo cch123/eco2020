@@ -21,3 +21,7 @@ For a Greggs worker earning around £13,000 a year—less than half the national
 In recent years the government has made a big noise about raising the personal allowance, on which no income tax is charged, from £6,475 in 2010 to £12,500 in the current tax year. But “taking the lowest paid out of tax”, as the Tories like to put it, is harder than it seems. A Greggs worker on, say, £10,000 will indeed pay no income tax on their bonus, but after national-insurance deductions and the universal-credit taper they will still be facing an implicit marginal tax rate of around 67% on their £300. Depending on where they live, the bonus might also lead to reductions in council-tax benefit, further increasing the implicit tax rate.
 
 The government is rightly keen that poorer people should work rather than sponge off the welfare system. An implicit marginal tax rate of 75% does not encourage them to do so.
+
+## URL
+
+https://www.economist.com/britain/2020/01/18/greggs-and-the-vegan-sausage-roll-bonus

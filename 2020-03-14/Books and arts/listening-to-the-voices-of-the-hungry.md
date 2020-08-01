@@ -23,3 +23,7 @@ Why, the author asks, is an Indian mother taking her malnourished daughter out o
 Strangest of all are the chapters in which Mr Caparrós steps back to address the reader and his own conscience. More than once he poses the question: “How the hell do we manage to live knowing these things?” Sometimes he seems to be fighting an internal battle, in which his desire for justice pushes against his feelings of despair and horror about the lives of the poorest: “I’ve got enough problems without going around thinking about those poor bastards in Africa or Kolkata or those places I don’t even…” At such moments the book seems not just Latin American but distinctively Argentinian. Few countries are so thick with psychoanalysts.
 
 The great thing about “Hunger” is its relentlessness. Most books about poverty (indeed, most articles in The Economist about poverty) introduce the reader to the poor, then pull back into dispassionate consideration of agricultural productivity, social safety-nets, credit constraints and the like. All that policy talk is fine, but it is not how extremely poor people think about their lives. Deep poverty and hunger often make no sense to those who suffer those things, except perhaps as evidence of God’s will. Misfortune simply hit them, when the rains failed, when a husband vanished or a child fell ill. Mr Caparrós holds you there, in the unsettling presence of the desperate, and forces you to listen to them. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/03/14/listening-to-the-voices-of-the-hungry

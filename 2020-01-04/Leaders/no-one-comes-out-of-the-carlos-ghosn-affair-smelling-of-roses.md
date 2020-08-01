@@ -19,3 +19,7 @@ You might hope that Japan’s justice system would swiftly and fairly get to the
 As the stink around Mr Ghosn’s case worsens, Renault and Nissan, which together employ over 300,000 people, are tottering. Unable to reap the efficiencies of being a single company, they have long produced mediocre performance—their combined return on equity probably slipped below 5% in 2019. Paralysed by the scandal, both firms face shrinking sales and margins. In May Renault sought redemption through a merger with Fiat Chrysler to create a European champion, but managerial dithering and meddling by the French government caused the deal to collapse. (Fiat’s chairman sits on the board of The Economist’s parent company.) Fiat is now merging with another French car firm, PSA, instead.
 
 What next? Renault and Nissan should either merge or unwind their cross-shareholdings. Both need to cut costs in order to get fit again. Japan’s authorities must explain how Mr Ghosn absconded, and deal with his claims of persecution. As for the boss-turned-bolter, he has pledged to clear his name. But his position is extraordinary. He is an outlaw, holed up in a country half the size of New Jersey. From being king of the car industry he now risks a lifetime on the back seat, hiding under a blanket. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/01/02/no-one-comes-out-of-the-carlos-ghosn-affair-smelling-of-roses

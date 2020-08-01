@@ -27,3 +27,7 @@ The police usually benefit from a natural dividend in the autumn. Homicide rates
 Drastically cutting police funding without adequately investing in other areas, such as social work, would be risky. A recent working paper by Tanaya Devi and Roland Fryer, both economists at Harvard University, analysed the impact of state and federal investigations into police departments. It found that, though most probes had a small positive impact in reducing crime, “viral” ones prompted by national scrutiny appear to cause the police to retreat too far. When Freddie Gray was killed by the Baltimore police in 2015, the national media and federal investigators poured into the city. Police officers, fearful for their jobs, pulled back. They stopped fewer people in the streets and arrested fewer suspects. And homicides rose. ■
 
 Dig deeper:Sign up and listen to Checks and Balance, our [weekly newsletter](https://www.economist.com//checksandbalance/) and [podcast](https://www.economist.com//podcasts/2020/07/24/checks-and-balance-our-weekly-podcast-on-american-politics) on American politics, and explore our [presidential election forecast](https://www.economist.com/https://projects.economist.com/us-2020-forecast/president)
+
+## URL
+
+https://www.economist.com/united-states/2020/08/01/fears-that-america-is-experiencing-a-serious-crime-wave-are-overblown

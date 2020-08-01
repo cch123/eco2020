@@ -25,3 +25,7 @@ The Gulf states are at last taking steps to stem the virus in migrant areas. Som
 That is all to the good, but more needs to be done. Some migrants are still working—building stadiums for the World Cup in 2022 or facilities for the World Expo next year. Employers should be held accountable for their safety. Many migrants cannot work, though, and states should care for them, too. Gulf countries can afford to guarantee a portion of their wages during the outbreak. That will not only ensure that they do not go hungry—it will mean that someone is there to turn the lights back on when businesses start to open up again. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/leaders/2020/04/25/the-gulf-states-should-take-better-care-of-their-migrant-workers

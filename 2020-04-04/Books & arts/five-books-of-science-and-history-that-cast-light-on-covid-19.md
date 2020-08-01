@@ -31,3 +31,7 @@ The End of Epidemics. By Jonathan Quick and Bronwyn Fryer (St Martin’s Press; 
 Published two years ago, this book’s simple message ought to have been more widely heeded: planning, preparation and open communication count for everything when it comes to ameliorating the vast social and economic damage that a new infection can cause. Using insights from previous outbreaks, the authors offer lessons on how global institutions can best co-ordinate to predict, model and prevent future pandemics. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/04/03/five-books-of-science-and-history-that-cast-light-on-covid-19

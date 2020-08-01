@@ -21,3 +21,7 @@ Colombia has controlled covid-19 better than many of its neighbours. It has had 
 Not everyone is happy with Mr Quintero’s data-gathering. Carolina Botero, director of the Karisma Foundation, which advocates digital rights, says it is not clear what the city will do with its database after the pandemic or how it is being protected. Colombia has a history of state-sponsored spying on journalists, politicians and foreigners. Last month news reports revealed illegal snooping by the army.
 
 Mr Quintero responds that only health officials have access to the information and promises to let people decide what data the city can keep when the pandemic ends. The data gave the city, which sets some lockdown rules, the confidence to begin reopening shopping malls and small shops this week, he says. Mr Quintero expects the number of covid-19 cases to rise, but thinks Medellín will be able to identify the most vulnerable people early. Colombians in other cities are looking on enviously, as they remain under lockdowns that are getting harder to enforce. Few still doubt Mr Quintero’s sanity. ■
+
+## URL
+
+https://www.economist.com/the-americas/2020/06/04/how-colombias-second-largest-city-is-controlling-the-pandemic

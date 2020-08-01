@@ -19,3 +19,7 @@ Geely is rumoured to be pumping around £1.5bn ($1.8bn) into the firm, an estima
 The relationship should benefit both sides. The British firm can piggyback on Geely’s investment by outsourcing the development of a new platform, the basic underpinning of a car, and the costs of electrifying all future models. Geely can tap British expertise in aerodynamics and building light vehicles, important for keeping down the tonnage of electric cars with hefty batteries.
 
 The tie-up may also insulate Lotus from some of the worst effects of the viral slowdown on Western carmakers, which will be aiming to cut costs and retrench. Forecasts suggest that China’s carmakers will not suffer as badly as those in the rest of the world. But questions remain over how well sports cars which mostly sell for between £55,000 and £110,000, and that are basically toys, will sell in a post-covid world of recession and gloom.
+
+## URL
+
+https://www.economist.com/britain/2020/05/28/lotus-benefits-from-its-chinese-connection

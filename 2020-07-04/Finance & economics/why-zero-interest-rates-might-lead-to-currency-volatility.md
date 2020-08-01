@@ -25,3 +25,7 @@ Which brings us back to capital flows. A key influence on currency volatility is
 The lesson is that fixing policy rates does not mean that capital and trade flows are set in stone, too. If central-bank rates cannot adjust to changing economic circumstances, then something else must. So do not be surprised if the new era of globalised zero-interest-rate policy leads to currency instability.
 
 *“If policy rates are zero, what drives FX?” June 17th, 2020.
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/07/02/why-zero-interest-rates-might-lead-to-currency-volatility

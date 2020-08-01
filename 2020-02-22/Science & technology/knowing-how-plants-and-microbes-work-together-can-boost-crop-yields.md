@@ -29,3 +29,7 @@ Dr Hofmockel’s simplified communities are a step forward because they provide 
 Standardised procedures are equally important. And, to that end, Trent Northen of Lawrence Berkeley National Laboratory described his EcoFAB to the meeting. This is a transparent silicone apparatus in which soil microbes can be brought into contact with plant roots in controlled conditions. Dr Northen hopes it will become ubiquitous, in the way that things like Petri dishes have, and has designed software that will direct a 3D printer to make plastic moulds from which the EcoFAB can be created by anyone who chooses to download the program.
 
 The fruit of all this effort, researchers hope, will be ways to make soil healthier. There is already a market for so-called biofertilisers, which are enriched in micro-organisms reckoned to be good for the soil. But these products are like herbal medicines: sometimes they work and sometimes they don’t. And nobody really knows why. Dr Handelsman, Dr Hofmockel, Dr Northen and their numerous colleagues intend to bring rigour to the subject, just as chemists once turned willows, poppies and foxgloves into aspirin, morphine and digitalis. Then, by direct inoculation, or by the use of suitable chemicals to encourage some microbe species and discourage others, soils can be kept healthy and suitable for the crops growing in them.■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/02/20/knowing-how-plants-and-microbes-work-together-can-boost-crop-yields

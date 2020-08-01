@@ -27,3 +27,7 @@ Mr Bristow has moved quickly to make his case for consolidation. He has trimmed 
 The industry has not dug itself out of its hole quite yet. The miners’ recent spending restraint has also meant less money for all-important exploration. Since 2011 the reserves of the 20 biggest GDX firms have fallen by 36%, to 12,400 tonnes (worth $624bn at current prices). Analysts reckon that gold production may be about to peak, with declines forecast in the 2020s.
 
 At the same time, investors increasingly attentive to firms’ environmental, social and governance metrics eye with suspicion energy-intensive businesses operating in places with a history of corruption and instability—or, as goldminers describe them, “complex jurisdictions”. Despite gold companies’ efforts to lower carbon emissions and behave more ethically, investors still see the grubby reputational risk of crude, minus the generous dividends.■
+
+## URL
+
+https://www.economist.com/business/2020/02/06/gold-companies-try-to-restore-their-sparkle

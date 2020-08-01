@@ -25,3 +25,7 @@ But he faced increasingly dangerous enemies. Illegal loggers, many tied to narco
 This was risky talk. He told some family members about death threats, though he reassured others that no one had troubled him recently. Nonetheless when his body was found in a holding pond, after he had been to celebrate a patronal festival in Ocampo, few people thought it was just a death by drowning. There were signs of a blow to the head; and some days later one of his guides, Raúl Hernández, was found dead too, battered by something sharp. They were two more in the tally of around 1,600 murders in Michoacán, almost 35,000 in Mexico as a whole, with journalists and activists picked out, in a little over a year.
 
 In El Rosario, at peak season, the trees and the air still thronged with butterflies. There could never, he thought, be too many. But in Mexico there were far too many days of the dead. ■
+
+## URL
+
+https://www.economist.com/obituary/2020/02/08/homero-gomez-was-apparently-murdered-on-january-13th

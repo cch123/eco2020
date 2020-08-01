@@ -25,3 +25,7 @@ The study does not show why cities have this impact on people growing up in them
 Neuroscientists already know that living and working in more complex environments can influence the function and structure of the brain. Brain scans of London taxi drivers who have gained an encyclopaedic memory of the city’s streets by learning “The Knowledge” show that they tend to have an enlarged hippocampus—a region of the brain acting as a neural GPS, sensing position and trajectory on an internal map of the environment.
 
 The detrimental effect of city living on navigation (taxi drivers aside) is probably most acute in people under 16-18, Dr Spiers says, because their still-developing brains respond and change the most according to external stimuli. And while people who live in cities with young children should not be alarmed, the study does raise some interesting ideas for urban planners: keep their city designs not so simple perhaps. And for everyone else, it might be an idea to turn off Google Maps.■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/02/06/growing-up-in-a-city-weakens-the-brains-navigational-skills

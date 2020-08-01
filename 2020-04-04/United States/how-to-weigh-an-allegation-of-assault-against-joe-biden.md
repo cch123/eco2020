@@ -21,3 +21,7 @@ The fund replies that the PR firm in question did not know about Ms Reade until 
 The most striking thing about Ms Reade’s story may be the silence with which it has been greeted—particularly from some of those who argued that a sexual-assault allegation should disqualify Brett Kavanaugh from the Supreme Court. That may stem partly from the difficulty of vetting her story. There were no witnesses, though Ms Reade says she told her brother and a friend. But Mr Biden may have to answer questions eventually. Donald Trump’s supporters may wave away dozens of allegations of sexual misconduct and assault. Mr Biden probably does not have that luxury.
 
 Dig deeper:
+
+## URL
+
+https://www.economist.com/united-states/2020/04/04/how-to-weigh-an-allegation-of-assault-against-joe-biden

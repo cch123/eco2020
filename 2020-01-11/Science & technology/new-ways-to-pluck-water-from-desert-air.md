@@ -27,3 +27,7 @@ In Connecticut, meanwhile, Steven Suib and his colleagues, who have just reporte
 Like metal-organic frameworks, birnessite is riddled with tiny holes that allow air to move around inside it, to maximise adsorption. And it, too, is black and therefore heat-absorbing.
 
 Both proposals work. Tested in desert-like conditions in a laboratory—and in Dr Yaghi’s case in an actual desert, too—they absorb and regurgitate reasonable fractions of their weight of water every day. They are nothing like as productive as desalination plants, and so would have to be built at large scale to generate water in commercially useful quantities. But one thing deserts do have is lots of cheap land. If either or both of these inventions can be manufactured at scale, then the deserts may bloom—if not with plants, at least with water-collection farms.■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/01/11/new-ways-to-pluck-water-from-desert-air

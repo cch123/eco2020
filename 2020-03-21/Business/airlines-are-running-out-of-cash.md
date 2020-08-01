@@ -19,3 +19,7 @@ Big companies have secured generous credit lines from banks. IAG, which owns Bri
 ![](./images/20200321_WBC438.png)
 
 China offers hope that it might. The first to be infected, its airlines are lifting off again. In mid-February capacity was down by 71% compared with a year ago, says OAG, a data firm. In the first week of March it was 43% lower, as people returned to the skies lured by cheap fares (see [article](https://www.economist.com//graphic-detail/2020/03/21/as-western-flights-shut-down-chinese-routes-are-opening-again)). Combined with government handouts to carriers, which are mostly state-owned, this may tide them over. Airline bosses elsewhere are banking on similar luck—and largesse.
+
+## URL
+
+https://www.economist.com/business/2020/03/19/airlines-are-running-out-of-cash

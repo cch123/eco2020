@@ -17,3 +17,7 @@ Yet the wheels on the Barouche box have come full circle, and today the drama is
 As in Austen’s novel, the characters are enchantingly vivid, if in exaggerated form. Some are so ghastly that whenever they are off-screen you long for them to reappear—above all Mrs Bennet (Alison Steadman), a hyperventilating social climber, and Mr Collins (David Bamber), a slimy clergyman. Those two combine with Mr Bennet (Benjamin Whitrow), the girls’ laconic father, to hilarious effect. When Elizabeth declines Mr Collins’s proposal, Mrs Bennet begs her husband to change their daughter’s mind. “Your mother will never see you again if you do not marry Mr Collins,” he deadpans, “and I will never see you again if you do.” Look out for Mr Hurst (Rupert Vansittart), a doltish toff who is drunk or asleep in every scene.
 
 Amid an orgy of sideburns and double staircases, Andrew Davies’s screenplay zooms in on the story’s essential, timeless themes, namely lust and money. And on the grubby relationship between them: despite its cloistered, comforting innocence, Austen’s world is ultrapractical about love. Even admirable Elizabeth traces her regard for Darcy to her first glimpse of his grand estate. All the same, when at last she accepts him (on a muddy walk), you would be a monster not to smile. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/06/27/the-bbcs-pride-and-prejudice-is-a-lockdown-delight

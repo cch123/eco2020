@@ -19,3 +19,7 @@ Masons emphasise that such charitable efforts are nothing new. Indeed, they clai
 That includes dismissing the idea that the organisation is set on advancing an agenda. “We’ve got trade-union leaders right through to captains of industry,” he points out. “I wouldn’t have a clue what our members’ political leanings are.” He nevertheless hopes that their efforts during the current crisis will be rewarded by a boom in initiations—including, perhaps, your correspondent. “When all this is over, please do come and visit us,” he urges.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/04/25/the-freemasons-want-to-be-known-for-hand-wash-not-handshakes

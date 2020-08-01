@@ -27,3 +27,7 @@ Neither China nor America seeks war, surely. But they are deliberately hurtling 
 Animosity also makes global threats, such as climate change and international crime, harder to deal with. Consider the pandemic itself. This week the European Union held a conference that raised $8bn to finance the search for a vaccine which might save lives and let people go back to work without fear. But America stayed away and China sent an empty-handed ambassador. For those decisions to make sense in Washington and Beijing, something must have gone very wrong.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/leaders/2020/05/09/the-pandemic-is-driving-america-and-china-further-apart

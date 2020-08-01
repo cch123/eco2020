@@ -35,3 +35,7 @@ Kerala’s state government has been similarly energetic, from the chief ministe
 Both Kerala and Vietnam are keenly aware that the danger is far from over. Until there is a vaccine or better treatment, Vietnam will remain on alert, says Mr Pollack. Kerala, for its part, is preparing for a huge influx of expatriate workers returning from the economically battered Arab Gulf countries. More than 300,000 have requested help getting home via a state website. Rajeev Sadanandan, a public-health expert who spearheaded Kerala’s Nipah campaign, admits this is a big risk, as well as an added burden at a time when state revenues are under severe strain. “But”, he says, “there is no doubt in government or in our society that they must be brought back and that we should stand by them whatever the circumstances.” ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/asia/2020/05/09/vietnam-and-the-indian-state-of-kerala-curbed-covid-19-on-the-cheap

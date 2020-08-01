@@ -31,3 +31,7 @@ After the British Treasury reportedly asked Virgin Atlantic to re-submit its req
 Netflix signed up another 15.8m subscribers in the first quarter, twice as many as it had forecast, as people confined to their homes binged on its programming. Netflix now has 183m users worldwide. Its share price is trading at record highs. One potential hitch is that its production pipeline, the source of recent hits such as “Tiger King”, has ground to a halt because of the lockdowns. See [article](https://www.economist.com//node/21784550).
 
 Coca-Cola said that despite a solid start to the year, revenue fell in the latest quarter, when lockdowns came into force. For this month, its sales of soft drinks have tumbled by 25%, as restaurants and small stores shut. By contrast Procter & Gamble reported a bumper quarter, boosted by shoppers stockpiling toilet roll, cleaning products and washing powder. However, sales from grooming gear were down a snip.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/04/23/business-this-week

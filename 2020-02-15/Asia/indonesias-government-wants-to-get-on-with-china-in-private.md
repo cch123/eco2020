@@ -17,3 +17,7 @@ The railway is also a lesson in the sometimes ugly sensibilities over the nearly
 The railway was also criticised, caught in a broad surge of anti-Chinese sentiment. The government has drawn its own conclusions. All the other big projects backed by China are to be built far from the Javanese heartland where, one official explains, “a lot of the religious conservatives and Muslim hardliners are collected”. They include an oil refinery in northern Sumatra near the Malacca Strait, a smelter on Sulawesi that allows Indonesia to process its nickel ore for the first time, and planned hydropower plants in northern Kalimantan to encourage aluminium smelters to move from China.
 
 Indonesia, then, mostly engages with China on its own terms—and a Chinese commitment for a training college to teach Indonesians about nickel processing is further proof of that. At times it will even be seen to stand up to China, as in a maritime spat last month in which the navy and coastguard expelled a Chinese fishing fleet from Indonesia’s exclusive economic zone. The move led some observers to imagine that Indonesia will unite its South-East Asian neighbours against China in the South China Sea. But that is wishful thinking. Jokowi must appear robust to anti-China forces at home. But, for the economy to grow, he must court Chinese money.
+
+## URL
+
+https://www.economist.com/asia/2020/02/13/indonesias-government-wants-to-get-on-with-china-in-private

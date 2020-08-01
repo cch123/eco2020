@@ -21,3 +21,7 @@ Followers encourage any act that will “accelerate” this breakdown (an idea b
 Protests against stay-at-home orders provide another opportunity to expand. The vast majority of people in attendance are ordinary Americans. But demonstrations decrying overreach by the state also tend to draw radical libertarians, militiamen and Second Amendment die-hards who worry that lockdowns will lead to tyranny and the confiscation of firearms. Extremists think these groups are susceptible to their more radical ideology. The New Jersey European Heritage Association, a white-supremacist group, has been spotted as far away as Florida handing out propaganda. Press reports lumping ordinary protesters in with the extreme right may also help to create a general sense of grievance, on which extremists can prey.■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/united-states/2020/05/23/why-some-protesters-in-america-wear-hawaiian-shirts

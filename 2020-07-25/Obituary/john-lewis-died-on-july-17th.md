@@ -31,3 +31,7 @@ He settled in Atlanta, where he was elected to the city council, and then to Con
 Alone among March on Washington speakers, he lived long enough to see America elect a black president. At lunch after the inauguration in 2009, he approached the new president with a commemorative photograph and asked for an autograph. Barack Obama wrote, “Because of you, John”, and signed his name.
 
 He spoke forcefully in favour of Donald Trump’s impeachment. His last appearance was with Muriel Bowser, the seventh African-American mayor of Washington, DC, standing on the newly painted Black Lives Matter plaza in front of the White House—a reminder of how far America had come, and how far it still has left to go.■
+
+## URL
+
+https://www.economist.com/obituary/2020/07/20/john-lewis-died-on-july-17th

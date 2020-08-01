@@ -29,3 +29,7 @@ Covid-19 means there is more red ink to come. A new era of sovereign-debt manage
 Alternatively, growth may prove difficult to restart as the pandemic ebbs. Central banks, in an effort to provide relief to troubled economies, are already buying up large quantities of government debt. The Fed is purchasing unlimited amounts of Treasuries; the European Central Bank recently announced a €750bn ($809bn) bond-buying scheme. A weak recovery could push central banks to finance large fiscal deficits with freshly printed cash on an ongoing basis. The experience of Japan, once considered an economic oddity, will be repeated more widely. Money-financed borrowing on that scale, with no inflationary consequences, would turn popular ideas about the limits to debt on their head. It would not be the first time a crisis rewrites the rule book. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/03/25/how-to-pay-for-the-pandemic

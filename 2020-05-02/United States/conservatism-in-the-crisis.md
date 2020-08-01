@@ -29,3 +29,7 @@ That is forgivable to a degree. Even critics of Mr Rubio and Mr Cass should reco
 The irony of this is that they have fashioned a virtuous Trumpian agenda that has little or no chance of being promulgated under Mr Trump. No more are the libertarians or small-government pharisees or pragmatists like Mr Hogan hopeful of influencing his scattergun administration. All are wrestling to claim the post-Trump future of their party—which leads to two further conclusions.
 
 First, that future will be determined not by ineluctable socioeconomic forces but by whoever wins the party’s next presidential nomination. The Democrats’ embrace of fiscal rectitude in the 1990s now looks inevitable. But had Bill Clinton not scrambled to a second-place finish in New Hampshire, it would not have happened. Second, the fact that Republicans are feuding only six months from a general election suggests that many of them believe their post-Trump future may not be far off.■
+
+## URL
+
+https://www.economist.com/united-states/2020/05/02/conservatism-in-the-crisis

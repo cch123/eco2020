@@ -19,3 +19,7 @@ In part that is because remittances, which keep the economy afloat, have held up
 The public finances have also been prudently managed in recent years. Fairly thrifty budgets combined with rapid economic growth have brought down the ratio of public debt to GDP from more than 70% in the mid-2000s to less than 40% in 2019. Relative to the size of the economy, foreign debts are lower than in Malaysia, Indonesia or Thailand. The BSP has built up $93bn of foreign-exchange reserves—a record stash.
 
 But the Philippines’ relative economic stability, and the buoyancy it has bestowed on the peso, are not unalloyed benefits. The peso’s strength makes Philippine exports more expensive and remittances less valuable. And if the world economy is heading down the tubes, it is scant comfort that other emerging markets are descending faster.
+
+## URL
+
+https://www.economist.com/asia/2020/07/23/the-philippine-peso-is-the-champion-of-emerging-market-currencies

@@ -23,3 +23,7 @@ Few analysts believe the SLPP will gain its desired two-thirds. But this has mor
 Given the opposition’s dysfunction, the Rajapaksas may be able poach some of its MPs even if they do not win the coveted two-thirds of seats outright. It is not just civil liberties that may suffer under a period of unchecked single-party rule. The economy, too, is at a worrying juncture.
 
 The central government’s debt currently stands at around 82% of GDP. Interest payments eat up 42% of government revenue. For the next five years the International Monetary Fund expects that the government will have to borrow a further 2.7-5.2% of GDP annually. The already battered tourism industry is taking another hit from the coronavirus scare. So far the Rajapaksas’ answer has been a big tax cut, which in turn has generated scepticism about the government’s fiscal probity. Even a whopping parliamentary majority may struggle to sort out the government’s alarming finances. ■
+
+## URL
+
+https://www.economist.com/asia/2020/03/05/sri-lankas-ruling-party-calls-an-election-hoping-for-a-landslide

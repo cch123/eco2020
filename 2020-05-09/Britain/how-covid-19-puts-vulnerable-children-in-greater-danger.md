@@ -25,3 +25,7 @@ But lockdown is hampering the process of taking children into local authority ca
 Yet making such huge decisions remotely is not easy. On April 16th Andrew McFarlane, the president of the family division of the courts, issued a judgment in a complicated case involving a seven-year-old girl where the local authority alleges that the mother has harmed her daughter by fabricating illnesses. Mr McFarlane ruled that while delaying the decision would not be good for the girl, he feared it would be “impossible” to come to a fair decision remotely, with a judge having to decide about the parties’ honesty based on a “postage-stamp image” on a screen. Some lawyers feared that would stop hearings entirely. For now they are continuing, but judges are forced to weigh the fairness of remote proceedings on top of everything else. Covid-19 has made both the lives of vulnerable children and the job of protecting them much harder.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/05/09/how-covid-19-puts-vulnerable-children-in-greater-danger

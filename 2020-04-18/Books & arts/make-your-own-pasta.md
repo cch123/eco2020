@@ -19,3 +19,7 @@ Allow 100g per person and a little over half as much warm water, or, for egg pas
 In an Italian kitchen, choosing the pasta’s shape is as important as deciding how to dress it. Try a little concave cavatelli (from cavare, to dig). Using both hands, roll the dough into a rope 1cm in diameter, then cut it into 1cm pieces. Push each piece down and away with your thumb, creating a curl to catch tomato sauce. For flat noodles, roll the dough as thinly as possible—thin enough to read newspaper headlines through it. Tagliatelle are roughly 1cm wide; any narrower and they become tagliolini, wider and they could be pappardelle. All will be delicious with ragu and grated hard cheese, properly Grana Padano, as the Bolognese use.
 
 Fresh pasta is not always beautiful; it is never al dente. But there is a rare pleasure in a bowl of it formed by your own hand. Roll the dough out thinly again and cut it into squares, and you are halfway to tortellini. Fill with ham, cheese, black pepper and nutmeg; fold the squares into triangles, squeezing the edges to push out any air, seal them, then join the two bottom corners in the middle. Tortellini in brodo—cooked in stock and swimming in a soup bowl—is the ultimate comfort food. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/04/18/make-your-own-pasta

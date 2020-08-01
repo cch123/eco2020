@@ -27,3 +27,7 @@ CGAP makes three policy recommendations. The first is to accept that the “cons
 Many countries, from America to India, are looking at improving data-protection regulation. But CGAP’s suggestions seem very ambitious. “Free” financial services, such as those offered already by the Chinese giants, Ant Financial and WeChat, have an obvious appeal.
 
 It is often assumed that the poor are relaxed about surrendering some privacy in return for access to borrowing and other services. In fact, concern about privacy is not a preserve of the rich. Research in India and Kenya has shown that even very poor borrowers would be willing to pay a higher interest rate—or join a much slower queue—for a loan that came with more guarantees that the data provided to the lender would be kept private. Persuading the tech giants that improved data security for the poor is in their business interests might be the best hope. But that will take a lot more work. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/01/30/how-digital-financial-services-can-prey-upon-the-poor

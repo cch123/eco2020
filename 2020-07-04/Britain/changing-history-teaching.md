@@ -23,3 +23,7 @@ Take Jaspreet Kaur, a history teacher who likes to ask “who am I ignoring?” 
 There are constraints on such innovation. Flora Wilson, another teacher, points out that many pupils only have two hours’ history teaching a week. Adding too many topics risks reducing history to a mere list of facts, “one fucking thing after another” in the words of a character in Alan Bennett’s “The History Boys”. “What do you leave out in order to make sense of the important things you’re leaving in?” And teachers do not always have the time or the confidence to research a topic they do not know well. One suggests campaigners emulate the model of the Holocaust Educational Trust, a charity that provides teaching resources and arranges for survivors to give talks in schools.
 
 In the end, change is likely to come organically. Teachers are most comfortable talking about topics they themselves were taught. As university curriculums evolve, so will the classroom. And as academics like Ms Kaufmann unearth more neglected stories from the past, teachers like Ms Cusworth will be excited to pass them on. History may be a battlefield, but its terrain is always shifting.■
+
+## URL
+
+https://www.economist.com/britain/2020/07/02/changing-history-teaching

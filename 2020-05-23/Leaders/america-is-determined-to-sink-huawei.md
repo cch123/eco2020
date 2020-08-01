@@ -23,3 +23,7 @@ The episode will have broader consequences for the tech industry. China could re
 The tech war is guaranteed to make the chip industry less efficient. The big question is whether using technological clout ends up undermining the very American dominance that gives rise to it. No one knows how vital American chipmaking technology really is, because until now there has been no reason to find out. Many governments are wary of China’s power. But they may chafe at American policies that tell their firms who they are allowed to do business with. They may even conclude that wriggling out from under such restrictions by shunning American suppliers is worth a try.
 
 This has, after all, happened before. The aerospace industry is another high-tech business that America jealously guards. The hassle of complying with draconian export rules has proved a selling-point for products that contain no American technology—“ITAR-free”, in the jargon. America’s hawks plainly think that the chance to spike Huawei’s guns, and to slow China’s technological development, is worth that long-term risk. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/05/23/america-is-determined-to-sink-huawei

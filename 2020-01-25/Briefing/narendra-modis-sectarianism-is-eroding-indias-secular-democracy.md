@@ -67,3 +67,7 @@ Such recklessness could be just a matter of ideology; Mr Modi could indeed be pu
 More likely, the citizenship row is chiefly political. The BJP has repeatedly and successfully bet on sectarian issues. Many point to a looming electoral battle in West Bengal, a big state with a large Muslim population, where the BJP has made steady inroads. Its tactics there have been blunt: in a recent speech the local BJP head asserted that there were 10m “Muslim infiltrators” in the state, and that other states ruled by the BJP had done the right thing to quell protests by “shooting these people like dogs”. It is said that Mr Shah is so obsessed with winning West Bengal in 2021 that the Gujarati is learning to speak Bengali.
 
 With 56% of seats in the lower house of parliament, and enough allies to command the upper one, Mr Modi could have used his second term to pass badly needed reforms to make it easier to build homes, lay roads or create jobs in India. But six years in power appear to have made him stubborn. Many people have underestimated the grit and political acumen of the former tea-seller from Gujarat. Even so, he has now created a broad coalition against him. ■
+
+## URL
+
+https://www.economist.com/briefing/2020/01/23/narendra-modis-sectarianism-is-eroding-indias-secular-democracy

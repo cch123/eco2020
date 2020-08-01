@@ -25,3 +25,7 @@ This tension between principle and practicality makes Chiafalo v Washington comp
 The justices are wise to tackle this now, rather than in the midst of the November election. But Edward Foley of Ohio State University, who filed a brief arguing that the founders saw electors as autonomous, cautions that America could still face a crisis rivalling Bush v Gore in 2000. Electors may go rogue no matter how the court rules, and states could try to replace their votes. “Can Congress decide which electoral votes to accept,” Mr Foley wonders, “or is Congress bound by the court?” ■
 
 Dig deeper:
+
+## URL
+
+https://www.economist.com/united-states/2020/05/09/americas-supreme-court-considers-the-rights-of-faithless-presidential-electors

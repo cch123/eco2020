@@ -47,3 +47,7 @@ Spain revised its death toll down by more than 1,900 because of “duplicates”
 A test-and-trace system was introduced in England.
 
 India resumed domestic flights, amid much confusion at airports about whether planes would be allowed to land in certain states.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/05/28/politics-this-week

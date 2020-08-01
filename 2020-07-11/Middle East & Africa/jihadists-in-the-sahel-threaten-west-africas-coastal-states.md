@@ -47,3 +47,7 @@ Above all, governments need to regain legitimacy by providing services and holdi
 But good governance and decent services in the region are scarce. At a meeting of Sahelian leaders with Mr Macron in Mauritania on June 30th, there were congratulatory claims of military progress as well as talk of “a return of the state”. Yet the state must offer more than the jihadists are offering, including justice and development, says Rinaldo Depagne of the ICG. Foreign donors should abandon their dogmatic insistence on building infrastructure in densely populated areas to maximise returns. Even so, restoring the state in the face of an insurgency is hard. In Burkina Faso alone, the jihadists have forced about 2,500 schools to close.
 
 As security worsens, calls are growing for negotiations with the jihadists. Mali has offered to talk to JNIM, which has agreed to do so once foreign troops have left. Yet the jihadists have little incentive to make concessions while they are winning on the battlefield. Their fighters are “cutting off Bamako to the north and slowly encircling Ouagadougou”, says General Anderson. The outlook is bleak. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/07/09/jihadists-in-the-sahel-threaten-west-africas-coastal-states

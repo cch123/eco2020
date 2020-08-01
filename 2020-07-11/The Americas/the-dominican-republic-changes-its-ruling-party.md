@@ -23,3 +23,7 @@ Mr Abinader, who studied management in the United States, is “slightly boring�
 The pandemic will do more damage to the new president’s programme of government. “Our first priority is formal employment,” says his manifesto. It pledges that his government will create 150,000 formal jobs a year. About that many jobs are created now, but just 30% are relatively high-paying formal ones, says Roberto Álvarez, an adviser to Mr Abinader. Some of the new jobs are to come from 15,000 hotel rooms that Mr Abinader hopes will appear along the beaches. He has also promised to balance the budget, which had a deficit last year of 2.2% of GDP. With the economy expected to contract by 6.5% this year, he will meet none of those goals soon.
 
 Mr Abinader will be in a stronger position to fight the twin plagues of corruption and covid-19. A majority in Congress, if the PRM wins one, might reduce the need for grubby dealmaking with other parties. Mr Abinader has promised to pick an independent-minded attorney-general and provide more money to the office. New covid-19 cases are rising rapidly, in part because the country loosened its lockdown in the approach to the election. The current government may tighten it again, even before Mr Abinader takes office on August 16th. The Dominican Republic overcame electoral chaos. Vanquishing the virus and the recession will be harder.■
+
+## URL
+
+https://www.economist.com/the-americas/2020/07/08/the-dominican-republic-changes-its-ruling-party

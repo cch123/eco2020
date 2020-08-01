@@ -21,3 +21,7 @@ In countries where old homes and objects often stay in the same family, such a p
 ![](./images/20200208_BLP506.jpg)
 
 Tomsk, bypassed by the trans-Siberian railway and spared the architectural excesses of 20th-century modernisation, suffered in the early years of the 21st century when unscrupulous businessmen set many of its protected buildings ablaze (sometimes with residents inside) to grab land in the historic centre. The professor’s building was also damaged in a fire in which a student died. Its conversion into a museum is not so much a tribute to the continuum of history, as a testament to its constant disruptions.
+
+## URL
+
+https://www.economist.com/europe/2020/02/08/a-museum-in-russia-for-a-man-who-never-existed

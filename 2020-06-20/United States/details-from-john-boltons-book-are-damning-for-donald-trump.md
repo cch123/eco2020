@@ -25,3 +25,7 @@ Mr Bolton is clearly no stylist, but he was a prodigious note-taker, which lends
 The bigger question now is whether Mr Bolton’s book will make a difference in November. That is the real reason Mr Trump is furious. Unlike Mr Mattis, Mr Bolton, once a Fox News pundit, has been a darling of the right. And, as he writes, “I am hard pressed to identify any significant Trump decision during my tenure that wasn’t driven by re-election calculations.” ■
 
 Dig deeper:
+
+## URL
+
+https://www.economist.com/united-states/2020/06/18/details-from-john-boltons-book-are-damning-for-donald-trump

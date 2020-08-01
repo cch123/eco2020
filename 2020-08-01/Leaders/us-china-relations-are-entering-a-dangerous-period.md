@@ -21,3 +21,7 @@ But their speeches add up to an attitude, not a strategy. They articulate a comp
 Another president might formulate a grand vision for how to engage China under such conditions (see [article](https://www.economist.com//united-states/2020/07/30/would-a-biden-administration-be-softer-than-trump-on-china)). These hawks have Mr Trump. His disregard for democratic allies and the cause of human rights, and his personal affinity for Mr Xi, make him singularly ill-suited to lead a contest with China over global values. He has gripes with China, over trade and covid-19, but these are not rooted in principle. His eyes are on what can get him re-elected.
 
 That sets up a combustible dynamic in the months ahead. As the election approaches, Mr Trump could be persuaded to take more dramatic action—say, financial sanctions on Chinese banks in Hong Kong, or a military display of support for Taiwan. A mishap or misunderstanding could prove perilous. It is right to want to chart a more robust course in Sino-American relations—but it would also be wise to beware the tyranny of small things. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/08/01/us-china-relations-are-entering-a-dangerous-period

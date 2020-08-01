@@ -35,3 +35,7 @@ The president’s welfare-support measures were relatively modest. The governmen
 To compensate for the hit to the national budget, Mr Putin increased the tax on dividends received from offshore holdings from 2% to 15%, effectively levying a new tax on the rich. What this package demonstrates all too vividly is that Mr Putin cares a lot more about bolstering the state than about preserving Russia’s market economy, such as it is.
 
 As Ruben Enikolopov of Moscow’s New Economic School argues, the biggest risk that confronts Russia is not an economic collapse but a social one, with millions of people losing their livelihoods and beleaguered private firms shrinking yet further. Mr Putin has long talked about restoring a Soviet-style socially oriented state. The crisis risks exposing that what he has built instead is a corporatist state that cares little about its private citizens. ■
+
+## URL
+
+https://www.economist.com/europe/2020/03/26/russias-economy-is-isolated-from-the-global-rout

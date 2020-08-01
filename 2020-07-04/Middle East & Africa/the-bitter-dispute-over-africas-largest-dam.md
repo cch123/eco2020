@@ -41,3 +41,7 @@ Egypt sees a Turkish presence next door as a threat. Relations have grown steadi
 Egypt’s army is wary of foreign wars, a caution that dates back to its ill-fated intervention in Yemen in the 1960s, which cost tens of thousands of lives (and left it unprepared to fend off Israel in 1967). Since then it has largely avoided overseas adventures, save for an unimpressive cameo in the Gulf war in 1991. Instead it has fought jihadists on the Sinai peninsula, overthrown a president and built an economic empire that stretches from luxury hotels to cement. Now Mr Sisi finds himself uncomfortably surveying crises on two fronts.
 
 Abiy’s position in Ethiopia is hardly more comfortable. Rivals at home have seized on his perceived weakness. One opposition leader accuses him of offering the dam as a “sacrificial lamb” to foreign powers. “If he fails to start filling in July, he is in trouble,” says Jawar Mohammed, an influential activist, who was arrested last month. On June 30th protests erupted after a popular musician from the Oromo ethnic group was killed, a reminder of how thin the veneer of national unity is. The technical details of a deal can be worked out, but neither leader has a deep reservoir of political capital to make it a reality. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/07/02/the-bitter-dispute-over-africas-largest-dam

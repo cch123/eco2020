@@ -23,3 +23,7 @@ Although sales are growing, profits remain elusive. Early last year the firms re
 Can the numbers add up? It is too early to tell, says Mr Shmulik. Consolidation may reduce costs and, in time, allow higher prices. At the same time, however, the business’s newfound prominence is drawing the attention of trustbusters and politicians concerned about the treatment of couriers and independent restaurants that rely on them to reach customers. In June Britain’s competition authority waved through Amazon’s investment in Deliveroo, a British firm. But Uber’s earlier talks with Grubhub foundered partly on antitrust concerns that might not have arisen without all the attention. Investors must wait to see if meal-delivery’s sweet ingredients overpower its sour ones. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/07/02/food-delivery-wars-heat-up

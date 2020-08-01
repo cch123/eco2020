@@ -25,3 +25,7 @@ So far in his presidency Gotabaya Rajapaksa has put army officers in control of 
 Unless a drubbing jolts the opposition into a wrenching overhaul, the Rajapaksas will face little challenge in the medium term. Of the two parties that dominated Sri Lankan politics for a generation, one has been largely absorbed into the SLPP as a junior partner and the other, the UNP, has withered under an old guard that failed to reform. Long allied with the UNP, parties representing minority Tamils and Muslims may now be forced into an accommodation with the Rajapaksas. 
 
 This may be bad for pluralism, given the ruling family’s tendencies. But Sri Lanka, a relative success in measures of human development, is in a delicate state. Last year’s terror attacks wrecked two tourist seasons. Even as crushing foreign-debt repayments loomed, Gotabaya Rajapaksa slashed taxes, creating a 25% revenue shortfall. Now the pandemic has hammered tourism again. Remittances, the island’s other main source of income, have plummeted. Perhaps a period of political calm, even under the Rajapaksas, is what Sri Lanka needs. ■
+
+## URL
+
+https://www.economist.com/asia/2020/08/01/an-election-in-sri-lanka-will-boost-the-rajapaksa-family

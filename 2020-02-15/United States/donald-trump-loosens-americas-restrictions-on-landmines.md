@@ -29,3 +29,7 @@ The Pentagon has an answer to this. It says that it only possesses, would only p
 The development of “smart” landmines has stalled in part because research funding plummeted when the Ottawa treaty came into force 20 years ago. “There isn’t a full technological solution to it that’s 100% certain at this point,” acknowledges General Brooks. “But honestly that’s the nature of anything and everything that happens in conditions of war”.
 
 Others argue that there are perfectly viable alternatives. In 2001 a Pentagon-sponsored study by the National Research Council, an arm of the United States National Academies, noted that “the rapid emergence of new technologies after 2006 will create opportunities for the development of systems that can outperform today’s antipersonnel landmines and that would be compliant with Ottawa”. In particular, remotely activated mines (rather than victim-activated ones) are allowed under the treaty if the person triggering the device has the would-be victim in sight, although this makes them harder to use at range and hostage to a breakdown of communications. In 2018 Finland—a late and reluctant signatory to Ottawa, given its long border with Russia—said it was developing a new, remote-controlled variety of anti-personnel “bounding” mine that leaps into the air and fires metal bullets downwards. In the world of weaponry, that is what passes for humane. ■
+
+## URL
+
+https://www.economist.com/united-states/2020/02/13/donald-trump-loosens-americas-restrictions-on-landmines

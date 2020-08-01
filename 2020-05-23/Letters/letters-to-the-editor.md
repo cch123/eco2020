@@ -87,3 +87,7 @@ MARTIN HEIMESCo-head, Financial Institutions DebtresponsAbility InvestmentsZuric
 I am a big fan of The Economist, but I do have one pet peeve. Why must lists always be in sets of three? In several articles in just one issue ([May 9th](https://www.economist.com//printedition/2020-05-09)), for example, we had: “There are countless threats to such a prospect, but three stand out”; “But three dangers loom”; “Three things are driving change”; “There are three types of benefits to the issuers of a reserve currency”; and “Nevertheless it brings three dangers”. Do challenges or opportunities never come in sets of two or four?
 
 SEAN LEIMBACHNew York* Letters appear online only
+
+## URL
+
+https://www.economist.com/letters/2020/05/23/letters-to-the-editor

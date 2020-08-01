@@ -19,3 +19,7 @@ That trend has continued. During the presidential elections of 2013 and 2017 sta
 But, desperate to win back viewers, the youngsters are crossing their own red lines. They show Western-style programmes on Channel 3, such as Iranian versions of “Who Wants to be a Millionaire?” and “America’s Got Talent”. They have hired relatively liberal celebrities to host new shows. It seems to be part of a strategy: regain an audience before injecting them with a strong dose of propaganda. Take the series “Gando”, which appeared on Channel 3 last year. It was a thriller based loosely on the story of Jason Rezaian, an Iranian-American reporter charged with espionage and imprisoned for 544 days before being released in a prisoner swap in 2016. (Mr Rezaian denies all charges.) The show’s message was clear: those who reach out to the West are weak and traitorous, while hardliners want to protect Iran.
 
 Networks on the other side of the divide use similar tactics. A satellite channel called Manoto, which appears sympathetic to the ousted monarchy, began by broadcasting entertaining shows and documentaries. But after gaining an audience it started airing slanted reports critical of the government and shows that portray the late shah, Muhammad Reza Pahlavi, in a positive light. In order to attract more viewers still, broadcasters of all stripes might consider telling it straight.
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/05/28/the-battle-over-state-tv-in-iran

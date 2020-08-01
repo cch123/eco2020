@@ -47,3 +47,7 @@ The issues surrounding any potential vaccine make questions about medicines to t
 Randomised controlled trials—in which some people are given the drug being tested and some are given a placebo—are the gold standard of scientific evidence. These will probably go ahead in the coming weeks when it is clear which drugs seem most promising. Trials with hospitalised patients will probably involve a placebo arm. Everyone in the trial would receive intensive care but some would also be given the drug being tested. This is because no one yet knows whether the new drugs, which may have side effects, do more harm than good. The most gravely ill patients may also be allowed to try untested drugs.
 
 Only so much preparation is ever possible in advance of a new disease. A drug or vaccine’s efficacy can only be tested during an outbreak. The urgency behind the search for treatments for the Wuhan virus is understandable. Such efforts were effective in the case of Ebola. People are willing to rush vaccines and drugs into use for a disease with a fatality rate around 70%, as Ebola’s was. The calculus is different for one that kills 2% (or less) of those infected. Should hasty decisions lead to products that are not completely safe, people’s faith in vaccines could be damaged. If so, the harm done to the world’s health could rival the worst feared of the Wuhan virus. ■
+
+## URL
+
+https://www.economist.com/international/2020/02/06/the-race-to-produce-a-vaccine-for-the-latest-coronavirus

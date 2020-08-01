@@ -23,3 +23,7 @@ China may be using Sweden to send a message to the world—just as it shunned No
 Still, the ambassador’s non-threats seem to have had an effect. Last year the United Nations Development Programme’s office in Stockholm cancelled a human-rights gala at the last minute; Chinese diplomats reportedly objected because it involved photos of the Dalai Lama. And a former Swedish ambassador to China will stand trial in March for allegedly arranging, without authorisation, talks between Chinese representatives and the daughter of the imprisoned Mr Gui, in an apparent effort to secure the daughter’s silence. Some China-watchers worry that the government secretly wanted the bookseller’s case shoved under the rug.
 
 A rapprochement looks improbable, and it is hard to imagine Ambassador Gui helping to achieve one. He is described by Swedes who have met him as an old-school party apparatchik, less polished than some of his foreign-ministry colleagues. A Russian-speaker with little English whose previous post was in Moscow, he was an odd choice for Stockholm. Meeting with Swedish sinologists at his residence not long after his arrival in 2017, Mr Gui said he had no idea why he was sent there. He then offered a toast in Chinese over a glass of grain alcohol. “To Gui Minhai’s victim!” he declared, an apparent reference to the car accident for which the bookseller was nominally jailed, and emptied his tumbler. His appalled guests did not join him. ■
+
+## URL
+
+https://www.economist.com/europe/2020/02/20/how-sweden-copes-with-chinese-bullying

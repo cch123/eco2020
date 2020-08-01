@@ -33,3 +33,7 @@ Universities hope the bail-out plan would allow them to get through the next few
 On April 29th Gavin Williamson, the education secretary, told MPs that his priorities were protecting research, students and the role universities have in local economies—which sounds like a reference to the need to look after poorer places. Those aims will have to be squared with the Treasury’s pressing need to save money and the government’s ambition to squeeze waste out of the sector. It sounds like universities with poor graduate prospects in richer parts of the country should be worried.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/04/30/the-government-ponders-bailing-out-universities

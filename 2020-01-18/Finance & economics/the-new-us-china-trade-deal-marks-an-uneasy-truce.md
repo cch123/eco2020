@@ -25,3 +25,7 @@ The Americans do not seem overly concerned. Mr Lighthizer is keen to move on to 
 The deal is far from a reset. As Mr Lighthizer noted, China’s cyber-intrusions and industrial subsidies still rankle with America. Chinese media, meanwhile, laid out an argument that may become more familiar: if American export restrictions prevent China from fulfilling its purchase commitments, the fault will lie with America.
 
 A truly grand pact between the two countries is some way off—and indeed, may never arrive. But this modest trade agreement shows how much the status quo has changed. Tariffs on hundreds of billions of dollars’ worth of imports into both countries remain in place, with an ever-present threat of more. This is not trade peace, but rather a trade truce—and a tense one at that. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/01/16/the-new-us-china-trade-deal-marks-an-uneasy-truce

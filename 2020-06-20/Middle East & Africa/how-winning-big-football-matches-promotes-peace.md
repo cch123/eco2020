@@ -21,3 +21,7 @@ The bigger the match, the bigger the boost to national solidarity and trust. Thi
 Victories also lead to less violence. The authors compared countries that narrowly qualified for the African Cup of Nations in recent years with those that narrowly missed out. The countries that squeaked in experienced almost 10% less conflict in the next six months than those that did not. The make-up of the squad probably matters, too. Mr Drogba noted that his team hailed “from the north, south, centre and west” of Ivory Coast. “The effect of victories is stronger the more diverse the ethnic composition of the national team,” say the authors.
 
 So could more football reduce conflict in Africa? Perhaps, but the positive results only hold for high-stakes matches, not friendlies (matches unrelated to a competition). And the bonhomie can be fleeting. A second civil war broke out in Ivory Coast in 2010. Calm returned in 2011, after Mr Drogba and many others again appealed for peace.
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/06/18/how-winning-big-football-matches-promotes-peace

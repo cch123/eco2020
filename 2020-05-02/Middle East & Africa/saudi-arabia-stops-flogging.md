@@ -17,3 +17,7 @@ The new decrees challenge the clerics in an area where they may be reluctant to 
 Liberals may cheer, but Prince Muhammad is concentrating ever more power in his own hands—and compassion is not his strong suit. He has thrown thousands of people into jail, including an uncle and a cousin (a potential rival for the throne), as well as campaigners for democracy and women’s rights. Minors may be spared, but the rate of executions has doubled on the prince’s watch. The kingdom set a record last year with 184. (The number of extrajudicial killings is unknown.)
 
 Capital punishment is falling out of favour in much of the world, but not in the Middle East. Last year Iran, Iraq and Saudi Arabia carried out over 80% of all executions outside China, says Amnesty International, a watchdog. Executions in Iraq increased by 92%. In Saudi Arabia, convicts will no longer be sentenced to flogging, but some are still beheaded with a sword.
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/05/02/saudi-arabia-stops-flogging

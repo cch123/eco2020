@@ -39,3 +39,7 @@ In 2020, by contrast, bail-outs are seen as necessary and companies blameless. T
 Ms Vestager says the concept of a “level playing field”—backed by state-aid rules—remains as important as ever. But concerns that China and America are pampering their own firms with subsidies are widespread. Even before covid-19, Europe had made concessions, allowing industrial projects of the sort politicians favour (such as factories to make high-tech batteries for electric cars) to get government largesse.
 
 A Franco-German deal made possible the whopping package Mrs von der Leyen is now touting. While suggesting that the EU receive huge new powers, Emmanuel Macron and Angela Merkel, France’s and Germany’s leaders, also called for the commission to “adapt” state-aid rules permanently to favour industry. That may prove a difficult recommendation to ignore. ■
+
+## URL
+
+https://www.economist.com/europe/2020/05/28/europes-habit-of-propping-up-firms-may-outlast-the-pandemic

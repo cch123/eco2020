@@ -29,3 +29,7 @@ Meanwhile, the apparent shortage of foreign currency has probably been hampering
 Chris Green of the University of Leiden believes that it may be part of a longer-term strategy to restore state control over the economy. “There was a time early on in the Kim Jong Un era [when] big enterprises were allowed to accumulate their own hard-currency supply, but that is apparently no longer desirable.” However, North Korea’s entrepreneurs, used to the regime’s periodic attempts to seize their money, are adept at hiding it.
 
 Whether the government was having trouble funding itself, or was worried that the officials who form the bedrock of the regime were upset about the shortages of imported goods, Mr Kim seems to have decided that complete isolation is unsustainable. Restrictions on the border appear to be easing, with some goods reportedly getting through again in recent weeks. Prices for rice and petrol have fallen. Of course, the looser restrictions might yet result in some less sought-after imports, such as cases of covid-19. ■
+
+## URL
+
+https://www.economist.com/asia/2020/05/28/standoffish-north-korea-discovers-the-limits-of-self-reliance

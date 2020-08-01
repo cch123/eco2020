@@ -53,3 +53,7 @@ Supermarketstook steps to ration the sale of products and to set aside shopping 
 In what some saw as a blow, the Eurovision Song Contest was cancelled.
 
 For our latest coverage of the virus and its consequences please visit [economist.com/coronavirus](https://www.economist.com/http://economist.com/coronavirus) or download the Economist app.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/03/21/politics-this-week

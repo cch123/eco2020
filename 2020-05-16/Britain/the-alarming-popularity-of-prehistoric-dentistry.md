@@ -19,3 +19,7 @@ Only those with problems such as breathing difficulties due to swelling or nerve
 Many dental practices either rely entirely or partly on private income, rather than NHS contracts, and are thus facing financial collapse. Some, unlike shops or restaurants, do not qualify for business-rates relief. “I can’t help feeling forgotten when I walk down the street and see the vape shop, which is getting a £25,000 grant and rates relief, painting and decorating,” sighs the hygienist.
 
 When dentists reopen, they will struggle to satisfy the pent-up demand they are bound to face. Safe dentistry in a pandemic is slow. Waiting areas must be kept empty, protective kit procured and surgeries disinfected. At practices that are now doing urgent care, such restrictions mean traffic is down by three-quarters. If there is a similar drop-off in service when others return, care will continue to be rationed. Bad news for anyone with toothache. Good news for Babybel manufacturers.
+
+## URL
+
+https://www.economist.com/britain/2020/05/16/the-alarming-popularity-of-prehistoric-dentistry

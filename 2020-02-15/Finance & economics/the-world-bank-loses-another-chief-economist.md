@@ -21,3 +21,7 @@ The integrity of the bank’s research is meant to be safeguarded by its chief e
 This month she said she would be returning to Yale in March, after only 15 months in the job. Her reasons were unclear. A reorganisation of the bank may have been a factor, including the imminent arrival of Mari Pangestu, who will assume oversight of Ms Goldberg’s unit, in an effort to align research more closely with the bank’s country operations. Ms Goldberg may have come to feel that the position carried too much of a managerial burden, but too little power to rule her fief.
 
 But it is also possible that the bank’s decision to block one of her team’s papers grated on her. After aid to a country spikes, money departs for offshore havens. And after a sensitive paper is spiked, Penny departs for New Haven. In both cases, correlation is easier to prove than causation.■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/02/13/the-world-bank-loses-another-chief-economist

@@ -17,3 +17,7 @@ The official description of it stresses that the bill will comply with “import
 Hong Kong’s police will investigate such crimes. But, in a “tiny” number of important cases, central-government agencies will be allowed to step in. Hong Kong’s chief executive will head a new national-security commission, with one seat reserved for a central-government “adviser”. A new body will be set up in Hong Kong for mainland spooks to “collect and analyse national-security intelligence”. That is likely to mean they will name targets, even if arrests will be made by a new branch of the local police that will focus on national security.
 
 A senior adviser in Hong Kong to the central government, Lau Siu-kai, says the aim is to “kill a few chickens to frighten the monkeys”—to deter people with a few high-profile sentencings rather than carry out sweeping arrests. That is just how the party likes to crush dissent on the mainland. One country, one system creeps ever closer.■
+
+## URL
+
+https://www.economist.com/china/2020/06/27/china-is-secretive-about-its-new-national-security-law-for-hong-kong

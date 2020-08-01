@@ -19,3 +19,7 @@ It is likely to get a sympathetic hearing. During the riots in Delhi, it was onl
 As the bodies were fished out of Delhi’s fetid canals, it became clear that some three-quarters of the victims had Muslim names. Most of the homes and businesses damaged in the riots belonged to Muslims. Yet the police seem to think that Muslims orchestrated it all. Hundreds have been rounded up for questioning on flimsy pretexts, say locals. In one example, a Muslim local councillor who owns a tall building near the scene of some of the worst violence repeatedly called the police to plead for help, warning that his building was being invaded by a mob. He has since been charged with the murder of an undercover policeman whose body was found nearby.
 
 On the night of February 24th, witnesses say, a mob surged into a neighbourhood called Shiv Vihar, systematically targeting Muslim property. Wasiq Khan, a lawyer trying to help victims claim compensation, says the police have made no effort to investigate, not even to note the telltale serial numbers of cooking gas canisters used to firebomb shops and homes. He suspects they are “hoping that renovations overtake the evidence”. Once residents clear away the ashes or haul away the carcasses of torched vehicles, there will be nothing to show what happened. ■
+
+## URL
+
+https://www.economist.com/asia/2020/03/12/victims-of-rioting-in-india-are-bashed-by-the-police-and-courts-too

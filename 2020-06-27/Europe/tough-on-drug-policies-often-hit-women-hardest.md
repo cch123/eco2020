@@ -23,3 +23,7 @@ Harm-reduction advocates have tried to help. Ukrainian activists are lobbying to
 Most portents, though, are bleak. Last year Russia’s President Vladimir Putin urged tougher punishment for spreading “drug propaganda”, or any information “encouraging” drug use, which includes harm-reduction charities. Anya Sarang, president of the Andrey Rylkov Foundation in Moscow, has resigned herself to removing some of the most controversial material from her organisation’s website or risk bankruptcy from unaffordable fines. Bulgaria temporarily stopped its safe-needle-and-syringe programmes after the Global Fund, a health charity, withdrew funding. Advocates fear the same could soon happen in Ukraine.
 
 Twelve years into her recovery, Ms Moroz, now a human-rights campaigner and mother of two, started using drugs again, though these days it is cannabis and pills, rather than the injectable sort. The relapse was the result of wartime despair in Ukraine, which left her displaced and her husband captured. Female drug users are still fighting to become anything else. ■
+
+## URL
+
+https://www.economist.com/europe/2020/06/25/tough-on-drug-policies-often-hit-women-hardest

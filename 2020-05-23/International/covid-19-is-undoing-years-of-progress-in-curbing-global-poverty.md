@@ -91,3 +91,7 @@ However, the choice is not binary: total lockdown or no precautions at all. Gove
 Whatever the approach, poor countries will need help from developed ones. Rich countries have spent a stunning $8trn on supporting their own citizens during the pandemic, notes Homi Kharas of the Brookings Institution, a think-tank. It is in their interest to help poor countries grapple with the disease—otherwise they will become a coronavirus reservoir that can reinfect the rich. Yet the international response has been “very go slow”, says Matthew Spencer of Oxfam, an NGO. So far the IMF and World Bank have lent about $20bn and $6bn respectively. Talks about debt relief are moving lethargically.
 
 In the past, crises have sometimes fostered solidarity with the poor, notes Amartya Sen of Harvard University. In Britain during the 1940s life expectancy shot up by seven years, thanks to a wartime rationing system that ensured everyone had nourishing (if dull) food. According to a forthcoming UN Development Programme study between 2013 and 2016, despite an Ebola epidemic, living standards in Sierra Leone improved faster than in any of 70 poor countries. The huge effort to fight Ebola had spillover effects, as aid-workers and public servants also helped improve nutrition and child mortality. It would be wonderful if covid-19 could inspire similar efforts. But for now, the rich world is too distracted by its own problems to pay much heed to the poor.■
+
+## URL
+
+https://www.economist.com/international/2020/05/23/covid-19-is-undoing-years-of-progress-in-curbing-global-poverty

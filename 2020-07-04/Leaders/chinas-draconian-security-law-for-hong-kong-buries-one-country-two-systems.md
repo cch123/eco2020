@@ -21,3 +21,7 @@ The world is entitled to be shocked by these developments, but not surprised. Th
 But the West must respond. Britain was right to say on July 1st that it would make it easier for about 3m holders of “British national overseas” passports in Hong Kong to settle in Britain and eventually qualify for citizenship (see [article](https://www.economist.com//britain/2020/07/02/britain-gives-3m-hong-kongers-the-right-to-live-and-work)). America should impose sanctions on Chinese officials who violate human rights in Hong Kong. It would be more effective if it abandoned its go-it-alone approach to foreign affairs and worked with other democracies to resist China’s efforts to subvert global human rights (see [article](https://www.economist.com//china/2020/07/02/the-west-cannot-force-china-to-read-its-interests-differently)).
 
 Hong Kong’s suffering holds a lesson for the world. China’s rulers cannot be trusted to keep their promises and they will stop at nothing to suppress dissent. This calls for heightened vigilance about China’s rise, especially as it affects Taiwan. The party has shown that it would rather be feared than admired. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/07/02/chinas-draconian-security-law-for-hong-kong-buries-one-country-two-systems

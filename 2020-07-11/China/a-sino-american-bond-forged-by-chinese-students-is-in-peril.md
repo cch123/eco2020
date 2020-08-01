@@ -27,3 +27,7 @@ Another perspective comes from a larger group: middle-class students from provin
 Just now America is doing a remarkable job of making foreign students feel unwelcome. Chinese state media happily reinforce the message, with lavish reporting of American riots, anti-Chinese racism, gun violence and covid infections. Any decoupling may take time to be visible. Francis Miller, a college counsellor based in Xi’an, a western city, notes that the Chinese students he helps have to enroll in special international streams that prepare them for the SAT or other foreign exams from the age of 15 or so. That amounts to a commitment to study abroad, because they are abandoning the fearsome, three-year gaokao curriculum that governs entry to Chinese universities. Future trends are ominous. In the eastern city of Nanjing, a college-entry coach says her employer’s new-client numbers are down by two-thirds in a year.
 
 Yung Wing wanted more Chinese to enjoy an American education to make his country “enlightened and powerful”. His dream involved risks for both sides. America was being asked to help China rise. Chinese rulers had to let youngsters taste new freedoms. Soon afterwards, leaders in both countries rejected that bargain. Over a century later, a folly repeated is still a mistake. ■
+
+## URL
+
+https://www.economist.com/china/2020/07/09/a-sino-american-bond-forged-by-chinese-students-is-in-peril

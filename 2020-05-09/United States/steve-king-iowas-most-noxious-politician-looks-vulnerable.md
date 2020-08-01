@@ -23,3 +23,7 @@ The reason for this, he argues, is not just voter fatigue with Mr King, but moun
 Is Mr King doomed? No one knows how virtual campaigning and the use of postal ballots in the primary (and maybe in November) may skew things. He may do better in a presidential year than he did in the mid-terms. The incumbent likes a fight, and says “never-Trumpers” backed by “coastal elites” are conspiring to stop him. He could yet win the primary. Mr Scholten is eager that he does, to get that re-run from two years ago. After all, in baseball a team gets nine innings; Mr King has had his. ■
 
 Dig deeper:
+
+## URL
+
+https://www.economist.com/united-states/2020/05/09/steve-king-iowas-most-noxious-politician-looks-vulnerable

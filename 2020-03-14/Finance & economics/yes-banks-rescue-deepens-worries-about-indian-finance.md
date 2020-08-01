@@ -27,3 +27,7 @@ The finance minister, Nirmala Sitharaman, sought to allay depositors’ fears by
 While the technical issues were swiftly sorted out, fundamental ones remain. The resolution plan was far short of the $4bn needed for provisioning, reckons Ashish Gupta, an analyst at Credit Suisse, a bank. SBI has said it does not intend to merge with Yes, leaving the latter’s fate unclear and, to use Mr Gupta’s careful phrasing, its “reconstruction…unlikely”. The chaotic approach has complicated the life of other small and mid-sized banks, he says, affecting their liquidity and ability to raise deposits, which in turn may aggravate the country’s deepening credit crunch.
 
 This half-baked outcome was not inevitable. A private-equity investor says he heard of more than 40 private-equity firms, mostly from outside India, who had expressed interest in buying Yes, only to be dissuaded at the last minute by the thicket of regulations, particularly for foreign investors, not to mention the business risks. A handful of the same names are reported to be in discussions with SBI about buying stakes. Yet falling stockmarkets and financial mayhem make it an inopportune time for dealmaking. Many of the former optimists of Indian finance who bought into Mr Kapoor’s story may never say yes so eagerly again. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/03/14/yes-banks-rescue-deepens-worries-about-indian-finance

@@ -49,3 +49,7 @@ Has Mr Guterres got his priorities right? The criticism that stings most is pers
 Mr Guterres’s defenders say such attacks are unfair. He has picked his moments to speak up in public, whether on Uighurs in China or Rohingyas in Myanmar, and has championed women’s rights, within the UN and beyond. Yes, he avoids confrontations that would be counter-productive (he never criticises Donald Trump by name, for example). But this gives him the ability to deliver a strong message behind the scenes. What powder he has must be kept dry. “At the UN there is practically no power at all,” he says. “When you’re in government you have some power. Here it’s basically a bluff, or an illusion.”
 
 A second, broader, criticism of the UN is that it simply does too much. It is, in effect, trying to save the world several times over. Its many aims may be wonderful, and interconnected, but it lacks the capacity to pursue them all effectively. It has taken on more than it was designed for. And the design itself needs a fresh look.■
+
+## URL
+
+https://www.economist.com/special-report/2020/06/18/the-un-has-too-much-on-its-plate

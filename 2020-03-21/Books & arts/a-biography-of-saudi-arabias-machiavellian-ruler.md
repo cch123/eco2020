@@ -21,3 +21,7 @@ When Salman became king in 2015 he put his son in charge of the economy and defe
 For a while Saudi-watchers in the West were entranced by the bold and ambitious prince. But recently his rash and ruthless side has been getting more attention. Saudi Arabia’s intervention in neighbouring Yemen, a brainchild of Prince Muhammad’s, has created a humanitarian disaster. His decision to lock up hundreds of Saudi tycoons in a luxury hotel until they handed over chunks of their fortunes alienated outside investors. He in effect kidnapped the prime minister of Lebanon in 2017, then started a pointless feud with Canada. The world’s richest man, Jeff Bezos, thinks the prince hacked his phone (though MBS denies it). World leaders are confounded by all this. “Are his dangerous acts the youthful faults of an inexperienced ruler? Or do they spring from deep in his character and serve as harbingers of things to come?” asks Mr Hubbard.
 
 The book ends with the grisly tale of Jamal Khashoggi, a columnist who was killed and dismembered inside the kingdom’s consulate in Istanbul two years ago. Prince Muhammad denies ordering the murder. Few observers believe him; after all, Saudi dissidents are routinely jailed and tortured. To prevent such incidents from happening again the prince set up a committee to reform the intelligence service. Naturally, he put himself in charge of it. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/03/19/a-biography-of-saudi-arabias-machiavellian-ruler

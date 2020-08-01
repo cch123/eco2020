@@ -29,3 +29,7 @@ If a meteor’s shock waves can be tracked across the ionosphere, for example, h
 The first 27 months of the programme will be dedicated to understanding the science behind ripples in both the ionosphere and the electrically neutral atmosphere below it, and then building computer simulations of what is going on. These will be tested to see if they can replicate accurately effects seen in the past.
 
 Once the team have a better understanding of the basic science, they will proceed to the second stage: field trials. This will involve three tests at three-month intervals in which researchers attempt to locate pertinent events, such as storm cells, mining operations and earthquakes. If that works, the project will then move on to matters of military interest by spying on missile launches, tracking aircraft and even watching underground bunkers being dug. The result, if all goes well, may be the world’s first true panopticon. ■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/06/11/a-plan-to-turn-the-atmosphere-into-one-enormous-sensor

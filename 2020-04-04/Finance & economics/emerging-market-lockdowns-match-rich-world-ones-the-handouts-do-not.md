@@ -41,3 +41,7 @@ In order to measure countries’ vulnerability, analysts at Morgan Stanley, a ba
 In such circumstances, some emerging economies will turn to the IMF. Indeed the fund says over 80 countries have already asked for some form of help in recent weeks. Others may extend their lockdowns into the financial realm. In a report published on March 30th the United Nations Conference on Trade and Development argued that some countries should impose capital controls, with the IMF’s blessing, to “curtail the surge in outflows”. Having prevented labour from moving freely within their borders, some overstretched emerging markets may now be tempted to stop capital moving freely across them. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/04/04/emerging-market-lockdowns-match-rich-world-ones-the-handouts-do-not

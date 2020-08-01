@@ -19,3 +19,7 @@ Nostalgia is one explanation. The video-game business is now middle-aged, giving
 Remaking games also helps keep valuable franchises in the public eye while new games are in development, says Morris Garrard of Futuresource, a consultancy. He also points out that console gaming is governed by the release of new hardware. Refreshed games can do well at the end of a cycle when there is less competition from flashy new boxes. The deluge may slow as Sony and Microsoft, the dominant firms, are releasing new consoles soon.
 
 Remakes appeal for another reason, too. The cost of developing high-end video games has ballooned. Budgets can exceed $100m for the glitziest titles. The industry has thus become afflicted by the same risk-aversion that keeps Hollywood churning out endless franchise films and sequels. Remixing an old game, which has sold well once and will probably do so again, is quicker and cheaper than coming up with a new one.
+
+## URL
+
+https://www.economist.com/business/2020/06/04/the-video-games-industry-raids-its-back-catalogue

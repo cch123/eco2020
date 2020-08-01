@@ -31,3 +31,7 @@ China has denounced it, too, but has largely refrained from sabre-rattling durin
 Should the DPP win both the presidency and legislature, China will certainly be unhappy. But Ms Tsai is a pragmatist. She would probably use a new mandate to keep Taiwan on the same course, rebuffing China’s political demands while trying not to pick quarrels that could risk a military conflict. American diplomats would welcome this. They were rattled by the more confrontational approach of the DPP’s Chen Shui-bian, Taiwan’s president from 2000 to 2008, who enraged China with his efforts to assert Taiwan’s separate identity.
 
 But four more years of Ms Tsai would not guarantee peace. President Donald Trump appears to have little interest in sparring with China over Taiwan, but some of his appointees, egged on by many members of Congress, are keen to strengthen America’s unofficial ties with the island. In August the State Department approved the sale of 66 F-16 fighter jets to Taiwan. China’s patience may one day wear thin. ■
+
+## URL
+
+https://www.economist.com/asia/2020/01/02/taiwans-china-sceptic-president-tsai-ing-wen-may-win-again

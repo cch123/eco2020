@@ -27,3 +27,7 @@ In other words, the decision over whether to reproduce a vile slur is also a jud
 But people are not entirely rational, as good editors, along with advertisers and politicians, know. The photograph of a single dead three-year-old washed up on a Turkish beach in 2015 is often credited with galvanising a response to the European refugee crisis in a way that accounts of thousands of faceless deaths had failed to do. Not without reason do journalists often begin stories with heart-rending vignettes before going into systemic injustices. One of the core tools of journalism is emotion, used judiciously to reach readers’ hearts as well as their minds.
 
 No one thinks that papers should casually toss around hurtful words. (And, by the by, no one serious about the issue thinks that because some African-Americans have reclaimed the slur for themselves, outsiders are now free to use it, too.) But The Economist’s style book says of obscenities that “if you do use them, spell them out in full.” Let the shock, sadness and anger that readers feel upon hearing them turn into action.
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/07/09/papers-should-print-offensive-language-if-it-is-crucial-to-a-story

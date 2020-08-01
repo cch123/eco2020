@@ -19,3 +19,7 @@ In November he appointed Brian Kwon, who had previously run LG Electronics’ mo
 ![](./images/20200104_WBC829.png)
 
 The newish head of LG Chem, Shin Hak-cheol, likewise has a reputation as a risk-taker. Last month the chemicals arm (which, like most parts of LG, is listed but ultimately controlled by the holding company Mr Koo heads) announced a joint venture with General Motors to produce batteries for its electric vehicles in a new factory in Ohio. Although demand for batteries is expected to grow, LG will be exposed to the fortunes of a single carmaker. These developments may be trial balloons for a plan to adopt a less risk-averse strategy for the group as a whole. So far, investors appear unimpressed. Shares of LG’s biggest companies have tumbled in the past two years; for all its scandals and deserved criticism of its governance, Samsung has done better (see chart). LG’s efforts to distinguish itself from Samsung’s vices are laudable. Mr Koo may need to do more to emulate its innovative virtues. ■
+
+## URL
+
+https://www.economist.com/business/2020/01/02/lg-south-koreas-cuddliest-chaebol-wants-a-sharper-edge

@@ -27,3 +27,7 @@ Allianz is exposed to markets both in its life-insurance business, as an investo
 When time allows, Mr Bäte says, he is pushing on with a plan to slim Allianz down and increase efficiency by embracing AI and machine learning. He estimates that up to half of his working day is taken up with covid-related issues. The outlook is unclear: for now, he says, he is not pondering a profit warning. He is preparing for an annual general meeting on May 6th, which for the first time will take place virtually. It will be a lonely day for the gregarious former McKinsey consultant. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/04/03/how-allianz-is-dealing-with-market-turmoil

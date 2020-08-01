@@ -87,3 +87,7 @@ I was perplexed by your statement that “no other business figure holds a candl
 JUSTIN HOTTEREugene, Oregon
 
 * Letters appear online only
+
+## URL
+
+https://www.economist.com/letters/2020/06/27/letters-to-the-editor

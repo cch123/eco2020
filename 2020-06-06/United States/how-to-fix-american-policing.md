@@ -65,3 +65,7 @@ Because most police agencies are local, regulating them is a local responsibilit
 The federal government can investigate and prosecute departments for violating people’s constitutional rights. Such investigations can lead to consent decrees, which are agreements between the department and the DoJ intended to avoid protracted litigation. Both sides agree on reforms to police practices, which an independent federal monitor oversees. Mr Obama’s administration investigated 25 departments and enforced 14 consent decrees. Mr Trump’s administration has markedly curtailed such investigations.
 
 Mr Trump and his attorney-general, William Barr, have made pro-forma acknowledgments of the legitimacy of the protests, but have been far more enthusiastic about, in Mr Barr’s words, “apprehending and charging the violent radical agitators.” Mr Trump has encouraged mayors and governors to use their police forces to “dominate” protesters. That may work in the short-term. But Times Square is not Tiananmen Square, and America cannot repress its way out of this problem. Legitimate grievances left unaddressed will fester. Americans took to the streets six years ago, after Michael Brown was killed. They should not have to return in another six.■
+
+## URL
+
+https://www.economist.com/united-states/2020/06/04/how-to-fix-american-policing

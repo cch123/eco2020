@@ -19,3 +19,7 @@ Qataris have doubts about the emir’s decisions. They wonder why he squandered 
 The muttering is only likely to grow. Qatar adheres to Wahhabism, the same conservative school of Islam as Saudi Arabia. But it is hosting football’s World Cup in 2022. Locals worry about drunken fans, Israeli flags and public displays of affection, among other things. “Each day we get closer to the opening brings more discontent,” says Abdelhamid al-Ansari, a former dean of Qatar University.
 
 Qatar’s rulers have transformed Doha from a sandpit into one of the Gulf’s most stylish cities. It has a corniche of glitzy skyscrapers, the only underground to be found anywhere between Cairo and Tehran, and stunning museums. Just a generation ago women were kept hidden. They still cannot travel without permission, but now there are female ministers, judges and ambassadors. Yet Qatar cannot claim to be a beacon of openness until it stops trying to silence critics. Enlightenment begins at home.■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/02/13/qatar-the-gulf-emirate-famed-for-openness-is-silencing-critics

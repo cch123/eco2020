@@ -31,3 +31,7 @@ A forceful attack would also have unintended effects. It would prevent American 
 There are good reasons to demand more scrutiny of Chinese firms listed in New York: some are exempted from the same level of reporting as American peers. (This week Luckin Coffee, a Chinese firm listed in New York through a VIE, sacked its bosses amid an accounting scandal). But the best way to uncover, if not deter, fraud may be to keep firms in the system, rather than driving them away, says Matthew Doull of Wedbush Securities, an investment firm.
 
 Washington has made its first move but it may be unwilling to do much more. The Securities and Exchange Commission, America’s markets watchdog, wants better disclosure but may be less keen on outright financial warfare. Jay Clayton, its boss and a former capital-markets lawyer, advised Alibaba on its VIE when it listed in New York in 2014. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/05/14/america-files-a-new-financial-salvo-at-beijing

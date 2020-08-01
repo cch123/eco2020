@@ -23,3 +23,7 @@ The affair may also hurt the group’s efforts to get back in South Koreans’ g
 More images of him emerging from courtrooms looking sheepish may reverse that trend. That may be a reason why Samsung has been unusually vocal in defending its boss against the latest charges. On June 7th, three days after the prosecutors requested Mr Lee’s arrest, Samsung Electronics sent a statement to reporters reiterating that all activity relating to the merger had been “legal in compliance with relevant regulations and procedures”. It pleaded with them to refrain from “immoderate reports” that could damage the firm, and by extension the national economy, at a time of crisis.
 
 Stressing lofty principles such as the national interest over petty concerns like law-abidance is a well-worn argument among South Korean conglomerates that get into trouble. The coming months will show if it is wearing thin.■
+
+## URL
+
+https://www.economist.com/business/2020/06/18/no-end-in-sight-for-samsungs-legal-troubles

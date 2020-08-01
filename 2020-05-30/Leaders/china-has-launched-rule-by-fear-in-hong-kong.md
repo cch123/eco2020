@@ -27,3 +27,7 @@ The rest of the world should stand up to China’s bullying. On the Sino-Indian 
 In the case of Taiwan China faces a powerful deterrent: a suggestion in American law that America might come to Taiwan’s aid were the island to be attacked. There is a growing risk that a cocksure China may decide to put that to the test. America should make clear that doing so would be extremely dangerous. America’s allies should echo that, loudly.
 
 Hong Kong’s options are bleaker. The Hong Kong Policy Act requires America to certify annually that the territory should in trade and other matters be treated as separate from China. This week the secretary of state, Mike Pompeo, declared that “facts on the ground” show Hong Kong is no longer autonomous. This allows America to slap tariffs on the territory’s exports, as it already does to those from the mainland. That is a powerful weapon, but the scope for miscalculation is vast, potentially harming Hong Kongers and driving out global firms and banks. It would be better, as the law also proposes, to impose sanctions on officials who abuse human rights in Hong Kong. Also, Britain should grant full residency rights to the hundreds of thousands of Hong Kongers who hold a kind of second-class British passport—much as Ms Tsai this week opened Taiwan’s door to Hong Kong citizens. None of this will stop China from imposing its will on Hong Kong. The party’s interests always trump the people’s. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/05/28/china-has-launched-rule-by-fear-in-hong-kong

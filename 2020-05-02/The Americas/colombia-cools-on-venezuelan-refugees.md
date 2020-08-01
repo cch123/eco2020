@@ -31,3 +31,7 @@ In televised speeches, Mr Maduro promises a friendly homecoming. In fact, he has
 Conditions are terrible. Returning migrants sleep on asphalt in scorching heat. They eat rice, plantain or rotting tuna once a day, said two inmates in one such centre. The ELN, a Colombian guerrilla group backed by Mr Maduro, stops people from leaving, they say.
 
 That will not stop the disease from spreading within Venezuela, where many people cannot afford soap. Faced with a health-care system that had collapsed before the pandemic, many Venezuelans will seek treatment in Colombia, according to Felipe Muñoz, an adviser to Mr Duque. Its health system is also under strain, but at least it functions. The porous border cannot serve as an “epidemiological fence” for Colombia, says Mr Rodríguez. Forced to choose, many Venezuelans will brave growing hostility next door in preference to tyranny and implosion at home.■
+
+## URL
+
+https://www.economist.com/the-americas/2020/04/30/colombia-cools-on-venezuelan-refugees

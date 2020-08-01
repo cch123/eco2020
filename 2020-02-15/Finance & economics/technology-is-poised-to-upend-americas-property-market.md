@@ -65,3 +65,7 @@ But not all of the biggest prop-tech companies in America are betting on estate 
 Compass, which was founded in 2012 and is now worth more than $6bn, is the most focused on helping agents. Its tools take the drudgery out of their work, in order to make them more productive. Its platform for agents analyses the best time to list properties and automatically sends them listings their buyers might like. Robert Reffkin, its founder, claims that agents who use Compass make more deals. “If Compass fails it is because my faith in the role of the agent is misplaced.”
 
 Lower fees, therefore, need not mean a big hit to agents’ pockets. They might boost productivity. They could encourage people to move house more often, offsetting the fall in fee rates. Clients, meanwhile, would undoubtedly benefit. People rank buying a home second only to divorce as the most stressful time of their lives. If it becomes a little less so, and cheaper into the bargain, that would be a welcome change. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/02/15/technology-is-poised-to-upend-americas-property-market

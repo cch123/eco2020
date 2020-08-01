@@ -21,3 +21,7 @@ The researchers warn that their data exclude people who died in care homes, who 
 Still, the available evidence suggests that many covid-19 victims were far from death’s door previously, and cut down at least a decade before their time. Allowing the virus to spread freely would sacrifice the strong as well as the weak. ■
 
 Sources: "Covid-19 – exploring the implications of long-term condition type and extent of multimorbidity on years of life lost: a modelling study", by P Hanlon, F Chadwick, A Shah et al., 2020; Istituto Superiore di Sanità (Italy); SAIL Databank (Wales); Public Health Scotland
+
+## URL
+
+https://www.economist.com/graphic-detail/2020/05/02/would-most-covid-19-victims-have-died-soon-without-the-virus

@@ -17,3 +17,7 @@ Such savagery is rare in Kazakhstan, which considers itself a model of ethnic ha
 But the ostrich-like taboo on discussing ethnic tensions has not made them disappear. Some Kazakhs, conscious that in Soviet times they became a minority within their own country, feel that they should now be pre-eminent. Minorities, naturally, fear a surge in Kazakh nationalism, especially since Mr Nazarbayev’s semi-retirement has introduced an element of uncertainty into politics.
 
 Kassym-Jomart Tokayev, Mr Nazarbayev’s successor, has reacted forcefully, promising that those guilty of mob violence will be punished and denouncing “criminals” who “shout pseudo-patriotic slogans”. Yet most of the 90-odd suspects arrested during the rampage have been released without charge, and the authorities will not say how many remain in custody. Keeping both Kazakhs and minorities happy while dispensing something that resembles justice will not be an easy task. ■
+
+## URL
+
+https://www.economist.com/asia/2020/02/13/an-ethnically-motivated-attack-alarms-multi-ethnic-kazakhstan

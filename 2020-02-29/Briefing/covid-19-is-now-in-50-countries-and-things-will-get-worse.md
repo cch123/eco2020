@@ -89,3 +89,7 @@ In their “severe” scenario, a pandemic similar to the Spanish flu outbreak o
 Mr McKibbin says the moderate scenario in that paper looks closest to covid-19, which suggests a 2% hit to global growth. That corresponds to calculations by Oxford Economics, a consultancy, which put the possible costs of covid-19 at 1.3% of GDP. Such a burden would not be evenly spread. Oxford Economics sees America and Europe both being tipped into recession—particularly worrying for Europe, which has little room to cut interest rates in response, and where the country currently most exposed, Italy, is already a cause for economic concern. But poor countries would bear the biggest losses from a pandemic, relative to their economies’ size.
 
 As the world climbs the epidemic curve, biomedical researchers and public-health experts will rush to understand covid-19 better. Their achievements are already impressive; there is realistic talk of evidence on new drugs within months and some sort of vaccine within a year. Techniques of social distancing are already being applied. But they will need help from populations that neither dismiss the risks nor panic. The patrons at the Tempio Caffè, just off Milan’s Piazza Cavour, had it about right: not too disturbed, getting informed. Only one of the ten breakfasting on cappuccino and brioche was wearing a mask, and she was Chinese.■
+
+## URL
+
+https://www.economist.com/briefing/2020/02/29/covid-19-is-now-in-50-countries-and-things-will-get-worse

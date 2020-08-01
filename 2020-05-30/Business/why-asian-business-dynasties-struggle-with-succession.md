@@ -19,3 +19,7 @@ Many patriarchs fear that anointing an heir apparent would weaken their grip on 
 A deeper problem is their relationship-based management model. Bosses cultivate a personal rapport with politicians and financiers, which does not easily transfer from one generation to the next. Joseph Fan of the Chinese University of Hong Kong finds that family firms in Hong Kong, Singapore and Taiwan lose some 60% of their value during generational transitions.
 
 Some of Asia’s geriatric bosses are keen to avoid this fate. Before retiring two years ago, Li Ka-shing, the 91-year-old doyen of corporate Hong Kong, simplified his web of businesses. He gave one of his sons clear control of CK Hutchinson Holdings and CK Asset Holdings, which contain most of his empire.
+
+## URL
+
+https://www.economist.com/business/2020/05/28/why-asian-business-dynasties-struggle-with-succession

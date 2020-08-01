@@ -31,3 +31,7 @@ Wisconsin’s experience also sheds light on what it means to campaign and, perh
 Marquette’s Mr Franklin draws lessons for other states. “Wisconsin is a peek into the future,” he says, a reminder to other states to “make decisions sooner”, to get bipartisan agreement on basic matters like how to run an election and to give officials time and money to print, distribute and count a huge pile of absentee ballots. Parties, too, have to think about how they can reach voters at home when knocking on doors is off-limits. Wisconsin’s Democrats have the additional challenge of rethinking their plans for Milwaukee to host 50,000 people at the party’s national convention in July. The pandemic looks likely to strike down that event, too. ■
 
 Dig deeper:
+
+## URL
+
+https://www.economist.com/united-states/2020/04/04/wisconsins-chaotic-elections

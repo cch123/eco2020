@@ -27,3 +27,7 @@ The grievances will only grow. Not least, the economic picture is worsening as t
 Those hostile to Central Asian governments can piggyback on anti-China sentiment. The protests in Kazakhstan last year were cheered on by an exiled oligarch who needles the regime, Mukhtar Ablyazov. In Kyrgyzstan protests near the Chinese border may be stoked by those who feel left out of immense cross-border smuggling rackets involving customs officials and politicians.
 
 And so the tension between the elites’ priorities and those of ordinary Central Asians will persist. It does not help that the unspoken rule in dealings with China, according to Temur Umarov of the Carnegie Endowment for International Peace in Moscow, is never to acknowledge there is a problem in the relationship. Even less helpful is rulers’ inability to acknowledge a problem over China in their relationship with the ruled.
+
+## URL
+
+https://www.economist.com/asia/2020/06/04/central-asian-governments-do-not-know-how-to-talk-about-china

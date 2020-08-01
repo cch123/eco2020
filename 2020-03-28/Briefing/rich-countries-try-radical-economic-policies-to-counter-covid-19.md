@@ -63,3 +63,7 @@ Calls for a more activist fiscal-monetary government will come against a backdro
 The likely economic effects of the pandemic reach far beyond the role of the state. Countries could become even less welcoming to immigrants—the better, they may believe, to reduce the likelihood of infection from foreign arrivals. On the same logic, resistance to the development of dense urban centres could mount, thereby limiting construction of new housing and raising costs. More countries may seek to become self-sufficient in the production of “strategic” commodities such as medicines, medical equipment and even toilet roll, contributing to a further rollback of globalisation. But the redefined role of the state could prove to be the most significant shift. The rules of the game have been moving in one direction for centuries. Another radical change is looming.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/briefing/2020/03/26/rich-countries-try-radical-economic-policies-to-counter-covid-19

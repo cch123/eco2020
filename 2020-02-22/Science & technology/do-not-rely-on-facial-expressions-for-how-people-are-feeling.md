@@ -23,3 +23,7 @@ For a start, facial expression is but one of a number of non-verbal cues, such a
 Based on this alone, most participants said the man was extremely angry. Then the view zoomed out to show a football player with his arms outstretched, celebrating a goal. His angry-looking face was, in fact, a show of pure joy.
 
 Given that people cannot guess each other’s emotional states most of the time, Dr Martinez sees no reason computers would be able to. “There are companies right now claiming to be able to do that and apply this to places I find really scary and dangerous, for example, in hiring people,” he says. “Some companies require you to submit a video CV, and then this is analysed by a machine-learning system. And depending on your facial expressions, they hire you or not, which I find really stunning and not only based on the wrong hypothesis, but a dangerous hypothesis.”■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/02/20/do-not-rely-on-facial-expressions-for-how-people-are-feeling

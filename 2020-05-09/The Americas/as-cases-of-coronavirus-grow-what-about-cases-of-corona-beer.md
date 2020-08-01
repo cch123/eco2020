@@ -39,3 +39,7 @@ Worse was to come for Corona in April, when the Mexican government belatedly ord
 But what is Corona to do about its biggest headache? For now both AB InBev and Constellation are staying silent. Any public recognition of the association between the virus and the beer is a no-no. “By acknowledging it you strengthen it,” says Mr Meyvis. To change the name of such a powerful brand would be dangerous, too. It would not only undo decades of hard work, but also destroy the beer’s sense of authenticity and history—which customers also prize. But if damage to the brand is unavoidable, its owners could do worse than pick Coronita, the beer’s name in Spain (the result of a trademark dispute). It preserves the brand’s identity, and it might just be enough of a change to get drinkers’ imaginations back on the beach, where they belong.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/the-americas/2020/05/04/as-cases-of-coronavirus-grow-what-about-cases-of-corona-beer

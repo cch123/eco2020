@@ -19,3 +19,7 @@ This time around the plan is for larger crews and longer stays. The candidates a
 SpaceX and Dynetics each have designs that land and take off intact. But they differ in how they will get to the Moon. Dynetics’ will launch on Vulcan. SpaceX’s lander is a version of its proposed Starship design that will do so on the firm’s planned Super Heavy rocket.
 
 Conspicuous by its absence from the list is Boeing. Its offer of a LEM-like system of descent and ascent stages did not make the cut. The others have until next February to firm up their designs.
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/05/07/another-step-towards-returning-people-to-earths-satellite

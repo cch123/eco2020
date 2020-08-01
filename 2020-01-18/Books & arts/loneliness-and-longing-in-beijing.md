@@ -19,3 +19,7 @@ Jia Jia finds her wealthy older husband Chen Hang—who married her to possess �
 Other characters—her new bartender boyfriend, his scholarly parents, her own father and aunt—drift through a narrative in which memory has broken into fragments and “The past seemed to have become merely what remained.” Jia Jia’s fond recollections of braised pork, a favourite family dish, hint at her longing for a vanished intimacy. Her widow’s journey follows images of the tantalising “fish man” to Tibet, which, as often in Chinese writing, is imagined as a heartland of esoteric wisdom. There, “at the edge of the world”, an old sculptor divulges secrets of a watery domain “where there are no barriers”. In Tibet, Jia Jia glimpses the fate of her long-dead mother, another lonely seeker.
 
 Ms Yu chooses not to pin down the significance of her aquatic dreamscape. In the contradictory manner of occult images, it may represent both limitless freedom and an escape from the big-city curse of isolation. Her novel has a cool, poised elegance that only adds to its enigmatic allure. All mysteries aside, it also suggests that the fallout from China’s “one-child policy” still moulds the emotional terrain of many younger artists. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/01/16/loneliness-and-longing-in-beijing

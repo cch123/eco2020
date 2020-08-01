@@ -29,3 +29,7 @@ Still, there is no escaping the fact that even the healthiest of Latin American 
 It matters too that Latin America’s three largest economies are among its most troubled. Argentina has defaulted on its debt—again—and faces a risk of runaway inflation. Brazil’s epidemic rivals America’s as the worst in the world; it may need help from the IMF to avoid a debt crisis, or turn instead to inflationary finance. Mexico suffers from threats to the rule of law, a president seemingly determined to scare off private investment, and an unpredictable northern neighbour, which is also its biggest export market.
 
 For Latin America covid-19 is a double shock: a brutally painful tragedy in its own right, and the definitive end of a growth opportunity that the region largely failed to exploit. The future of its economies and its societies depends on whether Latin Americans can be persuaded that there will be other chances in the future—and that next time its governments will do more to seize them. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/07/02/a-latin-american-economic-tragedy

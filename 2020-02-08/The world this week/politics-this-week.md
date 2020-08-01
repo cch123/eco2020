@@ -41,3 +41,7 @@ Boris Johnson’s government finally pushed Brexit over the line, but events to 
 The British government set a deadline for the end of February to pass emergency legislation removing the default that convicted terrorists are released after serving half their sentence. This follows the stabbing of two people in London by a jihadist who had just been released. A similar fatal attack last November raised questions about the effectiveness of rehabilitation for violent radicals. Six inmates are due for release in the coming weeks.
 
 A minority administration under the Free Democrats was voted in by the German state of Thuringia, in eastern Germany. For the first time, a state premier took office thanks to support from the xenophobic Alternative for Germany. The vice-chancellor of the federal government said this distasteful alliance threatened to break up the ruling “grand coalition”. See [article](https://www.economist.com//europe/2020/02/06/a-pact-with-the-far-right-in-thuringia-rattles-german-politics). 
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/02/08/politics-this-week

@@ -25,3 +25,7 @@ Other covid-conquerors such as Hong Kong, South Korea and Taiwan would like to e
 Meanwhile, Taiwan is pioneering work with Stanford University, first reported by the Financial Times, to create a “safe-travel protocol”. Next month 500 human guinea pigs will travel from San Francisco to Taipei. Passengers will be tested before a preflight period of quarantine. They will then be tested every two days in quarantine when they land. The aim is to find the shortest safe quarantine period for brief business trips, rather than the typical two weeks. But for anything other than essential travel, the regime is no bundle of fun: more decompression chamber than bubble.
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/asia/2020/05/28/asian-countries-try-to-build-travel-bubbles

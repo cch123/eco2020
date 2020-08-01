@@ -45,3 +45,7 @@ Even if WM fails, China is set to be a large market for EVs long before any othe
 It also suggests that such a strategy could see Chinese EV makers capture a lot of the value from vehicles made elsewhere. Their simplicity, compared with cars powered by internal combustion, makes EVs easier to manufacture in sections. Because there are no cooling fluids to pump around the vehicle, no drivetrain to run through the floor of the cabin, and no engine block poised to crush occupants in the event of a crash, the top and the bottom of the car can easily be separated out and produced independently. The bottom part, which contains the complexity of battery and power-management electronics, is called the “skateboard”, and embodies the lion’s share of the value of the car.
 
 Mr Shen imagines a scenario in which his firm’s skateboards are shipped around the world to be integrated with bodies and interiors created by other manufacturers that have failed to create their own core EV technology. It would be a complete reversal of the situation today, where Chinese car companies need Western firms to supply the most valuable components. China’s huge market for EVs is creating a supply chain that startups like WM and self-reinventing incumbents like vw will rely on. That may end up being an advantage for the Chinese industry on a global scale.■
+
+## URL
+
+https://www.economist.com/technology-quarterly/2020/01/02/china-has-never-mastered-internal-combustion-engines

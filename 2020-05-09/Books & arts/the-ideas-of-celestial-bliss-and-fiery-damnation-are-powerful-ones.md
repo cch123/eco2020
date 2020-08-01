@@ -31,3 +31,7 @@ Many redoubtable volumes have been written about all this, but Mr Ehrman, who al
 They should take comfort in the knowledge that the coming of the Kingdom on Earth is something, at least, that Jesus did teach. As for Mr Ehrman, he is looking forward to the alternative afterlife that Socrates also imagined: after a full life happily lived, a good long unbroken sleep. ■
 
 Correction (May 13th): A previous version of this article referred to Plato’s “Phaedo”, instead of “Apology”. Apologies.
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/05/09/the-ideas-of-celestial-bliss-and-fiery-damnation-are-powerful-ones

@@ -21,3 +21,7 @@ Malawi is one of the most devout countries in Africa. Fully 81% of Malawians say
 It will, however, take more than preaching to improve Malawians’ lot. Mr Chakwera has promised 1m new jobs and a universal subsidy for fertiliser—a tempting pledge in a mostly agrarian economy. But it will be hard to pay for these promises. The country is one of the poorest in the world: 70% of its people live on less than $1.90 a day (at purchasing-power parity). Many public services depend on foreign aid. GDP per person is forecast to fall this year and next, thanks to covid-19.
 
 In any event, Malawi deserves to savour its victory. It has shown the importance of strong institutions in fragile democracies. Independent judges, a vibrant civil society, a feisty press, a strong parliament—they all make it harder for a dodgy incumbent to cling to power. Their steady if uneven rise across the continent is one reason why there have been 32 peaceful changes of power in Africa since 2015—and why 19 of these have involved an incumbent having to stand aside. Malawi is a sign that African politics is becoming more competitive. And politicians and parties that have to compete have more of an incentive to deliver improvements to voters’ lives, in Africa as anywhere else. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/07/02/malawis-re-run-election-is-a-victory-for-democracy

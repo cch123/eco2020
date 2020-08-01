@@ -33,3 +33,7 @@ Military lasers have also benefited from progress in materials science. The heat
 Another advance has been adaptive optics—a set of techniques that use special sensors and deformable mirrors to compensate, in real-time, for distortions caused by Earth’s atmosphere (think of the twinkling of stars). This technology, which enables military lasers to be aimed accurately, was pioneered in secret laboratories in the 1980s and then declassified in the 1990s, to the considerable delight of astronomers, who use it to adjust their telescopes. Last year the American air force’s Starfire Optical Range in New Mexico approached industry to develop a new and powerful sodium laser (one that energises the sodium atoms in a layer of the atmosphere called the mesosphere, to create artificial “guide stars”). This would refine adaptive optics for both astronomical and military purposes.
 
 The next challenge is to soup lasers up still further, so they can take aim at large missiles, as well as the small ones that the Preble and Stryker weapons will be aimed at. The goal, according to Mr Karr, is to achieve 300kW by 2022 and 500kW by 2024. These will be demonstration devices, rather than battlefield-ready. But, a century and a quarter after Wells’s vision, it looks as though the ray gun is at last a reality.■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/03/05/laser-weapons-are-almost-ready-for-the-battlefield

@@ -29,3 +29,7 @@ The biggest threat to the Midwest is that it turns away from others. A misguided
 Leaders and voters should instead look for ways to open up. Companies, universities and cities, especially, should be urging national change. They need only look to booming Toronto to see how higher immigration drives growth. The most successful places are the most open. Grand Rapids wins by encouraging foreign investors and ideas. The universities of the Midwest need foreign students and staff, just as big companies seek talent from anywhere. Cities like Chicago, Minneapolis and Pittsburgh consider themselves open, welcoming and diverse. Those are values that have stood the Midwest well. They should do again.■
 
 Dig deeper:Sign up and listen to Checks and Balance, our [weekly newsletter](https://www.economist.com//checksandbalance/) and [podcast](https://www.economist.com//podcasts/2020/07/17/checks-and-balance-our-weekly-podcast-on-american-politics) on American politics, and explore our [presidential election forecast](https://www.economist.com/https://projects.economist.com/us-2020-forecast/president)
+
+## URL
+
+https://www.economist.com/special-report/2020/07/23/dont-be-the-next-cahokia

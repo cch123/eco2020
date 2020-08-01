@@ -23,3 +23,7 @@ Smaller clusters have emerged in other parts of the country and have been met wi
 Many of Beijing’s 21m people, like others elsewhere in China, appear confident in the government. “Dammit!” blurts a Mr Li, a shopkeeper in Chaoyang, a district in eastern Beijing. “I really thought we had made it through. It’s awful!” he says. But he says he accepts the need for new restrictions and that he believes they will succeed. If normal life is severely disrupted for long, however, patience may wear thin among those who have suffered blows to their livelihoods or education. That may have been on Mr Xi’s mind when he stressed stability. Officials will go all out in their efforts to crush this outbreak, not least to keep him happy. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/china/2020/06/18/an-outbreak-in-beijing-of-covid-19-is-causing-alarm

@@ -29,3 +29,7 @@ A public struggle for supremacy will draw attention to an institution as peculia
 The ECJ is slowly growing used to the glare of public attention. An older judicial doctrine that the court communicates only through its judgments has been abandoned. Although proceedings are still not televised, the idea has been discussed internally. The court’s president does more interviews than his predecessor, treating journalists to thorough lectures in European law that drop out of his mouth in fully formed chapters.
 
 European voters have yet to realise how powerful the court has become. Any American who reads a newspaper can name a couple of Supreme Court judges, but even the biggest EU nerd would struggle to name their European peers. Few wish to replicate America’s politicisation of judicial appointments. But the court’s increasing impact on the lives of EU citizens should be accompanied by greater scrutiny. Walter Bagehot once argued that the monarchy’s defenders “must not let daylight in on the magic”. Courts require less mystery. The wizards of Luxembourg have nothing to fear from letting in more light. ■
+
+## URL
+
+https://www.economist.com/europe/2020/05/21/the-wizards-of-luxembourg

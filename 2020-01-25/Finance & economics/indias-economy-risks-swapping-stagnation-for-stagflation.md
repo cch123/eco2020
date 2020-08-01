@@ -25,3 +25,7 @@ Stagflation usually begins with a setback to supply, such as India’s unseasona
 The problem is that before inflation disappears, Indians may start believing it will stay, making it more likely to persist. In most rich countries that have adopted inflation-targeting, headline inflation usually falls back into line with core measures, which reflect the strength of demand better. But in India the opposite is true. Core inflation usually converges towards the headline number, which reflects more accurately the drain on people’s pockets.
 
 The RBI’s inflation-targeting framework, which it adopted in 2015, was supposed to fight this tendency. It was meant to convince people that the central bank’s inflation target of 4% was a better guide to future inflation than the prices quoted at Crawford market and other emporiums across the country. But the framework has “yet to be fully tested”, according to a recent lecture by Raghuram Rajan, the former RBI governor who introduced it. Mumbai’s chefs will hope it passes the thorough examination it will now undergo.■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/01/23/indias-economy-risks-swapping-stagnation-for-stagflation

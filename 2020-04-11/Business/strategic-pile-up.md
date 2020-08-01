@@ -29,3 +29,7 @@ So will those stemming from protected firms’ tendency to grow bloated, ineffic
 The second reason for governments to go easy on strategic protectionism is that it risks ushering in the baleful logic of the prisoner’s dilemma. Actions that appear to be in the interest of individual countries lead to a nationalistic, distrustful world that is bad for everyone. The present scramble for medical equipment is causing bitter rows, even between allies. Germany has accused America of diverting shipments of face-masks bound for Europe, decrying its actions as “modern piracy” and “Wild West tactics”. After the EU’s ban on the export of medical equipment, Aleksandar Vucic, Serbia’s president, declared that European solidarity “does not exist”.
 
 The more that some states pursue such policies, the more it becomes rational for others to do the same. That risks leaving the world divided in the face of the next crisis, whether that is another pandemic, the next financial crash or a slow-burn disaster such as climate change. A few industries may indeed be “strategic”. But governments should anoint them cautiously. ■
+
+## URL
+
+https://www.economist.com/business/2020/04/08/strategic-pile-up

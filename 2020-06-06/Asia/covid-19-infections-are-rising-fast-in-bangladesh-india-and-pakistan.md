@@ -31,3 +31,7 @@ Inevitably, the failure of all three countries to control the pandemic has led t
 Perhaps the most egregious errors were made by India’s government. Despite imposing the most stringent and heavily policed restrictions in the region, the government failed to foresee that its measures might prompt a mass exodus from cities of tens of millions of migrant workers made suddenly destitute. The authorities first tried to block the movement, bottling migrants in urban slums with the highest infection rates, and then allowed perhaps 20m workers to leave, spreading the disease across the country. In Bihar, a state whose 110m people are among India’s poorest, more than two-thirds of covid cases identified so far have been among returning migrant workers.
 
 Whatever the cause, the damage is now done. Farid Uddin, a gravedigger in the Bangladeshi port city of Chattogram (formerly Chittagong), comes close to tears as he explains that he and his team have scarcely slept in four days. “There are so many deaths,” he gulps. “We are overwhelmed. Please pray for us so Allah forgives us and takes back this disease.” ■
+
+## URL
+
+https://www.economist.com/asia/2020/06/06/covid-19-infections-are-rising-fast-in-bangladesh-india-and-pakistan

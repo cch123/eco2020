@@ -33,3 +33,7 @@ Even the apparent short-term benefits to wages are a poor economic argument for 
 As America ages, it will need a lot more people willing to work in health care. Study after study finds a positive association between immigration and long-run economic growth—and therefore, ultimately, the living standards of all Americans. The Trump administration’s immigration restrictionism may achieve a temporary boost in wages of the low-paid now, but at a cost to the country’s future prosperity.■
 
 For more on this story listen to [Economist.com/podcast/checksandbalance](https://www.economist.com/http://Economist.com/podcast/checksandbalance)
+
+## URL
+
+https://www.economist.com/united-states/2020/02/13/immigration-to-america-is-down-wages-are-up

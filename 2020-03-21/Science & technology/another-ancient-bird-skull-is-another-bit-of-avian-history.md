@@ -19,3 +19,7 @@ A. maastrichtensis does indeed turn out to be a member of the Neornithes. Specif
 As to what it looked like when alive, the animal’s left femur, its best-preserved bone besides those of its skull, suggest A. maastrichtensis was a long-legged creature that strutted around. This, and evidence that the rocks it was preserved in were originally part of a fossil shoreline, has led to reconstructions that somewhat resemble a modern wading bird.
 
 As the example of A. maastrichtensis shows, a single fossil can help to nail down previously uncertain dates. Estimates of the date of origin of the Neornithes, based on so-called molecular clocks, which attempt to use mutation rates to determine when the most-recent common ancestors of organisms now alive were themselves alive, had suggested dates ranging from 139m to 89m years ago. Dates from fossils are more accurate. Based on the discovery of A. maastrichtensis, the smart money is now on the Neornithes as a group being only a little older than the dinosaur-killing impact itself.■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/03/19/another-ancient-bird-skull-is-another-bit-of-avian-history

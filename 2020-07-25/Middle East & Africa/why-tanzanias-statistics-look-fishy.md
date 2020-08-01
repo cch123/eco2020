@@ -39,3 +39,7 @@ Mr Magufuli avoids sunlight in other areas, too. Tanzania stopped reporting on c
 The government says the economy will grow by 5.5% in 2020. That would probably make Tanzania the best-performing economy in the world. The IMF predicts a more modest 1.9%
 
 With an election looming, the government’s economic record is facing fresh scrutiny. Bernard Membe, a former foreign minister who has defected to the opposition, says growth is “exaggerated” and “in fact is less than 3%”. What about Tanzania’s middle-income status? “A very big joke,” says Mr Membe. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/07/23/why-tanzanias-statistics-look-fishy

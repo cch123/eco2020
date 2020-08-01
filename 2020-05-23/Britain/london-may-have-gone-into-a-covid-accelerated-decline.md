@@ -39,3 +39,7 @@ Lisa Taylor of Coherent Cities, a consultancy, remains optimistic. “The next t
 London is unlikely to slip back into the dismal state it was in before the mid-1980s. It is likely to remain richer and more productive than the rest of Britain. It will remain Europe’s most powerful magnet for talented immigrants. Still, its pulling power is likely to wane. If that happens, Britain’s economy will probably suffer. But a less centralised country, in which opportunity was more evenly distributed, might be a better place in other ways.■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/05/23/london-may-have-gone-into-a-covid-accelerated-decline

@@ -33,3 +33,7 @@ Mr Sandbu is more interested in justifying his proposals from several angles. Li
 On a fundamental level, these books are similar in attitude. Messrs Sandbu and Sperling both combine a basic support for free markets with a fear of their power. It is precisely because incentives are so potent that competitive forces must not be allowed to go haywire, as when firms gain an edge by reclassifying their workers as contractors, or by moving to tax havens. Such races-to-the-bottom define many of the policy failures of recent history.
 
 And both books highlight the moral blind spots that many liberals and economists think have been exposed by the era of globalisation (and perhaps by the pandemic, too). Clarifying those problems, and finding solutions that avoid compromising too much on freedom and free markets, is crucial work. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/06/11/two-authors-wrestle-with-inequality-and-the-allure-of-populism

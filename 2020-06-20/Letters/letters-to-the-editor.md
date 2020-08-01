@@ -61,3 +61,7 @@ FR PHILIP-THOMAS EDWARDSLondon
 Some of Johnson’s more erratic acts, such as comparing himself to Jesus Christ, could be chalked up to his extreme alcoholism. Trump, a life-long teetotaller, has no such excuse.
 
 SCOTT PLATTONPrinceton, New Jersey
+
+## URL
+
+https://www.economist.com/letters/2020/06/20/letters-to-the-editor

@@ -37,3 +37,7 @@ Vera Songwe of the UN Economic Commission for Africa hopes to find another solut
 There is not much time to act. African bond issuers face a wall of payments starting in 2022 (see chart). Many hope they are just experiencing a short-term cash crunch. But unless their economies rebound quickly—or they get more help from the rich world—a wave of defaults seems inevitable. If so, it may be better to take the hit and restructure debt now, while hoping that credit markets have short memories. Ken Ofori-Atta, Ghana’s finance minister, pointed out in a webinar hosted by Harvard University that rich countries were taking extraordinary measures to protect their economies, while telling Africans to stick to the rules. “You really feel like shouting: ‘I can’t breathe,’” he said. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/06/06/african-governments-face-a-wall-of-debt-repayments

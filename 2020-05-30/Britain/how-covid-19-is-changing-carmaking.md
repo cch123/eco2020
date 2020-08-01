@@ -25,3 +25,7 @@ Carmakers are starting slowly and tentatively, partly to test new procedures and
 If demand rebounds carmakers may struggle to keep up. Toyota reckons it will take three months before it hits previous production levels. Others reckon output will probably be permanently crimped but by how much is unclear. Vauxhall will start by making 125 cars a day at Ellesmere Port compared to 360 before the virus struck. It expects to get back to only 85% of its previous output. Adapting factories and work patterns, supplying protective gear and the like, comes at a cost. But the alternative, for now, is not making cars at all.■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/05/28/how-covid-19-is-changing-carmaking

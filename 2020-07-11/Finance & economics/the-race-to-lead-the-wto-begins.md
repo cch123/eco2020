@@ -23,3 +23,7 @@ The race will probably also highlight the tendency of the WTO’s constituents t
 Expect the months ahead to reveal the disconnect between candidates’ ambitions and what the institution can achieve. Ms Okonjo-Iweala has pledged to mediate between America and China. Good luck with that. Egypt’s Abdel-Hamid Mamdouh has promised to “reboot” the WTO’s ability to negotiate new rules. But the director-general can only move as far as the members want—and members do not want to make the concessions needed.
 
 The victor would therefore inherit a difficult job—if, that is, one is eventually chosen. In today’s fraught circumstances, consensus may not be reachable. The bar is low enough that the appointment of any director-general would count as a success. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/07/09/the-race-to-lead-the-wto-begins

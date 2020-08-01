@@ -27,3 +27,7 @@ Like a glacier, their rule could have a chilling effect on the lands beneath it.
 In recounting these stories, Mr Rady may at times overestimate his readers’ familiarity with his material and, perhaps, their appetite for it. “Leopold I”, he writes, “is often criticised for spending too much on opera and too little on architecture, but this is unfair”—a useful corrective to the Leopold-and-opera camp but less interesting for others. Elsewhere his book seems exhaustive as much as definitive.
 
 Nonetheless, it has fascinating moments. The story of the Habsburgs, whose last emperor died in 1922, is indelibly inscribed in European history. Dante popped a Habsburg in his Purgatory, Titian immortalised them and Velazquez painted for them. The creator of the original Mechanical Turk made his metaphor to amuse them. Pre-20th century Europe is unthinkable without the Habsburgs—as indeed is 20th-century Europe. For on June 28th 1914 a Habsburg named Archduke Franz Ferdinand got into an open-topped car and went for a drive in Sarajevo. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/05/28/the-habsburgs-marriages-consolidated-lands-as-well-as-faulty-genes

@@ -47,3 +47,7 @@ Mr Piketty waves away such concerns in a few paragraphs, an oddly brief discussi
 This book may well become as famous as “Capital”. But it is hard not to conclude that, deep down, Mr Piketty believes the worth of a society is measured by its Gini coefficient alone. For all his flair and learning, that is a mistaken ideology. ■
 
 Listen to our interview with Thomas Piketty on “The Economist Asks” at [economist.com/thomaspiketty](https://www.economist.com//thomaspiketty)
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/03/05/a-bestselling-economist-sets-out-the-case-for-socialism

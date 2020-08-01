@@ -19,3 +19,7 @@ But more needs to be done to protect the Acropolis from greedy property develope
 Dimitris Pandermalis, an archaeologist who runs the nearby Acropolis museum, home to sculptures from the temples and other treasures, notes that the ancient Athenians used a simple formula to prevent overbuilding. Less than a century after the Parthenon was completed, a decree was passed making it illegal for a private building to stand higher than a public one. Perhaps today’s rules would be better respected if developers had to worry about being presented with a cup of hemlock. ■
 
 Correction (24th July 2020): This article initially stated that Coco-Mat is controlled by Libra Group, a Greek-American shipping group. Libra Group says it is an investor in Coco-Mat’s mattress arm, but has no involvement in its hotel business or in the hotel in question.
+
+## URL
+
+https://www.economist.com/europe/2020/07/25/a-hotel-developer-in-athens-obstructs-the-acropolis

@@ -63,3 +63,7 @@ Tencent and Alibaba’s greatest impact, however, may have been to awaken anothe
 The most strategic of its offspring is probably OneConnect, the startup that listed in New York in December. The firm offers cloud-based services that cover everything, from back-office to client-facing tasks. Its first foreign outpost, opened in 2018 in Singapore, has grown to 200 staff. It now serves 47 clients in 16 overseas markets. Those include Thailand, where it is poised to power the credit-card processing of a top-three bank, and Europe.
 
 Covid-19 could help. With staff stuck at home, banks across the world are looking to move data-hungry processes like risk management online. OneConnect has launched a charm offensive to capture the business—this time without boarding a plane. ■
+
+## URL
+
+https://www.economist.com/special-report/2020/05/07/the-financial-worlds-nervous-system-is-being-rewired

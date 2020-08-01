@@ -33,3 +33,7 @@ Sunetra Gupta, an epidemiologist at Oxford, argues that natural immunity to covi
 As for the mystery of the origin of covid-19, more answers will come when the WHO mission takes place, perhaps in August. The critical steps that led a South-East Asian bat virus to start a pandemic could have happened inside or outside of China—whether in wild-animal markets or farms, or in traders or hunters. The virus may have jumped directly from bats into people, or come via an intermediate species. The story is waiting to be told. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/07/22/the-hunt-for-the-origins-of-sars-cov-2-will-look-beyond-china

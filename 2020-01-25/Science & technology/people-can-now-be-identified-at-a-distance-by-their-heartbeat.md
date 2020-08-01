@@ -23,3 +23,7 @@ Confirming the identity of enemy targets is not the only job imaginable for this
 Nor need vibrometry be restricted to optical frequencies. A team at the State University of New York, Buffalo, led by Xu Wenyao, is designing a device that emits radio waves and captures return signals that have bounced off, and been modified by, a person’s vibrating chest cavity. The advantage of this approach is that it can penetrate materials opaque to light waves, such as walls and heavy clothing. A prototype can, says Dr Xu, read heartprints from as far away as 50 metres.
 
 Dr Xu envisages markets for the device ranging from cardiac diagnostics to the identification of authorised users of computers and vehicles. Governments, he says, could employ the technology to identify masked protesters. He does note, though, that this could be stymied by protesters wrapping their torsos in tinfoil—a version of the tinfoil hats allegedly loved by those paranoid about government snooping, perhaps. But this time, one that works.■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/01/23/people-can-now-be-identified-at-a-distance-by-their-heartbeat

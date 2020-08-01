@@ -19,3 +19,7 @@ Mr Trzaskowski was hardly someone to horrify elderly Catholics, much though PiS 
 In the wake of Mr Duda’s victory, the ruling party must decide how to govern. Should it double down on a winning strategy, further limiting abortion for instance, and continuing its efforts to bend what is left of Poland’s independent judiciary to its will? Brussels will not stop it. If Europeans cannot summon the will to punish the blatant violations of democratic norms in Hungary, they are unlikely to punish Poland’s lesser sins.
 
 The alternative is to tack to the centre. That would be the wiser course of action—for both Poland and PiS. Poland remains a conservative country, but it is steadily becoming less so. Economic growth is gradually transforming the countryside. Unlike Hungary, Poland is still a pluralist and vibrant place, with strong institutions and a fearless press, though PiS is trying to muzzle it. If it knows what is good for it, the ruling party will dial down the hate mongering, and shift to where more voters are, as some of its moderates want. The opposition, meanwhile, should keep trying to hold it to account, and prepare for the next election. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/07/18/a-nasty-election-in-poland

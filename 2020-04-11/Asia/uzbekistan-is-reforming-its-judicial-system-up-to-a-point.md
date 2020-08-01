@@ -21,3 +21,7 @@ The case that most clearly embodies these tensions is that of Gulnara Karimova, 
 Conducting Ms Karimova’s trial “behind closed doors, and in violation of due-process norms, does a disservice to the Uzbek government’s efforts to show that the court system has fundamentally improved”, argues Steve Swerdlow, a lawyer. Advocates of reform also worry about two other recent closed trials. In January Kadyr Yusupov, an ex-diplomat who suffers from schizophrenia and who was arrested after a suicide attempt, was jailed on espionage charges. In March, Vladimir Kaloshin, a journalist for a military newspaper, received a 12-year sentence for treason after proceedings that featured no defence witnesses. His daughter, Anastasiya Episheva, says it was “not a trial but a travesty”.
 
 These investigations were led by the State Security Service, a feared intelligence agency which Karimov used to silence dissidents, but which Mr Mirziyoyev has reined in. Some observers suspect that these secret policemen, whom the president once labelled “mad dogs”, are trying to prove their worth by uncovering phantom plots. Whatever their motivation, the intelligence services’ continued clout creates a “climate of fear” and “adversely affects” judicial independence, a UN rapporteur concluded last year. ■
+
+## URL
+
+https://www.economist.com/asia/2020/04/08/uzbekistan-is-reforming-its-judicial-system-up-to-a-point

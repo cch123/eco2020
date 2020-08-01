@@ -21,3 +21,7 @@ How to interpret all the high-altitude hot air? In truth, there are few surprise
 As for the transatlantic trade relationship more broadly, Mr Trump’s statements this week were hardly new. They will not generate anything more than a shallow trade deal with the EU—though that might suffice for Mr Trump. Mr Azevêdo has no concessions to offer the president, as the WTO is driven by its members.
 
 Even Mr Trump’s truce with Mr Macron may involve less than meets the eye. On January 22nd Bruno Le Maire, France’s finance minister, admitted that the biggest sticking point—that America wants companies to be able to opt out of an international tax agreement—had not been addressed. As The Economist went to press the squabbling parties were due to hold more meetings. Some still hope a deal can be forged before the end of this year, under the auspices of the OECD, a multilateral forum. If not, an almighty punch-up looms. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/01/25/despite-a-truce-us-eu-trade-relations-are-still-tense

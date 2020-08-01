@@ -25,3 +25,7 @@ By building roads in the western highlands, the source of many migrants, and att
 He has little to say about how Guatemala will handle America-bound migrants from other countries. He has not seen the details of an unpopular “safe-third country agreement” struck behind closed doors by Mr Morales and President Donald Trump, under which the United States can deport back to Guatemala asylum-seekers who passed through the country. “I have not said I am against it. I have not said I am in favour,” says Mr Giammattei. “I have said: give me the papers.”
 
 He cannot back out of the agreement without angering Mr Trump. So his hope will be that few of the deported migrants will stay in Guatemala. There seems little danger of that. Among the 33 Hondurans and Salvadoreans who arrived at a shelter in Guatemala City on January 6th, just one plans to seek asylum in the country, Mauro Verzeletti, the priest in charge, told local media. Most will return home. If Mr Giammattei succeeds in restoring hope to Guatemala, migrants’ plans might change. ■
+
+## URL
+
+https://www.economist.com/the-americas/2020/01/09/guatemalas-new-president-alejandro-giammattei-outlines-his-plans

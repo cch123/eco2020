@@ -21,3 +21,7 @@ In a working paper Mr Baseler suggests ways in which this economy with the truth
 City streets are not paved with gold, of course. Newcomers often huddle in overcrowded slums. Linda Adhiambo Oucho of the African Migration and Development Policy Centre, a think-tank in Nairobi, says that many migrants are surprised by the hardships of urban life, including the high costs of rent, transport and electricity. Some families even send food from the village to struggling relatives in town.
 
 However, only a quarter of the migrants whom Mr Baseler surveyed said that their quality of life was lower in the city than at home. Over half said that it had improved. Moving to the city brings fresh opportunities, as well as guilt-inducing phone calls from needy relatives.■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/04/08/why-urban-migrants-understate-how-much-they-earn

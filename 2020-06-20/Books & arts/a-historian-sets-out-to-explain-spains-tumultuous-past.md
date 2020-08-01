@@ -31,3 +31,7 @@ Despite everything, though, Spain became a developed and socially tolerant democ
 Why has Spain’s history been so tragic? Spaniards are rightly fed up with being cast by foreigners as violent fanatics, and a backward exception in Europe. Mr Preston, too, rejects that. Most historians highlight a weak state, difficult geography with industrialisation mainly in peripheral regions, an army that refused to accept the loss of empire, and missed political opportunities. “Too many setbacks”, as Santos Juliá, a Spanish historian who died last year, entitled his final book.
 
 While disgust at corruption has played a role, the political strains of today owe more to the slump and the emergence of rival populisms in the form of Catalan nationalism, Podemos (with its mixture of Leninism and Peronism) and Vox. In this respect, contemporary Spain looks like the rest of Europe as much as like its own past. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/06/18/a-historian-sets-out-to-explain-spains-tumultuous-past

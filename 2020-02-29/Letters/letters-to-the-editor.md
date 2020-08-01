@@ -65,3 +65,7 @@ CHARLES MORTELMANLondon
 Regarding [Bartleby](https://www.economist.com//business/2020/01/23/the-number-of-the-best)’s “The number of the best” (January 25th) I have always understood that the ideal size of a committee is an odd number less than three.
 
 PETER WILSONKenilworth, Warwickshire
+
+## URL
+
+https://www.economist.com/letters/2020/02/29/letters-to-the-editor

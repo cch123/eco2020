@@ -29,3 +29,7 @@ This resistance spooks investors. The government’s relatively paltry targets f
 But even if the government is timid, investors can still make a difference, Mr Tanaka argues. Several of Japan’s big multinationals have pledged to switch to clean power on a scale and schedule that put the government’s targets to shame. Environmental activism has made banks and businesses wary of investments in coal. Even big utilities have come to see business opportunities in renewables, especially in the government’s imminent auction of sites for offshore wind plants. Two of them, Tohoku Electric Power and Tokyo Electric Power (TEPCO), have announced plans this year to issue “green bonds” to finance renewables projects. In March TEPCO established a joint venture with Orsted, a Danish oil firm that has become a pioneer in offshore wind. Despite the sluggish pace of change, Mr Yamada remains sanguine. Japan is like a tortoise, he suggests, which may eventually catch up with the hare. ■
 
 Sign up to our fortnightly climate-change newsletter [here](https://www.economist.com//theclimateissue/)
+
+## URL
+
+https://www.economist.com/asia/2020/06/13/the-reinvention-of-japans-power-supply-is-not-making-much-headway

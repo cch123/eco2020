@@ -25,3 +25,7 @@ Mr Sanders also nodded to the town-hall tradition, at a rally in Derry the next 
 Mr Sanders will be hard to beat in the Granite State. Renny Cushing, the state legislator who introduced him, said that “Bernie has had an impact on our state for decades,” crossing the border to join picket lines and support workers trying to unionise. Though Elizabeth Warren represents New Hampshire’s southern neighbour, Mr Sanders has been in politics longer; people seem to know him better, and at least in that room, they liked him more. After that small triumph, Mr Sanders and the rest continued trundling along the state’s narrow, winding roads, looking for one more mic to grab, one more hand to shake.■
 
 Dig deeper:Sign up and listen to Checks and Balance, our new [newsletter](https://www.economist.com//checksandbalance/) and [podcast](https://www.economist.com//podcasts/2020/04/24/checks-and-balance-our-weekly-podcast-on-american-politics) on American politics
+
+## URL
+
+https://www.economist.com/united-states/2020/02/08/waiting-for-bernie-in-new-hampshire

@@ -27,3 +27,7 @@ The outbreak has probably spread more widely than it might have given the recent
 During the May holiday weekend, Jeju felt little changed from before the pandemic, bar a dearth of Chinese tour groups. Beaches, coffee shops and bike lanes were packed with visitors, many of whom appeared to have left their face masks at the airport. A guesthouse-owner on the island, who caters mainly to tourists in their 20s, says that occupancy has reached around 80% of the typical level: “Everything is starting to get back to normal.” Unfortunately, periodic surges in infections and consequent adjustments to the rules are also likely to become normal. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/asia/2020/05/16/infections-at-nightclubs-mar-south-koreas-relaxation-of-restrictions

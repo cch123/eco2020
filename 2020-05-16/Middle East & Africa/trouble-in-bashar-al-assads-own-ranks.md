@@ -27,3 +27,7 @@ Russia, which also backs Mr Assad, may not mind seeing Iran go. It wants its own
 With the regime in disarray some think Mr Assad might be more willing to negotiate a political solution with the rebels. Russia wants a settlement in order to convince Western powers to help fund reconstruction. Under one (optimistic) scenario, Mr Assad would accept a new constitution that devolves powers to a more conciliatory prime minister ahead of presidential elections next year.
 
 Good luck with that. Mr Assad appears as stubborn as ever. Russian diplomats paint him as a disobedient client. Criticism of him is increasing in Russian media. Some reports even suggest that President Vladimir Putin would prefer to deal with someone else. But no alternative has emerged. No matter how much Mr Assad alienates his allies—and his own people—they appear stuck with him. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/05/16/trouble-in-bashar-al-assads-own-ranks

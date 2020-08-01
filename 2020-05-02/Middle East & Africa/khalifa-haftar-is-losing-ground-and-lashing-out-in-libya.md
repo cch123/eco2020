@@ -27,3 +27,7 @@ The warlord is unlikely to receive a knockout blow. The militias that support th
 Meanwhile, the head of the UN mission in Libya, Ghassan Salame, bowed out in March. “I can no longer continue with this level of stress,” he said. His successor, as yet unnamed, will be the fourth person to hold the job since 2014. Trying to put Libya back together is an exhausting task. 
 
 Correction (May 11th 2020): A previous version of the map in this article showed the al-Watiya air base in the wrong place. This has now been corrected. Sorry.
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/05/02/khalifa-haftar-is-losing-ground-and-lashing-out-in-libya

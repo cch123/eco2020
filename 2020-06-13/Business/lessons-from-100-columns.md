@@ -31,3 +31,7 @@ At the top, a focus solely on shareholder value, associated with the 1990s boom,
 The monetary rewards of managers are linked to financial targets, rather than these broader criteria. The task for the next few years is to find ways to measure the executive’s success in dealing with staff and other stakeholders, when clear yardsticks are hard to find.
 
 Indeed, lack of clarity is the besetting sin of managers (and management theory). Bartleby has had much opportunity to mock the jargon used in corporate statements. If managers cannot express themselves clearly, that suggests to staff that they are not thinking clearly either. So here is a plea to executives. Next time you write a memo, show it to a relative and ask if they understand it. If they don’t, throw it in a bin and start again.
+
+## URL
+
+https://www.economist.com/business/2020/06/11/lessons-from-100-columns

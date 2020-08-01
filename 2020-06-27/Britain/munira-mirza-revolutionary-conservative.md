@@ -27,3 +27,7 @@ Ms Mirza is in the vanguard of this revolution. She rejects beliefs widely accep
 Ms Mirza brings a sharp and well-informed voice to an important area. But she also has a dangerous appetite for iconoclasm and polarising rhetoric, and her passionate individualism offers few policy solutions to the problems of racism and limited opportunities available to black people.
 
 Britain’s debate about race is calmer than America’s. Politicians as different as Theresa May, a former prime minister, and David Lammy, an eloquent black Labour MP, agree on important points. Ms Mirza needs to temper her combative instincts with pragmatism, or risk turning it into another front in the culture war. ■
+
+## URL
+
+https://www.economist.com/britain/2020/06/25/munira-mirza-revolutionary-conservative

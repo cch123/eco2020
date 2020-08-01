@@ -21,3 +21,7 @@ Kyrgyzstan recently adjusted its statistics to include probable covid-19 cases p
 Gurbanguly Berdymukhamedov, Turkmenistan’s president, could not be accused of being uncaring, however. After his fishing trip, he magnanimously donated his catch to an orphanage. The children duly trooped out on state television to express their awe and gratitude, all safely protected from dust by spotless face masks. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/asia/2020/07/23/central-asian-governments-admit-they-have-a-problem-with-covid-19

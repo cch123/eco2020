@@ -25,3 +25,7 @@ Yet most experts think border controls are largely useless for protecting areas 
 There may be a case for governments to introduce checks as part of a suite of actions to convince citizens that the threat is serious enough to warrant adjusting their behaviour: border controls as theatre. But that must be set against the costs of such measures, from the risk of blocking goods transport to shoving airlines into bankruptcy. Ultimately, says Dirk Brockmann at Humboldt University in Berlin, the effect of closing borders is marginal next to social-distancing measures designed to limit interpersonal contact. That lesson may be getting through. Five European countries, including Austria, have now introduced draconian rules banning citizens from leaving home under most circumstances. The new coronavirus will be defeated inside borders, not at them. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/03/19/why-europes-new-border-controls-wont-help-much

@@ -55,3 +55,7 @@ Abigail, a 32-year-old charity worker in Brussels, says that her student neighbo
 Talking to friends and family over video calls helps, too—though the clunkiness of much of the software makes them an imperfect substitute for an encounter in person. A pixelated version of spending time with a friend merely slows down the “rate of decay” of that relationship, says Professor Dunbar, but will never be able to replace the experience of seeing someone in the flesh. “You have to see the eyeballs—the whites of the eyes—and be able to physically hold on to them,” he says, in order to maintain a friendship and feel a social bond. For Claudia that moment will come when her football team, which for her is both exercise and a kind of group therapy, can meet up once more, rather than just chat virtually. “It is going to be beautiful,” she says. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/international/2020/04/04/how-will-humans-by-nature-social-animals-fare-when-isolated

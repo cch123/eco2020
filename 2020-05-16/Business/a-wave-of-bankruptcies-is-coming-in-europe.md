@@ -27,3 +27,7 @@ The other weak link is Europe’s 25m small and medium-sized enterprises (define
 Behemoths have been rescued by the state, as so many jobs depend on them. France and the Netherlands are providing a taxpayer-funded bail-out of about €10bn to salvage Air France-KLM from bankruptcy. Germany will follow with a bail-out for Lufthansa. Small businesses will suffer most in spite of short-term work schemes, cash payments, delays to tax deadlines and credit guarantees. But never before have governments done so much to try to help them avoid the Schuldturm—the prison tower that was the destination, in the past, for those who couldn’t pay their debts. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/05/16/a-wave-of-bankruptcies-is-coming-in-europe

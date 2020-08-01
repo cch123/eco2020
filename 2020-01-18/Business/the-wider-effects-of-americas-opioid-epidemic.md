@@ -29,3 +29,7 @@ Second, the epidemic presents a strong argument for government intervention. It 
 The authorities have reacted, with 25 states passing laws to regulate opioids use, starting with Massachusetts in 2016. Since 2017 the increase in deaths from opioid abuse seems to have halted. The academics also find some evidence of positive share-price gains for companies based in those states that passed regulations. Business doesn’t just need skilled employees; it needs workers who are free from addiction.
 
 * “Where Have All the Workers Gone? An Inquiry into the Decline of the US Labor Force Participation Rate”** “The Impact of the Opioid Crisis on Firm Value and Investment”, by Paige Ouimet, Elena Simintzi and Kailei Ye
+
+## URL
+
+https://www.economist.com/business/2020/01/16/the-wider-effects-of-americas-opioid-epidemic

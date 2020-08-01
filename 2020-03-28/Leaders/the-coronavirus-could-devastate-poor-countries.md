@@ -37,3 +37,7 @@ The rich world, meanwhile, should help the poor world swiftly and copiously. The
 As past campaigns against malaria and HIV showed, it takes a co-ordinated global effort to roll back a global scourge. It is too late to avoid a large number of deaths, but not too late to avert catastrophe. And it is in rich countries’ interests to think globally as well as locally. If covid-19 is left to ravage the emerging world, it will soon spread back to the rich one. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/leaders/2020/03/26/the-coronavirus-could-devastate-poor-countries

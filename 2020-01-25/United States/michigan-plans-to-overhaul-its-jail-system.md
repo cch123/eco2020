@@ -27,3 +27,7 @@ The second reason to watch Michigan is its bipartisan approach. A Democratic gov
 Changing laws at the federal and state level will not fix everything. The MacArthur Foundation, a grant-giving organisation, notes wide disparities in jail populations between counties within states, which suggests that training for local decision-makers, such as sheriffs too fond of jailing people, or allocating more money for local health services, could matter as much as legislative change from above.
 
 The opportunity in Michigan is to track the data to see how things change and for the parties to co-operate on policy. The jail population may not shrink back to levels of the early 1970s, but Michigan seems poised to take a hint from the Beatles lyric and make it better. ■
+
+## URL
+
+https://www.economist.com/united-states/2020/01/23/michigan-plans-to-overhaul-its-jail-system

@@ -47,3 +47,7 @@ Historically, technology has helped women into the workforce. Medical advances r
 The numbers of multi-generational households may increase as another burst of boomeranging begins. With universities and workplaces closed, many adult children have already moved back to be with their families. Even if family members don’t actually move in together, they may want to be closer to each other. Diseases do not always unite families. In his introduction to “The Decameron”, a set of stories about the 14th-century Black Death, Giovanni Boccaccio describes how the plague snapped familial bonds:
 
 This pandemic has not been without its own trials on family relations, or even worse—as the reports of increased domestic violence attest to. But it has also raised a kinder set of questions. Arrangements for care of the elderly and the very young are under the microscope. Adult children may take on more caring for their parents in future rather than countenance a care home; they may also be more aware of the value of having grandparents or other relatives nearby for child care. The family unit can be a source of danger for some and of irritation to many. Yet its role as a safety-net has also been thrown into sharper relief by the events of the past five months. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/06/04/the-family-unit-has-shaped-peoples-experience-of-covid-19

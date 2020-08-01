@@ -19,3 +19,7 @@ Rhodium is used in both petrol and diesel cars. That is because it is especially
 The small size of the rhodium market (just 792,000 ounces last year, about 1% of that of gold) makes it prone to huge price swings. In 2008, after mining in South Africa was interrupted by blackouts, the price climbed above $10,000 an ounce. This time, a lack of capital investment has squeezed supply, according to Impala Platinum, the world’s second-biggest platinum miner.
 
 Rhodium is expected to remain in high demand this year. BASF, a German chemicals giant, reckons that Chinese carmakers’ demand for the metal will increase by 40% in 2020. But because electric vehicles do not use catalytic converters, demand in the longer term is far from assured. Rhodium could quickly lose its sheen.
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/01/25/why-are-rhodium-prices-on-a-roll

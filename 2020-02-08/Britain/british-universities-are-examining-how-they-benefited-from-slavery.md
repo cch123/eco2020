@@ -27,3 +27,7 @@ But it was Glasgow, whose former rector, Robert Cunninghame Graham, had once bee
 Glasgow decided on a programme of “reparatory justice” instead of reparations. It teamed up with the University of the West Indies (UWI) to create a new initiative, the Glasgow-Caribbean Centre for Development Research in Kingston, Jamaica. The programme focuses on three areas: research into health care, particularly diabetes, which is endemic to the Caribbean; into the degradation of the environment, especially along the coasts around the islands; and the creation of an online history museum that will be accessible to the whole region. At the suggestion of the UWI, Glasgow has promised to raise £20m—a symbolic figure—for the project over the next two decades. “People like to see their institution doing the right thing,” says the university’s chief operating officer, David Duncan. “This was the right thing to do.”
 
 Glasgow’s approach may indeed be ethical, but it is also self-interested. The university hopes that it will be helpful when it applies for funding for its Caribbean initiative to global bodies, such as the Global Challenges Research Fund and the Bill and Melinda Gates Foundation, which assess applications on a competitive basis. And for an institution whose business is study, studying its past wrongdoings hardly counts as penance. ■
+
+## URL
+
+https://www.economist.com/britain/2020/02/08/british-universities-are-examining-how-they-benefited-from-slavery

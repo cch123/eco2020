@@ -21,3 +21,7 @@ If Mr Orban is lucky in his enemies, he is even luckier in his allies. Fidesz is
 The tsunami of international criticism, in which Mr Orban has been labelled everything from an autocrat to a latter-day Hitler, will not bother the Hungarian leader or his acolytes. It is a fight they want to have. In their minds, the coming crisis is another chance to prove their critics wrong. They put such arguments in the same bracket as those who criticised Mr Orban’s government for erecting a fence and beating back—often literally—migrants and refugees at Hungary’s border during the migration crisis in 2015. Since then, similar hard-nosed policies have been adopted across the EU (usually minus the beating). Mr Orban does not mind being called a dictator. As long as he stops short of outright tyranny, he can paint foes as hysterical. He can also point out that other democracies grant the government extra powers during an emergency, and pretend his intentions are no different.
 
 Reining in Mr Orban will be hard, but not impossible. “The only language he understands is power and money,” says Andras Biro-Nagy of Policy Solutions, a research institute. Brussels has little legal power to stop Mr Orban, but it does have money. Stemming the flow of EU cash to Mr Orban’s government would hurt. So the EU should do it. And after a decade of ignoring his sins, the EPP should stop providing a figleaf of legitimacy to the bully of Budapest.■
+
+## URL
+
+https://www.economist.com/europe/2020/04/02/how-hungarys-leader-viktor-orban-gets-away-with-it

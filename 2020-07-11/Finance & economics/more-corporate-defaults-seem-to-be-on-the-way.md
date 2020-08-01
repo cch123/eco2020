@@ -27,3 +27,7 @@ A bounce-back in economic activity seems assured. But there is still much uncert
 History says you get the rally first, and then defaults peak: 2009 was a great year for corporate-bond returns even though plenty of firms stopped paying their creditors. Soon attention will move on. The next phase of the cycle is one of balance-sheet repair, says Max Blass of Morgan Stanley, a bank. Firms will pay down debt to lower their cost of credit—to avoid becoming a fallen angel, or perhaps even to become a rising star.
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/07/09/more-corporate-defaults-seem-to-be-on-the-way

@@ -47,3 +47,7 @@ Exposure also helps establish norms, defining what is considered beyond the pale
 Double standards abound. America indicted Russian officers for hacking the Organisation for the Prohibition of Chemical Weapons, but the NSA has itself run riot in international institutions. And practical deals have not survived contact with reality. An agreement in 2015 between Barack Obama and Xi Jinping, China’s president, to ban commercial espionage is widely deemed to have fallen apart.
 
 These divisions play out at the United Nations, where one group of experts, favoured by America and its allies, works parallel to a larger, Russian-dominated group. “What we’ve really seen is a kind of a fracturing of the process,” says Adam Segal of the Council on Foreign Relations. “There are some interesting ideas percolating through, but they will never be formalised or centralised in any important way.” So cyberspace remains a Wild West. ■
+
+## URL
+
+https://www.economist.com/united-states/2020/05/28/america-rethinks-its-strategy-in-the-wild-west-of-cyberspace

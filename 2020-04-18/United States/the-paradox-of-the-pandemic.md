@@ -29,3 +29,7 @@ The main explanation for this apparent contradiction is that politics is local. 
 This suggests America is fundamentally the same country of concerned, good-hearted citizens it ever was. Even when its national politics is seized by demagogues, responsibility and accountability matter in everyday governance. The unhappier flip-side is that this divergence helps explain why Americans can bear to put up with, and thereby sustain, such dreadful national politics. It plays a much smaller role in their lives than the apparent momentousness of its life-and-death issues might suggest. In the current catastrophe, that is a consolation. But it also stands in the way of the political renewal America so badly needs.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/united-states/2020/04/16/the-paradox-of-the-pandemic

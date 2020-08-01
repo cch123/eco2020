@@ -25,3 +25,7 @@ It may be happening. Since the beginning of March, Unison has recruited 40,000 n
 This article was updated on June 10th to reflect the position of JD Wetherspoon on the matter of payments to staff during the crisis.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/05/16/trade-unions-are-back

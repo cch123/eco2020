@@ -17,3 +17,7 @@ All this does not necessarily mean that the deal is dead. America, after all, sa
 Part of the problem is the ambiguity of the deal. The public parts of it make no mention of a ceasefire, beyond suggesting that the inter-Afghan talks may produce one. But there are two “implementing documents”—in effect, codicils that have not been published. Mike Pompeo, America’s secretary of state, says there was “a detailed set of commitments that the Taliban have made about the levels of violence that can occur”. The commander of American forces in Afghanistan, General Scott Miller, puts it more bluntly: “The United States has been very clear about our expectations—the violence must remain low.”
 
 American officials seem to be trying to talk the Afghan government into going along with the release of prisoners, in order to get the inter-Afghan talks going. That may yet happen, keeping the agreement broadly on track. But the events of the past few days suggest that the deal will be even harder to stick to than it was to strike. ■
+
+## URL
+
+https://www.economist.com/asia/2020/03/05/a-peace-deal-signed-then-america-and-the-taliban-resume-fighting

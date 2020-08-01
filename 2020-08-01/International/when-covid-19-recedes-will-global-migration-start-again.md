@@ -87,3 +87,7 @@ Covid-19 has shown that the freedom to migrate, which was always constrained, ca
 Eighteen states sued to have the rule scrapped. The week after, it was. “I felt incredibly relieved and excited. I called my mom and I was shouting,” recalls Ms Pushpita. She will be able to study. But many others won’t. On July 24th the Trump administration said that new foreign students who have not yet reached America will be barred if their classes are taught remotely. “As long as he’s in office, something else will pop up,” sighs Ms Pushpita.■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/international/2020/08/01/when-covid-19-recedes-will-global-migration-start-again

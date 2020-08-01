@@ -33,3 +33,7 @@ Turkey has not helped its case in the West. Its dalliance with Moscow, last year
 Though Turkey inflicted painful damage on the Syrian regime, its own casualties put Mr Erdogan in a tight spot at home. He was already under fire for his Syria policy, even among friends. Most Turks want the 3.6m Syrians living in Turkey to go. His threat to grant them free passage to Europe has played well at home. But if he cannot prevent Idlib’s collapse he will face further criticism for leaving Turkish troops vulnerable on the battlefield, without a clear mandate. Mr Erdogan enjoys a reputation as a neighbourhood tough who helped turn Turkey from a Western client state into a regional power. “A major setback in Idlib would be a major setback to his image,” says Galip Dalay of Oxford University.
 
 In the end, Messrs Erdogan and Putin face similar dilemmas. They want to contain the conflict, leaving Idlib as a buffer zone between Turkey and regime-held Syria. Vladimir Frolov, an expert on Russian foreign policy, points to the Donbas in eastern Ukraine as a model. Mr Assad, though, still wants to reclaim the last bits of his ravaged kingdom. Turkish ire and Russian insouciance may force him to back off, for now. But no one has a real solution for Idlib—and for the millions of exhausted, desperate civilians trapped inside. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/03/05/as-turkey-pounds-the-syrian-army-russia-wants-to-talk

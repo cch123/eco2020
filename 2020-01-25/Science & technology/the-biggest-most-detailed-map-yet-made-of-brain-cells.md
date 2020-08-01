@@ -37,3 +37,7 @@ With the hemibrain complete, FlyEM’s researchers expect to finish the rest of 
 In the future, the aim is to obtain connectomes for several strains of mouse and, eventually, several people too. Looking at the differences in wiring between typical and atypical brains might shed light on conditions such as schizophrenia and autism. Looking at the differences between human brains and those of other species may help explain just what it is that makes humans neurologically special.
 
 Dr Rubin estimates that assembling a mouse connectome would cost around $500m (more than ten times what FlyEM will have cost when finished). He is confident such a project could be started within ten years. A human-brain connectome would be orders of magnitude more difficult. But not, he reckons, impossible. In 1990, at the beginning of the Human Genome Project, he recalls that many scientists thought sequencing animal genomes would always be too expensive and difficult. Those detractors said that biologists should choose between mouse and human, since it would probably be impossible to do both. “And now”, he points out, “we have projects where we’re going to do 10,000 human-genome sequences.”■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/01/23/the-biggest-most-detailed-map-yet-made-of-brain-cells

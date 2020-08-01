@@ -19,3 +19,7 @@ One consistent measure that is available in most countries, but not China, is Go
 People who praise China for its handling of covid-19 would do better to look at Taiwan, a neighbouring democracy. China wasted valuable time in December by intimidating doctors who warned of a lethal virus. Taiwan swiftly launched tracing measures in January—and has suffered only seven deaths. ■
 
 Sources: Frey et al. (working paper); Google mobility reports; Boix et al. (2015); Maddison Project; World Bank; Em-Dat; Freedom House; Hale et al. (2020)
+
+## URL
+
+https://www.economist.com/graphic-detail/2020/06/06/democracies-contain-epidemics-most-effectively

@@ -21,3 +21,7 @@ Allowing for different rates of return, the paper’s headline results suggest t
 But does it make sense to count only private wealth? In another new working paper Sylvain Catherine, Max Miller and Natasha Sarin of the University of Pennsylvania argue that accrued entitlements to Social Security should also be included. Someone with access to a public pension is surely better off than someone without. Crucially, too, an expansion of Social Security means that poorer folk have less need to save for retirement. That distorts measures of wealth inequality which count only private nest-eggs. (Sweden, surprisingly enough, has very high private-wealth inequality, in part because of its cradle-to-grave welfare system.)
 
 In recent years the value of American Social Security wealth has jumped, in part because the population is ageing. It is also progressively distributed. Messrs Smith, Zidar and Zwick’s paper apportions this wealth between rich and poor. As the chart shows, measured inequality falls, while the wealth share of the very richest has remained remarkably flat over the past two decades. America is a highly unequal society—but it is not becoming ever more so.■
+
+## URL
+
+https://www.economist.com/united-states/2020/05/07/have-the-top-01-of-americans-made-out-like-bandits-since-2000

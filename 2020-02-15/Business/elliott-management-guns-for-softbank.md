@@ -23,3 +23,7 @@ A buy-back is likely after the Sprint deal is complete, says Chris Lane of Berns
 Elliott wants SoftBank to create a new board committee to guide Vision Fund investments, which Mr Son has sometimes directed with little regard to opposition from colleagues. Mr Singer could agitate for the fund to be reduced in size over time.
 
 If SoftBank’s shares keep gaining in value, Elliott might simply cash in and exit. That would be easier than forcing the strong-willed Mr Son, who owns roughly a quarter of SoftBank, to reform. But Mr Singer is unlikely to depart without trying some of his signature psychological warfare. ■
+
+## URL
+
+https://www.economist.com/business/2020/02/13/elliott-management-guns-for-softbank

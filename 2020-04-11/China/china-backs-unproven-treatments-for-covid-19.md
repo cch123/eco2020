@@ -33,3 +33,7 @@ Officials do not say that traditional remedies can cure covid-19. But they do cl
 TCM enjoys some cover from the World Health Organisation. Last month the WHO deleted advice it had posted on its website saying that herbal remedies were not effective against the coronavirus and might be harmful. It said the statement it had issued was too “broad”. In a report published in 2014 it said that traditional medicine was “an important and often underestimated” resource and that such remedies, if of “proven quality, safety and efficacy”, could help plug gaps in health-care provision. That, however, would rule out much TCM. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/china/2020/04/11/china-backs-unproven-treatments-for-covid-19

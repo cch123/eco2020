@@ -19,3 +19,7 @@ Mr Bogliani cautions against assuming that nature is reclaiming its own. Some ma
 Not all reappearances have been welcomed. Residents in Alpine areas of the province of Trento have been advised not only to stay at home, but to refrain from leaving out rubbish that might attract Italy’s most wanted animal, a brown bear known to scientists as M49 and to the public as “Papillon” (because of his escape last year over three electrified fences). Papillon is nicknamed after Henri Charrière, the only man to escape from the French penal colony on Devil’s Island. Like the late Mr Charrière, the bear has a substantial criminal record. It includes breaking and entering (Alpine cottages and refuges) and attacks on cattle. Last year the government of Trento issued an order for Papillon’s capture. He has now been spotted heading for Veneto, which has not (yet) issued a warrant. Smart bear.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/04/16/covid-19-has-emboldened-italys-fauna

@@ -13,3 +13,7 @@ IN MOST BIG economies the government’s budget plans seldom drive large movemen
 ![](./images/20200208_WBC336.png)
 
 The viewers apparently felt as deflated; share prices sagged. New duties were imposed on, among others, paper clips, crockery, fridge compressors and circuit boards, and lifted on thoroughbred horses, for example. Over the next three days shares rebounded, perhaps out of optimism that measures such as the sale of state assets might actually come to pass for once. ■
+
+## URL
+
+https://www.economist.com/business/2020/02/06/why-indias-annual-budget-is-a-powerful-market-force

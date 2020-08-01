@@ -97,3 +97,7 @@ All this fuels murmurings and speculation, both inside and outside Alphabet, ove
 Mr Pichai has an opportunity to prove the sceptics wrong. The covid-19 pandemic offers a convenient pretext to get rid of inefficiencies, such as overlapping products, and cut through Alphabet’s internal red tape. It could result in a new balance being struck between Google’s innovative culture and more systematic exploitation of its products’ and services’ money-making potential. Even the antitrust probes have a silver lining for Mr Pichai. “In some ways, I’m looking for clarity,” he says.
 
 To be a leader in the mould of Mr Nadella, however, he would have to be more daring. One idea is to charge for some of its services. Another is for Google to become more of a data fiduciary that manages people’s information for them—a bit like a bank does with money. The firm has already started developing tools necessary for this, such as software that can mine encrypted data. If Mr Pichai could pull this off, that would be truly inspirational. And it would help keep Alphabet unconventional for a while yet. ■
+
+## URL
+
+https://www.economist.com/briefing/2020/07/30/googles-problems-are-bigger-than-just-the-antitrust-case

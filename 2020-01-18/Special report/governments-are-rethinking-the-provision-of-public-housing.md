@@ -35,3 +35,7 @@ Housing co-operatives are also becoming more popular. A short drive from Zug a g
 Governments have bigger plans. In 2018 Britain built more public housing than in any year since 1992. The South Korean government aims to increase the share of public-rental housing from 7% of the total stock to 9% by 2022. In Germany in 2018-19 the government set aside some €5bn ($5.6bn) to promote the construction of public housing.
 
 The best way to make housing more affordable would be to make the supply more responsive to increases in demand. A big underlying reason why homelessness in Tokyo is so low is that housing is reasonably affordable. Meanwhile, Zug builds more than twice as many homes per person as San Francisco. Research suggests that a 10% fall in rents in a high-cost city such as New York results in an 8% decline in the number of homeless residents. Until governments keep overall housing costs under control, the rest is tinkering. ■
+
+## URL
+
+https://www.economist.com/special-report/2020/01/16/governments-are-rethinking-the-provision-of-public-housing

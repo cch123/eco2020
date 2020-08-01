@@ -29,3 +29,7 @@ The alternative is to continue to bestride both systems and accept the consequen
 Zoom’s business may suffer as a result. Cisco’s Webex, Microsoft’s Teams and Google’s Meet can easily compete for its most sensitive clients. More significant, the kerfuffle reinforces how geopolitics is splitting the global internet into rival camps. Tech companies are increasingly facing the invidious choice of which side of the divide to be on. The word for that is not “wow”. It is “ugh”. ■
 
 Correction (June 19th 2020): A previous version of this article stated that June 4th marked the 21st anniversary of the massacre around Tiananmen Square. Some of the wording of this article has also been amended for clarity.
+
+## URL
+
+https://www.economist.com/business/2020/06/20/can-zoom-be-trusted-with-users-secrets

@@ -29,3 +29,7 @@ This time, a chorus of singers say they will stand for parliament. Many have gen
 Mr Museveni is a generous patron. In recent months he has signed up an unlikely roster of talent, from Buchaman, formerly the “vice-president” of Mr Wine’s crew, to Bosmic Otim, the biggest star in the country’s Luo-speaking north. The latter once wrote lyrics that associated Mr Wine with Nelson Mandela, and speculated about the responsibility of Mr Museveni’s forces for massacres. But after encounters with state security and a presidential handshake, his latest track is called “I support the government”.
 
 Radio DJs avoid political tunes, fearing a phonecall from above. The choice is between “playing the song” and “staying in business,” says Isaac Mandev, a programmer at a Luganda-language station. Mr Wine is now blocked from performing in public; he and his supporters are arrested and beaten when they congregate. On a steeply tilted playing-field, his chances of winning the election are slim. All the same, a good rhythm is irresistible. At the parliamentary Christmas party of 2018, when the ghetto president grabbed the mike to sing “Kyarenga”—a smash hit about a poor man wooing a woman away from a richer suitor—even NRM stalwarts got up to dance. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/03/19/ugandas-pop-stars-are-enlivening-political-campaigns-and-launching-them

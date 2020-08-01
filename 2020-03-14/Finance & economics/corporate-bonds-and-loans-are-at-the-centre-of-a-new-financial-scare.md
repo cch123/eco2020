@@ -33,3 +33,7 @@ Who, then, can act as a source of stability and fresh lending? Some big cash-ric
 Outside America the picture is less reassuring. Europe’s banks make puny profits, partly because interest rates are so low; Italian banks had a return on equity of just 5% last year. Since the virus struck, the cost of insuring their debt against default has flared up, hinting that they could yet become a source of contagion. State-backed banks in China and India will do as directed by politicians. But they are already labouring under large bad debts.
 
 Global business may need a giant “bridging loan” to get through a tough few months. And governments may need to intervene to make it happen: by flooding credit markets with liquidity; by cutting taxes to get cash to companies; and by prodding banks to lend and show forbearance. The world’s financial system has not yet become a source of contagion in its own right. But neither has it shown it can spontaneously help firms and households absorb a nasty but transitory shock.■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/03/12/corporate-bonds-and-loans-are-at-the-centre-of-a-new-financial-scare

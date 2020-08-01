@@ -23,3 +23,7 @@ A secondary theme is the relationship between food and labour, and the effort to
 After all this readers might expect his conclusion to be a ringing endorsement of the “fair trade” model (coffee is by far the leading fair-trade product), which adds a small premium to the price of certified coffees to fund projects to improve workers’ welfare. In fact, Mr Sedgewick thinks the arguments over fair trade obscure a more fundamental issue, which is the lack of other opportunities in places where the local economy is dominated by coffee. In El Salvador’s “dictatorship of coffee”, where coffee planters enjoyed a virtual monopoly on politics, the only alternatives were migration or revolution, leading to decades of strife during the 20th century that pitted coffee growers against their overlords.
 
 Artfully blending together all these strands, and juggling a wide cast of characters, Mr Sedgewick’s book is a parable of how a commodity can link producers, consumers, markets and politics in unexpected ways. Like the drink it describes, it is an eye-opening, stimulating brew. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/04/23/the-story-of-coffee-is-a-parable-of-global-capitalism

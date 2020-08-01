@@ -27,3 +27,7 @@ Weighed down by fines associated with emissions-cheating software Daimler’s an
 The International Energy Agency found that, “defying expectations”, global energy-related carbon-dioxide emissions didn’t grow last year, even though the world economy grew by 2.9%. Emissions actually fell in America by 2.9%, in the EU by 5% and in Japan by 4%. But emissions were up in developing countries, thanks to their use of coal, with Asia responsible for the vast bulk of the increase.
 
 With his feet firmly under the table as the new chief executive of BP,Bernard Looney set out a target for the energy company to achieve net zero carbon-dioxide emissions by 2050 and to push for carbon pricing. BP assured investors it could do this without hurting the bottom line, or “performing while transforming” as it put it, but was vague about the role of fossil fuels in its newfound battle against climate change. More details are promised in September.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/02/15/business-this-week

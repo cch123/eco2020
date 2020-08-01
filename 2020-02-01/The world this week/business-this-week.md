@@ -29,3 +29,7 @@ Renault appointed Luca de Meo as its new chief executive, its second since the f
 In Britain it was announced that Northern Rail, is to be nationalised in March, following two years of chaos for passengers under the train company’s current operator. Coming soon after the bail-out of Flybe, this is the new government’s second big intervention in regional transport infrastructure. See [article](https://www.economist.com//britain/2020/02/01/britains-government-renationalises-northern-rail).
 
 The share price of the company that owns Victoria’s Secret surged after it was reported that its chief executive might step down and possibly sell the lingerie retailer. Les Wexner has run L Brands for 57 years and is the longest-serving CEO of any S&P 500 company. Last year he faced embarrassing questions over his link to Jeffrey Epstein, a dead sex-trafficker who managed Mr Wexner’s financial assets.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/02/01/business-this-week

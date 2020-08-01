@@ -31,3 +31,7 @@ Then there is the committee itself. In Britain as in America, lawmakers’ inqui
 Although the way it has come out is embarrassing to the government, the report provides support for the new, more hawkish line that it is taking on Russia. In its response, the government said that Russia was a top national-security priority; most of the foreign officials on the blacklist that Dominic Raab, the foreign secretary, announced on July 5th were Russians. This new approach will give the Kremlin even more reason to interfere in Britain than it has had in the past. The government had better put some work into bolstering the country’s defences. ■
 
 Correction (24th July 2020): This article has been updated to correct Mark Galeotti’s professional affiliation.
+
+## URL
+
+https://www.economist.com/britain/2020/07/25/russian-interference-highlights-britains-political-failings

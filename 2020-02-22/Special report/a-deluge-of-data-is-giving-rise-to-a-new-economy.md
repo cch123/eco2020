@@ -31,3 +31,7 @@ Businesses are also facing a digital reversal. Many firms want to use data to in
 Finally, the geopolitics of data will not be simple, either. Online giants in particular have assumed that the data economy will be a global affair, with the digital stuff flowing to where processing is best done for technical and cost reasons. Yet governments are increasingly asserting their “digital sovereignty”, demanding that data not leave their country of origin.
 
 This special report will tackle these topics in turn. It will conclude by discussing what is perhaps the biggest conundrum of the mirror world: the risk is that the wealth it creates will be even more unequally distributed than in its terrestrial twin.■
+
+## URL
+
+https://www.economist.com/special-report/2020/02/20/a-deluge-of-data-is-giving-rise-to-a-new-economy

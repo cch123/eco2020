@@ -21,3 +21,7 @@ Xerox argues that joining forces would help both firms compete. It promises $2bn
 The tech industry has a history of ill-judged mergers (HP’s own acquisition of Compaq, a rival computer-maker, in 2002 being a prime example). Xerox’s plan to swallow a firm five times its size looks ambitious, to put it mildly. Bad blood could complicate things further. HP’s board rejected an earlier offer of $22 a share, made in November, saying it “significantly undervalues” the firm. In February HP said it would return $16bn to its shareholders, in an attempt to block the deal.
 
 Xerox has one thing going for it. Among its big shareholders is Carl Icahn, an activist investor with a string of hostile takeovers to his name (and a stake of around 4% in HP). The markets seem optimistic. Despite the coronavirus-inspired slump, both firms’ share prices remain higher than before Xerox came a-wooing.■
+
+## URL
+
+https://www.economist.com/business/2020/03/05/xerox-launches-a-takeover-bid-for-hp

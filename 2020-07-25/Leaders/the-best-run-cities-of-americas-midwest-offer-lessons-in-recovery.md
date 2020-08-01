@@ -27,3 +27,7 @@ Another lesson is that the most successful places bet on “eds and meds”. Cit
 This matters, last, because cities with the deepest pools of talented workers tend to be long-term winners. Rahm Emanuel, a former mayor of Chicago, boasts that his city produces or lures 140,000 new graduates each year. That’s a big reason why many companies choose to put their headquarters there. Columbus and its flourishing midsized firms also manage to keep hold of bright graduates and are learning to do vocational training that produces high skills for non-academic types. That makes the city appealing to investors of all sorts. Investing in its people is, ultimately, the Midwest’s greatest strength—and it is a recipe for other places, too. ■
 
 Dig deeper:Sign up and listen to Checks and Balance, our [weekly newsletter](https://www.economist.com//checksandbalance/) and [podcast](https://www.economist.com//podcasts/2020/07/17/checks-and-balance-our-weekly-podcast-on-american-politics) on American politics, and explore our [presidential election forecast](https://www.economist.com/https://projects.economist.com/us-2020-forecast/president)
+
+## URL
+
+https://www.economist.com/leaders/2020/07/25/the-best-run-cities-of-americas-midwest-offer-lessons-in-recovery

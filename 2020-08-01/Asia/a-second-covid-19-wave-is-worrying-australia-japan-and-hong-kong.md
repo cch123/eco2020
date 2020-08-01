@@ -25,3 +25,7 @@ The new wave of infections is mainly among the young. This helps explain why dea
 Even with these latest spikes, the performances of Australia, Japan and Hong Kong show the United States, Latin America, parts of Europe and struggling India in a dismal light. Nor can other Asian standouts that have avoided second waves, notably New Zealand, South Korea and Taiwan, afford to feel smug about their abilities to detect, contain and treat. Near misses are many. In New Zealand, for instance, two recent returnees were given special permission to leave their isolation to attend their father’s funeral; they later tested positive. Others, including those carrying the virus, have broken free of quarantine facilities, including one who had to sate a craving for pinot noir. Until an effective vaccine is found, or the pandemic burns itself out, the virus will always look for a way to sneak in—and covid-19 carriers for a way to sneak out.
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/asia/2020/08/01/a-second-covid-19-wave-is-worrying-australia-japan-and-hong-kong

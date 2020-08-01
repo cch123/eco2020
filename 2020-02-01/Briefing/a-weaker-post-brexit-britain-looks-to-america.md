@@ -83,3 +83,7 @@ Outside the constraints of the EU, Britain could have some scope to be more agil
 Some would like to see Britain take the lead in areas where, for now, America seems to have lost interest, such as championing democracy. (Though that would mean standing up to China.) Because Britain knows America so well it has “a huge opportunity to help countries trying to deal with [it]...do it more nimbly and more strategically,” says Ms Schake of the AEI.
 
 Britain could remain in the bridge business. The two countries may never regain the first-name closeness shared by “Ron” and Margaret or even George and Tony. But a different American administration could both rekindle something of that romance, as well as help its ally remain closely connected with the continent. For now, however, Mr Trump seems to favour a divide-and-conquer approach. And that threatens the ardour between Boris and Donald. ■
+
+## URL
+
+https://www.economist.com/briefing/2020/01/30/a-weaker-post-brexit-britain-looks-to-america

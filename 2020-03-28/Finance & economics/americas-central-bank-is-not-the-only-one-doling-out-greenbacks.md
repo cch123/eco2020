@@ -21,3 +21,7 @@ Could the Fed extend these lines further? It has no appetite for assessing which
 If the dollar resumes its upward march, America’s Treasury could also help weaken it by buying other currencies, points out Zach Pandl of Goldman Sachs. But what to buy? The traditional choices would be the euro and the yen. But both Japan and the euro area fear the deflationary impact of a stronger currency. A better bet, Mr Pandl argues, might be Mexico’s peso or Brazil’s real. It’s just a pity officials cannot share a meal and a bottle of fine wine before they tuck in to each other’s currencies. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/03/26/americas-central-bank-is-not-the-only-one-doling-out-greenbacks

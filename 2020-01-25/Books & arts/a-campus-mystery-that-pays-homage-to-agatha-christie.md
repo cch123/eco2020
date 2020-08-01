@@ -19,3 +19,7 @@ Jess signs up for Lorna’s seminar and befriends three other students. Georgie 
 Naturally, these relationships are not always what they seem. Students speculate about the reasons why Lorna left Cambridge for Norfolk. She fuels the rumours by writing on the board, “People disappear when they most want to be seen”, and by reminding her class that Christie’s greatest mystery occurred in her own life: her 11-day disappearance in 1926 after she learned that her husband was having an affair. A death and the possibility of poisoning also feature in Ms Weinberg’s plot.
 
 Like Christie’s, her characters sometimes give over-long explanatory speeches. But she exhibits some of the queen of crime’s best traits, too. Part of Christie’s appeal, Ms Weinberg knows, is her recognition that for many, innocents as well as scoundrels, outward behaviour is a series of veils that shroud their true identities. In “The Truants”, readers never quite grasp the characters’ motives until the end. Skilfully, the novel shows that some university experiences do resemble a country manor with strychnine on the premises. All that refinement may be only an illusion. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/01/23/a-campus-mystery-that-pays-homage-to-agatha-christie

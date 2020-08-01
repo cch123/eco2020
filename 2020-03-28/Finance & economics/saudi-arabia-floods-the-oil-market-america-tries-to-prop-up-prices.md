@@ -27,3 +27,7 @@ Yet production has been slow to respond. That is only in part because of the pri
 It looks possible that supply will not just exceed demand for oil now but fill the capacity to store it. Bernstein reckons that there could be over 735m barrels of extra crude this year, and only about 500m barrels of storage available in the OECD, a club of mainly rich countries, and oil tankers.
 
 In the face of such a demand shock, “a production cut that takes a month or two to implement won’t do much,” argues Damien Courvalin of Goldman Sachs, a bank. He contends that a production limit in Texas would slow the consolidation that America’s shale industry needs to be competitive in the long term. Government stimulus might help to boost demand. But the essential fix to bring the market back into balance, reckons Mr Luckock, is a painful one: even lower oil prices. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/03/26/saudi-arabia-floods-the-oil-market-america-tries-to-prop-up-prices

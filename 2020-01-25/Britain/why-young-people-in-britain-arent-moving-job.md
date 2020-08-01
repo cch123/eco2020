@@ -29,3 +29,7 @@ Not everybody agrees. Bobby Duffy, a former opinion pollster now at King’s Col
 These figures may help explain the puzzle of Britain’s awful productivity, which is lower than the competition’s and growing only feebly. If workers do not move from job to job, resources will move more slowly from low-productivity firms to high-productivity ones.
 
 On many measures Britain’s labour market looks in rude health. But until 20-somethings start, once again, moving jobs and pushing for higher wages it may not feel that way to many young people. Britain could do with its millennials acting a little more entitled. ■
+
+## URL
+
+https://www.economist.com/britain/2020/01/23/why-young-people-in-britain-arent-moving-job

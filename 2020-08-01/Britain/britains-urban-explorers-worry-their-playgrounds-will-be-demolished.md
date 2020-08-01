@@ -17,3 +17,7 @@ Proposed changes to planning laws, which will make it easier to demolish vacant 
 The urban explorers are a passionate lot. “The building was beckoning me, like it wanted me to take pictures of it,” says Mr Sugden of Drummond Mill in Bradford, which was later destroyed by fire. To their occasional annoyance, others share their enthusiasm. YouTubers venture onto their sacred territory in search of quick celebrity. Some ruins have been leased to specialist live-action role-play companies, which use them as apocalyptic backdrops for airsoft battles or fake zombie attacks.
 
 But the competition worries the urban explorers much less than the threat of demolition. “I just want people to see the beauty in it,” says Mr Sugden. “People should be more appreciative of these buildings.”
+
+## URL
+
+https://www.economist.com/britain/2020/08/01/britains-urban-explorers-worry-their-playgrounds-will-be-demolished

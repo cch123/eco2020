@@ -33,3 +33,7 @@ Yemenis in all parts of the country struggle to afford protective gear. Disposab
 The outbreak is not only exacerbated by economic crisis—it also worsens it. Saudi Arabia has been the biggest donor to Yemen, contributing billions even as it simultaneously bombs the country. In 2018 it deposited $2bn in Yemen’s central bank to pay for imports. Only a tenth of that is thought to remain. With the kingdom facing a deep deficit brought on by lockdowns and low oil prices, few in Yemen expect the money to be replenished, so the currency will probably depreciate. The slump in wealthy Gulf states has also hurt remittances to Yemen, which last year amounted to $3.8bn (13% of GDP). Oxfam, an aid agency, estimates that the volume of remittances has dropped by 80% in the first four months of 2020.
 
 All of this comes as the war itself seemed to be winding down. The United Arab Emirates, which led the fighting in the south, withdrew most of its troops last summer. The Saudis want to find a face-saving escape from a costly war that seems unwinnable. But they would leave behind a country bitterly divided, between north and south and between Mr Hadi and the separatists. Even if the bombs stop, disease and hunger will take their own toll. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/06/04/covid-19-quietly-sweeps-across-yemen

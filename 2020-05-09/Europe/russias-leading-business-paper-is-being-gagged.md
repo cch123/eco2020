@@ -29,3 +29,7 @@ But attacking Vedomosti too openly risked conflict with two of the world’s mos
 The timing of the current attempts to bring the paper to heel is not so much a sign of Vedomosti’s outspokenness (it recently attracted Mr Navalny’s ire for being too conformist), but of the Kremlin’s intolerance of any criticism. Mr Putin great fear is that a consensus may start to emerge among Russia’s political and economic elite that it is time for him to go. The front page of an elite newspaper could provide encouragement for such a consensus—but not if Mr Putin’s friends can censor it.
 
 So just as the birth of Vedomosti coincided with Mr Putin’s arrival, its current afflictions coincide with his refusal to leave. But the journalists’ revolt demonstrates that Vedomosti has bred a generation of writers, and readers, who see Mr Putin as an anachronism and will not quietly accept his experiments in absolutism. ■
+
+## URL
+
+https://www.economist.com/europe/2020/05/07/russias-leading-business-paper-is-being-gagged

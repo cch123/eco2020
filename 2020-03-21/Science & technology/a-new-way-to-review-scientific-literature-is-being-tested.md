@@ -21,3 +21,7 @@ That is clearly encouraging news for conservationists. It suggests that their me
 Given the numbers involved, it might be argued that both of these results were predictable. They seem, nevertheless, to be evidence that the method works. And that may be relevant in the context of the team’s analysis of rat-clearance projects intended to help species which have evolved in the absence of those subsequently introduced rodents, and also projects on small islands intended to protect populations of such autochthonous species (often these projects are the same thing). Sentiment analysis sees no clear signal of success here.
 
 Whether Dr Van Houtan’s method might be generalised to other fields of science is debatable. Conservation is, at bottom, an emotion-driven activity. People care about the results in a way that goes beyond professional amour propre. That researchers’ sentiments show up in their choice of words is therefore little surprise, and might well not be true elsewhere. But the fact that Dr Van Houtan has been able to use natural-language processing to expand the pool of papers which can be taken into a review from the hundreds to the thousands suggests that others might benefit from having a look at his achievement.■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/03/19/a-new-way-to-review-scientific-literature-is-being-tested

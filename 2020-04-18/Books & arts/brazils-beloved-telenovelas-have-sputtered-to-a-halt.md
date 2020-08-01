@@ -35,3 +35,7 @@ Unlike the writers of “The Archers”, a British radio drama about a fictional
 Instead, an environmental activist who has a child with one of the mothers will warn the UN that the world is unprepared for a pandemic. That is a lesson that the audience has already learned. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/04/18/brazils-beloved-telenovelas-have-sputtered-to-a-halt

@@ -29,3 +29,7 @@ Ms Klobuchar’s presence in South Carolina, by contrast, is hardly detectable. 
 If neither Mr Biden, Ms Klobuchar nor Mr Buttigieg can make the case that they are the best hope of the majority of Democrats—who do not yearn for socialism—they could still divide that part of the party into units so small that Mr Sanders is able to build up a commanding lead. That could set up a contest between Mr Sanders and Mr Bloomberg, and make the 2016 Democratic primary, which seemed bitter enough at the time, look like a love-in.■
 
 Dig deeper:Sign up and listen to Checks and Balance, our new [newsletter](https://www.economist.com//checksandbalance/) and [podcast](https://www.economist.com//podcasts/2020/04/24/checks-and-balance-our-weekly-podcast-on-american-politics) on American politics
+
+## URL
+
+https://www.economist.com/united-states/2020/02/22/joe-bidens-rivals-scramble-to-capitalise-on-his-woes-in-south-carolina

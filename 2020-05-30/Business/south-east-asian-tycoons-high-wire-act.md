@@ -59,3 +59,7 @@ Others deny Chinese heritage provides a business edge, and see themselves solely
 Indeed, most huaren are pragmatists who see a Chinese family history as useful but not predestining. Many are thinking beyond China. Their groups have become integrated into the world economy. CP employs 325,000 workers in 21 countries and, says Mr Suphachai, no longer recruits executives mostly from Bangkok’s bustling Chinatown but from elite American and Chinese universities. He boasts of foreign tie-ups from Japan to Britain. CP is expanding at home, too. In March it bought Tesco’s Thai and Malaysian supermarkets for $10.6bn. Mr Riady says Lippo is today best compared to multinationals like Ford or Goldman Sachs, which thrive in China without cultural connections.
 
 This is more important now that many patriarchs are passing on (see [article](https://www.economist.com//business/2020/05/28/why-asian-business-dynasties-struggle-with-succession)). The younger generation, mostly educated in America and speaking patchy Mandarin, may find it harder to flit as deftly between their ancestral and adopted homes. Still, scions of huaren dynasties inherit connections and, often, commercial acumen—as well as caution. Salim Group’s founder, who died in 2012, liked to cite a Chinese proverb that “tall trees attract the wind”. As Chinese influence blows across South-East Asia, expect its business empires to watch their sprawling canopies carefully.■
+
+## URL
+
+https://www.economist.com/business/2020/05/28/south-east-asian-tycoons-high-wire-act

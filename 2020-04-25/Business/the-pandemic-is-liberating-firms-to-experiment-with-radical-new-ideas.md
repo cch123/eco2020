@@ -41,3 +41,7 @@ Weighed down by legacy assets and protected by oligopolistic profits, many big f
 Correction (April 27th 2020): In the original version of this article we mistakenly said that Nike’s online revenues in China grew by triple digit in January and February, year on year. The growth figures referred to user engagement with Nike’s online workouts. Sorry.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/04/25/the-pandemic-is-liberating-firms-to-experiment-with-radical-new-ideas

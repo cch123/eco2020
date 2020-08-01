@@ -27,3 +27,7 @@ Online organising amplifies offline struggles. In 2018 hundreds of people marche
 Their protests draw on a decades-long tradition of women-led resistance. For at least a year market vendors have fined traders who harass them. And for generations rural women have used nudity to protest against injustices such as land theft.
 
 The fearless Ms Nyanzi has clashed with the president himself. In 2017 she lambasted Janet Museveni, the education minister (and the president’s wife), who had said there was no money in the budget to buy sanitary pads for schoolgirls. Ms Nyanzi later spent 16 months in prison after writing a poem about the vagina of the president’s mother. She shouts, strips and swears. “You can’t just say ‘please don’t do it,’” she has said. “You’ve got to say ‘fucking don’t do it’ and shake your dreadlocks like a crazy woman and throw off your dress.” ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/06/04/how-ugandan-feminists-make-themselves-heard

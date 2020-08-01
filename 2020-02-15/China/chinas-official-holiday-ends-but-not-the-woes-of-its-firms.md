@@ -29,3 +29,7 @@ Halted production could cause another problem that officials fear: a spike in un
 Local governments are giving tax breaks, waiving rental fees and postponing levies on firms for social security. But most businesses say they are already suffering much more than during SARS, another coronavirus, which hit in 2003. Bernstein, a research firm, points out that sales by Yum China, a restaurant giant, dipped by no more than a third for two or three weeks back then. Now, nearly a third of its stores are closed and sales at those still open have fallen by almost half.
 
 Many migrant workers are choosing to stay put. On the outskirts of Baoding, an area near Beijing that is a big source of workers for the city, Chen Yixiu, a 26-year-old who had a job at a wholesale flower market in the capital, says she worries about falling ill should she return to Beijing—migrant workers usually have no access to health coverage in cities where they work. What of the government’s promises that it will cover her treatment should she fall sick from the virus? Ms Chen says she is sceptical. Others might well be of officials’ predictions that many will be back at work in the next few days. ■
+
+## URL
+
+https://www.economist.com/china/2020/02/13/chinas-official-holiday-ends-but-not-the-woes-of-its-firms

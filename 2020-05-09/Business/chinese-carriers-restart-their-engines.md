@@ -27,3 +27,7 @@ How quickly Chinese air travel returns to pre-pandemic health remains up in the 
 Dig deeper:
 
 For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/05/07/chinese-carriers-restart-their-engines

@@ -21,3 +21,7 @@ Yet the chief peddler of positivity is Abiy himself. “I believe we can realise
 Not everyone is convinced. Self-help, with its focus on personal salvation, is often associated with Pentecostalism—and is thus regarded warily by traditionalists in the Ethiopian Orthodox Church. “Most Ethiopians believe loving yourself is selfish,” says Ebba T. And the stress on individual bootstrapping offends some in a ruling party with Marxist roots. “I’d rather rely on a structural analysis of poverty than a psychological one,” sniffs an intellectual close to the government.
 
 But Abiy appears unfazed. At the end of last year he turned the ruling coalition, the Ethiopian People’s Revolutionary Democratic Front, into a single party—which he tellingly named the Prosperity Party.
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/01/16/ethiopia-embraces-the-power-of-positive-thinking

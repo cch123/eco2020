@@ -49,3 +49,7 @@ Last week Congress passed an emergency appropriation of $8.3bn to fight the viru
 Thus far in his presidency, Mr Trump has faced a few crises. Most he generated himself, including various trade wars and bouts of chest-thumping, which could generally be defused. The virus, however, will circulate no matter how much the president may wish it gone. Talking down the risks is not a winning strategy. To fight the outbreak, America needs clear, unvarnished public information and policies based on the best science. Is the president capable of endorsing that? ■
 
 Dig deeper:
+
+## URL
+
+https://www.economist.com/united-states/2020/03/12/covid-19-is-spreading-rapidly-in-america-the-country-does-not-look-ready

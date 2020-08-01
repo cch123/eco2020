@@ -71,3 +71,7 @@ Given the strength of the ties between Northern Ireland’s Protestants and Scot
 For the time being, only Sinn Fein is arguing for a unification process to start soon. The more common nationalist position still cleaves to the spirit of St Augustine: “Lord, give me a border poll—but not yet.” Claire Hanna, an MP for the Social and Democratic Labour Party, the north’s other nationalist party, says that although a united Ireland is now on her agenda in a way it was not before Brexit, reconciliation (see [article](https://www.economist.com//britain/2020/02/13/atonement-and-forgiveness-in-belfast)), the economy and public services remain her priorities.
 
 One observer in Dublin holds unification to be “like the pursuit of happiness—it can’t be pursued directly, it can only ensue from a position of harmony and peace.” It is a nice, if somewhat quietist, sentiment. But it is one that just a couple more political surprises could put to severe test. ■
+
+## URL
+
+https://www.economist.com/briefing/2020/02/13/brexit-and-sinn-feins-success-boost-talk-of-irish-unification

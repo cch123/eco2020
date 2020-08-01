@@ -23,3 +23,7 @@ This sort of nastiness has been common in Burundi in recent years. Having at las
 So far, Mr Nkurunziza has appeared unfazed by covid-19. His party held huge rallies in the run-up to the election while his spokesman suggested that Burundi would be spared for putting “God first”. There are only 42 registered cases in the country, though hospital staff whisper that beds are full of undiagnosed sufferers. Handily, the pandemic did mean that no foreign election observers could get into the country. A delegation from the East African Community was warned just 12 days before the election that its members would be quarantined for two weeks.
 
 The country is relatively calm, for now. Many fear that if they start protesting against the result, Mr Nkurunziza will enforce a belated lockdown—to stop the spread of covid-19, of course. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/05/28/burundis-rigged-election

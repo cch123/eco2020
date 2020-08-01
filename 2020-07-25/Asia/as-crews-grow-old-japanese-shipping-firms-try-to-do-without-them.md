@@ -21,3 +21,7 @@ Rolls-Royce, a British engineering firm, demonstrated an autonomous ferry off th
 Driverless ships, however, pose particular challenges. As Mr Koyama puts it, “We don’t have roads at sea. You can go any direction.” The oceans are filled with ships of varying sizes, from one-man sailboats to hulking tankers. The elements can discombobulate. During its containership trial, NYK found that its computer programme was too sensitive to the fluctuations of rough seas. Oceans also come with unexpected obstacles far more troublesome than a pothole. “Whales, for example,” says Kawagoe Yoshikazu of MOL.
 
 Communications and security present further difficulties. The speed of data transfer to and from ships lags about 15 years behind those on land, reckons Mr Kawagoe. Fully crewless ships would also present opportunities for cyber-pirates (and the ordinary sort, too, presumably). NYK believes it will be cheaper to keep some crew members aboard than to build up ships’ digital defences. Human psychology may also be a barrier to fully autonomous vessels: if driverless cars seem spooky, Mr Kuwahara notes, imagine being at sea aboard a captain-less cruise ship. ■
+
+## URL
+
+https://www.economist.com/asia/2020/07/23/as-crews-grow-old-japanese-shipping-firms-try-to-do-without-them

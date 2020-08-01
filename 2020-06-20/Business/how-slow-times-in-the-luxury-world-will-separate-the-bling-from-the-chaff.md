@@ -41,3 +41,7 @@ The question is whether amid this shake-up the luxury world can keep its grip on
 The biggest potential changes may concern the designers themselves. By late June the most exalted would normally start displaying autumn and winter collections in shop windows. This year they will make up for lost time by selling their summer season through the summer, as might seem sensible anyway. Giorgio Armani, an Italian veteran, has argued this should become the new norm. What a bold fashion statement that would be.■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/06/18/how-slow-times-in-the-luxury-world-will-separate-the-bling-from-the-chaff

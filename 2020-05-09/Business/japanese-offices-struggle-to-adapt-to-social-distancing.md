@@ -25,3 +25,7 @@ So far the changes have been halting and uneven. Large Japanese companies are sh
 And the evolution may not endure. Once restrictions are relaxed, managers may demand to see their subordinates back at their desks. Perhaps, though, without their hanko. On April 27th the prime minister, Abe Shinzo, called for a rapid review of the practice. Even his minister of technology policy, who also heads a parliamentary group for the protection of hanko culture, conceded that the seals present an obstacle to teleworking.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/05/09/japanese-offices-struggle-to-adapt-to-social-distancing

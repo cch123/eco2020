@@ -25,3 +25,7 @@ Some optimists spot opportunity in crisis. For years the ECB has in vain urged t
 A related view is that Karlsruhe helps the EU by drawing attention to its creaking legal edifice. The judges have long sought to remove the air of stealth from rows over legal authority in the EU, says Robert Klotz, a Freiburg-based lawyer and research associate. But it is a risky path to tread. “This is about the European legal order,” says Olli Rehn, who sits on the ECB’s governing council as head of Finland’s central bank. “Not national courts, but the European Court of Justice has exclusive jurisdiction over the ECB. This is an existential question for the EU.” 
 
 Correction:The original version of this article incorrectly named an ECB bond-buying scheme. The correct name is the Pandemic Emergency Purchase Programme.
+
+## URL
+
+https://www.economist.com/europe/2020/05/07/germanys-highest-court-takes-issue-with-the-european-central-bank

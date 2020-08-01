@@ -17,3 +17,7 @@ The latest data on incentives suggest shareholders come first. The 20 firms’ n
 The firms’ hands may have been tied. Fully 70% of the BRT statement’s signatories are incorporated in Delaware, whose corporate law is shareholder-friendly. The state’s former chief justice goes so far as to argue in a recent article that “within the limits of their discretion, directors must make stockholder welfare their sole end”.
 
 This need not be a problem, Messrs Bebchuk and Tallarita think. Farsighted bosses have always known that promoting long-term shareholder value requires delivering for customers and treating workers and suppliers reasonably. It is unclear if the same can be said of championing fuzzy stakeholderism.
+
+## URL
+
+https://www.economist.com/business/2020/03/12/academics-make-an-empirical-case-again-stakeholderism

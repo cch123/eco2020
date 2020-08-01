@@ -21,3 +21,7 @@ Virtualised networks need not rely on one vendor, but can be built with componen
 Admittedly, virtualised networks will not solve all security problems, and the underlying standard, called OpenRAN, is not yet mature. But it is early days for all 5G networks. It will take years to roll them out fully and the covid-19 crisis has done nothing to speed up the process. So there is time.
 
 The Trump administration and other governments should do all they can to accelerate the development of virtualised networks by subsidising research and perhaps even mandating the use of technical standards that allow mobile networks to be virtualised. All this may sound far-fetched at a time when America’s government appears stuck in the past and incapable of coming up with a coherent strategy. But as in many other domains, covid-19 creates room for new thinking. America will either pursue a tech cold war with an uncertain outcome, or help create an industry of the kind that American tech firms understand and have thrived in—letting Chinese companies join in only if they follow the rules. Sometimes establishing a robust, safe technology is not about concentrating power so much as diffusing it. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/04/08/open-standards-not-sanctions-are-americas-best-weapon-against-huawei

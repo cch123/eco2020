@@ -21,3 +21,7 @@ The Indians retired Chief Wahoo, their grinning, hook-nosed Native American logo
 Donald Trump mocked the Redskins and Indians for “changing their names in order to be politically correct”. After the Redskins’ announcement, Kayleigh McEnany, the White House press secretary, said he “believes that the Native American community would be very angry” at the change. Polling suggests that Native American elites do in fact dislike the name but that the majority are not overly bothered.
 
 Mr Trump is also embroiled in a naming controversy of his own: he has vowed to veto the $740bn Defence Authorisation Bill, which funds the Department of Defence, if it includes an amendment to rename the ten military bases named after Confederate generals. Elizabeth Warren introduced the Senate’s amendment. Both the House and Senate versions of the bill have such language in them, and Republican senators believe they have enough votes to override a presidential veto.■
+
+## URL
+
+https://www.economist.com/united-states/2020/07/18/renaming-the-washington-redskins

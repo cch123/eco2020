@@ -19,3 +19,7 @@ Even at the best of times Burkina Faso’s prisons are overcrowded and dangerous
 Freeman Tapily, the founder of African Culture, has spent a decade trying to support prisoners through song and dance and to reduce the stigma they face when they are released. The group, which is funded by the French government, runs an annual music festival, during which it hosts concerts in prisons. This year inmates will have the opportunity to write a play, which they will perform in venues around the capital. The arts give “inmates the opportunity to express themselves, to help build resilience and trust,” says Melodie Safieddine, a psychologist who has worked in several conflict zones.
 
 It is not just Mr Tapsoba’s ascent from cell to concert hall that offers hope, but his lyrics, too. One of his winning songs goes: “After effort there is comfort. After sweat there is happiness. If life doesn’t end, there is no despair. Take courage.”
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/07/18/a-charity-in-burkina-faso-teaches-criminals-to-sing

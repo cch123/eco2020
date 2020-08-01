@@ -21,3 +21,7 @@ There are loopholes in the other liberal victories, too. Though Chief Justice Ro
 Two other decisions penned by Chief Justice Roberts this week also came out 5-4—but with the liberals in their more familiar position as dissenters. The first of these was Seila Law v Consumer Financial Protection Bureau (CFPB), a challenge to the design of a federal agency set up after the recession of 2007-09. The majority did not break up the CFPB but, dampening its independence, gave the president the power to fire its director whenever he pleases. Then, on June 30th, the chief justice anchored Espinoza v Montana Department of Revenue, requiring any state that funds secular private schools to fund religious schools, too. Both rulings, cloaked as inevitable outgrowths of earlier cases, were in fact profound shifts in the law.
 
 Acting boldly through superficially small steps—and getting credit for aisle-crossing while giving liberals at best temporary solace—seems to be panning out well for Chief Justice Roberts. He is cultivating a reputation for non-partisanship at the Supreme Court while advancing primarily conservative goals. And he’s winning: of the 53 cases decided so far this term, he has been in the majority in 52. ■
+
+## URL
+
+https://www.economist.com/united-states/2020/07/02/justice-john-roberts-joins-the-supreme-courts-liberal-wing-in-some-key-rulings

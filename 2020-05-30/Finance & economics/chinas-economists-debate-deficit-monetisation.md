@@ -25,3 +25,7 @@ The opponents of deficit monetisation appear to have won. In his annual address 
 In reality, though, monetary lines are easily blurred. In 2007 the PBOC evaded the ban on monetary financing by arranging for the finance ministry to sell 1.35trn yuan in bonds to a state bank, which it then immediately bought from the bank. It also regularly engages in large re-lending operations, creating money that banks use for quasi-fiscal purposes.
 
 With yields on government bonds rising steeply over the past few weeks, the PBOC may yet scoop up some of the debt hitting the market. But in the name of propriety, it will do so indirectly. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/05/28/chinas-economists-debate-deficit-monetisation

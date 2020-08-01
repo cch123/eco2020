@@ -21,3 +21,7 @@ After complaining that the impeachment process in the House was dreadfully unfai
 Relatively unbounded by the mechanism of impeachment, Mr Trump could do as he pleases in the remainder of his first term (and perhaps in a second). He could interfere in domestic investigations, bend foreign policy out of shape to damage a political rival, or solicit help from another government in November’s election—China, Russia, are you listening? Once re-elected, there would be fewer checks on him. The result, perversely, is that the failed trial of a president deemed unfit for office by the House for misdemeanours that seemed to warrant impeachment and removal would emerge more powerful than ever.
 
 His supporters might conclude that is a good thing. But even they should think again. American politics has a tendency to swing from one pole to another. A Democratic equivalent of Mr Trump would no doubt enjoy freedom from the possibility of impeachment at some future date. Precedent is not binding when it comes to impeachment trials, but what happens in this one will inform the next. And the lesson from the impeachment trial of 2020 seems likely to be: anything goes.■
+
+## URL
+
+https://www.economist.com/leaders/2020/01/23/americas-anything-goes-presidency

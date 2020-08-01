@@ -25,3 +25,7 @@ A stubborn legend pursued Stephen—that he threw a typewriter out of his office
 Yet his frantic bursts of irascibility would be followed by graceful and kind conversation, as though nothing was untoward. Friends and colleagues remember surprising tendernesses. He collected glass artefacts. He lavished affection on children visiting the office. Perhaps his most lyrical piece for the paper was a tour of the English churchyards he cherished, finding poignant gravestones of both great and humble. And yes, he was in love with language.
 
 He knew words could be weapons, but they were the best kind. His son David recalls a cover of The Economist that showed a Palestinian and Israeli shouting in each other’s faces, and his father saying “What a hopeful picture that is.” To his puzzled child’s inevitable “why?” he replied: “they’re talking to each other.”
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/03/19/a-tribute-to-the-original-johnson-columnist

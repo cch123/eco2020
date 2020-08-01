@@ -25,3 +25,7 @@ Independent news websites like Atlatzso in Hungary and Hromadske in Ukraine have
 Of course, Mr Pack could yet hew to the legal firewall that protects the agencies’ editorial independence. Peter Kreko of Political Capital, a Hungarian think-tank, praises the plans developed by Jamie Fly, the fired RFE/RL head. One test will be whether the news services go easy on those whom the White House favours. (Last year America’s ambassador in Budapest unsuccessfully lobbied RFE/RL to promise that its Hungarian outlet would not be too harsh on Mr Trump’s friend, Mr Orban.)
 
 At risk is the credibility these agencies have built over half a century of independence. Their reporters are worried. “We are so stunned by the news that no one knows what to expect,” says a staffer at an RFE/RL subsidiary in eastern Europe. Mr Pack’s new appointees should respect their agencies’ editorial freedom. Otherwise, audiences will think them just as untrustworthy as those controlled by their own oligarchs and politicians. ■
+
+## URL
+
+https://www.economist.com/united-states/2020/06/25/decapitating-americas-state-funded-media

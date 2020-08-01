@@ -27,3 +27,7 @@ Those expectations could shift as economies reopen. Rehired workers could spend 
 Inflationary effects are most likely to appear once the virus is truly beaten. The crisis could weaken structural forces weighing on demand. Take inequality, for instance, which concentrates income in the hands of the thrifty rich. More generous post-pandemic safety-nets, or progressive taxes enacted to pay down large government debts, could redirect income towards freer spenders, creating inflationary pressure. So could a change in policymaking attitudes. The economic traumas of the early 21st century may push governments and central banks to prefer high economic growth and low unemployment to low and stable inflation, as happened after the second world war. Inflation is not certain to return after covid-19. But its re-emergence seems less fantastic a possibility. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/04/18/covid-19-could-lead-to-the-return-of-inflation-eventually

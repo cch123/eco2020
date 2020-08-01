@@ -31,3 +31,7 @@ Along with its artistic laurels, the brilliant fifth century BC had seen the apo
 After a grim epidemic, the Athenian case suggests, tolerance for reckless decision-making declines. Meanwhile, although the haemorrhage of manpower made it harder to wage war, prudent tactics and canny diplomacy let a reformed Athens claw back influence in the endless contest between Greek states.
 
 The impact of the plague, which flared up again for several years, should not be understated. It was part of a chain reaction which led to the loss of Athens’s empire. But such was the city’s will to live that it rumbled on, more or less democratically, for another eight decades, until its liberties were suppressed by Macedonia in 322BC. Today that endurance is as uplifting a precedent as the glorious Athenian heyday. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/03/26/when-athenians-feared-a-disease-would-wreck-their-democracy

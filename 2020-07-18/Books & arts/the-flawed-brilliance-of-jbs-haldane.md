@@ -27,3 +27,7 @@ Mr Subramanian doesn’t defend it either. He makes it clear that Haldane ignore
 It meant that he was prepared to change his mind. Eugenics was a mainstream theory when he entered biology, and he partially embraced it. But he also warned that genetics was too young a science to be applied successfully. His ideas evolved until they fell into line with those of the scientists now wielding genetic-engineering tools to improve humanity (though they would reject the eugenics label).
 
 Haldane changed his mind too slowly about the Soviet Union, but having done so he found new hope in India, where he moved in 1957. Its bureaucracy maddened him and he said so loudly and often—flashing his white male privilege like a peacock’s tail—but its tropical profusion provided him with a natural laboratory, and the climate was kinder to a body damaged by decades of self-experiment. When he died there in 1964, still holding the stone from Elah, it was no surprise to anyone that he donated his body to science. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/07/18/the-flawed-brilliance-of-jbs-haldane

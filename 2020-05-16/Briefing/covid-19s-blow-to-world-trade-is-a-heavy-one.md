@@ -63,3 +63,7 @@ But once companies can start investing again many will continue to set up their 
 That return to the norm could be impeded if political leaders see the public desire for security as requiring an all-out assault on what went before. “It was clear that this kind of globalisation was ending its cycle,” Emmanuel Macron, the president of France, recently told the Financial Times in a disquisition on the lessons of the covid-19 pandemic and the retrenchment it might bring. If so, better for the world to start a new, rebalanced cycle, less centred on a single dominant exporter, than to give up on the process altogether.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/briefing/2020/05/14/covid-19s-blow-to-world-trade-is-a-heavy-one

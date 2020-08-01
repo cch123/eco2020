@@ -23,3 +23,7 @@ In January 2019, long before the lawsuit, UC commissioned a task-force to review
 The report expressed concern that whereas 59% of high-school graduates in California were under-represented minorities in 2019, only 37% of Californian students in the admitted freshman class came from these groups. However, it concluded that the tests were not the main culprit. Three-quarters of the opportunity gap was attributed to factors that preceded admission, most notably failure to complete required courses. Test scores were thought to play some role in explaining the remaining quarter, though they were “not the primary barrier to admission”. The report concluded by suggesting that UC should “study the development” for a new approach to assessing students, suggesting that this could be implemented in nine years.
 
 Far from exonerating UC, the report validates the decision to file suit, according to Mr Rosenbaum. He argues that the report merely shifts the blame for the inequalities in the UC system away from the “unlawful use of discriminatory and meaningless tests” and onto the California public school system. Given the sensitivity of the issue, the suit will be controversial and closely followed. It is unlikely to produce a satisfactory outcome. After decades of debate, experts are still unable to agree on either the facts or the morality of the matter. Given this, what hope have the courts?■
+
+## URL
+
+https://www.economist.com/united-states/2020/02/08/are-test-scores-the-backbone-of-meritocracy-or-the-nexus-of-privilege

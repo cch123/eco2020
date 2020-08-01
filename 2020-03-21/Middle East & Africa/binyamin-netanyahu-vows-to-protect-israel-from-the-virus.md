@@ -23,3 +23,7 @@ A more comprehensive response, involving emergency funding, will be difficult to
 Mr Netanyahu accuses Mr Gantz of practising “small politics” at a time of national emergency. But the same accusation has been levelled at the prime minister. His critics claim that he delayed the order to quarantine American visitors to Israel because of pressure from the administration of President Donald Trump, and that he delays the publication of public-health orders until his own televised briefings, so that he can strike the pose of a leader. “A small group of officials are really doing the hard work,” says a minister.
 
 Mr Netanyahu’s trial, originally due to begin this week, has been pushed back to May 24th. Some have viewed this as a political decision—made by judges, but under pressure from the justice minister, a Netanyahu appointee. Mr Gantz, upon accepting the mandate to form a government, spoke of “illegitimate efforts by the current prime minister to evade justice”. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/03/19/binyamin-netanyahu-vows-to-protect-israel-from-the-virus

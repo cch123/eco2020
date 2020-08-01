@@ -25,3 +25,7 @@ Don’t sleep easy yet, though. Risky activities have migrated beyond the bankin
 Another worry is that the banking system outside America is less solid. Most European banks have reasonable capital ratios but are far less profitable than American banks, because they are inefficient and face lower interest rates and fragmented markets. America’s stress tests revealed that about a quarter of the total buffers its banks possess to absorb losses come from their healthy profits (which can offset bad-debt provisions), rather than from their core capital. Many European lenders do not have that luxury. The boss of one of the largest warns that though the shock so far has been manageable, a second wave of covid-19 infections this year or next will be “a major test for the financial sector”.■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/07/02/how-resilient-are-the-banks

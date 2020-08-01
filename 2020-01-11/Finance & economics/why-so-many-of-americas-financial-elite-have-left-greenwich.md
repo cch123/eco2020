@@ -35,3 +35,7 @@ Indeed, Greenwich has become a commuter destination in its own right. In 2018 th
 But the second policy lesson is that low taxes cut both ways. Some of those who found it easy to move in will also find it easy to move on. If Florida ever needs to raise taxes, it may find the same.
 
 Meanwhile, Greenwich’s non-fiscal charms remain. “It is a wonderful place to live and raise a family,” says Mr Dalio. In 2018 house prices stabilised in many neighbourhoods, and transactions started to pick up. Last November Tom Brady, an American footballer, and his wife, Gisele Bündchen, a Brazilian supermodel, bought a house there. Hedge funds’ heyday may be over, but their country home lives on. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/01/09/why-so-many-of-americas-financial-elite-have-left-greenwich

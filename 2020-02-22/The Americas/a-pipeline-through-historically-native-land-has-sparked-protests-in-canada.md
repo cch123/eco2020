@@ -23,3 +23,7 @@ Mr Trudeau’s timing is unlucky. He has inherited this problem from successive 
 Mr Trudeau has ruled out force, despite pressure from Conservatives, who accuse him of weakness, to send in police. Hansen Lee, a retired engineer in Vancouver, worries that such passivity has turned Canada into a “laughing stock”. Lawmakers are wary of repeating past showdowns with indigenous leaders that turned bloody. In a dispute over a plan to build a golf course near Oka in 1990 a policeman was killed; in the Ipperwash Provincial Park in 1995 a protester was shot.
 
 A deal to resolve the conflict would probably mean the Canadian government trading land, power and money for an end to protests, claims and court action. Future projects, such as a planned expansion of the Trans Mountain oil pipeline, are sure to reignite debate even if the particulars of the Coastal GasLink are resolved. Mr Trudeau now has a choice: he can exercise power or cede more of it. So far he seems unwilling to do either.■
+
+## URL
+
+https://www.economist.com/the-americas/2020/02/20/a-pipeline-through-historically-native-land-has-sparked-protests-in-canada

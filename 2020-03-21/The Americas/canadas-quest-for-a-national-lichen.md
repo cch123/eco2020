@@ -17,3 +17,7 @@ The tough question is not whether to designate a Canadian lichen but which one. 
 The bright orange elegant sunburst lichen (pictured) grows on rocks and bones. Hunters use it to find nests and burrows. Horsehair lichen, “intricate brown tresses festooning the branches of fir, spruce and pine”, is eaten by flying squirrels. Trevor Goward, a naturalist, favours it because it contains a third element, yeast (also a type of fungus). Its three-part composition best represents “the origins of Canada: First Nations, the French and the English”, he says. Troy McMullin, a botanist who launched the vote, is rooting for the star-tipped reindeer lichen, which “grows like a cauliflower and is instantly recognisable, if you have what I call lichen eyes”. 
 
 But the road to national recognition is rocky. In a ballot four years ago, almost 50,000 Canadians voted on a national bird. They chose the loon, which appears on the one-dollar coin, but the Royal Canadian Geographic Society insisted on the grey jay. The government did not endorse it, perhaps because it had already singled out the beaver and backed a horse. Lichens may be luckless, too. The Department of Canadian Heritage is “not actively considering” adopting one as a symbol. The pro-lichen movement will have to be a grassroots one.
+
+## URL
+
+https://www.economist.com/the-americas/2020/03/19/canadas-quest-for-a-national-lichen

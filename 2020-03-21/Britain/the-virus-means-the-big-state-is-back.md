@@ -35,3 +35,7 @@ The government of Clement Attlee, Winston Churchill’s successor, offers an ana
 The challenge for liberals, argues David Gauke, a former treasury minister, is not to fight the growth of the state on principle, but to ensure that government does not revert to the bad habits of producer-capture and pork-barrel spending. The need, he argues, is to reconcile the big state that is likely to be needed with a flourishing market economy, and to ensure it is efficient and effective. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter), or visit [our coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/03/21/the-virus-means-the-big-state-is-back

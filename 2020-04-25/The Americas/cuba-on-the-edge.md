@@ -31,3 +31,7 @@ Worse may be in store. At the front of Cubans’ minds is fear of another “spe
 The Trump administration, in which Cuban-Americans play a significant role, is counting on tightening pressure to cause the collapse of communism. That is unlikely. In its island fastness, with its mixture of coercion and paternalism, the regime Fidel created has outlasted not just him but the lifelong resistance of people like Mr Batista. The immediate result of Mr Trump’s reversal of Barack Obama’s opening towards Cuba was to halt a cautious process of market reform. Coronavirus is likely to push it off the agenda altogether.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/the-americas/2020/04/23/cuba-on-the-edge

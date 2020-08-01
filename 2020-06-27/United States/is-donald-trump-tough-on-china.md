@@ -25,3 +25,7 @@ Another consolation is that the president’s effort to weaponise China electora
 A third upside, given undimmed bipartisan enthusiasm for confronting China, is that Mr Trump has provided a number of lessons in how not to go about that. And the weaker he looks, the more they are being heeded. Almost every Republican in Congress supported the Uighur human-rights bill that Mr Trump grudgingly signed into law last week. A bipartisan Tibet human-rights bill is in the pipeline. Meanwhile Mr Biden’s campaign, which three months ago was being pushed to sound more strident on China by the protectionist left as well as by the president, is instead starting to sound more thoughtful.
 
 A senior adviser to the former vice-president on China describes plans to identify and invest in the sources of America’s competitiveness. He cites the country’s economy, alliances and democratic values. It is too early to detect in this the makings of a successful China policy. Mr Biden has got a lot of foreign policy wrong over the decades. But it does have the advantage of sounding serious. “Being wrong” about America’s interests is another thing Mr Trump has defined down.■
+
+## URL
+
+https://www.economist.com/united-states/2020/06/25/is-donald-trump-tough-on-china

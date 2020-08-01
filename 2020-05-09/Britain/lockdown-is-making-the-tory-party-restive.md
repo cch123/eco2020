@@ -25,3 +25,7 @@ The longer parties stay in power, the less pliant they become, notes Philip Cowl
 The virtual parliament makes party management still trickier. Tea-room chats allow ministers to counsel dissenters and detect trouble. Some think the government risks losing votes if businesses are still shuttered by June. “It will take longer for a rebellion to come into being, but it will be harder to suppress, if the whip’s not there to grab you by the elbow,” says an MP.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/05/09/lockdown-is-making-the-tory-party-restive

@@ -23,3 +23,7 @@ Big sales and high profits have not. Bolivia’s producers are too small to attr
 They hope that locals will develop more of a thirst for the good stuff. Bolivia’s 11m people drink just 14m litres (3m gallons) of wine a year, a 20th of consumption in Belgium, which has the same number of people. Before covid-19, the National Association of Winegrowing Industries predicted volume would grow by 7% a year. Bolivian producers are protected by tariffs on imports of up to 40%. But those encourage contraband wine, especially from Argentina. A third of wine consumed in Bolivia is smuggled through the southern border.
 
 The temptation is to go down-market, especially after the economic shock from covid-19. But the Bolivians are loth to give up their newly won reputation for quality. “We’ve realised that is where our strength is,” says Mr Granier. Now they have to convince oenophiles at home and abroad.■
+
+## URL
+
+https://www.economist.com/the-americas/2020/04/23/bolivias-other-intoxicating-export-fine-wine

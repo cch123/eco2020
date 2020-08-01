@@ -23,3 +23,7 @@ Historians of Scottish politics say that, until Mr Salmond began his second stin
 Mr Salmond’s achievement was to bring these two warring factions together, instilling a discipline that was crucially important for the SNP’s victory in the 2007 Scottish parliamentary election. In effect, he brought the fundamentalists to heel behind a gradualist strategy. But now he has become a figurehead for those who favour a more radical approach.
 
 It is difficult to see how what emerges from the trial in the weeks ahead will help Ms Sturgeon to repair the split. Her reputation may suffer from persistent claims that she mishandled the allegations against Mr Salmond when they first surfaced. And whatever the outcome, she leads a party that now looks more divided than it was when she took it over.■
+
+## URL
+
+https://www.economist.com/britain/2020/03/12/the-fallout-from-alex-salmonds-trial-will-damage-the-snp

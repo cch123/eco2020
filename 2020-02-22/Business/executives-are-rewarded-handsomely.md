@@ -31,3 +31,7 @@ Mr Edmans’s view of pie-growing is nuanced. He advocates an approach to busine
 It is not pie in the sky. Mr Edmans conducted research about the companies ranked the “best to work for”, a measure of whether firms are looking after the interests of employees as well as investors. Shares in the firms with the best rankings outperformed in subsequent years, even when controlling for factors like business size and industrial sector.
 
 It is still going to be a big challenge to persuade companies to reward their executives on the social value they add. If that ever happens, the list of best-paid CEOs might be a completely different from the one today.
+
+## URL
+
+https://www.economist.com/business/2020/02/20/executives-are-rewarded-handsomely

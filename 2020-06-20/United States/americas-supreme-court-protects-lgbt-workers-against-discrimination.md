@@ -27,3 +27,7 @@ Justice Alito’s 54-page jeremiad berated the majority for failing to grapple w
 Religious conservatives who helped elect Mr Trump and were cheered by his Supreme Court picks are shocked by Justice Gorsuch’s defection from the cause. Their dismay may do little to soften evangelicals’ support for Mr Trump in November, but the decision to stand up for gay and trans rights may undermine several of his administration’s policies targeting LGBT people. A recently announced regulatory change allowing doctors to deny health care to trans people under the Affordable Care Act is now under a cloud, as are moves to allow adoption agencies to shut out same-sex couples and let school districts discriminate against trans students.
 
 For now, Bostock seems bound to serve conservatives with an example of two justices playing against type to burnish the image of the Supreme Court as a fair-minded tribunal. Chief Justice Roberts is particularly keen to rescue justices from the charge that they are merely politicians in robes. In 1989 Scalia joined the liberal side of the court to strike down a law banning flag-burning. That was his exhibit A of how his jurisprudence was rooted in law, not personal ideology. Justice Gorsuch, Scalia’s successor, now has a similar landmark. ■
+
+## URL
+
+https://www.economist.com/united-states/2020/06/18/americas-supreme-court-protects-lgbt-workers-against-discrimination

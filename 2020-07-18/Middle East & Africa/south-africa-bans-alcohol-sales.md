@@ -19,3 +19,7 @@ History partly explains these patterns. Under apartheid black miners and factory
 The new ban has supporters. As in the 1920s these include women who fear drunken male violence. But it would be better received if the state were not so arbitrary. Cigarette sales are also illegal. Casinos are open but most schoolchildren are at home. South Africans cannot meet family members but they can attend church.
 
 Hundreds of thousands of jobs depend on the alcohol supply chain. The first ban put 350 wine producers out of business. Tax collectors reckon they lost out on 1.3bn rand ($78m) in alcohol levies in April alone. Restricting sales takes away a source of pleasure, especially for those who cannot afford to bulk-buy pinotage. And though a short ban may help doctors for a time, history—and pineapple prices—suggest that in the long run prohibition fails. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/07/18/south-africa-bans-alcohol-sales

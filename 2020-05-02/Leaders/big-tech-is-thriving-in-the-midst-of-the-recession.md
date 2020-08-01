@@ -23,3 +23,7 @@ Just as some of the ingredients that defined the previous era grow stale, new so
 The big firms that are less well positioned are adapting fast to this emerging new era. Facebook is rushing to beef up its video-call offering. Google is boosting its cloud-computing operation and, to stimulate demand, Apple is discounting phones and promoting its services arm. But for now the winners are Microsoft and Amazon, both based farther north on the Pacific Shelf, in Seattle. The crisis has illuminated big tech’s resilience—but also that the balance of power is shifting.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/leaders/2020/05/02/big-tech-is-thriving-in-the-midst-of-the-recession

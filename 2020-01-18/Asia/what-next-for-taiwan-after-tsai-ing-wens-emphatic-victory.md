@@ -23,3 +23,7 @@ Yet things will surely get harder for Taiwan if America insists on a complete te
 Yet, for now, it is China and its traditional bases of support in Taiwan that are in a pickle. Chinese attempts to influence the election, from threats to disinformation campaigns, have backfired. Worse, after its electoral drubbing the KMT may launch into a debilitating civil war. Younger members blame the old guard for clinging too closely to the idea of reunification. They even want the party to abandon the “1992 consensus”, a diplomatic fudge hammered out between China and an earlier KMT government. It holds that there is only one China, even if both sides agree to disagree about what that means in practice.
 
 Up-and-coming types now argue that the KMT pays a price for being seen as pro-China when there is, as one former legislator puts it, “a global anti-China wave”. Eric Huang, a lecturer and prominent member of the KMT’s younger generation, argues that it is time for the party to “put US-Taiwan relations ahead of relations across the Taiwan Strait”. Such a radical move would appal Mr Xi and those around him. Yet, as in Hong Kong, he appears to have no Plan B.
+
+## URL
+
+https://www.economist.com/asia/2020/01/16/what-next-for-taiwan-after-tsai-ing-wens-emphatic-victory

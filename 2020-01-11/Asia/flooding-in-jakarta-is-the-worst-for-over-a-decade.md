@@ -21,3 +21,7 @@ Climate change compounds all this. Extreme rainstorms will become more frequent 
 Environmentalists want the government to replant forests on Jakarta’s fringes, saying this would help absorb some of the rains. The government says new dams it is building will help prevent future disasters. Improving waste collection and expanding access to tap water are on officials’ to-do list, too. In the long term, the government has grand plans to move Indonesia’s seat of government to a brand new city it wants to build on the island of Borneo. It is easy to see why the capital’s bureaucrats like the idea of a fresh start.■
 
 Sign up to our new fortnightly climate-change newsletter [here](https://www.economist.com//theclimateissue/)
+
+## URL
+
+https://www.economist.com/asia/2020/01/11/flooding-in-jakarta-is-the-worst-for-over-a-decade

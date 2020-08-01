@@ -29,3 +29,7 @@ In Donald Trump, who so disdains greens that the White House physician resorted 
 To a European transplant, the notion of vegetable gardening having any kind of partisan hue is nuts. Yet Lexington’s experience suggests that such politicking will not stop its resurgence. He expanded his vegetable plot—to the sunny front of his house—not because of the pandemic but after he finally mustered the courage to risk his neighbours’ wrath. Far from objecting, however, several have constructed raised beds of their own. One neighbour, a distinguished law professor, even followed your columnist into the local dumpsters in search of the necessary planks.
 
 This has led to an intense neighbourly exchange of seedlings, observations and advice. (And commiseration, after the rapacious chipmunks strike.) Great as it is to eat a home-grown squash, cultivating vegetables in a modern economy is fundamentally about such things, not producing calories. It is a useful activity, a blissful therapy, an adjunct to community. It is liberating and equalising. No wonder Thomas Jefferson ranked his best horticultural innovations alongside the Declaration of Independence. In returning to veg-growing, America is rediscovering its better self.■
+
+## URL
+
+https://www.economist.com/united-states/2020/06/18/america-rediscovers-the-joys-of-vegetable-growing

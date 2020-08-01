@@ -27,3 +27,7 @@ Chairman Rabbit’s real name is Ren Yi. He is the 40-year-old grandson of Ren Z
 Outsiders may scoff at the idea of swaggering, assertive China as a voiceless underdog. But Chinese public discourse is dominated, currently, by a mix of national pride and resentment of a West that is widely assumed to be acting in bad faith. In their millions netizens are demanding less freedom of speech, if a compatriot’s candour helps the West. It is an autocrat’s dream. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/china/2020/04/16/a-diarist-in-wuhan-faces-fury-for-sharing-her-story-with-the-west

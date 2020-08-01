@@ -4,7 +4,7 @@
 
 # Medicine is getting to grips with individuality
 
-> Their genes, environments and activities all make people different
+> Treatments can increasingly be tailored to the genes, environments and activities that make every patient different, says Natasha Loder
 
 > Mar 12th 2020
 
@@ -35,3 +35,7 @@ Beyond this, the “move fast and break things” attitude common in tech compan
 The very nature of medicine, though, means that the future will not just be a matter of business goals, research cultures, technological prowess, wise practice and well-crafted regulations. It will also be subject to the driving interests of particular individuals in ways never seen before. The development of gene-based medical research in Britain was deeply affected by the short, difficult life of Ivan Cameron, whose father, David Cameron, did much to build up genomics when he was prime minister. Many of those working in this field are impelled by personal loss.
 
 And then there are those whose interests stem from the way in which their own genes shape their lives. People like Dr Nizar, who is now crafting a new research agenda for Jansen’s disease. There may only be 30 people in the world who suffer from it. But two of them are her children, and they are in ceaseless pain. Science knows why; medicine cannot yet help. “We believe in miracles,” she says. She is also working to make one happen. ■
+
+## URL
+
+https://www.economist.com/technology-quarterly/2020/03/12/medicine-is-getting-to-grips-with-individuality

@@ -23,3 +23,7 @@ To become a candidate, a member must put you forward before July 8th. The winner
 The Americans and the Europeans say they want to arrange a speedy replacement for Mr Azevêdo, who leaves on August 31st. But if the WTO’s past trade rounds are a guide, resolution won’t be swift. Many members will stall, in case Donald Trump loses America’s presidential election. Prepare to wait for months, even years.
 
 A quick approval, against those odds, could mean that members want to save the institution. Or it could mean that you are bland enough that no one could rouse themselves to object to your appointment: a sorry form of comparative advantage. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/05/23/a-memo-to-candidates-for-the-wtos-next-boss

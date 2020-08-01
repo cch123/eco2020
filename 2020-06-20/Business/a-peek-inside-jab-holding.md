@@ -27,3 +27,7 @@ The same cannot obviously be said of the cosmetics arm. Mr Harf may have overpai
 “Overall Mr Harf has done well for the Reimanns,” says Jean-Philippe Bertschy at Vontobel, a Swiss bank. Despite Coty’s pallid record, JAB investor returns have averaged 15% a year since 2012. But Mr Bertschy cautions JAB against more break-neck acquisitions. Previous ones provoked the departure last year of JAB Holding’s chairman, Bart Becht, who reportedly quit after failing to convince the other partners to scale back expansion and focus instead on running the companies under their wings better. 
 
 Mr Harf will now try to do just that. The spry 74-year-old plans to overhaul Coty, starting with distribution. That will not be easy. Cosmetics is cut-throat and Coty must find a niche between the two giants of the industry, L’Oréal and Estée Lauder, and trendy “indie” brands. At least Mr Harf has plenty of coffee to keep him going. ■
+
+## URL
+
+https://www.economist.com/business/2020/06/18/a-peek-inside-jab-holding

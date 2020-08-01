@@ -33,3 +33,7 @@ And governments should prepare for the grim business of balancing budgets later 
 Perhaps interest rates really will stay low while growth rebounds and inflation rises just slightly, easing the burden of debt. More likely is that living with high debts will be a nerve-racking and gruelling slog. Making budgets add up looks as if it will be a defining challenge of the post-covid world—one that today’s politicians have not yet even started to confront.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/leaders/2020/04/23/after-the-disease-the-debt

@@ -27,3 +27,7 @@ Not all attempts to bring about change have been stillborn. When Paul Samuelson,
 The biggest obstacle to reforming the state is not the establishment’s resistance to reform but the government itself. Mr Johnson instinctively values loyalty, to both himself and Brexit, above competence, particularly if the loyalty comes from Brexiteers. His predecessor, Theresa May, voiced many people’s worries when she asked, regarding Mr Frost’s appointment, “Why…is the new national security adviser a political appointee with no proven expertise in national security?” Mr Johnson is also surrounded by people—particularly Mr Cummings—who think that the only way to achieve change is to wage war. This is as counterproductive as it is thuggish. It turns potential allies into enemies and green shoots into scorched earth.
 
 This government has a better chance of building a more effective British state than any government in decades. If it fails, it will have only itself to blame.■
+
+## URL
+
+https://www.economist.com/britain/2020/07/02/the-government-takes-on-the-civil-service

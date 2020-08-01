@@ -37,3 +37,7 @@ This may begin to change thanks to efforts to make the world’s largest free-tr
 Another change is the emergence of a startup culture. Last year venture-capital funds invested about $1.3bn in new African firms, an increase of more than 600% over the $200m invested in 2015. It may take a while for economists to work out what building blocks went into this startup boom, but one must be the rising number of educated youngsters—enrolment rates in tertiary institutions across Africa almost tripled to 16% between 2000 and 2016.
 
 Investing in a business anywhere is always a gamble. But in many parts of Africa the risks are needlessly exacerbated by governments. Foreign investors who have seen regular debt crises in many African countries assume that their returns will be diluted by currency devaluations. Many worry about corruption, civil conflict or that their businesses will be expropriated. The big difference between countries that are doing well and those that are not is how well they are governed and how stable they are. ■
+
+## URL
+
+https://www.economist.com/special-report/2020/03/26/many-of-africas-economies-are-doing-well

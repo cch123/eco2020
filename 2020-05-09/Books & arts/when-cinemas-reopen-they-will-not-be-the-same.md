@@ -29,3 +29,7 @@ But increasingly, cinematic releases make sense only for the biggest blockbuster
 Critics complain that the emphasis on “event movies” is making studios tediously conservative about what they green-light. All of America’s ten most successful films last year were part of a series, like “Avengers: Endgame”, or remakes, like “The Lion King”. That was the case for only two of the top ten in 2000. And what Hollywood produces, the rest of the world watches: last year’s global top ten was almost identical to America’s. In truth, studios won’t stop making lower-budget features; apart from anything else, they need to try out new actors and new ideas (it wasn’t always obvious that comic-book adaptations would be money-spinners). But increasingly, the tiddlers will go straight to streaming.
 
 All this is only a continuation of television’s century-long siphoning of content away from the cinema. Movie theatres were once the home of all types of video. From the 1950s TV nabbed news, cartoons and serials, leaving cinemas with only feature films. Now streaming is sucking up many of those too, so that the theatre is a place to visit just for event movies. Something is being lost: an evening at home with Netflix isn’t quite the same as a night at the Ocala, reflects Mr Watzke. People may enjoy a film just as much on TV. But “if they see it at the drive-in, it’s a memory.” ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/05/07/when-cinemas-reopen-they-will-not-be-the-same

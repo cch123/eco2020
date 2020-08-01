@@ -19,3 +19,7 @@ Hekla arrives in Reykjavik in 1963 with grand plans to become a writer. Almost i
 One who doesn’t is her childhood friend Jon John, who gives her a room of her own in which to write. A gay man who wants to make theatre costumes but instead endures hard graft and homophobia on fishing trawlers, he is one of several characters stuck in a rut. Another is Isey, a housewife who battles loneliness and domestic drudgery in her basement flat while her husband is away. Determined to be different, and desperate to leave behind the leering and groping diners she serves in her waitressing job, Hekla redoubles her efforts to finish her manuscript and get published. Praise from her boyfriend, a less gifted writer, spurs her on: “You’re the glacier that sparkles, I’m just a molehill.” However, as a woman, she finds some avenues closed, and she and Jon John decide to cut their losses and search for freedom and artistic success farther afield.
 
 In previous books, Ms Audur Ava Olafsdottir occasionally relied too much on eccentric foibles and hare-brained antics. In “Miss Iceland” she judiciously downplays the oddities, particularly when exploring weighty issues such as sexual harassment and discrimination. In other welcome changes, she incorporates world events and numerous references to Iceland’s rich literature. And yet this captivating novel’s finest component is its endearing heroine who, at her journey’s end, has learned to follow her dreams but know her limits. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/08/01/sexism-and-self-discovery-in-reykjavik

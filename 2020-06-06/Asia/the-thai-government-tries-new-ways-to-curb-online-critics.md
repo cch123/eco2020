@@ -21,3 +21,7 @@ Notable outbursts include rage on Twitter over traffic jams in Bangkok caused by
 Other Thais are cautious almost to paranoia. Fears last month that Twitter might in some way be sharing information with the Thai government led tens of thousands to switch to an alternative social platform called Minds. “The assertion we’re in co-ordination with any government to suppress speech has no basis in fact whatsoever,” says Kathleen Reen, who works for Twitter in the region.
 
 That will come as a relief to the many Thais who have been using such hashtags as #WhyDoWeNeedAKing and #RIPThailand. “[Thais] have the platforms to release their frustrations,” explains Titipol Phakdeewanich of Ubon Ratchathani University, “but it is not easy to translate that to a real movement.” That suits Mr Prayuth. ■
+
+## URL
+
+https://www.economist.com/asia/2020/06/04/the-thai-government-tries-new-ways-to-curb-online-critics

@@ -35,3 +35,7 @@ Some of the president’s critics can only see the virus through a Trump lens. T
 The White House is as bizarre as ever. The president had no chief-of-staff for much of March. In less than a week he has got rid of the inspectors-general of the intelligence community and the watchdog overseeing the $2trn federal stimulus. The Navy fired the captain of an aircraft-carrier for reasons that seem to have more to do with politics than with carrying aircraft. The Navy secretary then had to resign. But the virus is bigger than Trump.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/united-states/2020/04/11/the-white-house-v-covid-19

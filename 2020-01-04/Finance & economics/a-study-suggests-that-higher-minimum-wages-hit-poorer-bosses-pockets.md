@@ -17,3 +17,7 @@ The researchers’ central insight is that firms with relatively low profits dis
 Since business owners with low earnings relative to their peers are still relatively well off compared with the general population, raising the minimum wage is still progressive. But it may seem unfair, as low-income businesspeople pay, but richer business owners and better-off employees do not. Those lower-income bosses who were hardest hit by minimum-wage increases earned only about as much as many mid- to high-earning workers. And a higher minimum wage is less progressive than raising taxes, which fall most heavily on the best-off, in order to fund tax credits for the poor. America’s earned-income tax credit works along these lines.
 
 In some places, minimum-wage rules are designed to try to minimise the impact on low-earning firms. In America they apply only to businesses with sales exceeding a certain threshold. In South Korea, a minimum-wage increase in 2018 was accompanied by subsidies for small firms. The authors do not discuss how Israel’s lack of such provisions might affect their findings. But they do suggest using an employer tax credit to offset the disproportionate burden of minimum wages on low-income firms. Policymakers aiming to fight poverty and increase equity with minimum wages would do well to consider unintended effects.
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/01/02/a-study-suggests-that-higher-minimum-wages-hit-poorer-bosses-pockets

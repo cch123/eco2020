@@ -23,3 +23,7 @@ Firms are also producing antivirus kit for their own use, in order to meet new w
 The government has assured virus-fighting firms that it will buy leftover stock. It has also directed state banks to grant cheap loans to those making crucial equipment. Xiaomi, a smartphone-maker, is among those seeking a 5bn-yuan loan to make thermometers and other gear, according to Reuters. Authorities have already reportedly caught some 50 state-owned borrowers masquerading, literally, as makers of face masks and such.■
 
 Dig deeper:
+
+## URL
+
+https://www.economist.com/business/2020/03/14/chinese-companies-rush-to-produce-anti-covid-kit

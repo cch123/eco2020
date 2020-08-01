@@ -53,3 +53,7 @@ The trick is to find a suitable combination of molecules to do the kicking witho
 Caution is needed here. Dr Diaz has not sampled solid tissue such as lymph nodes where HIV tends to hide, nor has his claim that his patient’s blood is virus-free been independently verified. But if confirmation comes, and the patient continues to do well, then this would be an important result. A safe, permanent alternative to a lifetime on ARVs would be a wonderful thing.
 
 So, did the enforced transfer to cyberspace work? As a one-off, certainly. More than 20,000 people registered, a number similar to previous meetings, and the lectures themselves were well attended. As to those who came, Gopal Shrestha, a Nepalese who was the first HIV-positive person to climb Mount Everest, said he found the meeting fruitful. And Mark Dybul, the founding head of PEPFAR, while regretting the difficulty of remote networking, observed that future conferences could have the best of all worlds by permitting both physical and virtual attendance. If that happens, then some virtue may have come out of what was a necessary decision. ■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/07/08/this-years-aids-conference-has-brought-snippets-of-good-news

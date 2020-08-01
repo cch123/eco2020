@@ -81,3 +81,7 @@ If all else fails, “sell it to one of the big uglies”, says one VC chief. Th
 Even if some unicorns are spared—through mergers, acquisitions or just good fortune—the coronavirus is certain to ravage the herd. It will probably put the term itself, which has come to denote excess and broken promises, out to pasture. A new word may be needed, says Mr Khosrowshahi, to describe what is left. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/briefing/2020/04/04/technology-startups-are-headed-for-a-fall

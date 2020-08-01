@@ -19,3 +19,7 @@ The covid-19 pandemic has put a stop to that. Excitable crowds in stadiums prese
 It is unclear when Damduck will next be able to fight. Jinju’s bullfighting stadium is in dire need of refurbishment. The local government has in principle decided to put up the cash, but has not set a date for work to begin. The pandemic will probably not accelerate things. What is more, some members of the local assembly have begun to ask whether the fights are cruel, much to the dismay of Mr Lee. “We would do anything for our bulls, we don’t abuse them,” he says. Critics attack not just the fights themselves, which occasionally result in injuries to the bulls, but also the training regimen, which is rumoured to involve forcing bulls to drag car tyres uphill and feeding them soju, a local spirit. (Mr Lee says his bulls eat only nutritious homemade porridge.)
 
 Huh Jeong-lim of the local culture committee says no decision has been reached on how to resolve the conflict between animal-rights activists and bull owners. “It will be a long-term discussion,” she says. Mr Lee, for his part, hopes the fights will pick up again once the pandemic is at bay. “It puts you on the edge of your seat watching them butt heads,” he says. “It’s just a fight—everybody loves a fight.” ■
+
+## URL
+
+https://www.economist.com/asia/2020/06/25/bullfighting-is-under-attack-in-south-korea

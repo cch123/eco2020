@@ -29,3 +29,7 @@ Complicating things is a former plumber, Bob Hamilton, who plunged into the prim
 As for the November election, polls show Ms Bollier as likely to win as any Republican. Her challenge is to sustain that after August, once she faces a single opponent. If she really is to end the Democrats’ 88-year losing streak in Kansas, she probably needs Mr Trump’s popularity to dip more. Because voters seldom now split their ballots between president and Senate, she needs more Kansans to think again about the top of the ticket. That was the formula in 1932, after all. Kansas last got a Democratic senator when FDR won a national landslide for his party. ■
 
 Dig deeper:Sign up and listen to Checks and Balance, our [weekly newsletter](https://www.economist.com//checksandbalance/) and [podcast](https://www.economist.com//podcasts/2020/07/17/checks-and-balance-our-weekly-podcast-on-american-politics) on American politics, and explore our [presidential election forecast](https://www.economist.com/https://projects.economist.com/us-2020-forecast/president)
+
+## URL
+
+https://www.economist.com/united-states/2020/07/11/could-democrats-pick-up-a-senate-seat-in-kansas

@@ -31,3 +31,7 @@ France slapped a €1.1bn ($1.2bn) fine on Apple for conniving with wholesalers 
 HSBC appointed Noel Quinn as its chief executive. Mr Quinn was given the job on an interim basis when John Flint was defenestrated last August and is ploughing ahead with a huge restructuring at the bank.
 
 Stepping up to the coronavirus crisis in France, LVMH, the world’s biggest maker of luxury goods, switched its perfume and cosmetic production lines to make hand sanitiser, which it is giving away to hospitals. Sites that made Dior and Givenchy scents are now churning out hydroalcoholic gel.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/03/21/business-this-week

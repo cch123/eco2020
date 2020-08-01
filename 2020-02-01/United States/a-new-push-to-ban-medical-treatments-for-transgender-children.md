@@ -39,3 +39,7 @@ Few doctors worried by these problems are prepared to speak about them openly. T
 In such a polarised environment, bills proposing blanket bans of puberty blockers are likely to be counterproductive. They may push advocates for early intervention to further extremes. A better approach would be twofold. A neutral assessment of the existing data on the use of blockers, hormones and their effects would help patients and their families make decisions. Most existing research has been undertaken by those working in the field. At the same time, clinics should ensure that children in transgender clinics undergo comprehensive mental-health evaluations.
 
 For all this to happen there needs to be an acknowledgment of the dangers of starting children on often irreversible treatments. At present, that is unimaginable.■
+
+## URL
+
+https://www.economist.com/united-states/2020/01/30/a-new-push-to-ban-medical-treatments-for-transgender-children

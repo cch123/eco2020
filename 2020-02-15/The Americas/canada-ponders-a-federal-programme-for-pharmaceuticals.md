@@ -35,3 +35,7 @@ Before the election Mr Trudeau promised a C$6bn “downpayment” on pharmacare 
 The government has begun an economy drive. It is lowering price ceilings by removing the highest-cost countries, such as the United States, from federal benchmarks. That will reduce national spending on drugs by a modest C$130m a year on average over the next decade, it expects. The government also plans to establish a national drugs agency to improve co-ordination with provinces in bargaining with pharmaceutical firms and to consider ways to standardise and expand drug coverage. But this may take years. Until then, Canada will not be quite the role model that Mr Sanders thinks it is.■
 
 Correction (February 13th): A previous version of this story mis-named the New Democratic Party. This has been changed.
+
+## URL
+
+https://www.economist.com/the-americas/2020/02/15/canada-ponders-a-federal-programme-for-pharmaceuticals

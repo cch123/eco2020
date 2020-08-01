@@ -29,3 +29,7 @@ Telemedicine firms are trying to win over the government and consumers by behavi
 All this is costing the companies money. But, says Mr Xin of JD Health, it makes “little sense” to focus on profit at the moment. What matters, he adds, is how covid-19 has made people think twice about rushing to hospital and helped foster trust in general practitioners, who provide the bulk of online advice. It has also broadened the appeal of firms like his, beyond middle-aged patients with chronic conditions to web-savvy youngsters seeking advice for parents and grandparents and healthy types simply seeking reassurance. Of the 10m people who have turned to the internet for health services in the past month, perhaps half were first-time online patients, says Ms Chen. At least a third are likely to keep using such apps, she estimates. 
 
 It is not just patients and politicians who are embracing telemedicine. JD Health has lured more pharmacies to its platform (in part by waiving the fee it earns on drug orders in Hubei). China’s underpaid, overworked doctors are also keen. Xiao Xingxing left a AAA hospital in Beijing to consult full-time for JD Health; many old colleagues and classmates are doing the same, she reports. And against the backdrop of a global, virus-induced stockmarket rout, Chinese online health firms offer a tonic to ailing investors. This year the share prices in Ping An Healthcare and Ali Health are up by 33% and 74%, respectively. ■
+
+## URL
+
+https://www.economist.com/business/2020/03/05/millions-of-chinese-cooped-up-and-anxious-turn-to-online-doctors

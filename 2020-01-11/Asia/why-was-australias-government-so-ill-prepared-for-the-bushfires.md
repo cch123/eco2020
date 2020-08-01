@@ -33,3 +33,7 @@ If this season’s fires do not change calculations “then nothing will,” say
 Labor, still pulling itself together after its surprise defeat in May, has not applied much pressure. Its leader of seven months, Anthony Albanese, promises to do more to tackle climate change. But he disappointed green campaigners by touring Queensland in early December, a trip viewed by some as an effort to reassure big coal exporters. Australia’s two big parties are locked in a “hideous death dance”, reckons Sarah Maddison, a political scientist at the University of Melbourne. “This is the end result.”■
 
 Correction (January 15th 2020): The original version of this piece said that Australia’s greenhouse-gas emissions were rising. In fact, recent revisions to the data suggest they are roughly stable.
+
+## URL
+
+https://www.economist.com/asia/2020/01/11/why-was-australias-government-so-ill-prepared-for-the-bushfires

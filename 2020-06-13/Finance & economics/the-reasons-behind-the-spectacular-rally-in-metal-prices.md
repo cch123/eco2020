@@ -23,3 +23,7 @@ There is a speculative element to the rise in metal prices, too. Buying or selli
 The complex of price changes becomes self-reinforcing. Higher ore prices bring higher-cost producers back to the market. But their profit margins are then squeezed as their home currency appreciates, because that raises the cost of labour in dollars, in which commodities are priced. To restore margins, prices must go up. Moreover, marginal costs rise when the prices of steel (used for mining parts) and oil (used for energy and chemicals) go up. These higher costs push up prices further, says Mr Layton.
 
 A pattern in markets is that a lot happens by rote. China’s response to a weak economy is to build; investors’ response to the Fed’s easing is to buy stocks; the algorithms’ response to a weaker dollar is to buy commodities. Higher prices beget higher prices. The sceptics, the too-sooners, note that this also works in reverse. Quite so. But the momentum is now with the believers.
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/06/11/the-reasons-behind-the-spectacular-rally-in-metal-prices

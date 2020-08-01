@@ -27,3 +27,7 @@ The subcommittee will now write a report, to be published later this year. It is
 If there is big antitrust news before the election it is likely to come in the form of lawsuits. Insiders say the Department of Justice is intent on filing one by September—perhaps with some state attorneys-general—against Google for having extended its monopoly in online-search advertising into other areas of digital marketing. The Federal Trade Commission may follow suit by going after Facebook, though it is unclear what it would focus on. Such cases tend to take years. The four tech bosses may have had a few unpleasant hours, but their power is safe for now. ■
 
 Dig deeper:Sign up and listen to Checks and Balance, our [weekly newsletter](https://www.economist.com//checksandbalance/) and [podcast](https://www.economist.com//podcasts/2020/07/24/checks-and-balance-our-weekly-podcast-on-american-politics) on American politics, and explore our [presidential election forecast](https://www.economist.com/https://projects.economist.com/us-2020-forecast/president)
+
+## URL
+
+https://www.economist.com/united-states/2020/07/30/big-techs-grilling-provides-more-show-than-substance

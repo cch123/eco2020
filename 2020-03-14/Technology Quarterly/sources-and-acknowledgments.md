@@ -85,3 +85,7 @@ Kelly CJ, Karthikesalingam A, Suleyman M, Corrado G, King D. Key challenges for 
 Singer N. These Apps Say You May Have a Health Disorder. What if They’re Wrong? New York Times. October 27, 2019.
 
 Larsen ME, Huckvale K, Nicholas J, et al. Using science to sell apps: Evaluation of mental health app store quality claims. npj Digit Med. 2019;2(1):18. 
+
+## URL
+
+https://www.economist.com/technology-quarterly/2020/03/12/sources-and-acknowledgments

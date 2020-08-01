@@ -27,3 +27,7 @@ Some Lebanese advertise their housekeepers on Facebook as if they were property.
 Faustina Tay, a Ghanaian maid in Lebanon, was found dead in March in the car park underneath the home where she worked. Doctors ruled her death the result of a fall. Her case was not unusual. Even before the economic crisis, human-rights groups estimated that around two domestic workers died each week in Lebanon, mostly by suicide. (Not all are African.)
 
 For years activists have urged the government to scrap the kafala system, which prevents foreign workers from leaving an abusive employer without also leaving the country. Economic crisis may make the issue less pressing: fewer Lebanese can afford to employ foreign maids. In June a Ghanaian television channel covered the return of 211 citizens from Lebanon, most of them female domestics. They described long hours, beatings and having to steal food to survive. “No one should make that mistake and go back to Lebanon,” one woman said. “They don’t respect us.” ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/07/23/bigotry-against-black-people-poisons-the-arab-world-too

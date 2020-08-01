@@ -29,3 +29,7 @@ The fatality rate in any country will depend primarily on the quality of care it
 Dig deeper:
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/international/2020/03/12/fatality-rates-for-covid-19-could-vary-enormously

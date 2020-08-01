@@ -29,3 +29,7 @@ Now pressure is building to liberalise. A peace agreement in 2016 ended the war.
 So far, though, the push to open up has had little support from the top. The government has made some permits easier to apply for, but did not reduce their number or cost. For now, it seems, only rich Colombians will be able to afford wine. Others will drown their sorrows in aguardiente.■
 
 *“Comercio Exterior en Colombia: Política, Instituciones, Costos y Resultados”, edited by Jorge García García, Enrique Montes Uribe, Iader Giraldo Salazar. Banco de la República.
+
+## URL
+
+https://www.economist.com/the-americas/2020/02/06/the-costs-of-colombias-closed-economy

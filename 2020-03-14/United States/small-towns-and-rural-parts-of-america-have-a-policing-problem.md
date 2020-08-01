@@ -21,3 +21,7 @@ Thomaston is not alone in debating the future of policing in its town hall. Rura
 Jim Burch of the National Police Foundation, a research outfit, says contract policing with a larger county agency can work well. But, he says, it comes at a cost. Response times can be slower. And local policing brings other benefits. Mr Hoppe knows everyone in Thomaston. Two people have died from opioids in the past two weeks in his town. He knew them both.
 
 The Department of Justice recently held a series of sessions around the country to understand the troubles of local law-enforcement agencies. The hope is that the feds will adjust funding to give rural police forces some backup.■
+
+## URL
+
+https://www.economist.com/united-states/2020/03/12/small-towns-and-rural-parts-of-america-have-a-policing-problem

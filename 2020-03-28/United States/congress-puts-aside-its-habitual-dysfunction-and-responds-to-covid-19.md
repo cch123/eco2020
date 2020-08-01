@@ -43,3 +43,7 @@ Mr Trump appears to be defaulting into an old playbook—vacillating wildly in t
 Correction (March 26th 2020): An earlier version of this article mistook Morgan Stanley’s annualised quarter-on-quarter growth forecast for its year-on-year growth forecast. Sorry.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/united-states/2020/03/26/congress-puts-aside-its-habitual-dysfunction-and-responds-to-covid-19

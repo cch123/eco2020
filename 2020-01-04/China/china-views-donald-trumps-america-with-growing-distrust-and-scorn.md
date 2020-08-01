@@ -41,3 +41,7 @@ Chinese officials who favour Mr Trump’s re-election hope that he will feel fre
 All this fulminating does not mean that China seeks to match the hawks in Washington and drag their two countries into a new cold war, in which the world is divided into rival camps. China believes that most other nations do not want to choose between it and America, at least for now. China is playing for time, as it builds its strength and tries to construct alternatives to such potent tools of American power as the dollar-denominated financial system. China’s interest in developing its own blockchain technology and international payment systems is in part a sign of its fear of American sanctions that would expel Chinese banks from American markets.
 
 Some Chinese voices say their country has not lost interest in an offer China made to Mr Trump’s predecessors, involving a “new model of great-power relations”: code for carving the world into spheres of geopolitical influence, and an end to American carping about China’s ways. Others stress China’s right to help write the rules of globalisation. That would be reasonable, were it not that China’s aim is to make the world safe for techno-authoritarian state capitalism. Chinese officials want to avoid confronting America for now. But few silverbacks gracefully retire. Increasingly, America is seen as an obstacle to China’s rise. That means trouble looms. ■
+
+## URL
+
+https://www.economist.com/china/2020/01/02/china-views-donald-trumps-america-with-growing-distrust-and-scorn

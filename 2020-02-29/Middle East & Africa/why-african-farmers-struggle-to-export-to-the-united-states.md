@@ -27,3 +27,7 @@ In Britain, too, trade with Africa is on the agenda. Boris Johnson, the prime mi
 In the long run, big emerging markets may be more important to Africa. The CGD reckons that poor countries would be able to export three times more if they were given unrestricted access to Brazil, China and India as well as the OECD, than if they were given full access to the OECD alone.
 
 Still, little can be achieved unless African exporters take the bull by the horns and force their way into new markets. Once again, Namibia’s MeatCo is leading the charge. Last year it sent the first-ever shipment of African beef to China. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/02/27/why-african-farmers-struggle-to-export-to-the-united-states

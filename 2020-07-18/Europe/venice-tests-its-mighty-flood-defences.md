@@ -23,3 +23,7 @@ The other doubt is whether Italy can afford MOSE’s astronomic running costs, e
 But even if this ill-starred scheme can be made to work, Venice will be far from safe. The sea surges and their effects are newsworthy, telegenic and easy to explain. Not so the other threat facing Venice: the inexorable rise in the everyday level of the water in the city, which is eating away at its fabric. The proof can be seen in strips of marine vegetation that run along the brickwork above the base of canal-side houses instead of attaching to the stone of the foundations as they once did. Few but the Venetians notice it, and those who do often see it as evidence that Venice is sinking. It no longer is; in fact, the causes are global warming and the loss of salt marshes that used to slow and partially absorb seawater.
 
 What to do? Keeping big ships, including cruise liners, out of the lagoon would help. But Pietro Teatini, professor of hydrology at Padua university, has a more ambitious idea: lift up Venice. Raising the ground by just 20-30cm would make a huge difference. Mr Teatini thinks it can be done by pumping seawater into the already salty aquifers below the city. In 2008 it was estimated that a pilot scheme would cost €11.1m to launch and €1.4m a year to run; the full project around €80m and €10m a year. Compare that with the €6bn that MOSE has devoured. All the professor needs is a philanthropist who wants to be remembered as the saviour of St Mark’s Square. ■
+
+## URL
+
+https://www.economist.com/europe/2020/07/16/venice-tests-its-mighty-flood-defences

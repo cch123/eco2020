@@ -21,3 +21,7 @@ The STAR Market’s most eye-popping valuations are for companies whose products
 By all technical accounts that looks rich. Experts consider SMIC and AMEC to be behind cutting-edge Western rivals. So how did the STAR Market come from nowhere to become the world’s largest money pile for tech in just a year?
 
 The short answer is the tussle for technological and economic supremacy between America and China. SMIC delisted from the New York Stock Exchange last year, ostensibly for administrative reasons—but looming American legislation that could bar Chinese companies from American exchanges may well have weighed on its decision, too. An investment in the likes of SMIC or AMEC is, in other words, a wager that Beijing’s ambition of semiconductor independence is realistic—and that the Communist Party will not allow its champions to fail, even if they could not match high-end global competition. Judging by the STAR 50 index, up by nearly 50% so far this year (see chart), plenty of investors like those odds. ■
+
+## URL
+
+https://www.economist.com/business/2020/08/01/why-chinas-answer-to-nasdaq-is-going-gangbusters

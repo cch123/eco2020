@@ -17,3 +17,7 @@ Ms Dell then asked why the mita had such damaging effects. She showed that hacie
 Hacienda owners may not have been benevolent, but they did have the power to lobby for public goods. That meant that places outside mita areas had decent roads. But those inside them did not, and had fewer means and incentives to invest. (Even after the system was phased out, inhabitants had to contend with the confiscation of their land, as well as bandits.)
 
 The research formed Ms Dell’s master’s thesis and was published in a top journal in 2010. Though her broader body of research won her the medal, this paper, gushed the prize-giving committee, “beautifully” illustrates her work, which draws on history, and “very convincingly” pinpoints cause and effect. Now a professor at Harvard University, Ms Dell still explores the role of the state as an engine of development. Together with Benjamin Olken of MIT, for instance, she shows that colonial institutions can have mixed effects: Indonesian villages closer to Dutch sugar factories are today richer than those further away. By combining history and economics, Ms Dell uses the past to shine light on today.■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/04/30/melissa-dell-wins-the-john-bates-clark-medal

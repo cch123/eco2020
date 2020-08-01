@@ -81,3 +81,7 @@ Higher taxes, tried a little in the wake of the financial crisis, could be targe
 While the world’s chief problem is battling an economic slump in which inflation is falling, such choices are tomorrow’s business. They will not weigh heavily on policymakers’ minds. Even economists with reputations as fiscal hawks tend to support today’s emergency spending, and some want it enlarged. Yet one way or another, the bills will eventually come due. When they do, there may not be a painless way of settling them. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/briefing/2020/04/23/the-pandemic-will-leave-the-rich-world-deep-in-debt-and-force-some-hard-choices

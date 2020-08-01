@@ -37,3 +37,7 @@ His critics have their own difficulties. The conservative People’s Party (PP) 
 Mr Sánchez has made verbose and repetitious televised speeches, much mocked by opponents. But many Spaniards like the fact that he is engaging with the problem and with them, says Charles Powell of the Elcano Royal Institute, a think-tank. Spaniards have generally been more disciplined than other Europeans in observing the lockdown. “There’s an element of Spanish patriotism, not nationalism, in this,” says Mr Powell. “My prediction is that Sánchez will come out of it looking stronger.” ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/03/26/spain-has-suffered-more-covid-19-deaths-than-any-country-save-italy

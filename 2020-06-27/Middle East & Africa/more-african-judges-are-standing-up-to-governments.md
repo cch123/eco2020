@@ -29,3 +29,7 @@ After his re-election was overturned in 2017, Uhuru Kenyatta, Kenya’s presiden
 Since Mr Kenyatta’s re-election, the government has made life difficult for the chief justice, David Maraga, and his colleagues. Judgments against the state are routinely ignored and the president has refused to confirm the appointments of 41 judges since July last year. A backlog of cases has grown to more than 600,000.
 
 Some judges may take solace in Mr Maraga’s refusal to yield, even if they are unwilling to emulate his lonely struggle. In Malawi judges may be in for an easier time, since Mr Mutharika seems unlikely to return to office (the results of the election were not out when The Economist went to press). “Judiciaries in Africa are at a crossroads,” says Willy Mutunga, Mr Maraga’s predecessor as chief justice. “They either become appendages of the forces that subvert their independence or resist those forces in the interests of the country.” ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/06/25/more-african-judges-are-standing-up-to-governments

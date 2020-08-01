@@ -25,3 +25,7 @@ Her concern overlaps with Mr Malpass’s preoccupations. In his previous job at 
 Ms Reinhart’s investigations do not always reflect badly on China. Her list of the 50 countries most indebted to the Middle Kingdom (relative to their GDP) includes few places of great geopolitical significance (exceptions include Pakistan and Sri Lanka). And she and her colleagues have uncovered 140 examples of China restructuring or relieving the debts of poor countries, although it rarely co-ordinates with other creditors. (China has also signed up to the G20’s recent initiative to suspend debt service on bilateral government loans to 73 poor countries.)
 
 The World Bank, then, has found another world-class chief economist. Ms Reinhart’s tenure is unlikely to be much quieter than her predecessors’. The hope is that it is a little longer. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/05/30/the-world-bank-lands-carmen-reinhart-as-chief-economist

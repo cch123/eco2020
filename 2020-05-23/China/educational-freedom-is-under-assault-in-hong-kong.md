@@ -23,3 +23,7 @@ One of Ms Lam’s predecessors, Leung Chun-ying, announced that a website for pr
 Chaguan spoke this week to four teenagers who took the history paper causing all the fuss. Earnest and shyly twisting their headphone cables during a group Zoom interview, the students made clear that as they walked into their exam they saw exploring all sides of a historical question mostly as a step required to gain full marks. Yet now that others have politicised Question 2(c), they are ready to defend a quest for balance as a matter of principle.
 
 One student said she had been pondering a history major, and possibly a teaching career. But seeing her own teachers self-censoring, she is having second thoughts. A second teenager moved from the mainland eight years ago. Frightened of how Hong Kong’s schools are becoming breeding grounds for protesters, her parents sent her younger sister to school on the mainland. A boy recalled rows with his pro-government parents, who dismiss liberal studies as “brainwashing”. It would hurt society if the young were less capable of independent thought, he argued. But maybe, he wondered, political leaders want a society that is easier to govern. That is a bitter lesson to draw from a school leavers’ exam. Alas, all signs are that Hong Kong’s youngsters have more harsh lessons ahead. ■
+
+## URL
+
+https://www.economist.com/china/2020/05/21/educational-freedom-is-under-assault-in-hong-kong

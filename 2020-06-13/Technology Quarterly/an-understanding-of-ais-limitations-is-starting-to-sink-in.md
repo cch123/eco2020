@@ -43,3 +43,7 @@ The second set of problems runs deeper, and concerns the algorithms themselves. 
 Without another breakthrough, these drawbacks put fundamental limits on what AI can and cannot do. Self-driving cars, which must navigate an ever-changing world, are already delayed, and may never arrive at all. Systems that deal with language, like chatbots and personal assistants, are built on statistical approaches that generate a shallow appearance of understanding, without the reality. That will limit how useful they can become. Existential worries about clever computers making radiologists or lorry drivers obsolete—let alone, as some doom-mongers suggest, posing a threat to humanity’s survival—seem overblown. Predictions of a Chinese-economy-worth of extra GDP look implausible.
 
 Today’s “AI summer” is different from previous ones. It is brighter and warmer, because the technology has been so widely deployed. Another full-blown winter is unlikely. But an autumnal breeze is picking up. ■
+
+## URL
+
+https://www.economist.com/technology-quarterly/2020/06/11/an-understanding-of-ais-limitations-is-starting-to-sink-in

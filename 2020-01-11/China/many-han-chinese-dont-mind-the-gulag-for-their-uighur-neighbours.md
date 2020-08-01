@@ -41,3 +41,7 @@ Many of Xinjiang’s Han residents resent being seen, at least by some Uighurs, 
 When Chen Quanguo, an ethnic Han who took over as Xinjiang’s Communist Party’s chief in 2016 (that post is, in effect, reserved for Han Chinese), he would have heard such opinions, too. The Han people who marched through the streets of Urumqi in 2009, armed with axes, crowbars and meat cleavers, were not only angry about the Uighurs’ violence. They were also furious at the government for failing to do enough to protect them. Among such people, Mr Chen may have enjoyed some support for his gulag-building project, although official documents leaked to the New York Times last year suggested that some local officials resented his clampdown. The documents revealed that thousands of officials in Xinjiang, both Uighur and Han, were punished for resisting, including the Han leader of one southern county who was jailed for trying to slow the detentions and shield Uighur officials.
 
 Mr Chen’s critics are right. Far from reducing the mutual animosities between the groups, the harsh and dehumanising treatment of the Uighurs seems more likely to fuel even greater resentment of Han rule. If that results in more violent protests, Han people in turn will become more hostile towards the Uighurs. With his gulag, Mr Chen has ensured that ethnic conflict in Xinjiang will haunt China long into the future. ■
+
+## URL
+
+https://www.economist.com/china/2020/01/09/many-han-chinese-dont-mind-the-gulag-for-their-uighur-neighbours

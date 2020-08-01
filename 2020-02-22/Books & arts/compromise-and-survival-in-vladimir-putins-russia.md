@@ -25,3 +25,7 @@ In his youth, Adelgeim had endured travails for his Christian faith. He was sent
 Adelgeim was one of the few clerics who challenged this trend. In particular, he questioned the harshly authoritarian power structures that emerged within the church, mirroring those of the secular regime. This stance enraged the bishop under whom he served in north-western Russia, and the cleric found himself demoted and isolated in the church, though still revered by his flock. Some admirers called him “the last free priest” in Russia. That is an over-simplification. Last year, for instance, around 200 priests signed a petition of protest against the incarceration of people who had taken part in anti-government demonstrations.
 
 It is to Mr Yaffa’s credit that in general he avoids simplifying. Even when he describes people who seek cynical advantage from the powerful, the picture is never completely dark; when he portrays moral heroes, he never presents them as infallible. That is how things are in life, perhaps nowhere more so than in Russia. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/02/22/compromise-and-survival-in-vladimir-putins-russia

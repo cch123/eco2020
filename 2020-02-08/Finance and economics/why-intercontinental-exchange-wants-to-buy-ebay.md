@@ -23,3 +23,7 @@ EBay, for its part, is in a difficult spot. The platform has lagged behind those
 Activists have not left eBay alone. Elliott Management and Starboard Value, two activist funds, pushed for it to spin-off StubHub, a ticket reseller, and its classifieds business. EBay later acquiesced, selling its ticket business and giving the activists board seats. But shortly after that Devin Wenig, its long-standing chief executive, stepped down, citing differences with the new board. The firm has yet to find a permanent replacement.
 
 Whether the deal goes ahead is still unclear. ICE has acknowledged its approach, but both companies say they are not in formal talks. That ICE took an interest at all, though, is curious. Helped by better data and whizzy algorithms, some retail platforms are already exhibiting financial-market characteristics, such as dynamic pricing. That a financial-markets behemoth wants to muscle into retail suggests that it too sees a future in which the high street looks more like Wall Street. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/02/06/why-intercontinental-exchange-wants-to-buy-ebay

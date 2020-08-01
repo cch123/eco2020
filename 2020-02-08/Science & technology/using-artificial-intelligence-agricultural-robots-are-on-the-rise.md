@@ -35,3 +35,7 @@ Self-contained agribots will have to compete with systems towed by smart tractor
 When chemicals are required on crops, both tractor-towed systems and agribots could apply microdoses to the individual plants that require them, rather than spraying an entire field. Some trials have suggested microdosing could reduce the amount of herbicide being sprayed on a crop by 90% or more. BASF, a German chemical giant, is working with Bosch, a German engineering firm, on a spraying system that identifies plants and then applies herbicides in just such a targeted way.
 
 The development of harvesting agribots is also being driven by AI. These machines tend to come in many different shapes and sizes and use a variety of systems specifically tailored to pick individual crops, such as tomatoes, asparagus and lettuce. This suggests that agribots that weed and care for plants will evolve in a similar manner, their form depending on the crop concerned and its location, which could be a field, a vineyard or an orchard. Some may be smart machines towed by fully autonomous tractors, while in other cases swarms of small agribots will be employed. The one sure thing is that farmers won’t spend a penny on any of them unless they prove they are up to the job.■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/02/06/using-artificial-intelligence-agricultural-robots-are-on-the-rise

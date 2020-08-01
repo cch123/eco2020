@@ -57,3 +57,7 @@ Noon: Tweet the joke.
 5.00: Wonder whether the business editor would accept a column based on a homeworker’s diary. Estimate the odds to be rather long.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/03/26/diary-of-a-home-worker

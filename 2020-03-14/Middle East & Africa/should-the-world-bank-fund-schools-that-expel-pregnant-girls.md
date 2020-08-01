@@ -27,3 +27,7 @@ The availability of Chinese financing further complicates things. Mr Magufuli sa
 A third option is for donors simply to give money without any strings. But this is unpopular with taxpayers in donor countries, who do not like their cash being spent on things they find appalling.
 
 Many aid programmes face similar quandaries, and there is no easy answer. In this case, though, the World Bank could be firmer. It is the only consistent funder of secondary schooling in Tanzania, and standing up to Mr Magufuli has worked before. Last year, after being criticised by donors, Tanzania amended a law that made it a crime to dispute official statistics. Another firm nudge might get him to let teenage mothers back into school.■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/03/14/should-the-world-bank-fund-schools-that-expel-pregnant-girls

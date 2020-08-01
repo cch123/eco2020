@@ -25,3 +25,7 @@ He paints a picture of an unbearably divided world. While soldiers campaign, wea
 Mr Boin peers closest of all at the indignities of Gothic life. The migration of Goths across Europe is often characterised as a barbarian invasion, but the story told here is of families struggling to survive rather than thugs fighting for the hell of it. Rome itself was overrun with Goths long before Alaric arrived. By the late fourth century 30,000 lived in the capital, often as slaves. Snatched by traders, Gothic children spent their childhoods sweeping the floors of farmhouses. Roman border patrols had orders to separate migrating parents from their sons, whom many Gothic mothers never saw again. Mr Boin offers this detail with a nudge, then moves on. Thankfully, this is not Trump in a toga.
 
 Alaric not only survived this difficult world; he thrived in it. He was, sources say, “more like a Roman” than a Goth. By the end of the fourth century, Alaric had fought long enough and hard enough that he might have expected a reward (respect, stability, citizenship). He didn’t get it. A coveted generalship was summarily terminated. He protested, but was ignored. Finally, humiliated and belittled, on August 24th Alaric the Goth—or rather, Alaric “more like a Roman”—slipped inside the city walls. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/06/18/a-brilliant-goths-eye-view-of-the-sack-of-rome

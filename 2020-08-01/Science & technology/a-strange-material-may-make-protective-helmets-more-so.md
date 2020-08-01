@@ -23,3 +23,7 @@ Dr Wetzel’s priority at the moment is getting industry to share his excitement
 There has been a dramatic fall-off in the number of youngsters taking up the sport because of worries about head injuries. Improved protection might help change that. An independent laboratory tested the helmet and, in the most taxing test, found that it reduced the “severity index” (a measure of the likelihood of a wearer suffering brain injury) from 393 for the helmet’s standard version to 190. One of the laboratory’s operators said he had never seen a result of less than 200 on the test concerned.
 
 Nor are helmets the only possible application for RATs. Dr Wetzel and his team have already tested them as chin straps to hold helmets in place, and as straps for pairs of goggles. RAT-based straps could eventually be useful for everything from hikers’ backpacks to babies’ pushchairs. Whether they will have applications in ships’ ratlines remains to be seen. ■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/08/01/a-strange-material-may-make-protective-helmets-more-so

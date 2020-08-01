@@ -63,3 +63,7 @@ These are all knotty problems, which cannot be unpicked quickly. They compound e
 But that is not much good for a government that feels compelled to do something before the next election, probably in 2024. So Tory thinkers are increasingly arguing for a different approach. Never mind the big cities, they say. Concentrate instead on giving the residents of small cities and towns things that make them proud of where they live. That could mean a better bus service or a spruced-up high street. “It’s about money, but not necessarily about growth,” says Will Tanner of Onward, an influential conservative think-tank.
 
 Mr Stafford, Maltby’s new MP, agrees. The Tory vote is not growing in big cities like London and Manchester, he points out. The party’s future lies in places like Rother Valley. He is a critic of the High Speed 2 railway line, which will connect big cities, but a fan of restoring local railway services. He insists locals want small, incremental improvements that they can see. “They want their little part of England to be a little bit better than it was before,” he says.■
+
+## URL
+
+https://www.economist.com/britain/2020/07/30/why-britain-is-more-geographically-unequal-than-any-other-rich-country

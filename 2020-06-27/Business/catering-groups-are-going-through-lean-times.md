@@ -23,3 +23,7 @@ Because of high fixed costs, losing a few diners can eat into margins (see chart
 The caterers hope a recession might help them secure new clients. Firms that currently operate their own kitchens could cut costs by maybe a fifth by outsourcing to the professionals, who are at pains to explain that keeping kitchens up to complicated new hygiene standards is best left to them. The last recession, in 2008-09, saw a small uptick in contracts.
 
 Still, many employers may instead conclude that those employees still turning up to work can be satiated with bulk deliveries from food apps like Uber Eats. They had been trying to eat the caterers’ lunch even before the pandemic. ■
+
+## URL
+
+https://www.economist.com/business/2020/06/27/catering-groups-are-going-through-lean-times

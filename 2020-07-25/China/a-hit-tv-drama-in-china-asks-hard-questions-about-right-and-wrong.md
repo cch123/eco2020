@@ -27,3 +27,7 @@ Several characters gain moral authority through such private yet sincere acts of
 Devoted fans, including a Chinese-Canadian blogger about television who uses the name AvenueX, suggest that attentive viewers can see alternative endings hidden among the uplifting patriotism. Notably, AvenueX points to clues that several characters die before the drama ends and should now be understood as ghosts, visible only to those who care for them. Her arguments are plausible, though the film-makers have rejected such theories.
 
 Truth is a slippery concept in “The Bad Kids”. Many lies are told, sometimes for selfish reasons, but also for fear of losing something precious. Truth-telling is at its most admirable when offered as an act of love, for instance by a child who cannot bear the loneliness of deceiving a parent for ever. This is a messy moral code, far from the tidy, flag-waving pieties favoured by party chiefs. The show’s popularity is cheering. In a China that rings with the din of patronising, bossy propaganda, viewers crave a bit of messiness.■
+
+## URL
+
+https://www.economist.com/china/2020/07/23/a-hit-tv-drama-in-china-asks-hard-questions-about-right-and-wrong

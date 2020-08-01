@@ -21,3 +21,7 @@ The government argues that the deal is not about protecting a single airline. It
 Boris Johnson reportedly described himself as a “Brexity Hezza” at a recent cabinet meeting, invoking the memory of Michael Heseltine, a Tory minister of the 1980s and 1990s known for his enthusiasm for economic intervention in deprived areas. The government’s talk of “levelling up” growth across the regions and the expected coming splurge on infrastructure certainly point to a Heseltinian flavour to Mr Johnson’s domestic agenda.
 
 The Flybe bail-out, however, is reminiscent not of the 1980s and 1990s but of the 1970s, when the government regularly propped up failing companies with soft loans. During the election campaign Mr Johnson argued that leaving the European Union would give Britain the freedom to establish its own, more lenient, set of rules on state aid. If the Flybe case is an illustration of what they might look like, then it is a worrying one. ■
+
+## URL
+
+https://www.economist.com/britain/2020/01/16/keeping-flybe-aloft

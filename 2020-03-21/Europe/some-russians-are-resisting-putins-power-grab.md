@@ -15,3 +15,7 @@ Mr Putin later said the vote could be postponed if need be, but for now it is to
 The spectacle of a “people’s approval” is likely to stretch over several days, requires no minimum turnout or independent verification and will include home and electronic voting. “Putin was too scared to hold a proper referendum so he came up with this fake procedure,” says Mr Navalny. “The Kremlin is desperate to draw us into it, count us up and then declare victory,” he adds. He has refused to participate in it. On March 15th a group of 350 lawyers, intellectuals and journalists signed an open letter warning of a constitutional coup that threatens to plunge the country into a national conflict. Three days later the number of signatures had swelled to 30,000.
 
 Even Mr Putin’s loyalists feel deceived. “Lying to foreigners is one thing. Lying to his own people is quite another,” one former military officer says. The growing fear of a covid-19 outbreak in Russia, where the number of cases has been suspiciously low, and Mr Putin’s insistence on sticking with the vote, despite his government’s decision to close borders and schools, could exacerbate that anger. Many people remember the Kremlin lying about the scale of the Chernobyl nuclear disaster in 1986. Mr Putin’s amended constitution proclaims today’s Russia to be the heir to the Soviet Union, whose falsehood-filled propaganda rag was called, simply: “Truth”. ■
+
+## URL
+
+https://www.economist.com/europe/2020/03/21/some-russians-are-resisting-putins-power-grab

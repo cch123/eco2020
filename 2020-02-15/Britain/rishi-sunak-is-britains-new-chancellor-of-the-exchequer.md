@@ -21,3 +21,7 @@ Mr Sunak is the golden boy of the 2015 intake and has received nothing but plaud
 Mr Sunak’s seat in the northern constituency of Richmond, William Hague’s old seat, is a source of strength. He has a massive majority and a knowledge of the north of England—home of the marginal seats which brought Mr Johnson his victory in the general election. But whether he will be happy with Number 10’s power grab, or indeed its have-your-cake-and-eat-it philosophy, remains to be seen. His demeanour is not that of a big spender, and his popularity with bureaucrats suggests that he is likely to prove a powerful chancellor.
 
 This reshuffle has sent out a clear message. A split between Numbers 10 and 11 is often regarded as the sign of a weak prime minister. Mr Johnson has no intention of being viewed in that light. ■
+
+## URL
+
+https://www.economist.com/britain/2020/02/15/rishi-sunak-is-britains-new-chancellor-of-the-exchequer

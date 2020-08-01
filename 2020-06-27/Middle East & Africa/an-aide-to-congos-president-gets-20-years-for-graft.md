@@ -27,3 +27,7 @@ The IMF and World Bank, which this week approved a $1bn aid package, are pressin
 The case has knocked a troublesome rival to Mr Tshisekedi out of the running in the next election. But it has also weakened him in his tussle for power with Mr Kabila by depriving him of support in Bukavu, Mr Kamerhe’s home town. Protesters there burned tyres when they heard the verdict.
 
 Mr Kamerhe and Mr Samih have been packed off to Makala prison in Kinshasa, where thousands of inmates are crammed together in stinking cells. Even there, the graft may continue: guards are known to take backhanders in exchange for giving inmates a bit more space and comfort. After decades of colonial plunder and looting by politicians, one trial will not be enough to convince most Congolese that the thieves at the top will be held to account. But it is a start. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/06/25/an-aide-to-congos-president-gets-20-years-for-graft

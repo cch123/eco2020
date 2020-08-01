@@ -27,3 +27,7 @@ This is despite the fact that most Macy’s and other department stores are now 
 Moreover, following a period of intense competition in the 1980s, America’s malls have increasingly come to resemble the extravagant old emporia. New Jersey’s $5bn American Dream mall, which opened last October, has an indoor ski slope, Legoland and Ferris wheel. The Grove shopping centre in Los Angeles takes its homage to early retail even further. It is a mock-up of a 20th-century town centre, including a tram-line and Art Deco cinema.
 
 Such enterprises aim to retain a place in American life even as face-to-face retail recedes from it. The developers of the American Dream mall aimed to let only 45% of their area to retailers before the pandemic—and have since slashed the figure to 30%. That would seem realistic. Except, what if the virus persuades a generation of Americans to stay at home for their entertainment, as well as their shopping? And what kind of America would that be?■
+
+## URL
+
+https://www.economist.com/united-states/2020/05/07/ode-to-the-shopping-mall

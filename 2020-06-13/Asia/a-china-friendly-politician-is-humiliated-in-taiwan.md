@@ -19,3 +19,7 @@ Mr Han did not help his cause by holding private meetings at the offices of the 
 Several more mundane factors contributed to Mr Han’s downfall. Many Kaohsiung residents disapproved of him for breaking a promise not to run for president and were infuriated when he took a leave of absence to focus on his campaign after only ten months as mayor. The impression that he was neglecting his day job was reinforced in November when he missed the city council’s review of the municipal budget, prompting fisticuffs in the council chamber. Mr Han also failed to lure a Disney theme park to the city—one of his more ambitious campaign pledges.
 
 There will now be a fresh election for mayor. Mr Han is not eligible to compete, and the KMT has not yet selected a candidate to run in his stead. But whenever it does, its choice is certain to sound much warier of China. ■
+
+## URL
+
+https://www.economist.com/asia/2020/06/11/a-china-friendly-politician-is-humiliated-in-taiwan

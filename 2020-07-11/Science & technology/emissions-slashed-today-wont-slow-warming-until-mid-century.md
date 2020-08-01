@@ -33,3 +33,7 @@ In spite of all this, mitigating emissions remains crucial to the stability of t
 More fundamental, however, results like these underline that even as economies begin to decarbonise, governments and societies need to drastically step up efforts to adapt to the inevitable warming that lies ahead.■
 
 For more coverage of climate change, register for The Climate Issue, our fortnightly [newsletter](https://www.economist.com//theclimateissue/), or visit our [climate-change hub](https://www.economist.com//news/2020/04/24/the-economists-coverage-of-climate-change)
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/07/11/emissions-slashed-today-wont-slow-warming-until-mid-century

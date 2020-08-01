@@ -27,3 +27,7 @@ The answer, argue Mr Amirapu and Vidhya Soundararajan of the Indian Institute of
 Mr Bhattacharjea thinks the new labour codes in parliament might strike a better balance between flexibility and security. He also welcomes procedural reforms, such as computer-generated schedules that remove an inspector’s discretion about which factories to visit and when to file their reports. That makes it harder for them to prey on a factory or delay approval until a bribe is paid. Such a system has already been implemented by the central government and several states. (Coincidentally, the number of labour-related complaints on ipaidabribe.com has tapered off.)
 
 The number of state labour inspectors grew by 18% between 2017 and 2019. If employment in the rest of the economy is to rise as quickly, these inspectors will have to enforce leaner, simpler rules with more computer-aided honesty than in the past. The government cannot afford to sleep when the economy is comatose. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/06/25/will-labour-reforms-in-india-work

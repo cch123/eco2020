@@ -33,3 +33,7 @@ But the UN looks powerless to halt such support. Syria is not subject to an arms
 Officials say they are doing all they can. At a conference in Rome in December, Mr de Mistura compared himself to a doctor working on a chronic case. “You cannot cure everything. Some diseases are difficult—but would you abandon the patient?” he asked. “You try to reduce the pain until the treatment is found.”
 
 Yet the UN often fails to do even that. Unable to stem the flow of weapons, it is left to preside over talks ever more divorced from reality. It took more than a year just to agree on the members of Syria’s constitutional committee. Mr Assad said his delegation to its first meeting was not there in an official capacity. Still the talks lurch on—not even a palliative, in Mr de Mistura’s metaphor. More like a placebo.■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/02/13/why-the-united-nations-cannot-end-wars-in-the-arab-world

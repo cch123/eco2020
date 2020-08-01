@@ -21,3 +21,7 @@ The second problem is a state that readily turns to violence and repression in r
 The third fissure is along ethnic lines. Groups of young Oromo men attacked members of other ethnicities, notably Amharas, the second-largest group. “We all came out with sticks to protect ourselves,” says a resident whose housing estate was surrounded by a mob. The tensions also reflect a simmering dispute over the status of Addis Ababa, which is surrounded by Oromia. Oromo nationalists claim it forms part of their “homeland” and demand a greater say in its governance.
 
 Many Ethiopians started this year optimistic that, with elections scheduled for August, the country would take a big step from authoritarianism towards democracy. But with voting postponed indefinitely because of covid-19, many now worry that the transition is at risk of being derailed altogether. It will take an almighty heave to put it back on track. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/07/09/a-musicians-murder-sparks-mayhem-in-ethiopia

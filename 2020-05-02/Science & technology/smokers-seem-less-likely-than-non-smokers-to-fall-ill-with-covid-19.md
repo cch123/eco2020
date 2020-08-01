@@ -25,3 +25,7 @@ Anti-smoking campaigners have been eager to point out that none of this is a rec
 Correction (May 1st 2020): An earlier version of this story suggested that Jason Sheltzer is working directly on covid-19 and cytokine storms. This is not the case. Sorry.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/05/02/smokers-seem-less-likely-than-non-smokers-to-fall-ill-with-covid-19

@@ -29,3 +29,7 @@ Retail sales in Britain plunged by 18.1% in April from March, the largest drop o
 Carluccio’s, an Italian-dining chain that was one of the first casualties of Britain’s lockdown, sold 30 of its restaurants to the group that owns Giraffe, which serves an eclectic menu.
 
 Warner Music launched plans for an IPO on the Nasdaq exchange. The music company’s vast stable of artists includes Ed Sheeran and Bruno Mars. It used to be part of what is now WarnerMedia until it was bought out by Sir Leonard Blavatnik’s Access Industries in 2011. If it is in tune with market sentiment, the listing could value the company at up to $13bn, well above the $3.3bn that Sir Leonard paid for it.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/05/30/business-this-week

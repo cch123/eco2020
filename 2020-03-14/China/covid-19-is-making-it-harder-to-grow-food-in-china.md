@@ -25,3 +25,7 @@ In Zhaoquanying, together with a faint scent of manure, there is a hint of optim
 Recovery will be slower in Hubei, the province hardest hit by covid-19, and that is no small matter. It is one of the country’s main sources of chemical fertiliser. Last year it produced nearly a tenth of China’s rice. But agricultural experts say most of China’s farmers are likely to muddle through the busy season ahead. The government has made clear that spring planting must be carried out without delay, says Thomas Luedi of Bain & Company, a consultancy. “They built two hospitals in about a week,” he notes, so they can probably get the grains sown on time, too. ■
 
 Dig deeper:
+
+## URL
+
+https://www.economist.com/china/2020/03/14/covid-19-is-making-it-harder-to-grow-food-in-china

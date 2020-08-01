@@ -19,3 +19,7 @@ China’s government openly admits that it arranges for the transfer of “surpl
 Ms Xu acknowledges that there may be a “genuinely” voluntary component. Even so, her research indicates that once Uighur workers arrive on factory sites, their freedoms are severely curbed. Satellite imagery and first-hand accounts compiled by Ms Xu and her co-authors paint a disturbing picture. Uighur workers live in segregated quarters and eat in separate canteens from their ethnic-Han comrades. In some factories Uighurs are paid less for the same work. Relatives back in Xinjiang are said to face threats lest Uighur workers think of resigning before their contracts end.
 
 A recent online ad for “government-sponsored” Uighur labour posted by an agent affiliated to Xinjiang’s government extols the benefits of hiring Uighurs. One such benefit is the “semi-military style of management”, says the posting. That is because a “government-appointed companion” is required to live on-site for every 50-100 Uighurs, the agent explains. The function of this “companion”, whose salary must be borne by the prospective employer, is ostensibly to prevent cultural misunderstanding between Uighurs and Han Chinese. In all likelihood, however, they are really there to snoop and to enforce discipline. “If one Uighur misbehaves, they all get sent back.” It may be a while yet before criticism of the party’s conduct in Xinjiang dries up. ■
+
+## URL
+
+https://www.economist.com/china/2020/03/05/what-happens-when-chinas-uighurs-are-released-from-re-education-camps

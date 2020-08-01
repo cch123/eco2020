@@ -27,3 +27,7 @@ East Asian countries’ success in controlling the disease argues in favour of m
 This is not incontrovertible evidence in favour of masks. Other factors distinguish those mask-wearing countries from bare-faced Western nations: some (such as South Korea) had rigorous track-and-trace systems; some (such as Japan) do not shake hands. And countries that adopted masks only recently (such as Germany) have successfully suppressed the epidemic.
 
 Yet the combination of this natural global experiment, laboratory studies and asymptomatic transmission suggests that masks can help keep people safe. The clincher is cost. Lockdown destroys economies. Social distancing damages them. Masks cost next to nothing. They will not by themselves stop an epidemic. Hand-washing, track-and-trace systems and widespread testing are all essential, too. But masks can do their bit to protect people and rebuild economies. And they can be stylish.■
+
+## URL
+
+https://www.economist.com/leaders/2020/05/28/the-case-for-mandatory-masks

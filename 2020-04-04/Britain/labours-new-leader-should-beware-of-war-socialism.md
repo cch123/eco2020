@@ -31,3 +31,7 @@ Talk about a new settlement comparable with that under Labour in 1945 is particu
 The job of leading the opposition during a national crisis is arguably the worst in the world. Britons are rallying around the government: one poll shows the Conservatives leading Labour by 28 points and 72% of voters saying that they are satisfied with Mr Johnson’s performance as prime minister. Sir Keir’s best chance of success lies in playing to his strengths as a post-ideological pragmatist. In public he should ask practical questions about the government’s performance in producing ventilators and covid tests or getting economic help to the vulnerable, while avoiding the impression that he’s sniping. Behind the scenes he should prepare for normal times by clearing out Mr Corbyn’s most scrofulous followers. If he bets on a new era of big-government socialism, he will waste his political capital. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/04/04/labours-new-leader-should-beware-of-war-socialism

@@ -27,3 +27,7 @@ Nor is its difficulty the international nature of the student body, as it is wit
 The problem lies with the source of what a faculty member calls “the big bucks”. Executive education programmes that do not lead to degrees, which the school runs for both individuals and corporate clients, make up around 30% of revenues. Demand has “fallen off a cliff”, as training budgets are slashed. Insiders talk of a potential drop in turnover of 20-25% this year.
 
 LBS has responded quickly by trimming salaries rather than cutting headcount. A spokesperson confirmed that “our faculty and senior leadership decided to take a temporary cut in compensation in order to support the school in these difficult times”. LBS will not say how large a cut, but faculty members put it at 19%. Just how temporary the cuts prove to be will depend on how quickly corporate training budgets bounce back from their post-covid lows. Sympathy may be limited. As a staff member puts it: “No one is happy with a pay cut, but it’s not like this is going to push anyone below the breadline, is it?”■
+
+## URL
+
+https://www.economist.com/britain/2020/06/25/lean-times-at-the-london-business-school

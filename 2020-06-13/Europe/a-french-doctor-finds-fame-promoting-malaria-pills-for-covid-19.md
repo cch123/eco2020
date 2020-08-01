@@ -21,3 +21,7 @@ Populists, meanwhile, have claimed him as one of theirs, a sort of gilet jaune i
 Mindful of this following, Mr Macron flew to Marseille during lockdown to listen to the professor. Three large randomised controlled trials, in Britain, America and Spain, found no benefit from hydroxychloroquine in treating covid-19. The French government, meanwhile, has zigzagged on authorising clinical trials. The Marseillais, however, are undeterred. A poll shows that only 39% of the French have a positive image of Mr Raoult, but in the region around Marseille he scores 60%. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/06/11/a-french-doctor-finds-fame-promoting-malaria-pills-for-covid-19

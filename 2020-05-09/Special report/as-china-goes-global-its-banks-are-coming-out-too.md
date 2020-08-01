@@ -59,3 +59,7 @@ Breaking ground will be hard. Incumbents have a 25-year head start at building n
 New entrants say it would be mad not to try. But many fear they will be crushed before they get big enough to make money. “We do not have expectations of short-term commercial success,” says the man in charge at an American firm. Another money manager in a tie-up with a local company says the flow of information seems to be going only in one direction.
 
 Incumbents can hope for more efficient markets and some knowledge transfers. Many have started joint ventures with several foreign firms to cover all bases. “China is opening up because it is confident,” says a former Bank of China executive. He compares the country’s financial industry to its automotive sector, on which China also lifted ownership caps last year. One such tie-up suggests possible dangers ahead for foreign companies. In 2007 Geely, an obscure Chinese firm, partnered with LTI, the maker of London’s black cabs. By 2013 it had bought the business. It is now filling Britain with e-taxis that can out-green Uber. ■
+
+## URL
+
+https://www.economist.com/special-report/2020/05/07/as-china-goes-global-its-banks-are-coming-out-too

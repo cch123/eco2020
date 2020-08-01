@@ -31,3 +31,7 @@ A lot more research is clearly needed to see whether furlough support schemes wi
 * “The impact of public aid programs on distressed firms: Evidence from COVID-19 in Denmark”, by Morten Bennedsen, Birthe Larsen, Ian Schmutte and Daniela Scur■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/06/18/waging-war-on-recessions

@@ -21,3 +21,7 @@ The subsequent decline in ethylene prices had little impact on companies’ stra
 The pandemic does mean that oil companies have less cash for new projects. Cheap oil is also benefiting naphtha crackers in Asia, which produce chemicals from crude, and eroding the advantage of American ethane crackers, which rely on gas.
 
 Even so, the coronavirus looks unlikely to sap individual oil firms’ enthusiasm for petrochemicals. Extra demand for single-use plastics during the pandemic has combined with lower appetite for recycled goods to lift ethylene prices a bit since April. Converting ethane to ethylene is still profitable, says Alan Gelder of Wood Mackenzie, an energy-research firm, “just not as profitable as some hoped”. For many oil companies facing sceptical investors and an upstream business with uncertain short- and long-term prospects, petrochemicals have the dubious honour of being among their least bad options. ■
+
+## URL
+
+https://www.economist.com/business/2020/06/25/oil-companies-diversification-into-petrochemicals-may-not-go-to-plan

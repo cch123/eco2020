@@ -23,3 +23,7 @@ The STC took advantage of the vacuum to seize Aden, then controlled by the gover
 Officially Saudi Arabia still wants a united Yemen led by Mr Hadi. Quietly, though, some Saudis wonder if southern secession would be acceptable, given local hostility towards the Houthis. One problem is that the STC does not enjoy universal support outside Aden: local tribes might chafe at its rule, as might the Giants’ Brigade, a powerful Salafist-led militia.
 
 Even if the STC could consolidate power, secession would further immiserate the north. The southern provinces hold Yemen’s modest oil reserves, its Arabian Sea coastline and much of its arable land. The north would keep its long, porous border with Saudi Arabia—and gain another reason for hostility towards the kingdom. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/05/02/separatists-and-yemens-government-are-at-it-again

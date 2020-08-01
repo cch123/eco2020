@@ -35,3 +35,7 @@ Mr Kushner and his aides did not seem to mind; they came to view the Palestinian
 Instead they proposed an “outside-in” approach: encourage other Arab states to embrace the plan, then hope they would press the Palestinian leadership to accept it. This was always a far-fetched idea. Jordan has rejected the plan. The Gulf states, which have worked hard to court Mr Trump, will not want to anger him by publicly criticising it. Ambassadors from Bahrain, Oman and the United Arab Emirates attended its release (Saudi Arabia was notably absent). But they are unlikely to do much to promote a proposal that the Palestinians have so firmly rejected.
 
 On the eve of his inauguration, Mr Trump expressed almost preternatural confidence in his son-in-law, a property developer with no diplomatic experience. “If you can’t produce peace in the Middle East, nobody can,” he told Mr Kushner. Perhaps no one can. Mr Kushner is unlikely to bring peace, but his plan may still bring lasting change. If Israel annexes large parts of the West Bank, it will be all but impossible for the Palestinians to establish a viable state. The two-state solution, on which decades of American peacemaking had been built, has long been a fading dream; it would finally be buried. Mr Trump may yet go down in history, not for making a deal, but for making one impossible. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/01/30/donald-trump-gives-israel-the-green-light-to-annex-occupied-lands

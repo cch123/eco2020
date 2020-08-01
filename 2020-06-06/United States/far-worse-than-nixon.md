@@ -27,3 +27,7 @@ Even in Washington, with its large black population, around half the protesters 
 With that in mind, he might consider the cautionary fate of a different forebear: his fellow impeachee, Andrew Johnson. An intemperate racist, wont to compare himself to Jesus, Abraham Lincoln’s unworthy Democratic successor campaigned for the 1866 mid-terms by warning that America was heading for another civil war. He blamed “radical Republicans”. But the voters decided that he, by blocking the emancipation of former slaves and stirring his supporters to riot, was the likeliest cause of conflict.
 
 The Republicans won with a landslide big enough to override his vetoes. This allowed them to ratify the 14th amendment to the constitution, granting “equal protection of the laws” to all. It is a tragedy, demanding protest, that this has not yet been achieved. But the past week’s events have perhaps brought it closer.■
+
+## URL
+
+https://www.economist.com/united-states/2020/06/04/far-worse-than-nixon

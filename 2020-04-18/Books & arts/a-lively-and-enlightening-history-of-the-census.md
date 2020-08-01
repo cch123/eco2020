@@ -23,3 +23,7 @@ Britain at last introduced one in 1801, after Thomas Malthus claimed that popula
 A chapter on the Holocaust is grimly fascinating. Punch-card technology was used in concentration camps, but Mr Whitby focuses on the bureaucrats who created identity-card systems, many compiled by hand, which helped the Nazis track down Europe’s Jews. Population data may have been a benign tool for democracies, but it remained lethal in dictatorships.
 
 After this rapid journey through time, the final third of the book ambles through the post-war era of censuses. And their doubtful future: given how burdensome nationwide surveys are—America’s latest will cost $16bn—they may soon be replaced by digital registers drawn from various government documents. Mr Whitby’s is an entertaining and informative story, more about society than statistics. Leo Tolstoy, who helped conduct a census in Moscow, put it best: “The interest and significance of the census for the community lie in this, that it furnishes it with a mirror into which, willy-nilly, the whole community, and each one of us, gaze.” ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/04/16/a-lively-and-enlightening-history-of-the-census

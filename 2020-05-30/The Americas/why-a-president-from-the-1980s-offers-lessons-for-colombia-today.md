@@ -23,3 +23,7 @@ Some of Mr Duque’s opponents accuse him, in part unfairly, of failing to imple
 Mr Duque is young, personable and a good orator. But Mr Uribe controls his party. The government’s achievements include absorbing 1.8m Venezuelan migrants, a law to get broadband to rural areas and, so far, coping with covid-19. But with more than half his four-year term still to go, they risk being wiped out by recession and, with it, a probable rebound in crime.
 
 As for Barco, he was an unlikely leader. An engineer, educated at MIT when few Colombians studied abroad, he seemed distant, was a poor communicator and, many said, an inept politician. But having worked his way up in the Liberal party, he had much political and government experience. He quietly emancipated himself from his predecessors and his party’s bosses, kept his distance from business lobbies and was his own man with a clear programme, writes Mr Deas. In all those things, Mr Duque would do well to emulate him.
+
+## URL
+
+https://www.economist.com/the-americas/2020/05/28/why-a-president-from-the-1980s-offers-lessons-for-colombia-today

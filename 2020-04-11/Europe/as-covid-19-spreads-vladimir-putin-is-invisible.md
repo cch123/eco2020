@@ -23,3 +23,7 @@ Unpopular measures will no doubt have to be taken. Mr Putin has pushed the respo
 One notable exception is Moscow, whose mayor, Sergei Sobyanin, sits on top of one of the largest municipal budgets in the world. Mr Sobyanin has emerged as a tough, decisive leader not only fighting the crisis hands-on in Moscow but also co-ordinating the work of other regions. Mr Putin, meanwhile, seems preoccupied with propaganda. He has sent Russian military planes loaded with medical kit to America and Italy, perhaps to remind domestic voters that Russia is a superpower.
 
 The crisis has presented a new opportunity for Alexei Navalny, Russia’s best-known opposition leader. His regular YouTube broadcasts about “Putin’s betrayal of his people” are getting about 2m views, as people search for alternatives to official “news”. A close ally, Anastasia Vasilyeva, the formidable leader of an independent doctors’ union, has waged her own campaign against the inadequacy of Russia’s medical system. She has gained enough attention to make her a target of Russia’s repressive state. On April 2nd, as she tried to deliver masks and gloves to a small hospital outside Moscow, the police roughly detained her. Amnesty International, a watchdog, commented that “It is staggering that the Russian authorities appear to fear criticism more than the deadly covid-19 pandemic.” ■
+
+## URL
+
+https://www.economist.com/europe/2020/04/08/as-covid-19-spreads-vladimir-putin-is-invisible

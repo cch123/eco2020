@@ -27,3 +27,7 @@ Mr Miller believes that advocacy groups, especially Stonewall, have undue influe
 The third application for judicial review is being brought by two parents and a teacher in Oxfordshire, who say the guidance being used for primary schools is “unlawful and damaging to children”. One of the parents, Victoria Edwards, says the guidelines used in her local school, the Oxfordshire Trans Inclusion Toolkit, written in association with Allsorts and Gendered Intelligence, two other transgender lobby groups, “places the rights of trans identified children above the rights of all other children and staff”. It advises schools to allow boys who identify as girls to use girls’ changing rooms, toilets and dorm rooms on residential trips. A spokesperson for Oxfordshire County Council said “We utterly refute the suggestion that we are failing to safeguard children.”
 
 The impetus for these legal challenges comes from several directions. Some feminists worry that the rise of trans rights poses a threat to safe spaces for women; the judicial reviews suggest sizeable parts of the country may agree. A Populus poll in 2018 asked if a person born male, identifying as a woman but still possessing male genitalia should be free to use a female changing room where women are undressing; 59% said no and 14% said yes. The experiences and scars of detransitioners like Ms Bell may reinforce doubts about the direction of travel. ■
+
+## URL
+
+https://www.economist.com/britain/2020/02/01/a-pushback-against-trans-activism-in-britain

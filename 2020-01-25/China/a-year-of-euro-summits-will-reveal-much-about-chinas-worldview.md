@@ -29,3 +29,7 @@ Some detect serious intent when Chinese officials work tirelessly to fill draft 
 European countries agree on some points. For one, they each crave bilateral favours from China, but fear being left to confront such an assertive giant alone. For a while Chinese officials caused alarm by calling the Leipzig summit a “27+1” meeting, as if Mr Xi were an emperor receiving tributary kingdoms, as one envoy puts it, or a sun around which European planets revolve. Chinese diplomats even questioned whether there would be time for an annual EU-China summit, an event involving the EU’s top officials but not its members’ leaders. China eventually agreed to hold one in late March, and to use it to plan the larger gatherings that follow.
 
 The Europeans also concur that they must keep America in mind when dealing with China. Some diplomats suggest that if China were to agree on an investment treaty with the EU, the price could be an EU promise to keep selling high technology to Chinese firms, no matter what America thinks. But if told to choose between China and America, Europeans’ horror would be unanimous. That is not the Euro-unity that China has in mind. ■
+
+## URL
+
+https://www.economist.com/china/2020/01/23/a-year-of-euro-summits-will-reveal-much-about-chinas-worldview

@@ -17,3 +17,7 @@ It is not. Several reasons suggest the hawks will probably be proved wrong again
 The immediate risk, therefore, is not too much inflation, but too little, amid a slow recovery and a painful economic restructuring. Many firms will emerge from lockdown with huge debts. Many workers may need to move from one industry to another. In such an environment the chief danger will be that policymakers withdraw stimulus too soon. That is what happened in 2011, after the global financial crisis, when the ECB raised interest rates. Financial markets seem to expect such stimulus to be insufficient. Their inflation expectations suggest the Fed, the ECB and the Bank of Japan will all undershoot their targets on average for the next decade. Even America’s buoyant stockmarket is favouring firms that can thrive in a low-inflation environment.
 
 Only after economies and job markets have healed will a sustained rise in inflation become a risk. Governments will emerge from the pandemic with much higher public debts, and they may be tempted to press monetary policymakers to keep interest rates low rather than to apply the brakes. Even then, inflation will become a threat only if central bankers buckle under the pressure and thus start to lose the faith of the markets. In other words, there will be a time to worry. But it is not now. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/06/04/dont-worry-about-inflation-yet

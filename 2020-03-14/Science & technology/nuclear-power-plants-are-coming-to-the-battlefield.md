@@ -21,3 +21,7 @@ It is not just American troops experimenting with mobile nuclear power. NASA is 
 But the planned microreactors would be distinct in several ways. They are intended to be assembled in a factory and shipped in one piece, doing away with the need for tricky engineering in remote places. They should weigh under 40 tonnes and fit onto the back of an articulated lorry. And they are supposed to run themselves, with “minimal monitoring” from afar.
 
 The risks are manageable, say proponents. Designs feature “passive safety” systems, which keep working even if electricity is lost or a component breaks. Cooling pumps can be replaced by natural convection currents, for instance. The reactors use “tristructural isotropic particle fuel”, in which blobs of fissile uranium (along with oxygen and carbon) are wrapped in layers of carbon and silicon carbide. The pellets can withstand high temperatures, contain radioactive contamination and limit the impact of accidents. The reactors themselves “would be shielded and protected, and possibly placed in a hole in the ground”, says Bill Lee, a nuclear engineer and materials scientist at Bangor University, in Wales. A nuclear meltdown should be “physically impossible”, says the Pentagon. The grunts on the ground will be hoping that is right. ■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/03/12/nuclear-power-plants-are-coming-to-the-battlefield

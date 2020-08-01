@@ -41,3 +41,7 @@ In Canada a protest by indigenous groups and environmentalists against a propose
 Jair Bolsonaro, Brazil’s president, appointed General Walter Braga as his new chief of staff, bringing to nine the number of men in the 22-member cabinet who come from the armed forces. Mr Bolsonaro is a former army captain. He has remarked that the third floor of his presidential office “is now completely militarised”.
 
 All those military minds in the presidential palace are trained on the biggest threat to Brazil in the next 20 years: France. A leaked document from the defence ministry suggested that although China, Russia and even Venezuela could be considered bigger menaces, the top brass is worried that France might try to interfere in the Amazon, possibly launching an invasion from next door French Guiana. France is Brazil’s main military partner.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/02/22/politics-this-week

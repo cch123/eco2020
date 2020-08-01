@@ -25,3 +25,7 @@ In the second bucket are firms that are stretched but feel that keeping up relia
 In the third bucket are a group of businesses that have strong balance-sheets and are operating near full tilt, for example tech firms and other utilities. They should pay dividends, rather than hoard cash, even if it provokes ill-judged grumbles from some quarters. That money can help maintain the incomes of pensioners and other savers. And investors can use the cash they receive to recapitalise companies whose finances have been shattered by the covid-19 crisis. There will be a lot of them. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/leaders/2020/04/16/which-firms-should-pay-dividends

@@ -31,3 +31,7 @@ Observing that carbon dioxide is a “greenhouse” gas, which traps solar heat 
 Even two degrees would be enough to bring heatwaves and droughts and to melt polar ice, raising sea levels. Six degrees would turn much of Earth’s surface into a desert. Thank goodness, then, that Messmer’s plan worked more widely and comprehensively than he could possibly have imagined—and that, thanks to the nu-power revolution, people do not have to worry about the danger of such global warming. ■
 
 For more coverage of climate change, register for The Climate Issue, our fortnightly [newsletter](https://www.economist.com//theclimateissue/), or visit our [climate-change hub](https://www.economist.com//news/2020/04/24/the-economists-coverage-of-climate-change)
+
+## URL
+
+https://www.economist.com/the-world-if/2020/07/04/what-if-nuclear-power-had-taken-off-in-the-1970s

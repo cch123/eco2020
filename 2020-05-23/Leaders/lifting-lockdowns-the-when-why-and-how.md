@@ -33,3 +33,7 @@ As a rule, the balance of costs and benefits favours narrow local policies over 
 Poor countries will not be able to afford all these approaches. However, Vietnam and the Indian state of Kerala have shown that good primary-health systems can devise and disseminate sensible adaptations. Poor countries have more experience of infectious diseases than rich ones. Epidemiologists talk of “smart containment” that all can practise. Rwanda has put foot-operated handwashing stations in busy places such as bus depots. Slums need clean water for handwashing and to cut queues. Local leaders can spread health messages and designate areas where suspected cases can be isolated. Markets must remain open, but limit social contact. If people can earn some money, millions who would otherwise go hungry could feed themselves.
 
 The emergency phase of the pandemic is drawing to a close. Too many governments failed to spot what was coming, but then did what they could. In the much longer second phase they will have no such excuse. They must identify groups at risk; devise and enact policies for them; explain these so that vulnerable people change their behaviour without becoming scapegoats; provide vital infrastructure; and be ready to adapt as new data come in. This will sort countries where the government works from those where it does not. The stakes could not be higher. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/05/23/lifting-lockdowns-the-when-why-and-how

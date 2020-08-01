@@ -21,3 +21,7 @@ Despite its winding economic narrative (and piles of manufacturing statistics), 
 The porcelain-makers themselves were often as fascinating as Böttger. After running away from home to become a cowboy, for instance, Philipp Rosenthal made a fortune in porcelain—before being ruined by the Nazis. Ordinary workers led colourful lives too. One report of 1796 describes how employees at a firm in Fürstenberg drank schnapps at work or skived off to go hunting. Their successors in the 1940s spent their time dodging Allied bombs and repairing shattered windows.
 
 Today German porcelain-makers face different threats. Chinese imports are undercutting them. Tastes have evolved: polystyrene cups have long replaced elegant coffee sets in many situations. Between 2006 and 2014 alone 190 German porcelain firms closed. Soon, writes Ms Marchand, production may return entirely to East Asia, where porcelain was first invented. The story that began with Böttger could become just another fairy-tale. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/07/16/an-enlightening-history-of-german-porcelain

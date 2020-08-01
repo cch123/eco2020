@@ -37,3 +37,7 @@ All of these are traditional goals of past Republican administrations. Mr Azar�
 Much of the administration’s health-care agenda has thus been delayed. These cases will eventually be resolved, though. Even if Republicans fail to win back Congress, with another four years Mr Trump could quietly reshape health care, without the need for any legislation at all.■
 
 Dig deeper:Sign up and listen to Checks and Balance, our new [newsletter](https://www.economist.com//checksandbalance/) and [podcast](https://www.economist.com//podcasts/2020/04/24/checks-and-balance-our-weekly-podcast-on-american-politics) on American politics
+
+## URL
+
+https://www.economist.com/united-states/2020/02/08/what-donald-trump-has-done-with-the-biggest-budget-in-washington

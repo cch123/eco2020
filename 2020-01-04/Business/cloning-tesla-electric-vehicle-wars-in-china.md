@@ -29,3 +29,7 @@ NIO, despite being Chinese, does not offer the same geopolitical advantages, and
 In this fraught market, fortunes could quickly reverse again. NIO says it may soon announce new funding arrangements. A state-backed carmaker could take a big stake in it. Some analysts say it is unlikely the government will let NIO go bust, because it is such a symbol of China’s technological ambitions.
 
 For now, though, Tesla is in pole position. In fact, says Mr Dunne, China must already feel like home to Mr Musk. The government’s EV ambitions give Tesla a tailwind that it lacks in America; on January 1st its customers there stopped benefiting from a tax credit. Consumers love luxury-car brands; Tesla’s main competition will be with Germany’s premium carmakers, not Chinese ones. China’s manufacturing prowess will help Tesla overcome the “production hell” it suffered back home. And China may be quicker to encourage autonomous driving than America. For Mr Musk, the main drawback could be that Twitter, his favoured megaphone, is blocked behind the great firewall. But for Tesla that too must be a blessed relief. ■
+
+## URL
+
+https://www.economist.com/business/2020/01/04/cloning-tesla-electric-vehicle-wars-in-china

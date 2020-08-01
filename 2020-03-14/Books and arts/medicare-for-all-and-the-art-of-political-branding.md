@@ -25,3 +25,7 @@ But rebranding and renaming policies gets you only so far. Even upbeat words wit
 Even without such baggage, the enemy gets a vote too, as soldiers sometimes say. As soon as a shiny new idea is launched, opponents will try to associate it with everything evil under the sun. The “Green New Deal”, a set of leftish, climate-friendly proposals supported by some American Democrats, has been under relentless Republican attack since the concept was floated. Despite the bid to invoke the New Deal of the 1930s, for many voters it is now synonymous with a wild left-wing power grab.
 
 Tainting ideas is easier than decontaminating them. And though a new slogan might help remove the stigma that has accrued, the cycle is liable to begin again, and before long yet another new label is needed. Political rebranding is sometimes necessary, but it is nowhere near sufficient. In other words, politicians can’t prevail by linguistic engineering alone. They still have to win the underlying arguments.
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/03/12/medicare-for-all-and-the-art-of-political-branding

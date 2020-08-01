@@ -27,3 +27,7 @@ Start with size. Almost every boss wants to run a bigger company. Investors ofte
 A third common problem is stockmarket mythmaking. Ms Comstock’s approach to digging GE out of a hole was to, as she put it, “pick a simple story…and tell it again, and again”. Analysts, business editors, even the occasional columnist, fall for this far too often. In GE’s case, this included articles with titles likening the company to a whizzy startup. Better to have kept a closer eye on its old-economy power division, the company’s real Achilles heel.
 
 Ultimately, firms are never fully in charge of their own destinies. The internet, the rise of China, the financial crisis and greener energy all played a role in GE’s downfall. Second-quarter results on July 29th revealed that covid-19 has halted Mr Culp’s rescue mission, hurting GE’s most profitable industrial businesses, especially aviation. As businesses age, events will inevitably wear them down. To forestall that, companies have few better options than to perfect what they are good at and embrace the simple life—even if this makes for less suspense. ■
+
+## URL
+
+https://www.economist.com/business/2020/08/01/a-ge-whodunnit

@@ -21,3 +21,7 @@ At first glance the support might appear more generous than the cash set aside f
 The big firms receiving the most aid are those requiring specific bail-outs. The government will spend $50bn to keep America’s airlines aloft. But that too comes with conditions. Carriers have agreed to keep staff until October, cut executive pay and halt shareholder payouts until late 2021. The more generous the aid, the more strings attached.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/05/02/americas-large-firms-can-count-on-generous-government-support

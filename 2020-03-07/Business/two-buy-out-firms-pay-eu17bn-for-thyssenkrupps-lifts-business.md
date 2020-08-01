@@ -25,3 +25,7 @@ As a result, only big firms with resources are likely to succeed. Fundraising ha
 For all their recent progress, however, buy-out firms continue to face structural impediments to growth in Germany. Lukas Schäfer, head of private equity in Germany for McKinsey, yet another consultancy, notes that the number of takeover targets is limited because the Mittelstand, Germany’s famed medium-sized family companies, remain wary of private equity. Moreover, says Mr Schäfer, many traditional German firms, including retailers and car-parts manufacturers, are seen as being threatened by the rise of e-commerce and electric vehicles. Even Mr Schmitz, who is more bullish, concedes that rules such as the domination agreement, which stipulates that an owner must secure 75% of votes at an extraordinary general meeting to control a target company’s cashflow, deter potential buyers.
 
 Having won over Thyssenkrupp’s long-suffering shareholders with their hefty offer, Advent and Cinven say they are planning to spend billions on expanding TKE’s business. That ought to placate labour unions and politicians. Whether the pricey deal ends up rewarding the two funds’ investors is another matter entirely. ■
+
+## URL
+
+https://www.economist.com/business/2020/03/05/two-buy-out-firms-pay-eu17bn-for-thyssenkrupps-lifts-business

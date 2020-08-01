@@ -31,3 +31,7 @@ When recession strikes it will fuel new resentments. Big tech could face a storm
 All this means that, far from having peaked, anger may be in the foothills. Executives hope that slick lobbying will protect them. But even today, the picture outside America is not of inaction but a tumult of regulatory experiments. China keeps its internet giants under tacit state control and wants to rely less on Silicon Valley, including Apple, which is already dealing with the covid-19 virus and other headwinds there. At least 27 countries have or are considering digital taxes. India has cracked down on e-commerce and online speech. The European Union (EU) wants individuals to own and control their own data, an approach this newspaper favours, although it may take years of innovation to create a system that is easy for consumers to use and profit from. This week the EU proposed curbs on artificial intelligence. Even in America, trustbusters may limit big tech’s ability to gobble up startups, a strategy which has been instrumental to the success of Alphabet and Facebook in particular.
 
 The $5.6trn market value of tech’s formidable five is a testament to some of the most commercially successful companies ever created. But it also assumes that they will get a lot bigger even as the world stands by and watches placidly. Until today, big tech has been largely unscathed. The bigger it becomes, the more reason there is to doubt this can continue.■
+
+## URL
+
+https://www.economist.com/leaders/2020/02/20/how-to-make-sense-of-the-latest-tech-surge

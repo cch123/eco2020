@@ -65,3 +65,7 @@ As the world emerges from the crisis, the West’s attention is likely to become
 For now, as America flounders, China appears a diffident leader at best. Its hesitancy was on display at the UN last month, when it was China’s turn to act as president of the Security Council. Throughout the month, it did not convene a single session about the pandemic. (On April 9th the council did hold one, but China insisted that the meeting, held by video-conference, be closed to the public.) Envoys to the UN say China did not want to give America a chance to assign blame for the pandemic. “It’s irresponsible,” says a Security Council diplomat. Instead two diehard rivals refuse to lead. One is in retreat; the other is uncertain whether it really wants to take on global responsibility. The world suffers. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/china/2020/04/16/chinas-post-covid-propaganda-push

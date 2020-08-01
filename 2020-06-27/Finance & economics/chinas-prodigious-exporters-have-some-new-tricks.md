@@ -29,3 +29,7 @@ Such inducements have rarely worked in the past, but they stand a better chance 
 Evidence of the shifting tide can be found in surveys of big companies conducted by UBS, a bank. Among its 1,000-plus respondents, 76% of firms from America, 85% from north Asia (eg, Japan and South Korea) and even 60% from China say they have already moved or plan to move some production away from China. Keith Parker of UBS estimates that companies might shift between 20% and 30% of their Chinese manufacturing capacity. That will not happen overnight, but it will chip away at China’s dominance in manufacturing.
 
 In the meantime, Chinese businesses retain a well-honed ability to adapt. Take Sowind, a maker of household-cleaning tools—one of the companies at the virtual Canton Fair. It was promoting motion-activated, battery-powered soap dispensers for home use. In a live-stream, Ivy, a young saleswoman, tailored her pitch to the grim viral reality: “You don’t need to touch the soap dispenser, so you can avoid cross-infections.” Contacted after her broadcast, Ivy said that customers in Europe and America were buying thousands. As for the online migration of the world’s biggest trade show, she was upbeat. “It takes time to get used to a new technique, but it’s gone better than I had expected.” ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/06/25/chinas-prodigious-exporters-have-some-new-tricks

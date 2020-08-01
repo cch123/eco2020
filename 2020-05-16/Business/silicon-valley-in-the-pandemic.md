@@ -35,3 +35,7 @@ Another question is whether venture capital, Silicon Valley’s lifeblood, will 
 Silicon Valley may no longer be the only place that matters as startups hunker down in cheaper locations with fewer distractions. Frontier is one such firm. It has decamped to Vancouver to build a marketplace for remote workers. It was founded a few months before the virus struck and got its first funding a few weeks ago. Elliot O’Connor and his co-founders are holed up in an Airbnb, using DoorDash and other delivery services to feed themselves. It feels like working in the proverbial garage, he says—not in the Valley, but of the Valley.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/05/16/silicon-valley-in-the-pandemic

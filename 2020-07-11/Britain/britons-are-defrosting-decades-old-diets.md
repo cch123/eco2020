@@ -27,3 +27,7 @@ There seems to be a limit to how much time Britons will spend cooking, though. A
 “I’ve had a joint sitting in the freezer for months,” says Mandy Walker, who is shopping with her family at the Sainsbury’s supermarket in Welwyn Garden City, a commuter town north of London. She is buying more mince and chicken than before lockdown. That is because she has to prepare many more meals than usual for children, who do not object too violently to those foods. “And less fruit and veg,” she adds. “That’s the terrible thing”.
 
 As pubs, restaurants and offices reopen, some of these trends will reverse. But probably not all of them. Even in New Zealand, which eradicated covid-19 a month ago, sales of flour and baking mixes are a tenth higher than a year ago, according to IRI, and the restaurant trade is not back to normal. The changes in Britain are caused not just by new living patterns, but also by recession. Andre Burger, who oversees Unilever’s food brands in the country, says that a shrinking economy affects people’s eating habits in odd ways. They try to economise by cooking from scratch and in bulk. They also indulge in more sweet treats. To the many signs that consumer confidence is slumping, add this: for each of the past ten weeks, sales of ice-cream and frozen desserts have been at least 16% above last year’s levels.■
+
+## URL
+
+https://www.economist.com/britain/2020/07/11/britons-are-defrosting-decades-old-diets

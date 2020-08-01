@@ -23,3 +23,7 @@ On the bright side, its kit remains popular outside America. Although American m
 Duncan Clark of BDA China, a consultancy, likens Huawei to the villainous robots in “Terminator” films: not just indestructible but “able to rebuild itself after any attempt to take it down”. Even covid-19 may not slow it down. As more people Zoom to work, governments everywhere covet the sort of zippy mobile networks Huawei helps build.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/04/03/huawei-reports-resilient-results

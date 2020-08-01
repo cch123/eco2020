@@ -45,3 +45,7 @@ Still, the idea may gain momentum. The German government intends to push the con
 If the vision of GAIA-X comes to pass, how will Microsoft display this on the screens of its CCC? Rather than showing a few data “blocs” in bright colours—China red, America blue, for instance, as during the cold war—it may need lots of shades and other graphic tricks to represent the new diversity of the data world.■
 
 Correction (February 24th 2020): Quincy is a few hours east of Microsoft’s campus, not a few hours west as we originally wrote.
+
+## URL
+
+https://www.economist.com/special-report/2020/02/20/governments-are-erecting-borders-for-data

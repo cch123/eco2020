@@ -25,3 +25,7 @@ Dutch Euroscepticism is more subtle than the breathless coverage of its populist
 In public the Dutch line is firm. The Netherlands will agree only to loans, Mr Rutte told an Italian newspaper. When speaking in the Netherlands, Mr Rutte has tended to focus on other matters, such as whether the money should have strings attached and ensuring the Dutch keep their rebate—a kickback on the EU’s €1.1trn budget, which will be negotiated at the same time as the recovery fund. These demands are more achievable than calling for the €500bn of grants to change to loans. Talks will be messy. But a good scrap in Brussels works wonders with domestic voters.
 
 Flexibility has always been one of Mr Rutte’s skills. If the prime minister does sometimes resemble a man of the cloth, it may be because he has a touch of the famously adaptable Vicar of Bray. Under his leadership, the VVD has been more than happy to drift around the political spectrum. He likes to keep his options open. During one lecture on faith, he hedged his belief in God: 51% of him did, 49% did not. It is a tactic that has served him well for a decade. Compromise on the recovery fund is inevitable. When it arrives, Mr Rutte’s depiction as the villain will be revoked in the EU at large. The trick will be to make sure it is not introduced at home. ■
+
+## URL
+
+https://www.economist.com/europe/2020/07/11/a-dutch-dilemma

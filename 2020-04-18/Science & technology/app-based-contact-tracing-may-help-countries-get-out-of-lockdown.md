@@ -33,3 +33,7 @@ It is also important not to invest too much in the idea that automation is every
 As well as developing high-tech networks for tracking infection, information-technology firms should therefore also be writing software that improves the productivity of human contact-tracers like Taiwan’s. Interview forms for potential contacts, visualisation dashboards for relevant data, telemedicine for remote diagnostics—all these would be useful. Apps built using Apple’s and Google’s new protocol ought to focus on providing information to technologically empowered human contact-tracing teams, not on automating the whole process. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/04/16/app-based-contact-tracing-may-help-countries-get-out-of-lockdown

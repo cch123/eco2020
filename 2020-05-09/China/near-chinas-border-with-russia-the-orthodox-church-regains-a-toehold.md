@@ -21,3 +21,7 @@ The revival of these four, after the dark days of Mao, has not been easy. The go
 It took years for Ergun’s church to get government approval to import Russian religious artefacts. But in 2009 it was finally consecrated. Four years later the head of the Russian Orthodox Church, Patriarch Kirill of Moscow, made his first official visit to China where he met President Xi Jinping. This paved the way for Chinese to train as priests in Russian seminaries.
 
 But the Orthodox church in China is still treated warily by the government. Only registered members of Ergun’s church are permitted to enter it (even visiting Russian citizens are barred). There is a security camera above its door. As Father Pavel matter-of-factly admits, Orthodoxy in China is a “slightly sensitive” affair. ■
+
+## URL
+
+https://www.economist.com/china/2020/05/07/near-chinas-border-with-russia-the-orthodox-church-regains-a-toehold

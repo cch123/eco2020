@@ -33,3 +33,7 @@ America also has an enviable pile of data from its old tests, having done more t
 Many experts reckon that even the truculent Mr Trump would shy away from a test. The aim at present, they suggest, is pactocide. Mr Trump’s administration is stacked with arms-control sceptics who never wanted America to sign the CTBT in the first place, viewing it as an irksome fetter on American power.
 
 Having swept aside a series of other agreements—a nuclear deal with Iran in 2018, the Intermediate-range Nuclear Forces (INF) treaty with Russia last year and the Open Skies treaty in May—the treaty-phobes spy an opportunity to slough off the CTBT, too. In his recent book, “The Room Where It Happened”, John Bolton, America’s national security adviser until September, writes that “unsigning” it “should be a priority”. Mr Bolton is persona non grata in the White House these days, but his diplomatic nihilism lives on. ■
+
+## URL
+
+https://www.economist.com/united-states/2020/06/24/will-donald-trump-resume-nuclear-testing

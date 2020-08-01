@@ -31,3 +31,7 @@ China has not signed any agreements about managing the Mekong with the other cou
 Mr Eyler hopes that studies like Mr Basist’s will prompt China to go a bit further. Again, there are encouraging signs. Last November the Lancang Mekong Cooperation, an organisation founded by China in 2016 to promote trade among the Mekong countries, agreed to team up with the MRC to investigate what caused last year’s drought. But as promising as that is, greater transparency will not create more water.
 
 The Mekong is “at breaking point”, says Ms Harris. To save it, the countries that share it need to bin plans for additional dams: China intends to build eight more and Laos seven. Cambodia is moving in the right direction. In March the government declared a moratorium on all hydropower projects on the Mekong for the next decade. Unless other countries follow suit, Ms Harris frets that “the Mekong river basin as it’s been known for thousands of years…will not be the same in the future.” ■
+
+## URL
+
+https://www.economist.com/asia/2020/05/14/south-east-asias-biggest-river-is-drying-up

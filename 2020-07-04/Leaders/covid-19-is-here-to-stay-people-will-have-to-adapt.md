@@ -35,3 +35,7 @@ Changing behaviour requires clear communication from trusted figures, national a
 Covid-19 is here for a while at least. The vulnerable will be afraid to go out and innovation will slow, creating a 90% economy that consistently fails to reach its potential. Many people will fall ill and some of them will die. You may have lost interest in the pandemic. It has not lost interest in you. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/leaders/2020/07/02/covid-19-is-here-to-stay-people-will-have-to-adapt

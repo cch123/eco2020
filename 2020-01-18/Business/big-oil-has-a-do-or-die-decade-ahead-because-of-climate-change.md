@@ -33,3 +33,7 @@ Furthermore, Big Oil has ways to make other high-risk, high-reward bets on clean
 Even as the majors diversify, supplying oil and gas will be the bedrock of their business for decades. Larry Fink, boss of BlackRock, the world’s largest asset manager, acknowledged this in a letter to global chief executives on January 14th, even as he predicted that climate change would cause a significant shift in capital toward sustainable investing (see [article](https://www.economist.com//finance-and-economics/2020/01/16/blackrock-says-it-wants-to-do-more-for-the-climate)).
 
 Yet excuses for prevarication are growing thinner. As Peter Parry of Bain, a consultancy, puts it, it has become “something of a myth” that oil is a high-return industry. As national climate commitments grow more stringent, governments may go on the warpath. UBS argues that it may be necessary for governments to “ban” the $10trn of oil-and-gas investments to reach net zero emissions by 2050. It is not only Repsol that feels which way the breeze is blowing. It need not be an ill wind. ■
+
+## URL
+
+https://www.economist.com/business/2020/01/18/big-oil-has-a-do-or-die-decade-ahead-because-of-climate-change

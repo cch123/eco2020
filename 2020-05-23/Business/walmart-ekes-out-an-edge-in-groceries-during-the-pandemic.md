@@ -29,3 +29,7 @@ Some new customers who have sampled Walmart’s digital offering because their f
 His view is bolstered by a survey by Greg Melich of Evercore, an advisory firm. It reveals that, in antepandemic America (ie, February), consumers of all ages expected to purchase ever less from bricks-and-mortar shops. No surprise there. More revealing was the finding that shoppers also thought they would buy less from purely online shops—but more from retailers that, like the beast of Bentonville, mix bricks with pixels. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/05/23/walmart-ekes-out-an-edge-in-groceries-during-the-pandemic

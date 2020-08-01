@@ -23,3 +23,7 @@ In an ingenious, seamless approach that distinguishes his biography from others,
 In a country where other forms of authority were discredited, writers had a special, oracular status. Still, for Tolstoy, literary acclaim came to seem meaningless. Writing fiction was not the way to improve the world; as with the pleasures of the flesh, he berated himself when he lapsed into it again. (Rereading “War and Peace”, he felt “repentance and shame…not unlike what a man experiences when he sees the remains of an orgy in which he has taken part.”) His political and moral views—anarchistic, radical, anti-modern—fused in a heretical new version of Christianity and a dissident activism, at once cranky and heroic, which made him a star all over again. His creed rejected all kinds of violence and oppression, which, for him, included the strictures of lust as well as state power.
 
 On the eve of his death he was still inveighing against capital punishment. He was buried at Yasnaya Polyana—which, Mr Zorin observes, he left many times but, unlike many other attachments, he never abandoned—in a glade where, as a child, he hunted for a magical stick that could rid the world of evil. His unmarked, turf-covered grave has an aura of eerie calm. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/02/06/the-temptations-of-tolstoy-on-the-page-and-in-the-flesh

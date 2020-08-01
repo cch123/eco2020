@@ -16,6 +16,8 @@ Second, as the reaction to Mr Floyd’s death showed, the Midwest merits attenti
 
 Underlying this is a third reason for scrutinising America’s middle: its example for similar regions elsewhere. It grew rich from heavy industry and transport, then declined in the past half-century. A more recent bounce-back of some better-run cities offers lessons for others. Former industrial regions in Europe and Asia can learn from the Midwest.
 
+
+
 The Midwest is not the place of rusting cities and reactionary farmers of popular imagination. Its reality is more complex and more interesting. Most Midwesterners wouldn’t know which end of a cow to milk, for they live, by and large, in sprawling metropolitan regions. Many of these cities boast revived downtowns, cultural expansion, diversifying economies, thriving universities. The census this year will show many of them gaining people, although the region overall will grow little. Bigger places like Chicago and Pittsburgh, and smaller ones like Ann Arbor and Madison, have done well of late. Even those with deeper troubles, such as Detroit and Cleveland, have been improving.
 
 In politics, too, there has been cause for cheer. Some towns have become beacons of liberalism (even if that causes unease in rural parts). Illinois legalised marijuana this year and was planning to wipe clean prison records for thousands of people. In Michigan, early this year, lawmakers were seeking ways to shrink its jail population. Two years ago, each of two urban districts in Michigan and Minnesota elected Muslim women to Congress.
@@ -45,3 +47,7 @@ Yet no effective institutional structures unite the region. Richard Longworth, a
 This report concludes that the Midwest can build on past progress, if its more successful cities can reinforce what they started to get right. They must continue to find ways to grow, to lure people and investors, and to become more equitable and attractive places. In short, the key for the region’s future is urban.■
 
 Dig deeper:Sign up and listen to Checks and Balance, our [weekly newsletter](https://www.economist.com//checksandbalance/) and [podcast](https://www.economist.com//podcasts/2020/07/24/checks-and-balance-our-weekly-podcast-on-american-politics) on American politics, and explore our [presidential election forecast](https://www.economist.com/https://projects.economist.com/us-2020-forecast/president)
+
+## URL
+
+https://www.economist.com/special-report/2020/07/23/a-region-with-outsized-punch

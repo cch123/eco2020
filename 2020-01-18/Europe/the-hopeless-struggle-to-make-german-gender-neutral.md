@@ -17,3 +17,7 @@ This month the northern city of Lübeck decreed that official communications mus
 The structure of German makes it especially prone to such disputes, says Christine Günther, a linguist at the University of Siegen. English has its own problems (see Books & Arts), but nouns are genderless and job words neutral, bar the odd exception like “waitress”. In Germany, solutions usually involve awkwardly interrupting a word with an asterisk or underscore; Lübeck officials think the colon is easier to read. A glottal stop is used when speaking.
 
 In 2018 the Council for German Orthography was asked to rule on the gender asterisk but said such matters should not be settled in a top-down fashion. Now partisans of Germany’s culture wars are storming the pitch of their defenceless language: third-gender theorists battling reactionaries over punctuation.
+
+## URL
+
+https://www.economist.com/europe/2020/01/18/the-hopeless-struggle-to-make-german-gender-neutral

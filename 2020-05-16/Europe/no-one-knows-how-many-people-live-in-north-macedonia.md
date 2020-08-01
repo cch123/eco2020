@@ -17,3 +17,7 @@ The last count was in 2002. An attempt to update it in 2011 turned into a fiasco
 A new census was planned for April this year. However, when a snap election was called, the census was postponed. And the election itself was then postponed because of covid-19. As a result, says Verica Janeska, an economist, the government cannot make well-informed economic decisions.
 
 In 2019, for the first time in history, more Macedonians died than were born. Births and deaths, at least, are accurately counted. Harder to gauge are the numbers who move abroad to work. Some 81,000 have Bulgarian passports. This means they can work easily and legally in the EU. It also means they don’t show up as Macedonians on any foreign database. Unemployment used to be a big problem. Now labour shortages are emerging as a bigger one. This is a problem across the Balkans, but in all Europe only North Macedonia and Ukraine, which last held a census in 2001, share the honour of not knowing even roughly how many people they have.
+
+## URL
+
+https://www.economist.com/europe/2020/05/14/no-one-knows-how-many-people-live-in-north-macedonia

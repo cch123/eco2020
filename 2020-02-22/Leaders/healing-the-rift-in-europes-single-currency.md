@@ -25,3 +25,7 @@ In return for the Bundesbank taking more responsibility, the ECB should try to b
 So far the signs are promising. Ms Lagarde’s arrival makes it easier to leave behind the emotional baggage of the Draghi era. She has vowed to be more inclusive and launched a wide-ranging strategy review. This is an opportunity for Mr Weidmann. To his credit, he has become less uncompromising, saying last year that OMTs are part of the ECB’s toolkit, and cautioning against Germany fetishising its own fiscal rules. Ironing out the differences today could spare the ECB from a speculative attack in the next recession.
 
 The Bundesbank is still a mighty intellectual and institutional force. But that will count for little if its intransigence causes Europe’s economy to weaken needlessly. And if the single currency falters, obstinacy will be self-defeating.■
+
+## URL
+
+https://www.economist.com/leaders/2020/02/20/healing-the-rift-in-europes-single-currency

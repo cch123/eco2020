@@ -43,3 +43,7 @@ Yet this system, Mr Bacevich argues, has been plagued by unintended consequences
 All this culminated in the election of Mr Trump. The president’s critics, this book argues, overestimate him even as they underestimate the importance of his victory. Mr Trump is “a mountebank of the very first order”, Mr Bacevich writes, but his presence in the Oval Office is a rejection of the post-cold-war operating system and all it stands for. The elites’ focus on Mr Trump’s wickedness, he maintains, spares them the pain of having to acknowledge how pitifully their own project failed.
 
 It is telling that three such different books all try to understand what went wrong after the Soviet collapse not by looking overseas but within, at the nature of America itself. In their various ways, they all condemn Mr Trump. Mr Nye doubts his morality. Mr Kimmage sees him as the first anti-“West” president. Most interesting is Mr Bacevich, who warns that, although Mr Trump offered no definition of post-cold-war America, just a rejection, there is no going back. That is a lesson for Joe Biden, the presumptive Democratic nominee, who gives the sense that going back is what he would most like to do. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/04/02/america-won-the-cold-war-what-went-wrong

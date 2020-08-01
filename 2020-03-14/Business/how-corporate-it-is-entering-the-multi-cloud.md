@@ -25,3 +25,7 @@ These deals point to another iron rule of IT: always try to turn your rivals’ 
 This strategy is not guaranteed to work, warns Mark Moerdler of Bernstein, a research firm. The number of companies that really need to move their workloads around seamlessly is small, he argues. And the multi-cloud’s universality comes at the expense of specificity. It is, for instance, unable to accommodate the entire suite of features, some of them proprietary, offered by each of the big providers. Many customers would hesitate to forsake such benefits.
 
 That leaves one last, related question. Is the perennial IT promise of “write once, run everywhere” realistic? It was supposed to work for Java, a programming language, and the software written in it was predicated on this idea. It proved tricky in real life. “There has always been this dream, on the West Coast in particular, that we should live in a Utopia where all the vendors are interchangeable,” quips Lydia Leong of Gartner. The multi-cloud may be here to stay. But do not expect it to cover the entire computing sky any time soon.■
+
+## URL
+
+https://www.economist.com/business/2020/03/14/how-corporate-it-is-entering-the-multi-cloud

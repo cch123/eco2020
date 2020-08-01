@@ -27,3 +27,7 @@ The result, says one expert with decades of experience, is that shiny new IT sys
 VW is doing its best to iron out the kinks with the ID.3’s snazzy features. The firm wants to bring most software development back in-house, and has spent €7bn ($8bn) on a shiny new “digital unit”. That is probably a good idea. However, as Mr Barr argues, the structural problems with writing software mean that spending money on it does not, by itself, guarantee success. One great advantage possessed by startups like Tesla or Monzo, a newish online bank in Britain, is that their programmers are handed a blank sheet of paper. With no legacy systems to maintain, and fewer old bugs to root out, their software is more robust and developers can spend more time on features that customers want.
 
 If that is cold comfort for older companies that have no easy way of starting afresh, computing greybeards offer reassurance—after a fashion. The startups’ advantages will, they predict, prove temporary. Bugs will creep in. Bodge jobs will go unfixed. Developers will leave, taking knowledge with them. Today’s feisty usurpers will become tomorrow’s clumsy incumbents, held back by their antiquated, unreliable IT—and ripe for disruption in turn. ■
+
+## URL
+
+https://www.economist.com/business/2020/07/18/why-companies-struggle-with-recalcitrant-it

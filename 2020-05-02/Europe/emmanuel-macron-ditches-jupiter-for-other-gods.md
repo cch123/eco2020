@@ -29,3 +29,7 @@ The president’s new look is more suited to the uncertain times. Covid-19 has o
 The other point is that, as a political quality, humility has its limits. Pragmatism can often be made to look like hesitation; adaptation mere improvisation. Ultimately, even the most fact-guided politician can defer only so much to scientists and experts. Decisions in the end are for them to take. After three years in office, Mr Macron knows this well. Which is why the wisest guise of all may also be the hardest: to sound humble, and act smart. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter), or visit our [coronavirus tracker and story hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/04/30/emmanuel-macron-ditches-jupiter-for-other-gods

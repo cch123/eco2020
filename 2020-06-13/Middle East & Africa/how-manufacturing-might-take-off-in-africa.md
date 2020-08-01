@@ -57,3 +57,7 @@ None of this would surprise a visitor from 18th-century Lancashire or 1990s Guan
 The same hesitation is found in some African leaders, long cushioned by aid and oil money. “The urgency for economic transformation is not making them lose any sleep,” says Abebe Shimeles of the African Economic Research Consortium. Yet demographic destiny is pushing the continent towards a reckoning. Some 15m-20m young Africans are entering the workforce each year. Without good jobs, many may take their grievances to the streets.
 
 Some economists such as Dani Rodrik at Harvard University argue that automation, competition and shifting demand are closing the door to countries wanting to copy Asia’s miracle. Yet not everyone needs a factory job. Many Africans will move from subsistence farms to commercial ones, or from living alongside a game reserve to guiding tourists around one. Economic transformation, of a distinctively African kind, is a prize worth chasing. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/06/11/how-manufacturing-might-take-off-in-africa

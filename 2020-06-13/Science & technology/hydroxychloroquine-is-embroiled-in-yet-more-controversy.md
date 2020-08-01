@@ -23,3 +23,7 @@ Many are wondering, more broadly, what could go so badly wrong as to lead to two
 One irony of the affair is that concerns about the rush to publish science during the pandemic had been focused on preprints. These are papers posted online without independent scrutiny. Yet it is two peer-reviewed journals of repute that have found themselves in difficulty. Whether this incident will shift the balance of power in scientific publishing remains to be seen.
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/06/13/hydroxychloroquine-is-embroiled-in-yet-more-controversy

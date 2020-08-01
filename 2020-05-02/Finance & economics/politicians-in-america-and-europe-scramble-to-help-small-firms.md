@@ -41,3 +41,7 @@ In Europe, finding ways to help SMEs is economically essential. Nearly half of w
 Given the rush, it is perhaps not much of a surprise that neither America’s nor Europe’s schemes have achieved all that policymakers hoped. Europe’s short-timework schemes will preserve employment—but at huge cost, and at the risk of keeping employees in jobs that ought to disappear. America is now dishing out money more decisively, but unemployment there has soared (see [Free Exchange](https://www.economist.com//finance-and-economics/2020/05/02/why-the-unemployed-in-america-could-face-a-lost-decade)), in no small part owing to Main Street’s woes. Back in January, roughly half of all small firms had at least three employees on their books. By April, a similar share had none. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/05/02/politicians-in-america-and-europe-scramble-to-help-small-firms

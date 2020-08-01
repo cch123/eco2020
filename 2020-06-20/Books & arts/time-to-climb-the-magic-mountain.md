@@ -19,3 +19,7 @@ Yet though the disease is everywhere, it is discussed euphemistically. Newcomers
 Surprisingly for a tale of fatal lung disease, however, the tone is gently ironic, a levity that offsets the symbolism and philosophy. Officially, Hans is a visitor, but he lives the life of a patient, which revolves around gossip, walks, infatuations, intellectual discussions, five hearty meals a day and a strict regimen of bed rest, temperature-taking and alcohol rubs. Hans takes to this high-altitude life better than Joachim, an officer who longs to return to the army. He does—and comes back to the mountain even sicker. Hans, by contrast, seems cured, and at the close leaves for the even deadlier battlefield.
 
 As with his elongated stay at the sanatorium, so with the novel itself. Based on Mann’s own impressions of Davos, where his wife was treated, it was conceived as a short story, a humorous companion piece to “Death in Venice” (itself set during an outbreak of cholera). The author expected “The Magic Mountain” to find only a small audience. But in one of the strange transformations that illness can effect, it grew into an elegant, 900-page reflection on mortality, read and revered by millions. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/06/20/time-to-climb-the-magic-mountain

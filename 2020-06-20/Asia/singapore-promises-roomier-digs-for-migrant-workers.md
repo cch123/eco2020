@@ -25,3 +25,7 @@ But public attitudes may be softening. “Many Singaporeans have been coming for
 Citizen Adventures, a group of about 200 youth volunteers, led by Cai Yinzhou, befriends migrant workers. It has raised S$786,000 ($564,000) to help them through the crisis. “We don’t take for granted our relationship with the workers,” says Mr Cai. “But unfortunately that is not the case with other Singaporeans.” ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/asia/2020/06/18/singapore-promises-roomier-digs-for-migrant-workers

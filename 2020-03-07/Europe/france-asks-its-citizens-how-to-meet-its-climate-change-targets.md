@@ -21,3 +21,7 @@ Forging a consensus, even after five months of exhaustive discussion, will not b
 It is a gamble nonetheless. Next month, the assembly will send its final list of measures to Mr Macron. He has promised delegates that he would put the bulk of them either to parliament, or to a referendum. Still unpopular in the polls, the president badly needs to show that he has listened to the many critics of his elitist governing style. In this respect, it did not help that his government chose to force its unpopular pension-reform proposals through parliament this week by using a special constitutional provision, known as 49-3.
 
 If the proposals that emerge from the citizens’ assembly are indeed bold, and Mr Macron is prepared to risk putting them to a vote, this could prove a way for him both to renew popular legitimacy and to deflect blame for potentially unpopular green policies onto the assembly. If he rejects too many, however, the exercise will be denounced as a sham, designed to disguise what in most other respects remains a highly centralised presidency. ■
+
+## URL
+
+https://www.economist.com/europe/2020/03/05/france-asks-its-citizens-how-to-meet-its-climate-change-targets

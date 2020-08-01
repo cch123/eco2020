@@ -23,3 +23,7 @@ The WP, the ablest opposition outfit, has seized on such grievances. In 2011 it 
 This time pundits thought that voters, worried by covid-19, might cleave more faithfully than normal to the devil they know. Aljunied’s fate was uncertain. Mr Low had retired. Mr Singh, his successor, although assiduous, does not speak Teochew. Yet the WP won Aljunied with 60% of the vote. It also held on to Hougang, a single-member seat and the WP’s first stronghold, with 61%. And it won a new GRC, Sengkang, with 52%.
 
 The WP has managed to avoid the acrimonious in-fighting that has bedevilled other opposition parties undergoing a transition in leadership, notes Hoe Yeong Loke, author of “The First Wave”, a history of Singaporean opposition parties. The WP also proudly portrays its voters as “torchbearers of democracy in Singapore”, says Gillian Koh of the Institute of Policy Studies. The residents of Aljunied and Hougang wear their support for the WP as a “badge of honour”, says Eugene Tan. That kind of loyalty, he reckons, cannot be easily bought. ■
+
+## URL
+
+https://www.economist.com/asia/2020/07/18/why-so-many-singaporeans-voted-for-the-opposition

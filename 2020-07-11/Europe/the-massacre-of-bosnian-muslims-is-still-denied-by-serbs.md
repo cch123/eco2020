@@ -23,3 +23,7 @@ Across the former Yugoslavia, says Marija Ristic of the Balkan Investigative Rep
 After the second world war Germans gradually faced up to the horror of the Holocaust, but a similar process is not yet happening in the Balkans. By the middle of the 1960s, says Eric Gordy, a sociologist, most of those Germans who would be most shamed by an open discussion of the past were dead or retired. Yet in the Balkans the same people are still in power or are competing for it.
 
 A common argument is that almost everyone involved in the war committed crimes. In Bratunac, near Srebrenica, Bosnian Serbs commemorate their own dead. But most of those were soldiers who died in combat, not civilians. Attempts to deny or minimise the crime of Srebrenica fuels bitterness. Emir Suljagic, who runs Srebrenica’s memorial centre, says that “a culture of denial…lays the groundwork for future genocides.” He wants Bosniaks to remember “what our destiny is going to be if we are ever as weak as we were in July 1995”. ■
+
+## URL
+
+https://www.economist.com/europe/2020/07/09/the-massacre-of-bosnian-muslims-is-still-denied-by-serbs

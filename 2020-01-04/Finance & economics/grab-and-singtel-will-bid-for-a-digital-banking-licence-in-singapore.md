@@ -27,3 +27,7 @@ Second, they fit together neatly. In much of the region, more people have smartp
 The duo’s ambitions clearly stretch well beyond Singapore. Tellingly, Singtel’s efforts are being led by Mr Lang, who heads its international operations, rather than Yuen Kuan Moon, its digital guru. A recent report by Bain, Google and Temasek, one of Singapore’s two sovereign-wealth funds, found that over 70% of adults in South-East Asia are underbanked. It says revenues from digital finance could grow from $11bn today to $60bn in 2025. Moreover, where Singapore goes other regulators in the region usually follow, says Frank Troise of SoHo Capital, which advises firms looking to enter Asian markets. “Malaysia, Indonesia, Vietnam, Thailand and the Philippines are all watching this and they’re just going to copy-paste.” A local banker reckons that Asia’s incumbent lenders are in for “the fight of their life”.
 
 Perhaps not just Asia’s. Uber, an American ride-hailing champion, owns 27.5% of Grab. Perhaps it will pick up some tips and data. In October it launched a money division, the latest attempt by a Silicon Valley stalwart to enter financial services. “If I was J.P. Morgan or Verizon right now,” says Mr Troise, “I’d be terrified.” ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/01/02/grab-and-singtel-will-bid-for-a-digital-banking-licence-in-singapore

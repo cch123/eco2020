@@ -29,3 +29,7 @@ Hope comes from Australia’s states and territories, which are setting themselv
 Meanwhile, the bushfires sent some 400 megatonnes of carbon dioxide—roughly 75% of Australia’s annual emissions budget—up in smoke in the last three months of 2019. The government does not include these in its emissions count. ■
 
 Sign up to our fortnightly climate-change newsletter [here](https://www.economist.com//theclimateissue/)
+
+## URL
+
+https://www.economist.com/asia/2020/01/25/australia-expresses-pride-in-its-dismal-record-on-greenhouse-gases

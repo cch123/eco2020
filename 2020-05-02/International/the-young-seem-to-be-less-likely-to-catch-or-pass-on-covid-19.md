@@ -25,3 +25,7 @@ According to the European Centre for Disease Prevention and Control, child-to-ad
 But almost all these studies were done when schools were closed; most countries shut them early in the pandemic. A few recent studies have tried to disentangle the contribution of schools—with mixed results. In one French town with a covid outbreak linked to a secondary school, a study with antibody tests found that 41% of staff and students at the school had been infected, compared with 11% of their family members. A report from New South Wales in Australia that tracked close contacts of 18 infected students and teachers in 15 primary and secondary schools, however, found that of the 735 students and 128 staff, only two children contracted the disease from the initial cases. No staff member was infected. But attendance at the time was low because parents had been encouraged to keep their kids at home. More evidence will emerge as schools reopen. But so far children do not seem to be the stealthy super-spreaders once feared. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/international/2020/05/02/the-young-seem-to-be-less-likely-to-catch-or-pass-on-covid-19

@@ -25,3 +25,7 @@ A broader growth of centre-left activism during Mr Trump’s tenure has probably
 Where is this headed? Perhaps not to the radical reforms many of the protesters demand. The current Congress has passed little except coronavirus stimuli. It is not about to start defunding the police. Yet academic research into the long-term political effects of the Women’s March and Tea Party movement of 2009 suggests such protests do not merely reflect public opinion. They also increase voter turnout. That sounds like more bad news for the president’s overwhelmingly white voting base.
 
 “A lot of people who don’t normally vote say they’re going to vote now,” said Elena, a Hispanic property manager from Fairfax, Virginia, who had spent a long hot day at the plaza, “to be part of history” with her daughter and black boyfriend. “People can argue about whichever party is better for this or that,” she said. “But on this issue, it’s completely clear.”■
+
+## URL
+
+https://www.economist.com/united-states/2020/06/11/americas-protests-turn-jubilant

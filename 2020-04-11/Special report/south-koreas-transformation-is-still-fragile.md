@@ -31,3 +31,7 @@ As for social change, the consequences are more difficult to predict. But in the
 Depending on how long the epidemic lasts and how widespread such responses are, that could prove a setback in advancing the goals of South Korean feminists, reinforcing traditional divisions of labour and social roles.
 
 Like most countries in the world, South Korea may look different a few months from now. The challenge will be for its people not to go back to how things were, but to keep reimagining the future, even as they fight to hold on to their hard-won social and economic gains. ■
+
+## URL
+
+https://www.economist.com/special-report/2020/04/08/south-koreas-transformation-is-still-fragile

@@ -23,3 +23,7 @@ By the end of April ten central banks had drawn over $440bn between them. The bi
 Favourable dollar funding meant financial institutions did not need to resort to a fire-sale of dollar assets, say Egemen Eren, Andreas Schrimpf and Vladyslav Sushko of the BIS in a recent paper. In the five countries first given swap lines, the cost of borrowing dollars fell sharply. Indeed, some banks in these countries were able to borrow more cheaply (via commercial paper or certificates of deposit) than their American peers, according to the authors. Moreover, banks in these countries sometimes lent their dollars to other banks elsewhere, helping to alleviate the dollar shortage globally. Perhaps, then, the Fed’s agonising over whom to favour with a swap line did not matter all that much. As long as it provided enough dollars to central banks somewhere, their banks could funnel any surplus dollars elsewhere.
 
 One of the Fed’s innovations was to offer longer-term swaps lasting 84 days. The first of these matured on June 11th, reducing the amount of dollars outstanding by almost $92bn. If the foreign banks that had borrowed these dollars (through the Bank of England’s and the European Central Bank’s swap lines with the Fed) still needed them, they would have rolled them over. But they did not—suggesting that the swaps had eased much of the stress that motivated them. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/06/18/the-successes-of-the-feds-dollar-swap-lines

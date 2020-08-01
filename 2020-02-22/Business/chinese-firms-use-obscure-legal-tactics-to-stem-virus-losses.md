@@ -27,3 +27,7 @@ On whether invoking this clause will really work, legal opinion is divided. Many
 Tobias Larsson of Resilience360, a German supply-chain consultancy, thinks that invocation of FM could help make the fallout from the virus the “biggest supply-chain disruption since Japan’s earthquake.” Mayer Brown, an American law firm, worries that use of FM and other legal tactics “may be passed along supply chains around the world, causing firms based in other jurisdictions to seek similar relief.”
 
 Still, there is a reason to think legal chaos might be avoided. Unlike during the SARS epidemic, when multinationals could easily shift sourcing, Chinese firms are now critical (and sometimes the only) suppliers of vital parts to many industries. John Hoffecker of Alix Partners, a consultancy, says that his clients are more concerned about being the first to receive parts as factories restart than about FM. So foreign bosses may agree to renegotiate terms with certificate-waving vendors through gritted teeth rather than risk losing them altogether through bitter legal battles.■
+
+## URL
+
+https://www.economist.com/business/2020/02/22/chinese-firms-use-obscure-legal-tactics-to-stem-virus-losses

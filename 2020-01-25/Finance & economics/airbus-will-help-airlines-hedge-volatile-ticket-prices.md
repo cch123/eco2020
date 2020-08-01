@@ -19,3 +19,7 @@ Sceptics say the platform could struggle to take off. Airlines have not been vor
 For the market to work, the airlines need counterparties. These could include businesses that buy blocks of plane tickets, such as travel agents or hotel chains, suggests Matthew Tringham, a co-founder of Skytra. But few make use of simpler existing hedges against swings in weather or currency. And few would feel able to forecast ticket prices better than the airlines themselves. Low demand would limit liquidity and make trading dear. That could deter banks and brokers from acting as market makers, further sapping liquidity.
 
 At least Skytra is well-equipped. On January 23rd it said it had chosen Nasdaq, the world’s second-largest stock exchange, as its technology provider. Mark Howarth, its boss, has worked at London’s stock exchange and Chi-X, an Asian venue. That will cheer City types who question Airbus’s markets nous. Airlines and travel groups may take longer to get on board. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/01/23/airbus-will-help-airlines-hedge-volatile-ticket-prices

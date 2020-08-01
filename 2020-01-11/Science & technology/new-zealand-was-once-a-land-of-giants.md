@@ -35,3 +35,7 @@ The Pelagornithidae include the largest birds known to have existed—some had w
 As P. ruthae shows, the great diversity of life in ancient New Zealand was not confined to gigantism. Many unusual fossils of small animals are also being discovered—some so tiny that they need to be handled with tweezers, says Vanesa De Pietri, research curator at the museum.
 
 One example is the waddling mouse. A small piece of jaw and a fragment of limb found near St Bathans were identified in 2006 as coming from a mouse-size mammal that walked, its remains suggest, with a peculiar waddle. Although some scientists reckon the creature might have washed ashore on flotsam, others see it as evidence that native land mammals did in fact exist in ancient New Zealand, and that the archipelago’s unique wildlife evolved in their presence. As fossils continue to be unearthed, even more unusual species will no doubt be discovered, and more questions raised about the origins of the creatures in the land of the long white cloud.■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/01/09/new-zealand-was-once-a-land-of-giants

@@ -25,3 +25,7 @@ It is of course no mystery why that is as much as they may be willing to contemp
 Chuck Schumer is also trying to extract political benefit from the trial, by trying to force Republicans up for re-election this year to make embarrassing defences of the president. Having largely achieved this, some suspect, he may be quietly willing to bring the trial to its inevitable conclusion rather than risk damage to his party by prolonging it. In that case, neither party would be committed to its oath to try the president and hold him to account.
 
 No wonder Americans seem disengaged from the Senate trial. Indeed, though you would not know it from the polished grandeur of its atriums, or the lofty bonhomie with which its members, of both parties, still hail each other there, the Senate is an institution hurtling towards irrelevance. Its tradition of debate is long dead. Under Mr McConnell, it barely passes bills; this Congress could be the most unproductive in half a century. And meanwhile the populist furies that propelled Mr Trump, and which he has done so much to exacerbate, are not dissipating. Dissatisfaction with democracy was reported this week to have increased by a third in America since the 1990s. It will have gathered more steam last month.■
+
+## URL
+
+https://www.economist.com/united-states/2020/01/30/voting-with-their-eyeballs

@@ -31,3 +31,7 @@ Al-Shabab, anyway, is doing well enough, by its bloody standards, without fancy 
 The attack in Kenya was probably driven by other motives. Al-Shabab had been itching to retaliate against a surge in American air strikes on its leaders. (It failed to breach an American base in Somalia last September.) By killing Americans, the group has also burnished its credentials as arguably the foremost al-Qaeda franchise, says Harun Maruf, author of a book on al-Shabab.
 
 Some in the Trump administration want to draw down American troops fighting Islamist militants in Africa. Whether the attack in Kenya marks a big escalation or was merely a bit of one-off opportunism, one thing is clear: more than a decade of American intervention and air strikes has done little to blunt al-Shabab. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/01/11/an-attack-on-american-forces-in-kenya-raises-questions-and-concerns

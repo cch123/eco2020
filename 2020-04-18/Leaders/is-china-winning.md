@@ -35,3 +35,7 @@ China’s rulers combine vast ambitions with a caution born from the huge task t
 That is not a comforting prospect. The best way to deal with the pandemic and its economic consequences is globally. So, too, problems like organised crime and climate change. The 1920s showed what happens when great powers turn selfish and rush to take advantage of the troubles of others. The covid-19 outbreak has so far sparked as much jostling for advantage as far-sighted magnanimity. Mr Trump bears a lot of blame for that. For China to reinforce such bleak visions of superpower behaviour would be not a triumph but a tragedy. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/leaders/2020/04/16/is-china-winning

@@ -17,3 +17,7 @@ A new coalition government finally managed to end the 27-year-old conflict with 
 The Social Democrats who now run Skopje have talked of removing a giant Alexander statue, and others of him and other heroes, though done little. Cost is one reason, says Nikola Naumoski, the mayor’s chief of staff, but politics is a bigger one. Every statue is “like a landmine”, he says. If they are removed, protests will erupt. For that reason, the government pressed the city authorities to hold off on purging the plinths.
 
 However, in October France vetoed the opening of EU accession talks with North Macedonia, infuriating its government. An election was called shortly afterwards, but is now up in the air, thanks to the coronavirus. If the nationalists return to power, they will stop the statues from being removed. But if the incumbent Social Democrats win, says Mr Naumoski, Alexander will be taking a long walk in the park.
+
+## URL
+
+https://www.economist.com/europe/2020/03/19/the-tricky-politics-of-tearing-down-statues-of-alexander-the-great

@@ -25,3 +25,7 @@ Another tactic used by the Met was to identify what it calls “micro beats” o
 As restrictions are loosened, the trends are reversing. Recorded offences rose in the past few weeks and drugs offences have fallen. That suggests that police once again have their hands full with everyday crime. But it may also mean that their efforts at disrupting the networks responsible for these crimes have had an effect. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/07/09/how-britains-cops-spent-lockdown

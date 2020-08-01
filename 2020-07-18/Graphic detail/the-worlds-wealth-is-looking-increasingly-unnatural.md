@@ -21,3 +21,7 @@ In such a scenario, the world will continue to grow wealthier, but natural asset
 According to these projections, only 12 countries will increase their stock of natural capital per person over the next two decades. And in 39 countries, including resource superpowers like Brazil, Russia and Saudi Arabia, the stock will fall by over 30%. Financial capital tends to accumulate. Natural capital seems destined to do the opposite. ■
 
 Sources: Yogi Sugiawan, Robi Kurniawan, Managi Shunsuke; Inclusive Wealth Report 2018; The International Institute for Applied Systems Analysis; World Bank; UN; The Economist
+
+## URL
+
+https://www.economist.com/graphic-detail/2020/07/18/the-worlds-wealth-is-looking-increasingly-unnatural

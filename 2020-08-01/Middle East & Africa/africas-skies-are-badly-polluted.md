@@ -25,3 +25,7 @@ Yet almost everywhere else in Africa, what little information is collected is ra
 Information sometimes gets out anyway. American embassies in six African capitals have first-rate instruments and publish findings every day. In Beijing in 2008 the American embassy began releasing air-pollution data. A diplomatic spat ensued, but campaigners were able to challenge official claims, leading to new standards, more testing—and cleaner air.
 
 African activists are following suit, buying cheap air sensors. The most basic cost $25 apiece, though they are less accurate than high-grade ones. Local data matter. A campaign to cut pollution from factories in Syokimau, a Nairobi suburb, succeeded thanks to four cheap sensors provided by Code for Africa, a network for open-data activists. It hopes to install 3,000 more sensors in African cities. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/08/01/africas-skies-are-badly-polluted

@@ -19,3 +19,7 @@ However, climate change is still responsible for anomalies like this one. At the
 Mild winters offer benefits. Heating is cheaper, flu seasons are shorter and fewer people die overall. But problems mount as well. Without hard frosts, pests can survive and multiply to attack crops more harshly. Warmer winters are usually wetter, changing snowfall patterns. This can shrink the snowpack that supplies rivers, and cause floods. Even people who bemoan frigid winters may miss them if they vanish. ■
 
 Sources: NASA GISTEMP; NOAA GHCND
+
+## URL
+
+https://www.economist.com/graphic-detail/2020/03/28/the-northern-hemisphere-winter-of-2019-20-was-the-warmest-ever-on-land

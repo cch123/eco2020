@@ -31,3 +31,7 @@ The air in Berlin is thick with scheming and the CDU is quivering with anxiety. 
 That seems unlikely; for all its problems the CDU is still likely to provide Germany’s next chancellor. That will give the succession race the fevered air of a party primary in a safeish seat. Yet there is a palpable contrast with 2018, when Messrs Merz and Spahn immediately declared their interest and the prospect of internal competition electrified the CDU. So far, the same pair have merely hinted at possible candidacies, while Mr Laschet has kept his counsel. As all three hail from North Rhine-Westphalia, CDU peacemakers hope they might broker a deal among themselves rather than air the party’s cleavages in a public contest. “There is zero appetite among my colleagues to go into a divisive leadership election, because it risks tearing us apart,” says Andreas Nick, a CDU MP.
 
 During Mrs Merkel’s long reign the CDU’s repeated election wins trumped concerns over her mushy centrism and lethargic leadership. Now the CDU must ask itself what sort of party it wants to be in a far more complex political scene. “The disruptive potential is much bigger than most realise,” says Andreas Rödder, a historian at the University of Mainz and CDU member. For many months the tensions inside the CDU have been bubbling away like subterranean magma. After Ms Kramp-Karrenbauer’s decision, they threaten to erupt. ■
+
+## URL
+
+https://www.economist.com/europe/2020/02/13/angela-merkels-presumed-successor-quits-as-party-boss

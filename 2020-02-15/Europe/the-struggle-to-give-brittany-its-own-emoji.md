@@ -15,3 +15,7 @@ Mr Le Drian, born in the Brittany town of Lorient, was merely the latest to join
 Competition for new emojis is fierce. Raclette, an Alpine melted-cheese dish, was rejected as too obscure. Unicode says approximations preclude the need for certain additions. A squirrel, it insists, can be represented by a chipmunk emoji. Requests for an emoji for the Tibetan and Catalan flags are still pending—although there is one for the Isle of Man, and the French island of La Réunion.
 
 An independent kingdom in the 9th century, Brittany became part of France in 1532. But regional identity has been fiercely defended, with periodic revolts, ever since. Today Breton pride and powerful networks endure. François Pinault, a luxury-goods tycoon, flies the Breton flag from the Venetian palace that houses his art collection. In 2018, when introducing Mr Le Drian to the pope, President Emmanuel Macron joked that “Bretons are everywhere, it’s the French mafia!” Now, though, Mr Macron has swung behind the emoji. When his official photographer, a Bretonne, tweeted in its favour, he gave it the presidential “like”.
+
+## URL
+
+https://www.economist.com/europe/2020/02/15/the-struggle-to-give-brittany-its-own-emoji

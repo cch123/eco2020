@@ -15,3 +15,7 @@ Those who do not use a law firm offering “job-rejection services” can always
 An ageing population and restrictive immigration policies have left Japan with more jobs than jobseekers. Employers compete fiercely to hire talented youngsters and are reluctant to dismiss those they do manage to hire. If they need to cut costs, they are more likely to “adjust wages rather than headcounts”, says Yamaguchi Takeshi of Morgan Stanley. Firms worry that having fired staff (which the law makes difficult anyway) might put off recruits, notes Hugh Patrick of Columbia University.
 
 Covid-19 may change things somewhat. The ratio of jobs to applicants hit a three-year low of 1.39 in March, well before the full effects of the virus were felt. Surveys suggest that firms plan to trim hiring further. Most of the pain will be felt by part-time and casual workers, who make up 38% of the workforce, are easier to sack and tend to skew younger and more female. (In late April the government announced the extension of unemployment benefits to such workers as part of its coronavirus response.) Analysts at Goldman Sachs think Japan’s unemployment rate will rise more in the coming months than it did during the global financial crisis—to 4.2%.
+
+## URL
+
+https://www.economist.com/asia/2020/04/30/japans-new-industry-turning-down-jobs

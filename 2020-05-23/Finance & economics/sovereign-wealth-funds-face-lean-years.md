@@ -41,3 +41,7 @@ The pressure on incomings and outgoings could change the way the funds invest. S
 Large funds may also become more active investors. Because of their size, many tend to use a “core/satellite approach”. This allocates most of their assets to low-cost funds tracking indices and uses active investments to insulate their portfolios against long-term risks, like climate change, at the margin. The need for extra returns will demand more of the latter.
 
 In one respect, at least, SWFs are ahead of the curve. Since 2014 one-fifth of their venture-capital investments have backed health-care startups—appetite for which is now proving contagious. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/05/21/sovereign-wealth-funds-face-lean-years

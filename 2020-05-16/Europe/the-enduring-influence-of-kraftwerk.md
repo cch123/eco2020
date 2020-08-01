@@ -27,3 +27,7 @@ Which Kraftwerk tune should Brussels adopt? If “Europe Endless” might sit un
 Perhaps the moment has passed. Eventually, as the world Kraftwerk had divined overtook them, the music fizzled. Their disappointing last album, from 2003, was devoted to cycling. Europe, too, moved on: widening, deepening, now fracturing. Yet it is a pity Kraftwerk never found the chance to explore the themes that shaped the continent in this century: cheap air travel, just-in-time supply chains, mobile technology (“Pocket Calculator”, a hymn to the creative possibilities of hand-held devices, gets halfway there).
 
 Schneider left Kraftwerk in 2008. Since then the group, basically Mr Hütter and three friends, has toured continuously, thrilling fans with spectacular visuals. On May 16th, before the virus struck, Kraftwerk were to join the festivities for Beethoven’s 250th birthday in Bonn as they marked their own 50th anniversary. They were said to have been taken by the symbolism, as well they might: Europe’s official bard and its unofficial man-machine troubadours, united in celebration of the continent that made them possible. ■
+
+## URL
+
+https://www.economist.com/europe/2020/05/16/the-enduring-influence-of-kraftwerk

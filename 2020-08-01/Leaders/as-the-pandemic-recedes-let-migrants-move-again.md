@@ -33,3 +33,7 @@ Some countries may end up more open after the pandemic than they were before. Ja
 When the coronavirus is vanquished, migration will still be what it was before: a powerful tool that can lift up the poor, rejuvenate rich countries and spread new ideas around the world. A pandemic is no reason to abandon it. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/leaders/2020/08/01/as-the-pandemic-recedes-let-migrants-move-again

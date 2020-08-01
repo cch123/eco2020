@@ -23,3 +23,7 @@ Next, in December, a special court handed a death sentence to Pervez Musharraf, 
 Why is the judiciary making life difficult for the army when politicians are not? Some think Chief Justice Khosa, who retired in December, had an eye on his legacy. Some of his predecessors, after all, have cast themselves as fearless judicial superheroes. Alternatively, he may have wanted to restore some distance between the judiciary and the armed forces, after the courts were decried for doing the army’s bidding by ousting Nawaz Sharif, one of Mr Khan’s predecessors. Another theory holds that unease at the extension within the army itself emboldened the judges. General Bajwa’s now lengthy term will impede the promotion of many beneath him.
 
 And the opposition parties? Many believe they have come to the conclusion that they can achieve power only with the backing of the generals, as Mr Khan did. The army is popular, after all. Better to wait for it to tire of Mr Khan than to campaign against military influence. Only this week members of the PML-N began propounding a rumour that it was on the verge of persuading the army to ditch Mr Khan and his Pakistan Tehreek-e-Insaf party, and put them back in office instead. ■
+
+## URL
+
+https://www.economist.com/asia/2020/01/23/pakistans-judges-briefly-stand-up-to-the-army

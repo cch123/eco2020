@@ -39,3 +39,7 @@ One elderly Londoner is grappling with online shopping for the first time after 
 That experience brought the country together, and perhaps this one will too. But some fissures may deepen.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/03/26/how-covid-19-exacerbates-inequality

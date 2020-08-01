@@ -19,3 +19,7 @@ Ms Wright classifies these into five groups: the transferred place name (Hanover
 In London, fancy apartment buildings were named So-and-so Court in the early 20th century as a signifier of luxury. That spread to blocks of flats and council-built towers after 1945. Names started by denoting sophistication until they were adopted by enough people to become, well, a bit naff. (Something similar happened with garden gnomes, which Dr Wright says were first installed in Long Island in 1924 to commemorate a visit by the Prince of Wales.)
 
 House names are less common today. Address conventions have been standardised and few people build their own homes. Those that remain are no less imbued with class connotations. In 2017 Savills, an estate agent, saw interest in a new country house grow when its name changed from a “farm” to a “manor”.
+
+## URL
+
+https://www.economist.com/britain/2020/03/12/why-britons-house-names-reflect-their-class-anxieties

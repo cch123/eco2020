@@ -27,3 +27,7 @@ Even before the pandemic, fitness fans wondered whether paid-for online platform
 It seems more likely that the strange but temporary state of lockdown will boost sectors that were already growing. Mental-health apps were flourishing before covid-19. Downloads of the five most popular “mindfulness” apps grew by 85% in 2018. In the last week of March Headspace, a meditation app, saw a 19-fold jump in users completing a calming exercise and a 14-fold surge in those doing a “reframing anxiety” session.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/international/2020/04/04/with-millions-stuck-at-home-the-online-wellness-industry-is-booming

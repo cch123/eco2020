@@ -19,3 +19,7 @@ Last July, when the LREM investiture committee picked Mr Griveaux as the officia
 Efforts are afoot to try to broker a peace and persuade Mr Villani to give up. Mr Macron even summoned him to the Elysée palace, but Mr Villani emerged to declare that he had “a major divergence” with the president. On January 29th, after much internal soul-searching, LREM decided to expel Mr Villani from the party. Disappointingly for the president, he says he will continue his campaign as an independent.
 
 Further realignments are possible, including one around the Greens’ candidate, David Belliard. Making Paris greener is the one idea all the candidates agree on. For his part, Mr Griveaux says that his “door remains open”, should Mr Villani change his mind about running. But time is running out. History teaches that France’s presidents, like its Bourbon kings, often struggle to impose their will on Paris, an unruly city that famously does not take kindly to decisions imposed from on high. ■
+
+## URL
+
+https://www.economist.com/europe/2020/01/30/emmanuel-macron-may-be-about-to-lose-in-paris

@@ -23,3 +23,7 @@ The government, which has controlled the covid-19 outbreak, has done less well i
 Pre-pandemic, mulas brought in goods and cash worth $8bn a year, 8% of Cuba’s (inaccurately reported) GDP, says Mr Morales. Remittances in the first five months of 2020 are $518m lower than during the same period last year, he estimates. The economy is expected to contract by around 8% this year. Cubans hope for a respite in August, when international travel is due to resume. Even then, airline passengers will be allowed to check in just one suitcase, which will restrict what mulas can bring in. Foreign tourists will not be allowed to stray beyond five cays reserved for them. Cubans need mulas and tourists more than lemons and ready-made pizza dough.■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/the-americas/2020/07/02/the-pandemic-shuts-down-a-lifeline-for-cuba

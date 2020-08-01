@@ -31,3 +31,7 @@ Judging by what has already been reported, power grabbers on every continent are
 Where does this lead? Covid-19 will make people poorer, sicker and angrier. The coronavirus is impervious to propaganda and the secret police. Even as some leaders exploit the pandemic, their inability to deal with popular suffering will act against the myth that they and their regimes are impregnable. In countries where families are hungry, where baton-happy police enforce lockdowns and where cronies’ pickings from the abuse of office dwindle along with the economy, that may eventually cause some regimes to lose control. For the time being, though, the traffic is in the other direction. Unscrupulous autocrats are exploiting the pandemic to do what they always do: grab power at the expense of the people they govern. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/leaders/2020/04/23/autocrats-see-opportunity-in-disaster

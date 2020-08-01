@@ -31,3 +31,7 @@ Gizmos sometimes misfire. Wristbands give out the wrong co-ordinates, triggering
 The biggest gain from technology may be that it makes it easier to keep old people fit enough to remain in their own homes for longer. This is much cheaper than an institution, and usually nicer, too.
 
 A 65-year-old Finn can expect to live another 20 years, among the longest life expectancy in Europe. But Finland is in the bottom half of EU countries when it comes to how many of those years are spent in good health, thanks to a fatty diet and a relative lack of exercise, perhaps because the winters are so long. Not every problem has a technological fix. ■
+
+## URL
+
+https://www.economist.com/europe/2020/01/09/finland-turns-to-technology-to-help-frail-old-people-live-at-home

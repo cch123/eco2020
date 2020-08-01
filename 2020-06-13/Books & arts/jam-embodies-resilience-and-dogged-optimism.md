@@ -19,3 +19,7 @@ Novices should start with raspberries, which are naturally high in pectin, a sta
 Whisking the gloop from the heat at precisely the right moment is vital, lest it solidify into a rigid blob. If this happens, you will be tempted to throw the pan out with the jam, and chuck in the towel for good measure. Don’t. Embrace the sweltering, syrupy heat of the summertime kitchen, and start again. It will be messy—transferring molten liquid from a bubbling cauldron into a jar takes deftness and patience. When you succeed, and wipe your brow in relief, you will leave a warm sticky smear across your forehead.
 
 All this requires resilience; but then, that is what the stuff itself embodies. During the second world war the Women’s Institute in Britain preserved 5,000 tonnes of fruit to help sustain the hungry population. Jam is also a form of reassurance—those dusty jars kept at the back of a cupboard, just in case, are a silent comfort. Above all, it is an expression of dogged optimism, since preserves reflect a tacit intention to hang around long enough to reap the benefits. As Joanne Harris, a novelist, has put it, jam betokens “seasons that turn in the same place, in the same way, year after year, with sweet familiarity”. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/06/11/jam-embodies-resilience-and-dogged-optimism

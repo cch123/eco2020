@@ -37,3 +37,7 @@ The broad adoption of this methodology would have big implications. Electronic-h
 Covid-19 will not last for ever. The cover of national emergency will eventually pass. Those who wish to study health records in future will need more specific justifications than the sweeping permissions offered by COPI notices. But the OpenSAFELY team has shown that it is possible to get interesting results without copying data and without asking anyone to trust them with a large, sensitive data set. In doing so, they may have made those justifications a little easier to find. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/05/14/the-pandemic-has-spawned-a-new-way-to-study-medical-records

@@ -25,3 +25,7 @@ Many of the factors implicated in this change in recovery patterns are likely to
 Even in the rosiest of scenarios, the outlook for those without a job seems grim. Were unemployment to fall as quickly as it did from 1933 to 1937, a return to pre-pandemic jobless rates would still take half a decade. At the rate of improvement experienced after the financial crisis, by contrast, full recovery could take two decades. All that after the hardship of the 2010s seems nearly unthinkable. Yet without a hefty dose of good luck and an aggressive government effort, America’s unemployed face a real risk of another lost decade—or two. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/05/02/why-the-unemployed-in-america-could-face-a-lost-decade

@@ -23,3 +23,7 @@ Turkey has long refused to recognise the economic zones around the Greek islands
 Maritime law does not offer clear solutions in the Mediterranean. “Good claims could be made either way,” says Brenda Shaffer, an energy expert at the Atlantic Council, adding that such disputes usually end up having to be settled by force or by agreement.
 
 Agreement does seem possible. After a phone call between Angela Merkel, the German chancellor, and Mr Erdogan, Turkey said on July 28th that it would suspend plans to drill off Kastellorizo and give talks a chance. The Oruc Reis stayed tied up in port. In return, Kyriakos Mitsotakis, the Greek prime minister, offered to meet the Turks in Berlin, if calm prevails in the Aegean for the rest of the summer. That is hardly guaranteed. But Mrs Merkel’s willingness to get involved in one of southern Europe’s knottiest issues is a good sign. ■
+
+## URL
+
+https://www.economist.com/europe/2020/08/01/turkey-and-greece-avoid-coming-to-blows-for-now

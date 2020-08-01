@@ -17,3 +17,7 @@ On paper, Japanese are venturing abroad more often. They went on roughly 20m ove
 In the 1980s and 1990s Japanese were keen to explore the world. Students backpacked for weeks with their copies of Chikyu no arukikata (“How to walk the Earth”), a popular travel guide. A strong yen made foreign jaunts affordable. But interest has been dwindling since the late 1990s. They are “just one of many” leisure options, Ms Morishita explains.
 
 The number of Japanese studying abroad has also fallen, from 82,945 at its peak in 2004 to 55,969 in 2016. The shrinking population of young people is partly to blame. Also, “It costs about ¥4m ($36,000) a year to study abroad,” notes Nakamura Tetsu of Tamagawa University, a prohibitive sum for most. Meanwhile, Japan’s labour crunch makes foreign study less useful. “You don’t need an education abroad to get a good job,” says Suematsu Kazuko of Tohoku University. A survey in 2019 found that 53% of Japanese students are not interested in studying abroad, the highest ratio among the seven countries covered.
+
+## URL
+
+https://www.economist.com/asia/2020/02/27/fewer-and-fewer-japanese-want-to-see-the-world

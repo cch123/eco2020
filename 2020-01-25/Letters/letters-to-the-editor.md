@@ -67,3 +67,7 @@ RICH SEIDNERBoulder Creek, Colorado
 Bartleby recommended cutting “pretentious phrases” from business jargon because they are “generally designed to obfuscate rather than elucidate” ([January 4th](https://www.economist.com//business/2020/01/02/a-managers-manifesto-for-2020)). I’m glad that’s settled.
 
 ROBERT DOMINIANNIWoodland Park, New Jersey
+
+## URL
+
+https://www.economist.com/letters/2020/01/25/letters-to-the-editor

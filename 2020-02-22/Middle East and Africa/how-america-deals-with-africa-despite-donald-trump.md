@@ -33,3 +33,7 @@ Mr Trump’s lack of interest in Africa may unwittingly have given professional 
 “You always need [political] air cover” if you are to make a difference, says Chester Crocker, the longest-serving assistant secretary for Africa (1981-89). So far Mr Nagy’s quiet diplomacy has kept the White House off his back. But Washington’s Africa lobby is glum. “The Africa Bureau has been eviscerated, morale is low, senior officers have walked away,” laments Johnnie Carson, Mr Obama’s first assistant secretary for Africa. “When [the administration] isn’t paying attention, things roll backwards.” There is no sense that Africa matters to America, except as a place where China and Russia must be confronted.
 
 But how? Americans point to the enduring success of aid schemes such as George W. Bush’s big spending on AIDS treatment and prevention. Mr Trump’s Prosper Africa initiative, intended to provide $60bn to encourage private investment, has yet to make strides. American complaints about China only irritate African governments that accept Chinese largesse and retort that America seems unwilling or unable to offer viable alternatives. Mr Pompeo’s tour is unlikely to herald a change of mood or policy. Africans will continue to bemoan the American president’s indifference. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/02/20/how-america-deals-with-africa-despite-donald-trump

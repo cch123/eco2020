@@ -35,3 +35,7 @@ The future, Mr Bayliss argues, lies in “inverting” the old Virgin way, which
 How valuable that brand will be once the crisis abates remains to be seen. Between now and then, a prized asset or two may have to be sold. It would not be the first time. Sir Richard has a history of sacrificing businesses to keep the empire afloat. In 1992, after a vicious fight with BA, he was forced to offload his beloved Virgin Records—the label behind bands from the Sex Pistols to Simple Minds. He later admitted to weeping when the sale closed. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/06/11/virgin-looks-for-help

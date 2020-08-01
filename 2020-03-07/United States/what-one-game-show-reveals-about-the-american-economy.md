@@ -19,3 +19,7 @@ Economic changes may be a better explanation. A paper published in 2001 suggeste
 Perhaps the most intriguing explanation, however, relates to globalisation. In the early 1970s consumers had a relatively limited selection of products to choose from. Around the time that “The Price is Right” first aired, Sears catalogues were hundreds of pages long. But a search on Amazon brings up nearly 1,000 results just for the word “toaster”. Firms offer a huge range of differentiated products at wildly different prices, allowing consumers to satisfy their peculiar wants. The upshot is that guessing prices is trickier. What is the price of a shovel, for which there were more than 10,000 results on Amazon?
 
 The rise of online shopping adds further confusion. Online retailers use algorithms to respond instantly to fluctuations in supply and demand. Alberto Cavallo of Harvard Business School finds that some large retailers now change their prices, both upwards and downwards, twice as frequently as they did a decade ago. All of which suggests that contestants’ guesses may yet get worse.
+
+## URL
+
+https://www.economist.com/united-states/2020/03/05/what-one-game-show-reveals-about-the-american-economy

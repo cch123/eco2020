@@ -35,3 +35,7 @@ The government of Bangladesh has a habit of doling out favours to the well-conne
 The Bangladesh Nationalist Party (BNP), in government from 2001 to 2006, was no more virtuous, Mr Paul says. Citycell, the country’s first mobile-phone company, whose largest stakeholder was a BNP lawmaker called Morshed Khan, thrived on the back of skewed government policies in the early 2000s. But his company’s fortunes waned with his party’s.
 
 Nagad’s fortunes look set to rise. It does not face “the conventional impediments” of working with the public sector because it is fulfilling the government’s vision of “digital Bangladesh”, says Mr Mishuk. The key to making such a public-private partnership work, he explains, is “transparency”: “We make sure there is no shady request, there is no shady manipulation.” ■
+
+## URL
+
+https://www.economist.com/asia/2020/03/05/a-new-mobile-money-firm-in-bangladesh-is-benefiting-from-special-treatment

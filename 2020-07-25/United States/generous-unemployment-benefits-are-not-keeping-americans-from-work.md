@@ -19,3 +19,7 @@ So far there is little evidence to suggest that the extra $600 a week is slowing
 Another signal that employers were struggling to fill positions would be soaring wages. Workers might hold bosses hostage with the threat of settling for benefits instead. Upon first inspection, this seems to be true. Average hourly earnings in the second quarter of 2020 increased by about 7% from a year ago, according to Goldman Sachs. However this is largely because low-paid workers have lost jobs in disproportionate numbers, dragging average wages upwards.
 
 All of this implies that the main factor behind the high unemployment rate is lack of jobs, not an unwillingness to work. Economists normally fight like cats in a bag. But an astonishing 0% of those surveyed by researchers at the University of Chicago disagreed with the idea that “employment growth is currently constrained more by firms’ lack of interest in hiring than people’s willingness to work at prevailing wages.”
+
+## URL
+
+https://www.economist.com/united-states/2020/07/23/generous-unemployment-benefits-are-not-keeping-americans-from-work

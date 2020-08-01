@@ -23,3 +23,7 @@ As in most love affairs, he had competition. One was Michael Jordan, the greates
 He claimed to have no memory of the last game he played, though he scored 60 points in it from 50 shots. For a while his interests had been branching into multimedia, writing, film-making and setting up a Mamba Sports Academy in Thousand Oaks. But most of these still had basketball at the core. His longest film, “Muse”, was about his career, and an animated short based on “Dear Basketball” won an Academy Award. He gave motivating talks in America and Asia in which all his life-lessons were carried over from the court. At Thousand Oaks he coached his second daughter Gianna, among many others, in how to play his way.
 
 With a lover’s impatience, he increasingly took helicopters to get to and from games, events, his office and the academy, in which case he might take Gianna with him. Carpe diem, seize the day, was his motto, learned at school in Italy; tempus neminem manet, time waits for no man. Bad weather would hardly deter him. ■
+
+## URL
+
+https://www.economist.com/obituary/2020/02/01/kobe-bryant-died-on-january-26th

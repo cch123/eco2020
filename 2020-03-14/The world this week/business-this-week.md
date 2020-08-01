@@ -31,3 +31,7 @@ The Chinese owner of Grindr, the world’s most popular gay-dating app, found a 
 The UN and World Meteorological Organisation released a report on the rise of carbon-dioxide emissions. “Greenhouse-gas concentrations are at the highest levels in three million years, when the Earth’s temperature was as much as three degrees hotter and sea levels some 15 metres higher,” said António Guterres, the UN’s secretary-general.
 
 The list of events cancelled or postponed because of covid-19 mushroomed. Casualties include the rest of the NBA season in America and the Coachella festival in southern California. The Council on Foreign Relations scrapped a roundtable on “doing business under coronavirus”. See [article](https://www.economist.com//graphic-detail/2020/03/14/foot-traffic-has-fallen-sharply-in-cities-with-big-coronavirus-outbreaks).
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/03/12/business-this-week

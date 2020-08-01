@@ -27,3 +27,7 @@ Moreover, yield-curve control can send the signal while reducing the need to pur
 Swapping purchases for pegs might eventually seem attractive to the Fed. It already owns over a fifth of all net government debt, and nearly twice that share of longer-dated bonds (see chart). It might also prevent seeming clashes between monetary and fiscal policy. So far the Treasury has financed America’s enormous fiscal stimulus almost entirely through short-term bills. It will probably refinance that borrowing at longer maturities. But doing so puts back into the market the longer-dated assets the Fed is buying up in order to keep yields low. In the 2010s refinancing led to allegations that the Treasury and Fed were “rowing in opposite directions”. Were the Fed pegging rates, it would offset the effect of any Treasury debt-maturity operations passively, and avert controversy.
 
 Working out how best to manage bond purchases to boost growth is only a part of the daunting task that confronts the Fed. It will have to consider, as the economy emerges from lockdown, how to withdraw the vast support it has put in place for the private sector, and face losses on some of its loans. But getting monetary policy right is its most important responsibility—not just to lend to “this man and that man”, but to ensure that the economy is strong enough for each to prosper. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/06/18/the-fed-has-been-supporting-markets-now-it-must-find-ways-to-boost-growth

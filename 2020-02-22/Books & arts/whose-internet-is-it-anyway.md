@@ -33,3 +33,7 @@ America developed the internet, powerful American companies still run big swathe
 Perhaps the starkest example of this is the rise of TikTok, an app that lets people create and share short, goofy videos. It is owned by ByteDance, a giant Chinese startup; last year, several American senators speculated that it might pose a national-security risk. TikTok denied allegations that its moderators took account of Chinese sensitivities, insisting it had never been asked to remove content by China’s government (and would not comply if it were).
 
 TikTok is unusual. When your home market is small or poor (as in much of the world), or hived off into a separate silo (like China’s), it is hard to build global firms. All the same, even if the business of the internet remains anchored in California, its culture—the movies and music, flirtations and conversations—is expanding all the time, confounding the Silicon Valley types who thought they owned it. There is no longer such a thing as “the internet”, but many internets, belonging to many people, distinct but overlapping. It is not dying, as Ms McNeil fears, just respawning. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/02/20/whose-internet-is-it-anyway

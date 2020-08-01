@@ -35,3 +35,7 @@ First, two solids placed face to face have only limited points of contact throug
 The second problem is manufacturing. Many solid electrolytes are ceramics, and so brittle. That makes them tricky to produce in large sheets. Polymers avoid this. But they face the original problem.
 
 Moreover, newish though it is, the Li-ion technology is well established enough for vested interests to exist. Shifting from liquid to solid electrolytes would mean building a lot of expensive new plant. Developing better liquid electrolytes, and new electrodes to match them, may be the surest route towards safer, more powerful Li-ion batteries. ■
+
+## URL
+
+https://www.economist.com/briefing/2020/04/25/lithium-remains-the-car-battery-material-of-choice

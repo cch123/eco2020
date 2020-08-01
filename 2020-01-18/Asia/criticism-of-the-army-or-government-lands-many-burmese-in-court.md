@@ -19,3 +19,7 @@ All told, more than 250 people faced legal charges in 2019 for speaking out abou
 The government has helped set up a body called the Myanmar Press Council to mediate disputes between journalists and officials, among other things. But one of its members, Myint Kyaw, says the government typically takes its complaints straight to the courts, sidestepping the council.
 
 Ironically, it is the Tatmadaw itself which is one of the biggest sources of online falsehood in Myanmar. In 2018 executives at Facebook, which is extremely popular in Myanmar, said that the army had used it to mount a clandestine anti-Muslim hate campaign. Needless to say, none of those responsible was prosecuted. ■
+
+## URL
+
+https://www.economist.com/asia/2020/01/18/criticism-of-the-army-or-government-lands-many-burmese-in-court

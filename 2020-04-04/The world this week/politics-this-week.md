@@ -43,3 +43,7 @@ The captain of an American aircraft-carrier docked in Guam asked the navy for he
 The world’s biggest condom-maker, which is based in Malaysia, warned of a global shortage because it has had to shut factories. Forecasters have already predicted a baby boom because of couples staying at home.
 
 The Wimbledon tennis tournament was cancelled.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/04/02/politics-this-week

@@ -84,8 +84,8 @@
 ### Books & arts
 #### [A love affair with liberal democracy that soured](./Books%20&%20arts/a-love-affair-with-liberal-democracy-that-soured.md)
 #### [It takes four good things to overcome one bad thing](./Books%20&%20arts/it-takes-four-good-things-to-overcome-one-bad-thing.md)
-#### [The psychologist who pretended to be insane](./Books%20&%20arts/the-psychologist-who-pretended-to-be-insane.md)
 #### [For garth greenwell sex is the first step towards connection](./Books%20&%20arts/for-garth-greenwell-sex-is-the-first-step-towards-connection.md)
+#### [The psychologist who pretended to be insane](./Books%20&%20arts/the-psychologist-who-pretended-to-be-insane.md)
 #### [A bold american composer updates fidelio](./Books%20&%20arts/a-bold-american-composer-updates-fidelio.md)
 ### Economic and financial indicators
 #### [Economic data commodities and markets](./Economic%20and%20financial%20indicators/economic-data-commodities-and-markets.md)

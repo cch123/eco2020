@@ -47,3 +47,7 @@ Progress on economic issues may be helping Mr Bolsonaro’s reputation at home. 
 Now his family is dogged by scandal, and his vows to fight corruption are looking empty. A son, Flávio, a senator from Rio de Janeiro, is being investigated for money laundering. The president threatened to replace the director of the federal police after the investigation revealed links between Flávio and right-wing militia groups. Sergio Moro, the justice minister, failed to get through congress most of his proposals for curbing corruption. His credibility was undermined by revelations that when he was a corruption-fighting judge he had improperly close dealings with prosecutors.
 
 Six months ago it appeared that the scandals would delay economic reforms, and possibly end Mr Bolsonaro’s presidency early. There is little talk of that now. The streets are quiet. Mr Bolsonaro’s approval rating slumped in the first half of the year but has stabilised at about 30%. The public seem willing accept reforms even if they are disenchanted with the politicians who are leading them. “Brazilians are living through a distinct social moment in which society is favourable to change,” says Paulo Hartung, the former governor of Espírito Santo, a state that underwent a tough fiscal adjustment in 2015. Brazil may advance, despite its brawling president. ■
+
+## URL
+
+https://www.economist.com/the-americas/2020/01/04/jair-bolsonaros-contentious-first-year-in-office

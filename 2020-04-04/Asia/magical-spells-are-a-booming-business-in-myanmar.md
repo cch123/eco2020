@@ -21,3 +21,7 @@ Wizards started to make a comeback about a decade ago, when the army began cedin
 Their appeal lies in their ability to manipulate the physical world. The greatest wizards can apparently fly, turn base metals into gold and attain immortality—all handy skills. Even the middling ones claim useful powers. Clients come to Saw Lwin, an impish weizza with a ruff of brown hair, to perk up their profits, make them more attractive, banish evil spirits and remove tumours. Myanmar’s health-care system is rickety, and the sick often turn to weizza when doctors fail to heal them.
 
 “Science solves cancer with medicine and surgery,” says Saw Lwin. “We can cure such things in our own ways.” Equipped with his battered book of spells and a laminated red diagram, he dips his index finger in a small pot of perfumed ink. As he does he briefly flashes the faded red tattoos—the source of his healing powers—etched onto his inner forearm. He presses his finger into the palm of your correspondent’s hand, then chants a spell. She has not fallen ill since. ■
+
+## URL
+
+https://www.economist.com/asia/2020/04/02/magical-spells-are-a-booming-business-in-myanmar

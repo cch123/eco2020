@@ -29,3 +29,7 @@ In return for its association with Dr Lieber, Wuhan University of Technology may
 It is not clear how much special insight Chinese researchers gained that they would not otherwise have had. Leading scientists routinely note that in such high-level research international collaboration is increasingly common, and can happen organically. Most research is published openly for all to see. It is not certain that Chinese largesse was required to pry open the wonders of a top laboratory at the world’s most prestigious university. But the Trump administration says that was precisely the goal of the Thousand Talents programme, and that university administrators and scientists have been asleep to the threat such recruitment programmes pose. If so, no longer.■
 
 Correction (February 6th): A previous version suggested that Dr Lieber was directly connected with Elon Musk’s brain-machine interface project. In fact Neuralink, Mr Musk’s firm, is separate from Dr Lieber’s endeavours.
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/02/01/an-american-chemist-is-suspected-of-illegal-dealings-with-china

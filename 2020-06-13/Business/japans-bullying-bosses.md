@@ -17,3 +17,7 @@ At the extreme end, workplace bullying can still include physical violence of th
 Although bad bosses are a universal phenomenon, Japanese workplaces can be particularly conducive to the worst sort of behaviour. Hierarchies are rigid and deeply rooted. What bosses see as tough love can come across as hurtful to junior employees, especially as behavioural norms change between generations, says Inao Izumi of Cuore C Cube, the consultancy that first defined pawahara. The inflexibility of Japan’s labour market compounds the problem. “People can’t easily quit if they hate their boss and companies can’t easily fire bad bosses,” says Rochelle Kopp of Japan Intercultural Consulting.
 
 Critics counter that the new law is both too vague and too toothless to help put-upon workers. Small and medium-sized firms do not have to comply until 2022. The law does not apply to part-time workers, who make up more than a third of the Japanese labour force. Nor does it specify punishments for harassers, leaving it up to companies to decide what action to take. “The law merely warns offenders—it’s like a yellow card,” says Kaneko Masaomi of the Workplace Harassment Research Institute. Until bad bosses have to worry about being sent off the pitch, their untoward actions are unlikely to stop.■
+
+## URL
+
+https://www.economist.com/business/2020/06/11/japans-bullying-bosses

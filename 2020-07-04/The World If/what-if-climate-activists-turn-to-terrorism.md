@@ -29,3 +29,7 @@ Mainstream environmental groups were aghast at the militant turn taken by some o
 In the end, eco-terrorism remained a fringe ideology, never attracting more than a few thousand ideologues. As mainstream environmentalists realised that extremists were tarnishing the movement and undermining support for effective climate policies, they turned against their former colleagues, quietly helping the security services shut down many of the remaining cells. Although bomb threats remain common, explosions are now few and far between. The eco-terrorists seem likely to end up as footnotes in a larger and darker history of climate calamity. ■
 
 For more coverage of climate change, register for The Climate Issue, our fortnightly [newsletter](https://www.economist.com//theclimateissue/), or visit our [climate-change hub](https://www.economist.com//news/2020/04/24/the-economists-coverage-of-climate-change)
+
+## URL
+
+https://www.economist.com/the-world-if/2020/07/04/what-if-climate-activists-turn-to-terrorism

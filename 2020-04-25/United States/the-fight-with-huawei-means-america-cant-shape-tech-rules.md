@@ -23,3 +23,7 @@ Standards bodies with American operations, such as the Wi-Fi Alliance in Austin,
 American lawmakers have noticed. On April 14th a group of Republican senators wrote to the Departments of Commerce, Defence, Energy and State fretting that American companies had been locked out of standards discussions on 5G and urging the departments to fix it. The senators said they were “deeply concerned” about the loss of soft power America derives from standard-setting by American companies.
 
 Few in Washington disagree, yet the fix is not straightforward. Tweaking rules in favour of engagement with Huawei is politically unpalatable, even when that engagement is in forums as innocuous and dull as standards bodies. Meanwhile, Huawei is still building 5G networks around the world, networks which will carry the whizzy internet services of the future. And for almost a year, by its own hand, America’s best companies have been frozen out of discussions which define that future.■
+
+## URL
+
+https://www.economist.com/united-states/2020/04/23/the-fight-with-huawei-means-america-cant-shape-tech-rules

@@ -25,3 +25,7 @@ Allowing people to vote in a country they have left brings its own problems. In 
 Freedom of movement is a unique achievement. But the right to move without the right to vote is a feeble one. It gives those who use it a primarily economic relationship with their new country, rather than a civic one. European workers are reduced to a silent cog in a machine, pumping cash into a system over which they have no control. It pushes against what many EU politicos regard as the bloc’s crowning achievement. The EU is sometimes accused by its more fervent critics of wanting to erase national differences. In this case, it does the opposite, forcing those who move to cling onto their national politics.
 
 Efforts to fix these flaws have fallen flat. National elections are a prerogative of national governments. Handing out votes to new arrivals from abroad falls low down the pecking order. Freedom of movement may be cherished, but that does not mean it is common: barely 4% of EU citizens live in a different country. A European Citizens’ Initiative—a petition to which the European Commission must respond—demanding universal suffrage is circling. It will be a topic of discussion during the upcoming Conference on the Future of Europe, where EU bosses will ponder big ideas. A simple, but politically tricky, option faces them: allow EU citizens to vote based on residency, rather than nationality. No taxation without representation is an old mantra, but a good one. ■
+
+## URL
+
+https://www.economist.com/europe/2020/07/02/let-expats-vote-in-the-countries-where-they-live

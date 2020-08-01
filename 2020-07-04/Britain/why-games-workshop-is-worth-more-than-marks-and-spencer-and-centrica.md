@@ -21,3 +21,7 @@ Games Workshop, which boomed in the 1990s, is enjoying a surge of demand from wh
 Social distancing mostly closed down the wargaming side of the hobby, but that’s not really what aficionados are in it for. Mr Perry, an ex-Games Workshop sculptor who runs Perry Miniatures with his twin brother Michael, says that “for every hour you actually game, you might have spent 25 painting”. Michael Perry lost part of his right arm after a cannon explosion during a medieval re-enactment in 1996, and now sculpts with his left hand.
 
 It’s a good hobby for an anxious time. Gamers talk about the painting process as others might discuss yoga or meditation. “Spending evenings quietly assembling and painting the models is part of the charm,” says Richard, a finance worker. Many gamers added to their “lead piles” of unpainted soldiers during lockdown, and prepare them for the fray right down to the tiny buttons of their Napoleonic uniforms. Let battle commence!■
+
+## URL
+
+https://www.economist.com/britain/2020/07/02/why-games-workshop-is-worth-more-than-marks-and-spencer-and-centrica

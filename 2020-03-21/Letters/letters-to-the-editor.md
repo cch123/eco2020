@@ -53,3 +53,7 @@ JUSTIN BONG-KWANBarrister-at-lawHong Kong
 Kudos to The Economist for sticking to using data as a plural (“[Data, data everywhere](https://www.economist.com//finance-and-economics/2020/02/27/rethinking-how-we-value-data)”, February 29th). Although I don’t understand why there is a grammatical quarrel over this, I have found myself for years having to correct the young scientists I’ve mentored. While we’re on the topic, bacteria and sera are also plurals, the singular forms being bacterium and serum (also media/medium, in contexts other than the media world The Economist inhabits).
 
 GEORGE CROSSNew York
+
+## URL
+
+https://www.economist.com/letters/2020/03/21/letters-to-the-editor

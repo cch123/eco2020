@@ -25,3 +25,7 @@ America’s partisan newspapers reviewed the address according to their biases. 
 Lincoln’s last days have been the subject of more extensive hagiography than for any other president, so it is tempting to dismiss Mr Achorn’s book, which focuses on the inauguration, as redundant. That would be a mistake. Its strength lies less in the events themselves than in the elaborate detail and rich historical context that he musters. Spring thunderstorms turn the parade route into a muddy quagmire that swallows shoes and ruins dresses. John Wilkes Booth relies on the father of his teenage mistress, a New England senator, for VIP passes to both the inauguration and Ford’s Theatre, giving the murderer more than one chance to get to his victim. Washington’s hospitals overflow with wounded soldiers; prostitutes in its brothels serve the assassin, Confederate agents and federal officials without discrimination. Walt Whitman chronicles the era brilliantly. Freed slaves celebrate jubilantly.
 
 As in some of the plays performed in Ford’s Theatre, minor roles sometimes eclipse major ones in this fascinating account. By the end, as well as mourning Lincoln’s fate, American readers might wish for another chance at politics without malice and with charity to all. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/02/29/the-tragic-genius-of-abraham-lincolns-second-inaugural

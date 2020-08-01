@@ -19,3 +19,7 @@ Not everyone is happy. Darren Jones, the chair of the House of Commons Business 
 Jeff Lynn, the founder of Seedrs, warns that failures are an intrinsic part of startup culture and worries about bad headlines when investments go wrong, but he supports the government’s approach. “I would expect two or three in ten of any portfolio of startup investments to perform really well and the rest, less so.”
 
 Whereas most of the government’s financial-support packages will cost taxpayers money, VCs expect the Future Fund to turn a profit as well as helping sustain the startup sector—a relatively bright spot in the British economy pre-crisis. But taxpayers may be surprised by some of their new relationships, and they are not the only ones. “I never envisaged Boris as a sleeping partner,” says Ms Sayle.■
+
+## URL
+
+https://www.economist.com/britain/2020/07/18/how-the-government-may-end-up-with-a-stake-in-a-sex-party-company

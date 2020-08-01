@@ -21,3 +21,7 @@ On paper, BaFin is required to regulate only Wirecard’s banking arm. But it is
 Germany will need to rethink its piecemeal regulatory system, particularly if it wants Frankfurt to lure business from London. The bulk of Wirecard’s business, bizarrely, is regulated by the Upper Bavarian district government, which was woefully ill-suited to oversee a global fintech firm. After claiming that the regulators “worked very hard and did their job”, Olaf Scholz, the finance minister, has promised to consider changing the rules. That is surely only the start of the soul-searching. ■
 
 Correction: A previous version of this story said that firms were listed on the DAX. They are in fact listed on the Frankfurt stock exchange; the DAX is an index of its 30 most valuable firms. 
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/06/25/how-wirecard-fooled-most-of-the-people-all-of-the-time

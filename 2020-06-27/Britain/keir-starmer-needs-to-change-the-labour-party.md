@@ -35,3 +35,7 @@ The third big challenge is Scotland. On the issue of independence—which the Sc
 Given where Labour was six months ago, what Sir Keir has achieved is astonishing. “Something as simple as not being ashamed of the Labour Party is incredibly refreshing,” says an old hand. “But a return to normality is not sufficient to do what’s required in four years’ time.”■
 
 Editor's note (June 25th 2020): This article has been updated to reflect the dismissal of Rebecca Long-Bailey from the shadow cabinet on June 25th.
+
+## URL
+
+https://www.economist.com/britain/2020/06/27/keir-starmer-needs-to-change-the-labour-party

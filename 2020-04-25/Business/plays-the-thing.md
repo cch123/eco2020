@@ -27,3 +27,7 @@ After the video’s success, Mr Turk was contacted by other organisations which 
 These can be difficult issues to cover. It is all too easy for the tone to become either too flippant or too preachy. Mr Turk’s videos get the message over in two to three minutes and may lead to a more open discussion than if the subjects were presented more formally. “Spoken-word videos are great at grabbing people’s attention—the rhyming patterns and lyrical structures make you listen carefully to every word,” Mr Turk argues. “It is also something fresh that most employees have never seen in their annual training or work presentations before.”
 
 A little bit of poetry and comedy goes a long way. One wouldn’t want an entire training day to consist of jokes or rhymes. But online or offline, these kinds of innovative techniques can enliven those endless seminars when the clock never seems to reach 5pm.
+
+## URL
+
+https://www.economist.com/business/2020/04/25/plays-the-thing

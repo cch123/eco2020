@@ -23,3 +23,7 @@ What political direction will popular anger take? One answer might be that it wi
 If the 1930s and the 1980s are any guide, the current slump may prompt regime change. After three mainly democratic decades, the risk is of a return to authoritarian rule. Already some presidents, such as Nayib Bukele in El Salvador and Jeanine Áñez, Bolivia’s interim ruler, have used the pandemic as a pretext to grab extra powers.
 
 The biggest threat is that the army returns as a political actor, as it already has in Brazil under Jair Bolsonaro, Venezuela under Nicolás Maduro and to an extent in Mexico and Bolivia. That is partly because police may struggle to maintain public order in the face of popular anger. It is also because satisfaction with democracy and its institutions, already low in many countries, may fall further, and would-be authoritarians, civilian or military, may spy an opportunity. History need not repeat itself. Nevertheless, Latin America’s democrats will have their work cut out.■
+
+## URL
+
+https://www.economist.com/the-americas/2020/06/27/the-lessons-of-the-1930s-and-1980s-for-latin-america

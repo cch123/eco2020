@@ -25,3 +25,7 @@ How to ensure that the necessary evil of bail-outs does not cripple the single m
 The risks of an uneven playing field will ease if bail-out money is distributed evenly around the EU. On May 27th the European Commission unveiled a €750bn plan to offer grants and loans from mainly rich countries to mainly poor ones. Though there is much haggling left to be done, this proposal heads in the right direction.
 
 Most important, all bail-outs need to be carefully policed. This means ensuring that companies are not using public cash to run large losses or to pay for their expansion plans once the economy opens up. Governments may have to take shares in firms in order to safeguard taxpayers’ financial interests. But there should be rigorous enforcement of rules that encourage firms to repay loans and buy back government stakes quickly by banning them from paying dividends and bonuses. Bail-outs are taking place everywhere. But in Europe they are especially dangerous, because they can undermine economic integration and encourage politicians’ inexhaustible appetite to meddle in industry. Creating a giant, open and competitive market has been one of Europe’s great achievements. In the rush to help business it must not be eroded.■
+
+## URL
+
+https://www.economist.com/leaders/2020/05/28/government-handouts-threaten-europes-single-market

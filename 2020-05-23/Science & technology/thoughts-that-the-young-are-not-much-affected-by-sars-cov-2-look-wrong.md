@@ -25,3 +25,7 @@ Between the beginning of 2015 and February 17th of this year Pope John XXIII had
 Spotting this anomaly led Dr D’Antiga to collect nose swabs and blood samples from his Kawasaki patients, regardless of their other symptoms, in order to search for signs of the virus. The results were intriguing. Only two of the swabs tested positive—an indication that a patient has a current, active infection. Eight of the ten children, though, had pertinent antibodies. These included the two with positive nose swabs. But the other six had clearly been infected in the past. Moreover, further blood samples revealed that nine of the ten recent patients, including the two with negative antibody tests, had markedly reduced white-blood-cell and lymphocyte levels—traits commonly seen in adult covid-19 patients who are severely ill.
 
 How far the implications of all this extend is not yet clear. The elevated Kawasaki caseload may be seized on by those who would like to keep schools closed in the face of the epidemic. The illness does, nevertheless, remain rare, and recognising it early leads to a good prognosis. That argues for vigilance, rather than the continued interruption of children’s education. More positively, understanding how the virus interacts with the immune system to produce these symptoms may help to develop weapons with which it can be defeated.■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/05/23/thoughts-that-the-young-are-not-much-affected-by-sars-cov-2-look-wrong

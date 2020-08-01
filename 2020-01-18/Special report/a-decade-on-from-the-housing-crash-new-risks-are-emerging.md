@@ -27,3 +27,7 @@ Many non-bank mortgage lenders are seizing market share because they offer genui
 Some non-banks, however, exist purely as a means to get around strict bank regulations. In America non-banks are more loosely regulated and supervised than traditional banks. One paper found that an increasing regulatory burden accounted for some 60% of non-bank growth in 2007-15. (In countries like Britain the difference in regulatory burdens between banks and non-banks appears smaller and the growth in their lending is lower.)
 
 Mortgage credit in America is not rising as fast as it was in the early 2000s. According to official data, only a small share of Quicken’s loan-book is in trouble. Yet many non-banks remain highly reliant on short-term funding from traditional banks, so if wholesale markets froze again, many Americans would quickly lose access to mortgage finance. Rather than keeping mortgages on their balance-sheets, non-banks tend to sell them on—not the best incentive to be ultra-cautious, says Amit Seru of the Stanford Graduate School of Business. Non-banks also seem particularly likely to serve less creditworthy borrowers. Until regulators start properly grappling with non-bank lenders, the job of regulating America’s mortgage market will be only half-done. ■
+
+## URL
+
+https://www.economist.com/special-report/2020/01/16/a-decade-on-from-the-housing-crash-new-risks-are-emerging

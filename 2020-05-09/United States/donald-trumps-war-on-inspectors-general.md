@@ -21,3 +21,7 @@ Ronald Reagan, the first president to inherit IGs, asked them all to resign when
 Mr Trump’s reasons for removing these IGs look vindictive. Ms Grimm released a report with conclusions that displeased him. Mr Atkinson said he believed Mr Trump sacked him because he “faithfully discharged [his] legal obligations”. As the Defence Department’s IG he looked into allegations that the Pentagon steered a large contract away from Amazon, whose boss, Jeff Bezos, Mr Trump loathes. (His report found the Pentagon’s procedure was “consistent with applicable law”, but reached no conclusion on White House interference because “presidential communications privilege” discouraged testimony.)
 
 Mr Trump’s attack on independent watchdogs sparked a rare moment of bipartisanship. After Mr Atkinson’s removal, senators from both parties demanded substantive reasons from the White House. It has so far provided none. As for Mr Trump, he seems to see only the political headaches that IGs cause, not those they solve. When a lot of federal money is spent quickly—for instance, $2.2trn in covid-19 relief—inevitably some goes where it should not. Fraud and misappropriation risk embarrassing the administration. Capable IGs can sometimes catch it before it happens. But only if they have not been fired first.■
+
+## URL
+
+https://www.economist.com/united-states/2020/05/07/donald-trumps-war-on-inspectors-general

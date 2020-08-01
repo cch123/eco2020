@@ -35,3 +35,7 @@ Countries can make their roads safer even if they are unable or unwilling to mak
 Roundabouts, chicanes and road humps all reduce speeds and save lives. One study, by academics at the University of KwaZulu-Natal in South Africa, found that the number of pedestrian injuries in two districts of Durban fell from 659 in the two years before speed bumps were built to 519 in the two years after. The number of deaths fell more sharply, from 24 to eight. Mr McInerney points out that fast four-lane roads are still being built through villages in many countries. But in Peru and elsewhere, local people have responded by building illegal speed bumps.
 
 In Bangkok, the road where Hataipat Tantasirin was hit by a motorbike has a new pedestrian footbridge. That will save lives, if people use it. The body snatchers report that they are often called to accidents where pedestrians have been hit by cars or motorbikes directly under footbridges. Apparently, they use them for shade. ■
+
+## URL
+
+https://www.economist.com/international/2020/01/16/globally-roads-are-deadlier-than-hiv-or-murder

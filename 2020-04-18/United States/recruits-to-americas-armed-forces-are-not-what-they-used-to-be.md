@@ -21,3 +21,7 @@ Since the strongest correlate of enlistment is proximity to a military base, the
 This military gentrification has political consequences. Some political scientists once reckoned that elites might be happier to wage war if a disenfranchised underclass would bear the brunt. In fact, the data show that “men and women who serve are likely to embody the values and culture of the median voters.” But if the armed forces skim off the better-educated and better-skilled, they may no longer serve as the vehicles of upward social mobility they once were. The very poorest Americans may be spared foreign battlefields—but they may also be spared college degrees.■
 
 * Andrea Asoni, Andrea Gilli, Mauro Gilli and Tino Sanandaji, “A mercenary army of the poor? Technological change and the demographic composition of the post-9/11 U.S. military” (2020) Journal of Strategic Studies
+
+## URL
+
+https://www.economist.com/united-states/2020/04/18/recruits-to-americas-armed-forces-are-not-what-they-used-to-be

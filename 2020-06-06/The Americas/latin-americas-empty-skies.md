@@ -23,3 +23,7 @@ Although the expansion in passenger numbers slowed with Latin America’s recent
 Consolidation may now accelerate. Entering Chapter 11 is a way for airlines to negotiate with creditors while still operating, without the risk that their planes will be seized, Mr Llamazares points out. He says that even after Latin America’s carriers get back into the sky, perhaps from next month, it may take until 2023 before they return to the passenger numbers and profitability they had in 2019. Even Copa, which is financially strong and does not plan to seek state aid, will operate at only about 40% of capacity in December, according to its boss, Pedro Heilbron.
 
 There are two reasons why governments should worry about all this. First, if the airlines lack cash, that may itself slow economic recovery. And second, competition may be distorted, as subsidised foreign carriers gobble up more international traffic to and from the region. After an initial laissez-faire response, the governments of both Chile and Colombia are considering providing aid. If they do, it should come with strings, such as lowering emissions and trying to stimulate rather than restrict competition in the medium term. Latin America needs its airlines. It does not need to coddle them.
+
+## URL
+
+https://www.economist.com/the-americas/2020/06/04/latin-americas-empty-skies

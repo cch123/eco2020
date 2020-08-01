@@ -17,3 +17,7 @@ The Lithuanian government says the scheme has ignited a latent love for recyclin
 The eagerness of Lithuanian recyclers may stem not from a love of the Earth but from a low net worth. Lithuania has the second-most unequal income distribution in Europe. A tenth of the population get by on less than €245 ($272) a month. In big cities it is common to see people scooping recyclable items out of bins to take to the machines. There’s a historical precedent too: in the Soviet Union, bottle collection was often full-time work for those without other jobs.
 
 Less litter and money for people who need it seems like a win-win. But it might not in fact be best for the environment in the long run. In Germany—where a similar, widely used refund deposit scheme has been in place since 2003—the earnings from keeping the deposits from unreturned bottles seem to have discouraged producers from switching to more sustainable packaging.
+
+## URL
+
+https://www.economist.com/europe/2020/01/11/why-lithuanians-cash-in-on-their-trash

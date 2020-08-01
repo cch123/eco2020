@@ -19,3 +19,7 @@ The case has caused particular outrage owing to the youth of many of the victims
 The authorities are keen to be seen to be cracking down hard. So far they have detained 19 men, including Mr Cho. Dozens more are under investigation. Even South Korea’s president, despite being busy with covid-19, has become involved to reassure people that justice will prevail. Moon Jae-in vowed to take a stern approach to digital sexual-abuse crimes, calling the offenders “cruel” and public fury “justified”.
 
 But it remains to be seen whether all the public hand-wringing will result in justice for the victims, many of them vulnerable girls with troubled family histories or financial difficulties. Activists have long complained of South Korea’s sketchy record on prosecuting sexual abuse and the misogyny entrenched in the law, which still regards being drunk as a valid defence for those accused of rape. Anger ran high last week when prosecutors recommended a sentence of only three and a half years for a chat-room host in a similar case. And even with the best of intentions, attempting to stamp out the distribution of abusive material online can be a wild-goose chase, as perpetrators shift from one anonymous platform to the next. ■
+
+## URL
+
+https://www.economist.com/asia/2020/03/26/a-sex-abuse-scandal-incenses-millions-of-south-koreans

@@ -19,3 +19,7 @@ The investors are not as daft as you might think. Although denominated in bolív
 But this has caused a shortage of bolívares. The total amount of bank loans is the equivalent of $225m, less than 0.5% of GDP. Sanctions imposed by the United States and EU have made lending harder. The share issue raised more money in a day than the large banks could lend to Mr Vollmer’s firm.
 
 No one expects a dramatic recovery of the economy, which has shrunk by two-thirds since Mr Maduro took over from Chávez in 2013. But Mr Vollmer welcomes the shift towards pragmatism. “That’s what happens when you run out of money to fund ideas that didn’t work.” 
+
+## URL
+
+https://www.economist.com/the-americas/2020/02/06/a-share-issue-in-venezuela-the-worlds-worst-performing-economy

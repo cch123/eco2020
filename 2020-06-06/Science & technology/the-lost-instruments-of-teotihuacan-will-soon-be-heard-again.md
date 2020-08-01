@@ -25,3 +25,7 @@ Listen on: [Apple Podcasts](https://www.economist.com/https://itunes.apple.com/u
 Similarly, a team led by Margarita Díaz-Andreu of the Catalan Institution for Research and Advanced Studies has discovered that spaces in rock shelters in western Spain that are decorated with prehistoric art also have striking acoustic properties of reverb and echo—whereas undecorated areas used for shelter at the same time did not. And Miriam Kolar of Amherst College, in Massachusetts, has shown that the top of a towering central platform in the Inca city of Huánuco Pampa was not just a place from which to address the masses. It also had excellent internal acoustic properties. It would have made a good private venue for the local elite.
 
 When Dr Both returns to Teotihuacan, he and his colleagues will play their replicas from spots on the Sun and Moon pyramids, and from other places among the palaces and temples that line the city’s main thoroughfare, the Avenue of the Dead. Rupert Till, Huddersfield’s professor of music, who is also a recording engineer, will record these from various places and attempt to build a model showing how sounds change in the city as the listener moves from one place to another. Or the listener can stop this virtual tour, turn off the sound of the instrument and hear the breeze blowing over the stones.■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/06/06/the-lost-instruments-of-teotihuacan-will-soon-be-heard-again

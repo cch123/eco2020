@@ -63,3 +63,7 @@ Those events are far from over. Every day throws up a difficult new decision. It
 Mr Johnson has a knack for getting away with things, and perhaps this gamble will come off. The previous ones he took with the nation’s health, however, did not. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/06/19/the-british-state-shows-how-not-to-respond-to-a-pandemic

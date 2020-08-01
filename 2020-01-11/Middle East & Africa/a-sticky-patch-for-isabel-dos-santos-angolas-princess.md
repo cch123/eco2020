@@ -21,3 +21,7 @@ Many of the accusations against Ms dos Santos relate to her time as chairwoman o
 Luanda is one of the most expensive cities on earth. The vast majority of Angolans live on less than a few dollars a day. Many would laugh at the idea that the woman known as “the princess” made any sacrifices for them. But Ms dos Santos, who has not set foot in Angola since 2018, insists that she is popular. Lots of Angolans “see me as a role model”, she says.
 
 One thing she is sadly right about is that little has improved since her father left office. The economy has been in recession for four years. And, although the dos Santos family is out, plenty of dodgy officials remain in their posts. “Mr Lourenço’s war on corruption is very selective,” she says. That much is hard to dispute.
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/01/09/a-sticky-patch-for-isabel-dos-santos-angolas-princess

@@ -25,3 +25,7 @@ What of the various other unwelcome forces often thought to be dragging the econ
 Mr Vollrath backs his case with plenty of references to recent important economic papers. Impressively, the book remains digestible. The author’s number-crunching is formidable; good luck to anyone who takes issue with his forensic accounting. Yet it is not a reason to be complacent. Mr Vollrath pins much of his argument on the improvement in women’s welfare. Why then do surveys find that women became unhappier in the final decades of the 20th century? Oligopolies and regulatory capture may not affect overall GDP, but they could still worsen Americans’ welfare by making the economy unfair, or, say, by intruding on their privacy.
 
 Mr Vollrath has not established some hitherto unknown cause for cheer; ageing and the shift to services are forces long familiar to economists. But his triumph is in showing the degree to which these make economic growth an unreliable measure of success. Attempting to capture progress in a single number is a fool’s errand. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/01/23/is-low-economic-growth-a-sign-of-success

@@ -19,3 +19,7 @@ Then Mr Trump showed he will help those who break the law on his behalf. On Febr
 On the same day Jessie Liu—who as US Attorney for Washington, DC, oversaw the prosecutions of several Trump associates, including Mr Stone and Paul Manafort—learned that the administration had withdrawn her nomination to a Treasury Department post. Last month she was removed from her former position and replaced by a top aide to William Barr, Mr Trump’s attorney-general.
 
 The Department of Justice is not meant to be like other departments of the federal government, which jump when the president claps. But that distinction seems to have vanished. Mr Trump tweeted that the prosecutors’ recommendation of up to nine years for Mr Stone was “horrible and very unfair”. Later that day the government filed an amended sentencing request. It argued that the court should consider Mr Stone’s “advanced age, health, personal circumstances and lack of criminal history”, that the initial recommendation “could be considered excessive and unwarranted”, and that “it is unclear to what extent the defendant’s obstructive conduct actually prejudiced the government at trial”. As it happened, that same morning Mr Barr gave a speech to a group of sheriffs blasting “rogue DAs who undermine” law enforcement with lenient sentencing.
+
+## URL
+
+https://www.economist.com/united-states/2020/02/15/acquittal-has-emboldened-donald-trump

@@ -31,3 +31,7 @@ For him and his flock, the hard stuff involves trying to build a community with 
 This troubling past was always the real mark of Cain, Mr Jones writes. And “today God’s anguished questions—‘Where is your brother?’ and ‘What have you done?’—still hang in the air like morning mist on the Mississippi River.”■
 
 Correction (July 12th 2020): A previous version of this article incorrectly named Virginia Theological Seminary. Sorry.
+
+## URL
+
+https://www.economist.com/united-states/2020/07/11/the-mark-of-cain

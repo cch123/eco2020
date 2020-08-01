@@ -19,3 +19,7 @@ Levi’s 501 jeans were tough. The oldest pair on display dates to 1890; another
 The brand’s advertising rode the countercultural wave, capitalising on its status as a badge of coolness and freedom. Marilyn Monroe wore Levi’s; Andy Warhol immortalised them. Even Albert Einstein was spotted in a Levi’s bomber jacket. Jeans that graced the haunches of the famous—including Patti Smith, Madonna and Beyoncé—fill the gallery and span the decades.
 
 At any given moment a big chunk of humanity is wearing blue jeans, the show’s curators observe. Levi’s have been coveted behind the Iron Curtain and fetishised in Japan; they have been ripped, embroidered and covered in ink. Not too shabby for a kid from Bavaria.
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/02/20/the-legend-of-levi-strauss

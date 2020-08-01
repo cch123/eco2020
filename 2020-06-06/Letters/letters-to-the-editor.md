@@ -69,3 +69,7 @@ COLLEEN ROONEYLos Angeles
 First globalisation, then slowbalisation, and now…nobalisation? (“[Goodbye globalisation](https://www.economist.com//leaders/2020/05/14/has-covid-19-killed-globalisation)”, May 16th.)
 
 JOHN MARK WILLIAMSLondon
+
+## URL
+
+https://www.economist.com/letters/2020/06/04/letters-to-the-editor

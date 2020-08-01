@@ -33,3 +33,7 @@ An increase in passenger rides at Lyft was seen as a sign that the American econ
 Meanwhile, Volvo sold 41% more cars in May than April, as lockdowns eased in several markets. Showroom traffic in Europe increased and sales in China continued to grow.
 
 One big beneficiary from the lockdowns reported a 169% jump in revenue for the first quarter, year on year. Zoom said 265,400 firms with more than ten staff were now using its videoconference platform, a rise of 354%. Zoom’s stock has soared. The company is worth over $63bn, up from $16bn when it went public 14 months ago. Zoom’s boss, Eric Yuan, said he was “humbled”.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/06/04/business-this-week

@@ -27,3 +27,7 @@ In response, successive Indian governments have tilted closer to America, with w
 The violent turn in the border dispute is likely to accelerate these trends. “We are at a worrisome and extremely serious turning-point in our relations with China,” says Nirupama Rao, a former head of India’s diplomatic service and ambassador to China. She notes a “clear asymmetry of power” between the two countries. India is likely to deepen its relationship with America and increase its defence budget, says Mr Mukherjee. As both sides shift resources to the border, “there will be a period of adjustment in which things may be especially heated,” he says.
 
 On June 17th India was elected to a two-year term as a non-permanent member of the UN Security Council. Yet it now has its hands full on its own borders. On June 12th an Indian citizen was killed by Nepalese border guards, amid a separate border row between India and Nepal. Relations with Pakistan are also fraught. An Indian soldier was killed by Pakistani shellfire in Kashmir on June 14th and, the next day, two Indian officials in Pakistan were allegedly abducted and tortured by “Pakistani agencies”. And then more soldiers were sent tumbling to their deaths by China’s troops. ■
+
+## URL
+
+https://www.economist.com/asia/2020/06/18/india-and-china-have-their-first-deadly-clashes-in-45-years

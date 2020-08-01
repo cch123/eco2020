@@ -19,3 +19,7 @@ The stand-off comes at an awkward time. Eighteen months of talks between America
 That will be hard if there are two competing governments. Political heavyweights are already jockeying to be part of the negotiating team. A weakened Mr Ghani will struggle to adjudicate. It will be hard for the government to negotiate forcefully with the Taliban if it does not have the backing of most of the political class. “The challenge is to get a united and inclusive negotiating team together,” explains a foreign diplomat. “It would be a very poor situation if the Taliban and the US sign their agreement, only for the Afghans to fail.”
 
 In the meantime, the economy is faltering. Poverty is on the rise. Some 9.4m Afghans will need charitable food and shelter this year, the United Nations warns, up from 6.5m in 2019. In the southern city of Kandahar, an economy once super-charged by vast injections of aid is now subdued. Residents bemoan a lawlessness epitomised by assassinations of businessmen and government officials. The disputed election result compounds the problems, says Muhammad Naim Kharakhi, a shopkeeper at the main bus station, who sells biscuits and drinks to passengers. “It will cause big problems for ordinary people because businessmen who want to invest will wait. The economic situation was already bad enough because of the delayed result. This will only make it worse.” ■
+
+## URL
+
+https://www.economist.com/asia/2020/02/20/afghanistans-disputed-presidential-election-comes-at-a-tricky-time

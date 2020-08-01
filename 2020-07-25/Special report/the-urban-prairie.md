@@ -43,3 +43,7 @@ Aaron Renn, formerly of the Manhattan Institute think-tank, has assessed America
 Detroit would love to do the same, but it cannot easily annex nearby places because of a century-old state law. It could learn other lessons, such as the unusual readiness of Indianapolis to persuade companies to bid for municipal business, which has helped to repair the city’s finances. Sadly, Indiana’s market-friendly approach is not typical. A report in May by Heartland Forward, a think-tank of the Walton family (who own Walmart), laments that old, big companies do well in the region, but young firms rarely flourish. That is especially true in places that fail to encourage research and innovation. The young firms are likelier to generate new jobs, but regulation chokes small ones and stymies the entrepreneurial-minded. Occupational licensing for businesses such as hairdressers, or telling a bodega that it will need 15 permits to open, saps economies everywhere.■
 
 Dig deeper:Sign up and listen to Checks and Balance, our [weekly newsletter](https://www.economist.com//checksandbalance/) and [podcast](https://www.economist.com//podcasts/2020/07/17/checks-and-balance-our-weekly-podcast-on-american-politics) on American politics, and explore our [presidential election forecast](https://www.economist.com/https://projects.economist.com/us-2020-forecast/president)
+
+## URL
+
+https://www.economist.com/special-report/2020/07/23/the-urban-prairie

@@ -27,3 +27,7 @@ That argument, Mr Rudd contends, is “bullshit”: the body would have had no a
 It is no surprise then that indigenous people believe Australia does not offer them a fair go. “There’s a view here that we’re all mates,” says Pat Anderson, an Aboriginal leader. “But this is a mythology they tell themselves.” Petty racism abounds. One Aussie-rules star, Adam Goodes, who complained when a 13-year-old called him an ape, was booed into early retirement.
 
 Yet some think the social and political ground might soon shift. A younger generation of indigenous Australians, many better educated than their parents, is beginning to puncture the cosy self-image of Australia projected by the likes of Mr Morrison—using wit to get their point across. It was hardly salutary that a recent study concluded that three out of four Australians have a “racial bias” against Aboriginals. But it did bring cheer when Briggs, an indigenous rapper, tweeted that the fourth Australian was probably “conducting the survey”.
+
+## URL
+
+https://www.economist.com/asia/2020/06/20/racism-in-australia-is-not-just-a-thing-of-the-past

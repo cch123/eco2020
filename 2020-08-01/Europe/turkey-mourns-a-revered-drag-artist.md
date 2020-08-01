@@ -15,3 +15,7 @@ Being gay or trans in Muslim-majority Turkey has always been hard. But homophobi
 The paradox is that many of Turkey’s most famous singers and entertainers have been gay or trans. Some of them still appear on TV. Mainstream culture in Turkey continues to welcome gay celebrities, so long as they do not discuss their sexuality openly.
 
 The Grumpy Virgin outlasted a dozen prime ministers. But as Turkey’s politics have turned more Islamic and more inward under Mr Erdogan, she seemingly failed to keep up with the times. In 2007 the media watchdog banished her from the airwaves. Turkish TV shows these days are increasingly populated by Ottoman warriors and army commandos, and news programmes by martyrs, traitors and terrorists. Male ministers with long faces regularly vow to protect the nation from foreign plots. Turkey, it seems, is fast losing touch with its feminine side.
+
+## URL
+
+https://www.economist.com/europe/2020/08/01/turkey-mourns-a-revered-drag-artist

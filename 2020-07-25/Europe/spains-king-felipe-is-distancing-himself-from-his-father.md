@@ -15,3 +15,7 @@ Installed as monarch on the death of the dictator Francisco Franco, Juan Carlos 
 Juan Carlos’s fall from grace began in 2012, when he broke his hip while elephant-hunting with Ms Larsen in Botswana, revealing their relationship to the public. His level-headed successor, Felipe, has largely lived up to his promise of a “renovated monarchy for a new era”. He now faces the prospect of his father being charged, though as king emeritus Juan Carlos can be tried only in the Supreme Court, and the statute of limitations may save him. The left-wing coalition government has publicly nudged Felipe to chastise his father further, perhaps by evicting him from the Zarzuela Palace.
 
 Ousted three times between 1808 and 1975, the Spanish Bourbons are still on probation. Republican sentiment is growing. “The monarchy isn’t doomed,” says Charles Powell of the Elcano Royal Institute, a think-tank. “But Juan Carlos is toxic and Felipe will struggle to win back the respect and confidence he had won. There’s very little sympathy for the institution now.”■
+
+## URL
+
+https://www.economist.com/europe/2020/07/23/spains-king-felipe-is-distancing-himself-from-his-father

@@ -25,3 +25,7 @@ Even where Brussels does run the show, the upside is not obvious. Brussels incre
 Such advantages are not only limited but may also be short-lived. The EU’s regulatory dominance is a recent affair. And the blocks upon which the EU built this power are shuddering. The EU is still one of the world’s biggest markets, but its share of the global economy is likely to fall in the coming decades. As it shrinks, so does the incentive to follow Brussels’ diktats.
 
 Technological change may further weaken the EU’s power. Producing a complicated widget to different standards costs lots of money as manufacturing must be rejigged. If 3D printing becomes the norm, the costs of abiding by both European and other standards might well fall. In some areas, high standards may become a curse, rather than a virtue. With artificial intelligence, companies under sketchier regulatory regimes may build an insurmountable lead via unethical experimentation. “What today amounts to the Brussels effect may one day be described as the Beijing effect,” warns Ms Bradford. Such shifts may be some way off. Countries are increasingly forced to pick a sphere of influence. When the other choices are an erratic America and an undemocratic China, the EU has something to offer. But hegemony rarely lasts and the EU’s regulatory supremacy is unlikely to be an exception. Even the highest standards can end up ignored. Just look at the British plug. ■
+
+## URL
+
+https://www.economist.com/europe/2020/02/06/the-parable-of-the-plug

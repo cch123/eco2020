@@ -27,3 +27,7 @@ It is here that Japan’s old ideological faultlines are playing out over the co
 Liberal critics worry that Mr Abe, whose government over the years has harassed the press and chipped away at constitutional constraints on its authority, could use an emergency to widen his powers alarmingly. That is always a risk, given a weak civil society in Japan and given that his Liberal Democratic Party wants a revised constitution. Mr Abe’s inner autocrat might yet be unleashed. But it is striking that so far this year he has shown a paucity of leadership, not an oppressive streak.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/asia/2020/04/04/abe-shinzo-draws-closer-to-declaring-a-state-of-emergency

@@ -27,3 +27,7 @@ Since China will not be capturing a large slice of the semiconductor manufacturi
 That would have been unthinkable a decade ago. At that time China’s technological progress was mostly unopposed by other powerful countries, which profited from it. But the age of perceived mutual benefit is over. It is hard for the world’s powerful countries, particularly America, to tolerate a China with a global outlook, access to advanced technology and real geopolitical heft. America has reportedly already started pressing the Taiwanese to restrict chip exports to Huawei, the Chinese tech giant, though the Taiwanese government denies it.
 
 America should be careful about such interventions. A clumsy attempt to kneecap Huawei has shown that the Trump administration has little grasp of the dynamics of the technology ecosystem in which it is intervening. Its understanding of other aspects of Chinese technological development is probably even hazier. The threat posed by a technologically enabled Chinese Communist Party is real. In responding to it, America must be sure not to become its own worst enemy.■
+
+## URL
+
+https://www.economist.com/technology-quarterly/2020/01/02/technological-progress-in-china-could-still-lead-to-fireworks

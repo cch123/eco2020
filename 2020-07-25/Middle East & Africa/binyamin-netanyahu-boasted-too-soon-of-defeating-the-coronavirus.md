@@ -27,3 +27,7 @@ Mr Netanyahu is instead banking on a controversial mobile-phone surveillance pro
 One silver lining of Israel’s covid-19 crisis is that relatively few people have died. With a population of 9m, Israel has reported over 56,000 cases but just 430 deaths. That is probably because of a young population and good health care. But criticism of Mr Netanyahu is growing for other reasons, too. On July 19th a court said the next stage of his trial on corruption charges, postponed because of the lockdown, would begin in January. The court will convene three times a week, with the prime minister in attendance. Mr Netanyahu is reportedly trying to wriggle out of both his legal troubles and his agreement with Mr Gantz by calling an early election. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/07/23/binyamin-netanyahu-boasted-too-soon-of-defeating-the-coronavirus

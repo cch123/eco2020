@@ -29,3 +29,7 @@ To avoid this, an extension could be made more palatable. One possibility would 
 An alternative is to ignore the end-June deadline for an extension and leave it to the autumn to decide. After all, Mrs May’s various extensions of the Article 50 Brexit deadlines were all done at the last minute. Yet there is a big legal problem. The withdrawal treaty was drawn up under Article 50. If its end-June deadline is not met, Article 50 can no longer be used because Britain is a third country. That means any extension in the autumn would have to go through a separate treaty. Worse, such a treaty might have to be ratified by national and, in some cases, regional parliaments.
 
 In short, the risk of ending the year without a trade deal with the EU and with no extension of the deadline looks uncomfortably high. And, after months when covid-19 wholly usurped the agenda, Brexit is back to the fore.■
+
+## URL
+
+https://www.economist.com/britain/2020/05/28/deadlock-looms-at-brexit-talks-next-week

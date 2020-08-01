@@ -19,3 +19,7 @@ The resulting album is a gem. Mr Tamborello’s signature glitchy sounds are bui
 Take the song “We Will Become Silhouettes”, which recounts being trapped inside after a nuclear strike. “I wanted to walk through the empty streets/And feel something constant under my feet,” Mr Gibbard sings. “But all the news reports recommended that I stay indoors”: different disaster, same outcome. “Sleeping In” is about clinging to consoling dreams. “Recycled Air” evokes a yearning for air travel, and its anxieties, “knuckles clenched to white as the landing gear retract for flight”.
 
 This genre-bending music looked forward to later developments in pop. But the Postal Service was ahead of its time in another way, too. Even before covid-19 confined them to their home studios, other artists were undertaking remote collaborations. For example, “Old Town Road”, a blend of country & western and hip-hop, was made from a beat that Lil Nas X, an American rapper, bought online from YoungKio, a Dutch music producer, for $30. Though they had never met, the track they made together enjoyed a record-breaking 19 weeks at the summit of the Billboard Top 100, and was certified diamond faster than any song before it. After your next dreary Zoom meeting, remember that great things have been accomplished at a distance. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/06/13/give-up-is-a-fitting-pandemic-soundtrack-in-more-ways-than-one

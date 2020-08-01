@@ -23,3 +23,7 @@ Journalists and film-makers have told their story before. Mr McCann, too, co-ope
 The reader glimpses the men’s zigzag route through loss into peacemaking via vivid, jagged tesserae of prose. Meanwhile, images of flight, flux and movement—involving migratory birds, watercourses, artworks, even weaponised drones—offer a hawk’s, or dove’s, eye view of the seething cauldron that the novelised Mr Elhanan calls a “condensed everywhere”.
 
 An “apeirogon”, the geometric term that becomes Mr McCann’s key metaphor, is a shape “with a countably infinite number of sides”. The patchwork pattern of this novel matches the polyhedral complexity of the pasts it evokes. With “one story becoming another”, “Apeirogon” insists on “the sheer simultaneity of all things”. The results are frequently beautiful, sometimes baffling. The imagery often dazzles, but plainer passages that inhabit the men’s minds as they wrestle against rage and bitterness towards an “ethic of reciprocity” have the greatest emotional power. At the core of this fractal fiction is a simple, radiant myth: “The hero makes a friend of his enemy.” ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/03/12/apeirogon-depicts-a-moving-israeli-palestinian-friendship

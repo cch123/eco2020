@@ -23,3 +23,7 @@ The proliferation of ministries has the potential to create confusion. Take the 
 Recently the ministry of strategic affairs has tried to undermine the international campaign to influence Israel through “BDS”—boycott, divestment and sanctions. That, predictably, caused tensions with the foreign ministry. Turf battles are common, and could increase given the government’s strange bedfellows. Mr Gantz will be taking the positions of alternate prime minister and defence minister. In 18 months he is supposed to swap places with Mr Netanyahu. Until then he has the right to veto nearly anything the government does.
 
 Each ministry comes with its own budget and team of bureaucrats. The cost of Mr Netanyahu’s new creations is 85m shekels ($24m) a year, to be taken from existing departments. Despite criticism, he hasn’t even tried to claim that the new ministries are necessary. But, he says, they are worth it to avoid another election, which would cost 2bn shekels. And there may be other benefits for the imperious prime minister. “The more ministers he has, the less he has to take us seriously,” says a disconsolate member of the new cabinet.
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/06/04/binyamin-netanyahu-has-bought-loyalty-with-meaningless-titles

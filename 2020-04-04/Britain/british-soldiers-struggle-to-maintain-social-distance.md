@@ -29,3 +29,7 @@ Unlike the Pentagon, British officials will not say how many cases of covid-19 h
 Russian bombers probing near British and Irish airspace sent Royal Air Force jets scrambling twice last month, and on March 26th the Royal Navy said it had deployed nine vessels to shadow a flotilla of Russian warships in the English Channel and North Sea. Britain’s armed forces will need to stay in tip-top health.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/04/04/british-soldiers-struggle-to-maintain-social-distance

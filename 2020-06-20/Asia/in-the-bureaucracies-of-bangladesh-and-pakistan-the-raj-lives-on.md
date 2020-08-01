@@ -23,3 +23,7 @@ Centuries of formality are hard to slough off, however. When posted abroad, the 
 The old ways are the best ways for Pakistan, argues Naima. Just because the British introduced them does not make them wrong, she says. Indeed, one reason colonial habits endure in Pakistan is because they suit its conservative culture, she argues. The formal etiquette helps the bureaucracy set itself apart, in her view. In hierarchical places like South Asia, bureaucrats are the top of the pile, says Ishtiaq Jamil of the University of Bergen. Rigid decorum adds to their sense of importance.
 
 Mehbub thinks it will take “another hundred years” for Bangladesh’s civil service to lose its Britishness and become purely Bengali. He is leading the way, however. The head of his office, he sometimes wears jeans and a T-shirt to work: “What can I say? I’m a rebel.”
+
+## URL
+
+https://www.economist.com/asia/2020/06/18/in-the-bureaucracies-of-bangladesh-and-pakistan-the-raj-lives-on

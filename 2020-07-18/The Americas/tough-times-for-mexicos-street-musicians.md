@@ -21,3 +21,7 @@ Musicians were not at first eligible for the government’s modest aid offer to 
 But they now hope not to need it. An easing of lockdowns, despite rising numbers of new covid-19 cases, may bring back audiences. Mr Ortiz, who spent six weeks rising at 5.30 in the morning to make burritos with his wife for sale on the streets, reckons he is not cut out for such early shifts. He will not stop playing again, no matter how deep the slump, he says. “I will sell my car for money before I sell my tuba.”
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/the-americas/2020/07/18/tough-times-for-mexicos-street-musicians

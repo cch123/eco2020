@@ -23,3 +23,7 @@ The simplest, rules-based way to take advantage of lower stock prices is portfol
 A good stockpicker will have a watch list: a roster of company shares she would like to own should they become cheaper during the current sell-off. Market sages, tapping their nose, boast that they plan to load up on “quality stocks” at good prices when the stockmarket really tanks. If only life were that simple. Quality stocks (companies with a business model that is hard for rivals to emulate) started off dear and are only a little less so now. Meanwhile unloved value stocks, which sell for a low multiple of their profits, have become even cheaper. Such firms are in industries whose long-term prospects look bleak—banks, carmakers, oil firms and so on. Owning them has been an unrewarding experience. Their profits will be crushed by travel bans, supply-chain snarl-ups and the like. But their cheapness will push bolder investors to take a look.
 
 Flitcraft was shocked to discover how random life can be. The hardboiled Sam Spade already understands this. Investors of the Spade kind know that beams fall, and they adjust to it. They also know that beams eventually stop falling. It is this that allows them to buy stocks when prices hit the pavement.
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/03/05/share-prices-fall-hard-in-recessions-it-is-tricky-to-take-advantage

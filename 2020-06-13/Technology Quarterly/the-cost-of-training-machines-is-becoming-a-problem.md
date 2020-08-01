@@ -43,3 +43,7 @@ For now, though, all that is far off. Quantum computers are relatively well-unde
 That means that, for the foreseeable future, AI researchers will have to squeeze every drop of performance from existing computing technologies. Mr Toon is bullish, arguing that there are plenty of gains to be had from more specialised hardware and from tweaking existing software to run faster. To quantify the nascent field’s progress, he offers an analogy with video games: “We’re past Pong,” he says. “We’re maybe at Pac-Man by now.” All those without millions to spend will be hoping he is right. ■
 
 Correction (June 16th 2020): The original version of this piece misstated Dr Svore's and Dr Manning's job titles. Apologies. 
+
+## URL
+
+https://www.economist.com/technology-quarterly/2020/06/11/the-cost-of-training-machines-is-becoming-a-problem

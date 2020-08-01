@@ -21,3 +21,7 @@ When schools did reopen, many pupils did not return. Sierra Leone’s government
 The current crisis is in some ways worse. During the Ebola outbreak, clubs for girls in some places provided education and support: those attending were less likely to get pregnant than those in similarly affected areas without such groups. Social distancing means that such efforts will be hard to replicate now. Mr Mansourian fears that the long-term consequences of covid-19 in low- and middle-income countries will be “much more dire” than Ebola was in west Africa.
 
 Though it was terrible for children overall, Ebola did have the good effect of highlighting the flaws in west African education systems. It galvanised efforts to improve schooling, increase education budgets and reduce classroom crowding. “Whilst it seems early—and almost grim—to be thinking of it now,” says Mr Dannatt, “we should also absolutely be looking at how we can reopen education on a new level after the crisis.”
+
+## URL
+
+https://www.economist.com/international/2020/04/30/school-closures-lessons-from-the-ebola-pandemic

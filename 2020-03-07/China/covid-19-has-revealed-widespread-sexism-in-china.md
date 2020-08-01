@@ -29,3 +29,7 @@ Ms Lin, who volunteers to help victims of domestic violence, has been helping Ms
 Volunteers are also sending sanitary pads to hospital workers in Hubei and nearby. Among them is Ayn (not her real name), who runs a platform about women’s issues. Periods, she says, are “very much getting overlooked”. Many female workers feel embarrassed to speak to superiors, she finds. The problem was brought to public attention last month when male bosses at hospitals in Hubei reportedly turned away donations of sanitary products on the grounds that they were not essential. Ayn says that, although her campaign's donations are now accepted by hospitals, she must still spend big sums to get them delivered.
 
 The propagandists’ portrayals of women during the epidemic—as self-sacrificing, brave or beautiful—“basically all follow the playbook”, says Zoe, the blogger. But she was surprised to see a state-run charity follow the volunteers’ lead and donate sanitary pads. People’s Daily has condemned “feudal” attitudes to menstruation and eulogies to “extreme behaviour” such as returning to work right after a miscarriage. Only fierce and widespread anger, she reasons, could have spurred the party’s mouthpiece to say such things. ■
+
+## URL
+
+https://www.economist.com/china/2020/03/07/covid-19-has-revealed-widespread-sexism-in-china

@@ -25,3 +25,7 @@ Schemes should also encourage flexibility. Idled workers should be allowed to re
 Finally, governments should help people find new jobs. That means boosting support for training, tearing down barriers to opportunity such as unnecessary licensing rules, and cutting payroll taxes to encourage hiring. As in normal times, governments must not stand in the way of economic change. They should instead grease its wheels—while offering a helping hand to those who are left behind. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/leaders/2020/05/16/when-lockdowns-end-governments-will-have-to-free-labour-markets

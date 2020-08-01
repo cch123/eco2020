@@ -21,3 +21,7 @@ QE is also, surely, less needed in the emerging world. In Chile and Peru benchma
 Why then are central banks pressing ahead? They believe their bond purchases serve a distinct purpose. They are neither an unconventional way to lower borrowing costs nor an illicit one to finance the government. The aim instead is to stabilise financial markets. In Brazil the president of the central bank says its bond purchases will resemble foreign-exchange intervention. It will not try to peg bond yields any more than it pegs the real. But it will try to smooth out jumps. The South African Reserve Bank says that its purchases are not meant “to stimulate demand”, but to ensure a “smoothly functioning market”.
 
 In some quarters QE is still a tainted term, associated either with mercantilism, as a weapon in a currency war, or monetary adventurism. But the stigma is fading. Indeed some central banks now say they are doing QE even when they aren’t. The Bank of Korea, for example, has resolved to buy unlimited amounts of bonds from financial institutions that promise to repurchase them after three months. These “repo” operations amount to collateralised loans, not outright purchases. Few economists would describe them as QE. But far from resisting the term, the Bank of Korea has embraced it (“It wouldn’t be wrong to say we began quantitative easing,” noted one official). Never in the field of central banking have so many worried so little about buying so much. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/05/07/emerging-markets-launch-qe-too

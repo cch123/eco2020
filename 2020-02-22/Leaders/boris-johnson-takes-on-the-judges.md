@@ -25,3 +25,7 @@ If the government thinks that the state intrudes too far into people’s lives, 
 For the executive to curb the judiciary directly would neither achieve those ends nor serve the British people. An independent judiciary is an essential check on the tendency of majorities to mistreat minorities and of executives towards authoritarianism. Enthusiasm for undermining that independence, as in Poland and Hungary, is a good indicator of a government’s authoritarian instincts. The Supreme Court should remain physically separate from the House of Lords, for that is an expression of its independence. Judicial appointments should also be kept safely beyond the reach of politicians. Where that is not so, partisan rows over appointments undermine faith in the courts. The former attorney-general, Geoffrey Cox, said that the government did not intend to go down the American route; it is to be hoped that Ms Braverman takes a similar view.
 
 Post-Brexit, the government is in a radical mood. That is a good thing. It should be open to ideas about how Britain might do things better. Limiting the power and independence of judges is not among them.■
+
+## URL
+
+https://www.economist.com/leaders/2020/02/20/boris-johnson-takes-on-the-judges

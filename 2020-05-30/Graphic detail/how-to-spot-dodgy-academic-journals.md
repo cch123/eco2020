@@ -23,3 +23,7 @@ The average predatory journal publishes about 50 articles a year, less than half
 Cabells’ guidelines will only start to catch dodgy studies on covid-19 once they appear in predatory journals. But the fact that so many “scholars” use such outlets means that working papers on the disease should face extra-thorough scrutiny. ■
 
 Source: Cabells 
+
+## URL
+
+https://www.economist.com/graphic-detail/2020/05/30/how-to-spot-dodgy-academic-journals

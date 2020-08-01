@@ -19,3 +19,7 @@ Others are at it too. Egypt’s President Abdel-Fattah al-Sisi adorned his new c
 To be fair, grand mosque-building is a long-standing tradition. Within decades of the prophet’s death, Muslim leaders ordered up mighty religious buildings to cement and legitimise their rule. The Omayyads, a sybaritic early Muslim dynasty, built mosques like palaces, with golden mosaics and coloured cut marble. In the 15th century the Ottoman Turks began to fashion pencil-thin minarets to outdo church spires in their newly conquered Christian lands.
 
 The worst tyrants often built the finest mosques. At least they had style. “The most beautiful face the Earth has ever turned towards the sun,” said the writer Amin Maalouf of Samarkand, a city rebuilt by the Emperor Tamerlane, also known for erecting towers of skulls. If only today’s tyrants had better taste.
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/01/09/why-muslim-leaders-like-building-grand-mosques

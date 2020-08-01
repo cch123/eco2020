@@ -23,3 +23,7 @@ Some instead look for a return of a former prime minister, Ferenc Gyurcsany, who
 The woman to watch is less well known. Anna Donath is just 32, and is also an MEP, in her case for Hungary’s most interesting new party, with the pleonastic moniker Momentum Movement. Momentum was the big surprise in the European election; founded only in 2017, it won just under 10% of the vote. Insiders, however, worry that she may not want to run, either.
 
 The real problem is that Mr Orban does not really look beatable in 2022. He has shrugged off his difficulties with the rest of the EU over Hungary’s erosion of the rule of law (a task made easier because Poland is now behaving worse). The economy is booming; it grew by around 5% last year. Corruption ought to be his Achilles’ heel. Last week Transparency International, a watchdog, rated Hungary the second-most corrupt country in the EU, beaten only by Bulgaria. “But,” sniffs one diplomat, “as long as incomes are going up, Hungarians don’t seem to care.” ■
+
+## URL
+
+https://www.economist.com/europe/2020/01/30/the-plight-of-hungarys-opposition

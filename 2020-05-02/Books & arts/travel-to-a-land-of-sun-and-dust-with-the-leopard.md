@@ -19,3 +19,7 @@ Although he has several children, Fabrizio sees his true heir in Tancredi, his z
 Change is personified by Don Calogero, the shrewd mayor of Donnafugata, an inland town and location of Fabrizio’s favourite palace. Crushing the amorous hopes of his own daughter, Concetta, Fabrizio spies the advantage to Tancredi’s career of marrying him to the mayor’s only child, the beautiful Angelica. This involves Fabrizio welcoming into his family the “little conglomeration of ill-cut clothes, money and cunning brashness” that is Calogero.
 
 The victors of revolutions often ape the rulers they dislodge. That is especially so in the Latin world, where many have been rearrangements of the furniture rather than genuine upheavals. Lampedusa was not alone in believing that unification had taken Sicily backwards (one form of resistance would be the Mafia). At first, the Italian left decried “The Leopard”; it took Luchino Visconti, a communist but an aristocratic one, to recognise the book’s genius, turning it into a baroque film starring Burt Lancaster, Alain Delon and a young Claudia Cardinale. That multinational cast was a fitting tribute to a story rooted in time and place that also transcends them. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/05/02/travel-to-a-land-of-sun-and-dust-with-the-leopard

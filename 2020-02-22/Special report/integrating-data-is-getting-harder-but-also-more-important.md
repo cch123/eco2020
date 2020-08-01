@@ -41,3 +41,7 @@ But despite such tools, many AI projects still disappoint, says Debra Logan of G
 To overcome such digital divisions, some companies have made organisational changes. A growing number have appointed a “chief data officer” who can knock heads together to ensure that the IT department and business units work together, which they must to build anything resembling an AI-assembly line. Yet changes at the top, as well as in technology, are not worth much, if the rest of the company is not ready. “Poor data literacy” is the second biggest barrier to corporate data projects, preceded only by “cultural challenges to accept change”, according to a recent survey by Gartner. Changing this does not mean that all employees have to become data scientists, but that they have a basic grasp of what data can be used for and what not, says Mike Potter, the chief technology officer of Qlik.
 
 Data, he argues, are never neutral and must always be questioned: they may be collected for political reasons or in a way that hides things. “We all think that data are so objective,” he says, “but they are actually as interpretable as Shakespeare.” Despite all the tech, there may never be a single version of the truth. ■
+
+## URL
+
+https://www.economist.com/special-report/2020/02/20/integrating-data-is-getting-harder-but-also-more-important

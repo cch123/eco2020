@@ -31,3 +31,7 @@ AI researchers are starting to grapple with these sorts of problems. Two years a
 Indeed, social media is an example of an anti-AI backlash that is already under way. Dismayed by the conspiracy theories and misinformation promoted by algorithms that prioritise “engagement” over all else, countries are passing laws to force firms to blunt their worst impacts. AI is creating jobs, not destroying them: Facebook employs over 15,000 human content moderators to police its algorithms, twice the number it had in 2017.
 
 Brad Smith, the president of Microsoft, has said that instead of asking what AI can do, humans need to think about what it should do. The technological limits of naive, fallible AI, in other words, will lead humans to impose additional political and social limits upon it. Clever algorithms will have to fit into a world that is full of humans, and, in theory at least, run by them. Artificial intelligence is both powerful and limited. As that realisation spreads, some of the dreams of high summer will fade in the autumnal chill. ■
+
+## URL
+
+https://www.economist.com/technology-quarterly/2020/06/11/humans-will-add-to-ais-limitations

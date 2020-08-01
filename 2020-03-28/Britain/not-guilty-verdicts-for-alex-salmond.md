@@ -19,3 +19,7 @@ Mr Salmond and Ms Sturgeon had been growing apart long before he faced criminal 
 Kenny MacAskill, an SNP Westminster MP and formerly Scotland’s justice minister, said that he was “delighted” for Mr Salmond and that now “some resignations” were “required”. Joanna Cherry, another SNP MP and a staunch Salmond ally who hopes to stand for election to the Scottish Parliament next year, said that she was sure the SNP’s chief executive would welcome an independent review into the Scottish government’s handling of the case. Ms Sturgeon and Mr Murrell may have detected a hint of menace in her remarks.
 
 Compared with the spread of covid-19, Mr Salmond’s claims of a conspiracy against him may seem trivial. But when the virus recedes, the former first minister and his supporters will be waiting for the current first minister and her husband. And they will have revenge in their hearts.■
+
+## URL
+
+https://www.economist.com/britain/2020/03/26/not-guilty-verdicts-for-alex-salmond

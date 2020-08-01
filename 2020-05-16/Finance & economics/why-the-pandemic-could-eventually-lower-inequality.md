@@ -27,3 +27,7 @@ Furthermore, the crisis could have indirect effects that influence the trajector
 History need not repeat itself. Governments and economic systems of all kinds have struggled to manage the pandemic effectively and equitably. But it does not take much imagination to see that if politicians allow the costs of the pandemic to be borne unequally they could sow the seeds of a transformative populist backlash. They would do well to heed the lessons of the past. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/05/16/why-the-pandemic-could-eventually-lower-inequality

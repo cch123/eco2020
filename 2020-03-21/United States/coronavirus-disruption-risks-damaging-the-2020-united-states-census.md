@@ -23,3 +23,7 @@ Even before the outbreak of the virus this year’s census was raising concerns.
 So far the Census Bureau has only made modest changes. On March 18th the agency announced that all field operations are to be suspended until April 1st. On other surveys officials will make phone calls instead of visits. It has asked administrators of “group quarters”—institutions like nursing homes, prisons and college dormitories—to “choose a way to count their residents that requires less in-person contact”. But more radical adjustments may be needed. Terri Ann Lowenthal, a former director of the House committee that oversees the census, notes that the count takes ten years to plan, and “yet now the Census Bureau is being forced to make shifts basically on the fly”. On March 17th Brazil announced it would delay its census by a year. American officials might have to consider that, too.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter), or visit [our coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/united-states/2020/03/21/coronavirus-disruption-risks-damaging-the-2020-united-states-census

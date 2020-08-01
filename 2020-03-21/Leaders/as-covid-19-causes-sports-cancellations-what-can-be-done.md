@@ -25,3 +25,7 @@ John Maynard Keynes talked a lot about the importance of “animal spirits” to
 In the second world war many sports were cancelled as players were conscripted into the armed services. But exhibition games were played where possible. A British services eleven played football in newly liberated Paris and Brussels in September 1944. In America a women’s baseball league was organised. Tyler Cowen, an economist, has proposed that a small number of elite athletes could be tested for the virus and then cocooned. After a quarantine period, they could play all-star games to keep citizens entertained, with audiences watching via the internet or TV. It seems an idea worth exploring. If all work and no play makes Jack a dull boy, then no work and no play risks making Jack (and Jill) depressed and discontented. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/leaders/2020/03/21/as-covid-19-causes-sports-cancellations-what-can-be-done

@@ -25,3 +25,7 @@ Mr Cook and Sundar Pichai, who runs Google’s corporate parent, Alphabet, may b
 ![](./images/20200627_WBC177.png)
 
 Apple plans to replace revenue from selling phones with that from services. This includes proceeds from, among others, warranties and video-streaming, as well as App Store fees and commissions. A new study, financed by Apple, estimates the size of the global market for everything that the App Store has created, from food-delivery to online shopping, at $519bn a year (see chart 2). One way to read this is as an advertisement for Apple’s benevolence. Advertising and digital goods, from which the firm takes a cut, make up just a fifth of the total. On the other hand, the study also highlights just how much more digital terrain remains to be harvested. ■
+
+## URL
+
+https://www.economist.com/business/2020/06/27/why-apples-developers-are-cross

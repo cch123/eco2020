@@ -27,3 +27,7 @@ The president and the finance minister must still get their proposals through a 
 Mr Ramaphosa is reluctant to pick a fight with the opponents of reform, partly because he fetishises consensus, but also because he has an eye on the ANC’s National General Council meeting in June. Two of his predecessors, Thabo Mbeki and Jacob Zuma, were “recalled” from office by the party before they had concluded their terms. Party insiders believe that the ANC’S rules would not allow opponents of the president to oust him at this year’s gathering. But they may try nonetheless.
 
 Even if they do not try, South Africa remains in peril. Those in the ruling party face a clear choice: wise up and cut spending on their own or, in the not too distant future, do so under the thumb of the IMF. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/02/27/wise-words-are-not-enough-to-fix-south-africas-economy

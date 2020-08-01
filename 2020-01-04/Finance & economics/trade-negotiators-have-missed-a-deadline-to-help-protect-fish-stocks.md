@@ -23,3 +23,7 @@ Further complicating matters is a long-running row about how to treat developing
 China, both the world’s biggest fisher and biggest subsidiser of fishing, has proposed capping subsidies in proportion to the number of people in each country who work in the industry. But it is the world leader here, too, with 10m at the last count (in 2016). Other countries fear such a rule would constrain China too little.
 
 Apart from the fish negotiations, almost nothing is happening at the WTO. Ms Tipping thinks this could be helpful, since the issue will not end up hostage to other, even more fraught, trade rows. But it also deprives negotiators of their most useful tool. Usually, trade talks make progress because the ambitious parties coax the foot-draggers forward by offering concessions on other matters. Now, though fish are on the table, the accompanying bargaining chips are off the menu. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/01/02/trade-negotiators-have-missed-a-deadline-to-help-protect-fish-stocks

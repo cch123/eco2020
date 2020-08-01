@@ -37,3 +37,7 @@ Many activists doubt whether such quiet diplomacy will work. Some would prefer a
 But rallying public, let alone government, enthusiasm for this would be difficult, and such a movement probably would not change China’s behaviour. China is the world’s second-largest economy; South Africa ranked 26th in 1985. For consumers, goods wholly or partly made in China are all-but-impossible to avoid. One Uighur activist says Mr Trump’s reported remarks about the camps being a good thing could have useful shock-value, by drawing attention to the plight of Uighurs. Such is the tragic state of their cause that even bad news is better than no news at all. ■
 
 Correction (June 30th 2020): A previous version of this article said the Trump administration had blacklisted several dozen companies deemed complicit in atrocities in Xinjiang. This has been amended to clarify that other entities, including government institutions, were targeted by these measures.
+
+## URL
+
+https://www.economist.com/china/2020/06/27/donald-trump-is-not-the-only-leader-who-fails-to-stand-up-for-the-uighurs

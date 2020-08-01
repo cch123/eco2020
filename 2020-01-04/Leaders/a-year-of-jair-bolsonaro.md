@@ -25,3 +25,7 @@ Although murders have fallen, largely because inter-gang warfare has eased, Mr B
 Then there is the environment. Early data suggest deforestation in the Amazon in the first 11 months of 2019 rose by 80% compared with 2018. Mr Bolsonaro sacked the chief of the space agency after it reported unwelcome deforestation data, and has hollowed out environmental-enforcement agencies and egged on ranchers and loggers who set fires to clear land. At recent global climate-change talks, Brazil played the wrecker.
 
 If Mr Bolsonaro transforms the economy, Brazilians will have reason to be grateful. But they, and the world, will have paid a high and unnecessary price. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/01/02/a-year-of-jair-bolsonaro

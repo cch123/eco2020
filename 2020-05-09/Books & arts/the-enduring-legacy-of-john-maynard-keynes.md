@@ -27,3 +27,7 @@ Instead, Keynesianism was defined by his colleagues, such as Joan Robinson and J
 Mr Carter is dismissive of these anti-Keynesian reactions. Still, you have to wonder whether Keynes, who relied on his investment income to fund his lifestyle, would have been enthusiastic about the economic policies of the mid-1970s, which in Britain yielded a top rate of income tax of 83% and inflation of over 25%.
 
 For a while, as the profession moved away from his ideas, it looked as if Keynes might become one of the “defunct economists” he once quipped about. But the 21st century has restored his reputation. In 2009, in response to the financial crisis, G20 governments agreed on the kind of co-ordinated fiscal stimulus that Keynes would surely have recommended. The pandemic has led to yet another round of government action to stave off depression. Meanwhile, increasing use of automation has revived interest in Keynes’s thoughts about a shortened working week, which he expounded in “Economic Possibilities For Our Grandchildren”. The world will be debating, and learning from, the work of Keynes for many decades to come. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/05/07/the-enduring-legacy-of-john-maynard-keynes

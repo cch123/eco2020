@@ -33,3 +33,7 @@ State media have tried to downplay any discrimination. One gauzy ad from the UAE
 The social contract in the GCC has always been transactional. Foreigners are paid more than they would earn in their home countries. Even unskilled labourers toiling in the heat make enough to send back remittances. In return they accept a state of permanent transience. Residency is tied to employment: no matter how long you work in the Gulf, you will probably have to leave once you cease being useful. Even wealthy expats are being reminded that they are outsiders. Many of those who happened to be travelling when the lockdown began now cannot get back to their homes in Qatar or Dubai. Some are separated from spouses or parents. Far from bringing people together, the virus underscores how far apart they are. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/04/23/migrant-workers-in-cramped-gulf-dorms-fear-infection

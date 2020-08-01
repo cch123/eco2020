@@ -19,3 +19,7 @@ Mr Fink’s professions of greenery did not come out of the blue. In 2018 his le
 So is the letter so much greenwash? A good test is whether BlackRock’s active and passive funds vote against the expansion plans of fossil-fuel firms they invest in. These imply big increases in carbon emissions, says Mark Campanale of Carbon Tracker, a think-tank. Over to you, Larry. ■
 
 Sign up to our fortnightly climate-change newsletter [here](https://www.economist.com//theclimateissue/)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/01/16/blackrock-says-it-wants-to-do-more-for-the-climate

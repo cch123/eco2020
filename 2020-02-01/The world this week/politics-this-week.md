@@ -43,3 +43,7 @@ The largest party in Peru’s congress lost most of its seats in an election. Po
 Jeanine Áñez, Bolivia’s interim president, announced that she would run for the presidency in May. A conservative former senator, she became president after Evo Morales quit in November. Critics of Ms Áñez say she should not run for office while also, as interim president, overseeing the election.
 
 Conservationists spotted three Bolivian Cochran frogs, the first time they have been seen in 18 years. The internal organs of the vividly green frogs are visible through their abdomens and they weigh less than 100 grams (3.5 ounces). They were spotted in Carrasco National Park near Cochabamba, the site of a hydroelectric dam that is under construction.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/02/01/politics-this-week

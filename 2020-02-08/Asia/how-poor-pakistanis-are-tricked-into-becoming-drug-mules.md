@@ -21,3 +21,7 @@ Pakistani prisoners receive little support from their government. Diplomats seld
 When Saudi Arabia’s crown prince, Muhammad bin Salman, visited Pakistan in early 2019, he promised that his government would pardon and release 2,107 Pakistani prisoners. A year on, only 579 have been freed. Moreover, JPP says the great majority of these had in fact been freed before the crown prince’s announcement. When the rest will be released remains unclear. Pakistani officials blame the delay on inertia in the Saudi bureaucracy, rather than bad faith. What is more, says Syed Zulfikar Bukhari, Mr Khan’s point man on the issue, the Pakistani government has helped to repatriate another 2,600-odd people accused of minor infractions, such as overstaying their visas.
 
 The gravity of Abdul Haq’s son’s crime means that he is unlikely to be one of those to be released. His family has tried to pursue the men who exploited their son, with little success. His father now watches as other young men set out on the same risky journey. “Because we have poverty, everyone wants to go there, clearly, and earn some good money.” ■
+
+## URL
+
+https://www.economist.com/asia/2020/02/06/how-poor-pakistanis-are-tricked-into-becoming-drug-mules

@@ -29,3 +29,7 @@ What to do? As The Economist went to press euro-area finance ministers were stil
 Northerners have long resisted mutualisation for fear of underwriting laxity in the south. But without it Italy and Spain will face either a savage crisis now or a lengthy debt crisis in the future. With lockdowns in place from Saxony to Sicily, debt issued today is a result not of bad behaviour but of the pandemic. Mutualisation should be a compromise, signalling that north and south have to live together in their common interest. Even some past opponents of Eurobonds, such as Klaas Knot, head of the Dutch central bank, now see a case for them. Northern leaders must follow. For two decades they have shied away from the fact that the currency union cannot succeed unless its members share more risk. If they do not face up to that today, the euro, and perhaps the European Union itself, will not survive. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/leaders/2020/04/11/making-europes-economy-work-better

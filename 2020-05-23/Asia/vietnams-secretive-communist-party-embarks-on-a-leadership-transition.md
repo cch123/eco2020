@@ -27,3 +27,7 @@ The third threat comes from Vietnam’s complex relationship with China. Economi
 Elsewhere leaders struggle to deal with China over disputed territory and maritime claims in the South China Sea. Under cover of the global pandemic, China has become increasingly assertive, sinking a Vietnamese fishing vessel, giving Chinese names to dozens of reefs and rocks in the sea and establishing new administrative districts over islands and atolls it controls, including the Paracels, seized from Vietnam in 1974.
 
 Vietnam’s leaders anxiously foster peaceable ties with China. But if China’s expanding ambitions in the sea make no concessions to Vietnamese sensibilities, then an eventual rupture becomes more likely. That would ruffle the grey hairs of any leadership line-up.
+
+## URL
+
+https://www.economist.com/asia/2020/05/21/vietnams-secretive-communist-party-embarks-on-a-leadership-transition

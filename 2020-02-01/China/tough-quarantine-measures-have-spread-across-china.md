@@ -41,3 +41,7 @@ Lu Xiaoyu, an academic who works in Australia but who flew back to Wuhan for the
 The virus has given new energy to localist sentiment within the protest movement in Hong Kong, where anti-mainland prejudice lurks alongside a yearning for greater political freedom. Bowing to public pressure, Hong Kong’s government is denying entry to Hubei residents and those recently in the province. That did not stop someone posting online bomb threats and demands to seal the mainland border, shortly after police found three small, home-made explosive devices.
 
 Chinese leaders insist that one-party rule is vital for stability and progress. The world will judge, in due course, whether their brand of bossy, secretive authoritarianism helped to stop a pandemic, or let the coronavirus spread out of control. Already, the crisis is revealing a country which talks a lot about unity and is capable of great feats of national mobilisation, but which is easily divided and painfully low on trust. That is an ailment for which party bosses seem to have no cure. ■
+
+## URL
+
+https://www.economist.com/china/2020/01/30/tough-quarantine-measures-have-spread-across-china

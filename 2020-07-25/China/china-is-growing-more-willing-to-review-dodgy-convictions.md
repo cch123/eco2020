@@ -29,3 +29,7 @@ There have been other encouraging trends. He Jiahong of Renmin University in Bei
 But it is difficult to judge how much this is helping to make justice fairer. Information that might be helpful, such as changes in the proportion of cases being concluded without a confession, is hard to come by. Proving trends in abuses committed by police is “almost impossible”, says NYU’s Mr Belkin. The party’s secrecy may also be directly obstructing change. Tobias Smith of the University of California, Berkeley, says the government has neglected its promise to ensure that defence lawyers take part in reviews of death-penalty cases because it does not want them to work out how many people are executed, which is a state secret.
 
 Criminal justice in China is increasingly splitting along two tracks. People accused of crimes that are unrelated to politics are gradually receiving better protection. Those accused of political crimes or official corruption are being treated more harshly, says Joshua Rosenzweig of Amnesty International. The idea is to have a legal system that looks fairer to many citizens but still just as threatening to people whom the party fears might oppose or undermine it. That could be called progress, but few would call it justice. ■
+
+## URL
+
+https://www.economist.com/china/2020/07/23/china-is-growing-more-willing-to-review-dodgy-convictions

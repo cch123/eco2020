@@ -27,3 +27,7 @@ The second way in which companies are rethinking their business has to do with s
 When natural disasters strike big companies usually get by, shifting production temporarily from afflicted areas to those that are not. But unlike a flood, an earthquake or even the Sino-American trade war, all of which companies have some experience in planning for, covid-19 could affect all of a firm’s actual and potential subcontractors simultaneously. In such a scenario carrying bigger inventories and having suppliers at home may no longer look wasteful. It may come to be seen as necessary.
 
 The coronavirus will not make business travel or lean global supply chains disappear. Chinese factories are cranking up again and high-flyers will, in all likelihood, be back in airport lounges soon enough. But the crisis offers a chance to experiment with new ways of doing things—and to question the wisdom of old habits. Chief executives should not be immune to the opportunity.■
+
+## URL
+
+https://www.economist.com/business/2020/03/05/covid-19-is-foisting-changes-on-business-that-could-be-beneficial

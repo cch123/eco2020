@@ -23,3 +23,7 @@ Many of these adventures ended in tragedy. Seven climbers and nine porters were 
 Mr Ellsworth presents a gripping history, despite the occasional cliché (“Whether or not mad dogs and Englishmen could stay out of the noonday sun was debatable. But Englishmen…simply couldn’t keep out of the hills”). He takes care to describe the experiences and contributions of Nepali sherpas—including a young man named Tenzing Norgay—who were hired to support expeditions. Even as European and American mountaineers relied on their expertise, they typically maintained strict divisions between sherpa and sahib. Sherpas were nearly always allocated inferior equipment and lodging.
 
 When war broke out in 1939, the mountaineers were forced to abandon the Himalayas for the front. But the race was merely on hold. In 1953, after seven failed attempts by British expeditions, Tenzing and Sir Edmund Hillary made the first successful climb to the summit of Everest. From the mountaintop, Tenzing waved the flag of the United Nations. “I like to think that our victory was not only for ourselves”, he reflected, “but for all men everywhere.” ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/02/20/a-race-to-the-top-of-the-world

@@ -47,3 +47,7 @@ In South Africa a man was charged with spreading fake news about testing.
 Scotland’s chief medical officer resigned after she broke the government’s advice by leaving her house, twice, during lockdown to visit her second home. See [article](https://www.economist.com//britain/2020/04/11/how-to-build-social-consensus-around-lockdown).
 
 A tiger in the Bronx Zoo is thought to have contracted covid-19 from an infected zookeeper. There is no evidence that tigers can give the disease to humans.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/04/08/politics-this-week

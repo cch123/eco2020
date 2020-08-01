@@ -27,3 +27,7 @@ But with so much cross-border activity before the clampdown, it seems implausibl
 If the new coronavirus does take hold, it will ravage the malnourished (including many army conscripts) before anyone else. To Mr Kim, these people are expendable. Nonetheless, the ferocity of his response suggests he is terrified of the virus. A big epidemic would make him look ineffective—something no all-powerful god-king can afford.
 
 Dig deeper:
+
+## URL
+
+https://www.economist.com/asia/2020/03/14/how-two-korean-cults-measure-up-against-covid-19

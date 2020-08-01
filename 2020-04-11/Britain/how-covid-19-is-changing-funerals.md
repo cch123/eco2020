@@ -29,3 +29,7 @@ Religious groups have been organising their own sites. Gardens of Peace, a dedic
 Pandemics change burial traditions. The Spanish flu, which killed over 200,000 Britons a century ago, brought an end to the horse-drawn funeral processions that were popular in Victorian times. Whatever impact covid-19 has in the long run, for now its victims’ mourners are looking forward to proper commemorations when the lockdown is lifted. “When this is all over we can have the hymns, the readings, the party that Mum wanted,” says Ms Foster. “I just see this cremation as a way to get her home. I just want her home.”■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/04/11/how-covid-19-is-changing-funerals

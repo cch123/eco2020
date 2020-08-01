@@ -25,3 +25,7 @@ These justifiable fears for Hong Kong’s local economy do not, however, extend 
 Hong Kong’s currency peg is also heavily fortified. Foreign-exchange reserves are twice as large as the money supply, narrowly defined. In principle, the banks would run out of Hong Kong dollars to sell to the monetary authority before it would run out of American dollars with which to buy them. In practice, interest rates would spike long before then.
 
 That would make holding the currency more rewarding and betting against it more expensive. It would also inflict pain on the economy. For the peg to survive, the government would have to endure the agony longer than speculators could endure the expense. During the Asian financial crisis in 1997 (when overnight interest rates briefly reached 280%), Hong Kong showed how far it was willing to go. The peg’s survival back then has made it more likely to survive future tests, too. Hong Kong has built a reputation for competence and integrity with international investors. What a shame that the government has squandered its reputation for those very qualities with its own population.■
+
+## URL
+
+https://www.economist.com/leaders/2020/02/06/hong-kongs-economy-is-in-peril-but-its-financial-system-is-not

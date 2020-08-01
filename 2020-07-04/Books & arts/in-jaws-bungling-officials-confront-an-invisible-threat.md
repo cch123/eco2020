@@ -21,3 +21,7 @@ Experts disagree on how to overcome the danger. Hooper (Richard Dreyfuss), a wis
 Sadly, it will take more than three misfits in a ramshackle vessel to beat the virus. Metaphorically speaking, “You’re gonna need a bigger boat.” Still, quarantine is another chance to enjoy Mr Spielberg’s yarn, albeit with an after-bite. For many, its legacy was a lifelong fear of the sea; for some, covid-19 may bequeath a lingering queasiness about the world outside. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/07/02/in-jaws-bungling-officials-confront-an-invisible-threat

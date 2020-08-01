@@ -39,3 +39,7 @@ Cities that don’t grow, notes Mr Glaeser, can’t change the “housing patter
 Darrin Redus, a local business accelerator, says that 67 black-owned firms now do business worth $1.2bn in annual revenues, employing some 3,500 people. His goal, pre-pandemic, was to double those figures by 2023. Such efforts to spread prosperity are essential for overall urban success, he insists. Others say that only when black residents of cities are helped to accumulate wealth will the economy of the whole city benefit. Mr Barnes is blunter. Not tackling structural problems on race is like ignoring internal bleeding, he says. “You may not see it, but the outcome will be catastrophic if left untreated.”■
 
 Dig deeper:Sign up and listen to Checks and Balance, our [weekly newsletter](https://www.economist.com//checksandbalance/) and [podcast](https://www.economist.com//podcasts/2020/07/17/checks-and-balance-our-weekly-podcast-on-american-politics) on American politics, and explore our [presidential election forecast](https://www.economist.com/https://projects.economist.com/us-2020-forecast/president)
+
+## URL
+
+https://www.economist.com/special-report/2020/07/23/separate-downtrodden

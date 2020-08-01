@@ -19,3 +19,7 @@ It turns out that Kerr never informed the queen directly of his plan. But he did
 For almost 50 years, the dismissal has been a reference point for debate about the role of Britain and its monarchy in Australian affairs. Britain is still a big investor in Australia, but only the seventh-largest trading partner and currently the third-biggest source of immigrants after India and China. The monarchy is the last constitutional link between the countries.
 
 John Howard, a conservative prime minister, called a referendum on becoming a republic 21 years ago and then helped to defeat it by campaigning for a No vote. Mr Howard succeeded in seeing off the republicans in part because they were divided about how a new head of state should be chosen, not because Australians had an ardent desire to retain the monarchy. Greg Barns, who headed the campaign for a republic, says the referendum is “unfinished business”. A poll two days before the letters’ release found that 62% of Australians would like an Australian head of state. The ambiguous letters will continue to provide ammunition for both sides of the debate. ■
+
+## URL
+
+https://www.economist.com/asia/2020/07/18/did-queen-elizabeth-approve-the-toppling-of-australias-government

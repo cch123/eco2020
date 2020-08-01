@@ -23,3 +23,7 @@ But the euro area’s version has its problems. It does not fully strip out land
 The strategy review has revived the subject. Ms Lagarde wants to explain better the ECB’s policies to the public (who, surveys suggest, think inflation is higher than the official figure). On January 27th Yves Mersch, an ECB board member, urged the inclusion of housing costs.
 
 Fixing the statistical problems would, as Ms Lagarde warned, take time. Incorporating housing costs would also raise questions about the bank’s target: nudging up the inflation measure without altering the target too would look like tipping the scales. As dieters know, there’s never an easy fix.
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/02/01/the-ecb-considers-counting-owner-occupied-housing-in-inflation

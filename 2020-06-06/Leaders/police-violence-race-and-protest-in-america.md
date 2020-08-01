@@ -35,3 +35,7 @@ Yet fear betrays Mr Floyd’s memory. The more America is united, the better it 
 By the end of the decade in which Baldwin wrote of the need to heal America, the country had set about dismantling the legal edifice of racial segregation. It was also in the grip of a reaction from those who thought civil rights had gone too far. America is like that. Progress tussles with its opposite. But Americans have been tugging away at racism for half a century. This week, when the cruel death of a black man drew protesters of all races onto America’s streets, it was not just a sign of how much work lies ahead, but also that progress is possible. ■
 
 Correction (June 5th 2020): The original version of this article claimed that the space mission of autumn 1968 was Apollo 8. We meant Apollo 7. Sorry.
+
+## URL
+
+https://www.economist.com/leaders/2020/06/04/police-violence-race-and-protest-in-america

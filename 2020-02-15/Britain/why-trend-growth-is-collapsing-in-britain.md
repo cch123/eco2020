@@ -17,3 +17,7 @@ Estimates of potential trend growth have fallen globally, but the decline in Bri
 ![](./images/20200215_BRC167.png)
 
 If the Bank is right, in the short term lower potential growth will keep up the pressure on the public finances, as tax receipts have less room to grow. The medium-to-longer-term picture is more worrying still. Weaker output growth means slower improvement in living standards. To avert that, policymakers will have to focus on solving the great British productivity puzzle.
+
+## URL
+
+https://www.economist.com/britain/2020/02/13/why-trend-growth-is-collapsing-in-britain

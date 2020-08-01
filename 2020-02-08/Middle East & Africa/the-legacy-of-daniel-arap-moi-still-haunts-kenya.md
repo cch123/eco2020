@@ -25,3 +25,7 @@ The West tolerated Mr Moi’s repression, seeing him as a bulwark against commun
 Many were surprised when Mr Moi stood down in 2002, as required by the constitution. On his way out, though, he tried to select a pliant successor. His choice, Uhuru Kenyatta (Jomo’s son), was trounced in that year’s election and his party, which had ruled since independence in 1963, collapsed. His car was pelted with mud after he formally handed power to his vice-president-turned-opponent, Mwai Kibaki, who won the election.
 
 Mr Moi’s legacy is still contested in Kenya. Moi day, a national holiday he created for himself, was scrapped in 2010—then reinstated by the high court in 2017. Recently Mr Moi asked for the day to be rebranded as “Huduma day”, a day of service. In many ways the Moi era continues. Corruption and ethnic favouritism still poison Kenyan politics. Most of today’s top politicians served under him (including Mr Kenyatta, who became president in 2013). That is one reason why, despite his atrocities, there has been no shortage of eulogies. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/02/06/the-legacy-of-daniel-arap-moi-still-haunts-kenya

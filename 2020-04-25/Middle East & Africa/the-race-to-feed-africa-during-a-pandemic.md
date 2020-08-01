@@ -45,3 +45,7 @@ Away from crisis zones the threat is not starvation, but a slow-burning struggle
 That need not happen. Most African countries locked down early, so may be able to ease up quickly. In the meantime new initiatives are sprouting, from delivery apps connecting vendors with customers to an efflorescence of mutual aid. Markets are being redesigned. Traders’ associations, customs officials and TradeMark East Africa, a donor-funded outfit in Nairobi, are piloting “safe trade zones” at borders, with temperature checks, masks and sanitisers. Policymakers on the continent and beyond should keep food flowing. They must not let an unprecedented shock become a hunger crisis. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/04/23/the-race-to-feed-africa-during-a-pandemic

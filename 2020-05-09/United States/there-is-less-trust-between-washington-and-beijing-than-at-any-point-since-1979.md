@@ -29,3 +29,7 @@ The administration’s push to blame a lab in Wuhan for the pandemic may fall ap
 Taiwan is likely to be a flashpoint for increased tensions, if not armed conflict. America is backing the self-governing island’s bid for observer status at the World Health Assembly, the decision-making body of the WHO. A vote is expected later this month. The administration has also allowed a deputy secretary of health and human services to take part in a Zoom conference with a Taiwanese vice-premier about Taiwan’s successful response to covid-19. Mr Trump may consider sending a more senior official to Taipei, which would be taken as provocation by the Communist Party. In that sense the pandemic might provide a saving grace. If such a high-level summit were to be conducted over Zoom, to prevent the spread of the virus, the two governments might at least keep at a safe distance from each other. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/united-states/2020/05/09/there-is-less-trust-between-washington-and-beijing-than-at-any-point-since-1979

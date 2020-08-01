@@ -31,3 +31,7 @@ The main indictments had been sealed for several years. Pushing for publication 
 Perhaps recognising that the truncheon alone would not work, the State Department has offered a plan that sounds more conciliatory. The National Assembly would choose a transitional government, which would prepare for free elections, under a formula that would give pro-government chavista legislators a say in its composition. Neither Mr Maduro nor Mr Guaidó could lead it. American sanctions would be lifted, which would help Venezuela cope with the pandemic. But nothing in the State Department plan spares Mr Maduro the threat of extradition should he lose power, as he surely would in a free election.
 
 For now, he is using the pandemic to reassert control. He has prohibited public gatherings. In the midst of nationwide fuel shortages, he has given control of petrol distribution to the army, which will cash in on the black market as it now does in food. His threats against Mr Guaidó are more menacing. On March 30th, without naming the opposition leader, he warned that the regime would soon be “coming to knock on your door”. While Mr Maduro and Mr Barr are brandishing handcuffs, the threat from covid-19 can only grow. ■
+
+## URL
+
+https://www.economist.com/the-americas/2020/04/02/the-unintended-consequences-of-indicting-nicolas-maduro

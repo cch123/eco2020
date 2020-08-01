@@ -31,3 +31,7 @@ To encourage that, cities need to run themselves for the post-covid era. They ar
 Cities also need more autonomy. New York’s hapless mayor, Bill de Blasio, has been a poor advertisement for muscular local government. But Seoul’s world-beating coronavirus response has been organised largely by the metropolitan government and by local officials. By contrast, the mayor of London, Sadiq Khan, had to lobby the national government to insist on face masks on public transport. It agreed two months too late.
 
 National governments and states will need persuading that cities should have more power, especially as many will also be begging for money. They should step back anyway. Great cities are obnoxious, but they are normally big contributors to national budgets. And the trick they perform for their countries is not just economic. Cities are where people learn to live in a modern, open society. They are machines for creating citizens. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/06/11/great-cities-after-the-pandemic

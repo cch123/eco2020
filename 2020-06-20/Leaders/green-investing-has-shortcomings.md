@@ -21,3 +21,7 @@ The final problem is motivation. Suppose shareholders can influence a firm and m
 What to do? Governments need to force firms to improve their disclosure. Asset managers need to drop the gimmicks and set coherent and measurable objectives. Most important, widespread carbon taxes would unlock the power of finance, giving investors and banks a strong motive to shift capital away from dirty industries to clean ones and to develop instruments that allow firms to hedge and trade the price of carbon. Climate finance is still in its infancy. There is a lot of room for improvement.■
 
 Sign up to our fortnightly climate-change newsletter [here](https://www.economist.com//theclimateissue/)
+
+## URL
+
+https://www.economist.com/leaders/2020/06/20/green-investing-has-shortcomings

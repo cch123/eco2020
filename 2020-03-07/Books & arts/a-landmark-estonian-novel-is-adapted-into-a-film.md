@@ -27,3 +27,7 @@ The new film—the first ever cinema adaptation—is yet another twist in the cu
 The adaptation was a saga in itself. Tanel Toom, the director, was among those who avoided reading “Truth and Justice” as a child. He jokes that, after graduating, he lugged the book around for a decade before opening it. The film took seven years to make, in part spent honing the sprawling story into a coherent script. In this selective rendering, stoicism and striving are more destructive than virtuous. Desperate for a son, Andres repeatedly impregnates his first wife until she dies in childbirth; he beats his second rather than acknowledge his guilt over marrying her. He reads his Bible obsessively, shuns society and cannot see why his children want to leave the land he moulded for them. These lives play out in a sweeping, inhospitable landscape, against which they seem insignificant.
 
 “I understood that I’m a bit like [Andres],” Mr Toom says of the project. To him, it is a reminder to “see the rest of the world, to not forget about your loved ones”. Evidently his interpretation struck a chord: he was named “person of the year” for 2019 by Postimees, Estonia’s biggest newspaper. Almost a century after they first appeared, the denizens of Vargamae farm live on. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/03/05/a-landmark-estonian-novel-is-adapted-into-a-film

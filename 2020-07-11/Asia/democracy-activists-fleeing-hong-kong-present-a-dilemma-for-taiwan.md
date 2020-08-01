@@ -27,3 +27,7 @@ Huang Chun-sheng, pastor of a church that has orchestrated shipments of gas-mask
 Whatever the rules, a growing number of people are moving from Hong Kong to Taiwan. Residency permits were handed to 2,383 of them in the first four months of the year—up by 150% compared with the same period last year. ■
 
 Correction (July 16th 2020): A previous version of this article misnamed the Democratic Progressive Party. Apologies.
+
+## URL
+
+https://www.economist.com/asia/2020/07/11/democracy-activists-fleeing-hong-kong-present-a-dilemma-for-taiwan

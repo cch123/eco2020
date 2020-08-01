@@ -19,3 +19,7 @@ Argentina will still need a new IMF loan to help repay the old one. But it has r
 The trouble is that plenty of Argentine governments, investors and IMF staffers have counted on growth to restore Argentina’s health only to be disappointed. The IMF should avoid imposing needless humiliation or suffering on Argentina but it must also avoid indulging any delusions that it will suddenly become a thriving tiger economy.
 
 Ms Georgieva should take a twin-track approach. First, instead of making numerous detailed demands, the fund should merely set a few hard targets for the budget deficit and inflation and let the government work out how to achieve them: by growing faster if possible, and if not, then by belt-tightening. Second, the fund should provide candid advice. Inflation, which exceeds 50% a year, cannot be tamed only through price-controls and arm-twisting the labour unions. Argentina’s growth prospects would be improved if the government spent less on pensions, civil servants and energy subsidies and more on investment. Growth would benefit if taxation were friendlier to exports and labour laws were less inimical to hiring. If both Argentina and the IMF want to give growth a chance, they should favour ruthless truth-telling. Fingers crossed, it will be 22nd time lucky.■
+
+## URL
+
+https://www.economist.com/leaders/2020/02/27/the-imf-tells-argentinas-creditors-some-harsh-truths

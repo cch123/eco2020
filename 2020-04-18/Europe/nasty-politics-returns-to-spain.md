@@ -31,3 +31,7 @@ Political competition is now not just between left and right but within each of 
 Some in the PP say that one condition for a national agreement should be the departure of Podemos from the government. Mr Sánchez has ruled that out. Although it was his route to office, he knew the tie to Podemos “wouldn’t work for governing”, says Jorge del Palacio of King Juan Carlos University in Madrid. But “he can’t break the coalition without an alternative.” A centrist grand coalition looks unlikely, though it is not impossible. The coming months of mass unemployment, business failures and spiralling public debt will be gruelling for Spain and for its government. The last crisis upended the country’s politics in unforeseen ways. This one could yet do so, too. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/04/16/nasty-politics-returns-to-spain

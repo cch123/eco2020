@@ -25,3 +25,7 @@ President Donald Trump is not a direct interlocutor in these negotiations, leavi
 Step back, and this strategy of repeated enormous stimulus to cushion the blow of an ineffectual national strategy for containment resembles a hospital that invests mightily in palliative care while eliminating the oncology department. America has already spent 13% of GDP on fiscal stimulus, with more on the way. The most important economic policy, in the absence of a vaccine, is to contain the virus’s spread. Leaving it all up to governors no longer seems like a viable White House strategy. Nor does the campaign of attacking the public-health messenger, Anthony Fauci.
 
 Facing flagging confidence in his handling of the crisis (and trailing in polls behind Joe Biden, his Democratic challenger), Mr Trump has resurrected his daily coronavirus briefings. Presidential leadership of this sort might be expected to add coherence and clarity to what has been a helter-skelter national strategy. In Mr Trump’s case, it’s likely to make things worse. ■
+
+## URL
+
+https://www.economist.com/united-states/2020/07/22/americas-backwards-coronavirus-strategy

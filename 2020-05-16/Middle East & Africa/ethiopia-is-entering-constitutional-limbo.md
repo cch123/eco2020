@@ -25,3 +25,7 @@ Although the constitution does not spell out the circumstances under which an el
 Jawar Mohammed, a popular figure among the Oromo ethnic group, wants Abiy to start talks about a caretaker administration taking charge until elections are held, among other matters. Abiy has met his opponents once to discuss the constitutional impasse. But he has dismissed calls for an interim government and warned that “illegal elections” will “harm the country and the people”. There is a risk, however, that without a compromise his prophecies become self-fulfilling. ■
 
 Correction (May 15th 2020): An earlier version of this piece incorrectly said that Ethiopia's parliament expires on September 30th, because of a mixup between the Ethiopian and Gregorian calendars. Sorry.
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/05/16/ethiopia-is-entering-constitutional-limbo

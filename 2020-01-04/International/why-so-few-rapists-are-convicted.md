@@ -101,3 +101,7 @@ When legal systems fail, people look elsewhere. Anonymous early-warning networks
 Online tools built for the job now exist. Callisto, a system now used in many universities, gives those reluctant to report assaults two options: create but don’t file a report (in case they want to file it in the future) or enter their perpetrator into “Matching” (college authorities are only notified if several people enter the same name). The non-profit that runs it claims users are six times more likely to report abuse and that they do so much sooner than people without access to the tool.
 
 After decades of institutional failure to take allegations seriously, #MeToo showed the power of social media to disseminate accounts of predation and to give accusers a new sense of solidarity. The sheer volume of allegations has caused some criminal cases to be opened or reopened. But it has also shown how hard it is to achieve justice for rape victims, or deter their attackers. ■
+
+## URL
+
+https://www.economist.com/international/2020/01/04/why-so-few-rapists-are-convicted

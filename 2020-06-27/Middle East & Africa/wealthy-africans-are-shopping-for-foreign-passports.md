@@ -23,3 +23,7 @@ South Africans and Kenyans seem to favour residency in sunny Portugal. The cheap
 Still, some worry about these “golden passports”. Didier Reynders, the EU Justice Commissioner, fears they can be used for money-laundering and recently warned that covid-19 should not be used as an excuse to run dodgy citizenship schemes. Last year Cyprus moved to strip citizenship from 26 investors after “mistakes” were made in vetting them. Among them is a Kenyan tycoon who has appeared in court on allegations of tax evasion. Citizenship firms are at pains to point out that they vigorously screen their clients (though the ultimate responsibility, they are careful to add, lies with governments).
 
 Do well-heeled Africans eyeing a “golden passport” need to grab one now before they all disappear? Probably not, least of all in Malta, where the family law firm of the prime minister, Robert Abela, had a licence to sell Maltese passports (it stopped doing so after he took office in 2020). One way to reduce the demand for second passports would be to make it easier for Africans to visit and work in rich countries. Until then, their best bet may be to copy another Nigerian businessman who recently got a passport from Dominica and resoundingly declares: “It is a life-changer.” ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/06/25/wealthy-africans-are-shopping-for-foreign-passports

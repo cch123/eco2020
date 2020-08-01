@@ -27,3 +27,7 @@ Suddenly on the defensive, Mr Duda is trying to mobilise socially conservative v
 Since Poland’s rapid and strict lockdown in mid-March, the government has eased most of its coronavirus restrictions. Infections remain lower than in many European countries (30,701 cases and 1,286 deaths, according to official figures from June 17th), despite some recent new outbreaks among coal miners. The government has introduced measures to protect businesses and workers from the economic effects of the epidemic, including a 100bn zloty ($25bn, or around 4.5% of GDP) support package for local firms.
 
 Mr Duda continues to lead in the polls, but the distance between him and Mr Trzaskowski is narrowing. One poll conducted on on June 12th and 13th gives him 40.7%, ahead of Mr Trzaskowski’s 28%, with the other candidates below 10%. With no candidate above 50%, a run-off seems inevitable. The polls suggest that it will be close. The winner will not only claim the presidential palace, but shape whether Poland becomes more open or closed. ■
+
+## URL
+
+https://www.economist.com/europe/2020/06/20/gay-ideology-is-worse-than-communism-says-polands-president

@@ -23,3 +23,7 @@ A lot is therefore riding on the restrictions that will remain in place, and the
 The reason for missing the other quarter does not appear to be a lack of capacity. According to an insider, since a lot of new infections are happening in care homes, whose residents have few contacts with the outside world, many of the 25,000 people the government has employed to trace contacts have little to do.
 
 If there is another outbreak, the government has raised the possibility of local lockdowns, without providing much detail about how they would work. When announcing the changes on June 23rd, Mr Johnson warned that, if things went wrong, he would “not hesitate to apply the brakes and reintroduce restrictions, even at a national level.” That would be difficult. With the government already facing widespread criticism for its management of the early stages of the crisis, having to re-enter lockdown would be a disaster. Reopening on such a scale is not just a gamble—it is a high-stakes one. ■
+
+## URL
+
+https://www.economist.com/britain/2020/06/27/england-leaves-lockdown

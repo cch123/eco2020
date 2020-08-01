@@ -19,3 +19,7 @@ It is hard to imagine Mr Lukashenko losing power. His riot police are conspicuou
 The Kremlin is now in an awkward spot. Mr Putin is facing his own protests in Russia’s far east. He hates the idea of a “colour revolution” in Belarus; but if he were to send troops to stop one, it would trigger more Western sanctions on top of those imposed on him for Russia’s bloody assault on Ukraine in 2014. Better for him, perhaps, to let the Belarusian leader launch his own crackdown, making him a pariah and thus ultimately a supplicant.
 
 That would be a dreadful outcome. The West must use whatever carrots and sticks it can muster to restrain Mr Lukashenko from using force against his own people, while also warning Russia against any subversive action. If change is indeed coming to Belarus, let it be peaceful. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/08/01/the-right-way-to-get-rid-of-president-alexander-lukashenko

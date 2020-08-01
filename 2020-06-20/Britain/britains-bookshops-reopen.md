@@ -21,3 +21,7 @@ Mr Daunt points to another advantage that booksellers have over other retailers:
 Some come in on a mission (“I know what I want: ‘The Salt Path’”). But, for most, browsing is the point. One woman picks up a large haul, including the latest title for the local book group. “We had one very unsatisfactory Zoom meeting because everybody in the club likes to talk at once,” she says. They now meet outdoors. Your correspondent, who pledged to spend lockdown working through a backlog of unread doorstoppers, comes out with four novels (two of them recommendations) and a wallet £51 ($64) lighter. Perhaps they should have stayed shut after all.■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/06/18/britains-bookshops-reopen

@@ -29,3 +29,7 @@ Better to support the economy directly, by helping affected people and firms pay
 For companies the big challenge will be liquidity. And although this shock is unlike the financial crisis, when the poison spread from within, that period did show how to cope with a liquidity crunch. Firms that lose revenues will still face tax, wage and interest bills. Easing that burden, for as long as the epidemic lasts, can avoid needless bankruptcies and lay-offs. Temporary relief on tax and wage costs can help. Employers can be encouraged to choose shorter hours for all their staff over lay-offs for some of them. Authorities could fund banks to lend to firms that are suffering, as they did during the financial crisis and as China is doing today. China is also ordering banks to go easy on delinquent borrowers. Western governments cannot do that, but it is in the interest of lenders everywhere to show forbearance towards borrowers facing a cash squeeze, much as banks did to public-sector employees during America’s government shutdown in 2018-19.
 
 There is a tension. Health policy aims to spare hospitals by lowering the epidemic’s peak so that it is less intense, if longer-lasting. Economic policy, by contrast, aims to minimise how long factories are shut and staff absent. Eventually governments will have to strike a balance. Today, however, they are so far behind the epidemic that the priority must be to slow its spread. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/03/05/the-right-medicine-for-the-world-economy

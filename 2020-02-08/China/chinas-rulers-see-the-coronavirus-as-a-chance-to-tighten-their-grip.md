@@ -27,3 +27,7 @@ There are 99 party members in nearby Luluoping, a village of over 3,000 people. 
 Mass mobilisation has a dark history in China. Majoritarianism is a temptation in a big and quarrelsome country because of its power to unite people against a suspect minority. Shamefully, local officials have been tolerating prejudice and vigilantism against migrants with identity papers from Hubei, even if they have not been there for months (reports and online videos abound of Wuhan folk being barred from hotels or sealed in their own homes behind front doors blocked with metal poles or chains).
 
 Blaming external foes is a temptation, too. Chinese diplomats and state media have eagerly accused America of unfairly barring travellers from China—though numerous countries have imposed similar restrictions. China’s internet is full of conspiracy theories about the CIA creating the coronavirus to keep China down. It is tempting to shrug when Chinese officials play such politics. What really counts, surely, is building hospitals and saving lives? But to China’s rulers, politics is never play. Every crisis is a chance to strengthen the party’s grip. A virus is no exception. ■
+
+## URL
+
+https://www.economist.com/china/2020/02/08/chinas-rulers-see-the-coronavirus-as-a-chance-to-tighten-their-grip

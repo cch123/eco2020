@@ -25,3 +25,7 @@ Finally there is the question of “explainability”. Because AI systems learn 
 One approach is to highlight which features in the model’s input most strongly affect its output. Another is to boil models down into simplified flow-charts, or let users question them (“would moving this blob change the diagnosis?”). To further complicate matters, notes Dr Keane, techies building a system may prefer one kind of explainability for testing purposes, while medics using it might want something closer to clinical reasoning. Solving this problem, he says, will be important both to mollify regulators and to give doctors confidence in the machines’ opinions.
 
 But even when it is widely deployed, AI will remain a backroom tool, not a drop-in replacement for human medics, he predicts: “I can’t foresee a scenario in which a pop-up on your iPhone tells you you’ve got cancer.” There is more to being a doctor than accurate diagnosis.
+
+## URL
+
+https://www.economist.com/technology-quarterly/2020/06/11/the-potential-and-the-pitfalls-of-medical-ai

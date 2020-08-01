@@ -27,3 +27,7 @@ The group is still a long way from “mission accomplished”. Some problems are
 Other issues will sound familiar to chief executives. Recruiting data scientists is tough; most would rather work for big tech, not big government. The DoD’s digital collections are, like many legacy corporate systems, a shambles, as the RAND Corporation, a think-tank, concluded in a recent report. Data are often thrown away or stored locally (the initial Maven drone footage had to be collected at bases on CD-ROMs). They come in all sorts of formats and are badly catalogued. As in many big companies, a chief data officer is supposed to sort these things out, but can expect resistance. “Personnel might view data as a means of retaining power,” write the RAND authors.
 
 Lieut-General Shanahan is proud of his work. So are early JAIC supporters like Mr Schmidt. He has since left Alphabet but still chairs the DIB—and calls the general a “real American hero” for getting as far as he has. Whoever takes over at JAIC nevertheless has their work cut out—as does Mr Mulchandani, who will stand in as director until the Senate confirms a military replacement, which may take some time. As Robert Work, a tech-savvy former deputy defence secretary, puts it: “The foundation is in place; now all they have to do is execute.” Many bosses know the feeling.■
+
+## URL
+
+https://www.economist.com/business/2020/05/28/business-lessons-from-the-pentagon

@@ -23,3 +23,7 @@ So it could turn out. In 2007 he and five other men forced their way into a woma
 By the end of May the picture was cloudier. He had been laid off from his security jobs when covid-19 had closed the restaurants. The rent-money for Mr Thunstrom was scraped together somehow, but it was not clear when work would return. He made many calls to friends asking for advice. Meanwhile, the old life brushed him again. On the evening of the 25th he went with two acquaintances to buy cigarettes at Cup Foods on 38th and Chicago, where he was a regular. He tried to pay with a $20 bill which the store clerk thought looked counterfeit, then would not return the cigarettes. The clerk, thoroughly frightened, called 911 and identified the “tall guy” as the man to blame.
 
 When the police arrived he struggled at first, but calmed down once the cuffs were on. Then he refused to get into the squad car. An officer dragged him aside, threw him to the ground helpless and then, for almost nine minutes, knelt on his neck, pressing, pressing, as he cried out for his mother and his breath and his life. He possibly never knew that this was the same white guy with jittery eyes who had worked at El Nuevo Rodeo, the one so ready with the pepper spray to keep the blacks in line. ■
+
+## URL
+
+https://www.economist.com/obituary/2020/06/04/george-floyd-was-killed-on-may-25th

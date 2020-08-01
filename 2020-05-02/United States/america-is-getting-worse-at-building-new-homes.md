@@ -29,3 +29,7 @@ Yet housebuilders are not merely the victims of overbearing bureaucrats or sharp
 Economic theory suggests that firms with market power may reduce their output if it helps them maximise their profits. A new paper from Jacob Cosman and Luis Quintero, both of Johns Hopkins University, finds evidence of this. The rise in market concentration in housebuilding since the recession has lowered annual housing construction by about 150,000—or roughly one-third of the current shortfall.
 
 The disruptions associated with the coronavirus pandemic will slow down construction for some time. But even when the economy recovers, housebuilding may not. Though there are stirrings of a “YIMBY” movement—“Yes In My Back Yard”—where activists push for regulatory changes to make it easier to build, the forces pressing down on housing construction are strong. Immigration policies continue to deprive construction of much-needed labour. Few politicians are interested in solving America’s competition problem—and the big housebuilders enjoy being the only ones who understand increasingly gnarly regulations. It could be some time before housebuilding is once again on a roll.■
+
+## URL
+
+https://www.economist.com/united-states/2020/04/30/america-is-getting-worse-at-building-new-homes

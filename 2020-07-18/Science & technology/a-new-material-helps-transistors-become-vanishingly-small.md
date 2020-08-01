@@ -27,3 +27,7 @@ Thin-film materials are usually created by a process called chemical vapour depo
 In general, for two-dimensional materials such as graphene and white graphene, CVD has to be done at above 700°C. This is too hot for existing fabs. But with thin-film a-BN, Hyeon-Jin Shin says, the temperature can be turned down as low as 400°C. That lower temperature should allow the material to be deposited directly onto silicon wafers and other substrates without having to retool the multi-billion-dollar factories, known as fabs, in which computer chips are made. This, she believes, means thin-film a-BN could be commercialised for chipmaking much faster than other two-dimensional materials.
 
 The new, amorphous films are thicker than standard white graphene, but only slightly so. At three nanometres, they are well within the size-range needed to form part of the next sceptic-busting generation of components. They are also thermally, mechanically and electrically stable. And they preserve white graphene’s wide band gap, and thus its insulating properties. Add their fab-friendliness into the calculation and their future looks bright. With luck, then, the Moore’s-law naysayers have been outmanoeuvred again.■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/07/18/a-new-material-helps-transistors-become-vanishingly-small

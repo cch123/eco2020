@@ -23,3 +23,7 @@ And it is not only NASA that benefits. The Crew Dragon is available to anyone wh
 In themselves, such very high jinks may not matter much. But in the long run, if there is to be a future for humans in space, humans will need to be able to get there. Being able to do so just by buying a ticket to orbit is a crucial step in that direction.
 
 And there could be further such steps. Parts of NASA’s programme for a human return to the Moon are now being run in the same commercially focused way as the Crew Dragon programme was. All of the programme should be run this way, thereby producing an infrastructure available to the private sector, too. Even with such infrastructure, profitable lunar ventures seem unlikely. But if private companies want to try to prove the contrary, it is good that they should be free to do so.■
+
+## URL
+
+https://www.economist.com/leaders/2020/06/04/spacex-is-making-human-space-travel-a-routine-form-of-commerce

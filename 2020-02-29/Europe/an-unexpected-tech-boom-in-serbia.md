@@ -19,3 +19,7 @@ One part of Serbia’s government is still enmeshed in the wars of the past. It 
 Blockchain and games development are already big parts of Serbia’s digital economy. Top Eleven, a football game produced by Nordeus, Serbia’s best-known tech company, has 219m registered users. But fintech, biotech and AI are increasingly important, though they still find it hard to attract investors at home.
 
 While digital tech is Serbia’s current boom industry, lithium may be the next. Rio Tinto has invested $200m to explore a site near Loznica. Marnie Finlayson, its general manager for Serbia, says that the ore would be processed on the spot; it would be Europe’s biggest supplier. Unlike many other lithium mines, this one would be close to where it is needed. Fiat cars are Serbia’s second biggest export. Ms Finlayson says that by 2035 Rio Tinto expects 50% of cars to be electric. If Rio Tinto’s board gives the go-ahead, production would begin in 2025. With all the ancillary industries, she says that might add “a couple of percentage points to GDP”. ■
+
+## URL
+
+https://www.economist.com/europe/2020/02/27/an-unexpected-tech-boom-in-serbia

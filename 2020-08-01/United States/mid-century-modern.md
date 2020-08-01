@@ -33,3 +33,7 @@ Second, many Americans were barred from the 1950s cultural treats because of the
 When your (white) columnist and his family visited the teeming beach this summer, they were in the minority. It is now a magnet for Hispanic families from Prince George’s County and black ones from Baltimore. Hip-hop and salsa fight it out above the multilingual, multiracial throng. All things considered, 1950s America is better now than it was in the original.■
 
 Dig deeper:Sign up and listen to Checks and Balance, our [weekly newsletter](https://www.economist.com//checksandbalance/) and [podcast](https://www.economist.com//podcasts/2020/07/24/checks-and-balance-our-weekly-podcast-on-american-politics) on American politics, and explore our [presidential election forecast](https://www.economist.com/https://projects.economist.com/us-2020-forecast/president)
+
+## URL
+
+https://www.economist.com/united-states/2020/08/01/mid-century-modern

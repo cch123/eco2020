@@ -29,3 +29,7 @@ His new role at Boeing is the final chance to rehabilitate the image of GE Man. 
 Such men brought with them GE values. Taking a cue from Mr Welch, in 2001 Boeing moved its headquarters from Seattle to Chicago, putting distance between the suits in the C-suite and the engineers. As Mr Stonecipher put it in 2004: “When people say I changed the culture of Boeing, that was the intent, so it’s run like a business rather than a great engineering firm.” Shareholders loved it. Over the 15 years since, Richard Abaloufia of the Teal Group, an aviation consultancy, says $78bn was returned to shareholders, doing wonders for Boeing’s share price. But in the process, engineers’ input into decision-making was relegated, which may have contributed to the 737 MAX’s tragic design flaws. “The seeds of the MAX disaster were planted years ago,” he wrote recently.
 
 Putting Seattle’s finest back at the controls of Boeing is no guarantee of success. Dennis Muilenberg, whom Mr Calhoun helped oust as chief executive because of his poor response to the crisis, was an engineer. Mr Calhoun must start overhauling the company culture from the top down. As Michael Useem, a seasoned GE watcher at the Wharton School in Philadelphia, puts it, the complexities of business are much greater than in Mr Welch’s day: supply chains and customers span the world, and technology runs through everything. Before GE Man becomes a relic of history, he faces his toughest challenge yet. ■
+
+## URL
+
+https://www.economist.com/business/2020/01/11/the-last-ge-man

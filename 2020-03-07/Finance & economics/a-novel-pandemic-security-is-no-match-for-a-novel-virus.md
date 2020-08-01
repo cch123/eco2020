@@ -23,3 +23,7 @@ If countries respond quickly to the danger, lowering the number of cases, they m
 A case can still be made for such instruments. They encourage better monitoring and reporting of infections. And although the existing bonds are too slow, the same is true of more traditional sources of finance, such as the generosity of donor countries. One novelty of the covid-19 disease is how quickly it has captured everyone’s attention. The World Bank, for example, said this week it would provide up to $12bn to help its clients respond to the outbreak, providing the money as quickly as possible. It may take the bank’s pandemic bonds until March 23rd to acknowledge the disaster taking place. But at least the bank itself does not have to wait that long. ■
 
 Correction (March 24th 2020): A previous version of this piece neglected to mention that the pandemic bond is partly financed by the World Bank's International Development Association, which provides aid to the world's poorest countries.
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/03/07/a-novel-pandemic-security-is-no-match-for-a-novel-virus

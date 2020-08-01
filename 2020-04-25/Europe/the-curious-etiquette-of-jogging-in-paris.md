@@ -19,3 +19,7 @@ Has confinement revealed a hitherto hidden French passion for le jogging? A poll
 When in 2007 Nicolas Sarkozy broke with the formality of presidential tradition by leaving the Elysée palace in running shorts, one commentator linked it to his politics: “Jogging is of course about performance and individualism, values that are traditionally ascribed to the right.” Purists deplored the casual look. Intellectuals sniffed at the vulgarity. Jogging, said Alain Finkielkraut, a philosopher, did nothing for the soul or the mind; it was mere “body management”. Instead he praised la promenade, as practised by Aristotle or Rimbaud. A meditative walk, argued Mr Finkielkraut, is a “sensitive, spiritual experience”. Perhaps this explains the Paris rules. For now, daytime jogging may be banned, but people can still walk—even if only for an hour, around their homes—at any time of the day. Whatever they are thinking.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/04/23/the-curious-etiquette-of-jogging-in-paris

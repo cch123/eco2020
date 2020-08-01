@@ -21,3 +21,7 @@ Dry cleaners and launderettes have usually remained open, including in New York.
 South Korea at no point strictly enforced closure of commerce. But gyms and night clubs that want to stay open must keep a visitor log and enforce distancing rules or be held liable for medical bills of anyone infected on their premises. Non-food establishments from Lucknow to Los Angeles might anyway see few clients even if they kept going. People must juggle child care with remote work. They have lost their income, or are about to; confidence is plummeting. Until it rebounds, shopkeepers may prefer to seek government life-support.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/03/26/how-retailers-vie-to-be-considered-essential-in-a-lockdown

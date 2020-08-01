@@ -27,3 +27,7 @@ Rwanda’s first fatalities linked to the pandemic came when police shot dead tw
 The use of excessive force does not bode well. Lockdowns will not work unless they have public support. And that support will be withheld if governments abuse their poorest citizens in the midst of a pandemic. Covid-19 has many nasty side-effects. The bulldozing of human rights should not be one of them. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/04/04/some-african-governments-are-enforcing-lockdowns-brutally

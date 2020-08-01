@@ -29,3 +29,7 @@ Lastly, governments should not interfere in other ways. There will be populist c
 This year will see state intervention in business on an unprecedented scale. With luck it will not be remembered as the year in which dynamism and free markets died. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/leaders/2020/04/04/bail-outs-are-inevitable-and-toxic

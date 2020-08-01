@@ -31,3 +31,7 @@ While activists focus on pressure and punishment, some governments and internati
 Governments are beginning to emphasise training. Brazil’s ministry of health has started a programme that stresses women’s rights in obstetrics in about 100 teaching hospitals. A similar programme in Argentina contributed to declines in infant and maternal mortality.
 
 But progress is slow. When Agustina got pregnant again, in 2014, she changed obstetricians and hospitals and wrote a birth plan. It included a vaginal delivery and immediate skin-to-skin contact with her baby, who would drink breast milk, not formula. The hospital rejected all her requests. After a birth by C-section, a female doctor threatened to report Agustina to child-protection services. She left “screaming in my mind”, unable to work and struggling to bond with her baby. Her marriage ended. In 2016 she filed a lawsuit against her doctors, the hospital and the health insurers, the first case of its kind in Argentina. She is still awaiting a verdict.■
+
+## URL
+
+https://www.economist.com/the-americas/2020/05/21/latin-america-ponders-how-to-fight-obstetric-violence

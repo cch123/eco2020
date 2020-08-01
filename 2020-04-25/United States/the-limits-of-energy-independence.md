@@ -27,3 +27,7 @@ A couple of lessons can already be drawn from this troubling prospect. One is th
 Another lesson is that a lighter American footprint in the region requires broad-based alliances, not headstrong proxies. The first are a means to rise above the region’s interminable petty rivalries, the second almost a guarantee of being dragged into them. America has a rich legacy of the right sort of partnership, including the trans-Atlantic ones behind Mr Obama’s nuclear deal and a patchwork of regional allies. But Mr Trump has squandered them.
 
 The trans-Atlantic pact has foundered on his attack on the nuclear deal. And when asked on American television who was helping his country through the pandemic, King Abdullah of Jordan, a longtime ally, gave a startling answer. He was grateful, he said, to the United Arab Emirates and the Chinese entrepreneur Jack Ma.■
+
+## URL
+
+https://www.economist.com/united-states/2020/04/23/the-limits-of-energy-independence

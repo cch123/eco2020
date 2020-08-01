@@ -43,3 +43,7 @@ It helps that many emerging markets, not just China, are keen on a rebalancing. 
 The third factor helping insurgents is covid-19, which could lead to a tipping-point. Already hobbled by rising tariffs, global trade is likely to fragment further. As disruption far away causes local shortages, governments want to shorten supply chains. That will give regional powers like China more room to write their own rules. The economic fallout in America—not least the fiscal impact of its $2.7trn stimulus measures—could dent confidence in its ability to repay debt, which underpins its bonds and currency.
 
 Most important, the crisis harms other countries’ trust in America’s fitness to lead. It ignored early warnings and botched its initial response. China is guilty of worse—its own missteps helped export covid-19 in the first place. Yet it managed to curb cases fast and is now broadcasting a narrative of domestic competence. America’s ability to guarantee global prosperity is the glue that holds the financial order together. With its legitimacy badly hit, renewed assaults on the system seem inevitable. On the front line are the dollar-system’s foot soldiers, the banks. ■
+
+## URL
+
+https://www.economist.com/special-report/2020/05/07/geopolitics-and-technology-threaten-americas-financial-dominance

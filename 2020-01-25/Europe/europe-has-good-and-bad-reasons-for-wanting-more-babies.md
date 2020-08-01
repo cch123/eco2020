@@ -25,3 +25,7 @@ Fear has played a large role in dragging the state back into the bedroom. Demogr
 Baby subsidies may not produce many more babies, but they are an excellent way of buying votes. For centre-right governments, they are an excuse to give handouts to the bourgeois families who are their traditional constituents. For centre-left governments, they are an excuse to expand the welfare state.
 
 They can also have a more sinister edge. A legitimate worry about depopulation can be hijacked by those who want to roll back the rights of women, argues Neil Datta of the European Parliamentary Forum for Sexual and Reproductive Rights. Activists for banning abortion were given prominent slots at a demography conference hosted by Mr Orban last year. Making it easier for women to return to the workforce does not fit into the idea of a traditional family put forward by the likes of him. On the surface the EU is united when it comes to boosting births. But dark differences lurk beneath. Eurocrats should watch whom they jump into bed with. ■
+
+## URL
+
+https://www.economist.com/europe/2020/01/23/europe-has-good-and-bad-reasons-for-wanting-more-babies

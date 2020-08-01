@@ -17,3 +17,7 @@ For Huawei it all means more uncertainty at an uncertain time. In May the Trump 
 Tighter American export controls are in the works, however, and Ms Meng’s case looks central to them. The sanctions-busting of which she stands accused was America’s main stated reason for putting the firm on its blacklist in the first place. Resolving the extradition tussle may thus bear on Huawei’s broader prospects. There is precedent. Having blacklisted a smaller Chinese tech firm, ZTE, in 2016 for violating sanctions against Iran and North Korea, America’s Commerce Department relented after the company vowed to stop shipping to those regimes and paid a fine.
 
 The Huawei hurly-burly is messier than ZTE’s predicament was. American security hawks worry about Chinese eavesdropping on Western networks. Some see Huawei as a strategic threat to America’s global technological dominance. Legal rights and wrongs aside, if Ms Meng were extradited—and if she and Huawei subsequently settled with American authorities as ZTE did—both parties would gain a face-saving way out of a stand-off that risks hurting Chinese and American companies alike. ■
+
+## URL
+
+https://www.economist.com/business/2020/01/23/huawei-finance-chiefs-extradition-hearings-begin

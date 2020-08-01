@@ -31,3 +31,7 @@ Bunged-up borders mean that it gets harder to refill empty supermarket shelves a
 So just how big will the drop in overall trade be? In 2009 declining demand accounted for over two-thirds of the crash in trade, a far bigger share than the 15-20% caused by the credit crunch. The extent of the pandemic-induced slowdown in consumer spending and investment is already becoming clear. And it has already dented trade activity badly—a survey of factory bosses in March suggests sharp falls in export orders in advanced countries. Simon Macadam of Capital Economics, a consultancy, has pencilled in a 20% drop in trade volumes this year. That is bigger than in 2009. The drop in trade could be worse if the most pessimistic forecasts of jaw-dropping double-digit year-on-year declines in GDP in some rich countries over the next quarter or two come true.
 
 A lesson from 2009 is that trade bounces back. Some of the precipitous drop then reflected companies drawing down their inventories; that reversed quickly enough when things returned to normal. Gloomier types point out the colossal uncertainty about when the rebound might come. Trade thrives on trust and predictability. Today, with supply chains buckling and borders closing, both are in short supply. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/03/26/if-you-thought-the-trade-war-was-bad-for-global-commerce

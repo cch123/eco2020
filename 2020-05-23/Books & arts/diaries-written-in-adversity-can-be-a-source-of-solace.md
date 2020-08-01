@@ -43,3 +43,7 @@ Just as Woolf found a spell of respite in the landscape of Sussex, so Jarman’s
 Diaries can show people at their messiest (even if they are intended for publication, as Jarman’s were). At the best of times people are anxious, lonely, bitter, prejudiced, annoyed and confused. Encompassing all these feelings, diaries can be as expansive and gripping as fiction. They display the best and worst sides of their writers; they show readers that they are not alone in feeling scared or miserable. And reading the lives of others suggests that, even at times of crisis and distress, it is possible to find and grasp moments of joy. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/05/23/diaries-written-in-adversity-can-be-a-source-of-solace

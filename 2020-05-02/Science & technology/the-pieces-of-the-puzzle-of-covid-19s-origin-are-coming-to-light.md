@@ -73,3 +73,7 @@ Many scientists think that with so many biologists actively hunting for bat viru
 Again, though, it is necessary to consider the unknown. Every year there are tens of thousands of fatal cases of respiratory disease around the world of which the cause is mysterious. Some of them may be the result of unrecognised zoonoses. The question of whether they really are, and how those threats may stack up, needs attention. That attention needs laboratories. It also needs a degree of open co-operation that America is now degrading with accusations and reductions in funding, and that China has taken steps to suppress at source. That suppression has done nothing to help the country; indeed, by supporting speculation, it may yet harm it. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/05/02/the-pieces-of-the-puzzle-of-covid-19s-origin-are-coming-to-light

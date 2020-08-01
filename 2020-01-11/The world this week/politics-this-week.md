@@ -49,3 +49,7 @@ Boris Johnson, Britain’s prime minister, held his first meeting with Ursula vo
 Prince Harry and Meghan Markle stunned Buckingham Palace when they announced that they would step back from royal duties and divide their time between Britain and North America while seeking to become financially independent. Married couples often break away to set up their own nest, but the queen was not consulted and said to be “hurt” (translate: furious). See [article](https://www.economist.com//britain/2020/01/09/harry-and-meghan-go-private).
 
 Correction (January 12th 2020): A previous version of this article said that both of Harvey Weinstein’s accusers in court were unnamed. Only one was. 
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/01/11/politics-this-week

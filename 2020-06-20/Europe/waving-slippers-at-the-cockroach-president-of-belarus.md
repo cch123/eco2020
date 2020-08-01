@@ -25,3 +25,7 @@ Unlike previous protests in Belarus, the current wave involves lots of middle-cl
 Mr Lukashenko appears rattled. He fired his moderate prime minister, allegedly for his links to Mr Babaryko, and ordered his security services to raid Belgazprombank. In the past week a dozen cases have been launched against Mr Babaryko’s allies. Belgazprombank, which Mr Lukashenko alleges to be a tool of Russian influence, has been placed under the administration of the central bank. To all of this, Mr Babaryko responds that the authorities do not understand that “the Belarus that existed before, and which they trampled under their feet, no longer exists.” ■
 
 Editor's note (June 19th 2020): Since the publication of the story, Viktor Babaryko, the main rival of Alexander Lukashenko, the authoritarian president for quarter century, has been arrested along with his son who ran his presidential campaign. They were on the way to submit 400,000 signatures for registering Mr Babaryko as a candidate for the August 9th election, when they were detained. 
+
+## URL
+
+https://www.economist.com/europe/2020/06/20/waving-slippers-at-the-cockroach-president-of-belarus

@@ -71,3 +71,7 @@ The number of Chinese students in America is not yet dropping in response to any
 But the boom is over—and so are the hopes that it might in and of itself bring new amity. Both the greater number of Chinese students and the greater power of information technology mean that it is ever easier for them to remain isolated on campus, mixing little with their American peers. They use WeChat, a social-media app, both to stay in touch with friends and family back home and as their sole source of news, much of which reflects their government’s view of their host country. In 2018 a Purdue University survey of a large midwestern university found that 42% of Chinese students had a less favourable perception of America than they had when they arrived; just 16% said their impression had improved. Their study abroad has not exactly built a bridge between the two countries. The intense scrutiny they face from both Beijing and Washington threatens to widen the divide. ■
 
 See also: “[What Chinese students found when they moved to America’s Midwest](https://www.economist.com//1843/features/alienation-101)” (1843 magazine, April/May 2017)
+
+## URL
+
+https://www.economist.com/briefing/2020/01/02/the-new-red-scare-on-american-campuses

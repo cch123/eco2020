@@ -27,3 +27,7 @@ The managers of foreign reserves, for instance, prize liquidity, so hold mostly 
 A tragic flaw of bond indices is that they reward profligacy. Big issuers of bonds have a bigger weight. So high-debt Italy looms larger in global bond benchmarks than thrifty Germany. In equity indices there is some relationship of weight in the index to economic success—or at least to investor enthusiasm. Gurgle-like shares enter the index and make up more of its heft; Genial Motors-like shares diminish in weight, until eventually they slip out. Smart active investors can trade ahead of such entries and exits. But it is slim pickings. With bonds, there are more opportunities for active investors to win.
 
 * “Bonds are different” (April 2017)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/02/27/why-active-bond-investors-can-beat-the-index-when-active-equity-investors-cant

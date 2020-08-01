@@ -35,3 +35,7 @@ As suffering spreads, the political cost to Mr Bolsonaro will become clearer. Tw
 People in swanky neighbourhoods that voted for Mr Bolsonaro in 2018 are now banging pots and pans in nightly protests. In one poll, his approval rating dropped to its lowest point since he took office last year. Fiddling while a pandemic looms may cost him re-election in 2022. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/the-americas/2020/03/26/brazils-president-fiddles-as-a-pandemic-looms

@@ -39,3 +39,7 @@ Others are trying new ways of gauging the disease’s progress. Just four Africa
 South Africa does have mortality data going back years. In the three weeks to June 9th deaths from natural causes were unusually high in Cape Town, and on the rise elsewhere, too. At this point more testing would help, says Dr Mendelson, but the focus must be on reducing deaths. With that in mind the Western Cape is rationing public testing to those over the age of 55 and opening field hospitals. “We cannot test our way out of the crisis,” he says. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/06/18/african-countries-are-struggling-to-keep-track-of-covid-19

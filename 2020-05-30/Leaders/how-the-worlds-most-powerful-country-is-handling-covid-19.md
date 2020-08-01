@@ -31,3 +31,7 @@ America still has a hard road ahead. Were daily fatalities to remain at today’
 In the next months the infrastructure built during the lockdown must prove itself. Because the virus has yet to decline in some states, it may flare up in new places, which will then need targeted lockdowns. The capacity to test, vital to spotting clusters of infection, has increased, but is still lacking in some places. Almost all the states lack the contact tracers needed to work out who needs testing and quarantining. When it considers how to withdraw fiscal support, Congress should remember this.
 
 That America and Europe have fared similarly in the pandemic does not absolve Mr Trump. This is the first international crisis since 1945 in which America has not only spurned global leadership but, by cutting funds to the World Health Organisation, actively undermined a co-ordinated international response. That matters, as does Mr Trump’s inability to cleave to a consistent message or to speak to the country in words that do not enrage half of the population. Yet four years after Mr Trump was elected, the time to be surprised by his behaviour has long gone. Luckily, he has mattered less than most Americans think.■
+
+## URL
+
+https://www.economist.com/leaders/2020/05/28/how-the-worlds-most-powerful-country-is-handling-covid-19

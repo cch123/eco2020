@@ -47,3 +47,7 @@ A new power-sharing deal was agreed to in Northern Ireland, ending three years o
 Boris Johnson, Britain’s prime minister, gave his first TV interview since his election victory in December. Mr Johnson claimed it was “epically likely” that he would secure a trade deal with the EU by the end of this year, but conceded that “you always have to budget for a complete failure of common sense”. Mr Johnson was clearer about the cost of getting Britain bonging on Brexit day: £500,000. That is how much is needed to get the clapper ringing again on Big Ben, which has fallen silent during lengthy repairs.
 
 Correction: Last week we said that both of Harvey Weinstein’s accusers in a court in New York were unnamed. In fact, only one of the women is unnamed. Sorry.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/01/16/politics-this-week

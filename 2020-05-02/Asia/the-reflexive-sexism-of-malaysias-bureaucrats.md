@@ -19,3 +19,7 @@ Although the plight of child brides stirs widespread outrage, challenging the Is
 The United Malays National Organisation (UMNO), which held power for 61 years, tended to tread a middle path, stoking Malay nationalism but resisting the most doctrinaire interpretations of Islam. But as UMNO grew corrupt and lost popularity, it began to pander more to religious sentiment. Although it lost power at elections in 2018, it recently managed to manoeuvre its way back into government by aligning with PAS, a conservative Islamic party. Malaysia’s one big secular party was pushed out of the ruling coalition in this realignment, as was an outfit that draws most of its support from the 24% of Malaysians who are of Chinese extraction.
 
 The change in government has probably put paid to a bill to combat sexual harassment and may well scupper another, to promote equality for women. The new deputy minister in the women’s ministry is from PAS. She suggested in a video in March that wives “accept, remain patient and forgive” abusive husbands, even as calls to the previously suspended domestic-violence hotline shot up. “The best-case scenario is that they don’t roll back our rights,” says Honey Tan, a human-rights lawyer. ■
+
+## URL
+
+https://www.economist.com/asia/2020/04/30/the-reflexive-sexism-of-malaysias-bureaucrats

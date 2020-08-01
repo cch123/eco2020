@@ -21,3 +21,7 @@ Glorious spring sunshine is helping keep spirits up. The daffodils are out and t
 Much as in the rest of the country, covid-19 is bringing the village closer despite (or perhaps because of) lost social amenities. More walkers and cyclists appear to be on the roads, just as fewer cars are driving into nearby towns. And although social distancing is being carefully maintained, the greetings that are exchanged seem cheerier than usual.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/03/26/village-life-under-lockdown

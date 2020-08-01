@@ -27,3 +27,7 @@ The second priority is to get cash to millions of companies, whose failure would
 There are huge drawbacks to all of this. Public and corporate debt will soar. Handouts will be given to rich people and loans extended to firms that are badly run. But even with this fearful list of side-effects, the advantages are overwhelming. Cash will be distributed fast. Vulnerable people will be able to get by. Households will be confident enough to spend when conditions improve. And firms will keep their workforces and plants intact, ready to get back to action when this dark episode has passed.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/leaders/2020/03/19/how-to-prevent-a-covid-19-slump-and-protect-the-recovery

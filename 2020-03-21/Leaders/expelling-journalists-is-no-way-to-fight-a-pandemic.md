@@ -23,3 +23,7 @@ Americans have cause to be irked by China’s behaviour. Western media there are
 Mr Trump may shrug. He never cared much for press freedom. Like many Chinese officials, he dismisses unwelcome reporting as “fake news”. To him, journalists are collateral damage in a struggle with China that is about something bigger: ensuring that America retains its pre-eminence. This zero-sum approach further poisons a sour relationship. It also makes it harder to grapple with global problems.
 
 During the financial crisis of 2007-09, China and America did manage to talk to each other about how to save the world from economic ruin. Their ability to co-ordinate was a huge help. Today’s disaster requires their co-operation all the more. Instead, both countries are treating covid-19 as a trial of strength between competing political systems. That augurs badly for global efforts to fight the pandemic—and for the world that will emerge when the virus has eventually been tamed. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/03/21/expelling-journalists-is-no-way-to-fight-a-pandemic

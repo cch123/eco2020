@@ -29,3 +29,7 @@ Some thought he might make a good Roma leader on the national stage. But he did 
 He had given no hint of this before. Or perhaps only one: he had admitted that he cried every day, not because he was afraid, but because he felt powerless to do all that had to be done.
 
 In a well-known Hungarian story, two Gypsies were haggling over the price of a horse. As they argued, the horse galloped fast towards a brick wall. “Your horse is blind!” complained the would-be buyer. “Not blind,” said the seller. “Brave.” ■
+
+## URL
+
+https://www.economist.com/obituary/2020/08/01/laszlo-bogdan-died-on-july-14th

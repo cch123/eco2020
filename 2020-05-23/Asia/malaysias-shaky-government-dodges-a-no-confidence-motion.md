@@ -27,3 +27,7 @@ Small wonder that Mr Muhyiddin has been coaxing lawmakers to stick with him with
 Such behaviour is reminiscent of the government of Najib Razak, the most recent prime minister from UMNO, who lost power two years ago after American officials, among others, accused him of allowing some $4.5bn in public money to go astray. That left UMNO out of government for the first time since independence. Mr Najib remains an MP—and Mr Muhyiddin’s fragile majority depends on his support. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/asia/2020/05/23/malaysias-shaky-government-dodges-a-no-confidence-motion

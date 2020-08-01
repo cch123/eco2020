@@ -27,3 +27,7 @@ The second challenge is an economic downturn, like the one that looks increasing
 Ms Sweet’s final predicament is perhaps the most consequential. If her firm keeps doing such a bang-up job in convincing clients that technology is central to their success, more of them might opt to build and run a bigger slice of it in-house rather than splurging on outside advice. Accenture seems at times to suggest that companies should let its consultants handle not just their brand and tech innards, but also their power to innovate.
 
 Still, the Nanterme-era digital strategy has life in it yet. Many companies are behind in the technology race. Before most so much as ask themselves how zippy 5G networks, the “Internet of Things” or machine learning will transform their businesses, Accenture already has some answers. If someone, some day, finds a function for blockchain, expect Accenture to be there to advise bosses on its use—and to soothe frayed nerves.■
+
+## URL
+
+https://www.economist.com/business/2020/03/12/the-rise-and-rise-of-accenture

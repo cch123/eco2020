@@ -27,3 +27,7 @@ It is not a substitute for fiscal discipline and a more competitive economy. The
 Muddle-through may be running out of road. With an approval rating of 19%, Mr Moreno has said he will not stand again. Perhaps sensing the difficulties ahead, Jaime Nebot, a powerful former mayor of Guayaquil, ruled himself out as a candidate on June 25th. Having received a jail sentence in absentia for corruption, Mr Correa, who lives in Belgium, is looking for a proxy candidate. With voters likely to be in an angry mood, unless a credible reformist candidate emerges the stage may be set for a return of populism—but a penniless version this time.
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/the-americas/2020/07/02/ecuador-is-in-intensive-care-and-a-straitjacket

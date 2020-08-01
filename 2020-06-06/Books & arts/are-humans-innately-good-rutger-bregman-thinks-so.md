@@ -27,3 +27,7 @@ Still, in a world of sophisticated pessimism, the book is a refreshing change. W
 Well, some religions and some ideologies. In one strand of the Judeo-Christian tradition, including Dutch Calvinism, Adam’s and Eve’s disobedience to God underpins a theory of original sin in which every human is born guilty. But another strand emphasises a different part of the Genesis text, affirming humanity’s creation “in the image and likeness” of a benign deity. As for ideologies, Karl Marx took on the notion that acquisitiveness was universal, maintaining that its roots were only as old as modern capitalism.
 
 Both Mr Bregman and Marx are too sure of a lost—but real—Eden in which people lived co-operatively before the sudden rise of factors that distorted human goodness. In both cases, the resulting worldview is atheistic yet intensely religious, an odd mix. But 21st-century readers are short on prophets, especially the optimistic kind, and will give this one a cheerful hearing. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/06/06/are-humans-innately-good-rutger-bregman-thinks-so

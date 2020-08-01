@@ -87,3 +87,7 @@ Adrian Hill, a professor at Oxford, says that in general terms “six months fro
 Suppression strategies may work for a while. But there needs to be an exit strategy—be it surveillance, improved treatment, vaccination or whatever. If governments impose huge social and economic costs and the virus cuts a swathe through the population a little later, they will discover that when politicians disappoint the people over something this serious there is hell to pay. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/briefing/2020/03/19/in-europe-and-around-the-world-governments-are-getting-tougher

@@ -31,3 +31,7 @@ The decision of HSBC to suspend its dividend payments has sparked a backlash amo
 Despite interruptions to production because of covid-19, Samsung forecast that its operating profit for the first quarter will be 6.4trn won ($5.2bn), up by 3% from the same three months last year. The South Korean tech giant expects to gain from increased demand for its chips in data centres and the roll-out of 5G networks. However, it could take a hit if consumers feel less inclined to splash out on smartphones and televisions.
 
 Donald Trump announced a deal with 3M, an American industrial conglomerate, that will see it import N95 respirator masks to the United States from its factories in Asia. The president had warned 3M that it would have “a hell of a price to pay” if it did not limit overseas sales of the face masks (under the deal it will continue to sell masks to Canada and Latin America). See [article](https://www.economist.com//united-states/2020/04/11/the-white-house-v-covid-19).
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/04/11/business-this-week

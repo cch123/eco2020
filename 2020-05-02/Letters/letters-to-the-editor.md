@@ -55,3 +55,7 @@ JEREMY KUHREIrvine, California
 Reading about the abundance of Dutch swear words that relate to disease ([Letters](https://www.economist.com//letters/2020/04/18/letters-to-the-editor), April 18th) reminded me of a saying that my mum, who grew up in London, was fond of: “It’s not the cough that carries you off, it’s the coffin they carries you off in.” Dry (cough) humour indeed.
 
 SCOTT SWINKLos Gatos, California
+
+## URL
+
+https://www.economist.com/letters/2020/05/02/letters-to-the-editor

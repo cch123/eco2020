@@ -21,3 +21,7 @@ Russia’s propaganda, like China’s, tries to persuade viewers that America is
 Iran’s leaders have piled in, too. “A cop kneeling on a black man’s neck and letting him choke to death...is the nature of the American government. They have done the same to such countries as Iraq, Afghanistan and Syria,” said Ayatollah Ali Khamenei, the country’s supreme leader.
 
 Yet autocrats’ propaganda is not always persuasive. Russians know Mr Putin wants to distract attention from his lawless security services and unfathomably rich cronies. And democracies adapt better to popular complaints. America is prosecuting the cop who killed Mr Floyd and rethinking police tactics. Hong Kongers know that none of the police who beat up pro-democracy demonstrators last year will be punished. An official report into the protests was a whitewash.
+
+## URL
+
+https://www.economist.com/international/2020/06/11/autocrats-gleefully-decry-americas-racial-turmoil

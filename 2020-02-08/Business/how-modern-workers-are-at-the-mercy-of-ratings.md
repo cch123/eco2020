@@ -33,3 +33,7 @@ Gianpiero Petriglieri of the INSEAD business school says that, since firms no lo
 Heaven forbid, the system even extends to journalists. Some publications reward writers based on the number of clicks their articles attract. Find out more in next week’s Bartleby column: “How the Kim Kardashian diet can boost your IQ and job prospects”.
 
 * “Thriving in the gig economy”, by Gianpiero Petriglieri, Susan Ashford and Amy Wrzesniewski, Harvard Business Review, March-April 2018
+
+## URL
+
+https://www.economist.com/business/2020/02/06/how-modern-workers-are-at-the-mercy-of-ratings

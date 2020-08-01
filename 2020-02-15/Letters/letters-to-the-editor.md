@@ -65,3 +65,7 @@ GERALD LOEBSouth Pasadena, California
 Renters miss out on one of the great pleasures of home ownership: making the final mortgage payment.
 
 KEN OBENSKIKona, Hawaii
+
+## URL
+
+https://www.economist.com/letters/2020/02/15/letters-to-the-editor

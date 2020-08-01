@@ -41,3 +41,7 @@ Haiti needs constitutional change and other institutional reforms. A new relatio
 But many Haitians doubt that Mr Moïse is the right man to reform democracy. His talks with the opposition may be theatre and his timetable looks like fantasy. Some say his plan to change the constitution is itself unconstitutional. Even people who endorse the idea have called for him to resign. But there is no obvious alternative. The United States and the Organisation of American States support the president.
 
 As the sun set over Port-au-Prince on the earthquake’s anniversary, two houngans (Vodou priests) and several mambos (priestesses) gathered in the Bureau National D’Ethnologie for a ceremony for the dead. The mambos chanted and struck spade-shaped fans against clay pots in common time while seated drummers beat polyrhythms with hands and sticks. Instead of producing rhythmic anarchy, the mambos’ measured pulse combined with the drummers’ syncopation to mesmerising effect. That fusion of order and imagination sounded like the sort of beat a more hopeful Haiti could dance to. But its politicians are less skilled than its drummers.■
+
+## URL
+
+https://www.economist.com/the-americas/2020/01/18/jovenel-moise-tries-to-govern-haiti-without-a-parliament

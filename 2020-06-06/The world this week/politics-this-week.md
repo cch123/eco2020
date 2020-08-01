@@ -51,3 +51,7 @@ The head of Britain’s statistics agency criticised Matt Hancock, the health se
 Mexico, which has the second-largest number of deaths from covid-19 in Latin America, loosened lockdown measures.
 
 French cafés and restaurants reopened after 11 weeks of lockdown. The joie de vivre is still subject to social-distancing restrictions.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/06/06/politics-this-week

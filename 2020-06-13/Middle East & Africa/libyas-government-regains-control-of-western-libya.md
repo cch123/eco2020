@@ -21,3 +21,7 @@ Libyans in the east are uneasy. “We’ve had enough of Turkish colonialism,”
 Big eastern tribes are keeping their distance from him. Tribal elders in the south have declared for the GNA. Talk of a challenge to General Haftar is rife. Even his foreign supporters seem to be growing tired of his boasting. At the launch of a peace initiative in Cairo on June 6th, General Haftar shared the stage with Aguila Saleh, a less belligerent politician from the east. Last month Mr Saleh declared himself commander-in-chief of the LNA.
 
 Despite the GNA’s victories, the situation in the west is also unstable. Mr Serraj says he wants to “construct a civil, democratic and modern state”, but the militias who fight for him are divided by tribe, city and ideology. The threat of General Haftar (not support for the GNA) was the glue that held them together. The jihadists among them want to push on to Benghazi, their home before General Haftar booted them out in 2017. The militias of Misrata, the strongest force in the west, want to dominate the region. Leaders from other cities, such as Zintan, would prefer to carve out their own fiefs from the land they have captured. Each has a separate line to Turkish commanders on the ground and foreign powers abroad. Mr Serraj may no longer be under siege, but his rule does not extend far beyond his glass office block in Tripoli. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/06/11/libyas-government-regains-control-of-western-libya

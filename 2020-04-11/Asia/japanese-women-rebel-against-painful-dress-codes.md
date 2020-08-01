@@ -19,3 +19,7 @@ Dress codes at many Japanese firms are rigid. Some ban glasses for women (but no
 The government has dug in its heels. A former labour minister, who received Ms Ishikawa’s petition last year, insists that wearing high heels at work is “necessary and appropriate”. The petition itself has received no official response to date. Japan ranks the second lowest out of the 29 rich countries in The Economist’s glass-ceiling index, which measures equality for women in the workplace.
 
 But corporate Japan is slowly responding to #KuToo. In late March Japan Airlines announced that its female flight attendants can kick off their heels and swap skirts for trousers if they choose. All three big mobile-phone operators have relaxed their rules on heels. Ms Ishikawa is collaborating with a shoe company to produce chic heel-less shoes. “Society is changing,” says Ms Ishikawa. “We can’t be ignored.” Pointless rules about footwear may soon be given the boot.
+
+## URL
+
+https://www.economist.com/asia/2020/04/08/japanese-women-rebel-against-painful-dress-codes

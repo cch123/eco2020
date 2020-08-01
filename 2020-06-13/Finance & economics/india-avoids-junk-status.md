@@ -27,3 +27,7 @@ The rating agencies have not always been highly regarded in India. In 2017 Arvin
 To the agencies, and every other analyst of the country, India has always been a paradox. Its economy is large but its people are poor. Its institutions are strong enough to warrant an investment-grade rating, but its policymaking is not. Its public debt is high, its foreign debt modest. To these long-standing paradoxes, some observers add another. India, they say, is like a Monet painting. Up close, it’s a big old mess. But from afar it still has the power to beguile. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/06/11/india-avoids-junk-status

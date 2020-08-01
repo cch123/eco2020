@@ -21,3 +21,7 @@ And then there is the prospect of future trade deals that may lead to cheaper im
 This ambiguity is surely deliberate. Next week the government will publish its guidelines for future trade talks with America, hoping thus to put pressure on Brussels to soften its negotiating position in the EU-UK trade talks that start on March 2nd. Washington’s priority in any trade negotiations will be to prise open the British market for American agriculture. Minette Batters, the NFU’s president, argued this week that letting in cheaper food which it would be illegal to produce in Britain would be “morally bankrupt” and “insane”. But she may have a fight on her hands.
 
 Farmers are mindful of the experience of New Zealand, which scrapped most of its farm subsidies in the 1980s. Agriculture is now thriving there, but the transition was long, painful and, to quote Mr Eustice once more, chaotic. Yet if the future looks frightening, farmers share responsibility for shaping it: like turkeys voting for Christmas, a substantial majority of them backed Brexit in June 2016.■
+
+## URL
+
+https://www.economist.com/britain/2020/02/27/british-farmers-fret-about-losing-their-protection-and-their-subsidies

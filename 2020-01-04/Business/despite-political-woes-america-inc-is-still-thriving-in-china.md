@@ -35,3 +35,7 @@ More Budweiser beer is consumed in China than in America, notes Bruno Lannes of 
 If the threat from politics seems overblown, there is a genuine worry for American bosses on the mainland: market competition. Chinese smartphone makers have increased their share in the local market for phones costing over $400 from 12% in 2014 to 67% in 2018, says McKinsey, a consultancy. Domestic carmakers, who once made subsidised hunks of junk, have managed to reduce their defect rate by an order of magnitude since 2003; their market share has jumped from 26% in 2014 to 38% in 2018.
 
 This is primarily the result of nimbleness, not subsidies. Unlike state-owned firms, which Mr Xi is propping up with renewed vigour, most Chinese private companies are frugal innovators. Only 9% of American firms complain that local private firms get unfair advantages like tax breaks, licensing approvals and subsidies. Political rows dominate the headlines today, but the longer-term challenge for American firms may prove to be the rise of China Inc.■
+
+## URL
+
+https://www.economist.com/business/2020/01/02/despite-political-woes-america-inc-is-still-thriving-in-china

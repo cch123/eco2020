@@ -23,3 +23,7 @@ Tajikistan, the poorest country in the former Soviet Union, has plenty of proble
 The election was the first since a moderate Islamic party that was for years the main opposition to Mr Rahmon was banned, in 2015. The government labelled the Islamic Renaissance Party of Tajikistan a terrorist group, sending its leader, the mild-mannered Muhiddin Kabiri, fleeing abroad. Other senior members were jailed. From exile in Berlin, Mr Kabiri dismissed the talk of terrorism as a “trumped-up pretext” to ban the only party capable of posing a challenge to Mr Rahmon, who had already eliminated most secular opposition. A reformist movement called Group 24 was outlawed in 2014. Its leader, Umarali Quvvatov, was later shot in Istanbul.
 
 Mr Rahmon will probably stand for re-election in November. But there is speculation that he may step aside and anoint as his successor his son, Rustam Emomali, the 32-year-old mayor of Dushanbe. That would make the Founder of Peace and National Unity the founder of Central Asia’s first modern-day dynasty, too. ■
+
+## URL
+
+https://www.economist.com/asia/2020/03/05/tajikistans-long-serving-ruler-dispenses-with-all-political-opposition

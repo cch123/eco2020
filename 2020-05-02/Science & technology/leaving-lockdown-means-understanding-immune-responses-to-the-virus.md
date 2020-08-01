@@ -37,3 +37,7 @@ Antibody data, when combined with mortality figures, suggest covid-19 is both fa
 More governments, including those in Britain and Germany, plan to run antibody-based surveys involving tens of thousands of people over the coming months. With luck, these will be more representative. A true understanding of the immune response to SARS-CoV-2 and of how that virus has spread through the world will, though, take years to emerge. Meanwhile, enduring uncertainties increase the risks associated with strategies for ending lockdowns that rely on people having long-term immunity from reinfection. Politicians in most countries are emphasising their willingness to follow science’s lead in matters concerning the pandemic. Their worry now must be that science has no lead to offer.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/05/02/leaving-lockdown-means-understanding-immune-responses-to-the-virus

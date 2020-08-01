@@ -35,3 +35,7 @@ His jurisprudence may be harsh, but Justice Thomas is gregarious and warm. Durin
 With Mr Trump’s electoral prospects and the Republicans’ hold on the Senate both looking shaky, Justice Thomas faces an option Justice Ginsburg rejected between 2009 and 2014. The leader of the court’s liberal wing could have stepped aside and given Barack Obama a third high-court appointment before the Senate flipped to Republican control in 2015. Now, at 87 and after four bouts of cancer, her nail-biting decision to try to stick it out seems irresponsible to some on the left.
 
 Melissa Murray, a law professor at New York University, thinks Justice Thomas may be motivated to stay by the prospect of a 6-3 conservative majority once Justice Ginsburg goes. His former clerk Erik Jaffe says activists on the right may try to ease him out before November, to ensure his seat is filled by a young conservative. But, he says, Justice Thomas “sure as hell is not thinking about retiring.”■
+
+## URL
+
+https://www.economist.com/united-states/2020/06/27/will-clarence-thomas-stick-it-out-for-a-30th-year-on-the-court

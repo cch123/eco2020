@@ -51,3 +51,7 @@ Officials reimposed a lockdown in Chennai, the capital of Tamil Nadu in southern
 Saudi Arabia’s state media said strict limits would be placed on the number of pilgrims allowed to make this year’s haj. Citizens from other countries already in Saudi Arabia may attend, but international visitors are barred.
 
 Novak Djokovic apologised after he and three other tennis players contracted covid-19 at a tournament he was hosting.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/06/25/politics-this-week

@@ -35,3 +35,7 @@ After patients are enrolled in the trial, doctors need only record a few data po
 There will be no placebo and doctors will know which treatment has been given to which patient. Those are not features of high-quality clinical trials in normal times. But the design is the best way to find out in the shortest time which of a number of drugs works best. The WHO has not said how long it expects the trial to take. Countries including Argentina, Bahrain, Canada, Iran, Norway, South Africa, Spain, Switzerland and Thailand have already said they will join. Some 3,200 European patients will participate under the co-ordination of a French biomedical research agency. Other international trials are being planned—for example, to determine whether the drugs being tested in patients work to prevent illness when taken by health-care workers. The pace of discovery is unprecedented. But the stakes could hardly be higher. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/international/2020/03/26/crowdsourcing-to-fight-covid-19

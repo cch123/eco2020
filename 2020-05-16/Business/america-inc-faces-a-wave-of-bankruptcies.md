@@ -43,3 +43,7 @@ All restructuring firms are hiring, notes Michael Eisenband of FTI Consulting. H
 So the good news is that many squeezed firms staring at bankruptcy might be saved through restructuring. Mr Derrough, a veteran of financial crises, explains that this involves five steps: stopping the bleeding; evaluating the injuries; performing the necessary surgery; rehabilitating the victim; and returning it to health. The bad news is that America Inc is at the start of phase one. As he puts it, “Most of what we are doing is blood transfusions. We haven’t even gotten to stopping the bleeding.”■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/05/16/america-inc-faces-a-wave-of-bankruptcies

@@ -43,3 +43,7 @@ The evidence for that lurid suggestion is slender. But it relates to the third o
 Soviet disinformation had to be laundered into the West, typically through the media. “If they did not have press freedom, we would have to invent it for them,” the KGB’s disinformation chief quipped in 1964. The internet changed the nature of that conduit. Information could be stolen in vast quantities and spread anonymously, quickly and cheaply, often through credulous activists and amplified by harried journalists untroubled by its provenance. “A significant and large proportion of the disinformation value-creation chain was outsourced to the victim society,” concludes Mr Rid. More perversely, the Western panic around false news stories often overstated the effectiveness of those campaigns—and thus compounded their disorienting effects.
 
 Like Kennan in 1948, Western intelligence officers and soldiers are now relearning how to wage political warfare. Last year General Carter launched a new division of the British army devoted to “information manoeuvre and unconventional warfare”. It “routinely conduct[s] operations below the threshold of armed conflict in the virtual and physical dimensions”, boasts Britain’s defence ministry, somewhat cryptically. One of its units, the 77th Brigade, has been active in countering disinformation around covid-19. Whether it also sends customised horoscopes to Russian spies is not disclosed.■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/05/16/the-weapons-of-political-warfare

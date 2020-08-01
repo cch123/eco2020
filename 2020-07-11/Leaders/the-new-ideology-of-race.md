@@ -37,3 +37,7 @@ Liberals can help in America, too. Much of the material gulf between African-Ame
 Our [Briefing](https://www.economist.com//briefing/2020/07/09/segregation-still-blights-the-lives-of-african-americans) lays out what some of these policies might look like. Top of the list is tackling the housing segregation that is central to America’s racial economic inequality. The reform of zoning laws and the grant of rent-assistance vouchers are the chief ingredients. That would bring many benefits, improving public services and lessening violence. More integrated housing would integrate schools too and, given America’s locally financed education, mean that more would be spent on black children. Affordable measures, including advice and modest cash grants, have been shown to boost graduation from college. A third tool is the tax system. The earned-income tax credit tops up wages of working adults. A child allowance would cut poverty. A baby bond would help shrink the wealth gap.
 
 In the past liberals have helped bring about change when society faced a challenge to the status quo, as when reforms limited child labour and won women the vote. If America has reached such a moment today, it must not resort to identity politics—and suffer intolerance, intimidation and division. Instead, for reform on race that works, it must look to liberalism. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/07/09/the-new-ideology-of-race

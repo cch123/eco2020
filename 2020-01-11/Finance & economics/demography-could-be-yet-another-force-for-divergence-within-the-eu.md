@@ -41,3 +41,7 @@ To date, northern countries have done the most. Germany acted decisively in the 
 But enacting and sustaining reforms has proved tricky. Past reforms have been rolled back. Higher pensionable ages introduced in Italy in 2011 were partially reversed last year; so too were measures in Poland and even Germany. Strikes in France against a pensions overhaul are in their second month (see [article](https://www.economist.com//europe/2020/01/09/big-protests-in-paris-are-emmanuel-macrons-severest-test-yet)). Changes to pensions are so unpopular in the south because whole families often live off them, says Cinzia Alcidi of the Centre for European Policy Studies, a think-tank in Brussels. Spending more on working-age benefits would help.
 
 The necessary reforms go far beyond those obviously connected to population ageing. Analysis by the European Bank of Reconstruction and Development, for instance, finds that cutting corruption and strengthening institutions in less well-run countries could convince potential emigrants to stay home. Marshalling a decisive response to the continent’s changing demography will not be easy. But the EU’s very survival may depend on it. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/01/11/demography-could-be-yet-another-force-for-divergence-within-the-eu

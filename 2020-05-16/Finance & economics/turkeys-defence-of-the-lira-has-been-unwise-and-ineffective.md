@@ -25,3 +25,7 @@ Turkey bounced back from the 2018 currency crisis by belatedly raising interest 
 The country has thus tried to strengthen growth, at the expense of weakening the currency. And it has tried to fortify the currency—but at the expense of weakening the banks, which will eventually need some of their dollars back if they are to meet their own foreign-currency obligations, points out Brad Setser of the Council on Foreign Relations, a think-tank.
 
 Turkey should “abandon this strategy”, says Piotr Matys, a currency strategist at Rabobank. “The most rational move would be to let the lira float freely and publish a package of reforms, ideally overseen by the IMF.” There is but one problem. Mr Erdogan wants nothing to do with the IMF. On that, he has been far from fickle. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/05/14/turkeys-defence-of-the-lira-has-been-unwise-and-ineffective

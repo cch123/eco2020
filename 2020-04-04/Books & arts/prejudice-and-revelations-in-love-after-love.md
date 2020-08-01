@@ -21,3 +21,7 @@ Finally, he confesses to her what the reader has already learned: Mr Chetan is g
 These personal traumas are also political. Ms Persaud confronts the homophobia at large in Trinidad (where homosexuality was only decriminalised in 2018), of which Mr Chetan has been a victim all his life. For his part, Solo ends up travelling to America to stay with an uncle in New York. There he must navigate a hostile and frightening immigration system while struggling with his burdensome inheritance.
 
 Amid all the sorrow, though, Ms Persaud’s novel is a delight. It is written in a lilting patois that sings from the page, and it is full of warmth and beauty. Mr Chetan—as good as a father to Solo—wants the best for the boy: “He mustn’t go through life being ’fraidy ’fraidy.” Mr Chetan has learned that himself the hard way; it is a lesson for the reader, too.
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/04/02/prejudice-and-revelations-in-love-after-love

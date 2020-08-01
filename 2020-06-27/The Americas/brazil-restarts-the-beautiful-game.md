@@ -19,3 +19,7 @@ Ninety-five players from the top league, nearly a sixth, have tested positive fo
 In São Paulo, which still bans matches, clubs are getting antsy. “We have been very patient,” says Thiago Scuro, the athletic director of Red Bull Bragantino, though not enough to abide by a league-wide pact not to train as long as clubs in some parts of the state are not allowed. (The club has now agreed to wait until July 1st, when the governor says practice can resume state-wide.)
 
 Brazil’s president, Jair Bolsonaro, a Flamengo fan, is keen for the sport to restart. Odds of a footballer dying from covid-19 are “infinitely small”, he says. But football’s bosses are trying to be more responsible. There is “no evidence” that athletes can’t get ill, say guidelines for clubs published by Brazil’s Football Federation. They recommend no spitting or handshakes. Less reassuring is the suggestion for clubs that do not have coronavirus tests on hand: ask a player to sniff coffee placed 5cm away from his nose. If he can smell it, he’s probably not infected. Santo André plan to house players in rented training centres to keep them covid-free. If other clubs take such care, Mr Riquetto says, football will help restore a “sense of normality” to Brazil. It’s a big if, he admits.■
+
+## URL
+
+https://www.economist.com/the-americas/2020/06/27/brazil-restarts-the-beautiful-game

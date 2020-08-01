@@ -29,3 +29,7 @@ However, Britain is the only member of the G7 group of rich countries to meet th
 At the summit in London Mr Johnson stressed trade and investment over aid. His officials hail the African Continental Free Trade Area, a deal signed in 2018 by 44 members of the African Union, as a harbinger of Africa’s future as a trading bloc. His predecessor, Theresa May, declared on her sole trip to Africa as prime minister, in 2018, that Britain would strive to become the biggest single investor in Africa by 2022, with the CDC (formerly the Commonwealth Development Corporation), a government-owned private-equity group, leading the way. In terms of investment since 2014, Britain comes fourth after China, America and France, according to the Brookings Institution, a think-tank.
 
 Britain will need to deploy a mix of hard and soft power to advance its interests in Africa. Mr Johnson acknowledged that an issue which particularly annoys Africans, especially businessmen, government officials and scholars, is getting a visa to visit Britain. It is time-consuming and often humiliating. Many of Britain’s understaffed diplomatic missions have no passport office, so would-be visitors are required to travel hundreds of miles to neighbouring countries. It may seem a petty impediment set against the wider aspects of British investment in Africa. But Africans are hardly likely to welcome British investors if they feel unwelcome in Britain themselves. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/01/25/boris-johnson-woos-africa

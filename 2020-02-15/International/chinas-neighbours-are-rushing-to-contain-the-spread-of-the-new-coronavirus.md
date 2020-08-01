@@ -33,3 +33,7 @@ All countries must balance their fear of the human and economic costs of the vir
 “We wish to reaffirm our solidarity with the people of China and wish you every success in overcoming this grave situation,” wrote King Maha Vajiralongkorn in a message to China’s leader, Xi Jinping. Hun Sen, the president of Cambodia, where China has invested more money than any other country in recent years, went further. He travelled to Beijing to meet Mr Xi, demonstrating his loyalty in the face of adversity.
 
 China’s embassies have attacked foreign governments for imposing travel bans. Its ambassador in Jakarta warned Indonesia that “overreaction” would have “a direct impact” on relations. But such bullying may not work. Covid-19 comes after a devastating outbreak of African swine flu on Chinese pig farms and amid a trade war between China and America, and protracted protests in Hong Kong. These upheavals have dented China’s reputation in the region. The epidemic has exposed China as a country of great strengths and weaknesses, says Bilahari Kausikan, a Singaporean former diplomat: “Quite a lot of the gloss has worn off the Chinese story.” ■
+
+## URL
+
+https://www.economist.com/international/2020/02/13/chinas-neighbours-are-rushing-to-contain-the-spread-of-the-new-coronavirus

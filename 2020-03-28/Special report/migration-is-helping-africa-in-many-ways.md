@@ -43,3 +43,7 @@ Africa is not only urbanising much more quickly than any other continent, it is 
 It also costs a lot to transport food to cities, which pushes up prices and in turn forces up wages in factories, making it hard for them to compete on global markets. In short, many have become “consumption cities” with urban economies dominated by low-value services and goods that are consumed locally, rather than tradable goods or services. Better urban planning with denser housing instead of sprawling slums, with wider roads and public transport, would all go a long way to making cities more productive. So would reliable electricity: a study by the Centre for Global Development in Washington, DC, found that one of the biggest obstacles faced by Nigeria’s technology startups was frequent power cuts. “You can’t code in the dark,” says the founder of one firm.
 
 But some of the solutions to urban problems can also be found in the countryside. A good place to start is by helping farmers become more productive. That could reduce food costs in the cities, making them more competitive for manufacturing. Higher incomes in villages could expand markets for goods made in the cities. Sometimes the path to industrialisation starts on the farm.■
+
+## URL
+
+https://www.economist.com/special-report/2020/03/26/migration-is-helping-africa-in-many-ways

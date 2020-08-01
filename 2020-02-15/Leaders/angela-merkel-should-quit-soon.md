@@ -19,3 +19,7 @@ Centrists will celebrate that the firewall keeping out the AfD has done its job.
 The CDU could take a different course. Thanks to the spectacular rise of the Greens in recent state elections, last year’s European Parliament elections and in opinion polls, it looks likely that at the next general election the CDU and the Greens will together win a majority of seats in the Bundestag, opening up the chance of a new kind of coalition. If “black-green” is the answer, though, a lot of horse-trading will be needed; the two parties are at odds over heavy industry, euro-zone integration, the scale of public spending and Germany’s defence posture.
 
 This debate is only just beginning. While the CDU decides which way it wants to take Germany, policy paralysis has descended on Europe’s biggest economy. And a paralysed Germany means a paralysed EU, not least because it will take up the rotating EU presidency in the second half of this year. The greatest favour that Mrs Merkel could do her country would be to force the pace, by announcing her imminent departure. Germany must not go on like this. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/02/13/angela-merkel-should-quit-soon

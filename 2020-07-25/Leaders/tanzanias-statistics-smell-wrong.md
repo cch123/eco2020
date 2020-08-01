@@ -21,3 +21,7 @@ Lying is bad for democracy: without reliable numbers, it is hard for voters to h
 Some argue that international financial institutions can do more good by staying close to iffy governments and gently nudging them towards reform. If the IMF picks a fight with Mr Magufuli, he may send it packing. But in accepting junk statistics, the fund harms its own credibility, and stores up economic trouble for Tanzania. Mr Magufuli is running for a second term in October, so bad data also undermine the democratic rights of Tanzanians, who should be allowed to vote for politicians based on their actual record, rather than a fictitious one.
 
 Honesty has worked before. In 2013, after it became clear that Argentina was fibbing about inflation, the fund stopped accepting its data. After a change in government, Argentina stopped lying. Tanzanians deserve the truth, too. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/07/23/tanzanias-statistics-smell-wrong

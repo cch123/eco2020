@@ -27,3 +27,7 @@ Asking the CMA to map the state of competition across the economy as a whole cou
 In any event it would be sensible to implement the recommendations of the Furman Review on digital competition, carried out for the Treasury in 2019. It had good ideas on how to develop a code of competitive practice for the dominant firms in digital industries as well as how to incorporate personal data concerns into policy.
 
 British regulators would do well to look at innovations in mainland Europe, too: the Germans have, for instance, lowered the threshold for investigating tech mergers, on the grounds that mergers involving tiddlers—such as Google’s with YouTube and Facebook’s with Instagram—can turn out to be troubling. And there is a strong case for increasing both the CMA’s investigatory powers and its budget. Muscular competition policy isn’t just good for the government: it’s also necessary for restoring public trust in business. ■
+
+## URL
+
+https://www.economist.com/britain/2020/02/13/ripping-into-the-rip-off-merchants

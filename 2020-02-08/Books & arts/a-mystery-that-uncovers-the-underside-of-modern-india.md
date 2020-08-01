@@ -19,3 +19,7 @@ Deepa Anappara’s debut novel has echoes of others in which children’s curios
 As well as Jai’s, Ms Anappara tells the stories of the disappeared: brief, third-person portraits which efficiently sketch lives of a kind that are seldom chronicled in literature. Her prose is full of fine, vivid images. A flush of shame spreads across a character’s chest “as if someone has spilled a hot cup of tea on her”. When Jai senses his mother is upset with him, her “eyes loop me like a red-ink pen around a wrong answer”.
 
 This moving and stylish book pulls off a difficult trick. It is an engaging, amusing tale, powered by Jai’s ebullient personality; at the same time it is an insightful portrait of the underside of 21st-century India. The author worked there as a journalist before settling in Britain and studying creative writing at the University of East Anglia. Her novel was inspired by the struggles she encountered during her reporting (an afterword gives details of children’s-rights charities in India). As Dickens did, Ms Anappara understands the power of fiction to bring alive the plights of people readers might otherwise overlook.
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/02/06/a-mystery-that-uncovers-the-underside-of-modern-india

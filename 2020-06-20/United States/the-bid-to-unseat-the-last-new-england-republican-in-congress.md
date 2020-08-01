@@ -23,3 +23,7 @@ Ms Gideon may find that a hard path to follow. Ms Mills was running against a bu
 Ms Collins, as one of her supporters put it, is “a daughter of northern Maine”, raised in the small town of Caribou. She remains a familiar presence at small-town parades and high-school basketball games, and has a sterling reputation for constituent service and bringing money back to the state. None of which is to say she will win. Perhaps Ms Gideon will run up even better numbers down south than Ms Mills. Perhaps she will persuade enough voters from the rural white second district to break with their longtime senator. But it’s a narrow road to the deep north. ■
 
 Dig deeper:
+
+## URL
+
+https://www.economist.com/united-states/2020/06/20/the-bid-to-unseat-the-last-new-england-republican-in-congress

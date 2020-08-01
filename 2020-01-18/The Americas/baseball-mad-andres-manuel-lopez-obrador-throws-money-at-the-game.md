@@ -23,3 +23,7 @@ Baseball never caught on in Mexico as it did in Cuba and Venezuela. Mexican base
 Thanks no doubt in part to Mr López Obrador’s fandom, attendance at Mexican Baseball League games rose by 30% last year. In April Mexico City will host regular-season Major League Baseball games for the first time since 2004. Mexico’s national team is one of six to qualify for this summer’s Olympic games in Tokyo. 
 
 Mr López Obrador, who is 66, says that had his army of scouts been around in his youth he would not have become a politician. But power has its perks. Hugo Chávez, a leftist (and left-handed pitcher) who governed Venezuela from 1999 to 2013, called the manager of Venezuela’s national team after each game to offer tips on tactics and selection. Mr López Obrador, who resists the trappings of power, may be tempted to ring up the Mexican manager.■
+
+## URL
+
+https://www.economist.com/the-americas/2020/01/16/baseball-mad-andres-manuel-lopez-obrador-throws-money-at-the-game

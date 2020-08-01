@@ -27,3 +27,7 @@ Two big questions loom. The first is whether Russia will, despite all this, bull
 The second question is how Europe’s climate ambitions affect natural gas. In December the European Commission outlined a plan for carbon neutrality by 2050. This may depress demand for Russian gas, says Kateryna Filippenko of Wood Mackenzie, an energy-data firm. It may also sap support for infrastructure that would help countries still unduly dependent on Russian gas. On January 22nd a committee of the European Parliament voted to make 32 gas projects eligible for public funding, despite criticism from the European Climate Foundation, a lobby group. The parliament is due to vote on the list next month.
 
 In the meantime, Russia is hedging its bets. By 2024 gas demand in China will be more than four times that in 2010, according to the IEA. On December 2nd Gazprom marked the opening of Power of Siberia, the first pipeline to bring Russian gas to China. It will face ample competition—from coal and renewables as well as from domestic gas production, LNG and other sources of piped gas. Russia can still throw its weight around in global gas markets. But it may bump into a rival. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/01/23/competition-sanctions-and-the-new-geopolitics-of-russian-gas

@@ -29,3 +29,7 @@ Rolls-Royce cut 9,000 jobs and predicted that it will take several years for dem
 Uber announced that another 3,000 jobs would go at its offices around the world on top of the 3,700 lay-offs it had made only recently. Together the redundancies account for a quarter of its staff. The company is to focus on its ride-hailing and food-delivery businesses and ditch its job-matching service and artificial-intelligence unit.
 
 TikTok poached a senior executive from Disney to be its new boss. Kevin Mayer oversaw Disney’s thrust into streaming and had been in the running to replace Bob Iger as CEO (the job went to Bob Chapek). He joins TikTok amid a surge in users viewing its dance, comedy and other “talent” short videos. It reached 2bn downloads last month, as bored locked-down teenagers flocked to the app in droves.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/05/21/business-this-week

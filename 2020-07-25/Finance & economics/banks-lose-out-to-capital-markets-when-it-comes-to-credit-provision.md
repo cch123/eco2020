@@ -26,6 +26,8 @@ The crisis showed that banks remained at the centre of the financial system, act
 
 Many of these rules have been aimed at taming the investment-banking activities that sit inside huge firms such as Bank of America and JPMorgan Chase. As all types of banks have faced tighter regulation, the last two big standalone investment banks, Goldman Sachs and Morgan Stanley, have evolved to look like banking conglomerates, too. Both have spread into sedate areas that attract more deposits, such as wealth management and retail banking.
 
+
+
 Regulation has blunted banks’ competitive advantage. The fact that they were vertically integrated—they tended to issue loans, monitor and collect those loans, and hold the associated risk on their balance-sheets—once gave them an edge over investors and funds seeking to profit from just one slice of a transaction. It made up for the fact that they were slow to embrace technology. But bankers now talk of their balance-sheets as a “scarce” resource.
 
 As banks have grown risk-averse, non-banks, often tech-savvy, are stepping up. “When you regulate the banks and you leave the rest of the financial system more lightly regulated, there will be regulatory arbitrage,” says Richard Berner of New York University. “But technology has also facilitated a shift because, particularly in the past decade, it has promoted the growth of payments and of bank-like activities outside the banking system.”
@@ -77,3 +79,7 @@ The Fed was able to soothe investors through the power of its announcements; it 
 The sheer breadth of the intervention takes the Fed into new territory. As the Bank for International Settlements, a club of central bankers, noted in its recent annual report, the consequences of bailing out capital markets on such a scale could linger. “The broad and forceful provision of liquidity has stemmed market dysfunction, but it has also shored up asset prices across a wide risk spectrum. This could affect the future market pricing of risk.”
 
 Banks’ stagnation may be no bad thing: credit provision has grown more competitive, and is probably becoming less reliant on a handful of large risky institutions. But when banks malfunction, regulators at least know where to look. When so much activity takes place in the shadows, they risk fumbling in the dark. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/07/25/banks-lose-out-to-capital-markets-when-it-comes-to-credit-provision

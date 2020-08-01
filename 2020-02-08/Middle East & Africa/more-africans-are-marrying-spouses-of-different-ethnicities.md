@@ -21,3 +21,7 @@ Urbanisation is one reason for the increase. In cities there are more people fro
 Yet there is more to the trends than schooling and cities, says Ms Crespin-Boucaud. Also important are changing cultural attitudes. These days marrying outside one’s group is less likely to be taboo. Why this has happened faster in some countries (such as Uganda) than others (such as Niger) is unclear.
 
 Whatever the reasons, boundary-spanning marriages are good news, and not just for the happy couples. Another paper, published in 2018 by Boniface Dulani of the University of Malawi and three co-authors, suggests that children of mixed marriages are less likely to vote along ethnic lines. Ethnically driven politics has been used to explain many African woes, from conflict to corruption. So if love can blur these boundaries, all the better.
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/02/06/more-africans-are-marrying-spouses-of-different-ethnicities

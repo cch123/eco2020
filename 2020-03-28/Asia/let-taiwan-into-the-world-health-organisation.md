@@ -29,3 +29,7 @@ Taiwan’s fight against covid-19 has shown that it can cope outside the WHO, ev
 The WHO has praised China for “perhaps the most ambitious, agile and aggressive disease containment effort in history”, which is true. But the WHO could spare a word of praise for Taiwan, too. Better yet, it should insist that China end its unconscionable boycott.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/asia/2020/03/26/let-taiwan-into-the-world-health-organisation

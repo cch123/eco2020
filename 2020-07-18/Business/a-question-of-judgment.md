@@ -29,3 +29,7 @@ Others may have the wrong sort of characteristics; a tendency to ignore others, 
 As artificial intelligence gets used for more and more routine tasks in the service sector, exercising judgment may be one area where humans retain an edge over machines. This is far from certain, however. What people perceive as good judgment may stem from the ability to spot certain cues in the environment. This ability may be unconscious, just as a dog can catch a Frisbee in mid-air without knowing how to calculate wind speed and air resistance.
 
 With enough practice, machines may be able to recognise these implicit cues and thus display the equivalent of good judgment. But then, perhaps humans can be taught, too. In the long run one of the trickiest aspects of human judgment may be knowing precisely when to let machines take decisions and when to leave it to people.
+
+## URL
+
+https://www.economist.com/business/2020/07/18/a-question-of-judgment

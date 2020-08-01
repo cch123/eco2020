@@ -33,3 +33,7 @@ Countering pandemics requires all sorts of public action, from forging new socia
 ** “Paid Sick Leave: Incidence, Patterns and Expenditure in Times of Crises”, by Xenia Scheil-Adlung and Lydia Sandner
 
 Dig deeper:
+
+## URL
+
+https://www.economist.com/business/2020/03/14/rethinking-sick-leave

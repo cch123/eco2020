@@ -27,3 +27,7 @@ Even in the past couple of months, believes Mr Olsen, opposition to the death pe
 Views on the death penalty may thus be shifting, just as public attitudes swung towards gay marriage and legalisation of marijuana. In Ohio, for example, Republicans look likely to get round to supporting repeal—significant in a state with 141 prisoners on death row. The state’s governor, Mike De Wine, who is Catholic, has already made clear he will not approve any executions. He has hinted that he wants the state house to bring a repeal bill. Mike Hartley, a Republican strategist, calls the moment ripe for change.
 
 Mr Hartley predicts that a test repeal bill will get to Ohio’s state legislature late this year, with the goal of building momentum for a big push next year. A recent convert to the cause himself, he points to growing conservative “distrust in institutions” to explain the shift, along with a better general grasp of racial inequities and, especially, of the gruesome details of how prisoners are killed: “People just realise it’s inhumane as shit.”■
+
+## URL
+
+https://www.economist.com/united-states/2020/07/02/american-conservatives-are-pushing-for-the-repeal-of-the-death-penalty

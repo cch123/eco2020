@@ -37,3 +37,7 @@ The Swedes and Dutch are following government recommendations: mobility is down 
 This suggests that during epidemics trust is a double-edged sword. High-trust countries will probably do better economically, as they usually do. But in public-health terms, high trust may have lulled Dutch and Swedes into a false sense of security. For now, most are satisfied with their governments’ responses. But so are most Romanians. Perhaps that will help to close Europe’s trust gap. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/05/02/do-low-trust-societies-do-better-in-a-pandemic

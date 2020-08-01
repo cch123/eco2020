@@ -43,3 +43,7 @@ Mobs attacked villages in Kazakhstan inhabited by Dungans, a tiny ethnic group w
 ![](./images/20200215_WWP001.jpg)
 
 “Parasite”, a South Korean comedy thriller,was the surprise winner at the Oscars. It beat the bookies’ favourite, “1917”, to scoop best picture, the first foreign film to do so, and best director. Hollywood stars spouted platitudes about diversity and stealing baby cows. The ceremony had its worst-ever viewing figures. See [article](https://www.economist.com//books-and-arts/2020/02/13/the-oscars-triumph-of-parasite).
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/02/15/politics-this-week

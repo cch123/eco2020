@@ -23,3 +23,7 @@ That sounded easier on an English speaker’s ear. Not least, it allowed semanti
 But calling the dream an initiative is suggestive. First, by abandoning the classical intimations implied in the Chinese phrase, a sense of China’s return to historical greatness has been removed for the benefit of foreign audiences. Second, a power that wants to conceal from other countries what, in terms of loftier ambitions for global pre-eminence, it is signalling to its own people, could do worse than choose a bland, unthreatening word like “initiative”.
 
 Meanwhile, official Chinese sources publishing in English have not all fallen into line with the translation bureau’s ruling. “OBOR” is still used, along with the “Belt and Road” and, often, the “New Silk Road”. Not only, says Mr Freymann, does the party-state want to communicate two very different interpretations of the BRI concept to domestic and foreign audiences respectively. It has also been rather sloppy in doing so.
+
+## URL
+
+https://www.economist.com/special-report/2020/02/06/how-the-belt-and-road-initiative-got-its-name

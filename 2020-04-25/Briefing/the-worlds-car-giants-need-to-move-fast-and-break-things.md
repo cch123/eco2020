@@ -53,3 +53,7 @@ The pandemic will not hurt everyone equally. Tesla in particular has had a good 
 The Japanese giant and VW, which make roughly 10m cars each annually, should weather the storm. Chinese companies may look for cheap bargains abroad. Two of them, Geely and BAIC, already hold big stakes in Daimler (maker of Mercedes cars), which does not have strategic shareholders of the sort that protect VW and BMW from takeover. Mass-market firms, mostly operating on wafer-thin margins, will struggle. Taxpayers look likely to prop up some weaklings, like Renault.
 
 The biggest concern may be that the virus changes attitudes to cars. On the one hand, fear of infection may put commuters off trains, buses or ride-hailing, and into automobiles. On the other, more home-working may reduce commuting of any kind, including with your own set of wheels. A prolonged recession could damage sales for good. Carmakers of the future may yet look back nostalgically to 2017 as their industry’s peak. ■
+
+## URL
+
+https://www.economist.com/briefing/2020/04/25/the-worlds-car-giants-need-to-move-fast-and-break-things

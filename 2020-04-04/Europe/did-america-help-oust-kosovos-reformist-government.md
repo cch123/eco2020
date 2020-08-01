@@ -19,3 +19,7 @@ Once in power Mr Kurti announced that he would now take charge of the talks and 
 Last week Mr Kurti’s government was voted out in parliament, in a procedure ostensibly provoked by a row over the declaration of a state of emergency owing to covid-19, which would have given the president many exceptional powers. Mr Kurti’s supporters are bitter. They believe he was their only chance to rid the country of the corrupt leaders and warlords of the past.
 
 Weeks of wrangling will now follow. If it were not for the virus a snap election could have been called. A divided and unstable corner of Europe has just become a little more precarious.
+
+## URL
+
+https://www.economist.com/europe/2020/04/02/did-america-help-oust-kosovos-reformist-government

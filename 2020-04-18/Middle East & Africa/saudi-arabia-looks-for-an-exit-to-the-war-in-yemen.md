@@ -25,3 +25,7 @@ The Houthis are already pushing deeper into the Yemeni provinces on the border w
 Mr Hadi has had to move some of his ragtag army from the north to deal with separatists and jihadists in the south. That leaves Marib largely in the hands of Sunni tribes that support Islah, an Islamist movement. Many fiercely oppose the Houthis, fearing they will try to revive the country’s ancient Shia imamate. But they also worry that Prince Muhammad might soon withdraw. Some therefore think that they should follow the lead of the tribesmen in Jawf who negotiated with the Houthis and helped them push into the province.
 
 Hanging over all of this is the threat of covid-19. The war has knocked out half of Yemen’s clinics and hospitals. Over three-quarters of its 28m people need some kind of humanitarian aid. An outbreak of cholera last year was one of the world’s worst, says the UN. An outbreak of covid-19 could be even deadlier. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/04/18/saudi-arabia-looks-for-an-exit-to-the-war-in-yemen

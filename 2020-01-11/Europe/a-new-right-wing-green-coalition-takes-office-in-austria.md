@@ -19,3 +19,7 @@ To help sugar these pills, the Greens obtained one of Europe’s more ambitious 
 It also helps the 33-year-old Mr Kurz cement his reputation as Austria’s changemaker-in-chief. He is once again the world’s youngest leader, and yet already a gnarled veteran of Austrian politics, earning over nine years in government a reputation as a smart tactician and political bruiser. Greens either distrust him or, eyeing the woes of his previous coalition partners, fear him. Immigration could yet prove a flashpoint. A curious clause in the coalition deal allows Mr Kurz to make common cause with the FPÖ in the event of a migration “emergency”. Yet the Greens’ hunger to replace the floundering Social Democrats as Austria’s chief progressive force, and to keep the FPÖ out, will help bind the coalition together.
 
 For optimists, the government hits a sweet spot: greater ambition on climate plus tough migration policies to blunt the appeal of FPÖ-style radicals. Might others follow? In Germany, ruled by a weary left-right “grand coalition” of the sort that prevailed in Austria before Mr Kurz came along, the idea of a conservative-green government has long circulated. Germany’s Greens are wary about drawing lessons from their less experienced Austrian brethren, and the German Christian Democrats (CDU) are more moderate than the ÖVP. Yet for that reason, if even Mr Kurz can pull it off, his many admirers in the CDU may too turn their gaze greenwards. ■
+
+## URL
+
+https://www.economist.com/europe/2020/01/09/a-new-right-wing-green-coalition-takes-office-in-austria

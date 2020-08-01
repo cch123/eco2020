@@ -37,3 +37,7 @@ Mainstreet Research, a polling firm, puts him nine points behind Mr MacKay among
 The winner’s task will look thankless at first. It will be hard to tackle Mr Trudeau while Canadians approve of the way he is handling the country’s worst crisis since the second world war. But if hardship worsens he will become vulnerable. The job of leading Canada’s opposition may turn out to be more rewarding than it looks.■
 
 Correction (June 4th, 2020): The original version of this article described Erin O'Toole as a former air-force helicopter pilot. This has been corrected.
+
+## URL
+
+https://www.economist.com/the-americas/2020/06/06/canadas-conservative-contenders

@@ -27,3 +27,7 @@ Nonetheless, Chesapeake’s legacy leaves plenty to marvel at. It played a role 
 Ironically, the recent collapse in American oil production will curb associated-gas supply, potentially supporting natural-gas prices. Moreover, the coronavirus crisis may well lead to further bankruptcies and more consolidation in the shale industry, which could put assets into the hands of big firms with stronger balance-sheets, boosting profitability.
 
 The romance of the early wildcatters and landmen will be gone. The revolutionaries will be replaced by bureaucrats. The over-exuberant and undercapitalised industry’s financial discipline will improve. But especially in these troubled times, spare a thought for Chesapeake. Until it got the better of the company, its hubris helped change the world. ■
+
+## URL
+
+https://www.economist.com/business/2020/07/02/how-chesapeake-energy-changed-the-world

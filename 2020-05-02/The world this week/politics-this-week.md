@@ -49,3 +49,7 @@ In Wuhan officials said no more patients with the disease were being treated in 
 Australia called for an international inquiry into the origins of the disease. China warned it not to.
 
 Boris Johnson returned to work, three weeks after being admitted to intensive care and a period of convalescence. The British prime minister’s fiancée gave birth to a son.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/05/02/politics-this-week

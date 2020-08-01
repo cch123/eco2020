@@ -25,3 +25,7 @@ The day before his voluntary extradition from Colombia, General Alcalá publicly
 The farce is such a godsend to Mr Maduro that many Venezuelans no doubt suspect him of having somehow connived in it. In other areas, his regime is in trouble. The price of oil, Venezuela’s main export, has plunged. Mismanagement, plus American sanctions, have led to fuel shortages. The pandemic has cut remittances from Venezuelans abroad. (It has also eased fuel shortages by reducing traffic.)
 
 Thanks to Operation Gideon, the opposition, fractured at the best of times, is in no shape to take advantage of Mr Maduro’s weakness. Moderates may distance themselves from Mr Guaidó. International support may flag. The raid provoked much mockery, but Carmen, a shopkeeper in Caracas whose three children emigrated last year, has a wiser response: “This is a tragedy without end.”■
+
+## URL
+
+https://www.economist.com/the-americas/2020/05/14/nicolas-maduro-celebrates-a-farcical-attempt-to-remove-him-from-power

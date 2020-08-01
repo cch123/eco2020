@@ -21,3 +21,7 @@ The second factor is the rise of online shopping, whose growth has taken its tol
 As high-street chains collapse into administration or close stores en masse and shoppers move online, retail space is increasingly being used for socialising. This doesn’t just prop rents up: it also benefits an area by encouraging shoppers to linger. For games operators, the glut of floor space and cheap rents in areas of high footfall is perfect. “Everything has changed from five years ago,” says Ben Hodges, co-founder of the Crystal Maze live experience. “It feels like the stars are aligning.”
 
 The sector’s rapid growth has not gone unnoticed. Merlin and Centre Parcs, two of the country’s largest leisure operators, have added escape rooms to their offerings, while private-equity firms are snapping up stakes in the industry’s hottest prospects. Puttshack, a tech-infused golf outfit with four venues, attracted £30m from investors and talks of opening another 64 venues by 2024. Flight Club, which offers “darts for the 21st century” (much the same as the old-fashioned variety, but with electronic boards that do the maths for you), received a £15m investment in 2018 and has expanded to eight locations in Britain and America. High-street landlords should embrace the axe-throwers, or prepare for the chopping block.
+
+## URL
+
+https://www.economist.com/britain/2020/03/05/a-new-role-for-britains-high-streets

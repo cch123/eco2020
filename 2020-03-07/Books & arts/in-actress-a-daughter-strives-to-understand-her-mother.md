@@ -19,3 +19,7 @@ Norah hopes to better understand their relationship, as well as to answer more d
 “Actress” is a poignant tale of the vicissitudes of fame and its effects on the loved ones of the famous. In good times Katherine revelled in adoration, raucous parties and shopping trips to Fifth Avenue; when they were bad, she suffered bouts of depression. Money ebbed and flowed. As she aged she became unable to find decent roles. She thrived on public attention but Norah was her most constant companion. “No one liked her for herself, she said, which was a little bit paranoid and a little bit true.”
 
 Ms Enright’s story of the abuses reserved for young female stars is timely; her observations on the strains of mother-daughter relationships are shrewd. But it is in rendering the less glamorous sides of show business that her writing is at its most memorable. Norah recalls watching her mother perform from the wings, aged only four or five. What seems magical is, up close, cheap and horrid. “The sparkles on her gown were, in fact, plastic bits stuck on flesh-coloured net that creased, as she bent over me, like a second, loose skin.”
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/03/05/in-actress-a-daughter-strives-to-understand-her-mother

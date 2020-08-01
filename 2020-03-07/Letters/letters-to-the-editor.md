@@ -65,3 +65,7 @@ PASCAL LECCIASingapore
 Norwegians yearning to be green while continuing to owe their wealth to fossil fuels (“[Ecowarriors bankrolled by oil](https://www.economist.com//europe/2020/02/08/why-every-norwegian-ecowarrior-has-200000-petrodollars)”, February 8th) reminded me of the infamous adage among drug-dealers: don’t get high on your own supply.
 
 MICHAEL URBICHZug, Switzerland
+
+## URL
+
+https://www.economist.com/letters/2020/03/07/letters-to-the-editor

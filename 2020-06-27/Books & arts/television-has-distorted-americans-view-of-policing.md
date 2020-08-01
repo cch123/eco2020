@@ -31,3 +31,7 @@ How can TV reflect that mood? Jason Mittell of Middlebury College suggests a ser
 A more realistic show might be less frenetic. “The constant running and chasing cars—that’s not what policing is like,” says Ronal Serpas, a former police chief of New Orleans now at Loyola University. He notes that most cops never fire their gun on duty. They are more likely to answer house alarms and attend to neighbourhood spats.
 
 Broadcasters will not entirely ditch a formula that has proved so successful. But they may have more appetite for dramas that focus on the policed, such as “When They See Us”, a recent Netflix series about black and Latino teenagers wrongfully convicted of raping a jogger in Central Park in 1989. Savvier viewers will want more stories that reflect reality better, predicts Mr Thomas of “S.W.A.T.”. “The public is ready for a more nuanced conversation.” ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/06/25/television-has-distorted-americans-view-of-policing

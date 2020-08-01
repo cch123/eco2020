@@ -69,3 +69,7 @@ But such outbreaks are being exploited by politicians. On June 29th the leader o
 Such patterns have laid bare one of the gnarliest problems facing all governments. Convincing people to change their behaviour in the ways needed to prevent new waves of covid-19 will rely on people worrying about others as well as themselves. In most places the disease has become one that threatens the elderly, the poor and marginalised minorities. But beating back a virus that has spread around the world with such ferocity will be impossible unless most people play by the rules of the new normal. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/international/2020/07/04/covid-19-is-here-to-stay-the-world-is-working-out-how-to-live-with-it

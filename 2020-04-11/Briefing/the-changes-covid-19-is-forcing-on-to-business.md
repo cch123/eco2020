@@ -67,3 +67,7 @@ But though innovative businesses may face challenges in the post-covid world, th
 Mr Lesser recalls the anxiety he used to feel walking through Grand Central Station after September 11th 2001. He would look at the throngs and queues for coffee and quicken his step at the thought of another catastrophic attack. Eventually, though, that fear subsided and the cavernous space regained its appeal. This, too, shall pass. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/briefing/2020/04/11/the-changes-covid-19-is-forcing-on-to-business

@@ -23,3 +23,7 @@ Sadly, policy has been going in the opposite direction. Since 2017 America has h
 The world would be served by a clear account of how the virus made its way from bats to humans. Without one, conspiracy theories will flourish, jeopardising sensible scientific discovery. What is needed is rationality, co-operation and full transparency from all countries. Right now the world is getting the opposite.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/leaders/2020/05/02/where-did-the-novel-coronavirus-come-from

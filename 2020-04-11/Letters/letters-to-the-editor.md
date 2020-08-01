@@ -59,3 +59,7 @@ Thank you for the email update to subscribers about your [covid-19 coverage](htt
 MICHEL PAOLETTITahiti
 
 Editor’s note: We invite our readers to share their experiences of covid-19, by writing to letters@economist.com. We will choose a selection of the most interesting for publication in print and online.
+
+## URL
+
+https://www.economist.com/letters/2020/04/08/letters-to-the-editor

@@ -75,3 +75,7 @@ Axel Weber, chairman of UBS, sees that change in truly cosmic terms: “We need 
 Such calculations hint at a powerful future for finance, not as a driver of climate action, but as its enabler, making it more flexible and better able to tap insights and capital from investors around the world. If that also helps the financial firms doing the legwork, that will be all to the good. And if it shows up some of today’s green financing attempts as window dressing and marketing wheezes, that will be good, too. ■
 
 Sign up to our fortnightly climate-change newsletter [here](https://www.economist.com//theclimateissue/)
+
+## URL
+
+https://www.economist.com/briefing/2020/06/20/how-much-can-financiers-do-about-climate-change

@@ -31,3 +31,7 @@ A reduction in the supply of secure, full-paid jobs may coincide with an increas
 Employees may be used to hearing that “we are all in the same boat”. But this crisis is cementing a class system aboard corporate vessels. The managers have the first-class cabins and core workers get en-suite accommodation but the freelancers and contractors are clinging unsteadily to the lifeboats.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/04/11/the-pandemic-may-exacerbate-the-divide-among-workers

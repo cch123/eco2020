@@ -23,3 +23,7 @@ Low-paid folk have lately done fairly well out of America’s labour market. Sin
 Vermont’s minimum wage rises have affected relatively few people, however. And the state lacks blue-collar workers. Highly educated but not high-income, it is often seen as a destination for hippies trying to get away from it all. Montpelier, the capital, is bursting with hot-yoga studios and shops selling “Eat More Kale” T-shirts. Production of more traditional types of energy is scarce. In 2014 a big nuclear plant closed. And the state produces no oil.
 
 Could its wage growth pick up? If the jobless rate continues to fall, complaints about labour shortages are likely to get louder. Activists are pushing for faster increases in the minimum wage. But Vermont is ageing rapidly. Meanwhile, one of its big industries, education, faces growing competition from other states. Like an enthusiastic yogi, Vermont’s wages could stay floorbound for some time.■
+
+## URL
+
+https://www.economist.com/united-states/2020/01/30/as-wages-grow-across-america-one-state-is-left-behind

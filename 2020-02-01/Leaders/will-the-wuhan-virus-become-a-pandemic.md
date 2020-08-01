@@ -29,3 +29,7 @@ Outside China such quarantines are unthinkable. The medical and economic cost wi
 Despite all those efforts the epidemic could still be severe. Some health systems, in Africa and the slums of Asia’s vast cities, will not be able to isolate patients and trace contacts. Much depends on whether people are infectious when their symptoms are mild (or before they show any at all, as some reports suggest), because such people are hard to spot. And also on whether the virus mutates to become more transmissible or lethal.
 
 The world has never responded as rapidly to a disease as it has to 2019-nCoV. Even so, the virus may still do great harm. As humans encroach on new habitats, farm more animals, gather in cities, travel and warm the planet, new diseases will become more common. One estimate puts their cost at $60bn a year. SARS, MERS, Nipah, Zika, Mexican swine flu: the fever from Wuhan is the latest of a bad bunch. It will not be the last. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/01/30/will-the-wuhan-virus-become-a-pandemic

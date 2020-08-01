@@ -27,3 +27,7 @@ If China’s economy slumps further in response, it could exert a deflationary p
 For policymakers beset by unknowns, both overreaction and underreaction present serious risks. The time to build more resilience into production chains and financial systems has sadly passed. Perhaps the most important lesson of the 1970s is one the world ought to have appreciated before the arrival of the epidemic—shocks happen, and can transform well-worn economic terrain into something less familiar with frightening speed. ■
 
 Read more of our coverage of the covid-19 outbreak:[Experts predict that covid-19 will spread more widely (February 22nd)](https://www.economist.com//international/2020/02/22/experts-predict-that-covid-19-will-spread-more-widely)[In China, newly confirmed cases of coronavirus infection are falling (February 20th)](https://www.economist.com//china/2020/02/22/in-china-newly-confirmed-cases-of-coronavirus-infection-are-falling)[How China’s coronavirus epidemic could hurt the world economy (February 13th)](https://www.economist.com//leaders/2020/02/15/how-chinas-coronavirus-epidemic-could-hurt-the-world-economy)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/02/22/covid-19-presents-economic-policymakers-with-a-new-sort-of-threat

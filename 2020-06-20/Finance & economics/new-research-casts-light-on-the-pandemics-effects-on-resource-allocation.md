@@ -21,3 +21,7 @@ The authors extend their analysis back in time and come to the rather striking c
 If in fact covid-19 is engineering structural economic change, this complicates the already difficult decision of whether or not to keep struggling companies and jobs afloat. Compared with the rest of the rich world, America appears to have done less to freeze its economy in place. The number of corporate filings for bankruptcy in March and April was 22% above that in the same period in 2019; by contrast, bankruptcy filings in Germany were no higher. Unlike other rich countries, America has prioritised temporarily increasing the generosity of unemployment benefits (until the end of July) over using government support to help prevent job losses in the first place. Unemployment has consequently risen much more than it has in Europe.
 
 The choice ahead is tricky. Messrs Barrero, Bloom and Davis warn that generous support could prove counterproductive, since it might discourage workers from seeking new jobs in expanding sectors. But withdraw stimulus too soon and the economy could remain mired in a slump, retarding the growth of frontier industries. Keep it going for just long enough, though, and the decision to allow the pandemic to destroy some jobs and companies, the better to let more robust and productive ones rise in their place, might one day be seen as remarkably fortuitous. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/06/18/new-research-casts-light-on-the-pandemics-effects-on-resource-allocation

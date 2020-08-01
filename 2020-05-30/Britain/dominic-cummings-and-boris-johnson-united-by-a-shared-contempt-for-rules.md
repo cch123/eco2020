@@ -29,3 +29,7 @@ Mr Johnson shares Mr Cummings’s enthusiasm for great men who are willing to ma
 One of the problems with this vision is that it is hard to reconcile with the humdrum work of running a government. A willingness to break rules may serve you when you’re trying to up-end the old order but it becomes a problem when you’re trying to administer a new one. This is particularly true if you’re engaged in a fight against a plague that demands everybody should obey the same rules, regardless of whether or not they are “the kind of effective genius that gets into the biographical dictionaries”. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/05/28/dominic-cummings-and-boris-johnson-united-by-a-shared-contempt-for-rules

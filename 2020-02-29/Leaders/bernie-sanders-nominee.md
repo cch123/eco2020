@@ -31,3 +31,7 @@ The mainstream three-quarters of Democrats have begun to tell themselves that Mr
 If Mr Sanders becomes the Democratic nominee, America will have to choose in November between a corrupt, divisive, right-wing populist, who scorns the rule of law and the constitution, and a sanctimonious, divisive, left-wing populist, who blames a cabal of billionaires and businesses for everything that is wrong with the world. All this when the country is as peaceful and prosperous as at any time in its history. It is hard to think of a worse choice. Wake up, America! ■
 
 Dig deeper:Sign up and listen to Checks and Balance, our new [newsletter](https://www.economist.com//checksandbalance/) and [podcast](https://www.economist.com//podcasts/2020/04/24/checks-and-balance-our-weekly-podcast-on-american-politics) on American politics
+
+## URL
+
+https://www.economist.com/leaders/2020/02/27/bernie-sanders-nominee

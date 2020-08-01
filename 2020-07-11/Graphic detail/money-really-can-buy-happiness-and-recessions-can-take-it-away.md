@@ -19,3 +19,7 @@ Studies of the previous global recession in 2009 suggest that economic hardship 
 Covid-19 will allow economists to probe this pattern further. The IMF’s latest forecast points to a fall in global GDP, weighted by purchasing-power parity, of 4.9% this year. If past recessions are any guide, the severe shock will have long-lasting effects. Economies will eventually grow larger than they were before the pandemic, but will be less rich than they would have been otherwise. The virus’s human toll is therefore vast in terms of deaths and dollars. But given the correlation between GDP per person and Gallup’s measures of well-being, it may have an enduring impact on the world’s quality of life too. ■
 
 Sources: Gallup; World Bank; World Happiness Report 
+
+## URL
+
+https://www.economist.com/graphic-detail/2020/07/11/money-really-can-buy-happiness-and-recessions-can-take-it-away

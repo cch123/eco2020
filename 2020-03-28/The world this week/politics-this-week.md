@@ -49,3 +49,7 @@ Amid a wave of panic-buying, the British government urged shoppers to behave res
 Mississippi followed Texas and Ohio in classifying abortions as non-essential medical procedures during the crisis. 
 
 Among those testing positive for covid-19 were Prince Charles and Rand Paul, a Republican senator. Angela Merkel went into self isolation after her doctor tested positive.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/03/26/politics-this-week

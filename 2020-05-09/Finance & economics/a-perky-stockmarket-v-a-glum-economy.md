@@ -21,3 +21,7 @@ So why has the stockmarket rallied so hard? In part this reflects the Federal Re
 The pattern of share-price changes is revealing. America’s have risen faster than Europe’s. The industry make-up of each market explains much of this. Europe’s bourses are weighed down by cyclical industries—banks, carmakers and energy companies. America’s has a bigger tilt toward technology companies, the relative winners of the covid-19 crash. The five largest tech stocks continue to be market darlings (chart 5). Healthcare stocks and consumer staples have also proved resilient (chart 6). Investors are not looking much beyond stocks they judge to be recession-proof. The market’s recent “V” is not for victory.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/05/07/a-perky-stockmarket-v-a-glum-economy

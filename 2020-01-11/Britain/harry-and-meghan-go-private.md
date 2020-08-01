@@ -19,3 +19,7 @@ This separation has the advantage of strategic clarity, and is likely to unlock 
 Exactly how the new entity will generate revenues to finance itself and the “charitable foundation” that it plans to launch is unclear. The couple have said they will forgo money from the Sovereign Grant, through which the government pays for the royals, though not whether they are also planning to do without the cross-subsidy they get from Charles. Harry has only modest startup capital—mostly his inheritance from his mother—and his human capital consists of a title, a certain amount of puppyish charm and the ability to fly helicopters. Ms Markle could at least resume her acting career, and would be well-placed to win a part in the next season of “Succession”, an HBO series on the troubled offspring of a manipulative autocrat.
 
 If the spin-off goes well, might other parts of the group make similar moves? Princess Anne’s sporting-lifestyle brand might have potential as a stand-alone entity, particularly after its advantageous product-placement in the latest season of “The Crown”, a Netflix series depicting a fictionalised version of the company’s behind-the-scenes operations. The Wessex, York and Kent brands are not, however, thought to have value.
+
+## URL
+
+https://www.economist.com/britain/2020/01/09/harry-and-meghan-go-private

@@ -21,3 +21,7 @@ At first risk parity fared well during the corona-crisis. Between January 1st an
 With yields on Treasuries still low, proponents of risk parity are on the lookout for other ways to hedge risk. Mr Dalio reckons that government borrowing undertaken to support the economy during the pandemic will stoke inflation, making bonds less attractive to hold. Mr Zervos argues that investment-grade corporate bonds, which offer a return that is around two percentage points higher than government bonds, could be a substitute. The search for a new way to outperform begins.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/04/25/how-risk-parity-investment-strategies-unravelled

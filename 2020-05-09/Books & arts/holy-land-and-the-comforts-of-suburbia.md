@@ -19,3 +19,7 @@ The form of the suburb encourages conformity and repetition. Most streets adhere
 Yet, as in many locked-down homes, the impression of quiet and order is surface deep. The community relies on deep aquifers, but the rocks could also transmit terrible seismic shocks to the surface. During the second world war the nearby aircraft factory was disguised to look like a suburb: had the enemy bombers come, Lakewood could have been accidentally wiped out. The buyer of one house discovers that the previous owner had excavated a large air-raid shelter underneath his garage.
 
 Above all, residents feel the presence of God. The developers boasted of Lakewood’s many churches, and funded a synagogue after the ban on Jews was lifted. Mr Waldie’s father, who had briefly joined a religious order, knows the Catholic liturgy so well that he teaches newly ordained priests. As a boy, Mr Waldie carried the crucifix in his church on Good Friday, wiping lipstick off Jesus’s feet. In the book of Revelation, the city of God is perfectly square. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/05/09/holy-land-and-the-comforts-of-suburbia

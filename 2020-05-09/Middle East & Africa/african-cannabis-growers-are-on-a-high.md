@@ -21,3 +21,7 @@ Reform has been a long battle. Boniface Kadzamira, a Malawian politician, says t
 The policy shift follows liberalisation in rich countries, which has created a fast-growing market for cannabis products. African firms can be low-cost suppliers to the world, says John Kagia of New Frontier Data, a research firm. In southern Africa cannabis could fill the export gap left by the decline of tobacco. But expensive licences and strict standards shut many local businesses out of the medicinal market. Industrial hemp, by contrast, has lower barriers to entry. Mr Agyemang is registering Ghanaian farmers, some of whom were already growing dope.
 
 Recreational smokers will have to wait. About a quarter of the world’s cannabis users are African (strains such as Malawi Gold are puffed the world over). But only in South Africa, where a court ruled that prohibition violated the right to privacy, is it legal to light up on the continent. Full liberalisation remains a pipe-dream. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/05/07/african-cannabis-growers-are-on-a-high

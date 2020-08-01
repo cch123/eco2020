@@ -19,3 +19,7 @@ Even novices are getting in on the action. In April the authorities allowed Iran
 Iran’s leaders encourage the activity, anxious to sustain hope in an otherwise dire situation. They also see an opportunity to raise state revenues hit hard by sanctions. The government recently listed an exchange-traded fund with government stakes in banks and financial institutions and may soon do the same with its mining, steel and petrochemical holdings. (None of this actually improves the companies, mind.)
 
 Hassan Rouhani, the president, sees the boom as a matter of national pride. “As Iran’s bourse has developed, [our enemies] become nervous,” he says. But experienced investors and even some officials worry about a bubble that could burst and lead to unrest. Mr Wojtal sold half his holdings in March.
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/05/21/why-iran-has-the-worlds-best-performing-stockmarket

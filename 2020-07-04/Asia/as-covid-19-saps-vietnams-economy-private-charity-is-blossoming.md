@@ -23,3 +23,7 @@ At the same time the government approved a 62trn dong ($2.6bn) scheme to help th
 All this may help explain the government’s surprising embrace of private charity, not something people are supposed to need in a proletarian paradise. Large-scale philanthropy is rare in Vietnam, says Danielle Labbé of the University of Montreal, but it is a country where “good ideas replicate quickly.” The theatre of the machines, abetted by favourable press coverage, seems to be an effective way to drum up donations. But one beneficiary waiting to make a withdrawal has an idea of her own. “This is really time-consuming. Why don’t they just put the rice in bags and give it to us straight away?” ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/asia/2020/07/02/as-covid-19-saps-vietnams-economy-private-charity-is-blossoming

@@ -23,3 +23,7 @@ The current leaders seem sincere in wanting to help. In an open letter to victim
 But the organisation has known about abuse going back nearly a century, even creating an internal secret file called “P” (for perversion), to track leaders and volunteers accused of child sexual abuse. In 1935 the then head of the BSA told the New York Times that almost 1,000 men had been removed from Scouting because they “sometimes give way to temptation”.
 
 Chapter 11 will allow the BSA to put money for victims into a shared pot so that everyone receives compensation, according to Marie Reilly, a law professor at Pennsylvania State University. Still, some of the abuse survivors are upset about the bankruptcy filing. A lawsuit was their chance to speak. “I’ve been silent for 50 years,” says Mr Morse. “The bankruptcy is just their get-out-of-jail-free card.”■
+
+## URL
+
+https://www.economist.com/united-states/2020/02/20/the-boy-scouts-of-america-files-for-bankruptcy-amid-child-abuse-lawsuits

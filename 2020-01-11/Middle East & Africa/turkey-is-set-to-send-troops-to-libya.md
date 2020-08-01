@@ -29,3 +29,7 @@ A Turkish deployment could also provoke the UAE and Egypt, which provide Mr Haft
 The best outcome Turkey can expect may be a stalemate that leads to new peace talks. (Though Turkey and Russia seem to be working apart from European peace efforts.) Turkey’s higher hope is that General Haftar’s coalition unravels. Getting Russia’s agreement is crucial, says Tarek Megerisi of the European Council on Foreign Relations, a think-tank in London. Mr Haftar has wooed Russia with promises of infrastructure and energy contracts. If Turkey can persuade the GNA to make Mr Putin a similar offer and frustrate Mr Haftar’s advance, Russia may be tempted to switch sides or stand down.
 
 Russia entered the fray in Libya much later than Egypt or the UAE, but it is the only side with which Turkey can hammer out a solution, says Emadeddin Badi, a Libyan scholar at the Washington-based Middle East Institute. “Whether Turkey’s gambit in Libya works out,” he says, “depends on how it deals with the Russians.” ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/01/11/turkey-is-set-to-send-troops-to-libya

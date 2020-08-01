@@ -23,3 +23,7 @@ Drone airmail remains fledgling. Matternet, an American firm, operates a limited
 At least more regulators are getting on board. After much wavering, Ontario’s have at last allowed a local firm, Drone Delivery Canada, to supply a remote indigenous group called Beausoleil, fearful of lorry drivers bringing in the coronavirus. Flights are to begin in July.■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/07/04/the-pandemic-is-giving-unmanned-deliveries-a-fillip

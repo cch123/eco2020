@@ -23,3 +23,7 @@ Although Bordeaux is abundant—the biggest names make up to 200,000 bottles a y
 Since 2015 en primeur prices have gone up by 24% with each good crop. But a run of fine vintages also created a glut in négociants’ cellars which they have struggled to offload at a reasonable mark-up. Between 2011 and 2018 they went from 239 days of inventory on average to 313 days; their net debt as a share of equity rose from 58% to 92%. “When intermediaries make a low margin, they’re not interested in distributing your wine,” says Stéphanie de Boüard-Rivoal of the Angélus estate.
 
 So the case for a price cut by the estates was strong, and bolstered further by a new 25% American tariff on European wine. Except that discounting the 2019s would have left négociants and investors who ponied up last year feeling bitter. Covid-19 provided the perfect pretext. Saskia de Rothschild of Lafite Rothschild, the priciest big producer, speaks of “a good opportunity to reshuffle the cards”. Having reset the system, most estates have also cut the amount they offer en primeur, to avert another glut. Just as well, for 2020 is shaping up to be yet another fine vintage in Bordeaux. ■
+
+## URL
+
+https://www.economist.com/business/2020/06/27/why-covid-19-is-good-for-bordeaux-wines

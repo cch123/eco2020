@@ -65,3 +65,7 @@ Measuring prejudice is hard. Racist attitudes have been socially unacceptable ne
 Ethnic profiling by police is illegal in most countries, but common. Members of minorities (especially young men) are routinely frisked and asked for identification when out in public. In private, many police admit to taking account of race when deciding whom to stop, noting that some groups, for a variety of reasons, commit more crimes than others. Such profiling makes life much harder for those who happen to belong to those groups, the vast majority of whom are law-abiding.
 
 Many people do not care. Brazilians knew what to expect when they elected Mr Bolsonaro. Two-thirds of Germans think racial profiling is an acceptable tool of policing, according to a poll in 2017 by YouGov. “The worst thing about it,” says Sony Kapoor, an Indian-born Briton who lives in Norway, “is the smugness of Europeans who think they don’t harbour the same sort of racism as Americans.” ■
+
+## URL
+
+https://www.economist.com/international/2020/06/11/the-killing-of-george-floyd-has-sparked-global-soul-searching

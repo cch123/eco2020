@@ -47,3 +47,7 @@ Even on its own, misoprostol is effective in around 85% of cases, and it is far 
 For 90m women in 26 countries abortion is still banned under all circumstances. In El Salvador women have been jailed after having miscarriages. Donald Trump’s administration is trying to extend its global “gag rule”, which bans government aid to foreign non-governmental organisations that “actively promote” abortion, by demanding that all UN aid meets the same criteria. Some American states, along with the Food and Drug Administration, are going after the providers and users of abortion pills.
 
 “Ultimately, what are they going to do? Stop every package? Shut down the internet?” wonders Dr Aiken in a soft Irish-Texan accent. The practice has become too widespread to stop, she says. A recent survey found that nearly a third of patients at three Texan clinics already knew about self-managed abortion with pills. As she learned in Ireland, when governments introduce unreasonable laws and barriers, “you merely drive people to find ever more creative solutions.” Those solutions are, at least, becoming safer.■
+
+## URL
+
+https://www.economist.com/international/2020/03/05/abortions-are-becoming-safer-and-easier-to-obtain-even-where-they-are-illegal

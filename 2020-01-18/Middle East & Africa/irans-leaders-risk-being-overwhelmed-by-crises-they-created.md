@@ -31,3 +31,7 @@ For Iran, the status quo is untenable. But with his nuclear deal in tatters, his
 For his part, Mr Khamenei has not apologised for the plane crash, perhaps fearing it would show weakness. On January 17th he is due to lead Friday prayers in Tehran for the first time in eight years. Expect his message to be uncompromising. He is likely to endorse the IRGC and warn that protesters will be treated as traitors.
 
 Mr Khamenei may count on outlasting Mr Trump, who faces an election in November. In the meantime, he will rely on the IRGC and the clergy to smother dissent. The Council of Guardians, an appointed group of clerics and Islamic jurists, has barred 90 MPs, nearly a third of the parliament, from running for re-election next month. Most are moderates. In the words of one Iranian analyst, Iran’s clerics learnt from the shah’s downfall in the Islamic revolution of 1979 that a regime weakens itself when it starts to reform. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/01/16/irans-leaders-risk-being-overwhelmed-by-crises-they-created

@@ -21,3 +21,7 @@ As they examine how Mr Baumgartner and others reverse morbid patterns of thought
 A few of the authors’ tips are bland: keep to a minimum your dealings with any colleague who is clearly a bad apple, “make time for nostalgia” and in dark moments try repeating the analgesic phrase, “This too shall pass.” More often, though, their tone is challenging. They believe that higher education, after decades of enfeeblement by exaggerated anxieties about student well-being, should embrace a policy of “less carrot and more stick”. Public debate, they argue, tends to be shaped by people whose livelihood depends on amplifying the chances of catastrophe. Thus the commentariat offers rivetingly grim pieces about the risks of opioid pain-relievers, but fails to acknowledge their benefits.
 
 At times, such judgments on supposedly overblown negativity may strike readers as a touch blasé (the authors reckon a patient’s risk of addiction to opioids is “probably less than one or two percent”). The pair are at their most bracing when, instead of lambasting the doomsayers, they extol “the upside of bad” and the power of negative experiences “to sharpen the mind and energise the will”. It has to be said, though, that some of those upsides come with titanic quantities of downside. At one point, they approvingly cite Samuel Johnson’s macabre observation that “when a man knows he is to be hanged in a fortnight, it concentrates his mind wonderfully.” ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/01/11/it-takes-four-good-things-to-overcome-one-bad-thing

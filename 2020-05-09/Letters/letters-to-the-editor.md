@@ -59,3 +59,7 @@ ROBERT DRAPERRhode St Genese, Belgium
 The WHO’s marker of “people who have recovered from covid-19” seems awkward and long. How about “covidian”?
 
 CHARLES HITSCHFELDEdmonton, Canada
+
+## URL
+
+https://www.economist.com/letters/2020/05/09/letters-to-the-editor

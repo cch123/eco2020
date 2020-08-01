@@ -19,3 +19,7 @@ Purveyors of services beyond aviation and accommodation depend on it. Chinese to
 Gloria Guevara of the World Travel and Tourism Council, a trade body, says Chinese may feel a whiff of stigmatisation thanks to the pandemic. “I think the Chinese will continue to travel and will travel internationally at the right time [but] at the beginning will want to travel to countries where they feel more welcome.” Alternatively, once the virus has largely been eradicated at home, Chinese tourists may decide that they are less keen to visit places where the contagion may still be lurking.
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/international/2020/05/28/how-china-emerges-from-lockdown-will-affect-global-tourism

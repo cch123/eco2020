@@ -25,3 +25,7 @@ The most persuasive justification for all this is that hard borders may allow po
 A tough border is something with which all European leaders agree. What happens if people breach it is another matter. Reforms to EU laws on how to share responsibility for asylum-seekers and irregular migrants have made little progress in four years. If Greece fails to control the situation, as in 2015 and 2016, things could turn ugly quickly. Other EU countries would have few qualms about pushing on with plans for a much smaller Schengen area, consisting mainly of rich, prosperous countries in the bloc’s north, far from awkward external borders. A renewed crisis would potentially be even more bitter than the first. Keeping people out by any means necessary keeps this existential problem for the EU at bay.
 
 In 2015 Jean-Claude Juncker, then president of the commission, declared that Europe was “the baker in [the Greek island of] Kos who gives away his bread to hungry and weary souls”. In 2020 Europe is the Greek ship attempting to capsize a dinghy full of people. It is an ugly situation, which undermines the EU’s pretensions to moral leadership. But to avoid another refugee crisis, this is a price the EU’s leaders seem willing to pay. ■
+
+## URL
+
+https://www.economist.com/europe/2020/03/12/europe-hopes-brutality-at-the-border-will-keep-refugees-away

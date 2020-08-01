@@ -33,3 +33,7 @@ His more modest achievement is to have focused and energised that base on a set 
 The hard-left does not feel beaten: it never will. Yet with Mr Trump in its sights, it seems to be making its peace with Mr Biden in a way it never did with Mrs Clinton. That is excellent for Democrats and potentially awful for the president.■
 
 Dig deeper:
+
+## URL
+
+https://www.economist.com/united-states/2020/04/18/bernie-sanderss-endorsement-of-joe-biden-leaves-democrats-in-array

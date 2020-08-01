@@ -39,3 +39,7 @@ For now, raising such fears is taboo among national politicians and at the publi
 Her comments ought to shake the city’s residents out of their complacency. Nor can the prime minister afford to be complacent. If the pandemic is mishandled, even next year may prove too early to hold the games. Party rules dictate that Mr Abe retire by the autumn of 2021—which means he could miss the games he did so much to bring about, just like his grandfather did. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/asia/2020/03/26/covid-19-forces-japan-to-delay-the-olympics

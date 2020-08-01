@@ -25,3 +25,7 @@ In August Clara Kim, senior curator at Tate Modern in London, hopes to reopen �
 In the mid-1990s Mr Jaar began to focus on the Rwanda genocide. Reports about the massacres compelled him to go to the country, he recalls; over several trips, he took thousands of pictures from which he has created installations around the world (see picture). Returning to New York he found some of his own images so shocking that in one work, “Real Pictures 1995”, he entombed the photographs in a series of black boxes, never to be opened.
 
 Later this year Mr Jaar’s Rwandan work will appear at the Zeitz Museum of Contemporary African Art in Cape Town, the first time it has been exhibited in Africa. Audiences will once again be forced to think about, and beneath, scenes they have encountered on television or social media. “I want people to see these images,” Mr Jaar says, “to actually see them, in order to bring them inside in their brain, in their heart, in their soul, to try to understand what’s happening to us.” As Ezra Pound said of literature, Mr Jaar’s art is news that stays news. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/06/18/alfredo-jaar-makes-art-from-the-news

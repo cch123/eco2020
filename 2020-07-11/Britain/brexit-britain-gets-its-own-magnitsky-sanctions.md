@@ -21,3 +21,7 @@ What impact the sanctions will have is debatable. According to Andrew Wood, a fo
 A likelier effect is a further chilling of relations between Britain and Russia, which finds Magnitsky sanctions particularly irksome. (Lifting the American ones was the focus of a pre-election meeting between Russian lobbyists and Donald Trump’s campaign team.) Russia has promised to retaliate. But, as Jamison Firestone, a London-based lawyer who was Magnitsky’s boss in Russia, puts it, “at some point you have to stop worrying about how things go down in Moscow.”■
 
 Editor's note (July 16th 2020): This story has been updated to clarify the status of Magnitsky sanctions under EU law.
+
+## URL
+
+https://www.economist.com/britain/2020/07/11/brexit-britain-gets-its-own-magnitsky-sanctions

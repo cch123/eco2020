@@ -31,3 +31,7 @@ Election years tend to be turbulent for stockmarkets. Over the past century, Ame
 In October Paul Tudor Jones of Tudor Investment, a hedge fund run from Palm Beach, claimed the stockmarket would fall by 25% if Ms Warren were to be elected president. The Wall Street Journal has reported that Bridgewater Associates, the world’s largest hedge fund, has spent $1.5bn on derivatives that will pay out if the S&P 500 falls by March. It is hard to tell much about a fund’s portfolio from a single trade (and Ray Dalio, its founder, denied that the trade is representative)—but that is around when it will become clear who the Democratic nominee is likely to be.
 
 Fears in 2018 for the year ahead proved misplaced. Those for 2020 may be, too. But investors should not bank on it. Only 12 times since 1928 has the S&P 500 posted a better return than it did in 2019. Each time, the following year turned out weaker than the one that came before. More ominously, in four returns were negative. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/01/02/the-causes-of-a-booming-stockmarket-are-unlikely-to-last-through-2020

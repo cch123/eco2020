@@ -19,3 +19,7 @@ Having spent so much money restoring the synagogue, it may seem odd for the gove
 Morocco, another Muslim country, offers an alternative model. Its Jewish community also shrank when the Arab-Israeli conflict was at its peak. But the Jews who remained now practise openly. King Muhammad VI has restored scores of synagogues and regularly hosts the diaspora at festivals where imams and rabbis sing together. Last month he inaugurated a Jewish heritage centre by touching the Torah and praying. “It was a first for a commander of the faithful [the royal title] in Islam,” says Andre Azoulay, the king’s Jewish adviser. ■
 
 Correction (March 20th 2020): This article originally stated that Moses Maimonides founded Orthodox Judaism in Cairo in the 12th century. Maimonides developed principles that have become widely held by Orthodox Jews, but he did not found Orthodox Judaism.
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/02/22/the-egyptian-government-is-sending-jews-mixed-signals

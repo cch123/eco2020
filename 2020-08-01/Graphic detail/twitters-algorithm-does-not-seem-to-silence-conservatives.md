@@ -23,3 +23,7 @@ Twitter might also boost extreme views. Researchers at Indiana University have c
 Our experiment ended when a change in Twitter’s interface broke our bot. The platform also suspended another Trump clone that copied his looting threat. However, if an algorithmic penchant for sensationalism has remained, then Twitter may be amplifying and profiting from misleading tweets, rather than removing them. Its business is serving ads to 330m users, even if that means grabbing their attention by showing them exactly what they want to believe. Flagging a presidential whopper every now and then will not change that. ■
 
 Sources: Twitter; Technology Review; Chen et al. (working paper); The Economist
+
+## URL
+
+https://www.economist.com/graphic-detail/2020/08/01/twitters-algorithm-does-not-seem-to-silence-conservatives

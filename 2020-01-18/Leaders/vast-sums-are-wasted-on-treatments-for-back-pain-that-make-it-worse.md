@@ -21,3 +21,7 @@ For most back pain, the best treatment is non-medical. Do some stretching exerci
 Health systems get back pain wrong for several reasons. People who are in agony unsurprisingly want something to be done about it. It is easier for a doctor to prescribe painkillers, scans or injections than to explain to patients that such treatments are unlikely to work. Doctors and hospitals are often paid more for doing things than for giving advice. In America, Australia and the Netherlands, insurers pay for back operations costing tens of thousands of dollars, but barely cover physiotherapy.
 
 The answer is to educate patients better, so they don’t feel they are being fobbed off when told to do stretching exercises. Doctors need better training, too—back pain gets short shrift in medical curriculums. More research is needed into the effectiveness of surgery. But most of all, governments and insurers need to start paying for the right things. This will be hard. Costly interventions have a powerful lobby, and there is no exercise-industrial complex to counterbalance it. With luck, more effective treatments for back pain may be developed in the coming years. But for now, policymakers should show some spine and turn their backs on treatments that don’t work.■
+
+## URL
+
+https://www.economist.com/leaders/2020/01/16/vast-sums-are-wasted-on-treatments-for-back-pain-that-make-it-worse

@@ -21,3 +21,7 @@ A forthcoming paper from Rob Gillezeau, an economist at the University of Victor
 Some states have begun taking measures to boost police accountability and rein in union power. In late June, Oregon’s legislature passed bills requiring officers to report or prevent misconduct by their colleagues and limiting the ability of arbitrators to overturn disciplinary actions. Connecticut’s legislature plans to pass police-accountability legislation in a special session later this month that may include measures limiting officer indemnification and unions’ ability to negotiate over some disciplinary and oversight measures. Some prominent Democrats in California have asked the party to stop accepting contributions from police unions—a move that would limit the unions’ influence in what is, in effect, a one-party state.
 
 Some unions are dug in for a long fight. But others see that times are changing. Daryl Turner, who heads Oregon’s police-advocacy organisation, recognises that “It’s important to evolve in policing...with the needs of your community and the nation.” Three large police unions in California have called for reforms including a national use-of-force standard and database of officers fired for gross misconduct—though of course those reforms would not curb their collective-bargaining power. ■
+
+## URL
+
+https://www.economist.com/united-states/2020/07/09/reining-in-police-unions-power-in-america

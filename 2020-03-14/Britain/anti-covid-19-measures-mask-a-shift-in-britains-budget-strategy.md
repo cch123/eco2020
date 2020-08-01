@@ -27,3 +27,7 @@ Whether these measures will prove sufficient will depend as much on epidemiology
 For the past decade British fiscal policy has aimed at reducing the ratio of public debt to GDP over the medium term. This target has been quietly dumped in favour of stabilising the debt ratios. Such a long-term shift in policy may ultimately matter more than any emergency medicine.■
 
 Dig deeper:
+
+## URL
+
+https://www.economist.com/britain/2020/03/12/anti-covid-19-measures-mask-a-shift-in-britains-budget-strategy

@@ -33,3 +33,7 @@ China’s progress on intellectual property (see chart) is not proving enough fo
 The obsessive focus on the handling of IP in China also misses the bigger picture. Access to intellectual property is just one aspect of successful technology development. Mr Li’s valuable IP is sensitive because his design is simple and does not require a complex supply chain to produce (though being right next to the LED factories of Shenzhen has certainly been an advantage). His patent portfolio is the biggest edge he has.
 
 In the case of more complex technologies like vehicles, nuclear plants or semiconductors, other factors matter more—relationships with suppliers, access to affordable labour, the know-how to use the IP at all. As the West grapples with China’s technological rise, it should remember that it holds great power in these less tangible areas beyond IP, areas from which it is hard to pilfer.■
+
+## URL
+
+https://www.economist.com/technology-quarterly/2020/01/02/chinese-inventiveness-shows-the-weakness-of-the-law

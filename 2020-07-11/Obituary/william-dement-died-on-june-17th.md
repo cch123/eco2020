@@ -27,3 +27,7 @@ So what did he advise himself to ensure blissful slumber? His several books and 
 He hoped, however, that people would determine their own sleep requirement and best practice. His was relaxed. He loved to watch favourite films again, especially “Lilies of the Field”, even if he already knew that the nuns would make Sidney Poitier build them that church; or read favourite books again, in his case the detective stories of Rex Stout, even if he already knew how every single one turned out. Re-runs of the sit-com “Everybody Loves Raymond” sent him off with wonderful ease. So much for no screens before bed. He drifted away by 10pm or so and was up by 5am, bright-eyed and bushy-tailed, with not a trace of sleep-debt.
 
 Almost inevitably, he died in his sleep. What transformations he might have discovered then, after that first so-simple and daily one, it would have been nice to know. ■
+
+## URL
+
+https://www.economist.com/obituary/2020/07/09/william-dement-died-on-june-17th

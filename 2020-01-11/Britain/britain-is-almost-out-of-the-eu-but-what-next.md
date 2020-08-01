@@ -29,3 +29,7 @@ Some ministers suggest putting more pressure on Brussels by opening trade talks 
 The conclusion is that, if Mr Johnson refuses to move on the transition deadline or on regulatory divergence, he will get only a bare-bones deal eliminating tariffs, but not regulatory barriers, for goods. This might be expanded in future negotiations, but only after a break in today’s close relationship. The alternative would be to leave on December 31st with no trade deal at all, but that would imply not just regulatory barriers but tariffs and quotas as well.
 
 The industries that will suffer most from new regulatory barriers to frictionless trade are those like aerospace, cars, chemicals, food and drink, and pharmaceuticals that rely on uninterrupted supply chains across Europe. They are concentrated in the midlands and north—exactly where Mr Johnson won his new Tory majority. If his weakness in the negotiations causes him to lose favour in those areas, his new domestic strength will be at risk.■
+
+## URL
+
+https://www.economist.com/britain/2020/01/11/britain-is-almost-out-of-the-eu-but-what-next

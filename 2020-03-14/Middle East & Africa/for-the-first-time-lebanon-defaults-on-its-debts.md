@@ -35,3 +35,7 @@ With money scarce, the economy is frozen. Even before the crisis, unemployment w
 No one is lining up to help Lebanon: neither its Western partners nor the Gulf states that have bailed it out in the past. It will probably have no choice but to seek an IMF loan. The fund will insist on painful reforms. There is already talk of raising the value-added tax and fuel prices. Lebanon will also have to find a new economic model. Mr Diab rightly points out that it is a rentier state, too reliant on finance and inflows from a sprawling diaspora. “We don’t need a banking sector four times the size of our economy,” he said. Last year Lebanon exported just $3.7bn-worth of goods.
 
 Though it will never be an industrial powerhouse, businessmen point to opportunities for growth. With an educated, multilingual workforce, Lebanon could be a hub for tech companies and high-end manufacturing. Agriculture has room to grow. So does tourism, which already contributes 19% of GDP. All these, however, need big investment in new infrastructure. Electricity is spotty, internet speeds are glacial and roads are clogged. The country’s natural beauty has been spoiled by heedless development. But the coffers are bare. Restructuring the debt will be easier than restructuring a country blighted by decades of bad government. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/03/12/for-the-first-time-lebanon-defaults-on-its-debts

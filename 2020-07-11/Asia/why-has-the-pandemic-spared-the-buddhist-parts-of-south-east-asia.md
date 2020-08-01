@@ -25,3 +25,7 @@ One widespread suspicion is that they did, but these were not reported. Testing 
 Even the poorest countries adopted measures that must have helped check the spread of the coronavirus. Thitinan Pongsudhirak of Chulalongkorn University in Bangkok reports that migrant workers returning from Thailand to their villages in Myanmar often had to quarantine for 14 days in a shack outside their village. Other factors that may have helped, say health experts, include high numbers of people living in the countryside rather than in crowded cities; people more likely to live with fans and open windows than air-conditioning; the relative youth of the region; and a pre-existing proclivity for masks. There may be a religious element, too. The wai, a Buddhist greeting of palms pressed together, helps with social distancing.
 
 The question now is whether South-East Asia’s Buddhist successes can weather second or third waves. Perhaps, Mr Thitinan suggests, low transmission from China was not the miracle some divine—the giant neighbour, after all, quickly got on top of its epidemic. Now, transmission routes are changing. Across Asia, infections are being imported from all round the world, seeding local transmission, most recently in Hong Kong. The crowds this week in South-East Asian temples celebrating the start of Buddhist lent are a reminder of how easy it is to let covid guards fall.
+
+## URL
+
+https://www.economist.com/asia/2020/07/09/why-has-the-pandemic-spared-the-buddhist-parts-of-south-east-asia

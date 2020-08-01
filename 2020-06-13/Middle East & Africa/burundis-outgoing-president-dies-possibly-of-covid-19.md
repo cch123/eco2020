@@ -19,3 +19,7 @@ The president agreed not to run for a fourth term in elections in May. Instead h
 Mr Nkurunziza had wanted to run the country from behind the scenes. Now possible rivalry between an interim president and the president-elect could create instability. Then there is the regional picture. Rwanda, Burundi and Uganda have long waged proxy wars in eastern Congo. A power vacuum in Burundi presents a chance for further meddling in its affairs.
 
 The president’s death may, though, allow the country to face up to another pressing issue. He ignored covid-19 and turfed out experts from the World Health Organisation, saying that God would protect Burundi. This may have been his downfall. The government says he died of a heart attack, but local sources whisper that he succumbed to covid-19. His wife was reportedly in Kenya for treatment. His death gives Burundi a chance to tackle the pandemic—and, perhaps, of a bit less foul play. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/06/11/burundis-outgoing-president-dies-possibly-of-covid-19

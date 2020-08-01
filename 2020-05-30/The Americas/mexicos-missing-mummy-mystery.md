@@ -25,3 +25,7 @@ That may not be the end of the spat over Guanajuato’s mummy management. Ms Rey
 The two are at odds over plans for a new museum, which will cost 200m pesos ($9m). Mr Borja says it will relieve crowding and provide space for mummy maintenance. Ms Reyes says Guanajuato’s pro-business government wants a new site for the museum because shops are more profitable neighbours than gravestones.
 
 No one questions the power exerted by the mummies themselves. To some residents, they are ancestors rather than display objects. Some visitors see in their arrested decomposition a sign that life refuses to surrender fully to death. Ms Reyes calls the time she spent caring for them “the best years of my life”. The fuss she helped create at least gives them more time in the sun.■
+
+## URL
+
+https://www.economist.com/the-americas/2020/05/30/mexicos-missing-mummy-mystery

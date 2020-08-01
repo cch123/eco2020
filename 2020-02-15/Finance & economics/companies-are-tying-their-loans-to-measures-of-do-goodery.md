@@ -27,3 +27,7 @@ The idea has spread to the bond market. In September Enel, an Italian energy com
 ![](./images/article_call-to-action_-_the_climate_issue2x_1.png)
 
 Investors are keen. Enel’s bond offering was almost three times oversubscribed. A similar bond issue the next month by the company was even more popular. Both big institutional investors and smaller, sustainability-focused ones are getting on board. Linked lending offers them a way to add to their ESG portfolio and burnish their green credentials. And if the company fails to hit its target, they make more money into the bargain. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/02/15/companies-are-tying-their-loans-to-measures-of-do-goodery

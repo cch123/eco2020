@@ -21,3 +21,7 @@ Demand for transport services, especially international ones, is unlikely to bou
 The government’s retention scheme, under which it pays 80% of a worker’s salary up to £2,500 a month ($3,100), bought firms some breathing space. It was initially due to run until the end of May but has since been extended to June. Businesses accept that the Treasury cannot pay their wage bills indefinitely but are asking for more clarity on how support will be phased out. The worry for many is that the scheme will end abruptly, leaving them saddled with costs that they can no longer cover. For firms like British Airways, the end of the scheme is already looming and, given the statutory 45-day consultation period for redundancies, they must make decisions quickly. A survey from the Chartered Institute of Personnel and Development, an employer body, found that just 7% of firms have made covid-19 related redundancies so far but a further 12% are planning to lay people off. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/04/30/british-airways-huge-job-cuts

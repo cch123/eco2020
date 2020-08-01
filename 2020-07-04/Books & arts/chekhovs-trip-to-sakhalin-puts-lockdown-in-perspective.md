@@ -21,3 +21,7 @@ Today, two museums are devoted to Chekhov on Sakhalin, which is dominated by gia
 Even in “Sakhalin Island”, his account of the expedition, the artist in Chekhov keeps elbowing aside the social reformer, and amid the demographic details that he amassed are a trove of exquisite vignettes. After confessing to killing her child a prisoner wept bitterly, but then (in Brian Reeve’s translation) “wiped her eyes and asked, ‘Fancy buyin’ a nice little bit o’ pickled cabbage?’” Despite lashings and stints in a punishment cell, an old con had refused to work; in the end the guards gave up, and he strolled around, singing. Murdered in a bakery, a cruel official “fell into the kneading trough and stained the dough with blood”. Alas, you never find out what happened to the gentlewoman’s baby. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/07/02/chekhovs-trip-to-sakhalin-puts-lockdown-in-perspective

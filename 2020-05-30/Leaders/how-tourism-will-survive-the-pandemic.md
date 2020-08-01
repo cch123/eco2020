@@ -21,3 +21,7 @@ In the long term, supposing a vaccine is found, the picture is brighter. Even if
 The big danger is that temporary barriers become hard to remove because of squabbling and lobbying. At the end of April more than 150 countries were closed to foreign tourists. Ongoing restrictions include quarantines and incompatible tracing apps. History suggests that it is complacent to assume these will just fall away. It took a global summit in 1920 to set rules on passports and travel after a world war and Spanish flu closed borders—and some western Europeans needed visas to go to America as recently as 1991. Already the politics of travel in Asia have caused tensions (see [Banyan](https://www.economist.com//asia/2020/05/28/asian-countries-try-to-build-travel-bubbles)). Meanwhile, NIMBYS may seek to keep tourists out of the world’s most beautiful but busiest cities.
 
 This summer should be used to make tourism work better. That means taxes and more astute planning to tackle overcrowding. And as the global travel and airline industries restructure, there is a chance to speed up the introduction of aircraft with lower carbon emissions. It must not take decades before the world returns to the levels of openness that it had as recently as January. Tourism makes the world wealthier and happier. It should be on only a temporary break.■
+
+## URL
+
+https://www.economist.com/leaders/2020/05/28/how-tourism-will-survive-the-pandemic

@@ -21,3 +21,7 @@ Though the judiciary determines sentences, politicians have plenty of scope to i
 The government also has indirect power. Ms Patel cannot personally direct a police operation, but she can make it clear—through front-page headlines—that she wants the protesters who damaged statues tried. By giving interviews and making speeches, ministers can nudge the criminal-justice system in a more punitive or liberal direction. “You set the mood music,” says the ex-minister. Magistrates, who deal with most criminal offences and can hand down sentences of up to a year in jail, are especially likely to be influenced by the tone taken by ministers and the media. “They are lay people,” says Harvey Redgrave of Crest Advisory, a criminal-justice consultancy. “They read the newspapers.”
 
 Since the covid-19 outbreak began, the prison population has shrunk by 5% to just under 80,000 after ministers ordered some prisoners to be released early to reduce the spread of the virus in jails. But that fall is likely to be short-lived. Spiralling sentences will mean longer stays for new arrivals. And the government’s commitment to hire 20,000 more police officers will inevitably lead to more arrests, convictions and prison sentences. Meanwhile, more than a third of inmates are caught reoffending within a year of their release. Prison doesn’t work very well, but that won’t stop ministers giving it another go. ■
+
+## URL
+
+https://www.economist.com/britain/2020/06/27/sentencing-policy-gets-tougher

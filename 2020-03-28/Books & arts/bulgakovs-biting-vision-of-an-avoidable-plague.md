@@ -25,3 +25,7 @@ Before long, though, everyone goes berserk. Martial law is declared in Moscow am
 In the end, the weather intervenes, as some hope it might today. An unseasonable summer frost kills the serpents and freezes the eggs, and a year after the trouble arose, it is all over. Moscow, Bulgakov writes encouragingly, “again began to dance, to burn and to spin with lights”. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/03/25/bulgakovs-biting-vision-of-an-avoidable-plague

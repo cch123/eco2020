@@ -19,3 +19,7 @@ Strane’s crimes, and their consequences, unspool in alternating chapters. He a
 On one level, Ms Russell’s tale is a reimagining of “Lolita”, a copy of which Strane gives Vanessa; her title comes from “Pale Fire”, another book by Vladimir Nabokov. But beyond its main villain, this novel’s stealthy power comes from the ambient sexism and harassment that Vanessa and the other female characters suffer from lousy—but ordinary—men: a creep who tries to pick her up at a bowling alley, guests at the hotel, handsy guys in bars, cruel adolescent boys. On a date an older man “clamped a hand over my mouth and said, You want it like this, you want it, you know you do.” Where, Vanessa wonders, is the line that separates “criminal from socially acceptable”? Is Strane different in kind, or merely in degree?
 
 In its evocation of the mix of knowingness and naivety that characterises (and jeopardises) teenagers, plus its frankness about female sexuality and the psychology of victimhood, this is a bracingly uncompromising book. It will doubtless be devoured with an ache of recognition by large numbers of women. But it really ought to be read by men. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/03/19/kate-elizabeth-russells-debut-novel-is-an-unsettling-tale-of-abuse

@@ -31,3 +31,7 @@ The top dogs’ resilience should eventually translate into an enduring advantag
 Not everything may go the top dogs’ way. Calls for a new social contract may get louder after the virus passes, with firms pressed to offer vital products for lower prices and to give workers more security. Capitalism may become less Darwinian, as weak firms are propped up by bail-outs and subsidised loans. The amount earmarked for cheap business loans and guarantees by governments in America, Britain, France, Germany and Italy is at least $4trn, or a fifth of their outstanding non-financial corporate debt. Some industries may temporarily be run as officially sanctioned cartels, colluding in order to stabilise prices and production. That will make it harder for strong firms to assert their advantage. Covid-19 won’t only have lasting effects on society and people’s behaviour. It will also alter the structure of global business.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/03/26/the-pandemic-shock-will-make-big-powerful-firms-even-mightier

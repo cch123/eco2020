@@ -53,3 +53,7 @@ Though still faint, such noises are growing louder. They add to the argument tha
 Correction (June 11th 2020): A previous version of this article identified Trase as an NGO.
 
 Sign up to our fortnightly climate-change newsletter [here](https://www.economist.com//theclimateissue/)
+
+## URL
+
+https://www.economist.com/the-americas/2020/06/11/how-big-beef-and-soya-firms-can-stop-deforestation

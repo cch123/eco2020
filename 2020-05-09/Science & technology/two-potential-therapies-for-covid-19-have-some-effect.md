@@ -27,3 +27,7 @@ One possible anti-inflammatory treatment is tocilizumab, sold by Roche as Actemr
 A recent trial of Actemra on 129 covid-19 patients who had developed pneumonia showed that it reduced deaths in the worst-affected. The big challenge with anti-inflammatory treatments is knowing when to give them. Applied too soon, they will reduce the immune response that is needed to tame the virus. For that, doctors will need to look carefully at the data from the Actemra trial. These, though, have not yet been published either. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/05/09/two-potential-therapies-for-covid-19-have-some-effect

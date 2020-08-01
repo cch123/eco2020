@@ -33,3 +33,7 @@ In fact, when it comes to voting, few Catholics pay much heed to what their chur
 In a closely fought battle, that minority could make a critical difference. But it also suggests that the appeal of Mr Trump for white Catholics is not so very different from his appeal for other white Americans. The online chat that constituted Catholics for Trump’s launch suggested as much. It began with a discussion about how well Mr Trump was tackling “the Chinese coronavirus” and progressed to an analysis of how the president’s values, exemplified in his immigration policies, which protected families and neighbourhoods, were in fact “Catholic values”. Mr Biden might also claim to represent Catholic values, albeit rather different ones.■
 
 Dig deeper:
+
+## URL
+
+https://www.economist.com/united-states/2020/04/25/the-trump-campaign-makes-its-pitch-to-catholic-voters

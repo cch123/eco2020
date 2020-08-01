@@ -23,3 +23,7 @@ The author’s access risks putting him in thrall to his subject. He is not afra
 In recent years Facebook has hired legions of moderators to check up on its users, and fortified them with automated monitoring systems. But its chief defence against accusations of harm is one to which Mr Levy seems mostly sympathetic: that from the crooked timber of humanity, no straight thing was ever made, not even a social network. It is a belief that Mr Zuckerberg seems to hold sincerely. It is tactically useful, too, because while it contains more than a grain of truth, it also minimises the firm’s culpability.
 
 In the end, Mr Levy sees Mr Zuckerberg as a Utopian genius undone by the world’s lamentable wickedness; a man who “set out to connect a world that was perhaps not ready to be connected”. Not everyone will be so generous.■
+
+## URL
+
+https://www.economist.com/business/2020/02/27/a-journalist-offers-an-inside-look-at-facebooks-rise

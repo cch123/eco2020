@@ -33,3 +33,7 @@ Mr Zuckerberg’s caution is thus of a piece with his earlier decisions to not f
 Yet the two firms share a trait that could put them on a similar trajectory. Tech firms, more than other companies, have to be careful not to antagonise their mostly millennial employees, particularly the best software engineers, who can easily find work elsewhere if they are unhappy. Their mostly left-leaning workers are increasingly upset that bosses are not doing enough to stop the spread of misinformation or worse by politicians and others.
 
 If Mr Dorsey has had a change of heart and now allows tweets like Mr Trump’s to be flagged, it is partly because of constant pressure from employees. Mr Zuckerberg is now facing open wrath from his troops. On June 1st hundreds of employees staged a “virtual walkout” (by refusing to work and explaining this in automated email replies) for the first time, in protest against Facebook’s decision not to take action against the president’s posts. Perhaps Mr Zuckerberg, like Mr Dorsey, will end up changing his tune—though he is likely to wait until he knows the outcome of the presidential election in November.■
+
+## URL
+
+https://www.economist.com/business/2020/06/04/twitter-and-facebook-have-differing-business-models

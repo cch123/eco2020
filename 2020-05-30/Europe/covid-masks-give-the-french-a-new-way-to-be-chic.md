@@ -17,3 +17,7 @@ Mask-wearing presents a particular problem in France. “The Enlightenment ideal
 Yet Parisians have embraced the look with panache. “It’s the new statement T-shirt,” said Jean-Paul Gaultier, a designer. Home-made masks may even be a form of silent rebellion at the government’s original advice against mask-wearing. Parisians have a long history of defiant style even at times of disaster. In post-revolutionary France, aristocrats who had lost relatives to the guillotine are said to have attended “victims’ balls”, at which women tied a jaunty blood-red choker around the neck. Under Nazi occupation, Parisiennes fixed wooden wedges under their sandals to fashion high heels. Today’s mask may not be the accessory of choice. But Parisians are turning it into a choice accessory.
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/05/30/covid-masks-give-the-french-a-new-way-to-be-chic

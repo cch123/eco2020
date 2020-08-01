@@ -39,3 +39,7 @@ A final factor, and perhaps China’s trump card, is technology. Tencent and Ant
 China will need an open capital account and a trusted legal system for the yuan to become a reserve currency. If its resilient bond market and whizzy tech attract big inflows, officials in Beijing could become more confident about relaxing cross-border controls. For the growing number of countries and companies with reason to ditch the dollar, that would make China a more viable alternative. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/04/16/the-dollars-dominance-masks-chinas-rise-in-finance

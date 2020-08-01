@@ -39,3 +39,7 @@ Faced with such cold Weberian logic, Mr Fernández changed tack. “We are the p
 “I am a moderate,” said Mr Fernández. “I know that dollars don’t grow on ombu trees. Argentina should join the world. But you are asking me to dance the tango while I’m still in intensive care.”
 
 As she finished her rabbit, Mrs Merkel said consolingly: “I can see that it’s not easy to be a Peronist social democrat.” “It isn’t,” said Mr Fernández. “The economy is a mess, everyone expects a Peronist president to shower them with money, and I don’t have any. I don’t normally drink, but I need a glass of Malbec.”
+
+## URL
+
+https://www.economist.com/the-americas/2020/02/13/what-is-peronism

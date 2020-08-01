@@ -21,3 +21,7 @@ Mr Solomon’s new plan is, in part, to become more like JPMorgan Chase, with a 
 Goldman says it recognises the need for fundamental reform. It boasts of transforming its macho culture with a more diverse intake of recruits. But you can question how much it has really changed. It continues to allocate half its capital to its once-famed trading operation, despite its drab returns. And it still spends a lavish $12bn a year on rewarding its staff, even as the firm earned only $8bn for its shareholders in 2019. So far investors remain sceptical, with its shares priced at their book value.
 
 If Goldman’s reinvention fails it may ultimately have to do a deal. Uniting Wells Fargo and Goldman, for example, would create something more like JPMorgan Chase (and with a similar-sized balance-sheet). In America regulators and some politicians are sceptical about bigger banks. In Europe, where the industry is more desperate, the mood has already changed, with matchmaking now encouraged. At least Goldman’s mergers-and-acquisitions advisers will be in on any action.■
+
+## URL
+
+https://www.economist.com/leaders/2020/01/30/how-the-mighty-goldman-has-fallen

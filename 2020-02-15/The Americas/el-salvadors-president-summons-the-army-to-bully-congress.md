@@ -25,3 +25,7 @@ During his brief tenure, he has behaved both like a technocrat and a populist sh
 Mr Bukele could have been more patient. He will probably gain control over congress in legislative elections due next year. Rather than wait, he has triggered a constitutional crisis and memories of military dictatorship and the civil war, in which 75,000 people died.
 
 Mr Bukele eventually called off the army, and grudgingly agreed to comply with an order by the Constitutional Court that he keep the soldiers out of congress. The president may have delighted some of his supporters by bullying the legislature. Salvadoreans who care about the health of their democracy are rightly worried. ■
+
+## URL
+
+https://www.economist.com/the-americas/2020/02/13/el-salvadors-president-summons-the-army-to-bully-congress

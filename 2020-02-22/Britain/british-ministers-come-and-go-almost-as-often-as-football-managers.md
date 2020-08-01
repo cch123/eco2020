@@ -23,3 +23,7 @@ This could be a problem for Mr Johnson. Despite his 80-seat majority, he has man
 Here at least Mr Johnson’s reshuffle featured one welcome innovation: bringing back those whom he had earlier sacked. Penny Mordaunt, a former defence secretary, and James Brokenshire, a former housing and local government secretary, have returned to more junior posts in other departments. Not all former cabinet ministers will feel able to swallow their pride after falling out with the prime minister and his Downing Street team. But the precedent of ministerial return may at least keep the talent pool that Mr Johnson has to draw from in future a little deeper.■
 
 *”15 minutes of power: the uncertain life of British ministers”. By Peter Riddell, Profile Books, 2019.
+
+## URL
+
+https://www.economist.com/britain/2020/02/20/british-ministers-come-and-go-almost-as-often-as-football-managers

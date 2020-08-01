@@ -29,3 +29,7 @@ Norway has profited from its wise decision to save the principal and invest the 
 ![](./images/article_call-to-action_-_the_climate_issue2x_3.png)
 
 “There is no future for oil,” insists Mathias Mikkelsen, the 29-year-old CEO of Memory, a startup that developed an app to track time at work. Oil is the new coal, so clever investors are putting their money elsewhere, says Inge Berge, CEO of Wastefront, which, backed by Innovation Norway, is building a factory to recycle tyres. Yet both Mr Mikkelsen and Mr Berge benefited from the ecosystem for startups financed by oil wealth—and would have a much tougher time building their companies without it. ■
+
+## URL
+
+https://www.economist.com/europe/2020/02/08/why-every-norwegian-ecowarrior-has-200000-petrodollars

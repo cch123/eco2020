@@ -27,3 +27,7 @@ According to surveys carried out in May via mobile phone by Social Weather Stati
 Mr Duterte’s priority appears to be boosting his own authority. A temporary law, approved by Congress in March but allowed to expire in June, gave him special powers to deal with the pandemic. On July 3rd he signed into law a sweeping anti-terrorism bill which, among other things, allows suspects to be detained without a judge’s approval for up to 14 days. How this will help the Philippines through its current trauma is anyone’s guess. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/asia/2020/07/11/the-philippines-fierce-lockdown-drags-on-despite-uncertain-benefits

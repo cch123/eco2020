@@ -27,3 +27,7 @@ Germany does not always get its own way, but it is usually powerful enough to st
 In “Minority Report” John Anderton wrestles with the question of free will after being told he will murder someone. In the end, he chooses to carry out the murder, but only to ensure the programme remains accurate. Free will in politics is simpler than in science fiction. A Green chancellor, once the realm of fantasy, is now imaginable, with the Green Party second in the polls. As the environment shoots up the agenda, even centre-right parties must grapple with how to balance support for business with strident greenery. Such a change may help save the Green Deal. But if pre-crime existed in Brussels, Germany would already be in jail. ■
 
 Sign up to our fortnightly climate-change newsletter [here](https://www.economist.com//theclimateissue/)
+
+## URL
+
+https://www.economist.com/europe/2020/03/05/minority-report-brussels-edition

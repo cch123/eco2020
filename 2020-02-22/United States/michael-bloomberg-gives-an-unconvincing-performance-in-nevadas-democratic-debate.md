@@ -23,3 +23,7 @@ Oddly, Mr Bloomberg also seemed reluctant to trumpet all the good he has done. H
 His closing statement made clear that he views the presidency as, in essence, a managerial role. It is certainly that, but not solely. Presidents must also inspire, lead and set the country’s tone. Perhaps enough Americans are yearning for quiet competence that they will be happy to pull the lever for a capable technocrat, and let the bully pulpit sit quiet for a while. He certainly came as a relief to many New Yorkers after the Sturm-und-Drang mayoralty of Rudy Giuliani. But it is quite a gamble. Being slightly quicker on his feet would help.■
 
 Dig deeper:Sign up and listen to Checks and Balance, our new [newsletter](https://www.economist.com//checksandbalance/) and [podcast](https://www.economist.com//podcasts/2020/04/24/checks-and-balance-our-weekly-podcast-on-american-politics) on American politics
+
+## URL
+
+https://www.economist.com/united-states/2020/02/22/michael-bloomberg-gives-an-unconvincing-performance-in-nevadas-democratic-debate

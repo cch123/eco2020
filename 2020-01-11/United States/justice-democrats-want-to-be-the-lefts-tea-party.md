@@ -25,3 +25,7 @@ Together with what Lee Drutman, a political scientist with the New American Foun
 But unlike the Tea Party, JD has not yet “put the fear of God into incumbents”, says Matt Bennett of Third Way, a centrist Democrat think-tank. Partly that is because Democrats are a more heterogenous party than Republicans. The 2018 wave put Ms Ocasio-Cortez and Ms Pressley in office, but the freshmen representatives who gave the House its Democratic majority were mostly moderates from swing districts. Nancy Pelosi, the House Speaker, understands that keeping her majority means protecting them. At its peak, says Mr Bennett, “the Tea Party was knocking off senators [and] causing havoc. Justice Democrats are nowhere near that level.”■
 
 [Sign up to receive Checks and Balance](https://www.economist.com//checksandbalance/), our new weekly newsletter on American politics
+
+## URL
+
+https://www.economist.com/united-states/2020/01/11/justice-democrats-want-to-be-the-lefts-tea-party

@@ -25,3 +25,7 @@ There have also been a series of health scandals. Jeane Freeman, the health secr
 Nor is the Scottish economy anything to shout about. Its growth rate lags Britain’s and the Scottish government puts the nation’s notional deficit at £12.6bn, or 7% of GDP, compared with 1.1% for Britain as a whole. Scotland has fewer businesses per head than any other part of the country, save for north-east England. Its businesses pull in less revenue than those in the West Midlands, which has a similar population; it has only a little over half the proportion of earners in the highest income tax bracket as in the rest of the UK. Scotland has slipped into the bottom half of the Index of Social and Economic Wellbeing produced by Scottish Trends, an economics consultancy. It now sits alongside Slovenia.
 
 Much lies in the balance. Ms Sturgeon remains Scotland’s pre-eminent politician, and her party is firmly on top. Yet the SNP and the Greens between them hold 68 of the Scottish Parliament’s 129 seats. It would not take much of a shift for a pro-Union majority to be returned next year, and for the prospect of a second referendum to fade. Even if Ms Sturgeon can secure a majority, polls suggest about 50% of voters support independence – higher than the 2014 tally of 45%, but not enough for the SNP to assume victory would be in the bag. It is not only Mr Salmond who is anxiously awaiting a verdict. ■
+
+## URL
+
+https://www.economist.com/britain/2020/01/25/alex-salmonds-trial-will-coincide-with-a-reassessment-of-the-snps-record

@@ -29,3 +29,7 @@ Such measures—and the trying circumstances—may deter activists for the time 
 Companies’ defensive manoeuvres may also come back to haunt them. Inevitably, some of Mr Icahn’s morons will have used the crisis to entrench themselves and avoid scrutiny, making them targets of attack once things get back to something akin to normal. Moreover, an easing of the pandemic is likely to lead to a surge in takeovers, as the strong gobble up the weak and government cash washes through the corporate world. In such circumstances, it will be all the more important for activists to hold executives to account. Without them cronyism and corporate sprawl could run rampant in the post-coronavirus world. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/04/18/activist-investors-have-gone-quiet-during-the-pandemic

@@ -21,3 +21,7 @@ The obvious, albeit illegal, solution is home-brewing. Sri Lankans desperate for
 The police say they have uncovered 18,000 instances of illicit alcohol production. On April 13th, for instance, officials arrested two men making liquor in 36 barrels in a swamp. Home-brewers are harder to catch. The government, which is losing some 500m Sri Lankan rupees ($2.6m) a day in forgone tax, has asked the telecoms regulator to find some way to stem the sharing of recipes on social media. “They are using Grade Six science knowledge to manufacture alcohol at home,” complains Kapila Kumarasinghe of the excise department. All the same, he admits, “We can’t very well go house to house, raiding kitchens.”
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/asia/2020/04/23/faced-with-a-ban-on-booze-sri-lankans-have-been-making-moonshine

@@ -33,3 +33,7 @@ A few non-energy firms will also be eyeing the conflict warily. LafargeHolcim, a
 Boeing and Airbus, too, look vulnerable. Around 5% of the global airline fleet is operated by Gulf carriers. The continued expansion of Emirates, Etihad and Qatar Airways has made them important buyers of passenger jets in recent years. Airbus reckons that the region will take delivery of 8% of all new aircraft over the next 20 years—around 3,200 jets. Emirates is a launch customer for Boeing’s new 777X, expected to enter service this year, with orders for around 125, over a third of the current total. It has also ordered 30 787s and, from Airbus, 40 A330s and 30 A350s.
 
 One other industry enjoys a large foreign presence in the region. Endless wars and oil-generated wealth conspire to make the Middle East the world’s second-largest export market for armsmakers after Asia-Pacific. As arms sales fell in every other region in the last decade, they nearly doubled in the Middle East, estimates SIPRI, a think-tank. Saudi Arabia alone splurged $68bn on weaponry in 2018. Bahrain, Kuwait, Oman, Qatar and the UAE are also enthusiastic buyers. The region received half of America’s exports in 2014-18 and is a large market for British, French and German defence firms, too. America’s Raytheon and Lockheed Martin, Britain’s BAE and France’s Dassault all saw their share prices rise as tensions mounted. If your business is war, war is good for business.■
+
+## URL
+
+https://www.economist.com/business/2020/01/09/western-firms-have-little-to-lose-from-a-middle-eastern-war

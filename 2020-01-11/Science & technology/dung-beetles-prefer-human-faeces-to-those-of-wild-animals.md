@@ -23,3 +23,7 @@ This is both encouraging and problematic. It suggests that using human faeces as
 Clearly, Dr Raine’s experiment needs to be replicated in other habitats, to check that she has discovered a general phenomenon rather than one specific to a particular area. But if it turns out that most dung beetles do indeed prefer human faeces to their normal meals, it means that a lot of previous ecological studies may need to be reinterpreted.
 
 Why Dr Raine’s dung beetles prefer human faeces is a mystery, though she suspects that the varied diets enjoyed by modern human beings may have something to so with it. But her experiment does illustrate a wider point. This is that scientific discoveries are only as good as the experiments used to make them. It therefore behoves people to check even well-established procedures from time to time, to make sure they are not falsely assuming that what is sanctioned by familiarity actually works.
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/01/09/dung-beetles-prefer-human-faeces-to-those-of-wild-animals

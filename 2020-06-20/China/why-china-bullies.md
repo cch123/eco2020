@@ -29,3 +29,7 @@ This is a time of slumping global demand for China’s goods and interrupted sup
 All in all, China feels less reliant on other countries than it has for a while. That same China is also being unusually assertive. Follow the logic through, and having limited economic ties with China may not make other countries safer. India is the latest country to be confronted with that dilemma. It will not be the last. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/china/2020/06/18/why-china-bullies

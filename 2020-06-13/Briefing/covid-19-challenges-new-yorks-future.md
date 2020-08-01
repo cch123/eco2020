@@ -81,3 +81,7 @@ This will encourage a new sort of sprawl. Living near the heart of the city has 
 For their many flaws, cities have been an engine of prosperity, as well as a way of reducing the damage modern lifestyles do to the environment. In prior episodes of turmoil cities like New York have bounced back because their people have been drawn together more than they have been pulled asunder. Stepping onto a crowded subway or elevator was an act of defiance in the face of terrorism fears.
 
 This time around the city’s leaders will not be able to rely on the gritty resilience of its inhabitants to restart the city. They will need to create inventive schemes that help workers travel safely and make sure the city has the contact-tracing and testing capacity to prevent a second outbreak. They will also need to keep a close eye on how the ways in which people work, and the places where they do so, may change. If New York can increase its telecommuting while keeping its vibrancy, it may again be a model to cities around the world. If it cannot, density will return—either there, or, if the city fails this latest test, elsewhere. ■
+
+## URL
+
+https://www.economist.com/briefing/2020/06/11/covid-19-challenges-new-yorks-future

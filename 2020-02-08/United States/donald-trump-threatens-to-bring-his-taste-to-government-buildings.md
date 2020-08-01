@@ -19,3 +19,7 @@ Moynihan’s ideas made the American government a remarkable sponsor of architec
 Mr Trump has long been known to dislike brutalism. In 2018 the website Axios reported that he was “obsessed” with the Hoover Building in Washington, DC, the brutalist headquarters of the FBI. He has apparently called it “one of the ugliest buildings in the city”. Such opinions are not new. Jack Kemp, George H.W. Bush’s housing and urban development secretary, described his agency’s curvy brutalist headquarters in Washington as resembling “ten floors of basement”.
 
 But Mr Trump’s interest brings a complication other critics do not: his own interests. The Hoover Building sits directly across from his Trump International Hotel, which occupies the Romanesque-revival former Post Office Building. The FBI has considered moving out of the city and selling the site, which Mr Trump opposes. If the site is ever redeveloped, its style may concern the president less than its function—lots of gold, fine, but absolutely not another hotel.
+
+## URL
+
+https://www.economist.com/united-states/2020/02/06/donald-trump-threatens-to-bring-his-taste-to-government-buildings

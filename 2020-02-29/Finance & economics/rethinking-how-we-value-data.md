@@ -17,3 +17,7 @@ She outlines a variety of data types and uses. Some may be more useful in aggreg
 As yet the data economy does not distinguish such features well. Ms Coyle argues that a new mindset is needed, as well as institutions, such as data trusts, to ensure information is fairly distributed. Personal information should not be regarded through the lens of “ownership” but “access rights,” she says. Hence, people may control how it is used, but should not treat it as a winning ticket to be monetised.
 
 That should apply more broadly, she argues. For governments, the right strategy may be to make data freely accessible. Estimates for the value of open government data range from less than 0.1% to more than 7% of GDP. Companies also should consider privileging access to personal data above ownership of it. Try telling that to the tech giants, though. However data are valued, they have no doubt about how valuable exclusive control is to them.
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/02/27/rethinking-how-we-value-data

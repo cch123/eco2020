@@ -45,3 +45,7 @@ More robust testing could help overcome the trust deficit. Take the fast track b
 The upshot is that there are no real shortcuts. Michael Baker, an epidemiologist at the University of Otago in Wellington, sees developed countries splitting into two blocs: those like New Zealand and South Korea that aim to eliminate the coronavirus and those like America and Britain that merely want to suppress it. These blocs could, in time, resolve into two travel zones, he says. Goods and money would still flow between them. But people would find their horizons dictated by whether they were on the clean or contaminated side of the divide. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/05/14/could-travel-bubbles-offer-a-route-to-economic-recovery

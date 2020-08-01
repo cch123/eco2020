@@ -25,3 +25,7 @@ A big sticking point is working out just how much value is in the business. Take
 Reality is trickier still. The uncertainty is greater and there are many different classes of debt. But today senior creditors seem to be getting the upper hand. Perhaps that is because more and more of them are savvy distressed-debt specialists, often from the world of private equity. They buy up the secured debt of troubled firms with the aim of becoming owners. They offer a financing package to tide the business over. And they make a bid to buy out other creditors.
 
 Do the unsecured bondholders get a raw deal? “Put it this way”, deadpans a law professor, “everybody wants to be a senior secured creditor.” The power in Chapter 11 ebbs and flows. The shift might even be traced back to the Humble Place case. An appeals-court judge eventually ruled against the debtor. The case notes do not record whether a lawnmower was one of the seized assets.
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/07/23/chapter-11-is-no-longer-a-haven-for-deadbeat-debtors

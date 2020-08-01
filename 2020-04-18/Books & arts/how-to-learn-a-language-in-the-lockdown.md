@@ -31,3 +31,7 @@ There is no way to learn a language without time and effort. What technology doe
 Correction (April 17th 2020): This article originally mis-stated the gender of butter, correctly le beurre, in French. Quelle bêtise. Apologies.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/04/18/how-to-learn-a-language-in-the-lockdown

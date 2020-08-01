@@ -57,3 +57,7 @@ Though the generals want development, they are nervous about the Kra canal. They
 Not everything, then, is guaranteed to go China’s way. Certainly, it is the Eurasian geopolitical force, a combination of economic might and geographic extent. But along both the belt and the road, Chinese-led efforts meet those of other powers. In continental Eurasia, as the Silk Road reconfigures, other former empires make their mark along it. Turkey has long-standing ethnic ties with Turkic peoples in Central Asia, and construction and business expertise to offer. Iran, while facing American hostility and sanctions, has made developing ties with Central Asia a “fundamental policy”. As for the Indian Ocean, India remains the regional naval power. In Colombo, alongside China Merchants, India and Japan are jointly to develop a new container terminal.
 
 China claims that “win-win co-operation” is what the BRI is all about. Who would want it any other way? Yet along the fast-emerging digital Silk Road things look increasingly zero-sum. ■
+
+## URL
+
+https://www.economist.com/special-report/2020/02/06/china-is-making-substantial-investment-in-ports-and-pipelines-worldwide

@@ -33,3 +33,7 @@ Even the coronavirus shock need not break this loop. Of course growth has suffer
 True rate liberalisation constitutes a bigger short-term threat. China got a taste of that over the past decade. The rise of more investment options for savers, such as online money-market funds, forced banks to compete more for deposits. They got around rate caps by marketing investment products with higher yields. But higher funding costs led them to find riskier clients and to increase their own leverage. The dangers were made plain last year when the government helped to rescue three overextended, if peripheral, banks.
 
 So in the name of financial de-risking, regulators have steadily pushed banks back towards the plain-vanilla business of taking deposits and extending loans. Hence the pressure on the central bank to cut deposit rates at the same time as it lowers lending rates. This way, the closed loop—from new loans to new deposits to bank profits, and around to new loans again—will remain intact. And the liberalisation of China’s banking system can wait for a sunnier day, as it always has—and, as a cynic might say, always will. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/04/02/what-chinas-interest-rate-muddle-says-about-its-financial-system

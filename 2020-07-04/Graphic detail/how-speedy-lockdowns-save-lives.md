@@ -21,3 +21,7 @@ Sources: Johns Hopkins University; WHO; EU; University of Oxford; Flaxman et al.
 
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/graphic-detail/2020/07/04/how-speedy-lockdowns-save-lives

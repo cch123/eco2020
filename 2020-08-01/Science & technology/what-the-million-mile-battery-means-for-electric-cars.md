@@ -41,3 +41,7 @@ As a marketing device, the million-mile battery will give electric-car buyers—
 Jeff Dahn, who leads a group of battery researchers at Dalhousie University in Halifax, Canada, who are sponsored by Tesla, points out that autonomous electric vehicles like “robo taxis” could clock up vast mileages by operating around the clock. So, too, would long-haul lorries and electric buses. And some cars may end up being more than just means of transport. Plans are afoot to let electric-vehicle owners connect their jalopies to the grid in a way that will store surplus electricity generated in times of plenty by wind and sunshine and release it during hours of peak demand, with the owner collecting a fee for doing so. That means these grid-buffering vehicles will be racking up lots of charging cycles even when they are not moving.
 
 Nor are million-mile batteries the limit of engineers’ aspirations. The next objective is to replace Li-ions’ liquid electrolytes with solid ones. That would keep the ions under stricter control and allow even longer driving ranges. This could make a two-million-mile battery a feasible objective. If that day comes, the tables would have been turned. From being the first part of a car to fail, its battery will have become the last.■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/08/01/what-the-million-mile-battery-means-for-electric-cars

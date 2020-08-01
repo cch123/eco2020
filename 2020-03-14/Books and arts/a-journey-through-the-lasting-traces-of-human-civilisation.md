@@ -23,3 +23,7 @@ Though a literature teacher by profession, he draws equally from science, philos
 By contrast, when Mr Farrier indulges his bookishness the result is exhilarating. His central idea, that language and storytelling might be the most enduring of human traces, is beautifully expressed. The fables of surrealists such as Jorge Luis Borges and J.G. Ballard frame understanding of the Anthropocene, he believes. Insights of poets such as Alice Oswald bring the “bright unbearable reality” into focus.
 
 “Footprints” is a meditation, not a finger-wagging harangue. As Mr Farrier notes, even if pollution and consumption ceased tomorrow, their effects would take millennia to unwind. Human life is etched into the fossil record for aeons to come. “The challenge is to learn…to examine our present,” he writes, “by the eerie light cast by the onrushing future.” His subtle, elegant book rises to that challenge. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/03/12/a-journey-through-the-lasting-traces-of-human-civilisation

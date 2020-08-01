@@ -19,3 +19,7 @@ This is big. If doctors in Britain had known from the start what they know now a
 Clinical trials of various drugs are going on in many other countries. But Britain has been particularly committed to doing large, rigorous trials while battling a big covid-19 wave. Such trials are easier to do in the NHS than in more fragmented health-care systems, especially when results are needed urgently. As the pandemic gathers speed around the world, dexamethasone can make it a little less deadly.■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/06/18/dexamethasone-cuts-covid-19-deaths

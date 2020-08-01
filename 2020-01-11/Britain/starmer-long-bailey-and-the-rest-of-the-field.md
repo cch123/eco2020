@@ -21,3 +21,7 @@ Emily Thornberry is doing badly given her profile as shadow foreign secretary an
 Labour is also holding a separate election for deputy leader. Here, Angela Rayner, the party’s education spokesman, is storming ahead. Ms Rayner is more impressive than her flatmate, Ms Long Bailey, and refuses to bow down to the Stalinist clique that surrounds the departing leader.
 
 Labour’s left wing is usually as good at stitching up its own party as it is bad at winning elections. In this case, however, it has made the potentially fatal mistake of backing a stooge in the form of Ms Long Bailey rather than a softer socialist who is honest enough to admit that, whatever Mr Corbyn deserves for his performance as leader, it is not full marks.■
+
+## URL
+
+https://www.economist.com/britain/2020/01/09/starmer-long-bailey-and-the-rest-of-the-field

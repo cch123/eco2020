@@ -27,3 +27,7 @@ Thailand’s low labour costs once persuaded carmakers, steel producers and othe
 This combination of economic ills would test the wisest lawmakers. Thailand’s elites are distracted by internal strife. There have been two coups since 2006. Almost five years of military rule damaged Thailand’s international standing and prevented it from negotiating free-trade agreements with Western countries, argues one Bangkok economist. The government prefers flashy but ineffective schemes like “Thailand 4.0” which includes the Eastern Economic Corridor (EEC), a special economic zone.
 
 There are some small spots of good news as Thailand tackles covid-19. Its universal health-care system means citizens will have greater access to help when ill than many others in developing countries. And the government’s existing welfare scheme means it is ready to funnel money to people through the crisis. Building new infrastructure, such as a new railway and airport planned near Bangkok, would bolster its competitiveness in the long term. But the grim truth is that Thailand’s maladies will outlast the pandemic. ■
+
+## URL
+
+https://www.economist.com/asia/2020/04/02/thailands-economy-was-suffering-before-the-virus

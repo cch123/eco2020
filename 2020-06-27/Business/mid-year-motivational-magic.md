@@ -31,3 +31,7 @@ Finally, please disregard those newspaper stories that suggest MUSH might be vul
 Hugging you all from a socially acceptable distance,
 
 Buck Passer, CEO
+
+## URL
+
+https://www.economist.com/business/2020/06/25/mid-year-motivational-magic

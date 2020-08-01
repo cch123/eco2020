@@ -29,3 +29,7 @@ The commercial sector, though, has less flexibility. Most mortgages for retail a
 Some middlemen are also being affected in unforeseen ways. For instance, mortgage-service providers—which originate loans and collect payments from homeowners for a fee—complain that they are running short of cash. They typically bet on rising interest rates by short-selling MBS, thereby hedging the risk they take when locking in rates for new customers. But as part of its response to the pandemic, the Fed is buying MBS so quickly that the providers are facing margin calls on the losses on their hedges, before the loans for which they have locked in the rates can be issued. With help from the Fed and the government, many homeowners will be able to delay repayments. Some of the corporate links in the chain may not be so lucky. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/04/03/what-missed-rent-and-mortgage-payments-mean-for-the-financial-system

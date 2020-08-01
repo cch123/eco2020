@@ -19,3 +19,7 @@ The committee essentially proposes that all applicants should be processed under
 The committee acknowledges that tighter restrictions on European immigrants would dent economic growth and employment levels. Firms starved of cheap labour would have to generate more from existing resources, though the committee expects only slight increases in productivity. But the lower salary threshold would at least make it easier to recruit non-European workers, says Ian Robinson of Fragomen, a law firm. “It will mean less contorting what a person is paid to fit the system.”
 
 The government can choose to ignore the report. Within hours of its publication, it reaffirmed its commitment to introduce a points-based system. But there is not much time for big changes. A complex new system would mean retraining Home Office staff and tweaking IT systems by the time the transition period—during which Britain and the EU apply the same rules—ends in December. The government is more likely to accept most of the committee’s recommendations but nevertheless call it a points-based system. As Alan Manning, the committee’s chair, writes, such branding “is, forgive the pun, pointless”. ■
+
+## URL
+
+https://www.economist.com/britain/2020/01/30/the-british-government-wants-to-reshape-immigration-after-brexit

@@ -25,3 +25,7 @@ What signals should market cryptologists be looking at? One measure is exports o
 Technology’s share of global GDP will continue to grow. In principle, then, these signals will become even more closely watched. But other forces are at work. China has designs to be self-sufficient in electronic components, a goal made more urgent by the trade-tech wars. The short-term effect is to give a boost to Asia’s tech industry. But in the longer term, firms might find themselves displaced by Chinese rivals, at least in China’s own market.
 
 To the extent that China succeeds, it will devalue the signals that arrive from the more open parts of emerging Asia. Market-watchers will come to feel the same frustration felt by Mr Harris’s fictional codebreakers at Bletchley. The codes keep changing. For now, though, the message from Asia is that the sun is peeking through the clouds—or, at least, that it has stopped raining.
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/01/16/what-the-semiconductor-industry-tells-us-about-the-world-economy

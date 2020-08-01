@@ -23,3 +23,7 @@ Interest in this approach has grown, thanks to a few pilot projects and Mr Lowco
 Whether anticipatory action works as well as its advocates hope remains to be seen. A report last month by the WFP suggests that its effects on households are “mainly positive”, but the evidence base is slim and the authors stress the need for more rigorous studies. The intervention in Somalia is to be monitored and lessons will be drawn from it with the help of the Centre for Disaster Protection, a London-based agency set up by the British government.
 
 The initial $15m in funding for anticipatory action may not be much. But it could make a big difference to Somalis’ lives, and to the future of ahead-of-the-curve intervention. By proving that the concept works, Mr Lowcock wants to “change the whole mentality and mindset of dealing with predictable emergencies”. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/06/25/can-early-intervention-prevent-humanitarian-disasters

@@ -19,3 +19,7 @@ Armies of all stripes are trying to regain control, sometimes brutally. Soldiers
 These various troop deployments are not large enough to police the area, which is as large as India. To dislodge the jihadists, governments will have to govern. Besides security, locals crave jobs and health care. However, given the West’s fatigue after its failures in Afghanistan and elsewhere, countries in the Sahel can expect only modest help from abroad for their own nation-building efforts. ■
 
 Sources: Armed Conflict Location and Event Data Project; UNHCR
+
+## URL
+
+https://www.economist.com/graphic-detail/2020/06/20/fighting-in-the-sahel-has-forced-17m-people-from-their-homes

@@ -17,3 +17,7 @@ Ten-year-old Jas, the narrator, and her devout family live on a small farm in ru
 Jas and her two surviving siblings embark on a series of rituals to try to hold the family together. She keeps two toads in a pail, hoping that if the animals can somehow be induced to mate, her parents will love one another again. After the farm is overwhelmed by foot-and-mouth disease, though, and the family herd has to be destroyed, the story takes an even darker turn.
 
 The author, a prizewinning poet, is deft with words. “Kissing with tongues”, the narrator reflects, “always makes me think of those slimy, purplish-red cooking pears that Mum makes.” Out in the farmyard, “Two forks lie with their teeth through each other…like hands praying.” It is the strange, haunting observations through which the child, Jas, tries to make sense of the grown-up world that give this novel of grief its particular power. A book to read—and to remember.
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/04/23/a-prizewinning-poets-haunting-debut-novel

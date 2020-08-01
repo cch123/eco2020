@@ -25,3 +25,7 @@ Fed officials will not find that trick easy to repeat. Interest rates at all dur
 Housing’s shrunken stature as a business-cycle villain does not mean its effects can be ignored entirely. New home sales in April were 13% below their level in April 2019; new residential construction fell by 26% over that period. When the figures are eventually published, they may show that the drop in residential investment in the first half of 2020 was the largest on record (though its contribution to the fall in GDP will almost certainly be swamped by contraction in other sectors). If generous aid to unemployed workers and relief programmes for struggling renters and borrowers are allowed to lapse, then the woes of the housing market could worsen.
 
 The sector’s diminished share of GDP, though, limits its ability to amplify contractionary forces. And post-crisis changes in lending standards have reduced the threat that mortgage defaults trigger financial contagion. The biggest reason to worry about housing troubles now is the suffering that evictions and foreclosures stand to inflict on households and neighbourhoods. Time, then, for policy to treat housing less like an abstract macroeconomic football, and more like the essential service that it is. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/07/18/housing-was-the-business-cycle

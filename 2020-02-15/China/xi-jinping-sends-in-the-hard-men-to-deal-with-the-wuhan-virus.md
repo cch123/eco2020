@@ -23,3 +23,7 @@ After some days of hesitation, when Mr Xi was unusually absent from state media,
 Other officials with experience of high office in Zhejiang are being deployed. One of them is Chen Yixin, the secretary-general of the Central Political and Legal Affairs Commission, the party’s main law-enforcement body. He has been sent as Mr Xi’s envoy to oversee virus-control work in Wuhan. Meanwhile Xia Baolong, who was Mr Xi’s deputy in Zhejiang, has been appointed head of the central government’s Hong Kong and Macau Affairs Office, putting a Xi loyalist in charge of another crisis—anti-government unrest that has roiled Hong Kong since June.
 
 Among China’s embattled Christian community, both Mr Chen and Mr Xia are notorious for leading a campaign to strip crosses from the roofs of churches in Zhejiang. When trouble strikes in Mr Xi’s China, the party sends for the hard men. ■
+
+## URL
+
+https://www.economist.com/china/2020/02/13/xi-jinping-sends-in-the-hard-men-to-deal-with-the-wuhan-virus

@@ -21,3 +21,7 @@ The disruption is felt most keenly by pupils in the final year of secondary scho
 Not all his classmates agree. Kaixuan observes that some of them study just as hard at home as in school, and take perverse pleasure in the fact that others must be slacking off. (It helps that very little new material is taught in the last year of secondary school. The emphasis is on revision.)
 
 When schools and universities eventually re-open, classrooms may be different, says Mr Yue, the teacher in Beijing. The teacher-student relationship will become “less hierarchical”, he predicts. That is because China’s prolonged experiment with online learning is reducing the typical reserve between instructor and pupil. Teachers who were previously reluctant to give out their contact details on WeChat, a messaging app, now rely on it to respond to students’ queries. At Mr Yue’s school, students may even call their teachers to ask for feedback. If he is right, such a breaking-down of barriers could be one of the few happy by-products of the epidemic. ■
+
+## URL
+
+https://www.economist.com/china/2020/02/27/the-coronavirus-is-causing-massive-disruption-to-education-in-china

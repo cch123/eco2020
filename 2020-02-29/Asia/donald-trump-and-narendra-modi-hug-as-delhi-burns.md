@@ -15,3 +15,7 @@ Most of the victims were Muslims, a largely impoverished group that makes up 14%
 The trigger for the riots appears to have been a rally by another local politician, who declared that if a sit-in by Muslim women protesting against the citizenship rules was not lifted by the time Mr Trump left India, his supporters would no longer remain peaceful. Soon after, mobs went on the rampage in Muslim neighbourhoods, often with police looking mutely on or, say many witnesses, aiding the attackers. Both sides soon resorted to shooting; most of the fatalities, which included two policemen, were caused by gunfire.
 
 The police, which in Delhi are controlled by the central government, only deployed in strength on February 26th. On the orders of a court, they also began registering complaints of incitement. Mr Modi’s national-security adviser toured affected districts, giving his “word of honour” that residents could feel safe. The prime minister himself, after three days of silence, belatedly tweeted a plea for calm.■
+
+## URL
+
+https://www.economist.com/asia/2020/02/27/donald-trump-and-narendra-modi-hug-as-delhi-burns

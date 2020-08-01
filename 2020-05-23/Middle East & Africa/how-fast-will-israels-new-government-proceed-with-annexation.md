@@ -21,3 +21,7 @@ Mr Netanyahu’s new partners are also sounding cautious. Gabi Ashkenazi, the fo
 Mr Netanyahu’s supporters want him to push ahead while Mr Trump is still in office. Lately, though, the White House, under pressure from Arab leaders, has sounded less gung-ho about annexation. When Mike Pompeo, America’s secretary of state, visited Israel on May 13th, he said Mr Netanyahu and Mr Gantz, a former army chief who opposes unilateral annexation, “will have to find the way forward together”. Israeli diplomats say the administration has asked Mr Netanyahu to put things on hold, for now. Some on the Israeli right hope that Mr Trump, who is up for re-election in November, may yet push for annexation in order to win over evangelicals and right-wing Jewish voters.
 
 The Palestinians, for their part, are outraged. Mahmoud Abbas, their president, says the annexation clause in the Israeli coalition deal means the PA is no longer bound by its agreements with Israel. He has made such statements before, but never followed through by, for example, ending security co-operation. Joint action against the outbreak continues. The death rate from covid-19 has been low on both sides. “I can work with my Israeli colleagues against the coronavirus for the health of my people,” says a Palestinian doctor. “It doesn’t change the ugly reality of occupation.” ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/05/21/how-fast-will-israels-new-government-proceed-with-annexation

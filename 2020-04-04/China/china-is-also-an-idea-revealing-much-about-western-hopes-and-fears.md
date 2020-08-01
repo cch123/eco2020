@@ -33,3 +33,7 @@ America’s allies, along with many Trump administration officials and members o
 Western leaders disagree about how to handle China partly because the country has become a larger, more daunting and more assertive competitor. It is also because of a crisis of Western unity. As Marco Polo was the first to demonstrate, foreigners with visions of China are often talking about themselves. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/china/2020/04/04/china-is-also-an-idea-revealing-much-about-western-hopes-and-fears

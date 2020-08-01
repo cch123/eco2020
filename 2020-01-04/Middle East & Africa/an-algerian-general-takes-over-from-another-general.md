@@ -27,3 +27,7 @@ Would the army let him? Ever since independence it has thwarted moves towards de
 The top brass are the late General Salah’s protégés. But younger officers may be less keen to play politics. So far the generals have resisted the temptation to have the protesters shot. General Chanegriha is Algeria’s first commander not to have been a mujahid (a fighter) in the anti-colonial war of liberation. Returning the army to the barracks would be a victory of a new kind—one that Algerians sorely need. ■
 
 Correction (January 10th 2020): This article originally suggested that Algerian officials were in talks with the IMF over a possible loan. The IMF says that no such discussions have taken place.
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/01/04/an-algerian-general-takes-over-from-another-general

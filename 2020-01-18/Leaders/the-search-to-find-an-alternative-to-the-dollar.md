@@ -27,3 +27,7 @@ Nevertheless, an inflection point has been reached. Since Mr Trump began firing 
 A world in which the dollar is tested from several sides will be unpredictable. In the longer term, more balance among global reserve currencies may make the global monetary system less vulnerable to shock. And the dollar’s current pre-eminence is not an unalloyed good for America: it distorts the currency’s value (upwards) and market interest rates (downwards).
 
 In the interim, however, the new era of monetary experimentation carries three big risks. First, a further escalation of sanctions could cause a financial shock, for instance if China’s giant banks, which together have over $1trn of dollar assets, were targeted. The second worry is that the more politicised America’s financial hegemony becomes, the less reliable it will be in its long-standing role as a lender of last resort to offshore dollar-based financial markets and banks. The third is that transitions in the global monetary order are inherently unpredictable. Some economists believe the Depression was partly caused by the absence of a hegemon to steady the world economy. Mr Trump’s upping of the financial pressure will have repercussions far beyond Tehran or Moscow.■
+
+## URL
+
+https://www.economist.com/leaders/2020/01/18/the-search-to-find-an-alternative-to-the-dollar

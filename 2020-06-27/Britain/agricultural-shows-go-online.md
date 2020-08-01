@@ -17,3 +17,7 @@ But Ms Nicolson couldn’t face a summer without a single show. Her newspaper’
 The format has enabled farmers from much farther afield to enter. Scottish goats will face competition from well-groomed rivals from Cornwall and Northern Ireland. Prizes for dogs, cakes and farm machinery will be determined by a public vote. At the end of the weekend, the most prestigious prize—champion of champions—will be handed out. “An enormous Charolais bull goes up against a pygmy goat and sometimes a duck,” says Ms Nicolson.
 
 Such a contest is a little absurd, but shows are also a serious business. Prizes help breeders fetch higher prices for their livestock. And the events bring farmers from across the country together, a welcome respite from work that can be socially isolating as well as physically demanding. Not all of that will be possible online, of course. “You can’t replicate the drams in the show marquee,” concedes Ms Nicolson. “But farmers are a competitive bunch and it’s the only show in town.”■
+
+## URL
+
+https://www.economist.com/britain/2020/06/25/agricultural-shows-go-online

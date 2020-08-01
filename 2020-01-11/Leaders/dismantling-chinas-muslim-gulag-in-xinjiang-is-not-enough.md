@@ -27,3 +27,7 @@ The Chinese government insists it is not oppressing anyone. Uighurs learn useful
 It is hard to assess such claims in a region where foreign reporters are kept under surveillance and ordinary people are afraid to talk to strangers. But there are reasons to be sceptical. Xinjiang is not awash with guns or extremists. It is a place where members of an ethnic and religious minority have been made to feel like third-class citizens in their ancestral homeland. By locking up so many innocents for growing beards or praying too loudly, China is stoking anger among Uighurs that could indeed lead to violence. Their Han neighbours will no doubt become even more suspicious and frightened of them. Xinjiang will become more divided, and in the long run less stable.
 
 The camps must be dismantled. So, too, must Xinjiang’s apartheid-like system, epitomised by the bingtuan and its mainly Han enclaves. Alas, those who suggest this are brutally silenced. In time, the Chinese government may discover what a terrible mistake it is making. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/01/09/dismantling-chinas-muslim-gulag-in-xinjiang-is-not-enough

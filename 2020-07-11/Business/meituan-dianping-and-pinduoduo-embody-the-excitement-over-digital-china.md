@@ -43,3 +43,7 @@ The market is giving Pinduoduo the benefit of the doubt. The pandemic appears to
 Meituan’s path to riches is clearer. It ended last year in the black for the first time. Its profitable food and travel arms have been gaining market share from rivals (such as Ele.me, Alibaba’s food-delivery app, and Ctrip, China’s biggest travel agency). That gives its loss-making divisions financial breathing room.
 
 Ultimately, both firms embody the excitement over digital China’s bright prospects. But TAMP will only become the new BAT if both firms can match Tencent’s and Alibaba’s consistently fat profits. ■
+
+## URL
+
+https://www.economist.com/business/2020/07/09/meituan-dianping-and-pinduoduo-embody-the-excitement-over-digital-china

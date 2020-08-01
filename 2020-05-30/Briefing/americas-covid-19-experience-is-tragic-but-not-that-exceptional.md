@@ -89,3 +89,7 @@ Part of the point of a sustained lockdown is to take the time it buys to build t
 Experts have recommended that a disease-surveillance scheme up to the task of nipping such recurrences in the bud would require testing rates of at least 1m per day. Some want a rate double or triple that. But today’s rate is reported to be less than half the desideratum—about 400,000—and that is probably an overstatement. Some states are juicing their numbers by reporting the results of antibody tests (which reveal that someone has had the disease) alongside diagnostic tests (which reveal current infections), an apples-for-oranges mistake.
 
 In spite of this, as far back as May 11th a barefaced Mr Trump triumphantly told a Rose Garden of mask-wearing journalists that the testing mission was accomplished: “We have met the moment and we have prevailed.” If that is by happy chance the case, it is no thanks to Mr Trump. But re-openings which feel premature after lockdowns which were sketchily observed suggest it may not be the case at all. There may be more sad records yet to be set. ■
+
+## URL
+
+https://www.economist.com/briefing/2020/05/28/americas-covid-19-experience-is-tragic-but-not-that-exceptional

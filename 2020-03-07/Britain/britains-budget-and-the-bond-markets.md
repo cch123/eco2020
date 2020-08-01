@@ -31,3 +31,7 @@ Domestic pension funds and insurance companies hold around a third of the stock.
 In a low-interest-rate environment with gilt demand still high, Mr Sunak will have no problem funding his additional borrowing. Indeed, some bond managers argue the government has been ignoring market pressure to borrow more. Just as high rates in the past were taken as sign that fiscal policy was too loose and should be tightened, low rates today might point to fiscal policy being too tight. “If anything, markets have been calling for easier policy for years in Britain,” says Toby Nangle of Columbia Threadneedle Investments, an asset manager.
 
 Things could, of course, change. The higher its debt, the more vulnerable a country is to shifts in market sentiment. But the average maturity of British government debt, at 15 years, is the longest of any advanced economy. Strong demand from pension funds for long-term paper has allowed Britain’s debt managers to gradually lengthen their borrowing. That maturity profile means not much of it needs to be refinanced each year and provides insulation against any sudden move in global interest rates. If Mr Sunak wants to splash the cash at the budget the bond market will be happy to oblige. ■
+
+## URL
+
+https://www.economist.com/britain/2020/03/05/britains-budget-and-the-bond-markets

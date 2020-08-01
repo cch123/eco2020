@@ -45,3 +45,7 @@ By contrast, in Switzerland local taxes stay where they are levied, so local gov
 Can such policies be adopted elsewhere, especially in English-speaking countries? It is largely a question of politics. Right-leaning parties in particular recognise that, since homeowners are widely perceived to be more likely to vote for conservatives, unless they can create a new generation of owner-occupiers they will eventually be voted out of office. As the rate of home ownership falls, owner-occupiers lose political power relative to renters, meaning that liberalising planning policy has a lower political cost. And as more people come to see the urgent necessity of cutting carbon-dioxide emissions, support may grow for a new generation of houses with more efficient heating and insulation.
 
 Nonetheless YIMBYs must tread a fine line. On the one hand, only a long-lasting construction boom has any chance of noticeably improving housing affordability. On the other hand, building on that scale would create much controversy, because of the disruption and because neighbourhoods would change. The continued rise of the YIMBYs is far from assured. ■
+
+## URL
+
+https://www.economist.com/special-report/2020/01/16/politicians-are-finally-doing-something-about-housing-shortages

@@ -15,3 +15,7 @@ The question arose late last year, when Pierre Morel-À-L’Huissier, a deputy f
 Last year second-home owners on the Ile d’Oléron, off the west coast, brought a case against a cockerel for crowing too early. The court ruled against them, rescuing Maurice, the unfortunate bird, from banishment or worse. In Soustons, in the south-west, a case was brought against the owner of 50 ducks and geese which made a din. Near the Pyrenees, a new resident in Foix filed a complaint against the village because the church bells were too noisy.
 
 Rural people are pushing back against this nonsense. The mayor of Saint-André-de-Valborgne, in southern France, has put up a sign outside his village warning visitors that they are entering a risk zone. Church bells ring often. Tractors make a racket. All because “farmers are working to give you what you eat.” These noises are “not a nuisance but intrinsic and authentic characteristics” of rural life, said Mr Morel-À-L’Huissier. And on its first reading, the National Assembly unanimously backed his bill.
+
+## URL
+
+https://www.economist.com/europe/2020/06/18/french-urbanites-fuss-about-rustic-noises-and-smells

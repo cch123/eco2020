@@ -17,3 +17,7 @@ Thanks to Boris Johnson’s big majority, the DUP has also lost the influence it
 The most alarming development, from the DUP’s point of view, is that Northern Ireland’s union with Britain looks increasingly insecure. Mr Johnson’s withdrawal bill, which returned to Parliament on January 7th, draws a dotted line between the province and the rest of the country by providing for different customs arrangements in the two areas. The latest poll in Northern Ireland showed a tiny majority in favour of the reunification of Ireland. The Good Friday Agreement, which brought peace to the province, mandates a referendum on reunification when it is clear that a majority in the province wants one.
 
 The loss of its influence in London has propelled the DUP back to the conference table to negotiate a revival of the assembly. A tough new tactic the British government has adopted has encouraged Sinn Fein to do the same. It is threatening to call fresh assembly elections unless the two parties reach agreement on a resumption of the power-sharing deal by January 13th. The prospect that the Alliance and the SDLP might gain ground in such an election increases the pressure on the DUP and Sinn Fein to make a deal. Stormont’s shutters may therefore reopen before long.■
+
+## URL
+
+https://www.economist.com/britain/2020/01/09/the-prospects-for-reviving-northern-irelands-government

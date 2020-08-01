@@ -29,3 +29,7 @@ Part of the answer is surely a desire not to appear weak. Last year Mr Trump let
 Then there is the official explanation: that the Iranian general was planning to kill more Americans. Mr Trump has long surrounded himself with Iran hawks. One, Mr Pompeo, insisted this week that America had a clear strategy of confronting and containing Iran, and that killing General Suleimani was the right decision. Failing to do so, claimed the chairman of the joint chiefs of staff, General Mark Milley, would have been “culpably negligent”.
 
 Will Mr Trump’s gamble work? His past pattern suggests he is betting he can soon settle for safety, after only minimal reprisals. He has told Iranians he is “ready to embrace peace”. But if he is sucked into tit-for-tat escalation, he will not only further outrage Democrats but risk losing part of his own base, at a time when he can ill afford it. Strangely but perhaps not surprisingly, for someone so keen to disengage from the region, his presidency could now depend on what happens in the Middle East. ■
+
+## URL
+
+https://www.economist.com/united-states/2020/01/09/deep-mistrust-of-donald-trump-complicates-his-iranian-gamble

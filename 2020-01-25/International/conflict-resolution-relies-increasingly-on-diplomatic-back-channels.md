@@ -49,3 +49,7 @@ A third challenge is measuring effectiveness. Backers—supportive governments, 
 The full impact can take years to become visible. In Sudan the Carter Centre facilitated a “Guinea worm ceasefire” in 1995, enabling health services to reach remote villages; this led to formal negotiations, a peace agreement and ultimately to the separation of Sudan and South Sudan in 2011. More often it is a matter of building relationships or preparing solutions for use when the political time is ripe.
 
 At its best, unofficial diplomacy complements the official sort. “They could do things that we couldn’t do,” says Michael Keating of his time as UN envoy for Somalia (he has since switched to the private side as head of the Brussels-based European Institute of Peace), “and we could do things that they couldn’t do.” But as this diplomatic ecosystem continues to expand, it needs to evolve, with tighter co-ordination, better measures and, old hands argue, a greater focus on the grassroots. The broader the support at the base, the sturdier a peace is likely to be. ■
+
+## URL
+
+https://www.economist.com/international/2020/01/23/conflict-resolution-relies-increasingly-on-diplomatic-back-channels

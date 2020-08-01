@@ -25,3 +25,7 @@ Sourdough starter is an expression of place and individuality. The precise combi
 With proper care and feeding, starters can last indefinitely, subtly changing over time as the bakers themselves must. To create a starter, then, is to encourage and nurture life—a noble mission, especially in a virus-stricken age. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/05/05/why-and-how-to-bake-your-way-through-the-lockdown

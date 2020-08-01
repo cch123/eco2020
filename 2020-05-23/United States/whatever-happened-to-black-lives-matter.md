@@ -25,3 +25,7 @@ Other factors could also be behind that. Police in both Chicago and Los Angeles 
 Another way to look at it, argues Eitan Hersh at Tufts University, is that nearly six years after Ferguson, BLM counts as a rare success just for surviving, considering that it first existed mostly online. He has studied how most digital social movements, especially left-leaning ones, fizzle soon after they draw attention to a particular problem. Online outfits hardly ever build structures that have an impact in the real world. They are amplified by what he calls political “hobbyists”, those Americans who post avidly online about social matters—like racial equity—but do nothing practical to follow up offline.
 
 In contrast, “BLM is very concrete and practical. It has a clear goal and is trying to tackle a salient problem,” says Mr Hersh. He too reckons its local actions, such as when activists turn out to speak at public meetings with police, are its most important contribution. Meanwhile, though core members stay committed—Ms Adbullah says black people don’t have the “privilege” of feeling exhausted by a campaign for civil rights the way “non-black folks” can—BLM’S wider allies, who are typically white, well-educated and liberal-minded, seem to have lost interest. The hobbyists now think “this is not a new, sexy thing”, says Mr Hersh: this Swoosh has lost its appeal. ■
+
+## URL
+
+https://www.economist.com/united-states/2020/05/21/whatever-happened-to-black-lives-matter

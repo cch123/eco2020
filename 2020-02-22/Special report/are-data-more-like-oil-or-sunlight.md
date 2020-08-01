@@ -57,3 +57,7 @@ Most projects are still small and live on the public dime, which raises doubts a
 Given their respective limitations, none of the three sorts of data economies will dominate, but they are likely to have strongholds. In America data are treated like oil: whoever extracts them owns them. China—although it, too, has data-hungry online platforms of its own, including Alibaba and Tencent—is an extreme example of a place where data are public goods. They are ultimately controlled by the government, which is pushing firms to pool certain types, such as health data. In Europe, many regulators have come to see data as infrastructure. The new European Commission in Brussels has big plans to support the creation of data trusts.
 
 This sounds as if the EU is about to condemn itself to remaining a tech laggard. But this need not be the case. A “fair data-economy”—one that takes into account the interests of citizens and consumers, who will generate much of the fuel of the future—may prove to be quite competitive, says Luukas Ilves, the co-author of a report for Sitra in Finland. If people, as well as firms, can trust the continent’s data infrastructure, they will be willing to share more and better data, which means better services for everyone. If such a “virtuous cycle” were to take off, it would be quite a reversal of the old world’s fortunes.■
+
+## URL
+
+https://www.economist.com/special-report/2020/02/20/are-data-more-like-oil-or-sunlight

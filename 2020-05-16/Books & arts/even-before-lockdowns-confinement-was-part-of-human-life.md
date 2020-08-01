@@ -43,3 +43,7 @@ Physical feats of exploration, too, often rely on confinement. To stumble on the
 A dive on Alvin could last no longer than nine hours. But Al Worden, an astronaut on Apollo 15, spent 67 hours in lunar orbit in a command-module cabin with 6.17 cubic metres of space, while his two colleagues walked on the Moon. Other things confined him too: his clumsy space suit, and the minute-by-minute schedule imposed by mission control. In the simple poems he wrote afterwards (for he felt that the official debriefing only scratched the surface), the narrowness of his circumstances never rated a mention. He noticed only how unconfined he was, among the pirouetting stars, gazing at the “cloudy frail earth”, on which all the colours of the universe seemed to be focused:
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/05/16/even-before-lockdowns-confinement-was-part-of-human-life

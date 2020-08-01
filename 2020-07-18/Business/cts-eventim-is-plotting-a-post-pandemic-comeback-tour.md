@@ -19,3 +19,7 @@ Now the shares are back down where they were 18 months ago. But Mr Schulenberg i
 Now some of them may instead be swallowed by CTS Eventim, which has a history of aggressive takeovers. In 2015 Germany’s competition watchdog investigated it after a series of acquisitions. The firm was cleared, but two years later regulators blocked its purchase of Four Artists, a Berlin-based concert promoter. Today trustbusters may be more lenient if a takeover is seen as a way for smaller fry to survive the corona-crisis. CTS Eventim has tolerable debt and enough cash to withstand two years of current lockdown restrictions. In the meantime, lenders would probably help bankroll acquisitions by a firm that analysts describe as, ehem, “rock solid”. ■
 
 To keep up with our coverage of the pandemic, visit our coronavirus [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus). Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter).
+
+## URL
+
+https://www.economist.com/business/2020/07/18/cts-eventim-is-plotting-a-post-pandemic-comeback-tour

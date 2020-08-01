@@ -23,3 +23,7 @@ As China invests to recover from the pandemic, though, the Americas are still gr
 It is unclear how long copper prices can be sustained by investment in one place and infection in another. The metal’s traditional engine—strong global economic growth—is sputtering. Continued infections in America or a resurgence of the virus elsewhere could further depress demand for appliances, cars and other copper-dependent goods.
 
 That said, on July 21st European leaders agreed to new stimulus; and demand for copper may rise as countries outside China invest in electric grids and solar farms veined with the metal. Gold’s rally may be even more persistent, argues Mr Currie, supported by factors that linger through the 2020s: high debt levels that weigh on the dollar, and low interest rates. The journey skyward may not be over yet. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/07/23/unusually-copper-and-gold-prices-are-rising-in-tandem

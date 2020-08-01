@@ -41,3 +41,7 @@ But is Mr Trump capable of doing what is needed to win? He would have to take th
 All this puts Mr Trump on a path to a resounding rebuke of his presidency in November. Every day that passes without a course-correction increases the likelihood of his defeat. ■ 
 
 Dig deeper:
+
+## URL
+
+https://www.economist.com/united-states/2020/07/02/donald-trump-faces-a-much-bigger-task-than-he-did-in-2016

@@ -51,3 +51,7 @@ The third worry for many Chinese firms is the prospect of being shut off from th
 It is a testament to the private sector’s strength in China that it has held up. The share prices of smaller listed firms have done only half as badly in the pandemic as those of their counterparts in America and Europe. Whereas America’s small businesses have underperformed its biggest corporations by a factor of two, in China the small fry have done nearly as well as the whales (see chart). Once the crisis passes, venture capitalists, including home-grown ones, will no doubt loosen their purse strings.
 
 And although Mr Xi has been less green-fingered than his predecessors, he is unlikely to pave over China’s flowerbeds of enterprise. The party realises that its promise of future growth requires a robust private sector. As one veteran foreign observer adds, it is also a useful “vaccine”—one that inoculates the regime against those too wilful to serve its interests as bureaucrats. Better for them to channel energy into entrepreneurship. Luckily for Mr Xi, many are still happy to do just that.■
+
+## URL
+
+https://www.economist.com/business/2020/04/30/private-companies-have-put-down-strong-roots-in-china

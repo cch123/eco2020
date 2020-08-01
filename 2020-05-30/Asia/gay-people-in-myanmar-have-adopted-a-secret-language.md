@@ -23,3 +23,7 @@ Bansaka can provide a modicum of protection. When Mr Moe Aung, who performs as a
 Most gay men and transgender women learn bansaka at work, in the few jobs open to them: spirit mediumship, hairdressing, make-up and floristry. “[These jobs] offer more than employment,” says Mr Gilbert. “They operate more like alternative families.” Employees typically live together, in their workplaces. Younger members of staff, or “children”, pick up the lingo from their boss or “mother”.
 
 Today bansaka offers less protection than it used to. Over the past 15 years, the public has cottoned on. Though most don’t understand it, they “do recognise that it’s bansaka”, says Mr Thu Yain Maung Maung, and have even adopted some words. Bansaka may also be losing its utility for the young. Hein Maung, a gay 24-year-old, says that gay youths hardly speak it anymore; instead they communicate privately with each other via social media. But Mr Moe Aung is sceptical. His organisation hosts picnics attended by lots of youngsters who find learning bansaka fun. “The slang will never disappear,” he says, before flashing the “OK” hand gesture. ■
+
+## URL
+
+https://www.economist.com/asia/2020/05/30/gay-people-in-myanmar-have-adopted-a-secret-language

@@ -77,3 +77,7 @@ In 2018 Dr Buchbinder was one of the authors of a series of studies on back pain
 Mr Moore, for his part, has not taken pain medication since 1997. To keep his pain at a manageable level, he starts his day with stretching at home for half an hour, followed by an hour and a half at the gym. And he leads a full life.■
 
 Correction (January 16th 2020): An earlier version of this article stated incorrectly that Mr Moore’s doctor was in Peterborough and that he was given steroid injections.
+
+## URL
+
+https://www.economist.com/briefing/2020/01/18/back-pain-is-a-massive-problem-which-is-badly-treated

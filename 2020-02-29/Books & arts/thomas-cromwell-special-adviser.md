@@ -35,3 +35,7 @@ In fact, much of the fictional Cromwell’s outlook chimes with that of defender
 One of the author’s achievements is to show competence as a heroic virtue, and good administration to be as worthy of glory as feats of arms (across the trilogy, business meetings are by far the most common type of scene). Early in “Wolf Hall”, she affords Cromwell a blazon—a catalogue of flattering attributes of a sort that, in his own time, would have been used to extol a great beauty or flower of chivalry: “He is at home in courtroom or waterfront, bishop’s palace or inn yard. He can draft a contract, train a falcon, draw a map, stop a street fight, furnish a house and fix a jury…He works all hours, first up and last to bed.”
 
 What marks Ms Mantel’s hero out—and makes his story something of a wish-fulfilment fantasy for modern readers who admire his ends if not his means—is his sheer effectiveness. Almost until the last, he gets things done, whether that is making or breaking royal marriages according to the king’s whim, or replenishing the country’s coffers by expropriating the assets of the church. Ms Mantel’s genius is to make his 16th-century instincts, such as a willingness to decapitate anyone standing in his path, seem as plausible as his more familiar qualities. A courtier, a bureaucrat and a politician, her Cromwell synthesises contrasting approaches to government nearly 500 years after his demise. No wonder he has found a place in the sun. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/02/27/thomas-cromwell-special-adviser

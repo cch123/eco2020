@@ -21,3 +21,7 @@ The crucial phrase in all this is “heated appropriately”. Dr Broughton and h
 In this context, having two approaches provides flexibility. Expandable graphite’s disruptive effect is triggered at a slightly higher temperature (160°C) than the 125°-150°C which causes the microspheres to inflate. (The exact behaviour of a microsphere depends on which hydrocarbon is inside it.) This process is, moreover, surprisingly quick. Dr Broughton’s colleague Lucy Eggleston, who works at the National Composites Centre, in Bristol, says that after a mere six seconds of heating, “the components just pop apart”.
 
 Disbonding of this sort might have wide application. But one particular prize the team have in sight is the wind-turbine market. Turbine blades typically have glass-fibre skins, balsa-wood cores and metal or carbon-fibre spars. That makes them ideal candidates for disbonding at the ends of their lives. In Europe alone, 14,000 wind-turbine blades will be decommissioned over the next five years. For these, disbonding comes too late. They will, though, need to be replaced—and the green credentials of wind-farm operators would certainly be burnished further if those replacements were designed for easy recycling.■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/05/28/self-destructing-glue-solves-a-sticky-environmental-problem

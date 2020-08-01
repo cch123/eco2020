@@ -25,3 +25,7 @@ But the general has other considerations. For a start, his biggest tactical adva
 He also worries about dissent in his own ranks. His self-styled Libyan National Army is riven with tribal and regional splits. Some commanders served under Muammar Qaddafi; they naturally mistrust the general, who betrayed the dictator. Big offensives help to submerge those disputes. But the general fears retreat might encourage a challenge to his leadership.
 
 As delegates gathered in Berlin, gunmen aligned with General Haftar cut off oil shipments from Libya’s main ports. The closure has halted almost all of Libya’s production and will starve the Tripoli government of revenue (oil accounts for more than 90% of its budget). These are hardly the actions of a man interested in peace. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/01/23/khalifa-haftar-the-libyan-warlord-is-not-interested-in-compromise

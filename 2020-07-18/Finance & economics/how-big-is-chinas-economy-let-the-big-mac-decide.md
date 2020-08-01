@@ -27,3 +27,7 @@ The sceptics won some vindication in May when the World Bank released its latest
 But are these new estimates any more robust than earlier efforts? Comparing prices across the world is fraught with difficulties. An item may be a staple in one place and a delicacy in another. The World Bank must also decide how much weight to give each item. That depends on shopping habits, which differ—partly because prices differ. It is easy to go around in circles.
 
 So it might help to check the World Bank’s results against a cruder yardstick—like the price of a Big Mac. Our index suggests that the bank now, if anything, underestimates the buying power of China’s currency, and therefore its economic size. McDonald’s was once a symbol of America’s economic might. Now the Big Mac shows how its might is being surpassed. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/07/18/how-big-is-chinas-economy-let-the-big-mac-decide

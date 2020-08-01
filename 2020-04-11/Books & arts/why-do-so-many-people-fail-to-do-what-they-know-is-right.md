@@ -23,3 +23,7 @@ This book’s chief virtue lies in its wealth of instructive examples—whether 
 A new lexicon is required, the author concludes. To this end, she cites Jeffrey Wigand, a biochemist who in the 1990s revealed that Brown & Williamson, a tobacco firm, was manipulating its products to make them more addictive. Mr Wigand thinks the word “whistleblower” is “laden with pejorative connotations” and should be replaced by “person of conscience”.
 
 Ms Sanderson prefers the term “moral rebels”, and sets out some practical strategies to inspire more of them. “Create a culture of speaking up,” she suggests, and encourage children to question authority. But she is aware of the obstacles, too. “We need to develop our ability to feel empathy,” she writes, while conceding this will be tricky in an age suffused with narcissism. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/04/08/why-do-so-many-people-fail-to-do-what-they-know-is-right

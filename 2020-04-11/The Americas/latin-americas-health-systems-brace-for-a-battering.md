@@ -45,3 +45,7 @@ Scarcity raises the risk that the poor will suffer far more from the pandemic th
 In such expedients may lie the seeds of change. Every government in the region is learning a hard lesson about the value of investing in public health. The problem is, covid-19 is destroying the prosperity that would help make it happen. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/the-americas/2020/04/11/latin-americas-health-systems-brace-for-a-battering

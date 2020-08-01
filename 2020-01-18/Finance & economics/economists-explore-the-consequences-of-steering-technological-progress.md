@@ -23,3 +23,7 @@ Why stop there? Some futurists, and a few economists, worry that rapid progress 
 Environmental policies aside, such steps seem premature. A more sophisticated view of technological progress is to be welcomed. But economics lacks the tools, at least for now, to judge which technological path is preferable. The world is too complex to allow economists to compare hypothetical technological futures: to know whether a Zeppelin-based society would operate more efficiently overall than a car-based one. Economists cannot know what surprises lie down one innovation path rather than another.
 
 And questions of technology are not solely, or even mostly, about efficiency. Many are ethical. Innovations with overwhelming productivity advantages could prove devastating to social trust or equity. In the face of radical technological change—in AI, robotics and genetic engineering—societies will inevitably argue over which technological paths should be explored. Economists’ views belong in these conversations—provided they are crafted with humility and care. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/01/16/economists-explore-the-consequences-of-steering-technological-progress

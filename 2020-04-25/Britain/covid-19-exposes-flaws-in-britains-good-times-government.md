@@ -27,3 +27,7 @@ Then there is Mr Johnson’s governing philosophy: that voters should get what t
 Rushing to build field hospitals and ventilators chimed with Mr Johnson’s ideal of a fast and muscular government. But unwinding the shutdown will be a frustrating process. Mr Johnson, his scientific advisers and public opinion are aligned behind the lockdown today. Over time they will probably diverge. Mr Johnson is said to fear a second spike in cases if social distancing is relaxed too soon. Thanks to covid-19, his supporters who voted for a return of the good times will be waiting rather longer. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/04/25/covid-19-exposes-flaws-in-britains-good-times-government

@@ -21,3 +21,7 @@ Even if enough native workers can be found, that may not solve the problem. Brit
 Alison Capper of the National Farmers’ Union, herself a farmer, wonders whether new recruits “will be able to pick at the same rate as people who are practised in these jobs”. Jack Ward, boss of the British Growers Association, worries about timing. Although new workers may arrive just in time to save the nation’s asparagus, an early end to the lockdown could send students and furloughed workers scurrying back to their real lives and jobs.
 
 For some farmers, the risk of relying on Britons is too great. To avert a crisis in the polytunnels, they have started shipping planeloads of Romanians into the country. Air Charter Services, whose customers are normally the uber-rich, has been hired by G’s Fresh, one of Britain’s biggest salad producers, to fly 150 Romanians into Stansted airport on April 16th; a further five flights are lined up. Each seat will set G’s Fresh back £250 ($313), and the passengers (who have been deemed essential workers by the Romanian government) will be kept apart on the flight and tested for covid-19 on touch-down. The airlift may spoil the wartime-spirit narrative, but it may save the nation’s broccoli.
+
+## URL
+
+https://www.economist.com/britain/2020/04/16/not-enough-britons-want-to-work-on-farms

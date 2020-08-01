@@ -31,3 +31,7 @@ Mr Romano hopes a way can nevertheless be found “to make steel without killing
 Negotiators are reportedly close to a deal that would involve ArcelorMittal continuing to operate the works, possibly in partnership with the government, on the understanding that one of the existing blast furnaces is renovated and a new electric one built. Such a deal would represent a defeat for the M5S—a party already wracked by bitter internal divisions that has seen its popularity collapse since 2018. But it would reduce the pollution, though not eliminate it. And it would save thousands of jobs.
 
 Still, it is clear that, if the factory is to operate at a profit and without becoming an endless drain on the resources of the long-suffering Italian taxpayer, thousands more jobs will have to go. ■
+
+## URL
+
+https://www.economist.com/europe/2020/02/27/the-travails-of-ex-ilva-europes-largest-steel-plant

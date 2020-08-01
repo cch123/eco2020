@@ -27,3 +27,7 @@ The government’s efforts to hamper the AA look flailing. It has blocked mobile
 Rakhine civilians are also coming under fire. Amnesty International claims that the army has been shooting indiscriminately at Rakhine settlements and torturing and murdering civilians. At any rate, more than 100,000 people have been displaced by the fighting. Analysis of media reports by Nyan Lynn Thit Analytica, a Burmese think-tank, shows that 42 civilians have died since March 23rd.
 
 The Tatmadaw risks turning “a war in Rakhine into a war on the Rakhine”, says Mr Davis. He believes that doing so will only encourage Rakhine civilians to rally around the AA with greater fervour. The rebels do not have the firepower to defeat the Tatmadaw militarily, but he is not sure that they need to. If they inflict sufficient humiliation on the Tatmadaw, he reasons, the government may decide to retreat from the fight and seek a political settlement. ■
+
+## URL
+
+https://www.economist.com/asia/2020/04/16/an-ethnic-militia-with-daring-tactics-is-humiliating-myanmars-army

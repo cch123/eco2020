@@ -22,3 +22,8 @@ Editor’s Note: Since publication of this article, the authors of the study on 
 
  Applying these revised figures to the calculation used in the piece—official covid-19 deaths divided by the increase in visits to doctors for non-flu ILI—would yield a fatality rate of 1.3% This is higher than the 1% estimate calculated by other researchers using different means. However, this approach excludes the large share of people infected by the coronavirus who do not visit a doctor. If we instead divide official covid-19 deaths by the authors’ revised estimate of total covid-19 infections, the fatality rate would be 0.4%. 
 
+
+
+## URL
+
+https://www.economist.com/graphic-detail/2020/04/11/why-a-study-showing-that-covid-19-is-everywhere-is-good-news

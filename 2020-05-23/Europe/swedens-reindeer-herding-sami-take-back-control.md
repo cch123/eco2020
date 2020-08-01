@@ -17,3 +17,7 @@ Not everyone is thrilled, particularly around the northern mining town of Kiruna
 The city council condemned such nastiness. “Racist hatred must never be tolerated,” says Mattias Timander, the council’s chairman. Still, critics argued that Sami should be treated like anyone else. The politics of indigenous rights in Sweden differ from those in America or Canada: ethnic Swedes consider themselves natives, too.
 
 The Sami have been in Scandinavia for millennia. They are linguistically and genetically distinct. In Sweden, a country of 10m people, there are only about 20,000 Sami. But the state owes them a fair shake. It long oppressed them on racial grounds. The main thing, Mr Timander and Mr Fjallas agree, is for the government to incorporate the ruling into law so herders, hunters and miners can stay out of each other’s way.
+
+## URL
+
+https://www.economist.com/europe/2020/05/21/swedens-reindeer-herding-sami-take-back-control

@@ -19,3 +19,7 @@ Verbatim theatre—in which the drama is adapted from real-life documents and tr
 The mining tragedy “gets at the heart of what we need to be grappling with as a country,” reckons Ms Blank. Since the playwrights began work on the project in 2014, its themes have become only more pressing: anxiety over corporate power; declining unions; the erosion of opportunities for poorly educated American men; an over-reliance on fossil fuels. Still, persuading the miners and their families to talk was difficult, not least because “this is a community that has long been exploited by outsiders,” says Ms Blank. Once they gained their subjects’ trust, however, they discovered that West Virginians were natural raconteurs. “Every person we spoke to was a beautiful storyteller,” says Mr Jensen.
 
 The duo hope “Coal Country” will soften metropolitan views of rural America. “A bias against the rural working class is one of the last socially acceptable prejudices to hold publicly among coastal progressives,” observes Ms Blank. She confesses to being surprised by the nuances of politics in Appalachia, where families display their guns proudly but hold left-wing convictions about workers’ rights. By letting these Americans speak for themselves, the playwrights hope audiences will empathise with their stories—and grasp the pain behind their nostalgia for a simpler time. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/03/07/a-west-virginian-tragedy-in-manhattan

@@ -25,3 +25,7 @@ Kristalina Georgieva, who took over at the fund last year, “is making another 
 The IMF’s fight against covid-19 may further redeem the institution in Mr Stiglitz’s eyes. He supports its desire for a new allocation of “special drawing rights”, which would give the fund’s poorer members a claim on the currency reserves of its richer ones (see [article](https://www.economist.com//finance-and-economics/2020/04/11/should-the-imf-dole-out-more-special-drawing-rights)). It is an instrument he has promoted since at least 2006. Much of the fund’s habitual hard-nosedness reflects its fear that bail-outs might encourage imprudence. But such concerns hardly apply to a pandemic. Rescuing a country from the virus will not make it likelier to succumb to another outbreak.
 
 Does Mr Stiglitz worry that his followers will like him less if he likes the fund more? He insists that he has stayed true to the “broad principles” that motivated his original criticisms. He has been “steadfast” in his belief that markets fail, capital can flow too freely, inequality matters and depressed economies need stimulus, not austerity. But he is, perhaps, more tactful. The revised edition of “Globalisation and its Discontents”, published in 2017, still mentions Mr Fischer’s departure for Citigroup. But the passage suggesting an explicit quid pro quo has disappeared. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/04/08/joe-stiglitz-and-the-imf-have-warmed-to-each-other

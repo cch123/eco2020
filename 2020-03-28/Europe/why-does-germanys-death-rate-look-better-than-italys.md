@@ -25,3 +25,7 @@ Another reason why Italy’s death rate looks much higher is that its epidemic b
 Lastly, Italy’s deaths would not be so numerous if its covid-19 patients had not overwhelmed its hospitals. The country’s epidemic has been concentrated in the Lombardy region, whereas Germany’s cases have been distributed more broadly across several hotspots. As the disease spreads in both countries, it will become clearer whether the German health system really is so much better than Italy’s at keeping covid-19 patients alive. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/03/26/why-does-germanys-death-rate-look-better-than-italys

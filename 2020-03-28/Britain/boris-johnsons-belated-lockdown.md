@@ -29,3 +29,7 @@ Mr Johnson is also under fire for not investing enough in testing equipment, not
 The prime minister must certainly hope so. His premiership was meant to be defined by Brexit, the issue that brought it about. But it now seems more likely to rest on the fight against covid-19 and its aftermath. And even if he wins this war, his future is not guaranteed: after his hero, Winston Churchill, beat the Nazis, he lost the 1945 election to a revitalised Labour Party by a record margin. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/03/26/boris-johnsons-belated-lockdown

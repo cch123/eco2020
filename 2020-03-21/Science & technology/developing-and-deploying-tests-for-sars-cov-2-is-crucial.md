@@ -39,3 +39,7 @@ Designing a serological test, then, is straightforward. Checking that it gives a
 Once validated, serological tests are fast and cheap to run at scale. They have already been deployed in China, Singapore and South Korea. Data on their efficacy, however, have not yet been publicly released or independently verified. America’s CDC is evaluating two serological tests and Public Health England, the relevant government body in that country, is also working on a test. Chris Whitty, England’s chief medical officer, said that the introduction of such a test would be a “game changer” in the quest to track and control the spread of SARS-CoV-2 across the population. It cannot come fast enough.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/03/19/developing-and-deploying-tests-for-sars-cov-2-is-crucial

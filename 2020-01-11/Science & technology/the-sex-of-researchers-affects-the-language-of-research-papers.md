@@ -21,3 +21,7 @@ A paper just out in the BMJ, a medical-research journal, however, offers some su
 One possibility to be tested is that men really do do more “novel” and “promising” research than women, and thus merit their self-praise. The paper’s authors tried to make that test. They looked at the prestige rankings of the journals involved, and compared similar papers in particular research areas as carefully as possible. Although it is hard to exclude the possibility entirely, other research suggests that men are simply more into self-puffery than women are. They are, for example, more likely to cite themselves, according to an article published in 2017 in Socius, a sociology journal.
 
 So should women blow their own trumpets harder? One recent paper rebuts that easy conclusion. In a study of economics research, women were subject to more comments from reviewers, and made to revise their submissions more. Women’s “readability scores” (a measure rewarding short words and sentences) increased over subsequent drafts, and over subsequent papers across their careers. In trying to please stubborn reviewers, they seem to be making their abstracts simpler and more straightforward, and so perhaps also cutting extra words—like “promising”.
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/01/09/the-sex-of-researchers-affects-the-language-of-research-papers

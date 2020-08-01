@@ -19,3 +19,7 @@ Mr Johnson says the priority is to try to reduce costs. The review panel is exam
 Even though the extra £38bn represents a big slice of the £100bn of additional infrastructure spending the government plans over five years, clawing back much of it looks unrealistic. Indeed, Mr Johnson may go for an even bigger splurge, by giving the go-ahead to Northern Powerhouse Rail (NPR), a high-speed line over the Pennines unofficially called “HS3”. Many rail experts argue that HS3 is the truly transformational scheme. The average speed by train between the north’s main cities is currently 46mph. NPR would raise that to 140mph.
 
 “HS2 will be saved by integrating it with HS3,” says someone close to the Oakervee panel. With HS3 budgeted at £39bn, the total cost would soar well above £100bn. In order to have something on the ground by the next election, the government might both go for HS3 and prioritise HS2’s more northerly track upgrades. As with the trains themselves, speed will be of the essence.
+
+## URL
+
+https://www.economist.com/britain/2020/01/09/not-just-hs2-but-hs3

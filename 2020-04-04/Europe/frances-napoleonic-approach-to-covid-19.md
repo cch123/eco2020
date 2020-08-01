@@ -31,3 +31,7 @@ Moreover a centralised administration relies on high levels of trust, since ther
 It is a sobering moment for a country with a first-class health system and one of the highest life expectancies in the world. France is hoping that confinement will begin to slow the rate of admissions to intensive care to a manageable level while orders of extra equipment, including much-needed ventilators, come through. In the meantime, hospitals are doing what they can. And Paris, where the streets are as empty as intensive-care units are full, is steeling itself for the worst. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/04/04/frances-napoleonic-approach-to-covid-19

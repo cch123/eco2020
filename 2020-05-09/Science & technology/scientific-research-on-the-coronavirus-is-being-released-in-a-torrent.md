@@ -47,3 +47,7 @@ Conventional journals might struggle to analyse the wide range of trade-offs fro
 As Stuart Taylor, publishing director of the Royal Society, Britain’s top scientific academy, observes, moves towards more open science, preprints and faster dissemination of results were under way before the covid-19 pandemic. But these events will heighten those changes and probably make them permanent. Scholarly communication seems to be at an inflection point. Like many other things until recently taken for granted, it may never return to the way it was before SARS-CoV-2 came along.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/05/07/scientific-research-on-the-coronavirus-is-being-released-in-a-torrent

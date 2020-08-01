@@ -27,3 +27,7 @@ Now that seems to be changing. A number of recent French films have taken a hard
 Olivier Nakache and Éric Toledano, the pair behind “Hors Normes”, made their name with “Intouchables”, a blockbuster comedy. In their latest film they turn to the efforts of two social workers in Paris (one played by Vincent Cassel, who memorably starred in “La Haine”) to offer shelter and purpose to severely autistic youngsters whom the social-welfare system fails. When the central autistic character, Joseph (Benjamin Lesieur), pulls the alarm in the metro, it serves as a wider metaphor. “The important thing”, Mr Nakache has said, is “to break the taboo on certain subjects”.
 
 As a movie, “Hors Normes” has touching moments, although in the end its message gets in the way of a truly compelling drama. Such is the risk with the genre. The politically engaged films made in the 1990s after “La Haine” were also of patchy quality. Nor are these politically sensitive films always simple to finance. “Les Misérables” itself struggled, initially winning no backing from official French cinematic institutions. Still, whether or not Mr Ly’s disturbing, sharply observed story claims an Oscar, in France, at least, it has already made its mark. “It’s good that French film is offering something other than bourgeois cinema,” says Mr Barral, the co-producer. “Perhaps people have had enough of that.” ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/02/06/a-new-wave-of-french-films-tackle-social-problems-and-taboos

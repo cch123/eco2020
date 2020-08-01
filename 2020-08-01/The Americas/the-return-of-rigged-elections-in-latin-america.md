@@ -23,3 +23,7 @@ Bolivia is the most worrying example of the new electoral prohibitionism. Last N
 Either would be a dangerous course. Disqualifying Mr Arce would deny legitimacy to the election’s winner and condemn Bolivia to years of conflict. Far better would be for Ms Áñez to back Carlos Mesa, a former president who was Mr Morales’s main rival last year. She should recall the analogy of Argentina in 1955. “Instead of destroying Peronism …persecution swiftly reinvigorated it,” concluded David Rock, a historian.
 
 Mr Morales and Mr Correa were less than fully democratic in office, undermining the separation of powers and riding roughshod over opponents. Their critics fear that if allowed back, they would hold power for keeps. But democracy cannot be saved by curbing it.
+
+## URL
+
+https://www.economist.com/the-americas/2020/07/30/the-return-of-rigged-elections-in-latin-america

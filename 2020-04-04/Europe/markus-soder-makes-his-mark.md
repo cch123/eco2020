@@ -27,3 +27,7 @@ No wonder people are asking if he might seek the biggest job of all. Mrs Merkel 
 Mr Söder has always insisted he has no interest in quitting Munich for Berlin. Now, when lives are at stake, he dismisses the speculation as indecent. Messrs Strauss and Stoiber both ran, but failed, to become chancellor. Yet the longer Mr Söder outshines his rivals, the more Germans will wonder if he might seek to break that Bavarian losing streak. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/04/04/markus-soder-makes-his-mark

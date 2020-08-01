@@ -17,3 +17,7 @@ The results are dramatic (see chart). Whereas the ONS previously believed prices
 ![](./images/20200711_BRC363.png)
 
 Just how much that change will boost the headline growth number will not be clear until October, when the ONS will detail the changes’ impact on the wider economy. Some of the newly discovered growth in telecoms output will come at the expense of other sectors, but higher overall growth will translate to a stronger productivity performance.■
+
+## URL
+
+https://www.economist.com/britain/2020/07/09/has-the-ons-solved-the-productivity-problem

@@ -29,3 +29,7 @@ Support for elections should be more creative. Rather than merely watching what 
 Most important, outsiders should support institution-building. This is slow and thankless. The results are less visible than China’s railways and dams. Yet it is essential. Prosecutors, legislators and journalists all need training; some also need cash to keep the lights on. African whistle-blowers are harder to ignore when outsiders trumpet their findings. It would be wrong for outsiders to fund opposition parties. But championing financial liberalisation can make for more competitive politics, especially in countries where state-run banks deprive opposition parties of credit, thus making it hard to fund campaigns.
 
 Africa matters. By 2060 it will have twice as many people as China. Outsiders should care whether such a giant neighbour is prosperous and peaceful. Democracy cannot guarantee that, but its absence makes poverty and disorder more likely. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/03/05/how-african-democrats-can-fight-back

@@ -39,3 +39,7 @@ A third principle is that countries must adapt. The balance of costs and benefit
 Perhaps, though, no new treatments will be found and test-and-trace will fail. By the summer, economies will have suffered double-digit drops in quarterly GDP. People will have endured months indoors, hurting both social cohesion and their mental health. Year-long lockdowns would cost America and the euro zone a third or so of GDP. Markets would tumble and investments be delayed. The capacity of the economy would wither as innovation stalled and skills decayed. Eventually, even if many people are dying, the cost of distancing could outweigh the benefits. That is a side to the trade-offs that nobody is yet ready to admit. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/leaders/2020/04/02/covid-19-presents-stark-choices-between-life-death-and-the-economy

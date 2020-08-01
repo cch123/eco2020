@@ -27,3 +27,7 @@ The government’s main vulnerability stems from its handling of covid-19 and th
 The PAP’s “4G” cadres—its rising fourth generation of leaders—have been given leading roles in managing the pandemic. Their lacklustre champion, Heng Swee Keat, the finance minister, who is expected to take over from Mr Lee during the next parliamentary term, has devised several stimulus packages worth a total of $72bn, almost 20% of GDP. More than half comes from Singapore’s formidable reserves. “Our reserves allow us to deal with this crisis from a position of strength, and give us options in a period of uncertainty like this,” he says.
 
 It should all be enough to retain the support of anxious voters. In recent surveys, some 80% of respondents told Blackbox, a Singaporean pollster, that the country is heading in the right direction. The real test for the PAP will come after the election. A prolonged downturn will gnaw away at the basic compact between the PAP and its voters, who disregard its domineering and nannyish ways because of the economic growth and social stability it has provided. Meanwhile Mr Lee has said he will retire before his 70th birthday, early in 2022. Although Singaporeans seem likely to vote against change, they are bound to get it, sooner or later. ■
+
+## URL
+
+https://www.economist.com/asia/2020/06/25/singapores-ruling-party-calls-an-election

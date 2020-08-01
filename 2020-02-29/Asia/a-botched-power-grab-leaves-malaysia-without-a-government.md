@@ -25,3 +25,7 @@ The ideological tensions among the parties in Pakatan Harapan worsened as Malay 
 Dr Mahathir is presenting himself as a unifying figure again, who could rise above all this infighting. “If I am allowed, I will try to form an administration that doesn’t side with any party. Only national interests will be prioritised,” he said this week in a televised address. But it is doubtful that he can reassemble his fractured government, since Mr Anwar has now laid claim to the job of prime minister. The remaining parties in Pakatan Harapan seem inclined to side with Mr Anwar, since they fear that their influence will diminish under a broader coalition led by Dr Mahathir. In theory, the opposition could try to form a government, with UMNO and PAS as its mainstays. But they are far short of the necessary 112 seats in the 222-member parliament and would probably prefer a snap election anyway.
 
 That leaves Mr Anwar scrabbling to clinch enough support from mercenary parties from Sabah and Sarawak, states in Malaysia’s bit of Borneo. He might also entice some migrants from Bersatu or win back a few PKR rebels. If he fails to do so, however, the consequences are likely to be fatal for his 20-year-old ambition to become prime minister. Voters, already put off by the endless bickering within Pakatan Harapan, have presumably been even less impressed with the frantic horse-trading of the past few days. ■
+
+## URL
+
+https://www.economist.com/asia/2020/02/27/a-botched-power-grab-leaves-malaysia-without-a-government

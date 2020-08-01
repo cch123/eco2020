@@ -21,3 +21,7 @@ General Naravane is correct to say that face-offs are not unusual. But the prese
 One reason for China’s ire may be the uptick in the Indian army’s construction work on the Indian side of the border. In particular, the road to Daulat Beg Oldi, the world’s highest airstrip and the site of a Sino-Indian standoff in 2013, was completed last year. The road, which runs along the Shyok river to the west of the Chinese positions in the Galwan valley, makes it easier for India to move troops for routine patrols or reinforcement in a crisis.
 
 The recent construction of offshoots from that road running towards the border probably triggered the Chinese intrusions. “The situation remains tense,” notes P. Stobdan, a former Indian diplomat, with “troops ... chasing each other in high-speed patrol boats” on Pangong lake. ■
+
+## URL
+
+https://www.economist.com/asia/2020/05/28/a-border-dispute-between-india-and-china-is-getting-more-serious

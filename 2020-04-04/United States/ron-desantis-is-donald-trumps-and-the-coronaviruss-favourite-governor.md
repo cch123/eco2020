@@ -37,3 +37,7 @@ Mr DeWine is able to compensate for Mr Trump’s shortcomings because he owes hi
 Floridians appear to be turning against him. They of all Americans recognise a bungled disaster response. Meanwhile Mr Trump, having at last recognised the disaster America faces, is making nice with all the governors. He says they are America’s front line. This suggests he means to blame them for what is to come.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/united-states/2020/04/02/ron-desantis-is-donald-trumps-and-the-coronaviruss-favourite-governor

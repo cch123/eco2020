@@ -83,3 +83,7 @@ Other political consequences of covid-19 will soon become clear. One may be a ri
 What will ultimately determine the fate of leaders on the continent, though, is how they combine their direct response to the virus with mitigating its vast indirect costs. Mr Ramaphosa has largely been open, decisive and bold. But even he will struggle to maintain public support as he tries to enforce a long lockdown. African countries face an unenviable task, which they cannot address alone. In trying to “flatten the curve” of the number of infected, they risk crushing their people. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/03/26/africa-is-woefully-ill-equipped-to-cope-with-covid-19

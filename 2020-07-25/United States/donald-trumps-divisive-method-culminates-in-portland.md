@@ -31,3 +31,7 @@ It is also unclear that it would be in his interests to do so. By giving conserv
 This is the fundamental problem with Mr Trump’s dividing line. He has set a minority of Americans against the majority. It does not look like a tenable frontier.■
 
 Dig deeper:Sign up and listen to Checks and Balance, our [weekly newsletter](https://www.economist.com//checksandbalance/) and [podcast](https://www.economist.com//podcasts/2020/07/24/checks-and-balance-our-weekly-podcast-on-american-politics) on American politics, and explore our [presidential election forecast](https://www.economist.com/https://projects.economist.com/us-2020-forecast/president)
+
+## URL
+
+https://www.economist.com/united-states/2020/07/23/donald-trumps-divisive-method-culminates-in-portland

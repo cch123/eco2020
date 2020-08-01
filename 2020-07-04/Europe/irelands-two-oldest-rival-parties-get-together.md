@@ -17,3 +17,7 @@ Yet probably not for much longer. For most of its history Fianna Fail, which has
 This mainly conservative cabinet will now have to devise uncharacteristically bold responses to crises on several fronts. Like the rest of the world, Ireland will wrestle with the social and economic costs of the covid-19 pandemic. With its intimate links to Britain, it has more to lose than any other EU member state if Brexit proves chaotic. And then pre-existing problems persist in housing and health care, which many voters blame on the inaction of both Fianna Fail and Fine Gael. This was largely why the pair were both punished in elections in February which, for the first time, saw Sinn Fein win more votes than either of the two establishment parties.
 
 Sinn Fein’s leader, Mary Lou McDonald, complains that the new coalition is a “conspiracy” to foil the people’s will, but with the Dail now aligned for the first time on a left-right axis, she will relish the chance to score points against a government with a difficult job that is likely to be unpopular. Her party may be trying to distance itself from its armed republican roots, but the old IRA slogan, “Tiocfaidh Ar La”, is ageing well. It means “Our day will come.” ■
+
+## URL
+
+https://www.economist.com/europe/2020/07/02/irelands-two-oldest-rival-parties-get-together

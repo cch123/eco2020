@@ -31,3 +31,7 @@ The efforts of some governments, including those of Britain, France and Germany,
 As a rule, governments are right to worry about the unaccountable power of the tech giants. In this case, though, Google’s and Apple’s cautious approach is sensible. In a pandemic, experimenting with novel public-health responses such as mass surveillance should be done carefully, in case it subsequently turns out to have nasty side-effects. With high-tech software, caution is as valuable as it is with pills and potions. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/leaders/2020/05/16/dont-rely-on-contact-tracing-apps

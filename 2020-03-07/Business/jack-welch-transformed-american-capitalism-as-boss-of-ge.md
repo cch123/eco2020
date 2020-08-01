@@ -45,3 +45,7 @@ The division grew quickly from the early 1990s, bolstering profits, free cashflo
 Industrial performance peaked as Mr Welch left, and collapsed between 2001 to 2003, with Mr Immelt in charge. Part of this was down to a recession in 2001. However, after 2003 GE’s industrial businesses continued to deteriorate; their returns on capital collapsed and cashflow dried up. Mr Immelt pursued pricey acquisitions (most notably of France’s Alstom, which makes power equipment, and Baker Hughes, an energy firm) and ill-timed asset sales. For years he continued to expand GE Capital. Though less dependent on short-term funding, it remained highly leveraged. It was pushed to the brink by the global financial crisis of 2007-09, saved only by a federal bail-out. Only then was Mr Immelt forced to shrink the division, a move his successors have since intensified.
 
 There is no denying that Mr Welch was a towering figure who helped jolt America Inc out of the complacent 1970s. At times, he may have shaken too hard. On March 4th the current boss, Larry Culp, observed that Mr Welch had “changed the business landscape as we know it”. He did not say whether it was for better or worse. ■
+
+## URL
+
+https://www.economist.com/business/2020/03/05/jack-welch-transformed-american-capitalism-as-boss-of-ge

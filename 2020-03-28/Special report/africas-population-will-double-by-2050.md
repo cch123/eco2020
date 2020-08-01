@@ -35,3 +35,7 @@ Nigeria has to pay 13% when issuing local-currency bonds. “What marks China, M
 But it is not enough to simply change the dependency ratio. Skills matter, too. A recent study by the African Development Bank found that the higher the literacy of countries, the more diverse their exports. Put together these various influences can be powerful. David Canning at Harvard University and others reckon that lowering the fertility rate by one child more than forecast in Nigeria would almost double the size of its expected increase in income per head by 2060.
 
 The big problem is continuing to get children into schooling. In Ghana primary-school enrolment jumped from 66% to 89% between 1990 and 2016. But in Nigeria school enrolment has dropped by four percentage points to just 61% since 2003. The situation is even worse in the north-east of the country, where the jihadists of Boko Haram (whose name, in Hausa, means “Western education is forbidden”) have attacked schools and kidnapped schoolgirls. For many families that cannot rely on the state for education, one option is to send someone across the sea. ■
+
+## URL
+
+https://www.economist.com/special-report/2020/03/26/africas-population-will-double-by-2050

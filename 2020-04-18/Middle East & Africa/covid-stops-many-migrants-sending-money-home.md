@@ -31,3 +31,7 @@ How far remittances fall depends chiefly on the severity of the downturn. Before
 Rich countries are trying to soften covid-19’s impact on poor countries by offering debt relief. But there are other steps they could take that would cost nothing and would make it easier for migrants to help their families back home. Money-laundering regulations could be relaxed to let operators wire money instead of flying it, and make it easier for people to open digital accounts. And how about classifying money agents everywhere as essential services, allowing them to stay open? ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/04/16/covid-stops-many-migrants-sending-money-home

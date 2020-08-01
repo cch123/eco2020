@@ -27,3 +27,7 @@ By choosing to retain the peg, west African governments are deliberately binding
 Yet critics worry that monetary policies aimed at keeping inflation low in Europe are not necessarily right for Africa. The rigidity of the currency’s peg, which has only been devalued once in its history, is also a worry. If wage growth in the eco zone exceeds that of the euro-zone (adjusting for productivity) then the eco’s fixed exchange rate would become overvalued. That would retard exports and encourage imports.
 
 For all the uncertainty, the change has already produced one positive outcome. A passionate argument about neocolonialism is being transformed into a drier one about inflation. That should calm tempers in the streets, even as it sets economists’ pulses racing. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/01/04/making-sense-of-west-africas-new-currency

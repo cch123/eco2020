@@ -35,3 +35,7 @@ The reactor of choice—Mr Zou says that Li Keqiang, China’s prime minister, h
 The reactor-export business development of China’s nuclear industry has gone well. Technology-transfer agreements with foreign companies like Framatome were carried out without controversy. Lower wages for manufacturing workers combined with cheap state-backed loans meant that Chinese nuclear plants are some of the most affordable in the world. There have been no accidents in 20 years of operation.
 
 Though many Western experts believe that nuclear power has a real, if smallish, role in the energy systems of the future, exporting nuclear plants may never be a huge business. In most places, the zero-carbon electricity they offer will not be as cheap as wind or solar. The Chinese are aware of this, too. Their renewables industry has grown even faster than nuclear power and the two sources are providing the country with broadly similar amounts of power. Again, the story is one of taking a foreign technology, indigenising it and scaling it up massively. Whether it be turbines, reactors, trains or satellite launchers, China has mastered this procedure. ■
+
+## URL
+
+https://www.economist.com/technology-quarterly/2020/01/02/chinas-nuclear-industry-and-high-speed-trains-are-world-class

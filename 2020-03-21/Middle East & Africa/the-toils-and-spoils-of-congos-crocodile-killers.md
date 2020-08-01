@@ -15,3 +15,7 @@ However, it harms wildlife in the rainforest, which spans six countries and is s
 Over-hunting has made life more dangerous for crocodile hunters. The number of dwarf crocodiles, once common in the Congo river, is dwindling. So hunters have to chase the ferocious Nile crocodile instead. There are plenty of those. Their scaly bodies stretch to six metres and they often kill humans. Stalkers in canoes go after them at night, shining a torch while stirring the water. “The crocodile does not like that,” says Mr Nyalowala. “He begins to writhe and then comes to attack.” As the animal pounces so do its pursuers, spearing it.
 
 A live crocodile fetches more than a dead one in the markets in Mbandaka, so hunters bind their jaws and transport them some 200km downstream in their canoes. They sell for around $150 each. A teacher at a state school, by comparison, earns around $170 a month, though many did not get paid at all last year. No wonder Mr Nyalowala’s parents wanted him to follow in his father’s footsteps.
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/03/19/the-toils-and-spoils-of-congos-crocodile-killers

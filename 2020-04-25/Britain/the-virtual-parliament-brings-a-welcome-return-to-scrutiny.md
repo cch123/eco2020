@@ -29,3 +29,7 @@ This is all to be welcomed on the condition that scrutiny does not degenerate in
 With that proviso, Parliament needs to do everything it can to increase its powers of scrutiny. Laura Kuenssberg, the BBC’s political editor, talks of Parliament putting its “digital toe” in the water. The rest of the body needs to follow. The Liaison Committee should get to work quickly under an independent chairman. Government ministers have enjoyed some big successes during this crisis. Most important, the NHS has not collapsed under the weight of the epidemic despite predictions to the contrary. But they have also made some unnecessary mistakes. Better scrutiny, whether physical or virtual, should improve ministers’ chances of avoiding more mistakes or, if they can’t avoid them, their chances of correcting course as quickly as possible. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/04/25/the-virtual-parliament-brings-a-welcome-return-to-scrutiny

@@ -21,3 +21,7 @@ Darke, it transpires, relieved his beloved wife’s suffering by administering �
 Once again, Mr Gekoski’s flawed and vividly drawn hero is the book’s driving force. Darke’s bilious temperament and no-nonsense attitude are a regular source of humour. His acerbic commentaries target Christmas trees, potted plants, parks, politicians, trains, infants and “that flatulent haggis Walter Scott”. The bravura set pieces include a poetry evening with “a bunch of superannuated, sofa-bound littérateurs”.
 
 The only wrong note in Darke’s otherwise commanding voice is an occasional wordiness (“her liquacious, loquacious spirit”). But his heart is laid bare in his contemplation of the woman who still haunts him. It is good to have him back. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/07/09/when-love-means-saying-goodbye

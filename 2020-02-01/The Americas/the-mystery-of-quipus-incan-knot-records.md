@@ -19,3 +19,7 @@ Scholars have been trying to puzzle out what messages are encoded in the knotted
 Quipus’ main use was as a management tool, says Gary Urton, who set up the Khipu Database Project at Harvard University. From the Incan capital in Cusco to the empire’s outer reaches in present-day Argentina, Ecuador and Colombia, quipus helped officials keep track of tax collection, command armies and maintain census records. The Incas had no written language. Quipus are the only documentary record of their life that does not come from Spanish chroniclers. Mr Urton has recorded the characteristics of more than 1,000 quipus in digital form and spent 30 years trying to understand them.
 
 Nowadays the largest collection of quipus, around 350, is in Berlin’s Ethnological Museum. Some 500 others are in Peru and Chile. To see quipus perform any function beyond serving as objects of study or curiosity, you will have to spend a new year in San Andrés de Tupicocha.■
+
+## URL
+
+https://www.economist.com/the-americas/2020/02/01/the-mystery-of-quipus-incan-knot-records

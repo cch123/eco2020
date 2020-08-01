@@ -39,3 +39,7 @@ One reason is that, although knowledge may be power, it may also be a needless w
 Trustable intermediaries—such as government health-care systems, regulators and reputable insurers—will help consumers to know what works best. They should also be able to help each other. Not everyone is motivated to improve their health, and even avid consumers of health data will rarely have the same sense of common cause as people with congenital diseases and their families. But health concerns bring people together, and through supporting each other they may develop new mechanisms for change.
 
 Because health systems look to the needs of the many, personalised medicine will hit its stride only when it can show that its approaches work in the round. But as people get more used to customising their lives through online services that know what they want, health care will get pulled along. There will be many false correlations, privacy violations, and errors along the way. But in the end, people of all sorts will benefit from being understood as unique. ■
+
+## URL
+
+https://www.economist.com/technology-quarterly/2020/03/12/the-way-people-live-their-lives-can-be-mined-too

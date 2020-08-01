@@ -57,3 +57,7 @@ Optimists argue that the structure of debt has become more flexible. Banks are i
 Who will be the winners? Every recession has them. Warren Buffett picked up assets on the cheap in 2007-09, while JPMorgan Chase cemented its place as America’s leading bank as the industry retrenched. Firms that thrive in downturns tend to have the clarity of purpose and financial muscle to keep investing and growing as others pull back, says Martin Reeves of the BCG Henderson Institute. It is a test of management and culture but also requires strong balance-sheets: 15% of firms in the S&P 500 have more cash than debt, including Apple and Monster Beverage. Investors with money are watching and waiting. The private-equity industry has some $2trn of cash. Mr Buffett sits on $128bn.
 
 A recession will come, eventually. When it does it will batter companies that have been sustained only by low interest rates. The churn as those businesses are sold, restructured or dissolved will extract an economic and human toll. Recriminations will fly, then abate. In time, the more productive firms that survived will think of ways to invest money profitably. That will lead to new jobs, then economic growth, then exuberance—and the cycle will start all over again. ■
+
+## URL
+
+https://www.economist.com/business/2020/02/20/business-and-the-next-recession

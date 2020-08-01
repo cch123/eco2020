@@ -23,3 +23,7 @@ But it may have more to do with what has happened to the creative arts. Success 
 Many younger aristocrats’ brands and businesses are intertwined with their families’. The Manners sisters, two models and a singer, daughters of the Duke of Rutland, use their popular social media accounts to promote events at Belvoir Castle, the family’s estate. Viscountess Weymouth’s recent stint on “Strictly Come Dancing”, a TV show, raised the profile of Longleat House, the family seat, along with aristocratic eyebrows. Viscountess Hinchingbrooke is an American blogger whose appearance on “An American Aristocrat’s Guide to Great Estates” and “Ladies of London” has boosted turnover at Mapperton House.
 
 Sam Friedman, a member of the government’s social mobility commission, thinks aristocrats in the creative arts have some cultural significance. “These are people who are mediating really important stories about who the British are today.” Economically, though, their new occupations probably do not add up to much: the Earl of Burlington’s photography and his wife’s fashion business are not what’s keeping Chatsworth House standing. And whether what they do actually counts as work or not varies from case to case. “There are some,” says Mr Czernin, “who think ‘job’ is just a book in the Old Testament.” ■
+
+## URL
+
+https://www.economist.com/britain/2020/02/06/why-aristocrats-are-flocking-to-the-creative-arts

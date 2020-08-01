@@ -25,3 +25,7 @@ He could be flexible himself, if it suited his ends. He happily worked with Hama
 His critics in Tehran—for he had many, not least in the rival ministry of intelligence—claimed that his ruthless methods did not always serve Iran well. They also thought his reverent closeness to Ayatollah Ali Khamenei, easing the supreme leader’s relations with the army, was a bid for presidential power. No, he insisted. He was just a soldier. The most beautiful place he knew was the battlefield, and martyrdom the highest calling. He would sometimes take veterans’ groups out to places, such as the Faw Peninsula, where he had been part of a desperate fight with no ground gained. But many who fought there had found paradise. He would read their names and weep that he was not among them. He would embrace their children, just to smell martyrdom on them.
 
 So when he made himself blatantly visible—strolling in Baghdad without bodyguards, visiting battlefields without a flak jacket—it was not out of character. He could thus draw the bullet, or the drone, that might kill him. No true victory without that. ■
+
+## URL
+
+https://www.economist.com/obituary/2020/01/09/obituary-qassem-suleimani-was-assassinated-on-january-3rd

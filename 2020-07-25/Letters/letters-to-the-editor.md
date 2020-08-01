@@ -65,3 +65,7 @@ COLIN MCDONELLTampa
 Thanks for sensibly dissuading amateur breadmaking. I also encourage my friends to leave gambling, football and lovemaking to the professionals. Much more efficient.
 
 SEB FARQUAROxford
+
+## URL
+
+https://www.economist.com/letters/2020/07/23/letters-to-the-editor

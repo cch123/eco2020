@@ -27,3 +27,7 @@ Yet there are also hopes, according to insiders, that the bizarre acquisition ma
 And Mr Musk could use a rival in low-Earth orbit. Jeff Bezos, the biggest tech tycoon of all, is working on a similar project, but has yet to put any satellites into space. In the meantime, competition from OneWeb would spur innovation and prevent SpaceX from settling into a celestial monopoly.
 
 Can the British government be a source of competitive pressure? The politest description of its entrepreneurial record is “spotty”—just ask owners of clunkers such as an Austin Allegro or Morris Marina, produced after the partial nationalisation in 1968 of British Leyland. OneWeb may need a further injection of cash if it is to complete its constellation. British taxpayers may never see a financial return on their investment. But if OneWeb keeps Mr Musk on his toes even for a little while, their loss may turn out to be global consumers’ gain. Stranger things have happened in space. ■
+
+## URL
+
+https://www.economist.com/business/2020/07/09/elon-masa-and-boris-in-low-earth-orbit

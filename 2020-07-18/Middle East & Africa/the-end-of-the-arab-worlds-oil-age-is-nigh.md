@@ -69,3 +69,7 @@ Ask young Arabs where they would like to live, and there is a good chance they w
 As Lebanon’s economy crashes, everyone is talking of emigration. Yet there are few jobs in the Gulf. “Dubai was always the escape,” says one woman. “Now it’s like we’re trapped, with no backup plan.” Young people across the region have the same fears. Egypt can feel like a country crumbling under its own weight; Jordan is perennially in crisis. Almost ten years after a Tunisian fruit-seller lit the spark of the Arab spring, the frustrations that caused it persist. The end of the oil age could bring change. But it will bring pain first. ■
 
 Dig deeper[Leader: With oil cheap, Arab states cannot balance their books](https://www.economist.com//leaders/2020/07/18/with-oil-cheap-arab-states-cannot-balance-their-books) (July 2020)
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/07/18/the-end-of-the-arab-worlds-oil-age-is-nigh

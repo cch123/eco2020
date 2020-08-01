@@ -27,3 +27,7 @@ There can be little doubt that the president’s conduct constitutionally merits
 Mr Bolsonaro is sustained by a small coterie of ideological zealots who include his three sons, by the faith of many evangelical Protestants and by lack of information about covid-19 among some Brazilians. The last two factors may change as the virus ploughs its fatal furrow in the coming months. By April 8th Brazil had suffered 14,049 confirmed cases and 688 dead. And the president may not be able to quarantine himself from blame for the economic impact. By his recklessness with the lives of Brazilians, Mr Bolsonaro has forced the possibility of his own departure onto the political agenda. It is likely to remain there after the epidemic fades.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/the-americas/2020/04/11/jair-bolsonaro-isolates-himself-in-the-wrong-way

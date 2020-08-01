@@ -21,3 +21,7 @@ Applied worldwide, our model finds big outliers. The outbreaks in Iran, Italy an
 Another pattern bolsters this finding. South Korea and China test regularly. In both places—excluding Hubei, where the virus began claiming lives before authorities formulated a response—0.5-1% of people who have tested positive have died. In other countries with at least one death, this rate is five times higher. Deaths are easier to count than infections are. The most likely explanation for this gap is that for every person diagnosed in these countries, four more do not know they are infected. ■
 
 Sources: Ministry of Culture and Tourism of China; Johns Hopkins CSSE; WHO
+
+## URL
+
+https://www.economist.com/graphic-detail/2020/03/07/tourism-flows-and-death-rates-suggest-covid-19-is-being-under-reported

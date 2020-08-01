@@ -25,3 +25,7 @@ The question is how much more the banks need to set aside. Provisions in the fir
 Bank bosses suggested that the bill for loan losses would grow, but they also admitted they did not know by how much. “There are no models that have dealt with GDP down 40% and unemployment growing this rapidly,” noted Jamie Dimon, JPMorgan’s boss. Nor have banks had to deal with the type and scale of government intervention being undertaken. As with health care, the pandemic has dropped lenders into uncharted territory.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/04/18/wall-street-prepares-for-a-wave-of-loan-losses

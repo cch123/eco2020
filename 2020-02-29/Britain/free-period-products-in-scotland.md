@@ -17,3 +17,7 @@ The woman behind the bill is Monica Lennon, a Labour member of the Scottish Parl
 The prevalence of women in Scottish politics seems to be one reason why Scotland looks like achieving a world first on this issue. The Scottish cabinet is more than half female (compared with a quarter at Westminster’s top table), and Scotland has had a female first minister, Nicola Sturgeon, for five years. She championed the introduction of free period products in schools in 2018.
 
 The measure is also an indication of the Scottish government’s appetite for radical social legislation, points out Mark Diffley, an independent polling consultant in Edinburgh. Scotland has provided free university tuition and personal care, banned smoking in public places and set a minimum price on alcohol. Such measures are increasing the distance between Scotland and England—which, as far as the SNP is concerned, is all to the good.
+
+## URL
+
+https://www.economist.com/britain/2020/02/27/free-period-products-in-scotland

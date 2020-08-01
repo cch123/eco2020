@@ -23,3 +23,7 @@ It is harder for the government to order schools around in a system, like Englan
 The hope at the department for education is that, as children return to school, parents and teachers will be reassured it is safe; something which seems likely. Yet four in ten primary-school teachers expect less than half of their pupils to actually return when gates open. The way the government and the unions have handled the return to school has made it more fraught than it needed to be. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/05/28/english-schools-reopen-but-not-without-a-fight

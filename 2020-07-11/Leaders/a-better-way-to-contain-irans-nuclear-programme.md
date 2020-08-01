@@ -19,3 +19,7 @@ Sabotage might set back the programme some months. But it is no match for a deal
 Mr Trump’s policy has failed in other ways, too. He said he wanted an accord that curbed Iran’s missile programme and halted its support to proxy militias in the region. Some in his administration seemed bent on regime change. Yet Iran says it has built underground “missile cities”. From Syria to Iraq, its adventurism continues. Maximum pressure may produce a leadership change—but not the kind America wants. American sanctions have caused a backlash against Iranian politicians who engaged with the West, such as President Hassan Rouhani. Hardliners now want to impeach him.
 
 Despite the calls for talks, Mr Trump and his administration have done all they can to poison relations. Iran is betting that he will be voted out of office in November. Its actions, though, are making it difficult for any future president to jump back into the nuclear deal or negotiate a new one. More rounds of dull, arduous negotiations, like those that took place in Vienna in 2015, will be needed. They would not grab headlines like a sabotage campaign, nor would they produce a perfect agreement. But it is increasingly clear that the alternative is worse. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/07/11/a-better-way-to-contain-irans-nuclear-programme

@@ -23,3 +23,7 @@ Nor is there much reason to believe that military men will do a better job of ru
 It reinforces what Kanishka Jayasuriya of Australia’s Murdoch University calls the “normalisation” of military influence in the civilian sphere, as informal networks become formal under Mr Rajapaksa. The normalisation extends to business, where—as has long been the case in, for example, Myanmar—military types prosper alongside a new, assertive bourgeoisie grown rich on the back of property and infrastructure deals, much of it lubricated by Chinese loans. Former officers advise on projects’ security, while the army gets involved in slum clearance to make way for development. Academics and journalists say they are afraid to investigate the business links.
 
 Thus does Sri Lanka lurch further from liberal democracy. Gota has in the past railed at Banyan about the unfairness of external critics. He has no time for the UN’s call for an investigation into crimes that may have been committed in the closing days of the civil war. He defends General Silva, who was banned from America earlier this year over suspected involvement in extra-judicial killings. As he and his band of brothers have long seen it, having saved Sri Lanka from fracturing, they are entitled to an outsize role in its future. With military efficiency, they are taking it.
+
+## URL
+
+https://www.economist.com/asia/2020/05/14/sri-lankas-new-president-is-putting-soldiers-in-charge-of-everything

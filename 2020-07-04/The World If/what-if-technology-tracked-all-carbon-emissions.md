@@ -47,3 +47,7 @@ To close this loophole, the American government launched a swarm of satellites i
 Today, with carbon-dioxide emissions falling steadily, the carbon-accounting system—or carbon-surveillance system, as it has now become—provides a powerful policy tool that allows governments to set the pace of decarbonisation of their economies. Global temperatures have risen alarmingly, but the target of net-zero emissions by 2050, a policy goal of many countries, seems within reach. The original carbon-tracking app of 2019, like many other inventions in the past, has gone from a diversion for a few rich people to a world-changing technology. Privacy activists object that the system is far more obtrusive than it needs to be. But as they campaign for the dismantling of the surveillance system that has helped saved the planet, they face an uphill struggle. ■
 
 For more coverage of climate change, register for The Climate Issue, our fortnightly [newsletter](https://www.economist.com//theclimateissue/), or visit our [climate-change hub](https://www.economist.com//news/2020/04/24/the-economists-coverage-of-climate-change)
+
+## URL
+
+https://www.economist.com/the-world-if/2020/07/04/what-if-technology-tracked-all-carbon-emissions

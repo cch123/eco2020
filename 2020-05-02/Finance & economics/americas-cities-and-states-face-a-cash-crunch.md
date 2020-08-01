@@ -33,3 +33,7 @@ In order to calm the bond market, the Federal Reserve has said it will buy up to
 Investors hope the combination of federal loans and aid can keep bond markets stable. Geoffrey Schechter of MFS Investment Management believes that a wave of defaults is unlikely: “states and local governments recognise they need access to capital markets.” An uncertain couple of months, followed by a lean few years: cautious optimism in a pandemic.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/05/02/americas-cities-and-states-face-a-cash-crunch

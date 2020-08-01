@@ -29,3 +29,7 @@ Waugh’s novel scoffs at the Bullingdon Club, a notorious Oxford drinking socie
 This tendency towards a kind of louche, showy entitlement did not begin with the drama. Yet according to David Kynaston, perhaps the pre-eminent historian of post-war Britain, “the TV adaptation did have some specific effect” on attitudes. He sums up the sentiments that “Brideshead” channelled: “No need any longer, despite all the Thatcher talk of meritocracy, to feel guilty about hereditary privilege. And OK to knock/despise the working class…An end, in short, to worthiness.”
 
 The cult of the British country house, real and imaginary, lives on. The National Trust, a charity that looks after many of them, has 5.6m members, more than the population of Finland. “Downton Abbey”, one of Brideshead’s TV offspring, ran for six much-watched seasons. And even in Brexit-era Britain, a sense of entitlement, ironclad in charm, can still clear a path to the top of politics—witness Mr Johnson’s quip-fuelled and scandal-proof rise. For some, Waugh’s bittersweet elegy became a sort of handbook of patrician showmanship. As Ryder remarks when the noble house is reduced to a drab barracks: “The builders did not know the uses to which their work would descend.” ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/06/11/published-75-years-ago-brideshead-revisited-set-off-a-lasting-cult

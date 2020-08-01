@@ -17,3 +17,7 @@ These figures are especially troubling when placed in an international context. 
 Unemployed minorities in China hoping the state will help might well be disappointed. One study, also based on a randomised experiment, found that government officials were 33% less likely to respond to information requests about a cash-transfer programme for the poor if they were signed with a Uighur name. ■
 
 Sources: Hou, Liu and Crabtree, 2019; Quillian et al., 2019; Bertrand and Duflo, 2017; Distelhorst and Hou, 2014; Maurer-Fazio, 2012; government statistics; The Economist
+
+## URL
+
+https://www.economist.com/graphic-detail/2020/02/22/chinas-minorities-have-a-tough-time-finding-jobs

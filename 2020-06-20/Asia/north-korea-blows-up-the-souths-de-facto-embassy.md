@@ -23,3 +23,7 @@ However, if extracting concessions by raising pressure is the strategy, the like
 Another possible motive for the North’s recent histrionics is domestic. The propaganda campaign that preceded the demolition of the liaison office was spearheaded by Kim Yo Jong, the dictator’s younger sister, who raged at the “rubbish-like mongrel dogs” who had the temerity to “fault...our supreme leadership”. The regime may be seeking to raise Ms Kim’s profile by strengthening her hardline credentials, reckons Andray Abrahamian of George Mason University Korea.
 
 Kim Jong Un has been unusually absent from public view this year, prompting rumours about his health and speculation about who might succeed him. His sister tops the list of possible candidates. An added bonus of the current campaign might be to distract from domestic economic difficulties caused by North Korea’s stringent quarantine to shield itself against covid-19 (of which it still, fantastically, claims to have no cases). Whatever the motives, outsiders hope that when it comes to blowing things up, the North will continue to restrict itself to empty buildings. ■
+
+## URL
+
+https://www.economist.com/asia/2020/06/18/north-korea-blows-up-the-souths-de-facto-embassy

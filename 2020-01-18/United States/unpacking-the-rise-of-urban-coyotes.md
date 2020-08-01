@@ -21,3 +21,7 @@ Mr Gehrt also points to a shift in global trade. Hunters and trappers continue t
 Coyotes can be troublesome. They eat wandering pet cats and small dogs. But on balance they are benign. They mostly eat fruit and other wild species, including pests that flourish in cities, such as rats, rabbits, woodchucks, young Canada geese and the fawns of white-tailed deer. Keeping these populations in check is a welcome public service.
 
 Predatory attacks on humans are rare. Just one American—a toddler snatched from her garden in Los Angeles in 1981—has been reported killed by a coyote in the past four decades. Public anxiety about the spread of a large predator is certainly understandable. But by comparison, dogs are a much greater menace. They kill some 50 people and send thousands to hospital a year in America. Deer, too, appear cute but cause traffic accidents that kill more than 200 Americans a year. Coyotes may look less docile, but they are linked less closely to death.
+
+## URL
+
+https://www.economist.com/united-states/2020/01/16/unpacking-the-rise-of-urban-coyotes

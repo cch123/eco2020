@@ -23,3 +23,7 @@ On first glance, Sweden seems to have paid a heavy price for choosing less strin
 Time will tell whether Sweden chose a better strategy than other countries, says Jussi Sane of the Finnish Institute for Health and Welfare, because the costs of lockdowns—in terms not only of economic damage but also harm to people’s mental health—are yet to be tallied. European countries will see more covid-19 deaths when people start moving about, because the share of those infected so far (and thus presumably immune, at least for some time) is still in the single digits. Mr Giesecke reckons that Stockholm will reach “herd immunity”, the 40-60% rate of infection needed to halt the spread of the coronavirus, by June. He thinks that when European countries count deaths a year from now their figures will be similar, regardless of the measures taken and the numbers now. The economic damage in Sweden, however, may be smaller. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/05/16/is-swedens-approach-to-covid-19-wise-or-reckless

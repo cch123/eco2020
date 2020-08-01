@@ -31,3 +31,7 @@ It is not that simple, reckons Jay Keyser, an emeritus professor of linguistics 
 On Mr Keyser’s plausible view, using ordinary language is a less rarefied talent than making music. But while it may not instil wonder and joy, as music can, it is still a miracle—just an everyday one.■
 
 Correction (June 22nd, 2020): The original version of this column repeated a widespread but incorrect variant of the Bertrand Russell quote.
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/05/30/is-music-a-language-as-stevie-wonder-sang

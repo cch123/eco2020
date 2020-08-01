@@ -25,3 +25,7 @@ Hubertus Heil, the German labour minister, will not let Mr Tönnies get off the 
 Tönnies reacted by creating 15 subsidiary companies that will employ the formerly subcontracted workers. Critics think this is a ploy to prevent unionisation by dividing workers by job type, and perhaps by nationality: the vast majority of them will still be eastern Europeans. “We cannot find Germans to work for us,” explains André Vielstädte, a spokesman for Tönnies, adding that it is not “pleasant work”. Ending subcontracting will alleviate some hardships for migrant workers, but real change will come only if the industry leader shows the way. So far, Mr Tönnies has improved conditions at his plants mainly when he had no other choice.■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/07/23/after-spreading-covid-19-a-huge-european-abattoir-vows-reforms

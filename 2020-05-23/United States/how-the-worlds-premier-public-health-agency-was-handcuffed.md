@@ -33,3 +33,7 @@ Mr Trump has proposed cutting the CDC’s budget each year by between 10% and 20
 It is struggling. Though the agency continues to churn out advice—its website has had 1.2bn clicks since the start of the epidemic—John Auerbach of TFAH, who has worked in state and city health departments for decades, says departments can no longer get the help they need from the CDC. Instead, they are turning to less-reliable and often-conflicting advice, producing a muddle of different rules.
 
 The combination of financial pressure and White House indifference has scuppered any chance America had to produce a national strategy for covid-19. In the past the CDC would have been central to that effort. Now, it is competing with a White House task-force and a group headed by the president’s son-in-law for Mr Trump’s fitful attention. The institution with the largest concentration of scientific expertise has been sidelined, and state health departments are getting flawed advice.■
+
+## URL
+
+https://www.economist.com/united-states/2020/05/23/how-the-worlds-premier-public-health-agency-was-handcuffed

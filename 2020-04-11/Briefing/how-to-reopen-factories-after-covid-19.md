@@ -47,3 +47,7 @@ The world’s leading contract manufacturer of semiconductors, Taiwan’s TSMC, 
 For the manufacture of chips and screens, all-but-complete automation is unavoidable. In other contexts, the cost of re-engineering systems and buying new kit has kept people in the loop and on the floor. They will not vanish overnight. But covid-19 has provided a new spur for more factories to approach the machinic perfection of chip foundries. That new distancing between human and machine is likely to long outlive the disease itself. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/briefing/2020/04/07/how-to-reopen-factories-after-covid-19

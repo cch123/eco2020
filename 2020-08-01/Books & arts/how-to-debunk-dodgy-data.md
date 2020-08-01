@@ -21,3 +21,7 @@ There is, alas, no shortage of material. In one of their examples, a widely shar
 The ways of deceit and error with data are many—and the authors point them out ruthlessly. Their fellow scientists, the media, the “TED brand of bullshit”: no one is spared. They describe how the findings of a study can be manipulated to make them seem statistically important even when they are not, and how feeding an algorithm skewed inputs yields unreliable results. For instance, in 2017 two scientists sparked ethical concerns by claiming to have built an algorithm that could guess whether a person was gay or straight on the basis of pictures gleaned from a dating site. The paper, which The Economist covered at the time, failed to mention that their “gaydar” may have been responding to variations in how people choose to present themselves (make-up, poses and so on), rather than to authentic physical differences.
 
 While charts depicting the life expectancy of musicians are hardly lethal themselves, purporting to discern a person’s character from dodgy variables is perilous. Amid the pandemic, misinformation about infection rates and the efficacy of drugs—often bolstered by sneaky graphics, as in Georgia—is a particular concern. Some scientists are bypassing the usual peer-review process. Meanwhile newsrooms are under ever-greater pressure to attract clicks. More and more bullshit is contaminating debate. Mr Bergstrom and Mr West picked a good time to expose it. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/08/01/how-to-debunk-dodgy-data

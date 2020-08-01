@@ -23,3 +23,7 @@ The agreement delays any move to annex the occupied territories, as envisaged by
 The outbreak of covid-19 has led to more co-operation between Israelis and Palestinians. But annexation of territory that the Palestinians regard as part of their future state would probably kill any hope of a two-state solution to the Israeli-Palestinian conflict and could ignite violence. Mr Netanyahu will obviously want to avoid that, but he may feel he needs to move before November, when his chum Mr Trump may be voted out of office.
 
 At home Mr Netanyahu faces a weak and fragmented opposition. Blue and White has split into four different parties. One of them, Yesh Atid, is led by Yair Lapid, who apologised “to everyone who I convinced over the past year to vote for Benny Gantz and Blue and White. I didn’t believe your votes would be stolen.” Once-dominant Labour, the party of Israel’s founders, is down to three members of the Knesset, two of whom will be joining the government. Mr Gantz, meanwhile, is now bound to protect Mr Netanyahu—or risk not becoming prime minister. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/04/23/israel-has-a-new-government-at-last

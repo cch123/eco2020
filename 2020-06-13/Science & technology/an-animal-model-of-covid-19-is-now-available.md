@@ -25,3 +25,7 @@ One further result of Dr Wang’s investigation was the discovery that the virus
 Curiously, despite their propensity to infection by SARS-CoV-2, Dr Wang’s mice, unlike Dr Perlman’s, do not show obvious symptoms when infected. Given the apparently high rate of symptomless infection in human beings, that, too, may be a pertinent observation.■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/06/11/an-animal-model-of-covid-19-is-now-available

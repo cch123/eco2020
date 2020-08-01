@@ -23,3 +23,7 @@ Such groups exist because the state is a shambles. According to a report last ye
 There are some historical reasons for these structures, too. They mirror the decentralised system of governance that existed when the British colonised Sierra Leone. Without a national leader, each region was controlled by a chief and his underlings. There are still chiefs today who wield a lot of power outside the cities.
 
 “It’s not that much different from any UK village choir or soccer club,” says Paul Richards, an anthropologist. “Someone has to do the work, and they reward themselves with grand titles.” The main difference, perhaps, is that in a country with almost no state, those with the titles have a lot of work to do. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/07/02/inside-the-thieves-guild-in-freetown

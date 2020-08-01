@@ -27,3 +27,7 @@ Sowing distrust and division abroad is a risky game for China. Another master of
 China may emerge from this crisis stronger in relative terms, and less willing than ever to be criticised or thwarted. But beware simple predictions about vacuums being filled. The West may lose ground that China prefers not to fill. As Mao understood, an enemy’s retreat is a test as well as an opportunity. True global leadership may require China to ditch its love of ambiguity and cynical opportunism, and spell out what it really believes and wants. If that is the test, the hard men who run China may prefer to skip it. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/china/2020/03/26/the-pandemic-will-boost-chinas-standing-its-propagandists-claim

@@ -35,3 +35,7 @@ The third lesson is to prepare health systems for what is to come. That entails 
 This virus has already exposed the strengths and weaknesses of China’s authoritarianism. It will test all the political systems with which it comes into contact, in both rich and developing countries. China has bought governments time to prepare for a pandemic. They should use it. ■
 
 Read more:[Covid-19 is now in 50 countries, and things will get worse](https://www.economist.com//briefing/2020/02/29/covid-19-is-now-in-50-countries-and-things-will-get-worse) (February 27th)[To curb covid-19, China is using its high-tech surveillance tools](https://www.economist.com//china/2020/02/29/to-curb-covid-19-china-is-using-its-high-tech-surveillance-tools) (February 27th)[Covid-19 presents economic policymakers with a new sort of threat](https://www.economist.com//china/2020/02/29/to-curb-covid-19-china-is-using-its-high-tech-surveillance-tools) (February 20th)[How China’s coronavirus epidemic could hurt the world economy](https://www.economist.com//china/2020/02/29/to-curb-covid-19-china-is-using-its-high-tech-surveillance-tools) (February 13th)
+
+## URL
+
+https://www.economist.com/leaders/2020/02/27/the-virus-is-coming

@@ -17,3 +17,7 @@ Genomics also helps non-medical biology. Many non-human species, including crops
 At the other end of the scientific spectrum, what can be done for Homo sapiens can be done, using DNA from fossils, for other (now extinct) species of human being: the Neanderthals and Denisovans. There is a possible practical interest even here. Sequencing shows that these species once interbred with Homo sapiens. It also suggests that the traces of that interbreeding which remain may help the recipient to fight off infections, by combating viruses and boosting the immune system. ■
 
 Sources: INSDC; NHGRI; Broad Institute; S. Peyrégne et al., Science Advances, 2019; S. Mallick et al., Nature, 2016 
+
+## URL
+
+https://www.economist.com/graphic-detail/2020/06/27/the-human-genome-project-transformed-biology-and-medicine

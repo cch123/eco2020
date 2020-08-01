@@ -23,3 +23,7 @@ It may seem odd that Mr Buttigieg has come to symbolise this clash, given that h
 To fully unite the Democratic Party appears to require the sort of generally inspiring yet credibly moderate figure Mr Obama was. Yet such figures are rare. In the absence of one this time round, the party is already setting its hopes on the next best thing, a common enemy, in Donald Trump. This may be enough; defeating the president is the priority for all Democrats. Yet the growing dissonance between white and non-white voters points to an inherent strain in this hope. Many voters in Iowa think an inspiring but untested figure like Mr Buttigieg would be likelier to beat Mr Trump than a stick-in-the-mud like Mr Biden. Black voters seem to think the opposite. They cannot both be right.■
 
 [Sign up to receive Checks and Balance](https://www.economist.com//checksandbalance/), our new weekly newsletter on American politics
+
+## URL
+
+https://www.economist.com/united-states/2020/01/04/pete-buttigiegs-illuminating-struggle-down-south

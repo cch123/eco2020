@@ -25,3 +25,7 @@ Still, the securities industry could look very different in time. The government
 A common criticism of universal banking is that it combines two irreconcilable cultures, with the boldness of investment bankers potentially swamping the prudence of commercial bankers. Yet China has shown that there are also dangers to separation. The stockmarket crashed in 2015 after the securities regulator failed to rein in a boom in margin financing by brokers, a risk that the bank regulator might have been better equipped to detect.
 
 In any case, it is hard to imagine China’s lumbering banks becoming red-in-tooth-and-claw brokers. The biggest, such as ICBC, already operate investment banks in Hong Kong, primarily offering plain-vanilla services to state-owned firms. More aggressive mid-tier lenders could outdo them in marketing shares and structuring deals. They are still huge by global standards: China Merchants Bank, for example, has a market capitalisation of $120bn, nearly twice that of Goldman Sachs, a Wall Street institution. In Chinese terms, it would count as a naval cruiser—one step down in size from an aircraft-carrier, but still a big step up from the ragtag flotilla in the country’s capital markets today. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/07/02/as-foreign-banks-circle-china-plots-an-aircraft-carrier-defence

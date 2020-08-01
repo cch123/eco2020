@@ -25,3 +25,7 @@ The Royal Albert Hall is a venue for hire, so if loss-making concerts were stage
 Britain’s theatre world looks enviously to South Korea, where “The Phantom of the Opera” is still playing with measures to mitigate infection risks but without social distancing. Andrew Lloyd Webber, who owns seven London theatres, wants the British government to allow something similar. Unless it does, the bail-out is good news for theatres, less so for theatre. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/07/09/a-bailout-for-britains-theatres

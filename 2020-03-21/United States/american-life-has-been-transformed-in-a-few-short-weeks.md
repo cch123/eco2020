@@ -39,3 +39,7 @@ The dismal economic forecasts will require further action from Congress. It spen
 The total package, which could be worth $1trn or more, dwarfs the $100bn-or-so bill recently signed into law and every other stimulus package in history. The Trump administration has proposed sending $500bn in direct cash to taxpayers, $300bn to keep firms afloat, and $200bn to bail out critical industries like airlines. The typical partisan bickering from Congress and even from Mr Trump has been muted. Every politician seems to now realise that the country faces an unprecedented crisis, first of public health and then of the economy, that will last for months. Whether this action will look sufficient 28 days later is, as with seemingly every aspect of the covid-19 pandemic, deeply uncertain.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/united-states/2020/03/19/american-life-has-been-transformed-in-a-few-short-weeks

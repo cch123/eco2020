@@ -17,3 +17,7 @@ Just as the saviour was misunderstood in his day, Mr Son mused, so is he—speci
 The pandemic is a handy cover for trouble that began a few years ago, when Mr Son started overvaluing WeWork, an office-sharing firm, and other startups. The resulting financial hit—and a loss of confidence in Mr Son—forced SoftBank into the buy-backs. They will be partly financed by selling forward contracts on some of its lucrative 26% stake in Alibaba, China’s e-commerce titan, and, maybe, $20bn of its stake in T-Mobile, an American telecoms firm. This week SoftBank said Jack Ma, Alibaba’s founder, would step down from its board.
 
 With technology shares soaring, especially in America, some of the Vision Fund’s 88 startups may prosper post-pandemic. SoftBank could list a few over the next couple of years, reckons Atul Goyal of Jefferies, a bank. One of the fund’s biggest bets is ByteDance, owner of TikTok, a hit video app. The Chinese firm’s valuation has reportedly risen to over $100bn of late. Without the Fed’s moves, says Mr Goyal, Mr Son would have struggled under the weight of debt. Now he has a shot at redemption.
+
+## URL
+
+https://www.economist.com/business/2020/05/21/softbank-is-a-big-beneficiary-of-the-feds-pandemic-response

@@ -29,3 +29,7 @@ In both professions the playing field was eventually levelled. The result? In 20
 Another common argument is that it makes sense for married people to specialise, with the man taking on higher-paid employment and the woman doing more of the chores. It is equally dubious. One study, for instance, found that husbands who earn less than their wives do even less housework than those who earn more.
 
 Many of the arguments that women’s lack of progress is down to aptitude or choice look like a convenient fiction for men, who do rather well out of the bargain. Women, who end up doing most of the chores as well as working long hours, get a raw deal. It is not them who need to change—it is the attitudes of men.
+
+## URL
+
+https://www.economist.com/business/2020/03/05/women-still-face-barriers-in-the-workplace

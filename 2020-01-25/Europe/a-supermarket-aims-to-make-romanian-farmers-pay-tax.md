@@ -19,3 +19,7 @@ The government has tried to scale up production by pushing farmers to get credit
 The new supermarket chain changes tactics, from push to pull. It buys only from small farmers, who get a guarantee that their crops will be purchased (and transported to market free). If enough farmers sign up, the agriculture ministry hopes to harvest some of the billions of dollars in taxes that it says go uncollected from farmers.
 
 But the ministry may be counting its chickens before they hatch. So far most of the agricultural producers selling to the new store were already in the system. The agriculture minister who came up with the idea lost his job when the government changed hands in November. The supermarkets may lose their government backers before they win over the customers.
+
+## URL
+
+https://www.economist.com/europe/2020/01/23/a-supermarket-aims-to-make-romanian-farmers-pay-tax

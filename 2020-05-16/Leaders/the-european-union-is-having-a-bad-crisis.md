@@ -35,3 +35,7 @@ Doomsters have often predicted the break-up of the EU or the euro, only to be pr
 So long as the EU remains a conduit for spreading crises, the risk of collapse will be high. To stiffen their resolve, its leaders should reflect on a more remote anniversary. In June it will be 230 years since the Compromise of 1790, when Alexander Hamilton persuaded Thomas Jefferson and James Madison to allow the new United States government to assume the debt of the 13 individual states. Europe does not need to go so far, and a latter-day Hamilton has no obvious carrot to offer the rich states (in 1790 the deal put America’s new capital city in the South). But there is a stick: if Europe’s wobbly members do not get help, the euro and the single market could eventually implode. European leaders currently negotiating by videoconference must therefore be bold. Bigger transfers and significant debt mutualisation would be hard, but as a down payment to avert catastrophe and to set the EU on the path to stability, they would be worth it. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/leaders/2020/05/14/the-european-union-is-having-a-bad-crisis

@@ -27,3 +27,7 @@ The big parties, including the ruling Minjoo (Democratic) party, which came up w
 “These decisions undermine the very idea of the reform,” complains Kim Jong-cheol of Yonsei University. “They shouldn’t be allowed to do that.” But the electoral commission says no rules are being broken. The constitutional court can only get involved if the government asks for a ruling, which seems unlikely given Minjoo’s eager embrace of the satellite-party scheme. South Koreans may be beating covid-19, but they have not yet worked out how to tame wily politicians. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/asia/2020/04/11/south-korea-presses-on-with-an-election

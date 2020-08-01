@@ -29,3 +29,7 @@ Neither America nor Britain has covered itself in glory in recent weeks. A surve
 That is bad news for both universities and business schools, as international students are very lucrative. Things may go back to normal in a few years’ time; the virus may be conquered and international relations may settle down. But as with many other sectors of the economy, there may be a big shakeout among business schools before that happens.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/05/16/the-pandemic-increases-the-challenges-facing-business-schools

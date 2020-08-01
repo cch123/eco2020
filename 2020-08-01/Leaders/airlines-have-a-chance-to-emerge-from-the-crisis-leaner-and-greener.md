@@ -25,3 +25,7 @@ If the industry is in the deep-freeze, it will slow the development of clean aer
 Just as easyJet and Ryanair, now both huge airlines, took advantage of a glut of cheap aeroplanes after 9/11 and the deregulation of European airspace to expand rapidly, so a dynamic airline industry searching for new ways to grow would require new aircraft, encouraging Airbus and Boeing to make air travel greener. As well as setting back the industry, cosseting the old guard will do more damage to the planet. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/leaders/2020/08/01/airlines-have-a-chance-to-emerge-from-the-crisis-leaner-and-greener

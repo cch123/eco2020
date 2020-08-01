@@ -37,3 +37,7 @@ Mr Bolsonaro will not set him straight. His presidency is consumed by melodrama.
 Governors are yielding to pressure anyway. Mr Doria announced plans to begin opening parts of his state, including the city of São Paulo. At the city’s São Luis cemetery 3,000 fresh graves await covid-19 victims. Several hundred have been filled. The cemetery’s old average of 11 burials a day has jumped to more than 40, says a gravedigger. Most graves are covered with flowers but unmarked due to a backlog in engraving the plaques. A banner warns about Zika. None is needed for covid-19, says the gravedigger. “Once people lose a family member, they finally believe.”■ 
 
 Editor’s note: This article has been updated to include more information about Mr Doria’s plans to open up parts of São Paulo state.
+
+## URL
+
+https://www.economist.com/the-americas/2020/05/28/brazils-losing-battle-against-covid-19

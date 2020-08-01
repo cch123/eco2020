@@ -41,3 +41,7 @@ Even if a covid-19 vaccine is only 50% effective, and taken by less than half th
 Successful therapies, particularly those supported by OWS, would give Mr Trump something to brag about on the campaign Zoom trail. Yet it seems unlikely to blunt much of the effect of the disastrous increase in cases of covid-19 (see [article](https://www.economist.com//united-states/2020/07/18/america-is-in-the-midst-of-an-extraordinary-surge-of-covid-19)). The administration is keen to paint OWS in heroic terms, describing it as the “one of the greatest scientific and humanitarian accomplishments in history.” The reality is that even if international efforts help to create the knowledge to defeat covid-19, America looks unwilling to share the humanitarian gains outside its own borders.
 
 The administration has shunned international efforts to co-operate on vaccines. On July 7th it said it would begin the process of withdrawing from the World Health Organisation, which plays a key role in organising the global distribution of vaccines, drugs and diagnostics. There is a strong argument that vaccines will be more efficiently deployed when delivered to the high-risk populations around the world rather than through near universal vaccination of a few rich countries such as America. That argument has not been very persuasive with this administration, but Mr Trump did promise America First. ■
+
+## URL
+
+https://www.economist.com/united-states/2020/07/18/donald-trump-is-hoping-for-a-covid-19-treatment-by-november

@@ -49,3 +49,7 @@ In a small way, that is already happening. Fabrictime, a startup run by two youn
 However, the pandemic may put a dampener on the scene’s growth. Past experience suggests that economic crises tend to promote consolidation. This is because large, cash-rich businesses (such as the chaebol) are more likely to survive. Even if South Korea avoids a long slump, the pandemic may entrench the economic structure which the country was just beginning to challenge. And it is not just economic change that is under threat.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/special-report/2020/04/08/startups-offer-a-different-future-for-south-koreas-economy

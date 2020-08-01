@@ -25,3 +25,7 @@ Cinematic promises to protect Chinese worldwide are not being kept, either. With
 This pandemic is that rare event: a crisis that frightens every country on Earth. Alas, the moment finds China in an exhaustingly narcissistic mood. Mr Wang, the foreign minister, declares covid-19 an “all-round test” of China’s social system and governance, which China has comprehensively passed. Such swagger offends plenty of foreign governments, especially when they are told to thank and praise China before they are allowed to buy Chinese medical kit. As for rising geopolitical tensions, Chinese officials deny any connection with their assertiveness. Instead they place all blame on established powers sulking about relative decline.
 
 China is not the only large country consumed with its own grievances. America First is a narcissistic slogan, too. But there is at least a bleak candour to President Donald Trump’s pitch to the world. Unblushing self-interest is his brand. In contrast Chinese envoys talk of being a responsible, globally minded major power. Then they turn round and stoke nationalism at home, and play the obnoxious bully abroad. Fighting as a lone wolf is dangerous in an action film. It is even riskier as a foreign policy. ■
+
+## URL
+
+https://www.economist.com/china/2020/05/28/chinas-wolf-warrior-diplomacy-gamble

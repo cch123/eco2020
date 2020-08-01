@@ -21,3 +21,7 @@ But the fate of the nearly 500m people of the Yangzi basin ultimately depends on
 Climate change may have caused extreme weather unusually early in the year, producing more rain than hydro-engineering can handle. Zhang Junjie of Duke Kunshan University says most Chinese experts agree that climate change is making the region’s weather more volatile and will reduce farming and industrial output. “In the past, China focused on the engineering approach, building more dams, more dykes and higher banks. But the government has realised this is like an arms race with nature that we can’t really win,” he says. In December, legislators began deliberating a new draft law on protecting the entire Yangzi river basin, including the restoration of riverside ecosystems that may help to reduce flooding. This, says Mr Zhang hopefully, is “giant progress”. ■
 
 For more coverage of climate change, register for The Climate Issue, our fortnightly [newsletter](https://www.economist.com//theclimateissue/), or visit our [climate-change hub](https://www.economist.com//news/2020/04/24/the-economists-coverage-of-climate-change)
+
+## URL
+
+https://www.economist.com/china/2020/07/18/central-and-southern-china-are-being-ravaged-by-floods

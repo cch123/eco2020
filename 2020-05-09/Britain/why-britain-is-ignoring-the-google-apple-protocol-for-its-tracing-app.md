@@ -27,3 +27,7 @@ The decision to go with the centralised version may also have been influenced by
 Yet getting the app installed on enough phones to be useful requires that it be as energy-efficient and painless to use as possible, something best done with the Apple and Google tools. Many techies expect an about-face on centralisation, despite the potential for bruised egos and the extra work that would need to be done to bring the app in line with Google, Apple and most of the rest of the world. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/05/09/why-britain-is-ignoring-the-google-apple-protocol-for-its-tracing-app

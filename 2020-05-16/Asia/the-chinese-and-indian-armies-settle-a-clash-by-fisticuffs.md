@@ -21,3 +21,7 @@ Small dust-ups are common. Thanks in part to slapdash colonial cartography, the 
 Such scuffles might become yet more frequent. Negotiations to define the border have made little progress, and troops are bumping into each other more often. Tanvi Madan of the Brookings Institution, a think-tank, points out that, after years in which China improved infrastructure and increased the military presence on its side of the border, India has recently been doing the same. At the Wuhan summit Messrs Modi and Xi both agreed to give “strategic guidance” to their respective armies to cool it. “The exact opposite is happening,” says Jabin Jacob of Shiv Nadar University. “Nationalist narratives in both countries are beginning to percolate down to the militaries in difficult-to-control ways.”■
 
 Correction (May 15th 2020): The original version of this story mistakenly referred to Nepal as a kingdom. It ceased being one in 2008.
+
+## URL
+
+https://www.economist.com/asia/2020/05/16/the-chinese-and-indian-armies-settle-a-clash-by-fisticuffs

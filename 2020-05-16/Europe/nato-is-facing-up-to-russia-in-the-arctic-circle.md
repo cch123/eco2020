@@ -25,3 +25,7 @@ The main task of Russian subs is defensive: to protect a “bastion”, the area
 The challenge is a familiar one. For much of the cold war, NATO allies sought to bottle up the Soviet fleet in the Arctic by establishing a picket across the so-called GIUK gap, a transit route between Greenland, Iceland and Britain that was strung with underwater listening posts. The gap is now back in fashion and NATO is reinvesting in anti-submarine capabilities after decades of neglect.
 
 But defence in depth may not suffice. A new generation of Russian ship-based missiles, capable of striking NATO ships or territory from far north of the GIUK gap, represents “a dramatically new and challenging threat”, concludes the IISS. Similar concerns led the Reagan administration to adopt a more offensive naval posture, sending forces into the Soviet Union’s maritime bastion—“bearding the bear in its lair”, as a British MP once put it. “I’m struck by similarities with the 1980s,” says Niklas Granholm of the Swedish Defence Research Agency. “A forward maritime strategy to get up close and personal with the Russian Northern Fleet, rather than meet them farther south.” ■
+
+## URL
+
+https://www.economist.com/europe/2020/05/14/nato-is-facing-up-to-russia-in-the-arctic-circle

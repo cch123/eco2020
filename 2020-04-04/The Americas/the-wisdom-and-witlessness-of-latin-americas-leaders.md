@@ -27,3 +27,7 @@ Those who have acted decisively are benefiting from the public’s instinct to r
 Covid-19 struck Latin America when its leaders and institutions had fallen into disrepute, because of economic stagnation, corruption and poor public services. Management of the pandemic requires a huge effort to help those in need. It may also offer an opportunity for redemption. Leaders who impose quarantines could save the lives of 2.5m Latin Americans, according to epidemiologists at Imperial College, London. They have to find ways to make citizens remember that, even as economic hardship bites.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/the-americas/2020/04/04/the-wisdom-and-witlessness-of-latin-americas-leaders

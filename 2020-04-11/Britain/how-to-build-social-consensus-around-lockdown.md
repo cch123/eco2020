@@ -31,3 +31,7 @@ A final way to boost compliance is to stress the benefit to others. The broad ra
 For now, the lockdown seems to be holding. Polls by Ipsos MORI suggest compliance with official advice is increasing week by week. In mid-March, about a quarter of Britons said they were avoiding leaving the house more often because of covid-19. A week later, that share had risen to half, and by the end of the month to nearly four-fifths. “The story of this is just how high the compliance has been,” says Lord O’Donnell. “Who would have thought that in a liberal democracy so many people would do what they are told?” Ministers will be anxious to keep it that way.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/04/11/how-to-build-social-consensus-around-lockdown

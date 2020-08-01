@@ -19,3 +19,7 @@ The more elaborate model fared better, with 30% more explanatory power than rely
 Governments should treat travel hubs with caution. So far, many German cities have seen surprisingly few infections—perhaps because the country tests widely, and began locking down earlier in its epidemic (as measured by the death toll) than Italy did. Now that Germany is easing restrictions, its infection rate may rise again. Well-networked Frankfurt is probably at greater risk than, say, comparatively disconnected Hanover, and should reopen relatively slowly. Milan in Italy, and Houston in America, should be cautious, too. ■
 
 Sources: Teralytics; Eurostat; US Census Bureau; national statistics; The Economist
+
+## URL
+
+https://www.economist.com/graphic-detail/2020/05/16/phone-data-identify-travel-hubs-at-risk-of-a-second-wave-of-infections

@@ -43,3 +43,7 @@ This could mean, argues David Wasserman of the Cook Political Report, that Mr Tr
 Back on Skidaway Island, the Oyster Roast is over and politics is set briefly aside. The fundraiser has produced $35,000 for marine research in Georgia, and launched the state’s first oyster hatchery. At the next event, in November, there will presumably be even more oysters to eat—but no truce in the political battle at that other, bigger event that month. ■
 
 [Sign up to receive Checks and Balance](https://www.economist.com//checksandbalance/), our new weekly newsletter on American politics
+
+## URL
+
+https://www.economist.com/united-states/2020/01/04/the-2020-presidential-election-will-be-decided-in-the-suburbs

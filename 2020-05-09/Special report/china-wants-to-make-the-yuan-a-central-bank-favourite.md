@@ -55,3 +55,7 @@ Two factors could tip them into action. First, the yuan appears to be influencin
 Second, China has opened a fresh breach in its capital controls, and money is streaming in (see chart). In 2017 the country launched Bond Connect, which allows foreigners to invest in onshore bonds through Hong Kong, and scrapped investment quotas. Last year it also authorised international credit-rating agencies. That, plus rising domestic demand for listed securities, has convinced the world’s most popular index providers to phase Chinese bonds into their benchmarks. This helped draw $60bn of foreign money into government bonds in 2019, a flow that covid-19 has not stopped. Some 1,900 overseas investors are registered to Bond Connect, up from 700 a year ago.
 
 Foreigners now own 3% of China’s bond market, the world’s second-largest, and 8.8% of its government bonds (up from 2.8% in 2015). Their appetite will only rise. Chinese bonds offer good yields and diversification benefits. Yet they remain on the “very periphery of institutional investors’ portfolios”, says Mark Wiedman of BlackRock, the world’s largest money manager. It is creating a programme to guide clients on how to invest in China. ■
+
+## URL
+
+https://www.economist.com/special-report/2020/05/07/china-wants-to-make-the-yuan-a-central-bank-favourite

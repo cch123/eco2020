@@ -19,3 +19,7 @@ The factory runs on hydroelectric power generated in the park, as do nearby soap
 At the chocolate factory, Jacqueline Zawadi gossips with two fellow workers as they shell cocoa beans. Her husband was one of the more than 200 rangers who have been killed by poachers or militiamen since 1996. The park has employed her since his death. Three other factory workers peer into a whirring machine. Dark chocolate swirls around as it mixes with sugar and butter. Fresh chilli and ginger are sprinkled into some batches to give the chocolate an extra kick. “It is not quite perfect,” admits Roger Marora, a worker. “But it is very nearly perfect.”
 
 Mr Persoone, who has received test bars in the post, does not yet agree. He will give the signal to export only when the chocolate meets his standards. “I am putting my name on the bars,” he says. “They have to be good.”
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/04/04/a-chocolate-factory-in-a-conflict-zone

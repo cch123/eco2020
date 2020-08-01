@@ -21,3 +21,7 @@ Second, because midwives’ calling-card is not intervening in labour, collabora
 Will the interest in midwifery outlast the pandemic? It seems likely. The practice was growing even before the virus started to spread. And collaboration between doctors and midwives can prove effective. “Our doctors were willing to learn from our midwife colleagues,” says Dr Gaba. “If other places could do something like that, I think women would really benefit.”■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/united-states/2020/06/18/the-pandemic-is-making-america-rethink-its-shunning-of-midwifery

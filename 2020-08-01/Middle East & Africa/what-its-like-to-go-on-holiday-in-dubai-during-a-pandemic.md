@@ -23,3 +23,7 @@ The United Arab Emirates (UAE), of which Dubai is a part, has logged about 60,00
 Still, other emirates are less gung-ho about reopening. The airport in Abu Dhabi, the UAE’s capital, is shut to non-residents. But Dubai feels its hospitals can handle any imported cases. Emirates, the national airline, offers free health insurance for travellers who catch covid-19. For holidays that do not quite go to plan, the policy will stump up €1,500 ($1,750) towards funeral costs.
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/08/01/what-its-like-to-go-on-holiday-in-dubai-during-a-pandemic

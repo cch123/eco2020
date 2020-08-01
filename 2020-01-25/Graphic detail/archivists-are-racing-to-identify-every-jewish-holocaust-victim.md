@@ -26,3 +26,8 @@ Sources: Yad Vashem; United States Holocaust Memorial Museum; Claims Conference
 
 
 
+
+
+## URL
+
+https://www.economist.com/graphic-detail/2020/01/25/archivists-are-racing-to-identify-every-jewish-holocaust-victim

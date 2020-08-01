@@ -35,3 +35,7 @@ Another reason for the gap may be that the bank excludes some debt owed by state
 Such thought experiments could sometimes stretch the definition of public debt, though. The financing raised for Sierra Leone’s controversial toll road, for example, is supposed to be repaid from toll, not tax, revenues. It would only burden the government if those tolls fell short. The World Bank does not seem to count it as government debt—but it is included by CARI.
 
 The bank’s figures for Chinese lending are not always below outside estimates. For Burkina Faso, the Central African Republic and Liberia they are much higher. This, reckons Ms Brautigam, is because they include loans from Taiwan. China’s critics, including Mr Pompeo, may suspect that its true lending is higher than the bank suggests. But even they would not want to chalk up to the People’s Republic what is properly owed to Taiwan. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/07/04/the-poorest-countries-may-owe-less-to-china-than-first-thought

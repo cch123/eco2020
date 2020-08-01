@@ -25,3 +25,7 @@ The book charts the milestones of this process, including the string of lethal b
 As she shows, Russia’s masters covered these seizures in a cloak of legal procedure which, in its sheer complexity, helped transform the Russian judiciary into an organ of the superstate. Those masters also thought (rightly) that Western objections could be parried by offering investors some nuggets from the energy giant they were creating. Indeed, all the current or former insiders in this book assume that, beneath a thin layer of democratic bluster, Western elites are biddable and buyable.
 
 For all her insights into ruthless minds, Ms Belton does at least raise the possibility that some of those who surrounded Mr Putin in his early years in office sincerely believed in something: that the capitalist model of the 1990s had conceded too much to a hostile West. One who stands out is Sergei Pugachev, a businessman and erstwhile adviser, who claims credit for guiding the switch to state capitalism with a nationalist tinge. He fell foul of the authorities after 2012 but makes no apology for his previous role. Only his efforts to turn Mr Putin into a sincere Christian were a waste of breath, he tellingly concludes. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/04/23/the-enduring-grip-of-the-men-and-mindset-of-the-kgb

@@ -33,3 +33,7 @@ The changing pace and pattern of China’s growth proved a disaster for the many
 In a World Bank publication 25 years ago Lant Pritchett, now at Oxford University, emphasised that catch-up growth was historically quite rare. Yes, imitation should be easier than innovation (and returns to investment should be high where capital is scarce). But other factors often got in the way. After all, if poor countries reliably grew faster than rich ones, there would not be so many poor countries still around. The “dominant feature” of modern economic history was not convergence between rich and poor countries, wrote Mr Pritchett, but “divergence, big time”.
 
 The past decade, for all its disappointments, has bucked that historical trend, if less impressively than the decade before it. For emerging economies, the 2010s were a let-down. But they were still the second-best decade of the past 50 years.■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/01/16/emerging-economies-are-experiencing-a-prolonged-productivity-slowdown

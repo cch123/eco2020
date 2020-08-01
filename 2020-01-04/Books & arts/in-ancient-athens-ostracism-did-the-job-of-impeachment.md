@@ -35,3 +35,7 @@ While it lasted, ostracism served many purposes. It was a warning to prominent t
 In the final years of the fifth century BC, as democracy degenerated, ostracism lost its usefulness. The last occurred around 417BC, by which time war-weary Athenians had been seduced by demagogues. The dominant characters were the populist Alcibiades and the more moderate Nicias. It seemed likely that one or other would be expelled, but the powerful duo briefly buried their rivalry and had another politician, Hyperbolus, ejected instead. According to Plutarch, “the people felt disgruntled, because the procedure had been abused…and they abandoned it.” Votes on whether to conduct an ostracism were held for another century, but it never seemed to be worthwhile.
 
 In the years that followed, Athens became a rougher place. The city mostly observed the outward form of democracy but often felt more like a militarised oligarchy. The interaction between social classes and individuals that enlivened the fifth century was over. And the idea that removing one person could solve the republic’s problems belonged to a more innocent age. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/01/02/in-ancient-athens-ostracism-did-the-job-of-impeachment

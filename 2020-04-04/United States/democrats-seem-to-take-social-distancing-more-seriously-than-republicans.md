@@ -25,3 +25,7 @@ But the Unacast data suggest that politics is also playing a role. All the state
 Democrats seem to be taking the crisis more seriously than Republicans. In a poll by the Pew Research Centre, 59% of Democrats said covid-19 is a major threat to the health of Americans; only 33% of Republicans said that. The Unacast data suggest people are acting on their opinions, risking infection from, and spreading, a virus that has killed more Americans than the 9/11 attacks.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/united-states/2020/04/04/democrats-seem-to-take-social-distancing-more-seriously-than-republicans

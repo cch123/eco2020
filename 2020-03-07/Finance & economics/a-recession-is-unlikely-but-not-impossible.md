@@ -39,3 +39,7 @@ Governments are also helping firms with their costs, the second kind of interven
 The final set of measures is meant to protect workers by preventing lay-offs and keeping incomes stable. China’s government has enacted a temporary cut to social-security contributions. Japan will subsidise wages of people who are forced to take time off to care for children or for sick relatives. Singapore has announced cash grants for employers of affected workers.
 
 Today these policies are being sporadically announced, and their implementation is uncertain. As the virus spreads, expect more interest-rate cuts—but also the systematic deployment of a more complex cocktail of economic remedies. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/03/05/a-recession-is-unlikely-but-not-impossible

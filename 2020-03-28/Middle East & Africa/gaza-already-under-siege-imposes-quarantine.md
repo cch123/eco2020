@@ -27,3 +27,7 @@ The virus has begun to pop up in other ravaged corners of the Middle East as wel
 These countries may never know the full extent of their outbreaks. Doctors in Gaza say they received only about 200 kits to test for the virus. Most have already been used. They are pleading with Israel and the WHO to send more, but it is unclear when, or if, they will. More than 1,400 people, many of them recently returned from abroad, have been crammed into schools turned makeshift isolation centres, sleeping six or eight to a classroom—a quarantine within an open-air jail. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/03/26/gaza-already-under-siege-imposes-quarantine

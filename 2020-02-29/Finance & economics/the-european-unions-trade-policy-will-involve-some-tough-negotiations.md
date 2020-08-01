@@ -31,3 +31,7 @@ Whether he can maintain stable trade relations with America is another matter. H
 The Americans want, above all, broad access to the EU’s agricultural market—more than the lobsters, scallops and nuts that are on offer. (Seafood technically counts as an industrial product.) But as Mr Hogan knows well from his previous job, anything much broader than dismantling a few non-tariff agricultural barriers is unpalatable to member states.
 
 He remains upbeat about the transatlantic relationship. “I think that we’re in a better place now than we were some months ago,” he says. On February 14th a tariff announcement related to a dispute over aircraft subsidies was milder than expected. A reduction in car tariffs could be on the table, he adds, if member states agree. His challenge is not just to get trade partners to play by the rules. It is to get his own side on board, too. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/02/27/the-european-unions-trade-policy-will-involve-some-tough-negotiations

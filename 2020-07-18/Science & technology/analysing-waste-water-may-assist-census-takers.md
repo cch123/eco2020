@@ -23,3 +23,7 @@ These general correlations are not, perhaps, that surprising (though another, be
 These forecasts were quite specific: how many people in an area had finished secondary school; how many had cars; how many were single parents; and so on. Of the 37 questions asked by the census about education, occupation, income, social life and housing, the model was able to predict the pattern of answers to 30 of them with 25% or less deviation from the values calculated by the census.
 
 Based on these results the researchers argue that, considering the relative ease, low cost and high frequency with which wastewater samples can be collected and analysed, their model could profitably be used, if not as a replacement for censuses, then at least as a way of keeping track of changes in the characteristics of populations more or less continuously, as they happen, rather than in a punctuated manner every five or ten years.■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/07/18/analysing-waste-water-may-assist-census-takers

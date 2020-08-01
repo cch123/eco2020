@@ -31,3 +31,7 @@ Geopolitics would urge a deal, too. Nobody in the EU wants Britain to drift off 
 A big worry is that both sides may be drawing the wrong conclusions from the tortuous negotiations on the withdrawal treaty. The EU reckons it won by being firm and united, and by using its superior weight to force successive British prime ministers into concessions. Mr Johnson believes that Mrs May failed because she was not ready to walk away from the table and into no-deal, partly because her own MPs would not let her. Brussels may be underestimating a newly empowered Mr Johnson’s willingness to accept no-deal, while the prime minister may be overestimating the EU’s fear of this outcome.
 
 This is partly because, for both sides, the cost of no-deal has shrunk. The withdrawal treaty will remain in place to cover the first-round issues of money, EU citizens and averting a hard Irish border. Except for a few vulnerable sectors, the trade losses from moving from unfettered single-market access into a bare-bones deal for goods are not that much greater than those of switching to trade on WTO terms alone. If the political price for either side to reach an agreement starts to look too high, no-deal may start looking like a plausible alternative. That is the biggest reason why it might actually happen.■
+
+## URL
+
+https://www.economist.com/britain/2020/02/06/the-risk-of-britain-leaving-the-eu-with-no-trade-deal-remains-high

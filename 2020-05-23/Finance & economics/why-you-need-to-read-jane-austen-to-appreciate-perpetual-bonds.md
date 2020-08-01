@@ -31,3 +31,7 @@ Prejudice is a potential barrier to perpetual bonds. But they should be judged o
 * “A New Structure of U.S. Federal Debt” (May 2015).
 
 ** “Reviving a 19th Century Perspective on Financial Well-Being” (May 2020).
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/05/21/why-you-need-to-read-jane-austen-to-appreciate-perpetual-bonds

@@ -19,3 +19,7 @@ Despite his Victorian upbringing, Russell’s views and legacy are remarkably co
 In a debate broadcast by the BBC in 1948 Russell came up against Frederick Copleston, a Jesuit priest, in one of the listening public’s earliest exposures to the philosophical arguments against God. Thanks to YouTube, you can listen to the stand-off again. Copleston, palpably irritated and wearied by his opponent’s obstinance, pleads: “We seem to have reached an impasse.” “We can press the point a little I think,” Russell cheekily replies.
 
 On his death, Russell was eulogised as “the English Voltaire”, a witty, polymathic rebel. As with Voltaire, though a few of his books are still in publication, most now gather dust. But through the alchemy of the internet, his voice lives on. One appreciative listener has commented: “Imagine if this guy had a podcast.” The informal online archive will have to suffice. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/04/18/listen-to-bertrand-russell-the-english-voltaire

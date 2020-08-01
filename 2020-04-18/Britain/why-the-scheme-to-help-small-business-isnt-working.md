@@ -33,3 +33,7 @@ Taxpayers will get some protection from unviable firms thanks to the Treasury’
 Even SMEs that were thriving before the pandemic may find it hard to service additional debt taken on through CBILS. It will take time for that to become clear. For now, the focus is on the very short-term. On April 20th the web portal for companies to apply for furlough payments opens. SMEs are praying it will be a seamless experience compared with CBILS. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/04/18/why-the-scheme-to-help-small-business-isnt-working

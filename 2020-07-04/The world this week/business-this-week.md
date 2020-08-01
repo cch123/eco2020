@@ -29,3 +29,7 @@ Tesla overtook Toyota to become the world’s biggest carmaker by market capital
 In China, Byton, a startup with ambitions to compete against Tesla, suspended production and sent its staff home. Sales of electric and hybrid vehicles have fallen drastically in China following the end of government tax breaks. Byton is one of several Chinese EV startups that investors piled into hoping for rich returns, though it has not delivered a single vehicle.
 
 Mirror, a home-workout business, was snapped up by Lululemon, a maker of snazzy yoga pants, for $500m. Mirror makes body-length wall-mounted smart screens through which exercisers can interact online with buff personal trainers live or on-demand. The pandemic has been a boon for the high-end fitness industry. But once gyms reopen it remains to be seen whether people will still splash out $1,500 for one of Mirror’s screens, or just plod and puff on a treadmill.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/07/04/business-this-week

@@ -27,3 +27,7 @@ The outlier has been Iran. It has the third-highest number of confirmed cases of
 Most have accepted them with equanimity, though. Some even find small cause for amusement. The new taboo around social contact is alien to many in the region, used to clasping hands or kissing on the cheeks. But it is old hat for conservative Muslims, who avoid physical contact with the opposite sex. Instead of awkward innovations like the elbow bump, they greet as they always have: a hand on the heart, a slight bow of the head. Not everything has changed. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/03/21/how-prayer-is-changing-as-a-result-of-covid-19

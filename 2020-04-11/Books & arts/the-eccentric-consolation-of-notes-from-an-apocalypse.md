@@ -19,3 +19,7 @@ He delves into the internet subculture of “preppers”, a group mostly compris
 These vignettes offer a fascinating insight into a species obsessed with its own demise—and into the ways humankind is trying to confront the hard-to-bear reality of climate change. These range from the absurd (colonisation of Mars), to the selfish (billionaires buying up New Zealand), to the poignant (difficult conversations with young children). Along the way, Mr O’Connell moves nimbly between scenes and eras, skipping from the poetry of Czeslaw Milosz to a history of the Grand Tour. It helps that he is funny, too. Oddly, all these ruins leave him feeling more peaceful, though the process of parenting might also have helped.
 
 Readers, for their part, will emerge feeling doomed—yet oddly uplifted. “The fact that the world is continuing on as always—that the sun is shining, and the bees circling the clover, and the tomatoes ripe in the fields—doesn’t mean it hasn’t already come to an end,” Mr O’Connell reflects. One of the strengths of his book is that it simultaneously makes the reverse of that proposition clear: the world is ending, and, as usual, it is carrying on. “Notes from an Apocalypse” was written before the covid-19 pandemic, but it offers a timely if eccentric consolation all the same. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/04/08/the-eccentric-consolation-of-notes-from-an-apocalypse

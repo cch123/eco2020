@@ -21,3 +21,7 @@ The economy is no brighter. It shrank slightly last year, the worst performance 
 AMLO argues, correctly, that incomes of poorer Mexicans rose sharply last year, through handouts and an increase in the minimum wage. But there is little reason to believe that investment or growth will revive. The president promised not to increase taxes in his first three years. But this month he invited business leaders to a frugal dinner and asked them to buy tickets for a “lottery” whose proceeds would be used for medical equipment. This shakedown raised $80m and distracted attention from femicides, but will do nothing for business confidence.
 
 This poor policy performance is bad for Mexico, but not necessarily for the president. Polls put his approval rating at between 55% and 72%. Many poorer Mexicans see him as honest and on their side. His potential Achilles heel is crime and insecurity. His remedy is likely to be more political theatre, at which he is a master. The undoubted corruption of the previous government of Enrique Peña Nieto may give him plenty of material. This month the former head of Pemex, the state oil company, was arrested in Spain. The Wall Street Journal then reported that prosecutors are investigating Mr Peña. (Both men deny wrongdoing.) AMLO claimed no knowledge of that. But it is hard to imagine that the showman will miss an opportunity like this.
+
+## URL
+
+https://www.economist.com/the-americas/2020/02/27/mexico-needs-statecraft-yet-its-president-offers-theatre

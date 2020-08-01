@@ -17,3 +17,7 @@ Cholent takes at least 24 hours to make properly. But then, what else are you do
 Ultra-orthodox Jews never kicked the cholent habit. Among the more secular, the tradition faded over the generations. In recent years, though, it has begun to make a comeback among hipsters in Tel Aviv and Brooklyn, who gather at weekends for cholent parties. Tradition is part of the appeal, but so is the prospect of experimentation. Many other national and regional cuisines have rustic, long-cooked stews of their own, but cholent is different because of its inherent flexibility. The basic concept is mentioned in the Talmud, but Jews across the diaspora have cooked and adapted it wherever they settled.
 
 In Iran, cracked wheat replaced barley. In Alsace, goose was preferred to brisket. In the East End of London, a tin of baked beans was sometimes tipped in; sweet potatoes and ketchup were introduced in America. It is amenable to innovation with spices and condiments (your correspondent’s personal twist is a spoonful of date molasses). The German poet Heinrich Heine wrote that God himself had instructed Moses in the secret of preparing cholent. But mortals may tinker with the recipe. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/06/27/cholent-a-traditional-jewish-dish-is-a-perfect-lockdown-meal

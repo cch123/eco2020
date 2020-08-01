@@ -25,3 +25,7 @@ Online tools are especially useful now. A Dutch helpline is seeing increased num
 Where internet access is limited and legal protections are weaker technology may be less help. In Latin America mobile-data charges are unaffordable for many, so the WHO is trying to spread information about the help available through adverts on television and radio. Domestic abuse will outlive the pandemic. With luck, so will new tools to combat it. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/international/2020/05/09/the-pandemic-may-be-making-domestic-abuse-worse

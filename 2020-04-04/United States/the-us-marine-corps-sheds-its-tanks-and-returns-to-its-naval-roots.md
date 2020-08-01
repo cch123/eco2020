@@ -29,3 +29,7 @@ Some worry that this would be a dramatic change for a service that has proudly s
 Buy-in from the navy is especially important. The plan depends on tight integration with the marines’ sister service, not least because the corps does not own its own warships. The number of American ships—the navy is set on 355—is less important, notes Chris Brose of Anduril Industries, a former staff director for the Senate Armed Services Committee. Whether a weapon is fired from a marine squad or navy destroyer thousands of miles away is irrelevant, he says, as long as they are integrated and add up to a greater capability.
 
 Congress will also take some persuading. “It won’t be Democrats versus Republicans,” says Mike Gallagher, a Republican congressman and former marine officer who serves on the House Armed Services Committee. “I think it will be entirely generational. The younger members, particularly those who have served, are embracing these changes, and are more than willing to divest ourselves of legacy capabilities, even at the cost to our own districts. The older members…will be loth to embrace change, particularly when it affects things that are produced in their districts.” ■
+
+## URL
+
+https://www.economist.com/united-states/2020/04/02/the-us-marine-corps-sheds-its-tanks-and-returns-to-its-naval-roots

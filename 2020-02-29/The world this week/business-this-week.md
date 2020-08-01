@@ -29,3 +29,7 @@ A measure that would compel Apple to consider rights to freedom of expression in
 Amazon opened its first Go supermarket, which has no cashiers, simply charging customers through an app for items they have taken from shelves fitted with sensors. The supermarket in Seattle builds on technology used in two dozen convenience stores that Amazon operates. Teething problems include accurately weighing fruit and vegetables. Shoppers must put a product back in its correct place if they do not want to be charged for it, a potential nightmare for those who have enough trouble dealing with self-checkout machines.
 
 Volkswagen’s boss said he was looking to employ a young green activist who can push the board to take a more aggressive stance against climate change. Sounds like an ideal job for Greta Thunberg.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/02/29/business-this-week

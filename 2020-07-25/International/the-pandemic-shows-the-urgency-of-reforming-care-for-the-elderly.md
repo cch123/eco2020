@@ -67,3 +67,7 @@ Governments could make more use of personal-care budgets. These are pots of mone
 Experts are hopeful. “I’ve been preaching this stuff for decades and nobody ever wanted to hear it. Then covid hit and my phone hasn’t stopped ringing,” says Ms Tumlinson. The pandemic is persuading more people that “the mass institutionalisation of older people isn’t such a good idea,” reckons Mr Thomas of the Green House Project. Social care has never enjoyed so much attention, agrees José Luis Fernández of the London School of Economics. But he worries that governments “will struggle to fund new commitments at a time when public finances are under huge pressure.” There have been lots of broken promises in the past.■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/international/2020/07/25/the-pandemic-shows-the-urgency-of-reforming-care-for-the-elderly

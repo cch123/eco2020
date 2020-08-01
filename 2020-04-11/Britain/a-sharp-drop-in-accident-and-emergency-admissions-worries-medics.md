@@ -19,3 +19,7 @@ This is not entirely bad. For one thing, the quiet has made reorganisation easie
 Yet the scale of the drop in admissions has alarmed medics. Before the crisis, the health service estimated that just one in ten emergency attendances were “non-urgent”, meaning treatment could have been provided by a general practitioner outside of hospital. Emergency departments are not just seeing fewer stomach bugs. There has been a sharp fall in the number of emergency admissions with cardiac problems. Forthcoming data will show that referrals for cancer diagnosis have plunged. And one hospital even reports a 70% fall in admissions for detached retinas. None of these things is likely to be the result of cleaner hands.
 
 The NHS is scrabbling to find out what other treatment people may be missing out on. Once these gaps have been identified, it will try to get in touch with people potentially at risk, telling them to seek treatment. As Carrie MacEwan, chair of the Academy of Medical Royal Colleges, notes, the worry is that the health service is storing up problems for once the first wave of the virus has passed. Having encouraged people to protect the NHS, the government now needs to encourage them to protect themselves.■
+
+## URL
+
+https://www.economist.com/britain/2020/04/08/a-sharp-drop-in-accident-and-emergency-admissions-worries-medics

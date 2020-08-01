@@ -19,3 +19,7 @@ For many patients a kidney transplant is a much better option than several years
 The problem is that there are almost 100,000 people on the waiting list, and the typical waiting time is more than four years, meaning thousands die before their turn. Incentivising organ donations is morally fraught. But at present, there are strong disincentives to living organ donations. Though there is no medical bill for giving up a kidney, costs for transport, lodging and lost wages during recovery are not reimbursed. For three-quarters of prospective donors, these can amount to one month of income. Research from Mr Macis and two colleagues shows that Americans are much more keen on reimbursement if it is offered by a public agency—as opposed to direct purchase—and if it meaningfully increases the supply of organs.
 
 The curious case of the kidney gives a few insights into the larger workings of the American health-care system. Small, fossilised provisions morph into huge programmes decades later. Government influence over prices may limit overall growth in costs, but can coincide with abnormally high profits for a few operators. And comparatively clear ideas for reducing billions in costs while improving thousands of lives can go ignored for years.■
+
+## URL
+
+https://www.economist.com/united-states/2020/02/20/a-quirk-in-the-law-means-that-americas-kidney-shortage-costs-taxpayers

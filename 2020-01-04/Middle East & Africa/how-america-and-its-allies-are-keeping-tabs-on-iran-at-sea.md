@@ -23,3 +23,7 @@ Iran has not struck at sea since the mission began. Yet it has not all been plai
 France went ahead with a competing initiative that has since welcomed the Netherlands and Denmark. America takes a dim view of it. The French mission “does not exist” at sea, says Admiral Malloy. “We are not co-ordinating or sharing information, and there are no immediate plans to do so.” Both outfits want new members, but others are keeping their distance. Japan will soon send a destroyer and surveillance plane to the region. It will share intelligence with the IMSC but remain apart from it.
 
 Iran will be less than pleased with all the new visitors. Its threats to shipping, far from strengthening its hand against America, have led to it being hemmed in even more tightly.
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/01/02/how-america-and-its-allies-are-keeping-tabs-on-iran-at-sea

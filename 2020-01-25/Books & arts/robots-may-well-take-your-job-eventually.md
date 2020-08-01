@@ -25,3 +25,7 @@ This gloomy view of the impact of technology is plausible. But so is a more opti
 Which of these visions is right? Recent history has not vindicated either the optimists or the pessimists. Employment has surged in both America and Britain, suggesting that technology has not led to widespread labour replacement. On the other hand, growth in productivity has consistently been extremely disappointing, indicating that technology is not yielding the hoped-for increases in prosperity. This record is a shaky basis on which to make forecasts. Mr Susskind wisely hedges his bets, declaring that “in all likelihood, there will be enough work for humans to do for a while yet.” The problem, he says, lies in the long run.
 
 Perhaps. The truth is that, seductive as prognostications like Mr Susskind’s may be, it is impossible to be sure whether the latest advances will in the end have mainly benign or malign economic effects. Books like his are a useful summary of the current debate on an important subject. But they are not crystal balls. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/01/23/robots-may-well-take-your-job-eventually

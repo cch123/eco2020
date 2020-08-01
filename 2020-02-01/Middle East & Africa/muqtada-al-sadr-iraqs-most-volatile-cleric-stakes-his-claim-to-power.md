@@ -23,3 +23,7 @@ But the post he most covets is head of Iraq’s clergy. Currently Grand Ayatolla
 Mr Sadr may hope to become Iraq’s version of a supreme leader. But it will be a bumpy ride to the top. Some in his ranks seethe at his betrayal of the protesters. Sheikh Asaad al-Nasari, a close associate, declared he would remain on the street. The protesters, for their part, detect disarray in the governing ranks. They sound emboldened. “Without Suleimani the militias are sheep without a shepherd,” says Faiq al-Sheikh Ali, a liberal parliamentarian who claims to be the protesters’ choice for prime minister. He wants American forces to stay in Iraq to keep Iran out.
 
 Both sides hope to exhaust the other, but they might end up exhausting ordinary Iraqis. Business is grinding to a halt. With oil prices low, the budget deficit is widening. Fears are mounting about the government’s ability to pay salaries. Meanwhile, President Donald Trump threatens to seize Iraq’s foreign assets and impose sanctions if the government persists with its request for American troops to leave. He has allowed Iraq to bypass American sanctions on Iran and buy its gas and electricity. The waiver expires in mid-February. It might not be renewed, particularly if militias continue to lob rockets at America’s embassy in Baghdad, as they did on January 26th. Iraq is desperate for some calm. But continued unrest is more likely. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/01/30/muqtada-al-sadr-iraqs-most-volatile-cleric-stakes-his-claim-to-power

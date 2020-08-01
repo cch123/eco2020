@@ -27,3 +27,7 @@ Worse still for those who live in the area, Dr Williams's research also confirme
 Correction (April 23rd 2020): A previous version of this article mistakenly referred to Park Williams of the Lamont-Doherty Earth Observatory in New York state as “Dr Parker”. Apologies both to readers and to the man himself.
 
 Sign up to our fortnightly climate-change newsletter [here](https://www.economist.com//theclimateissue/)
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/04/18/the-american-wests-drought-is-its-second-worst-for-12-centuries

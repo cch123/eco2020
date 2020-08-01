@@ -23,3 +23,7 @@ The products caught up in the spat represent only a tiny sliver of Australian ex
 Bloomberg, a news agency, reports that the Chinese government is considering submitting other choice Australian products, including seafood, dairy and wines, to new quality checks and anti-dumping reviews. Obscure changes to rules about iron ore are causing alarm. This highlights Australia’s conundrum: it has no consistent China policy. For years it has been happy to sell stuff into what Mr Jennings calls an “easy market”. But it also wants to continue to air ideological and geopolitical grievances. As a result, China has it over a few million barrels of full-bodied Shiraz. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/asia/2020/05/21/china-punishes-australia-for-promoting-an-inquiry-into-covid-19

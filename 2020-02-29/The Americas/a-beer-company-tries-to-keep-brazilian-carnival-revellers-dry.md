@@ -19,3 +19,7 @@ Whether it’s science or fiction is up for debate. The use of cloud-seeding to 
 Still, governments and firms in many countries use the technology. The city of Beijing tried cloud-seeding to divert rain away from the Olympic games in 2008. São Paulo’s water company has signed million-dollar contracts with ModClima to induce rain over reservoirs, most recently during a drought in 2014-15. Although cloud-seeding normally uses a chemical such as silver iodide to provide a surface around which water or ice droplets form, ModClima says it has invented an “experimental” method that uses water alone. Droplets sprayed into clouds expand as they are lifted by air currents and collide with others, forming raindrops, the firm claims.
 
 Carnival-goers cheered when the first two days were cloudy but dry. “Not all heroes wear capes,” one wrote on her retweet of Skol’s video. But at around 5pm on February 24th, the sky darkened and rain pelted down. Revellers at one block party left the Skol stands and flocked to a vendor selling plastic rain capes. “Only God can control the weather,” said the poncho man.■
+
+## URL
+
+https://www.economist.com/the-americas/2020/02/27/a-beer-company-tries-to-keep-brazilian-carnival-revellers-dry

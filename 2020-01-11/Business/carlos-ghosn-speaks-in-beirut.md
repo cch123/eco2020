@@ -13,3 +13,7 @@ ON JANUARY 8TH Carlos Ghosn, ebullient and combative despite a year in custody a
 Dig deeper:
 
 Our [full coverage](https://www.economist.com//business/2020/01/08/carlos-ghosn-lambasts-the-japanese-justice-system-he-has-fled) of Carlos Ghosn's press conference in Beirut
+
+## URL
+
+https://www.economist.com/business/2020/01/11/carlos-ghosn-speaks-in-beirut

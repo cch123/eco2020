@@ -23,3 +23,7 @@ You can see the appeal for Silicon Valley. There is no roadshow, no ploughing th
 There is a downside, of course. Fees are unavoidable. Sponsors are typically paid with a 20% stake in the SPAC. This is in essence an indirect charge on the acquired firm. It is not obviously cheaper than an IPO. In principle the sponsor can dilute his effective “fee” by, for instance, co-ordinating another round of capital-raising from private-equity or hedge funds at the time of the merger. A few sponsors might inspire a halo effect, increasing the share price just by association. Investors will not question a really big name; they just want to be cut in. And the 20% fee is not set in stone. Mr Ackman, for instance, is taking a much smaller cut and making it conditional on reaching performance targets.
 
 Trustworthy sponsors will keep their own capital tied to the venture. But Bilko is not to be trusted, of course—where would the comedy be in that? His three rival sergeants realise too late that he has sold each of them a one-third stake in a worthless venture. “Don’t you own a piece of it?” asks one in a panic. “Me? I’m in the army,” replies Bilko. “What would I want with an empty store?”
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/08/01/the-spac-hack

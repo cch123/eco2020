@@ -21,3 +21,7 @@ The crowd in Ávila was keen to see the bulls’ return and clamoured for the li
 If the opening was muted, so were the climaxes. The audience was told that the tradition of showering triumphant matadors with flowers (or other tokens of appreciation, such as chickens) was prohibited. Police intervened when one bullfighter, Finito de Córdoba, threw cash at a loudmouth who felt short-changed by his kill. Combining classical moves with crowd-pleasing tricks, Mr López Simón gave the best-received performance. But new rules forbade his colleagues from carrying him away on their shoulders, and he had to make do with a victory lap of the ring. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/07/22/bullfighting-in-the-era-of-covid-19

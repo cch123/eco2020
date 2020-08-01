@@ -53,3 +53,7 @@ German scientists have announced plans to start, this month, a reasonably large-
 Dig deeper:
 
 For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/04/02/an-antibody-test-for-the-novel-coronavirus-will-soon-be-available

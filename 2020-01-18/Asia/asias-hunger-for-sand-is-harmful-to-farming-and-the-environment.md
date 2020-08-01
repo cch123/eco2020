@@ -25,3 +25,7 @@ Curbing sand-mining is difficult because so much of it is unregulated. Only abou
 Ms Abdulali is nonetheless “a bit hopeful”. Scientists are experimenting with alternatives to concrete and cement. Architects are trying to find ways to use such materials more sparingly. Even the odd government is taking action. In 2018, Maharashtra passed regulations requiring contractors to use plastic waste as filler when building or repairing roads. Singapore is creating a new patch of land by draining it of water rather than piling it with sand. Kiran Pereira of SandStories.org, which promotes awareness of the issue, says “there are plenty of solutions” if only governments would find the will to implement them. Time to pull heads from the sand. ■
 
 Correction (January 24th 2020): The original version of this article wrongly stated that sand was the biggest ingredient in cement. Sand is in fact the biggest ingredient in concrete, which also uses cement.
+
+## URL
+
+https://www.economist.com/asia/2020/01/18/asias-hunger-for-sand-is-harmful-to-farming-and-the-environment

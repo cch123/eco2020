@@ -25,3 +25,7 @@ Mr Putnam, a political scientist at Harvard University, updates and extends this
 Mr Putnam’s analysis is suggestive rather than conclusive. Although some social pathologies, such as a turn toward nationalism and xenophobia, have spread globally, nothing like America’s mortality crisis can be found in other rich countries. If he is right, they must not have experienced the same weakening of collective institutions and sentiments.
 
 But if culture is a vague and as-yet-unsatisfying answer to the question posed by deaths of despair, it serves as a proxy for forces that social scientists desperately need to understand. America’s mortality crisis is a sign of serious institutional weakness. To grapple with it, economists will need to venture beyond their field’s traditional boundaries. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/01/09/economists-grapple-with-rising-american-mortality

@@ -23,3 +23,7 @@ Closing venues for health reasons is less serious than it used to be because so 
 The most tangible trading restrictions so far are on “short-selling”, which allows investors to profit if prices drop. Several European countries including France, Italy and Spain have limited the practice. Hedge funds worry that credit-default swaps, a sort of insurance policy which pays out if a company goes bust, may become difficult to collect because of political pressure. But the end result of such meddling is that investors who might have hedged their existing positions—so protecting themselves against further losses—are likelier to simply sell what they own and stay away.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/03/21/venues-may-close-trading-should-remain-open

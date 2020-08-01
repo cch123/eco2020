@@ -29,3 +29,7 @@ Peter Kenilorea, an opposition figure in the Solomon Islands, says the governmen
 Australia and New Zealand both emphasise what New Zealand’s leader, Jacinda Ardern, calls “a duty of care” to Pacific nations. Both countries have promised to send medical equipment and personnel. But Sheldon Yett of Unicef says that the region’s travel clampdown hampers the movement of aid workers and supplies. And once Australia and New Zealand face full-blown crises of their own, how much will they look out for the Pacific?
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/asia/2020/03/21/even-tiny-pacific-islands-cannot-escape-covid-19

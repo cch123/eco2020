@@ -25,3 +25,7 @@ There are still huge questions about his candidacy. His support has been inflate
 A bigger fear is that, instead of capitalising on the Democrats’ divided field, he may fracture it further. He could nab enough of Mr Biden’s support with non-whites to stop Mr Buttigieg or Ms Klobuchar uniting the centre-left, yet be unable to do so himself. Perhaps his qualities are worth the risk. But if it backfires, he will have done more than almost anyone to make Mr Sanders the nominee.■
 
 Dig deeper:Sign up and listen to Checks and Balance, our new [newsletter](https://www.economist.com//checksandbalance/) and [podcast](https://www.economist.com//podcasts/2020/04/24/checks-and-balance-our-weekly-podcast-on-american-politics) on American politics[The Democratic primaries will be a contest between radicals and repairers](https://www.economist.com//leaders/2020/02/06/the-democratic-primaries-will-be-a-contest-between-radicals-and-repairers)[Who will be Donald Trump’s most forceful foe?](https://www.economist.com//united-states/2020/02/01/who-will-be-donald-trumps-most-forceful-foe)[Bernie Sanders and Pete Buttigieg emerge from New Hampshire as the Democrats’ favourites](https://www.economist.com//united-states/2020/02/01/who-will-be-donald-trumps-most-forceful-foe)
+
+## URL
+
+https://www.economist.com/united-states/2020/02/15/mike-bloombergs-very-expensive-moment

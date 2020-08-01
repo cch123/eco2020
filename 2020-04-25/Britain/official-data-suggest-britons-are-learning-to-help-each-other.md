@@ -21,3 +21,7 @@ Such groups have their limitations. Many vulnerable Britons, especially the elde
 Others are sceptical that this civic-mindedness will outlast the pandemic. Despite much hype at the time, the London Olympics in 2012 did little to inspire a legacy of volunteering. The bonhomie of street parties is tricky to sustain once the final cupcake has been wolfed down. But, says Mr Hobson, neighbourliness is best thought of as a ratchet. “Once you meet someone, you can’t unmeet them.” Conversation is easier once you know your neighbour’s name. Paradoxically, social distancing and isolation may be just what is needed to bring people together. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/04/25/official-data-suggest-britons-are-learning-to-help-each-other

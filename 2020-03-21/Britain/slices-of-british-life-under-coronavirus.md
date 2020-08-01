@@ -47,3 +47,7 @@ Old-age protesters
 Eve Woodward in a letter to The Times, March 17th.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter), or visit [our coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/03/21/slices-of-british-life-under-coronavirus

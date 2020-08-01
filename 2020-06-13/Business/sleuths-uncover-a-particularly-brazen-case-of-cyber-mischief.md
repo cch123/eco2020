@@ -23,3 +23,7 @@ While CitizenLab is willing to point the finger at the suspected hackers, it is 
 Another group of targets appear to have been journalists covering Wirecard, a German payments-processing firm embroiled in an accounting scandal (on June 5th police raided its offices in Munich). Attacks seem also to have been made against hedge funds with a short position in Wirecard’s stock. Once again, the report does not allege that Wirecard commissioned the attacks. (Wirecard says it has not been in contact with a hacker group from India.)
 
 John Scott Railton, one of the report’s authors, says that the brazen nature of the hacking suggests those responsible were not worried about legal consequences. Hacking-for-hire holds appeal for anyone aiming to play dirty, he says, and may have become a standard tool for private investigators. “These kinds of services allow their clients to cause trouble from a distance, in a different jurisdiction, with minimal friction and not much chance of getting caught.” Businesses—and anyone caught up in a bad-tempered divorce—beware.■
+
+## URL
+
+https://www.economist.com/business/2020/06/11/sleuths-uncover-a-particularly-brazen-case-of-cyber-mischief

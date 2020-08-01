@@ -31,3 +31,7 @@ Future historians, if there are any who can still research and speak freely, wil
 Margaret MacMillan is a historian at the University of Toronto. This article is part of a series on the world after covid-19. For more coverage of the pandemic visit [Economist.com/coronavirus](https://www.economist.com/http://Economist.com/coronavirus)
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/by-invitation/2020/05/09/margaret-macmillan-on-covid-19-as-a-turning-point-in-history

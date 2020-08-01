@@ -17,3 +17,7 @@ Mountaineers are far less likely to die on Everest than they were just a few dec
 ![](./images/20200314_ASC655.png)
 
 The Nepalese authorities handed out 381 permits to teams of mountaineers last year, generating a welcome dollop of cash. They are presumably keen to ensure that stricter rules do not shrink revenues. Even if the government comes out ahead, with extra income from higher fees offsetting any decrease in the number of permits issued, an entire industry depends on Everest. Nepal is among Asia’s poorest places: about half of its 30m people subsist on less than $3.20 a day, according to the World Bank. Guides risk their lives because they can earn perhaps $5,000 a season working at the highest altitudes, more than seven times the average annual wage. With last year’s bad publicity and the impending tightening of the rules, their earnings may have peaked.■
+
+## URL
+
+https://www.economist.com/asia/2020/03/12/new-rules-to-limit-numbers-on-everest-are-delayed

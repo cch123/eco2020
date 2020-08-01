@@ -37,3 +37,7 @@ According to calculations by The Economist, the rate of housing construction in 
 Why did the rich world turn against new construction? The post-war rise in home ownership may have had something to do with it. In 2001 William Fischel of Dartmouth College proposed his “homevoter hypothesis”. The thinking runs that owner-occupiers have an incentive to resist development in their local area, since doing so helps preserve the value of their property. As home ownership rises, therefore, housing construction might be expected to fall.
 
 Research supports that idea. One paper studies a ballot in 1988 in San Diego, finding that precincts with a larger share of homeowners had more votes cast in favour of growth controls. Another finds that parts of New York City with high home-ownership rates were more likely to implement measures which made development more difficult. There is little doubt that the rich world is a less friendly place to build than it once was. But to what extent is land regulation responsible for today’s sky-high prices? ■
+
+## URL
+
+https://www.economist.com/special-report/2020/01/16/how-housing-became-the-worlds-biggest-asset-class

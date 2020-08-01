@@ -77,3 +77,7 @@ Here in New York, people who refuse to wear masks or practise social distancing 
 JOHN S. MAJORNew York
 
 * Letters appear online only
+
+## URL
+
+https://www.economist.com/letters/2020/07/11/letters-to-the-editor

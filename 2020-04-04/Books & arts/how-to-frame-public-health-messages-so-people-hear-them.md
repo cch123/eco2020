@@ -29,3 +29,7 @@ The Danish instructions seem to be working; police report few violations of the 
 Rule number one in crisis communications, says Mr Vigso, is coherence. Mixed messages allow people to follow their biases and believe whatever they want. America is hobbled in two regards here. Its federal structure means a president, 50 governors and countless mayors are saying different things. And it has a president who said he wanted to see “packed” churches at Easter, then decided otherwise. You’re much more likely to tell people what they want to hear if you can’t make up your own mind.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/04/03/how-to-frame-public-health-messages-so-people-hear-them

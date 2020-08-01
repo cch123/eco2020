@@ -21,3 +21,7 @@ There will be plum jobs for some of Dr Abdullah’s backers, too. Most notably, 
 Relations between Mr Ghani and Dr Abdullah got so bad during the previous presidential term that they barely spoke to each other, say diplomats. The smiles in photographs of the signing ceremony for the new deal look sickly. Amid routine congratulations, international reaction has mixed relief with frustration. The Americans were furious that the government in Kabul was paralysed during the impasse, when it should have been preparing for talks with the Taliban. Under an accord struck by the Americans and the Taliban in February, representatives of the Taliban and the Afghan government should be in discussions about Afghanistan’s future by now. Instead the process has been held up by a row over prisoner releases—and by the impasse in Kabul. Zalmay Khalilzad, the American envoy who has been shuttling between the two rivals, chided them for their stubbornness even as he congratulated them. The compromise formula had been on the table for ten weeks, he tweeted.
 
 Afghans also resented the haggling. The UN says the Taliban killed or injured 208 civilians in April, while Afghan government forces caused 172 casualties. On May 12th unidentified gunmen stormed a maternity clinic in Kabul, killing 24 people, including babies, mothers and nurses. Covid-19 and food shortages are adding to the misery. Yet Afghans see their leaders as concerned mainly with carving up power. ■
+
+## URL
+
+https://www.economist.com/asia/2020/05/21/afghanistans-two-rival-presidents-reach-a-deal

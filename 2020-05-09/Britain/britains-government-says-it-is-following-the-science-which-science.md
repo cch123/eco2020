@@ -25,3 +25,7 @@ Third, the government’s mantra implies a consensus about “the science” tha
 Scientists are accustomed to talking about ranges and living with uncertainty. The public might find that harder. As the first meeting of Sir David’s online committee got going, commenters were enthusiastic about “this effort to disseminate the science, rather than the spin”. But, once it became clear that the panellists had differing views and were not about to offer up a ready-packaged solution, the tone changed. “Please Mr Modeller!” went one comment. “Just answer the questions.”■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/05/09/britains-government-says-it-is-following-the-science-which-science

@@ -29,3 +29,7 @@ But Article 22 of the Basic Law says that no central-government department may �
 The central government may be mindful of Legislative Council elections that are due to be held in September. With the pro-establishment camp holding just under two-thirds of seats, now may be an opportune moment to get the anthem and security bills passed. If the democrats can repeat the success they achieved last November in district-level elections, the government may find its control in the Legislative Council considerably undermined.
 
 It will be risky either way. In 2003, when the government last tried to pass the security legislation mandated by Article 23, objectors staged a huge protest. This led to the bill’s withdrawal and eventually the stepping down of Hong Kong’s then leader, Tung Chee-hwa. But the government may decide to ignore public opinion this time. Democrats fear that the central government may lean on Hong Kong to bar some of them even from running in September. The Liaison Office’s accusation that filibustering legislators are violating their oaths (a sackable offence) already suggests that the pressure is growing. ■
+
+## URL
+
+https://www.economist.com/china/2020/04/23/china-moves-to-squeeze-hong-kongs-freedoms

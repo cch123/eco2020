@@ -19,3 +19,7 @@ In 2017 only 55% of firms of all sizes conducted cyber-security risk assessments
 An executive of a big shipping company acknowledges the need for better cyber-protection but grumbles that “it is a cost”. That echoes the sentiment of 64% of companies, big and small, surveyed in 2017 that viewed cyber-security as an expense, not an investment. Japanese firms spend 2.4% of their revenues on IT, a third less than in America. A smaller share of the lower spending goes to cyber-defences: whereas 85% of American firms devote at least a tenth of their IT budgets to security, in Japan 62% spend less than a tenth. And, as with Windows 7, a portion of that goes on preserving outdated technology.
 
 “Executives must stop thinking of network security as an IT problem and start seeing it as a business challenge,” says Kajiura Toshinori of the Japan Cyber-security Innovation Committee, a think-tank, who advises Keidanren, Japan’s main business lobby. That is easier said than done. Nine in ten firms say they have trouble recruiting cyber-security personnel—another sharp contrast with America, where fewer than one in five report such problems. Japan’s shrinking labour force doesn’t help, especially outside big cities. Even in Tokyo many IT analysts lament low pay and a lack of career paths. Plenty leave the profession entirely. Unlike baseball fans, there are no robots to make up the shortfall.■
+
+## URL
+
+https://www.economist.com/business/2020/07/18/japan-incs-it-needs-a-security-patch

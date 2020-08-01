@@ -55,3 +55,7 @@ The corporation has nonetheless gone on to experiment with some paid-for service
 Lord Hall will depart in the summer. Though he steadied the ship after the disastrous 54-day tenure of George Entwistle, the consensus is that his successor must take more risks. They will need political nous to deal with frustrated Tories, administrative skill to manage more than 20,000 staff and journalistic experience to make the daily editorial judgments that amount to “whether you have shit cover your ankles, knees, waist or head”, as one former decision-maker puts it. Tim Davie, the boss of BBC Studios; Alex Mahon, who runs Channel 4; and Charlotte Moore, the BBC’s head of content, are among those tipped. The hostile political environment has put some candidates off, and the £450,000 salary is not high by industry standards, remarks an executive at another channel. “But,” he concedes, “it’s a big train set”. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/04/25/the-bbc-is-having-a-good-pandemic

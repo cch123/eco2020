@@ -83,3 +83,7 @@ Many autocrats fear losing control. An incident in Cambodia is suggestive. Mr Hu
 Seven years ago Mr Hun Sen was rattled by huge protests by disgruntled factory workers. Cambodia’s garment factories are now laying off workers, who are more desperate and angry than before. In many countries covid-19 may foster instability. Autocracies have no immunity. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/international/2020/04/23/would-be-autocrats-are-using-covid-19-as-an-excuse-to-grab-more-power

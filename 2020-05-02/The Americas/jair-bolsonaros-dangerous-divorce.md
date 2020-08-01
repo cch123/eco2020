@@ -31,3 +31,7 @@ The financial markets’ confidence in Brazil depends on Mr Guedes staying put. 
 His marginalisation leaves the government in the hands of ideologues and generals. The ideologues reinforce Mr Bolsonaro’s strongest preferences, for example to loosen gun controls. The soldiers, who occupy seven of 22 cabinet posts (including all four with offices in the presidential palace), sometimes restrain him. They tempered his hostility towards China, Brazil’s biggest trading partner. “They believe they’re capable of doing something important for the government at a time when it’s very chaotic,” says a retired general. But they are in tune with Mr Bolsonaro on developing the Amazon and favour bulking up the state’s economic role.
 
 Some officers may have second thoughts about backing his imploding presidency, says a scholar who studies Brazil’s army. But their sense of duty will keep them loyal. Impeachment would not diminish their role. Hamilton Mourão, the vice-president, was a serving general until 2018. If the military-minded president is removed, he will leave a martial legacy.■
+
+## URL
+
+https://www.economist.com/the-americas/2020/04/30/jair-bolsonaros-dangerous-divorce

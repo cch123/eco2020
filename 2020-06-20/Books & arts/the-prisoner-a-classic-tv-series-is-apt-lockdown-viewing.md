@@ -19,3 +19,7 @@ It is easy to over-analyse “The Prisoner”, and many fans have. A banner at a
 Nevertheless, they plainly wanted to make their viewers think. “The Prisoner” invites you to ponder the relationship between the individual and authority—though you needn’t conclude that a coronavirus lockdown amounts to a conspiracy against the people. The potential abuse of technology and surveillance is a recurring theme. The inhabitants of the village can be observed night and day; in one episode they absorb a history course, beamed from their televisions directly into their brains, within seconds.
 
 At bottom, “The Prisoner” remains a bizarre yet brilliant TV classic, about a spy whose masters won’t let him go. Though expensively made for its time—it was shot in colour and on location—it still has plenty of flaws. The plot can be downright confusing, not least in the final unmasking of Number 1. But it has an abundance of charms, including its picturesque setting in Portmeirion, north Wales. Above all it has McGoohan’s steel-gazed, black-blazered hero, railing indomitably against his captors. Does he finally escape? Watch it, and see for yourself. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/06/20/the-prisoner-a-classic-tv-series-is-apt-lockdown-viewing

@@ -27,3 +27,7 @@ Fortunately the suspicion that postal voting is a Democratic plot is unfounded, 
 How to hold an election in less than seven months’ time might not seem like a pressing problem when there is so much else going on. Yet election officials from states that already know how to run socially distanced elections warn that it takes time to build the systems needed to make voting by mail secure, and to train people to use them. If America wants to be certain of carrying out a proper national election in November the time to start preparing is not October. It is now.■ 
 
 Dig deeper:
+
+## URL
+
+https://www.economist.com/leaders/2020/04/18/america-should-prepare-now-for-voting-by-mail-in-novembers-election

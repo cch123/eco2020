@@ -25,3 +25,7 @@ So far, Mr Bukele has paid no price for his brutishness. Citizens believe he is 
 How long he plans to hold on to all this power is unclear. Sitting presidents may not run for re-election. Mr Bukele might try to lift that term limit before the election in 2024. Or perhaps one of his relatives, the main powerbrokers in his government, will be on the ballot. Either way, democracy would suffer.
 
 America should rein him in, but will not. Mr Bukele has ingratiated himself with President Donald Trump by agreeing to stop migrants from other countries from heading towards the United States. A pandemic-induced economic slump might erase Mr Bukele’s popularity. But by then it may be hard to get rid of him. Salvadoreans must find ways to check him now. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/05/07/nayib-bukele-may-want-to-become-latin-americas-first-millennial-dictator

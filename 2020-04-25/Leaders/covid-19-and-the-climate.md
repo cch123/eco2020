@@ -21,3 +21,7 @@ Connectedness, though, is no excuse for sloppy thinking. The two scourges are no
 To help readers appreciate each challenge for what it is, this week our newspaper, full of covid-19 news, makes room for the first of a series of six climate briefs. We begin by looking at the politics of climate change. Later themes will include climate science, carbon cycles and the energy transition. When they started in the 1970s, “Schools briefs” were intended as primers for students; this year they will be more along the lines of “Home-school briefs”. We hope they will help all generations seized with the importance of climate change—and not just Ms Thunberg’s—to further their understanding of what lies ahead.■
 
 Sign up to our fortnightly climate-change newsletter [here](https://www.economist.com//theclimateissue/)
+
+## URL
+
+https://www.economist.com/leaders/2020/04/25/covid-19-and-the-climate

@@ -41,3 +41,7 @@ Even when plants are up and running, moving goods around and out of China will r
 In the longer term the epidemic could dampen the love affair between multinationals and China. Big companies had long assumed that their mainland supply chains were reliable and easy to manage. Surveys have found that only a minority of firms across all industries regularly assess their supply-chain risks carefully. For years bosses have devolved responsibility for sourcing to mid-level managers, typically instructed to extract an extra percent or two from costs each year. The covid-19 outbreak has exposed the risks of doing so, especially since America’s trade war with China is not exactly resolved. Tsunamis and floods came and went and firms simply thought they could manage, says Jochen Siebert of JSC Automotive, a consultancy. He predicts that the epidemic will put the question of supply-chain management squarely on the desks of their CEOs. ■
 
 Correction (February 18th): This article originally said that a cruise ship was turned away from five countries because scores on board were infected with the new coronavirus. In fact, at that point, no one on board had been found to be infected.
+
+## URL
+
+https://www.economist.com/international/2020/02/15/the-new-coronavirus-could-have-a-lasting-impact-on-global-supply-chains

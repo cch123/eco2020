@@ -17,3 +17,7 @@ Gentrification in Berlin started late but now has a “feeling of velocity”, s
 Yet “it would be hard to claim that clubs are genuinely threatened,” says Will Lynch, the Berlin-based editor of Resident Advisor, a dance-music website. Next to the precipitous decline in cities like London, the turnover in Berlin looks more like churn; about 90 clubs have closed since 2010 but 77 have opened.
 
 Thrill-seekers are rarely left disappointed by Berlin’s many nocturnal temptations, unless they are turned away by a grumpy bouncer. Some beloved institutions have gone; others have now become a bit too slick for old-timers’ tastes. But Berghain, the jewel in no-curfew Berlin’s clubbing crown, raves on, its future secured by ownership of the building. Even Griessemuehle may find a new home elsewhere. The threats are real. But rumours of Clubsterben may have been exaggerated.
+
+## URL
+
+https://www.economist.com/europe/2020/01/30/berliners-fear-club-death

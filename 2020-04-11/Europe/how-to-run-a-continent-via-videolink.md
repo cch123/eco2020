@@ -27,3 +27,7 @@ At the lower altitude of power, a form of Potemkin politics has taken over Bruss
 Yet the legislative gears still turn, albeit with the occasional grinding noise. The European Parliament has held the first remote vote in its 62-year history, with MEPs emailing in their ballots. The restaurants surrounding the EU’s institution may sit empty, but mischievous ambassadors and officials from the institutions still gossip with journalists, offering the same mix of accurate analysis and blatant spin, over Zoom rather than over lunch. Few relish the thought of keeping the new way of doing things. A reliance on the personal side of politics belies Brussels’ technocratic reputation. But the EU can still function. As long as people remember to mute their microphones. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/04/11/how-to-run-a-continent-via-videolink

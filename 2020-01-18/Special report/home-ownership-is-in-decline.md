@@ -55,3 +55,7 @@ Perhaps the most promising development, however, is growing private investment i
 An expansion of corporate housing will raise average standards in the rental sector. Big firms may be more professional than mom-and-pop landlords, and may also benefit from economies of scale which allow them to provide better-quality accommodation at lower prices. “Build-to-rent” apartment blocks often include goodies such as gyms and free Uber rides with the rent.
 
 That said, corporate landlords have a more transactional relationship with their tenants. A study of Atlanta, Georgia, published by the Federal Reserve Bank of Atlanta in 2016, found that large corporate owners of single-family rentals were 8% more likely than small landlords to file eviction notices. To help the poorest or most vulnerable members of society with their housing needs, governments may need to do more. ■
+
+## URL
+
+https://www.economist.com/special-report/2020/01/16/home-ownership-is-in-decline

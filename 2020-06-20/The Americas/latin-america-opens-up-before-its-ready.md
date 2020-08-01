@@ -39,3 +39,7 @@ Even so, many countries, suffering lockdown fatigue along with economic pain, ar
 Clarification: a previous version of this article stated that the number of cases in Mexico had fallen shortly before publication. We have changed the text to reflect that the seven-day rolling average of new cases was still rising.
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/the-americas/2020/06/20/latin-america-opens-up-before-its-ready

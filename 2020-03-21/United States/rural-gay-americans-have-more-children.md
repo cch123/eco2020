@@ -27,3 +27,7 @@ The second factor is cultural. In general, fertility rates are higher in the int
 In family-oriented communities like Cheyenne, folks sometimes expect the maternity ward to follow quickly after the church aisle. “It’s like you get to a certain age round here and you should be having children,” says Kevin Ogle. Locals never asked him and his boyfriend, Shawndae, whether they wanted to have children until they got married, in 2011. “Then they were like ‘well, are you guys going to start a family?’ That’s the next step.” They met their surrogate, in Georgia, through a Facebook page. Their daughter, Charlotte, is now five.
 
 Mr Caswell reckons he and Mr Hardy have more in common with straight parents than with other gay people who are not raising children. “We’ve never been to Mykonos,” he says, referring to a Greek island popular with gay tourists. “We teach our children that taxation is theft and that a big government is a bad government.”■
+
+## URL
+
+https://www.economist.com/united-states/2020/03/19/rural-gay-americans-have-more-children

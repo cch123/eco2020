@@ -23,3 +23,7 @@ Ireland was not always so influential. At the start of the decade, the country�
 There are still plenty of reasons for Ireland to be disliked. It hosts the European operations of many of the world’s largest tech companies, and its data-protection regime is lenient. For a while, the likes of Google and Facebook were watched over by a regulator whose office was above a convenience store in a small town 50 miles (80km) from Dublin. Although now a more professional operation, it is still seen as weak. When it comes to tax, kind words about the Irish disappear. At 12.5%, its corporation tax is the second-lowest in the EU. Often companies do not pay even that. In 2016 the European Commission demanded that the Irish government collect €13bn in back-taxes from Apple. On July 15th the European Court of Justice annulled the decision. Ireland’s tax policy was legally vindicated (although its coffers were less full).
 
 A crackdown on Ireland and her fellow low-tax states is still brewing. But here Ireland has real power: each EU country wields a veto on the topic. There is less need for crafty diplomacy if Dublin has as much power to block as Paris. Now plans are afoot to clamp down on unpopular tax policies using methods that would bypass this veto. The only way of stopping such proposals would be via an alliance of countries able to amass a blocking minority. It is lucky Ireland has skilled diplomats. It will need them. ■
+
+## URL
+
+https://www.economist.com/europe/2020/07/18/how-ireland-gets-its-way

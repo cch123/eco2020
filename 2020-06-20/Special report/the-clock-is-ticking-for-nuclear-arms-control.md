@@ -21,3 +21,7 @@ Even during the cold war America and Russia managed to reach nuclear deals. They
 Russia says it wants to extend New START, but Mr Trump dislikes the treaty, partly because it was signed in 2010 by his predecessor, Barack Obama, and more reasonably because it does not restrain China, which has a smaller nuclear arsenal but one that is getting larger and fancier. Mr Trump favours a bigger treaty, including China. His arms-control envoy, Marshall Billingslea, has said that, if Russia wants an extension, it must bring China to the table. But China shows no interest in letting itself be tied down. Some suspect that Mr Trump’s insistence on three-way talks is a poison pill, allowing America to engage in a nuclear race that hawks think it would win.
 
 New START can be extended for five years by mutual agreement (with no need to ask Congress). Arms-control advocates say this would buy time for a wider future deal involving China, and perhaps including all types of nukes. Russia might insist that the smaller British and French arsenals be counted in any such negotiations, if limits on the numbers of weapons were reduced much further. There is plenty here for the P5 to work on, if they could only get round to it.
+
+## URL
+
+https://www.economist.com/special-report/2020/06/18/the-clock-is-ticking-for-nuclear-arms-control

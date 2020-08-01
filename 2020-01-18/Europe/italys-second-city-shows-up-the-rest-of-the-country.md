@@ -21,3 +21,7 @@ What happened? Most Milanese cite the catalytic effects of hosting the 2015 Worl
 The mayor acknowledges that what some are calling the Milanese miracle has generated problems. The biggest, he thinks, is environmental. He has banned the most polluting vehicles from 70% of the city, offered incentives for the replacement of boilers and plans to make the city’s entire bus fleet electric. The boom has also created a division between flashily rich districts and poor ones: Pope Francis pointedly made his first stop in Milan a deprived area with a big immigrant population. Mr Sala says investors have already committed a further €12bn-13bn to property development in the city, and that much of it will go to the periphery and to providing reasonably priced accommodation.
 
 Milan’s next appearance on the world stage will be as co-host of the 2026 Winter Olympics along with ritzy Cortina d’Ampezzo. It seems unlikely that glitz will gave way to grit any time soon. If only the rest of Italy could do anything like as well. ■
+
+## URL
+
+https://www.economist.com/europe/2020/01/18/italys-second-city-shows-up-the-rest-of-the-country

@@ -35,3 +35,7 @@ Mr Grieveson thinks the crisis will fundamentally change some aspects of the reg
 The Commission’s forecast notes that the recovery will be “uncertain”, especially in hard-hit countries that were weak before the pandemic struck. An incomplete recovery in one country, it warns, could dampen economic growth everywhere. It is a call to Europeans to do what Germans did after the fall of the Berlin Wall: help each other out for the benefit of all. ■
 
 Editor’s Note (May 29th 2020): Mr Grieveson did not mean to imply that output in eastern Europe could shrink by 40% over five years, but that the single-year decline this year could be as bad as individual years in the early 1990s. The WIIW thinks the region will recover next year, as the accompanying chart shows.
+
+## URL
+
+https://www.economist.com/europe/2020/05/28/eastern-europes-covid-19-recession-could-match-its-post-communist-one

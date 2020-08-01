@@ -31,3 +31,7 @@ The gains from allowing more building would be enormous. According to one paper 
 Some housing experts are sceptical about whether any democratic society would ever countenance such a building surge. They are too pessimistic. In Japan a series of reforms in the early-to-mid-2000s loosened the planning system, allowing applications to be processed more quickly and giving residents more discretion over how to use their land. Tokyo’s rate of housing construction has risen by 30% since the reform; in 2013-17 Tokyo put up as many houses as the whole of England. Tokyo is a more jumbled city than most rich ones, but current zoning laws ensure that it is not quite as higgledy-piggledy as, say, Houston. In inflation-adjusted terms, house prices in the Japanese capital are 9% lower than they were in 2000, while in London they are 144% higher.
 
 Ordinary people need to change their attitudes, too. In the West many almost instinctively oppose development, either because of the inconvenience associated with it or because they dislike the very idea of housing companies making profits. Better compensating people affected by housing construction would help win over more residents. Governments could also do more to explain why a shortage of housing is bad news for everybody, rather than celebrating whenever house prices go up. Bold action is needed. Until it is taken, housing will continue to weaken the foundations of the modern world. ■
+
+## URL
+
+https://www.economist.com/special-report/2020/01/16/what-is-the-future-of-the-rich-worlds-housing-markets

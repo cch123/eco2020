@@ -77,3 +77,7 @@ Official interest is certainly picking up, though. On June 10th Germany announce
 In the end, hydrogen’s impact will be limited by the basic fact that it is, ultimately, just electricity in disguise. It remains an inescapably inefficient option. For some applications, though, its advantages—its energy density, its ability to burn and its compatibility with existing infrastructure—could make it an attractive fit despite that drawback. To paraphrase another famous advert, then, the hope is that hydrogen might prove to be the Heineken of clean energy: able to refresh the parts of an economy that electrification cannot reach. ■
 
 For our latest coverage of climate change, register for The Climate Issue, our fortnightly [newsletter](https://www.economist.com//theclimateissue/), or visit our [climate-change hub](https://www.economist.com//news/2020/04/24/the-economists-coverage-of-climate-change)
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/07/04/after-many-false-starts-hydrogen-power-might-now-bear-fruit

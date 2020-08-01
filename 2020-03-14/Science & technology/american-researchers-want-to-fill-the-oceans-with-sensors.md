@@ -33,3 +33,7 @@ The range of sensors on a float will also produce a mass of data of interest to 
 That, at least, is the long-term goal. So far, DARPA has bought around 4,500 floats, and has tested them only in small numbers. The next stage, starting this spring, will see fields of 1,000 at a time deployed in the Gulf of Mexico and in the waters off California. The plan is to deploy one float for every three square kilometres of ocean. The hope is that, as the technology matures, useful data could be gleaned from densities as low as one float per 20 square kilometres. With 361m square kilometres of ocean on the planet, a true Ocean of Things, monitoring everything on and under the water, would require about 18m floats. That will not happen for a while yet. But Mr Waterston’s plans are a start. ■
 
 Correction (March 22nd 2020): An earlier version of this article incorrectly referred to the Iridium network of satellites as geosynchronous. This has been changed.
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/03/14/american-researchers-want-to-fill-the-oceans-with-sensors

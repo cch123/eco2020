@@ -27,3 +27,7 @@ Nor, indeed, is the source and size of the threat always clear. DBN is a private
 She also questions whether safeguarding IP is an unalloyed good. Sometimes tight protection may benefit the powerful but hamper innovation. One reason cited for Silicon Valley’s success is its ban on non-compete agreements, which makes it easier for whizzes to start their own firms.
 
 What is clear from this book is that America’s response to China has often been misguided. The FBI and CIA, looking for new threats after the cold war, piled resources into combating economic espionage, often hamfistedly. Ms Hvistendahl describes overzealous investigations that skimped on science and relied on racial profiling. The agencies have yet to eschew the idea that China relies mostly on its vast population, an army of amateur snoops, rather than technology or covert operations. This, she says, is “as if China were to develop a theory of how the CIA functioned based on American individualism”. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/02/06/how-seed-rustling-in-iowa-fed-american-fears-of-china

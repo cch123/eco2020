@@ -23,3 +23,7 @@ Other Gulf states, meanwhile, may see an opportunity to meddle. Saudi Arabia and
 Wealthier neighbours could try to put pressure on the new sultan more subtly—by dangling the prospect of needed investment. Oman pumps 1m barrels of oil a day, about a quarter of the UAE’s output. That small stream still accounts for more than 70% of government revenues. Last year the state had to raid its sovereign-wealth fund to finance the deficit. The World Bank puts youth unemployment at a staggering 49%. Inward foreign direct investment is growing, but is still largely concentrated in oil and gas.
 
 Sultan Haitham has little economic nous and is not known for his managerial savvy. The ministry of culture, which he ran, was seen as dysfunctional. Oman-watchers fear he lacks energy and hope he will delegate to younger officials. “There’s a new generation of leaders coming up,” says a diplomat. “They understand that things need to be upgraded a bit.” ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/01/16/the-new-sultan-of-oman-hopes-to-lead-as-well-as-the-last-one

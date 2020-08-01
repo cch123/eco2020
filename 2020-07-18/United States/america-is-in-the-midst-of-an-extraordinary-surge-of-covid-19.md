@@ -31,3 +31,7 @@ Denial has not proved to be a particularly effective virus-suppression strategy.
 Mr Abbott, who while running for governor bragged about how many times he had sued Barack Obama’s administration, is facing a mild insurrection in Texas from counties over his imposition of a mask requirement. Localised control, which once appeared to be a compensating feature of the American system, may now be working against containment. Confusing back-and-forths between Mr Newsom and counties in California have hindered timelier action there too. These are co-ordination problems that the federal government ought to solve. But throughout the crisis the White House has not seemed interested. Once again, states and cities will probably have to do the hard work alone.■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/united-states/2020/07/18/america-is-in-the-midst-of-an-extraordinary-surge-of-covid-19

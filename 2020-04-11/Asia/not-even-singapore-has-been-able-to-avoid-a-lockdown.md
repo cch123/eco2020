@@ -31,3 +31,7 @@ Planning is under way for a long campaign against covid-19. Officials intend to 
 A good indicator of how confident the authorities are about their handling of the epidemic will be provided by the timing of the next election. It is due within a year, and the government had been rumoured to be on the verge of calling a snap poll before the virus put such considerations on hold. The publication of new electoral boundaries last month set tongues wagging again. So too did the introduction of a bill in parliament on April 7th to ensure a safe election in spite of covid-19. Among other measures, the legislation would allow citizens whose movements have been restricted for reasons of public health to vote from wherever they have been told to stay. With the election, as with the virus, Singapore’s government is leaving little to chance. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/asia/2020/04/11/not-even-singapore-has-been-able-to-avoid-a-lockdown

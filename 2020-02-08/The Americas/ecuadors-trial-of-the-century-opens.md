@@ -31,3 +31,7 @@ These reforms and a crackdown on corruption brought Mr Moreno popularity, but we
 The outcome of elections in February 2021 will depend on which forces can capitalise on the discontent. Mr Correa, who now hosts a show on RT, a Russian state broadcaster, on which he interviews such left-wing luminaries as Oliver Stone, a film director, and Nicolás Maduro, Venezuela’s dictator, cannot run for the presidency. But he no doubt hopes to be a kingmaker. If he is convicted, he may hope to obtain a pardon from whomever succeeds Mr Moreno.
 
 The strongest challenger to correísmo in a crowded field looks like Jaime Nebot, the conservative former mayor of the coastal city of Guayaquil. He has not announced his candidacy but is acting like a presidential aspirant. If he runs and is elected, he would probably continue Mr Moreno’s undoing project. The path to power may go through a courtroom in Quito.■
+
+## URL
+
+https://www.economist.com/the-americas/2020/02/06/ecuadors-trial-of-the-century-opens

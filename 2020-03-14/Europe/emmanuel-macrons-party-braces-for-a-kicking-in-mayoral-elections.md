@@ -23,3 +23,7 @@ A second feature is the local resilience of mainstream parties, despite Mr Macro
 The third point is the chronic local weakness of President Emmanuel Macron’s La République en Marche (LREM). The party he founded in 2016 did not exist at the previous local elections, and has struggled to put down roots. Across France, Ms Le Pen is running more party lists than Mr Macron. In Carpentras, in line with LREM’s policy of supporting friendly incumbents in many places, it does not have its own candidate. Frédéric Tacchino, the LREM candidate in Avignon, says that, unlike him, many of his fellow candidates in the region have not even put Mr Macron’s party name on their flyers. At Paris headquarters, the party says it will ask its candidates who come third in the first round to stand down, or merge with either the left or the right, in order to keep the RN out.
 
 Focused on managing the coronavirus crisis, Mr Macron insists that this election is a local matter, not a referendum on him. Up to a point this may be true. Yet the dismal results that even his own party now expects will nonetheless be seen as further evidence of his lack of personal popularity, as well as the failure of his party to build up countrywide the sort of local networks it needs if it is ever to become a lasting force in French politics. ■
+
+## URL
+
+https://www.economist.com/europe/2020/03/12/emmanuel-macrons-party-braces-for-a-kicking-in-mayoral-elections

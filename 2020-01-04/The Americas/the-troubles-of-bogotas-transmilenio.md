@@ -25,3 +25,7 @@ Mr Peñalosa, who returned as mayor in 2016, had hoped to repeat his public-tran
 She may change her mind. It could cost $1.5bn to build a second overground metro line. Bogotá does not have that money. Nor do commuters, who would have to pay a fare of 15,000 pesos, nearly 2% of a monthly minimum wage, to cover the cost of construction. Ms López cannot count on the central government paying most of the bill.
 
 She may look for cheaper ways to relieve commuters’ misery. She is said to be reconsidering her opposition to one of Mr Peñalosa’s proposals, a new BRT lane on Calle 68, which links western working-class suburbs to the city centre. That could ease congestion on existing lines. She has talked of fixing doors and turnstiles and upgrading TransMilenio stations. Such improvements would make Ms Salas’s journeys more bearable. To make them pleasant and fast will require much more investment—including more expansion.■
+
+## URL
+
+https://www.economist.com/the-americas/2020/01/02/the-troubles-of-bogotas-transmilenio

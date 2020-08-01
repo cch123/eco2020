@@ -23,3 +23,7 @@ Real-time indicators with a narrower focus, such as measures of seated diners in
 The value of real-time measures will be tested once the swings in economic activity approach a more normal magnitude. Mobility figures for March and April did predict the scale of the collapse in GDP, but that could have been estimated just as easily by stepping outside and looking around (at least in the places where that sort of thing was allowed during lockdown). Forecasters in rich countries are more used to quibbling over whether economies will grow at an annual rate of 2% or 3% than whether output will shrink by 20% or 30% in a quarter. Real-time measures have disappointed before. Immediately after Britain’s vote to leave the European Union in 2016, for instance, the indicators then watched by economists pointed to a sharp slowdown. It never came.
 
 Real-time data, when used with care, have been a helpful supplement to official measures so far this year. With any luck the best of the new indicators will help official statisticians improve the quality and timeliness of their own figures. But, much like U2, the official measures have been around for a long time thanks to their tried and tested formula—and they are likely to stick around for a long time to come. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/07/23/why-real-time-economic-data-need-to-be-treated-with-caution

@@ -23,3 +23,7 @@ A single verdict will change only so much. But the Malawian judgment follows tha
 Malawians will hope that the aftermath of their historic court verdict is smoother than it was in Kenya. Raila Odinga, Kenya’s main opposition leader, boycotted the re-run, citing yet more irregularities. In Malawi there are obstacles to a clean and peaceful second vote: the MEC will need new leadership, and Mr Mutharika says he will appeal the court’s decision.
 
 For now, though, Malawians are proud that the rule of law has prevailed. The verdict shows that though Tipp-Ex may hide the truth, it cannot erase it. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/02/06/a-historic-day-for-malawis-democracy

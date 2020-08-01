@@ -33,3 +33,7 @@ The errors have been shared, too. Nicola Sturgeon’s administration in Edinburg
 Coronavirus is only one force pushing the union together. Scotland has run its own welfare since 2018, which needs co-ordination with London. Brexit will bring new powers over fisheries and chemicals to Britain, which will require joint decision-making. Edinburgh and Cardiff want to give the JMC more clout. Andrew Dunlop, who has prepared a report on the future of the union for Mr Johnson, says a change of culture could make it a “front-footed” forum to deal with shared problems.
 
 But politics pushes the other way. The economic recovery will be more contentious than the medical emergency. The Treasury will effectively call the shots on when lockdowns end, as it funds the furlough scheme. A plan to restrict English students going to universities in other nations to mitigate a drop in foreign students doesn’t look neighbourly. And Ms Sturgeon hopes to use Scotland’s elections next year to secure a second independence vote. The new age of collaboration may survive the pandemic, but it will take political will. ■
+
+## URL
+
+https://www.economist.com/britain/2020/06/06/devolution-has-become-less-dysfunctional-during-the-pandemic

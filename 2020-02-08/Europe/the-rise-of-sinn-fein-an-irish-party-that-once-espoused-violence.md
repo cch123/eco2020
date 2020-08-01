@@ -21,3 +21,7 @@ Theresa Reidy of University College Cork says that conservative voters who want 
 Angry younger voters are turning to a range of green and centre-left parties, but most of all to Sinn Fein. Formerly the political wing of the Provisional Irish Republican Army (IRA), the party is led by Mary Lou McDonald, a personable Dubliner with no history of involvement in the IRA. The other two big parties have both pledged to shun Sinn Fein for its past support for violence, but making a government without it will be hard, since Fianna Fail has vowed not to continue its arrangement with Fine Gael. Most of Sinn Fein’s policies are well to the left. It promises a rent freeze, earlier retirement and lavish public spending on nearly everything. It is also committed to a referendum on uniting Ireland.
 
 “Sinn Fein have never been in government in Dublin before, so they are not held responsible for the present problems in the way that Fianna Fail and Fine Gael are,” says Ms Reidy. “They are responsible for some other things, for sure, which is why older people, who remember the Troubles, aren’t flocking to them in the same numbers. But young people don’t remember that. And [they] are the ones who can’t afford to buy or rent homes, and who are being quoted €3,000 for car insurance.”■
+
+## URL
+
+https://www.economist.com/europe/2020/02/06/the-rise-of-sinn-fein-an-irish-party-that-once-espoused-violence

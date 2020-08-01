@@ -29,3 +29,7 @@ Finally, officials have been orchestrating forbearance on various fronts. Shangh
 Even as the death toll mounts, some officials are already thinking about the economic distortions that have arisen in the course of the battle against the epidemic. Hospitals face shortages of masks, gowns and gloves. At the government’s urging, producers have increased output. But as Liu Shangxi, an adviser to the finance ministry, has noted, they will suffer from severe overcapacity after the crisis passes. The government should thus be ready, he argues, to compensate them.
 
 Such proposals are a far cry from the bold plans that Hubei’s leaders laid out only a few weeks ago. Yet the priority these days is not to gee up growth but to ensure that society remains stable as the quarantines drag on. China’s grim new reality is that everything, even economic policy, revolves around beating the virus. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/02/06/companies-warn-of-an-economic-crisis-as-china-battles-coronavirus

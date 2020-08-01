@@ -27,3 +27,7 @@ Among the bills to be considered by parliament this year is a “family resilien
 It has long been under attack at the local level. A study from 2008 showed that 52 districts, out of a total of 470, enacted 45 sharia-inspired laws between 1999-2008. Aceh, a special administrative region governed by Islamic law, prohibits women from straddling motorcycles, playing football and leaving their homes at night. In 2015 officials in Purwakarta, a county in West Java, announced that unmarried couples caught together after 9pm would be required to marry or break up. Mr Ode would surely approve.
 
 His organisation, which encourages women to defer to their male relatives and refrain from arousing male lust, has come under heavy criticism from feminists. They would do well to point out that, for every Mr Natta and Ms Wardah, there is a Salmafina Khairunnisa and Taqy Malik. In September 2017 Ms Salmafina, then an 18-year-old Instagram personality, married Mr Taqy, a 22-year-old heart-throb, even though they had met only two weeks before. Ms Salmafina soon learned that he was thinking about getting a second wife; polygamy in Indonesia is legal and encouraged by radical campaigners like Mr Ode. Mr Taqy soon discovered that his beloved was not the “submissive wife” he had expected. Within three months the couple had divorced. ■
+
+## URL
+
+https://www.economist.com/asia/2020/04/02/why-more-indonesian-teens-are-giving-up-dating

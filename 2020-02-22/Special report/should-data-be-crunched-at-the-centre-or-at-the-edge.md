@@ -35,3 +35,7 @@ Applications such as self-driving cars need very fast-reacting connections and c
 How far will the pendulum swing back? The answer depends on whom you ask. The edge is important, concedes Matt Wood, who is in charge of AI at AWS, but “at some point you need to aggregate your data together so that you can train your models”. Sam George, who leads Azure’s IOT business, expects computing to be equally spread between the cloud and its edge. And Simon Crosby, the chief technologist at SWIM.AI, while admitting that his firm’s approach “does not apply everywhere”, argues that too much data are generated at the edge to send to the cloud, and there will never be enough data scientists to help train all the models centrally.
 
 Even so, this counter-movement may not go far enough. Given the incentives, big cloud providers will still be tempted to collect too much data and crunch them. One day soon, debates may rage over whether data generation should be taxed, if the world does not want to drown in the digital sea.■
+
+## URL
+
+https://www.economist.com/special-report/2020/02/20/should-data-be-crunched-at-the-centre-or-at-the-edge

@@ -25,3 +25,7 @@ While wearable heart scanners are several years away, some elements needed to bu
 A digital twin of the whole heart will allow simulation of the treatment of a particular individual for many other conditions, as well. That will give a clearer idea, in a particular case, of the likely outcome of an intervention. It might show, for instance, what type of operation is best suited to a patient’s condition, or if drugs and regular check ups are more appropriate.
 
 As more and more patients have their heart twins analysed, machine learning, a form of artificial intelligence that is good at pattern recognition, will be used to study the outputs. This should make the system yet more accurate, and help with unusual and rare cases that a cardiologist might not have seen before. Just as pilots can relax knowing that a digital twin is keeping an eye on their engines, doctors will benefit from a new depth of knowledge about how their patients’ hearts are working. ■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/02/27/digital-twins-of-hearts-could-help-diagnose-and-treat-cardiac-disease

@@ -37,3 +37,7 @@ Both Alipay and WeChat harvest their users’ location data. Through WeChat, Ten
 People in China, as well as in democracies, worry about how tech companies use the data they garner from their customers. But if covid-19 becomes a pandemic, they may well become more inclined to forgive a more nosy use of personal data if doing so helps defeat the virus. ■
 
 Read more:[Covid-19 is now in 50 countries, and things will get worse](https://www.economist.com//briefing/2020/02/29/covid-19-is-now-in-50-countries-and-things-will-get-worse) (February 27th)[Markets wake up with a jolt to the implications of covid-19](https://www.economist.com//finance-and-economics/2020/02/27/markets-wake-up-with-a-jolt-to-the-implications-of-covid-19) (February 27th)[Covid-19 presents economic policymakers with a new sort of threat](https://www.economist.com//china/2020/02/29/to-curb-covid-19-china-is-using-its-high-tech-surveillance-tools) (February 20th)[How China’s coronavirus epidemic could hurt the world economy](https://www.economist.com//china/2020/02/29/to-curb-covid-19-china-is-using-its-high-tech-surveillance-tools) (February 13th)
+
+## URL
+
+https://www.economist.com/china/2020/02/29/to-curb-covid-19-china-is-using-its-high-tech-surveillance-tools

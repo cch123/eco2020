@@ -37,3 +37,7 @@ Some trends are subtler. China’s failure to catch up in technologies like inte
 The potential for new technologies to enhance and project Chinese power, and the threat that poses to a global order led by America, hangs over China’s technological development. But these are not its sole inspiration. China is grappling with an ageing population, environmental degradation and a slowing economy. The strengths and weaknesses of its attempts to solve these problems technologically will have lessons for other countries in similar straits, and for those which see China not just as a competitor but as an ever more sophisticated market.
 
 For countries which wish to co-exist with China, its weaknesses reveal good places to invest in developing one’s own capabilities. For those who wish to reduce or curtail Chinese technological power, knowing its strengths and vulnerabilities is vital. ■
+
+## URL
+
+https://www.economist.com/technology-quarterly/2020/01/02/with-the-states-help-chinese-technology-is-booming

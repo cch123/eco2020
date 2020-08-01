@@ -19,3 +19,7 @@ All five posthumous albums in our sample performed better in their first week th
 Critics of posthumous releases—including fans, music critics and artists alike—say they are a corporate cash-grab and a blight on a dead artist’s career. They allege that record labels compiling posthumous releases cram them with filler tracks and unfinished songs, in part to boost sales figures (the AEU system favours releases with more songs). There may be some truth to that. Since 2018, according to our figures, there has been a positive correlation between the number of tracks on a chart-topping album and its AEUs during the first week. But the relationship is very weak.
 
 So why do posthumous albums often outperform their ante-mortem predecessors? The answer may be humdrum. Fans rally to their beloved artists. The day after David Bowie’s death in 2016, the rocker’s streams on Spotify surged by 2,700% compared with their typical levels. Living musicians can benefit, too. Artists who re-emerge after a hiatus, as Tool, a Los Angeles band, did last August after 13 years without releasing an album, have seen their discographies appear on the Billboard charts. How unfortunate for artists to have more success when the mic cable is severed for good.
+
+## URL
+
+https://www.economist.com/united-states/2020/07/30/posthumous-albums-by-young-rappers-are-topping-the-charts

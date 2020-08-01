@@ -25,3 +25,7 @@ The industry should take control of its own fate. Car firms need to be pioneers 
 Firms should also avoid slashing investment indiscriminately, as they did in 2007-09 when capital spending dropped by 29%. Most car firms have two parts, a vast legacy operation and a small, loss-making, fast-growing one making hybrid and fully electric cars. The danger is that they cut spending on the new bit, slowing the development of battery technologies and the launch of new electric models. Better to pare dividends, loss-making foreign adventures and legacy investments.
 
 The final priority is consolidation. Too many mid-sized carmakers are clinging to their global aspirations, despite a number of mergers in recent years, such as Geely’s purchase of Volvo and Fiat Chrysler’s planned union with PSA (Fiat’s biggest shareholder owns shares in the parent company of The Economist). The world still has more than 1,000 factories making legacy cars. Renault and Nissan continue their halfway house of an alliance, which brings more complexity than synergy. Adapt, invest in the future and join forces. That is the way to a viable car industry—for the climate, workers and investors, too.■
+
+## URL
+
+https://www.economist.com/leaders/2020/04/25/the-car-industry-faces-a-short-term-crisis-and-long-term-decline

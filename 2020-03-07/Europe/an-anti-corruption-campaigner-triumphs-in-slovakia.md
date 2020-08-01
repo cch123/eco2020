@@ -15,3 +15,7 @@ OLaNO was established a decade ago as a vehicle for the political career of Igor
 Mr Matovic’s success had much to do with the murder, in February 2018, of Jan Kuciak, a young journalist probing links between politicians, oligarchs and organised crime. The killing triggered huge protests that led to the resignation of Robert Fico, the Smer prime minister, and the election as president of Zuzana Caputova, a former environmental activist. The trial of an oligarch accused of ordering Kuciak’s murder, which began in January and continues, has exposed an alleged grubby network of co-operation between crooked politicians, judges and law-enforcement officials. All this created fertile ground for OLaNO. One-third of voters said corruption was the most important issue.
 
 Mr Matovic’s 53 MPs, some of whom he is rumoured not to know, are a heterogenous bunch, including social conservatives brought in to appeal to Slovakia’s rural Catholic heartlands. His proposed four-party coalition, which includes right-wing nationalists, also looks unwieldy. All are united in opposing graft; less so on tax or social policy. Yet Eduard Heger, an OLaNO MP tipped to become finance minister, says his party will aim to bring “dramatic change” to public services. “This”, he adds, “will be the best government Slovakia ever had.”
+
+## URL
+
+https://www.economist.com/europe/2020/03/05/an-anti-corruption-campaigner-triumphs-in-slovakia

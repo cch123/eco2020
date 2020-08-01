@@ -27,3 +27,7 @@ Some problems have already emerged. Hyundai has halted some car production in So
 It is also possible that the virus spreads rapidly outside China. Infections in developing countries may be going undetected. Vietnam has quarantined 10,000 people, but most governments could not enact the measures that China is using to slow the disease, so covid-19 could yet become a pandemic. Wall Street’s optimism, in other words, is premature. If economists have a bias, it is to focus on things that are measurable and quantifiable. Alas, the covid-19 outbreak brings many risks that are not. ■
 
 Read more of our coverage of the covid-19 outbreak:[Experts predict that covid-19 will spread more widely (February 22nd)](https://www.economist.com//international/2020/02/22/experts-predict-that-covid-19-will-spread-more-widely)[In China, newly confirmed cases of coronavirus infection are falling (February 20th)](https://www.economist.com//china/2020/02/22/in-china-newly-confirmed-cases-of-coronavirus-infection-are-falling)[Covid-19 presents economic policymakers with a new sort of threat (February 20th)](https://www.economist.com//finance-and-economics/2020/02/22/covid-19-presents-economic-policymakers-with-a-new-sort-of-threat)[](https://www.economist.com//leaders/2020/02/15/how-chinas-coronavirus-epidemic-could-hurt-the-world-economy)
+
+## URL
+
+https://www.economist.com/leaders/2020/02/15/how-chinas-coronavirus-epidemic-could-hurt-the-world-economy

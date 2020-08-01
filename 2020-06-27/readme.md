@@ -67,8 +67,8 @@
 #### [Why apples developers are cross](./Business/why-apples-developers-are-cross.md)
 #### [Oil companies diversification into petrochemicals may not go to plan](./Business/oil-companies-diversification-into-petrochemicals-may-not-go-to-plan.md)
 #### [Mid year motivational magic](./Business/mid-year-motivational-magic.md)
-#### [Why covid 19 is good for bordeaux wines](./Business/why-covid-19-is-good-for-bordeaux-wines.md)
 #### [Catering groups are going through lean times](./Business/catering-groups-are-going-through-lean-times.md)
+#### [Why covid 19 is good for bordeaux wines](./Business/why-covid-19-is-good-for-bordeaux-wines.md)
 #### [Live streaming will change rock n roll for the better](./Business/live-streaming-will-change-rock-n-roll-for-the-better.md)
 ### Finance & economics
 #### [Is investors love affair with commercial property ending](./Finance%20&%20economics/is-investors-love-affair-with-commercial-property-ending.md)

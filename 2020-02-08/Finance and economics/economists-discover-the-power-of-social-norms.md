@@ -23,3 +23,7 @@ Defying social norms is possible but costly. Men who sacrifice their careers to 
 Mitigating bias is not easy. Seemingly helpful interventions, such as generous maternity leave, can backfire if they reinforce the norm that women are natural caregivers. Better, Ms Bertrand argued, to favour measures that have no such implications, such as generous support for child care. Her own research suggests that a mother’s working status shapes her children’s perceptions of labour-market norms. Those surrounding men’s behaviour matter too. Survey evidence from Japan suggests that many men feel positively about taking paternity leave. But, because they wrongly believe other men do not feel the same way, they take less time off than they would like. Firms could potentially make their workers better off by, say, choosing to make paternity leave mandatory.
 
 Ms Bertrand’s arguments may not seem particularly subversive. But they carry implications that extend beyond gender discrimination. Her analysis suggests that the decision to participate in a market is not simply about maximising utility given a set of tastes and constraints. Markets, rather, are part of a suite of fluid social forces that shape behaviour. Economists cannot claim to understand the markets until they understand those forces. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/02/06/economists-discover-the-power-of-social-norms

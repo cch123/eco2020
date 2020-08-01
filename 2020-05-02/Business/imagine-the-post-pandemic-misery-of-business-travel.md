@@ -27,3 +27,7 @@ To reduce the risk to staff, the room will be cleaned only after you leave, so m
 Morning all and welcome to the 2020 Risk Managers’ Conference. Or should that be the Risk Takers’ Conference? Ha ha. Rest assured this is a fully sanitised room. This year’s slogan: We Care About Your Health Because Your Employer Doesn’t. When it comes to questions, we won’t be passing round microphones, so please speak as loudly as possible. Panel sessions are difficult at the moment, so will be limited to two speakers at opposite ends of the stage.
 
 We are afraid that a buffet lunch is unavailable so take a chance on one of the street-food carts outside the conference centre. Your choice will sort out the real risk managers from the also-rans. This wouldn’t be a conference without exhibition stands in the foyer. Our sponsors will be delighted to see you, but only from a safe distance, and wearing a mask. Finally, please familiarise yourself with the exits behind me, on the left and right. Obviously they are there in case of a fire but they could come in handy if someone has a coughing fit.
+
+## URL
+
+https://www.economist.com/business/2020/05/02/imagine-the-post-pandemic-misery-of-business-travel

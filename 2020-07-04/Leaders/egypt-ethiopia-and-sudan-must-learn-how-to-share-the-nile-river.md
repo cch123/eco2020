@@ -25,3 +25,7 @@ The three sides are said to have reached 90% of a deal. They can agree on what t
 In the long term, wiser policies would help. Subsidies have long encouraged Egyptians to waste water on a massive scale. These are being cut, but they should be eliminated. The sides should generate more solar power to meet growing demand and take pressure off the dam. All are sunny, and solar panels cost a fraction of what they did when the dam was conceived.
 
 But right now all three need to strike a deal. Ethiopia should pledge to let more water through during long dry spells. An international arbiter should be brought in to handle future disputes. Egypt could compromise by letting the African Union (AU) play that role. Officials in Cairo believe the AU favours Ethiopia, where the AU has its headquarters, but the group is leading the effort to find a deal that works for everyone. If an agreement can be reached, it will make a welcome change. The world abounds with conflicts over water. The stuff is hard to share. But projects like the Grand Ethiopian Renaissance Dam promise a flood of benefits to countries that manage. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/07/02/egypt-ethiopia-and-sudan-must-learn-how-to-share-the-nile-river

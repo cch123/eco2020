@@ -21,3 +21,7 @@ So miserable is the situation, and so beaten down are the reformers, that some I
 The regime is not entirely to blame for the crisis with America. It was complying with the terms of a deal, signed in 2015, which curbed its nuclear programme in return for sanctions relief. President Donald Trump pulled America out of it in 2018. Since then, though, Iran has needlessly alienated the deal’s European signatories. This month it lifted all limits on its production of enriched uranium, used to make energy—or a bomb. Britain, France and Germany responded on January 14th by triggering the deal’s dispute mechanism, which could ultimately kill it.
 
 “Let’s replace it with the Trump deal,” says Boris Johnson, Britain’s prime minister, perhaps hoping that Mr Trump would sign something like the current deal, but with his name on it—as he did with the North American Free Trade Agreement. That would be welcome but it is unlikely. For one thing, Iran’s leaders refuse to talk to Mr Trump. For most of the past 40 years they have chosen hostile posturing over constructive engagement. Iran is worse off as a result. Now would be a good time for the clerics to rethink their strategy. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/01/16/its-time-for-the-iranian-regime-to-talk-to-america

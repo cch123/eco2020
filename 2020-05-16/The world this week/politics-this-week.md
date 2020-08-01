@@ -53,3 +53,7 @@ Brazil recorded its highest daily death toll. It is the sixth-worst affected cou
 Disneyland Shanghai reopened for business after shutting for three months. The limited number of visitors must have a digital health code.
 
 The White House ordered everyone in the building to wear a face mask, except Donald Trump and Mike Pence.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/05/16/politics-this-week

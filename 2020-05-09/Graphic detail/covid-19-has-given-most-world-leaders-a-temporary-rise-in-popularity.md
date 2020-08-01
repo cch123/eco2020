@@ -19,3 +19,7 @@ The effects for ruling parties have been smaller. Angela Merkel’s CDU/CSU has 
 Mr Trump is the only leader of the ten facing a vote soon. Despite 70,000 deaths, few Americans have changed their opinions of him yet, but he cannot afford to lose many supporters before November. ■
 
 Sources: Gallup; Morning Consult; The Economist
+
+## URL
+
+https://www.economist.com/graphic-detail/2020/05/09/covid-19-has-given-most-world-leaders-a-temporary-rise-in-popularity

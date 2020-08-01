@@ -19,3 +19,7 @@ One example of the technique’s potential is found with warfarin, a commonly us
 Part of the problem with warfarin is that for a long time there was no real substitute, so it was used despite its drawbacks. The various selective serotonin-reuptake inhibitors used to treat depression offer a different challenge. Both their effectiveness and their side-effects are influenced by enzymes produced in the liver. A test produced by Myriad, a genetic-testing company, makes it possible to look at the genes for such enzymes before an antidepressant is prescribed and appears to limit side-effects and improve clinical outcomes.
 
 In chemotherapy, too, genetics can guide the choice of treatment in ways that other indicators cannot. That matters since the drugs are so powerful. Some are so toxic that four patients in 100 will die from treatment, says David Kerr, a professor at Oxford University. Keith Gadd, an English farmer, died five weeks after a successful operation to remove a tumour from his bowel, because he was unable to metabolise the chemotherapy he had been given to lower the risk of his cancer returning.
+
+## URL
+
+https://www.economist.com/technology-quarterly/2020/03/12/pharmacogenomics-can-show-what-your-body-makes-of-a-drug

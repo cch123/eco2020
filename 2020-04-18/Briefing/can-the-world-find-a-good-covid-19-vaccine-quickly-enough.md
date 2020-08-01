@@ -81,3 +81,7 @@ Despite such efforts, though, the ability to make vaccines will not be as widely
 Dr Hatchett says that uncertainty over which vaccine will actually work provides an incentive for co-operation: no one is sure to lose out; everyone stands to benefit. “As we become more and more certain about which vaccines are going to win, that advantage may go away and national interest may begin to assert [itself],” he adds. The science of vaccination may well offer humankind a viable exit from the straits that the covid-19 pandemic has stuck it in. Politics could still see some people trampled underfoot in the rush to get out. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/briefing/2020/04/16/can-the-world-find-a-good-covid-19-vaccine-quickly-enough

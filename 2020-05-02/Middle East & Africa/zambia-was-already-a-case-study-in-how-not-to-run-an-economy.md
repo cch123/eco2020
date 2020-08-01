@@ -37,3 +37,7 @@ The president is eyeing re-election in August 2021. He may struggle in a fair fi
 His reluctance to put a stop to borrowing for pet projects reflects his concern that he may not win his party’s nomination in July. Mr Lungu was a compromise candidate after the death of Michael Sata in office in 2014. But members of the large Bemba ethnic group, who were pre-eminent under Sata, have become frustrated with the president. Mr Lungu, who is from the smaller Nsenga group, is accused of favouring other ethnicities. Some Bemba want Mr Ngandu to take over.
 
 Mr Lungu has been somewhat unlucky. Disease and drought have both hurt the economy. Being a landlocked country at a time of closed borders is difficult. But it is not the virus that has got Zambia into this mess. It is the president. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/05/02/zambia-was-already-a-case-study-in-how-not-to-run-an-economy

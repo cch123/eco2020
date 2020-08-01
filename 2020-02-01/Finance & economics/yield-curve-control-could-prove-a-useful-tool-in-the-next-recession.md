@@ -27,3 +27,7 @@ Still, even successful yield-curve control could underwhelm. Long-term rates are
 Government spending packs a powerful punch, and sustained low rates of interest are sapping political opposition to large budget deficits. Even so, American-style deficits worry economists, who fear that markets will eventually lose their appetite for bonds. Under yield-curve control, however, the central bank would in effect guarantee the government’s low borrowing costs.
 
 America has controlled its yield curve before—in the 1940s, when the Fed held down the government’s borrowing costs during the second world war. Few economists would endorse such a strategy outside wartime. But yield-curve control cannot fight the next recession alone. Without bigger changes to monetary policy, it will need to be paired with fiscal stimulus. Blurring the line between monetary and fiscal policy may once again become imperative. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/01/30/yield-curve-control-could-prove-a-useful-tool-in-the-next-recession

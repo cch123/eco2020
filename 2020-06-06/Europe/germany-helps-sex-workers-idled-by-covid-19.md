@@ -19,3 +19,7 @@ Politicians who think legalisation fosters trafficking and violence spot an oppo
 The BesD’s proposed hygiene code would ban prostitutes from kissing or other “oral services”, oblige them to wear gloves during certain acts and to keep their heads a forearm’s distance from their clients’ at all times. Face-masks would be obligatory. Customers would have to leave contact details, perhaps in sealed envelopes. Similar rules will apply in Austria if its brothels reopen on July 1st, as planned. “It’s not very sexy,” admits Ms de Rivière. “But it’s necessary.”
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/06/04/germany-helps-sex-workers-idled-by-covid-19

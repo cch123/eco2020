@@ -17,3 +17,7 @@ The introduction of Jawi classes caused alarm in the schools that mostly cater t
 The government has backtracked a little. It has reduced the amount of Jawi content in its planned new curriculum and said that schools will not have to teach it unless a majority of pupils’ parents decide that they should. But that has not placated the irate school boards—and their continued resistance has in turn enraged some pro-Malay firebrands. In late December police told Dong Jiao Zong, an educational association that champions the interests of Chinese students, that it could not convene a meeting to discuss the controversy. Some pro-Malay groups had been planning to turn up in protest. The authorities appeared to be worried that violence would result.
 
 Mr Maszlee’s resignation may help cool the debate. Among other blunders, he had failed to convince sceptics that there was no hidden agenda behind the Jawi reform—that there was, to repeat a Malay idiom, no “prawn behind the rock”. He is the first cabinet member to step down since Pakatan Harapan (PH), the multi-ethnic ruling coalition, won power at a general election in 2018. The hope was that PH would do a better job of handling these kinds of tensions than the unsavoury, long-lived government it toppled. Instead it seems to be emboldening the quarrelsome.
+
+## URL
+
+https://www.economist.com/asia/2020/01/09/enthusiasm-for-an-archaic-script-frightens-malaysias-minorities

@@ -21,3 +21,7 @@ By and large, though, the stock exchanges are not keen. In recent weeks they hav
 Surprisingly, the push for shorter hours is coming from the Anglo-Saxons of the City. The London Stock Exchange is the only bourse to have responded warmly to the pitch for shorter days. That could be because London opens an hour earlier, at 8am, in order to synchronise with continental exchanges. And hours will only be cut if everyone agrees to make the shift simultaneously.
 
 Part of the reason for exchanges’ reluctance is that they worry that banks are angling to match buyers and sellers of shares themselves, as they do outside trading hours. Plenty of investors may even be wondering whether humans need to be involved, given that most financial transactions these days are conducted by machines. Flesh-and-blood traders angling for shorter hours may soon find they will be working none at all. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/07/09/europeans-quibble-about-long-trading-hours-the-finance-edition

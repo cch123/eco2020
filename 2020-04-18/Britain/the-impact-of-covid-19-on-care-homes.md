@@ -21,3 +21,7 @@ The government has not yet banned care-home workers from working in several home
 Those that have not yet been hit are awaiting the worst. Sandra Stinton, the manager of Grange Rest Home in Hove, says if the virus gets into her care home “it’s going to be our worst nightmare”. Already she is refusing to take patients discharged from hospitals, as she cannot be sure they have not been infected. She has been informed that she will have to prepare end-of-life palliative care, but she has no medical staff or equipment to provide it. “I haven’t got a problem supporting dying people…but how are you going to offer pain management?” she asks.
 
 Mr Kyle thinks that the government’s poor response is the consequence not so much of a policy choice as of disorganisation. Ms Whateley does not attend cabinet meetings. The health secretary, Matt Hancock, who does, has plenty to deal with trying to manage the impact of the virus on hospitals. “The whole system hasn’t been working properly for a very long time,” says Sally Copley of the Alzheimer’s Society, a charity. That failure may now cost the lives of thousands of people. Even after the virus recedes, the need for reform will only be more apparent.■
+
+## URL
+
+https://www.economist.com/britain/2020/04/16/the-impact-of-covid-19-on-care-homes

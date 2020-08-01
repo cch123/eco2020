@@ -32,3 +32,8 @@ America’s decision to send warships, drones and bombers to patrol near the bel
 
 Correction (June 21st 2020): A previous version of this article stated that Japan had extended its Air Defence Identification Zone (ADIZ) to cover a Japanese-held island claimed by Taiwan, which Taiwan had included in its own ADIZ. In fact the island, Yonaguni, is not claimed by Taiwan and Taiwan's ADIZ had included only part of Yonaguni's airspace.
 
+
+
+## URL
+
+https://www.economist.com/china/2020/06/17/chinas-next-move-in-the-south-china-sea

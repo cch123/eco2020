@@ -47,3 +47,7 @@ To bolster his forces President Filipe Nyusi last year enlisted the Wagner Group
 The energy companies developing the Rovuma basin, such as Total and ExxonMobil, have tried to isolate themselves from the chaos. Security companies are paid more than $1m per month to keep workers safe. These guards get armed escorts from some of the government’s better troops. An airstrip has been built in Palma, the town serving offshore installations.
 
 Since the end of the civil war FRELIMO has shown no sign of caring about the people of Cabo Delgado. But it does care about spoils. And the risk of losing billions of dollars in gas revenues may be reason to rethink its strategy. While it dithers, though, the rebels may be gaining support. A video of the attack of March 23rd seems to show local residents applauding the insurgents. When a government is losing the battle for hearts and minds to murderous jihadists, it really is in trouble. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/04/02/mozambiques-mysterious-conflict-is-intensifying

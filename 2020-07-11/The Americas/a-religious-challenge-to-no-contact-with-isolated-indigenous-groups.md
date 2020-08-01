@@ -37,3 +37,7 @@ Even if controlled contact were possible, now seems a bad time to initiate it. T
 Yet evangelists see the disease as a reason to initiate it. Congress’s evangelical lobby tacked on to a law that allocates money to protect indigenous people from covid-19 an amendment that allows missionaries to remain on indigenous lands. After a court ordered the government to evict 20,000 gold miners from the remote Yanomami territory, the army dropped off face masks and hydroxychloroquine, an antimalarial drug that Mr Bolsonaro thinks is effective against covid-19.
 
 Mr Mayoruna, who left the forest because “I wanted to know who God was”, recently broke ties with the missionaries. He thinks it is a matter of time before the remaining isolated groups are confronted with modern Brazil, but says it is wrong for pastors to push the pace. “You can’t force anyone to convert,” he says.■
+
+## URL
+
+https://www.economist.com/the-americas/2020/07/09/a-religious-challenge-to-no-contact-with-isolated-indigenous-groups

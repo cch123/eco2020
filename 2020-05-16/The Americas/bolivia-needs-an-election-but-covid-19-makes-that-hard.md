@@ -37,3 +37,7 @@ Still, the malcontents are a minority. In a poll by Ipsos conducted on May 2nd-7
 Salvador Romero, the respected president of the electoral tribunal, plans to hold the election by the legislature’s August 2nd deadline, assuming the constitutional court does not overturn it. Bolivia cannot follow the example of richer countries that have spread out voting over several days or shifted to mail-in ballots, says Mr Romero. That would be a logistical nightmare. The commission plans to train poll workers in small groups. The vote itself will take place as usual, probably with hand sanitisers and face masks. Voting is mandatory, but many Bolivians may stay home unless they think the pandemic is under control. That may prompt the losers to challenge the legitimacy of the results. Bolivia is still a long way from a political cure. ■
 
 Editor’s note: The Economist is making some of its most important coverage of the covid-19 pandemic freely available to readers of The Economist Today, our daily newsletter. To receive it, register [here](https://www.economist.com//newslettersignup). For our coronavirus tracker and more coverage, see our [hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/the-americas/2020/05/16/bolivia-needs-an-election-but-covid-19-makes-that-hard

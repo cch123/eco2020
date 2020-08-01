@@ -51,3 +51,7 @@ In the age of covid-19 producing closer to home is both an understandable urge a
 Mr Kouvelis expects companies mostly to go back to their old ways of thinking about the efficiency-resilience trade-off. Firms “manage one shock at a time”, he says. Having so far emerged from this one relatively unscathed, Mr Cook and others may well stick to Andrew Carnegie’s advice to “put all your good eggs in one basket and then watch that basket.” Until the next black swan waddles along. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/briefing/2020/05/16/businesses-are-proving-quite-resilient-to-the-pandemic

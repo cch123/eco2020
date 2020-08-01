@@ -17,3 +17,7 @@ China began exploring the concept in 2014 because of the technological upheaval 
 But the bigger prize for China is the new powers that would come with a CBDC. China’s version will be a centralised currency, rather like the anti-bitcoin. Officials will be able to track all digital cash in circulation, making it much harder to launder money or evade taxes. The central bank could also use coding to control how the money is used. For example, if it issues CBDC to a commercial bank for lending on to small businesses, it could ensure that the money is activated only once transferred to a small firm. And China might find it easier to make nominal interest rates negative: cash would no longer be an alternative to bank deposits because negative interest rates could apply to digital cash itself.
 
 These powers are still some way off. Given the risks inherent to such a transformation, China will phase in the CBDC very gradually. Citic Securities estimates that it will take several years for the digital yuan to replace just about 10% of all physical cash in China. For now central banks must continue to worry about money-laundering—both illegal and antiviral.■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/04/23/china-aims-to-launch-the-worlds-first-official-digital-currency

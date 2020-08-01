@@ -23,3 +23,7 @@ Mrs Lam has begun picking judges to try national-security cases. The first one i
 Censorship is spreading. Public libraries have removed books by politicians who have called for greater autonomy for Hong Kong. Schools have been “recommended” to do the same. The education bureau has ordered pupils not to sing the protest anthem “Glory to Hong Kong” or otherwise “express their political stance”. Mrs Lam has told foreign journalists that their freedom to report is conditional on a “100% guarantee” that they abide by the new law. Among the hundreds of people who have taken to the streets to demonstrate against it, some have used the first line of the national anthem, “Arise ye who refuse to be slaves”, as a protest slogan. Cafés have been replacing pro-democracy Post-it notes with blank ones (see picture).
 
 Mrs Lam insists that, as such laws go, Hong Kong’s is “relatively mild”. She says she has seen no sign of “widespread fears”. The stockmarket’s rally, she says, shows an “increasing appreciation of the positive effect” of the new law. If it means fewer people clogging streets and paralysing transport with protests, as often happened last year, then some companies may be happy. But many firms are deeply anxious. ■
+
+## URL
+
+https://www.economist.com/china/2020/07/11/under-a-new-national-security-law-hong-kong-is-already-a-changed-city

@@ -53,3 +53,7 @@ As for competition, several upstarts are hustling for business. Kroll Bond Ratin
 The reluctance of many bond issuers to stray from the big rating firms has helped put “moats” around them and allowed them to raise prices by 3-4% a year, says Craig Huber of Huber Research Partners. Moody’s and S&P have operating margins of an eye-watering 50%. Both stocks have been a shrewd long-term investment, propelled by both the ratings boom and a broader push into data analytics (see chart 3); their combined market capitalisation is $117bn. One happy long-term shareholder is Warren Buffett, whose Berkshire Hathaway owns 13% of Moody’s.
 
 Even the coronavirus may fail to knock them far off course. Moody’s and S&P both posted record first-quarter revenue—$1.3bn and $1.8bn respectively—in part thanks to a fresh burst of bond issuance as companies dashed for cash. Their latest guidance, issued in late April, foresees earnings for 2020 around, or possibly exceeding, last year’s record haul. A triple-A from shareholders seems likely, then, if not from almost everyone else.■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/05/07/credit-rating-agencies-are-back-under-the-spotlight

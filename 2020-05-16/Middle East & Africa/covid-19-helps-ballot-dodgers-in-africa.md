@@ -39,3 +39,7 @@ Mali’s ruling party felt obliged last month to go ahead with an election even 
 Many Big Men are trying to exploit the pandemic. The key to stopping their shenanigans, in times of sickness as in those of health, is independent judges, uppity activists and brave voters. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/05/16/covid-19-helps-ballot-dodgers-in-africa

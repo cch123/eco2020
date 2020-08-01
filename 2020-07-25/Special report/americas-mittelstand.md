@@ -33,3 +33,7 @@ The city is a model for deployment of social capital. Researchers have tried to 
 One research paper contrasts the fortunes of Allentown in Lehigh Valley, Pennsylvania, with the dim outcomes in Youngstown, Ohio, in the years since the 1970s. In Allentown the main concern, as in Grand Rapids, was to create conditions so firms would stay and grow. In Youngstown (as with Foxconn in Wisconsin) there was a narrower focus on helping a particular industry, in its case steel. The long slog of creating the right eco-system seems more likely to pay off than the short-term effort to pick a winner in a declining business.■
 
 Dig deeper:Sign up and listen to Checks and Balance, our [weekly newsletter](https://www.economist.com//checksandbalance/) and [podcast](https://www.economist.com//podcasts/2020/07/17/checks-and-balance-our-weekly-podcast-on-american-politics) on American politics, and explore our [presidential election forecast](https://www.economist.com/https://projects.economist.com/us-2020-forecast/president)
+
+## URL
+
+https://www.economist.com/special-report/2020/07/23/americas-mittelstand

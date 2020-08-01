@@ -25,3 +25,7 @@ The rules are still under discussion, but are expected to be published soon. Dee
 This process may slow Huawei down, but lost revenue and commensurate gains by competitors could lead to a downward spiral for American firms that leads to lower relative spending on research and competitiveness. Newly flush with Huawei’s cash, European and East Asian suppliers could overtake American firms. At best, the industry expects the controls to force American firms’ operations offshore, into the hands of non-American suppliers. At worst, they risk scalping firms’ competitive advantage entirely.
 
 The mission statement of the BIS takes these trade-offs into account. It promises not to impose “unreasonable restrictions on legitimate international commercial activity that is necessary for the health of US industry”. That is no simple task. If Washington and Beijing carry on along the path of technological “decoupling” then American industry will inevitably suffer (as will Chinese). Few organisations have greater power to determine the nature of that suffering than the Trump administration’s Department of Commerce. The entity list was not designed as a tool of geostrategic competition. But, increasingly, it is being turned into one.■
+
+## URL
+
+https://www.economist.com/united-states/2020/01/16/old-export-regulations-get-a-new-use

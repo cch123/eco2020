@@ -25,3 +25,7 @@ Cynics note that the Netherlands faces elections next year, and that Mr Hoekstra
 Olaf Scholz, Germany’s finance minister, may be secretly grateful for Mr Hoekstra’s stubbornness, which allows him to play the role of peacemaker. But as the response to covid-19 evolves, other forms of collective spending will be on the table, notably at a videoconference of EU leaders on April 23rd. Self-righteousness is not winning the Netherlands many friends. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/04/18/the-dutch-grumble-over-europes-coronavirus-cheque

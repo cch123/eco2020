@@ -21,3 +21,7 @@ So why have teams fared better at home, even without biased officials? Since May
 The cause of this gap remains mysterious. In American sports, visitors have to endure long trips between games. But travel times within European countries rarely exceed a few hours. A more plausible reason is that coaches still use conservative line-ups and strategies when playing away, even though hostile officials no longer undermine their best players’ efforts. If that is a factor, managers who excoriate referees ought to consider their own failings, too. ■
 
 Sources: 21st Club
+
+## URL
+
+https://www.economist.com/graphic-detail/2020/07/25/empty-stadiums-have-shrunk-football-teams-home-advantage

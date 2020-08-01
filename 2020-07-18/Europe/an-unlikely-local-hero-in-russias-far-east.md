@@ -25,3 +25,7 @@ Mr Furgal is not the only recent target. On July 7th, in Moscow, plain-clothed o
 The protests in Khabarovsk show that among many ordinary Russians Mr Putin arouses anger rather than admiration. They also show that feelings of regional identity can bring local bigwigs and the opposition together. One of the driving forces behind the protests in favour of the governor was the local branch of the movement led by Alexei Navalny, Russia’s national opposition leader. The event also exposes the limitations of the Kremlin’s security apparatus when dealing with mass protests. The police in Khabarovsk did nothing to stop the protest, lest it escalate and spread.
 
 The Kremlin hopes that the protest, which has been ignored by national state television, will now fizzle out. Maybe so. But it will be harder to cover up the cracks in Mr Putin’s regime. ■
+
+## URL
+
+https://www.economist.com/europe/2020/07/18/an-unlikely-local-hero-in-russias-far-east

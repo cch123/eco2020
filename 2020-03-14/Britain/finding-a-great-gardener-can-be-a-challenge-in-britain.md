@@ -17,3 +17,7 @@ Robert and Nicky Wilson, the owners of Jupiter Artland, a popular contemporary s
 Their adaptability paid off. Mr Unterdorfer created a magnificent green backdrop to the brightly coloured tiled pool that the Wilsons had commissioned from Joana Vasconcelos, a Portuguese artist, which opened last July. Pruned in undulating waves, the 3,000 Portuguese laurels, beeches and boxwoods make an impressive showcase to set off Ms Vasconcelos’s spirited creation (pictured).
 
 Mr Unterdorfer switched jobs for the opportunity rather than for money, he says, though it never pays to be tight if you are trying to recruit a head gardener. One British entrepreneur who wanted to transform his country seat in the Surrey Hills into an oasis of niwaki—Japanese cloud pruning—thought he might economise last year by proposing that his head gardener should do a job-share with a neighbouring family. Within months the man was off, lured by the offer of £50,000 a year and his own cottage. “I’m just too cheap, I now realise,” wails the entrepreneur, who is looking for a new head gardener.
+
+## URL
+
+https://www.economist.com/britain/2020/03/12/finding-a-great-gardener-can-be-a-challenge-in-britain

@@ -21,3 +21,7 @@ First in his line of fire are Slovenia’s public broadcaster and parts of the p
 Meanwhile he hails Slovenia’s fight against covid-19, comparing it to the heroic struggle against Yugoslavia a generation ago and accusing the protesters of treacherously sporting Yugoslav symbols. In fact, Slovenia’s performance against the virus has been about average in the region: around 52 people per million population have died so far, compared with 25 in neighbouring Croatia to the south and 74 in Austria to the north. Moreover, there was a whiff of scandal when the agency charged with procuring masks and other vital equipment was accused of having to sign dodgy contracts, a charge it denies.
 
 In 2014 Mr Jansa went to jail for corruption. The constitutional court annulled his conviction, but a proposed retrial never took place. In prison he wrote a novel about brave proto-Slovene warriors and their sexy maidens defending their homeland from marauding eastern tribes two millennia ago. Nowadays, just like Mr Orban, he attacks today’s migrants, hoping that the theme of barbarians at and within the gates will keep him on the throne. ■
+
+## URL
+
+https://www.economist.com/europe/2020/06/06/slovenias-prime-minister-hunts-for-enemies

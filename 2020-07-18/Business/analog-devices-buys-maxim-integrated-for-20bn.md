@@ -11,3 +11,7 @@
 ![](./images/20200718_WBC520.png)
 
 SOFTBANK IS reportedly mulling the sale or flotation of Arm, a chip designer it bought for $30bn in 2016. Luckily for the tech group, appetite for chips—and chipmakers—remains strong. On July 13th Analog Devices bid $20bn for Maxim Integrated, an American rival.
+
+## URL
+
+https://www.economist.com/business/2020/07/18/analog-devices-buys-maxim-integrated-for-20bn

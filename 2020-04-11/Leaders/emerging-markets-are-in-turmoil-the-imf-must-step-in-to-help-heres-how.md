@@ -31,3 +31,7 @@ Third, the fund must persuade the world that many of the poorest countries, espe
 These actions will be needed in addition to the IMF’s regular lending programmes, which will be called upon at a scale hitherto unseen. The fund has not faced a crisis like this before. It must fight it with every available tool.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/leaders/2020/04/11/emerging-markets-are-in-turmoil-the-imf-must-step-in-to-help-heres-how

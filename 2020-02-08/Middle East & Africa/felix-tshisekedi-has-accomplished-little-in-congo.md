@@ -25,3 +25,7 @@ Mr Tshisekedi has been more active abroad. In 2019 he wooed the IMF and World Ba
 Mr Trump has little interest in Africa. His administration has threatened to cut funds for the UN peacekeeping mission in Congo. But his advisers also view the country as a battleground for influence. In 2018 John Bolton, then Mr Trump’s national security adviser, condemned the “predatory practices” of China and Russia in the region. America seems willing to overlook Congo’s democratic shortcomings so long as Mr Tshisekedi stays close.
 
 That is bad news for the people of Congo. Granted, in 2019 Mr Tshisekedi unmuzzled the media, allowed peaceful protests and released some 700 political prisoners. But as criticism of his presidency grows, he is looking less tolerant. A rally to be led by Mr Fayulu was banned. Thousands of people took to the streets of Kinshasa anyway on January 26th. Few believe Mr Tshisekedi when he says that this year is “the time to act”. “Tshisekedi is scared of Kabila,” says Firmin Yangambi, a former political prisoner. “A president who is scared can’t do anything for his country.” ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/02/08/felix-tshisekedi-has-accomplished-little-in-congo

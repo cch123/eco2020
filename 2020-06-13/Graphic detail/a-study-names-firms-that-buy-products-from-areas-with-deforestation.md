@@ -23,3 +23,7 @@ In Brazil, beef causes six times more deforestation than soya does. Trase has al
 However, these companies acquire a majority of their beef from firms that do not rear all of their cattle themselves. And these suppliers’ own suppliers are much harder to monitor. If exporters wish to prove they act responsibly from farm to fork, they will need to obtain and share data about their chains’ missing links. ■
 
 Sources:Trase; Global Canopy; Stockholm Environment Institute; ICV; Imaﬂora
+
+## URL
+
+https://www.economist.com/graphic-detail/2020/06/11/a-study-names-firms-that-buy-products-from-areas-with-deforestation

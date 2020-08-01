@@ -19,3 +19,7 @@ The news also seemed too arbitrary an end for such a towering figure in Swedish 
 On the international scene, it was Palme who established Sweden’s role as an international human-rights gadfly. He bucked cold-war divisions by cultivating cordial relations with Cuba and the Soviet Union, and made Sweden a haven for Americans dodging the war in Vietnam. He incarnated the Scandinavian belief that some version of democratic socialism was humanity’s unquestioned destination. As the British journalist Andrew Brown wrote of living in Sweden at the time, “The happiness and the tragedy of Palme’s years was that when Swedes looked round the world, they assumed that everyone must share Swedish ideas of decency, too.”
 
 Palme’s personal life hewed ostentatiously to his egalitarian convictions. He and his wife lived in a modest home where journalists who came to interview him might find themselves helping to cook dinner. That informality ultimately contributed to his death. For many Swedes, Palme’s murder remains the moment at which the old socialist dream died. It seems perverse for something so important to depend not on a global conspiracy, but on the squalid actions of an insignificant individual. ■
+
+## URL
+
+https://www.economist.com/europe/2020/06/11/sweden-unmasks-a-prime-ministers-assassin

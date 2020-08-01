@@ -19,3 +19,7 @@ Companies in the second group are unusually lucrative for less deserving reasons
 The last bucket blends the other two. These are huge private companies with mediocre returns but a knack for navigating both India’s labyrinthine bureaucracy and its corridors of power. They operate in heavily regulated industries: Larsen & Toubro, an engineering group, builds roads; Hindustan Zinc, a subsidiary of London-listed Vedanta Resources, is a big miner.
 
 The canonical example is Reliance Industries. Its net income last year of $5.2bn made it India’s most profitable firm—and accounted for 13% of the country’s corporate profits. Its businesses range from a core refining operation to the disruptive Jio mobile network. Despite negative cashflow and a meagre 7% return on capital, investors cannot seem to get enough of it. Reliance recently announced that Facebook and three large American private-equity firms, Silver Lake, Vista Equity Partners and General Atlantic, will buy large stakes in Jio. They may reasonably have concluded that it can count on continued support from its parent, which is alone in having featured among the top 20 profit-makers every year since 1992. ■
+
+## URL
+
+https://www.economist.com/business/2020/05/21/india-incs-profits-increasingly-belong-to-a-tiny-clutch-of-companies

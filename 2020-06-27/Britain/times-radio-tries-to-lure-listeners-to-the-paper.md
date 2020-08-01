@@ -21,3 +21,7 @@ Still, radio is “a massive step up from podcasts in terms of costs”, says Ke
 For this reason, some people detect a political motive. News UK’s owner, Rupert Murdoch, is a long-time BBC critic; last year News UK commissioned a report claiming BBC Radio 5 Live was not meeting its regulatory obligations. In February Downing Street briefed that it had plans to “whack” the BBC; ministers were banned from appearing on its “Today” programme, over its supposed bias. The purpose of Times Radio was thus “to have a replacement for Radio 4 at the ready when the revolution comes”, believes Ms Enders. But the pandemic has put the revolution on hold. Government relations are “back to the normal world”, says a BBC executive, who claims not to be losing sleep over Times Radio.
 
 Nor should he, given that the BBC has 60% of radio listeners, and Radio 4 alone a budget of nearly £100m. Still, Mr Murdoch, who quit the British TV business last year with the sale of Sky to Comcast, seems keen to keep a hand in British broadcasting. His son and apparent heir, Lachlan, has spent much of his career in audio. Times Radio may represent nothing more than table stakes for the Murdochs, but it is a game they have been playing for a long time. ■
+
+## URL
+
+https://www.economist.com/britain/2020/06/27/times-radio-tries-to-lure-listeners-to-the-paper

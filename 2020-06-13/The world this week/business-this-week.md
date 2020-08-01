@@ -31,3 +31,7 @@ With the issue of race now firmly on the company agenda, Amazon said it would st
 Slack’s share price struggled to recover from the drubbing it received after the company’s quarterly earnings disappointed investors. Revenue was up by 50% year on year, but that was only a slight improvement in growth on the previous quarter, before offices turned en masse to remote working.
 
 Just Eat Takeaway, a food-delivery service in Europe, sealed an agreement to buy Grubhub, one of America’s biggest operators in the market, for $7.3bn. Uber had reportedly approached Grubhub last month about a merger with Uber Eats, but had found there was little appetite for a deal.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/06/11/business-this-week

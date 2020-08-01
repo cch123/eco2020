@@ -27,3 +27,7 @@ Persecution has proven disastrous for both species. Clearly, something needs to 
 Permanent electric fences around national parks and fields are of no help to man or beast. CCR’s solution is to protect settlements but fence fields only during the growing season. After the harvest, the land is for the elephants. Around Galgamuwa, villagers have long been receptive to a more flexible approach, even if politicians do not see what is in it for them.
 
 The animals seem to appreciate a kindly touch. In the middle of his paddy, Lalith and his neighbours demonstrate their technique, passed down for generations. They sing to the animals: “Go away, little babies, go away. But once we’ve gathered the harvest, anything we leave is yours.” How on earth, Banyan asks, can that work? It just does, Lalith replies. After all, he adds, “We’re still here, and so are the elephants.”
+
+## URL
+
+https://www.economist.com/asia/2020/02/27/of-all-sri-lankas-conflicts-the-one-with-elephants-is-the-oldest

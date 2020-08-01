@@ -23,3 +23,7 @@ The defence believed the real issue was class. What went on was “no more and n
 Regardless of their motivation, the verdict is a problem for the shooting bodies, since it raises questions about the future of the exemption on which they rely. “We’ve never had any problem with this before,” said an NRSA representative during the case. “It could potentially be a bit of a muddle, couldn’t it?” The Law Commission, a quango, has argued for removing the exemption, and the judge in Mr Hammond’s case is expected to outline his view of inadequacies in the law as it stands. Mr Boulter says the exemption was something people didn’t want to talk about: “Why? Because it allows you to do what you want.”
 
 That may not be true for much longer. Mr Hammond may have unwittingly provoked Britain’s gun lobby to shoot themselves in the foot. ■
+
+## URL
+
+https://www.economist.com/britain/2020/02/27/britains-shooting-ranges-could-be-in-trouble

@@ -21,3 +21,7 @@ That matters for turbine pairs because the air that pushes against the blades of
 In the case that the first turbine rotates anticlockwise, the wake will be clockwise, thus matching the northern-hemisphere wind veer. This lets it gain energy from the surrounding air to deliver to the next turbine—the opposite of what now happens. And in the southern hemisphere this all works the other way around, so conventional, clockwise turbines do best.
 
 Retooling factories in light of Dr Englberger’s discovery, to make turbines run anticlockwise instead, would certainly be expensive. Whether the extra power that could be squeezed out of the wind by doing so would make that worthwhile would require a lot more investigation. Her result does, however, show neatly how even apparently arbitrary decisions can have unintended consequences.■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/05/14/which-way-a-wind-turbine-turns-might-not-seem-to-matter

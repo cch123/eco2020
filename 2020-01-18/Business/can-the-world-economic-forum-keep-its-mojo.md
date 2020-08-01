@@ -55,3 +55,7 @@ As it nears its half-century, the WEF faces three challenges. The first is compe
 This is especially likely—the second challenge—if the WEF is perceived as a remnant of a bygone era. Mr Schwab points out that it was an early champion of stakeholder capitalism, which is in the ascendant. That may be so. But in many eyes Davos is the apotheosis of global capitalism, which is on the back foot.
 
 Then there is what Mr Schwab’s CEO chums call key-man risk. He is feisty (if lugubrious) and shows no sign of bowing out. But he cannot go on for ever. He once said: “The Forum has been...built around one person, which can be a problem.” Several deputies have been groomed, only to leave or be pushed out. José María Figueres, an ex-president of Costa Rica, quit as WEF’s chief executive in 2004 after failing to disclose consulting fees. Mr Schwab says a “contingency” plan is in place, but offers no details; some continue to speculate that his son Olivier, the WEF’s head of operations, might one day play a bigger role. Keeping corporate and political bosses coming may get harder after the professor hangs up his skis—even if he leaves the world’s mightiest Rolodex behind.■
+
+## URL
+
+https://www.economist.com/business/2020/01/18/can-the-world-economic-forum-keep-its-mojo

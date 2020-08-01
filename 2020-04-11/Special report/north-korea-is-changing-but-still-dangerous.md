@@ -47,3 +47,7 @@ That uncertainty is one of several. Relations among allies in the region are mor
 The deteriorating relationship between America and China adds a further complication. Back in 2017 and early 2018, the two great powers looked relatively united in their desire to curb North Korea’s provocations. China assisted efforts to mitigate the threat from the North through strict enforcement of the international sanctions designed to curb Mr Kim’s nuclear ambitions. Amid the trade war between the two countries, however, such co-operation has waned.
 
 All this means that the appropriate symbol for the inter-Korean mood over the next few years may lie not in Panmunjom, but at another spot on the DMZ. At the Imjingak Observatory, the unfinished station for a “peace gondola” towers over a vast, mostly empty car park. In the “unification pond” that was gifted by a wealthy donor just last year, a few lifeless-looking carp float around below the surface. And on the bridge that looks out over the bird-filled fields of the DMZ, an elderly visitor who was born just across the border with the North muses on the possibilities of reunification. “I still hope it’ll happen but it probably won’t.” ■
+
+## URL
+
+https://www.economist.com/special-report/2020/04/08/north-korea-is-changing-but-still-dangerous

@@ -75,3 +75,7 @@ Plenty of putative successors have left during the Dimon era, including lieutena
 Having had two serious health scares, Mr Dimon may now be reflecting more seriously on how change at the top can reinvigorate the lower rungs. Jack Welch, a longtime boss of GE, who died on March 1st, once said that when he finally decided to leave the firm it was not because he wanted to, but “for everyone else”.
 
 Were Mr Dimon to bow out now, his place in the pantheon of banking greats would be assured. His star has long since eclipsed Mr Weill’s. In interviews since the financial crisis his former mentor has admitted that one of his bitterest regrets was letting Mr Dimon go. Mr Weill lingered too long at Citi. It is hard to imagine any shareholder cheering Mr Dimon’s departure when it comes. But he must be careful to avoid making the same mistake. ■
+
+## URL
+
+https://www.economist.com/briefing/2020/03/12/is-dimons-work-done-at-jpmorgan-chase

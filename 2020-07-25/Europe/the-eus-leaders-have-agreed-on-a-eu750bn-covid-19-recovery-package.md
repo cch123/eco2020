@@ -29,3 +29,7 @@ There are two areas of concern. The first is the price demanded by the frugals. 
 A second set of worries centred on how to prevent handouts to countries that undermine the rule of law. Wayward governments like Hungary and Poland are big winners from the MFF, and some had hoped that attaching rule-of-law conditions to disbursements might help bring them to heel. In the end the leaders agreed on studiously ambiguous language, shaped by Angela Merkel’s team. It promises “a regime of conditionality to protect the budget” but postpones the decision on how to obtain it. “Lots of people will want this made more precise,” says Katarina Barley, a German social-democratic MEP.
 
 Many of Ms Barley’s colleagues in the European Parliament, which must sign off on the deal, also criticised the deal’s cuts to favoured programmes and their own exclusion from oversight of spending. Yet although the parliament may extract tweaks to the deal, on past form it is unlikely to squash it. A budget must be in place from the start of next year. MEPs will not want to spark a crisis by blocking it. ■
+
+## URL
+
+https://www.economist.com/europe/2020/07/21/the-eus-leaders-have-agreed-on-a-eu750bn-covid-19-recovery-package

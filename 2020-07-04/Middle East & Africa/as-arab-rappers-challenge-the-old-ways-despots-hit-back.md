@@ -21,3 +21,7 @@ Despots have responded predictably. Morocco jailed one of the rappers behind “
 A few leaders are following the example of King Muhammad VI and trying to co-opt rap for their own ends. Last year Muhammad bin Salman, the de facto ruler of Saudi Arabia, hosted 50 Cent, an American star, as part of his push to promote more liberal social mores. Some Shia seminarians in Iraq rap their sermons using traditional rhythmic chest-beating as their backing track.
 
 And even autocrats don’t seem to mind Trap, a throbbing rap genre, where the music drowns out the lyrics. The most popular rap song to emerge from the United Arab Emirates is called “Wala Kilma”, meaning “Not a Word”.
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/07/02/as-arab-rappers-challenge-the-old-ways-despots-hit-back

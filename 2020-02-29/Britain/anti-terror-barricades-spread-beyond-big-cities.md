@@ -17,3 +17,7 @@ The government also wants to make public spaces more beautiful. The Cambridge ex
 Yet the choice between beauty and safety is not always so stark. At their best, barriers may not be beautiful, but they are invisible. Local authorities can choose from any obstacle that meets standards set by the International Organisation for Standardisation. And many newer ones are designed to be as surreptitious as possible. Marshalls, a manufacturer, specialises in less off-putting barricades, including the Rhinoguard Giove Protective Planter, which is, in effect, an enormous plant pot able to withstand an unladen 7.5-tonne lorry travelling at 50mph. The firm says revenues from its unobtrusive obstacles have risen by more than 50% since 2017.
 
 It is easier to combine beauty with security when designing from scratch. The “hostile vehicle mitigation measures” around the Welsh Assembly in Cardiff are, for instance, mostly disguised as steps. All of England’s police forces have at least one “designing-out crime” officer to advise local planners on how to integrate security measures. Their job is harder when it comes to adapting existing spaces, says Paul Jeffrey of the Perimeter Security Suppliers Association, a trade group. “Retrofitting is an absolute nightmare,” he notes. It is something many other places, besides Cambridge, may be about to discover. ■
+
+## URL
+
+https://www.economist.com/britain/2020/02/27/anti-terror-barricades-spread-beyond-big-cities

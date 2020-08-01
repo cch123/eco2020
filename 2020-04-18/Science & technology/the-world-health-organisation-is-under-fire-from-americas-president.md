@@ -23,3 +23,7 @@ When asked for fair criticisms of the WHO, David Heymann, of the London School o
 Dr Tedros has been leading an attempt to reform the organisation, but this is hard. Because much of the money it receives is tied to member countries’ pet projects, it has little cash for other matters. When faced with an emergency such as covid-19 it must therefore raise funds on the hoof. It cannot, however, be faulted for lacking in foresight. Last year, when Dr Tedros was having trouble raising money for the response to the Ebola outbreak in DRC, he remarked that donors do not pay until there is “fear and panic”. The solution, he suggested, was more routine funding, to allow better preparation for epidemics. If only.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/04/16/the-world-health-organisation-is-under-fire-from-americas-president

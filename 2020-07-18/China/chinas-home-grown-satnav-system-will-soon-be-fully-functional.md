@@ -23,3 +23,7 @@ China prefers to publicise BeiDou’s commercial applications. On the day of the
 The completion of BeiDou not only eliminates dependency on America. It also puts China ahead technologically. BeiDou’s satellites are more advanced than those of GPS. In the Asia-Pacific, BeiDou claims accuracy to 10cm, compared with 30cm offered by GPS. America began upgrading its system in 1997 with the deployment of a new generation of satellites known as GPS-3 in 1997. It may take another 15 years to complete this roll-out. China took just five years to finish installing its latest batch of 30 BeiDou satellites, which use technology as advanced as GPS-3.
 
 China hopes to cash in on BeiDou globally. In December officials said China had exported BeiDou-enabled products to 120 countries and regions worldwide. Pakistan’s armed forces have started using the system. BeiDou receivers may eventually be installed in all phones, in addition to GPS. It would add little cost and give devices access to more satellites when pinpointing a location. Or perhaps Sino-American rivalry will make American and other Western manufacturers eschew the use of a system so closely linked with the military power of a potential enemy. BeiDou may yet struggle to find its place in the world. ■
+
+## URL
+
+https://www.economist.com/china/2020/07/18/chinas-home-grown-satnav-system-will-soon-be-fully-functional

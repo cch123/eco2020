@@ -59,3 +59,7 @@ ROBERT MACHADOCambridge, Cambridgeshire
 [Charlemagne’s ](https://www.economist.com//europe/2020/05/16/the-enduring-influence-of-kraftwerk)recognition of Kraftwerk’s contribution to modern European identity was electrifying (May 16th). As for choosing one of their tunes as a new anthem for the European Union, “Trans-Europe Express” is the obvious choice for my Interrail generation. But I guess in this era of restrictions, we will have to make do with “Computer Love”.
 
 JOHAN NORBERGStockholm
+
+## URL
+
+https://www.economist.com/letters/2020/06/11/letters-to-the-editor

@@ -37,3 +37,7 @@ These arguments expose the flaw at the centre of this interesting and enjoyable 
 Recent events illustrate that point. Hong Kong is in many ways a splendidly governed place, with reliable social order and a thriving economy—and very limited democracy. The result of last year’s election, in which voters supported pro-democracy protesters, was a clear message to the territory’s Chinese overlords that its people wanted more of a say, even at the cost of less stability.
 
 For its part, the European Union is a model of co-operation and rational decision-making. Yet it has just lost one of its larger members, in part because British voters felt no connection with its governance structures. Technocrats may make sensible decisions, but democracy without legitimacy is a ship without a sail. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/02/13/why-an-excess-of-democracy-can-lead-to-poor-decisions

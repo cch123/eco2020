@@ -33,3 +33,7 @@ SoftBank revised its estimate of its earnings in this financial year to account 
 Donald Trump used wartime powers to order meat-processing factories to stay open. This came after Tyson Foods, America’s largest meat processor, warned that the closure of slaughterhouses would cause shortages. Sales of plant-based alternatives to meat have soared in America, reportedly by 265% over two months. See [article](https://www.economist.com//united-states/2020/05/02/in-america-the-virus-threatens-a-meat-industry-that-is-too-concentrated).
 
 Tesla made another small quarterly profit, its third in a row. But the news was overshadowed by a rant from Elon Musk, the electric-carmaker’s boss, against lockdowns. He described the restrictions as “fascist”, and urged the government to “Give people back their goddamn freedom.”
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/04/30/business-this-week

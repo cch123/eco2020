@@ -27,3 +27,7 @@ AMLO claims, implausibly, that his policies will create 2m new jobs during the r
 This approach has alienated prosperous northern states. Four governors have called for changes to fiscal rules under which their states pay more in tax than they get in government spending. Chambers representing 20,000 firms in Tamaulipas say their members will not pay taxes. There is talk of northern separatism.
 
 AMLO is one of the few world leaders whose approval rating has dropped during the pandemic. According to one poll, it fell to 47.5% in April from 55.7% February. An economic slump is bound to push it down further. His Morena party risks losing in congressional and state elections due next year. That will put his fourth transformation in jeopardy.■
+
+## URL
+
+https://www.economist.com/the-americas/2020/04/16/mexicos-bazooka-shy-president

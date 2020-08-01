@@ -15,3 +15,7 @@ After decades representing insular parties on the periphery of Israeli politics,
 The outreach seems to be working. In the election last September the Joint List increased its support in Jewish areas by 60% compared with the election in April, albeit from a very low base. Dahlia Scheindlin, a pollster, predicts it could increase again, perhaps giving the Joint List an extra seat (it currently has 13). Jews attending a packed hustings in Tel Aviv spoke of abandoning Meretz, a left-wing Zionist party that has pushed Arab candidates down its list. Right-wing fearmongering against the Arab “enemy within” is attracting Jewish sympathy. A settler in a skullcap said he feared he would be branded a traitor if his neighbours found out he was attending an event for the Joint List.
 
 Mr Odeh says it is not so hard to imagine an Arab-Israeli prime minister. But his appeal has its limits. Two-thirds of Israeli Jews want to bar Arab parties from government. Over 40% oppose living next to an Arab, let alone voting for one. Yuppies flinch at the Joint List’s communist origins. Left-wing secular Jews are turned off by its Arab nationalist and Islamist cheerleaders. And the Joint List is bad at practising the equality it preaches. Just one of its 13 parliamentarians is Jewish. Still, the interest Mr Odeh is piquing indicates a growing demand for a party that truly spans Israel’s Jewish-Arab divide. Voters will have to wait a bit longer for that.
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/02/27/a-growing-number-of-jews-are-voting-for-arabs-in-israel

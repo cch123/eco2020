@@ -25,3 +25,7 @@ His next test is to get parliament to approve a budget, something he has been un
 Mr Sánchez faces heavy pressure to drop these pledges. Antonio Garamendi, the head of the bosses’ association, points out that there is no mention of repealing the labour reform in the latest agreement that he and union leaders signed with the government. The coalition has said it will “modulate” its programme because of the harsh new circumstances. The budget will reveal whether modulation is a fancy word for backtracking. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/07/09/harsh-economic-realities-push-spains-government-towards-the-centre

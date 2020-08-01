@@ -29,3 +29,7 @@ If it is to send doctors overseas, it will have to avoid a Lombardy-style outbre
 With the stakes so high at home, medical adventurism abroad may seem reckless. But the government craves the kudos it brings and hopes no one will notice that it benefits so much more than the medical emissaries. After the release last year of “Chernobyl”, a television mini-series, pundits touted the role of Cuban doctors in treating children for radiation poisoning. Cubans hope that the doctors in Lombardy will one day be seen as covid-19 heroes. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/the-americas/2020/04/04/cubas-doctors-are-in-high-demand

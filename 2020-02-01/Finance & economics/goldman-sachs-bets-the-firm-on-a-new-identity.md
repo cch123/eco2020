@@ -29,3 +29,7 @@ Several hurdles complicate Goldman’s transition to a new business model. For a
 The firm also awaits penalties for issuing $6.5bn-worth of bonds for 1MDB, a Malaysian investment vehicle from which $4.5bn vanished. The scandal has tarnished Goldman’s reputation; the fine, expected to be in the region of $2bn, will weigh on its profits.
 
 All this will require managing cultural change. Half of the newest crop of analysts are women, and two-thirds from ethnic minorities—a shift from Goldman’s usual demographic. In September the Wall Street Journal reported tensions between the old guard and the new, with an eyebrow-raising 15% of partners expected to leave in 2019 (though Goldman says the attrition is normal). The challenge is to respond to the pressures that threaten Goldman’s profitability without spoiling the secret sauce that made it so successful. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/01/30/goldman-sachs-bets-the-firm-on-a-new-identity

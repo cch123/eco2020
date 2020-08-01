@@ -29,3 +29,7 @@ Inevitably, there have been flaws and oversights. In Bangladesh several local po
 Despite their limited resources, poor countries could improve public health care and expand safety nets, says Mr Malik of ESCAP. On average, developing countries in Asia spend just 3.7% of GDP to help citizens on the skids, far below the global average of 11%. The Asian Development Bank and World Bank have pledged billions of dollars to help Asian countries fight the virus. Governments should use that money, Mr Malik argues, “to create a different world”. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/asia/2020/04/18/asias-workers-cant-afford-to-stay-at-home

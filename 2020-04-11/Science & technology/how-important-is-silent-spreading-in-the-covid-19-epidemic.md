@@ -31,3 +31,7 @@ The third strand of research into the question of silent spreading is mathematic
 Collectively, all this research may help explain why SARS-CoV-2 has spread with such ferocity. But the study, in particular, of those who are infected but never present symptoms is also crucial to understanding how that spread may ebb—for the pool of those who have been infected and are, therefore, immune to reinfection at least in the short term also includes these people. Pandemics end when the pathogen causing them runs out of individuals to infect. Some of those susceptible will have died. Enough of the rest would then be immune for the population to have developed “herd immunity”. In the case of the current pandemic of SARS-CoV-2, the more silent infections there have been, the faster this herd immunity will arrive.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/04/11/how-important-is-silent-spreading-in-the-covid-19-epidemic

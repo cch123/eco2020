@@ -19,3 +19,7 @@ The mayor may be a caricature, but the bailiff is not. Baru pursues Jan because 
 One of the boons of Netflix is that you can watch box sets from anywhere, in their original languages with English subtitles. Particularly in a lockdown, it is a joy to explore the world via dramas in Galician (try “Bitter Daisies”, a murder mystery) or Zulu, one of several tongues spoken in “Queen Sono”, a sort of African James Bond.
 
 Unlike Bond—or Robin Hood—Jan de Lichte was a real person. By all accounts he was a thug, robbing the poor and murdering rivals. (The romanticised version is based on “De Bende van Jan de Lichte”, a novel by Louis Paul Boon, a Belgian writer.) Still, many of the show’s details are accurate. The punishments endured by 18th-century Flemish outlaws were every bit as barbaric as they seem on screen. There are worse fates than being stuck on the sofa. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/04/11/armchair-travel-with-a-flemish-robin-hood

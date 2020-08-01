@@ -31,3 +31,7 @@ The problem, however, is that neither China nor Russia is keen on trilateral tal
 Many experts think a more realistic approach would be for America and China to begin exploratory talks by themselves. America has long proposed such a “strategic nuclear dialogue”. China has demurred, for several reasons. It complains that whereas America accepts “mutual vulnerability” with Russia—an acknowledgment that each side can inflict terrible nuclear harm on the other—it refuses to do so with China. Many Chinese officials also fret that revealing the size or other details of their modest arsenal would make it even more vulnerable to a bolt from the blue.
 
 One way to allay these fears would be to start small. All three countries could begin discussing the risks that arise from emerging technologies, from cyber-attacks on nuclear command-and-control networks to the use of artificial intelligence in early-warning systems. Rose Gottemoeller, a former American official, says America could invite China to a mock New START inspection to show how verification works. Or the two countries could agree to notify one another of missile tests, as America and Russia have done for decades. But it will be a long road. As Mr Zhao notes, China’s tradition of military secrecy is “deeply rooted”. Opening up will require trust. What little there is between China and America is being threatened by the pandemic. ■
+
+## URL
+
+https://www.economist.com/china/2020/05/23/donald-trump-wants-china-to-join-a-nuclear-weapons-pact

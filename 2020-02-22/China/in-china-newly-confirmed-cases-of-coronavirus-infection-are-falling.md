@@ -31,3 +31,7 @@ Mr Xi will probably not have to worry about embarrassing questions at the annual
 But the publication of Mr Xi’s speech could be a sign that he is confident of victory. It revealed that he was giving orders on containing the virus as early as January 7th, two weeks before what had hitherto been his earliest-known comments on the outbreak. By letting this be known, the party may want to show that if there was any coverup at that early stage, it was the fault of local officials, not his. The outlines are becoming visible of the party’s strategy when the war is eventually over. ■
 
 Read more of our coverage of the covid-19 outbreak:[Experts predict that covid-19 will spread more widely (February 22nd)](https://www.economist.com//international/2020/02/22/experts-predict-that-covid-19-will-spread-more-widely)[Covid-19 presents economic policymakers with a new sort of threat (February 20th)](https://www.economist.com//finance-and-economics/2020/02/22/covid-19-presents-economic-policymakers-with-a-new-sort-of-threat)[How China’s coronavirus epidemic could hurt the world economy (February 13th)](https://www.economist.com//leaders/2020/02/15/how-chinas-coronavirus-epidemic-could-hurt-the-world-economy)
+
+## URL
+
+https://www.economist.com/china/2020/02/22/in-china-newly-confirmed-cases-of-coronavirus-infection-are-falling

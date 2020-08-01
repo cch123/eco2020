@@ -29,3 +29,7 @@ A more likely scenario is that Mr Putin beefs up the State Council, an advisory 
 Mr Putin’s plan demonstrates his personal power, but the manner and the timing of his announcement hint at underlying vulnerabilities. Last summer’s protests in Moscow were sparked by the Kremlin’s refusal to register any independent candidates for local elections. Mr Navalny inflicted hefty losses on the ruling party in the capital by urging his supporters to vote tactically against it. Mr Putin’s popularity ratings have been steadily sliding.
 
 This may explain his haste in announcing the changes to the constitution. Parliamentary elections are due next year, and the fear of more street protests and political losses mean the Kremlin would rather lock in its changes under the current Duma. Still, Russia is far from safe from upheaval. Mr Putin may continue to rule in some form or other after 2024, but he cannot extinguish the feelings of injustice and discontent that make it so dangerous for him ever to leave the presidency. ■
+
+## URL
+
+https://www.economist.com/europe/2020/01/16/putin-proposes-a-rewrite-of-russias-constitution

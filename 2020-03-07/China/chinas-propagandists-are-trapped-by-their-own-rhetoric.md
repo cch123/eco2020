@@ -27,3 +27,7 @@ A provocateur who relishes explaining to Western reporters how wrong they are, M
 True to nationalistic form, in recent days the Global Times has accused Western nations of failing to learn from China’s resolute policies, as the world prepares for a “protracted war” against the virus. Tut-tutting about the cost of health care in America, the tabloid asked, “If a superpower fails to control covid-19 simply because many people cannot afford treatment, then can that country really be great again?”
 
 China’s top leaders are more subtle about their blame-sharing, but still at pains to note that virus-control is now a collective, global challenge. Meeting scientists on March 2nd Mr Xi talked of “humanity’s battle against diseases” and of the tasks facing all mankind. Such language is not as stirring as books about China single-handedly saving the world. But right now the task is selling something short of total victory to a frightened Chinese public, many of whom distrust official assurances about public health. Blaming the world is a good start. ■
+
+## URL
+
+https://www.economist.com/china/2020/03/05/chinas-propagandists-are-trapped-by-their-own-rhetoric

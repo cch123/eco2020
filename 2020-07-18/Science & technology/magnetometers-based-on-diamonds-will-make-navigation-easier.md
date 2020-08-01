@@ -21,3 +21,7 @@ The diamond in question has an atomic lattice containing anomalous places called
 Diamond magnetometers are not, in truth, as sensitive as the alternatives. But in addition to their cheapness, lack of bulk and ability to function at room temperature they also have one further advantage. As Michael Slocum, a researcher at AFRL who is working on the project, observes, other sorts of magnetometers need careful calibration—and any system that depends on calibration is likely to suffer from measurement drift over the course of time. Since the nitrogen defects in a diamond do not move around, no calibration is needed.
 
 Magnetometer-based navigation does require accurate maps of Earth’s surface magnetic fields. The best such are made by flying an aircraft over the area in question, but if that is not possible then (as the picture shows) a satellite can do a reasonable job. Tests suggest that navigation of this sort can locate an aircraft’s position to within 13 metres. And, crucially for military applications (and unlike GPS-based systems), it is unjammable by the enemy.■
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/07/18/magnetometers-based-on-diamonds-will-make-navigation-easier

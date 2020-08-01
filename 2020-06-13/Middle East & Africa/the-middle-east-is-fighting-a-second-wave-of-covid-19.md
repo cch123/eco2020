@@ -29,3 +29,7 @@ Since then the epidemic in Saudi Arabia has worsened. On May 20th, just before i
 Like their rivals in Iran, the Saudis blame the increased spread on locals ignoring social-distancing rules. Yet they hope to avoid another nationwide lockdown and may even go ahead with next month’s haj, the annual pilgrimage to Mecca, albeit with fewer pilgrims than normal.
 
 None of this was supposed to happen so quickly. Dubai wants to reopen its airport next month for tourists and business travellers. Lebanon, desperate for hard currency, plans to do the same. Jordan hopes to promote domestic tourism this summer. Concerns over public health drove most Arab countries into lockdown this spring. Few think they can afford to do it again. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/06/13/the-middle-east-is-fighting-a-second-wave-of-covid-19

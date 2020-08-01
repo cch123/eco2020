@@ -81,3 +81,7 @@ The question of financing the spending splurge may be more one of practicalities
 The economic hit from covid-19 will be bad enough for rich countries, in both human and economic terms. But they are in a relatively fortunate position, with strong health-care systems, and investors who, for now, remain willing to lend to them on cheap terms. Poorer countries, where the threat posed by the virus is also growing rapidly, have less room to borrow and job markets with a higher share of informal workers who are ineligible for many protections. The rich world faces tough times, but will get through the crisis. The prospects of poorer places are far less certain. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/briefing/2020/03/19/governments-are-spending-big-to-keep-the-world-economy-from-getting-dangerously-sick

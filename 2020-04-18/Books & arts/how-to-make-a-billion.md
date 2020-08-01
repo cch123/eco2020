@@ -21,3 +21,7 @@ Making money, of course, can itself be very addictive. Mr Leith encounters Jorda
 Another route to opulence that Mr Leith analyses in depth is the “black swan” strategy, associated with the writer Nassim Nicholas Taleb. It involves betting heavily on unlikely events—because the odds are rewarding and the world is more chaotic and unpredictable than people expect. Winning business models, the author finds, often arise from a willingness to take hard choices, accept slow progress and, initially, swallow substantial losses. Among his case studies is Patrick Veitch, a talented mathematician whose losing bets on horse races helped him refine a method that subsequently brought in £1m ($1.25m) a year. He also cites Howard Schultz, who boldly decided to introduce Italian coffee culture to America. The outcome of Mr Schultz’s quixotic scheme was Starbucks.
 
 But this is not a textbook. As well as his observations of the plutocracy and how to penetrate it, Mr Leith offers a tour of his own frantic inner world, reflecting on a dizzying array of subjects that he deems relevant to his mission. These range from cowboys and gangsters to the feeding habits of chimpanzees. His metastasising anecdotes and revelations are deeply personal, often wilfully tangential and always thought-provoking. It may console readers of modest means to learn that the author’s own finances remain disastrous. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/04/16/how-to-make-a-billion

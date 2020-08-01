@@ -27,3 +27,7 @@ Chile and Colombia, which have relatively low infection rates, are working towar
 Ecuador, which has had a bad outbreak, and Argentina are starting to loosen up. A more flexible approach is harder where hospitals are overwhelmed. That applies in Peru, in parts of Mexico (which has not locked down) and in some Brazilian cities. Such places may have no choice but to confine people for a bit longer. Elsewhere, trying to slow the epidemic as much as possible while loosening the stranglehold on the economy is the hard, but ineluctable, task.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/the-americas/2020/05/02/choosing-between-livelihoods-and-lives-in-latin-america

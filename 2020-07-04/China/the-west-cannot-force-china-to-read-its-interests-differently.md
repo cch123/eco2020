@@ -25,3 +25,7 @@ A second reason to eschew fatalism is that next year America may have a new pres
 Shared concerns about China could be a catalyst for renewed transatlantic co-operation, argues a new paper, “Dealing with the Dragon, China as a Transatlantic Challenge”, produced by the Asia Society Centre on US-China relations, the Bertelsmann Foundation in Germany and George Washington University. Differences remain. Broadly, Europeans see China’s rise as an economic threat, while Americans see a national-security challenge. Europeans are wary of offensive policies like export controls on high-tech goods. The Trump era has left a legacy of deep distrust. Still, the paper notes, America and Europe would gain by co-ordinating defences. A joint agenda could include sharing intelligence about cyber-security, Chinese investments and technological standard-setting, as well as about tireless Chinese attempts to co-opt or control international organisations, from the UN to the Arctic Council.
 
 China is convinced that its interests are served by iron-fisted repression at home and bullying abroad. The West will not browbeat China into reading its interests differently. But democracies can build joint defences. That is already a worthy goal.■
+
+## URL
+
+https://www.economist.com/china/2020/07/02/the-west-cannot-force-china-to-read-its-interests-differently

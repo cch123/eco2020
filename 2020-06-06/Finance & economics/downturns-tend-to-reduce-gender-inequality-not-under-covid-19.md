@@ -31,3 +31,7 @@ The gradual emergence from lockdowns could do particular harm to women’s caree
 Meanwhile, mothers working at home are 50% more likely to be interrupted than fathers, according to the IFS. This “Mu-u-um” pattern, evident even when the woman is the higher earner, could harm pay and promotions. “I fear we’ll see the impact in two to three years’ time in a widening gender pay gap,” says Vera Troeger of Warwick University. Academia offers a glimpse of what may come. Several journals report fewer submissions by women during the pandemic; male submissions to some journals have picked up.
 
 The pandemic has, at least, made remote working normal. Before it, only one in 50 Americans worked from home full-time. By April, more than one in three did. With the concept tested, says Mr Bloom, “we’re never going back to the old world.” That would be good news for mothers, who tend to pick jobs that fit around their children, with more forgiving hours and shorter commutes. But it will mainly benefit university graduates, whose jobs are easier to do from home. Less-educated women cannot count on such a silver lining. A loss of employer demand and extra child-care duties make their job prospects bleaker. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/06/04/downturns-tend-to-reduce-gender-inequality-not-under-covid-19

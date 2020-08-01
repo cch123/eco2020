@@ -19,3 +19,7 @@ Surfing will make its Olympic debut in Tokyo in July, and more amateurs are brav
 But the forces behind the Brazilian storm are weakening. The global surf industry is going through a slump. Quiksilver, a beachwear brand that once sponsored hundreds of athletes, filed for bankruptcy in 2015, after trying but failing to become a mainstream fashion giant just as the retail industry hit hard times. In 2019 Hurley, another surfwear maker, announced that it would dissolve its professional team. Big brands like Corona and Jeep are “more interested in profiting off superstars than building the talent base”, says Miguel Pupo, one of 12 Brazilian surfers on this year’s pro tour. The sport’s fate depends on sponsors’ farsightedness: using the fame of this generation to invest in the next.
 
 Caio Costa, a 15-year-old from Maresias, understands the precariousness of his chosen career. He trained at the Gabriel Medina Institute, which provides free coaching to talented adolescents. He plans to ask businessmen who holiday in Maresias for money to buy surfboards ($500) and plane tickets for qualifiers that will put him on track for the professional circuit ($15,000). He gazes at the ocean as rain begins to pelt the waves. A dozen young surfers scamper out, boards in hand. “We Brazilians make a huge effort,” he says. He hopes they can weather the storm.■
+
+## URL
+
+https://www.economist.com/the-americas/2020/03/05/brazilians-dominate-surfing-for-now

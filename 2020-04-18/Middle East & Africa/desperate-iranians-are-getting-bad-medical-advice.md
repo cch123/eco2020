@@ -21,3 +21,7 @@ All this quackery gives the virus a free pass. Several top clerics have died aft
 The more rational parts of Iran’s leadership are speaking out, denouncing charlatans and scams. Unauthorised clerics are “engaging in the darkness of superstition and ignorance”, said the health ministry. Police have raided Mr Tabrizian’s warehouses. On April 4th they arrested Mr Kohansal, who has since been released. Many quacks are still out there, peddling bad medicine in the name of Islam. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/04/18/desperate-iranians-are-getting-bad-medical-advice

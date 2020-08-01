@@ -21,3 +21,7 @@ In the former East Germany, the unadjusted pay gap between men and women is minu
 The pay gap has almost vanished for full-time workers under 30, the average age for new mothers, but for those over 40 it has barely budged for three decades. The motherhood wage penalty is higher in Germany than in many rich countries; ten years after giving birth the average German mother earns almost two-thirds less than before, a far more precipitous drop than in countries with better child-care provision, such as Sweden or France. Tax rules and education practices, including schools that can close as early as noon, nudge large numbers of women into part-time work.
 
 Germany is changing. Since 2013 the state has guaranteed day care for children over 12 months (though finding a spot can be nightmarish). The minimum wage, which was introduced in 2015, disproportionally helped women. New transparency rules oblige big firms to explain pay decisions to curious staff. But much remains to be done, including chivvying men to take on more of the duties of parenting; just 36% of German fathers take paternity leave. The revolution is incomplete. ■
+
+## URL
+
+https://www.economist.com/europe/2020/03/14/why-the-pay-gap-in-germany-is-so-large

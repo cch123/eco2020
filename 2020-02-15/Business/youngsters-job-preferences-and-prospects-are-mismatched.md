@@ -29,3 +29,7 @@ Women play a much bigger role in the health- and social-care sectors, which are 
 Some jobs in health care are extremely lucrative, of course. But another gender imbalance emerges here: women make up only one-third of American health-care executives. In contrast, they tend to dominate the poorly paid social-care workforce. In Britain 83% of social-care workers are female. That suggests men shun the field, perhaps because they do not perceive caring to be a masculine trait.
 
 The biggest problem in the labour market, then, may not be that teenagers are focusing on a few well-known jobs. It could be a mismatch: not enough talented women move into technology and not enough men take jobs in social care. Any economist will recognise this as an inefficient use of resources. Wherever the root of the problem lies—be it the education system, government policy or corporate recruiting practices—it needs to be identified and fixed.
+
+## URL
+
+https://www.economist.com/business/2020/02/13/youngsters-job-preferences-and-prospects-are-mismatched

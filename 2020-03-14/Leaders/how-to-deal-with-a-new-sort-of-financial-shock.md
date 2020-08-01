@@ -27,3 +27,7 @@ The second area to watch is the euro zone. It is barely growing, if at all. Cent
 Every financial shock is different. In 1930 central banks let banks fail. In 2007 few people had heard of the subprime mortgages that were about to blow up. This financial shock does not yet belong in that company. But the virus scare of 2020 does create financial risks that need to be treated—fast.■
 
 Dig deeper:
+
+## URL
+
+https://www.economist.com/leaders/2020/03/12/how-to-deal-with-a-new-sort-of-financial-shock

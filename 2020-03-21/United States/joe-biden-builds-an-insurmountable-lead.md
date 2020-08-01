@@ -27,3 +27,7 @@ Tom Perez, who heads the Democratic National Committee, has urged states against
 However people ultimately vote, the campaign will be a much quieter affair for the next few months: no big rallies, debates before live audiences or working rope lines. That will no doubt annoy Mr Sanders, who is at his best exhorting large crowds. So is Mr Trump. If America remains locked down into autumn, he faces the prospect of either running for president without his trademark rallies, or asking his supporters to ignore the risks and gather anyway. ■
 
 Dig deeper:
+
+## URL
+
+https://www.economist.com/united-states/2020/03/19/joe-biden-builds-an-insurmountable-lead

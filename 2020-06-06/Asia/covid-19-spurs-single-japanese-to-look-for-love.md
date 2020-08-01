@@ -19,3 +19,7 @@ This marks the reversal of a long trend. Marriage has been in decline for decade
 Interest in matrimony also surged after a terrible earthquake, tsunami and nuclear disaster in 2011. Memberships at match-making agencies soared. The steady decline in weddings was interrupted in 2012, when there were 7,000 more than the year before. The nature and scale of the earthquake and pandemic may differ, but their effect on the unmarried has been comparable, says Nagaoka Masamitsu of O-net. “People are stuck at home and have a lot of time to think about their future.”
 
 Yuto from Kumamoto is already thinking about settling down with a 43-year-old Tokyoite he met online two months ago. Yet the rush to the altar (or shrine) may be short-lived. After the spike of 2012, there were 8,200 fewer weddings in 2013.
+
+## URL
+
+https://www.economist.com/asia/2020/06/04/covid-19-spurs-single-japanese-to-look-for-love

@@ -39,3 +39,7 @@ Mr Kostin notes that today’s big five are different. They trade at lower multi
 The final bear case has to do with potential weakness in American household consumption. Ellen Zentner of Morgan Stanley notes that real personal consumption spending grew at an annualised rate of 1.8% in the fourth quarter, down from 3.2% in the third. She calculates that the annualised growth in spending on non-durable goods last quarter was only 0.8%, down from 3.9% in the one before. Spending on food and beverages fell by 0.5% on an annualised basis in the fourth quarter of 2019, down from an increase of 5% in the previous three months.
 
 The profits just reported by big banks, which owe their strength in part to credit-card spending and mortgages, suggest that consumers are in a buying mood for now. Bosses have reason to kick back and relax. Farsighted ones know that this warm feeling will not last for ever. ■
+
+## URL
+
+https://www.economist.com/business/2020/02/06/after-a-nervy-year-america-inc-has-a-bounce-in-its-step

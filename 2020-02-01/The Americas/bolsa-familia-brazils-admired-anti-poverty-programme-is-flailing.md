@@ -47,3 +47,7 @@ The government could save 9% of GDP by cutting wasteful spending further, elimin
 But Mr Bolsonaro seems unserious about some things that might help the poor. He dropped plans for a childhood literacy programme and recently named a sceptic of evolution to regulate universities. If the economic recovery doesn’t reach poor Brazilians quickly, they could stage mass protests, as people have in other Latin American countries, warns Flávio Dino, the left-wing governor of Maranhão.
 
 Maria marched only as far as the welfare office in São Luís, which told her in December that her monthly Bolsa Família benefit of 360 reais had been cancelled. A computer failed to register that she and her seven children had moved in June to a new town to escape her violent boyfriend. She has been waiting for months for the government to fix the mistake. “Bolsa Família is the father of my children,” she used to say. The joke does not make her smile now. ■
+
+## URL
+
+https://www.economist.com/the-americas/2020/01/30/bolsa-familia-brazils-admired-anti-poverty-programme-is-flailing

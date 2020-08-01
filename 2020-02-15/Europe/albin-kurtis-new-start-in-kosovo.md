@@ -21,3 +21,7 @@ During 23 years in opposition Mr Kurti earned a reputation for being intelligent
 Foreign diplomats are increasing the pressure on Mr Kurti to lift the 100% tariff in order to restart the dialogue. He is reluctant to be pushed into a one-sided move. More important for him are education reform, the economy, the environment and rooting out what he says is a small and corrupt clan that has captured the state. He is willing to drop the tariff only if Serbia will reciprocate, which is unlikely as it would amount to a form of recognition. Currently, goods with paperwork marked “Republic of Kosovo” cannot be sold in Serbia. But the Trump administration, eager for a foreign-policy success before America’s presidential election, is thought to be pressing Mr Kurti to make a deal.
 
 His domestic challenges are huge, too. For years, civil-service jobs have been doled out to supporters of the parties that grew out of the KLA. One incoming minister says he is only mildly worried that resentful officials will sabotage his plans. A bigger problem, he says, is that vast numbers of people in his ministry are unqualified, having been hired nepotistically. Mr Kurti’s honeymoon will not last long. ■
+
+## URL
+
+https://www.economist.com/europe/2020/02/13/albin-kurtis-new-start-in-kosovo

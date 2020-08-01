@@ -17,3 +17,7 @@ Apathy may be to blame. Only 1.2m viewers tuned in to the selection show in 2019
 Technocracy has been tried before. A panel of BBC bigwigs and music-industry types picked contestants between 2011 and 2015. None made the top ten. Bringing Engelbert Humperdinck, then 76, out of semi-retirement was particularly questionable. He finished 25th. “You can’t pick a hit by committee,” insists an industry wallah. This time the decision has been outsourced. BMG, a record label, picked both song and performer.
 
 Britain’s problems ultimately lie with another sort of democracy, the pan-European telephone vote which—combined with the verdict of an expert panel—decides the contest’s ultimate winner. That Greece keeps voting for Cyprus may not entirely be explained by the Cypriots’ undoubted lyricism. In a popularity contest, it helps to be popular. But the only countries who consistently back Britain are Ireland and Malta. Brexit will hardly have won more friends. Britain should focus less on its routines and more on diplomatic footwork.
+
+## URL
+
+https://www.economist.com/britain/2020/02/29/the-bbc-is-taking-back-control-of-eurovision

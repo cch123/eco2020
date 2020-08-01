@@ -27,3 +27,7 @@ By international standards, America’s unexpected success at reducing poverty n
 Whether extra stimulus would help those at the very bottom of America’s socio-economic ladder—including people not able to buy sufficient food—is another question. Six per cent of adults do not have a current (checking), savings or money-market account, making it difficult for them to receive money from Uncle Sam. Some may have been caught up in the delays which have plagued the UI system, and a small number may be undocumented immigrants not entitled to fiscal help at all. Others report not being able to gain access to shops closed under lockdowns. The best way to remedy this would be to get the virus under control and the economy firing on all cylinders once again. But that still looks some way off.■
 
 To keep up with our coverage of the pandemic, visit our coronavirus [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus). Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter).
+
+## URL
+
+https://www.economist.com/united-states/2020/07/06/americas-huge-stimulus-is-having-surprising-effects-on-the-poor

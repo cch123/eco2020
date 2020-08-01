@@ -33,3 +33,7 @@ In response to the surge in online shopping Amazon is employing another 75,000 s
 Amazon’s share price hit new highs. It is up by a third since mid-March, giving the company a market value of $1.15trn.
 
 Forced to shut without much notice, Britain’s pub industry pondered what to do with an estimated 50m pints of beer lying undrunk in cellars. The rules have been relaxed on reclaiming tax for ullage, or wasted beer, so that the man from the brewery does not need to be present when it is disposed of, though social distancing is making it hard to lift the full kegs. With pubs closed, alcohol sales in supermarkets have soared.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/04/16/business-this-week

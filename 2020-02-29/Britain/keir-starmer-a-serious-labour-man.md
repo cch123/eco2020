@@ -29,3 +29,7 @@ Being dull will not by itself turn Sir Keir into a winner. Competence is compell
 But his seriousness may prove an asset. The world may lose patience with the larger-than-life personalities of populist leaders. A Trump-Sanders match-up for the American presidency will exhaust normal people’s appetites for bellowing and finger-jabbing. A hard Brexit next January, accompanied by queues of lorries at ports and empty shelves, may confront voters with the consequences of Mr Johnson’s “do or die” rhetoric. A coronavirus pandemic would put a premium on diligence and expertise.
 
 The last time Labour elected a leader who personified cautious competence was in 1935. Winston Churchill, Mr Johnson’s great hero, and his superior in flamboyance among other traits, dismissed Clement Attlee as a modest man with much to be modest about. Aneurin Bevan, the leader of the left, said that “things happened to him. He never did anything.” But during his 20 years as leader Attlee brought the party from the socialist wilderness into the mainstream, beat Churchill in 1945 and led one of the 20th century’s great reforming governments. History is made by colourless men just as much as colourful ones. ■
+
+## URL
+
+https://www.economist.com/britain/2020/02/27/keir-starmer-a-serious-labour-man

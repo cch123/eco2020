@@ -25,3 +25,7 @@ Ms Patel is said to have been particularly incensed by a judge’s decision on F
 Brexit adds to the pressure. Mr Johnson has ordered the Home Office to recruit an additional 20,000 police officers to reverse a trend of rising crime. The department is trying to get several complex new computer systems up and running. Coronavirus may stretch the cops further.
 
 In addition, a new immigration system needs to be ready at the end of the year, when Britain’s departure from the EU is complete. The department must also complete the registration of 3.6m EU citizens already living in Britain, and work out how to mitigate the loss of EU information-sharing systems used by police and border guards. All these elements are crucial to a smooth Brexit; getting them working in the tight timetable that the government has set would tax the patience of even the easiest of ministers. ■
+
+## URL
+
+https://www.economist.com/britain/2020/03/05/priti-patels-bust-up-at-the-home-office

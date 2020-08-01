@@ -33,3 +33,7 @@ Business is waking up to the fact that it has a part, too, and not just in Ameri
 Firms have an incentive to change. Research suggests that racial diversity is linked to higher profit margins and that the effect is growing—though it is hard to be certain which comes first, diversity or performance. It has also become clear that a vocal share of employees and customers will shun companies that do not deal with racism. Platitudinous mission statements are unlikely to provide much protection. A first step is to monitor diversity at all levels of recruitment and promotion, as do Goldman Sachs and Intel—hardly known for being sentimental.
 
 Large-scale social change is hard. Protest movements have a habit of antagonising the moderate supporters they need to succeed. Countries where the impulse for change is not harnessed to specific reforms will find that it dissipates. Yet anyone who thinks racism is too difficult to tackle might recall that just six years before George Floyd was born, interracial marriage was still illegal in 16 American states. Today about 90% of Americans support it. When enough citizens march against an injustice, they can prevail. That is the power of protest. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/06/11/the-power-of-protest-and-the-legacy-of-george-floyd

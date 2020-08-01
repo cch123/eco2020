@@ -25,3 +25,7 @@ Although more investors have started buying shares with borrowed money, the outs
 Nevertheless, it is hard to shake the feeling that the optimists might once again be getting ahead of themselves. The outlook for profitability, which ultimately should determine share prices, is still grim. Over the first five months of 2020, industrial profits were down by 19% compared with a year earlier.
 
 Most worrying is the way that the Chinese media are swinging into cheerleading mode. If past episodes are anything to go by, this is one of the telltale signs of irrational exuberance. “The clicking of the bull’s hooves is a beautiful sound for our post-virus era,” declared a front-page editorial in the China Securities Journal, a state-run newspaper, on July 6th. The Shanghai Securities, its sister publication, was less poetic but more direct in an article that was posted online on July 3rd: “Hahahahaha! It looks more and more like a bull market!” Healthy bulls need only a diet of grass. Injecting them with steroids is an invitation to trouble. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/07/07/stockmarket-mania-comes-to-china-again-can-it-last-this-time

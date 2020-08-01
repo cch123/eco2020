@@ -31,3 +31,7 @@ The economic slump means some poorer families will not send youngsters to study.
 Finally, many universities face possibly costly legal trouble. Ms Nix-Hines counted 134 lawsuits, mostly class-action ones, levied against the “whole gamut” of private and public colleges by late May, mostly as students sought the return of tuition fees, saying they received a substandard service online. Some colleges might now seek a “liability shield” to protect against future prosecutions before they reopen. For universities, it all adds up to “their greatest challenge in history”, she says. That may sound alarmist, but it is probably true.■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/united-states/2020/05/28/could-a-fifth-of-americas-colleges-really-face-the-chop

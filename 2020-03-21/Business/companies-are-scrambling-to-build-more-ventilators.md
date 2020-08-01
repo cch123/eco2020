@@ -25,3 +25,7 @@ Getinge’s boss, Mattias Perjos, doubts that the British prime minister’s pla
 Even if specialist firms add production lines to their factories, and non-specialists reconfigure theirs, one other constraint remains. Most components come from China, where virus-related stoppages reduced production of industrial equipment by 28% in January and February, year on year. China is beginning to rev up its industrial engine as new infections slow. But it will be a while before its factories are fully back in business. By the time they are, drastic measures that governments around the world are taking to slow the virus’s spread may leave ventilator-makers themselves with less breathing room to function.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter), or visit [our coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/03/19/companies-are-scrambling-to-build-more-ventilators

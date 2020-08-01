@@ -59,3 +59,7 @@ This leads to the second problem. Imaginary backstops are dangerous. If countrie
 Sign up to our fortnightly climate-change newsletter [here](https://www.economist.com//theclimateissue/)
 
 Dig deeper:Climate brief 1: [Why tackling global warming is a challenge without precedent](https://www.economist.com//schools-brief/2020/04/23/why-tackling-global-warming-is-a-challenge-without-precedent)Climate brief 2: [How modelling articulates the science of climate change](https://www.economist.com//schools-brief/2020/05/02/how-modelling-articulates-the-science-of-climate-change)Climate brief 4: [Damage from climate change will be widespread and sometimes surprising](https://www.economist.com//schools-brief/2020/05/16/damage-from-climate-change-will-be-widespread-and-sometimes-surprising)[The Economist’s climate-change hub](https://www.economist.com//climatechange)
+
+## URL
+
+https://www.economist.com/schools-brief/2020/05/09/humanitys-immense-impact-on-earths-climate-and-carbon-cycle

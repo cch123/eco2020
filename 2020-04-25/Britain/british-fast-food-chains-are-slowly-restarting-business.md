@@ -33,3 +33,7 @@ The Economist Today
 [newsletter](https://www.economist.com//newslettersignup)
 
 [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/04/25/british-fast-food-chains-are-slowly-restarting-business

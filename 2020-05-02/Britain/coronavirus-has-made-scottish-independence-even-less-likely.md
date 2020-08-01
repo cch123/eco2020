@@ -23,3 +23,7 @@ The SNP takes the view that it lost the last independence referendum because peo
 Writing in Scotland’s Herald on Sunday newspaper on April 26th, Ms Sturgeon outlined her belief that the pandemic creates an opportunity for Scots to discuss the kind of country they want in future. But nationalists should note: not once did she mention independence.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/04/30/coronavirus-has-made-scottish-independence-even-less-likely

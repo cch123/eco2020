@@ -17,3 +17,7 @@ Yet corporate activism will amount to little if tech firms and their financiers 
 Since diversity, particularly on gender, became a hot topic in the tech industry a few years ago, progress has been slow. But Ms Sykes believes things will speed up now. Customers and employees want it. And the firms have started to twig that lofty statements and charity do not suffice. Facebook’s chief diversity officer, Maxine Williams, now reports directly to Sheryl Sandberg, the firm’s number two (though not to its boss, as some would like). At Reddit, a popular discussion website, a white co-founder, Alexis Ohanian, stepped down from the board to make way for a black replacement, Michael Seibel, boss of Y Combinator, a startup school. On June 17th Apple said it would replace its diversity chief.
 
 Mr Robinson has long lamented the tech industry’s “diversity theatre”: grand statements followed by little action. But even he is somewhat hopeful. Thanks to smartphones, he says, whites can see for themselves how black people are treated—and want it to stop. He knows all too well: he has been forcibly restrained by police three times in his life, for no reason other than the colour of his skin. The last time was not far from University Avenue.■
+
+## URL
+
+https://www.economist.com/business/2020/06/20/will-silicon-valley-face-up-to-its-diversity-problem

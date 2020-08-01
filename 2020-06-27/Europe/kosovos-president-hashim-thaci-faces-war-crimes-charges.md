@@ -19,3 +19,7 @@ In 2010 a Swiss prosecutor had written a report for the Council of Europe implic
 In any case, the charges still need to be confirmed by a pre-trial judge. What is odd is the reason given by the prosecution for airing the charges before this has happened. Mr Thaci and Mr Veseli “are believed to have carried out a secret campaign” to obstruct the work of the court “to ensure they do not face justice”, the prosecutors explained.
 
 The timing of the announcement, says Agron Bajrami, who edits Kosovo’s leading daily newspaper, suggests that something was afoot that made prosecutors unveil their charges just as Mr Thaci was about to set off for Washington. The summit might have lent prestige both to Mr Trump and Mr Thaci. Not now.■
+
+## URL
+
+https://www.economist.com/europe/2020/06/27/kosovos-president-hashim-thaci-faces-war-crimes-charges

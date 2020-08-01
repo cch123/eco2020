@@ -25,3 +25,7 @@ In fact, more than ever it is clear that big tech firms act as vital utilities. 
 The companies seem to sense this danger. Their best defence is to propose a new deal to the citizens of the world. That means clear and verifiable rules on how they publish and moderate content, helping users own, control and profit from their own data; as well as fair treatment of competitors that use their platforms. This approach may even be more profitable in the long run. Today the most valuable firm in America is Microsoft, which has been revived by building a reputation for being trustworthy. It is an example that the other big tech platforms—or digital utilities, as they are about to become known—should follow. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/leaders/2020/04/04/big-techs-covid-19-opportunity

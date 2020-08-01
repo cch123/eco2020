@@ -27,3 +27,7 @@ Choosing whom to treat is a judgment of Solomon. The decision to intervene is ma
 This should be with their informed consent. But so should the treatment itself. Today children and parents are not always fully informed about the potentially grave consequences of starting on puberty blockers. Their effects are often described as largely reversible—and the effects of cross-sex hormones that are almost always taken with them are not.
 
 To ban puberty blockers in all circumstances would be unjustified. Not only would it be harsh on some children, but it would also leave the issue permanently obscured for lack of new research. However, today’s rush into treatment smacks of a fad. Many adolescents feel unhappy with the way they were made. Transitioning will be solace for some. But for others it will be a dreadful mistake. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/01/30/what-to-do-about-puberty-blockers

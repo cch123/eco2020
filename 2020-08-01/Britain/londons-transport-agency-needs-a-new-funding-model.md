@@ -23,3 +23,7 @@ The agency’s travails are a useful stick for Mr Khan’s Conservative challeng
 This is nonsense. Mr Khan’s freeze in fares cost TfL around £640m over four years, a sum dwarfed by the estimated £1.9bn drop in passenger income expected this year. Simon Kilonback, its finance director, argues that £1bn had already been taken out of operating costs in the four years before covid-19 hit. TfL’s funding is now the subject of two concurrent reviews, one overseen by the Department for Transport, the other by the Mayor of London. Mr Byford diplomatically notes that he looks forward to engaging with both.
 
 Tube tickets are already among the most pricey in Europe, suggesting there is not much room to increase fares. Both Mr Byford and Mr Kilonback want to make more innovative use of TfL’s land and generate more income from commercial development. Mr Travers expects that some of the financial hole will have to be filled by some kind of a tax on Londoners. The congestion-charging zone, in which motorists pay to drive, could perhaps be expanded. Or existing services could be mothballed. Mr Byford says that he did not take the job to oversee a reduction in passenger services. He may not have a choice.■
+
+## URL
+
+https://www.economist.com/britain/2020/08/01/londons-transport-agency-needs-a-new-funding-model

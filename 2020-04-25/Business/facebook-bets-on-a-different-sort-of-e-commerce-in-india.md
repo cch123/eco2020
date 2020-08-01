@@ -19,3 +19,7 @@ Reliance also controls a vast retail empire, with 11,300 stores from groceries t
 In a quieter way, Facebook has built a formidable presence in India through WhatsApp, which has over 400m users there (and has helped link locked-down Indians to food supplies). In February, after a long struggle, tentative approval was granted for WhatsApp to handle payments in India. If unfettered by bureaucratic hurdles, it is expected quickly to become among the largest payment-processors in the country, with all the data that comes with it.
 
 The combined efforts of WhatsApp and Jio, said Reliance’s boss, Mukesh Ambani, would enable India’s 30m kirana stores (small neighbourhood shops) to become critical components of e-commerce, able to receive orders and offer quick delivery—in contrast to the online-shopping business model that has made many local shops elsewhere in the world obsolete. It may be the deal’s biggest selling point.
+
+## URL
+
+https://www.economist.com/business/2020/04/25/facebook-bets-on-a-different-sort-of-e-commerce-in-india

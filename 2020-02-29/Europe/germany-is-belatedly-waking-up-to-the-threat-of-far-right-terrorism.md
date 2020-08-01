@@ -27,3 +27,7 @@ Protesters have found a more visible target in the Alternative for Germany (AfD)
 The AfD has also, says Mr Koehler, “dissolved social boundaries between extremist societies and the conservative right.” On one hand it pals around with radical groups like the Identitarian Movement and Pegida, an Islamophobic outfit whose bi-weekly event Mr Höcke recently addressed in Dresden. On the other, says Valentin Hacken, from Halle Gegen Rechts, a campaigning group, it drags mainstream conservatism in its direction. The Thuringian branch of the centre-right Christian Democrats recently voted with Mr Höcke to eject the state’s left-wing government, triggering a scandal that has upended German politics. All this, as Mr Diaby’s staff testify, opens the door to ideas and language that were once considered taboo.
 
 For all that, the AfD is a legal party that holds seats in all 16 of Germany’s state parliaments, plus the Bundestag. Its ideas will have to be tackled in democratic debate rather than through policing and suppression. Extremists in countries like New Zealand have proved perfectly capable of finding motivation for killing sprees without the spur of far-right parties in parliament. Germany’s history gives the country a special responsibility to tackle right-wing extremism in all its forms. But that does not isolate it from threats that look increasingly international in character. ■
+
+## URL
+
+https://www.economist.com/europe/2020/02/27/germany-is-belatedly-waking-up-to-the-threat-of-far-right-terrorism

@@ -23,3 +23,7 @@ The government is coming round to allowing tourist flights to the islands from J
 How many tourists might come? The Balearic administration reckons its islands may see 25% of the normal rate of arrivals in August, rising in September and October. Many northern Europeans may skip a foreign holiday this year, because of loss of income, to avoid risk, or because they like to plan ahead. For those who pluck up the courage, those Balearic beaches are likely to be pleasantly uncrowded and the locals unusually welcoming. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/05/23/will-tourists-come-to-sunny-spain-this-year

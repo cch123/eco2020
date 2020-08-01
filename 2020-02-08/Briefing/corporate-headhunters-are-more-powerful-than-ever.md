@@ -85,3 +85,7 @@ Growing doubts about the value headhunters bring has led some clients to take th
 Some company chairmen may wonder why they need an outside recruiter at all, when the ideal candidate is often staring them in the face. A recent Conference Board survey of executives and corporate secretaries found that 73% thought there was no need for a firm with a strong internal candidate for CEO to conduct an outside search. There appears to be no shortage of such talent within. Last year almost four-fifths of new S&P 500 bosses came from inside the firm, including that of Intel, a chipmaker. IBM recently picked the head of its cloud division to replace Ginni Rometty.
 
 Yet most large companies will continue to use search firms—even if they do not fully buy the science, or harbour other doubts. That is because external validation has a value all of its own. Recruiters can be crucial in helping build consensus when, as is so often the case, boards are split. It is as diplomats that the best headhunters earn their keep.■
+
+## URL
+
+https://www.economist.com/briefing/2020/02/06/corporate-headhunters-are-more-powerful-than-ever

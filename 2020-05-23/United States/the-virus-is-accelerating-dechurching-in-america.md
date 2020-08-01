@@ -37,3 +37,7 @@ Which churches will escape unscathed from the pandemic? Small congregations, des
 Yet despite the growth of such outfits, they do not yet provide most American Christians with religious comfort. Though a majority of churches have moved services online, many report falling levels of engagement. The longer parishioners endure a weekly struggle with tech and fail to attain the sense of connection that took them to church in the first place, the likelier they will be to give the whole thing a miss.■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/united-states/2020/05/23/the-virus-is-accelerating-dechurching-in-america

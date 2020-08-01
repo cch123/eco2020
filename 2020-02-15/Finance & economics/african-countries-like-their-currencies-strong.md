@@ -23,3 +23,7 @@ Depreciation also pushes up the cost of imported goods, including food, medicine
 Left unchecked, inflation erodes any boost to exports. Consider a 10% depreciation in the “nominal” exchange rate—that is, the rate advertised in newspapers or at a bureau de change. If domestic prices also rise by about 10% then there is no change in the “real” exchange rate, which measures relative prices of domestic and foreign goods, and that is what counts. In practice prices rarely jump that much: in 2012 IMF researchers estimated that in sub-Saharan Africa a 10% depreciation typically results in domestic price rises of only 4%. But to maintain an undervalued real exchange rate, governments would have to limit inflation by containing local demand, for example by trimming public spending, notes Abebe Aemro Selassie, the director of the IMF’s Africa department. As this is difficult, countries do not typically contemplate strategic undervaluation.
 
 Perhaps this is not a surprise. Much like tackling corruption or fixing the myriad other problems African economies face, strategic undervaluation is hard to pull off. It imposes real wage cuts on the workforce, notes Christopher Adam of Oxford University, so “you’re imposing the cost on current workers and consumers for the benefit of future generations.” No wonder politicians prefer their exchange rates strong. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/02/13/african-countries-like-their-currencies-strong

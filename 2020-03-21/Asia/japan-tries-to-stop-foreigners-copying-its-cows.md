@@ -15,3 +15,7 @@ Raising wagyu is a booming business. Japan exported 4,339 tonnes last year, wort
 Moreover, foreign cattlemen are definitely trying to muscle in on the market. In 2018 two men were caught trying to smuggle more than 100 samples of wagyu DNA into China. But trying to protect the industry by banning semen exports is like slamming the barn door after the bulls have—well, never mind. Australia, whose cattle farmers began crossbreeding Japanese and local cows in the 1980s, already exports seven times more wagyu than Japan.
 
 To purists, moreover, only purebred beef from Japan is truly worthy of the name wagyu. It is not just genetics that mark it out, but the way in which it is reared. Some Japanese cattle-farmers soak feed in beer and give their cows regular massages (relaxation, along with the marbling, is thought to keep the beef tender). Foreign versions do not “taste at all like wagyu bred in Japan”, says Thierry Voisin, a Michelin-starred chef. To Suneya Masahiko, who heads the Japan Livestock Products Export Promotion Council, foreign wagyu is “inauthentic”. He sees the legislation as a chance to introduce “proper wagyu” to the world.
+
+## URL
+
+https://www.economist.com/asia/2020/03/19/japan-tries-to-stop-foreigners-copying-its-cows

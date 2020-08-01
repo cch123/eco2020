@@ -23,3 +23,7 @@ Moreover, only Hong Kongers born before the handover in 1997 are eligible for BN
 Even if the finer points of immigration law were ironed out, Hong Kongers would be unlikely to move to Britain en masse. British nationality is best thought of as a “lifeboat”, says Emily Lau, a former legislator. “If things go wrong, you have a place to go to. But if things are okay...nobody wants to up sticks and move.” For now, Mr Johnson’s offer looks more like a geopolitical gambit than detailed immigration policy. ■
 
 Correction (June 6th 2020): An earlier version of this piece named Emily Lau as a legislator. In fact she stepped down from Legco in 2016. This has been updated.
+
+## URL
+
+https://www.economist.com/britain/2020/06/06/britain-opens-its-doors-to-hong-kongers

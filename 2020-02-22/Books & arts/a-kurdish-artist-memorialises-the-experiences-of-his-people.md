@@ -17,3 +17,7 @@ He has since become one of Kurdistan’s best-known artists; his pictures, which
 “I was shocked to see such vivid and lively works,” says Shad Abdulkarim, a collector who plans to include some of Mr Ahmed’s early paintings in the contemporary-art museum he is opening in the Kurdish city of Sulaymaniyah this year. That is one of the institutions now springing up to safeguard a culture that has helped sustain the Kurds’ stateless nation through centuries of conflict. Another is the Culture Factory, an expansive new arts hub that, with support from the Kurdistan Regional Government, is being developed in a formerly derelict tobacco factory in Sulaymaniyah. An exhibition of Mr Ahmed’s drawings opened in one of its galleries in December.
 
 “Our political situation repeats every ten years,” says Daro Ola, the show’s curator and a co-founder of the Culture Factory. Mr Ahmed’s theme “of Halabja, refugees, of fleeing home—it’s always current.” Indeed, the parallel with Turkey’s recent attacks on Kurds in Syria is stark. Mr Ola suspects that younger Kurds, tired of politics and war, need to be reminded of their history, and thinks Mr Ahmed’s pictures can help. “It’s a different experience to see artwork about this subject rather than a documentary or photos,” he reckons. For his part, Mr Ahmed now abjures colour in his art. “Black and white”, he says, “is the best language to bring the pain out.” ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/02/22/a-kurdish-artist-memorialises-the-experiences-of-his-people

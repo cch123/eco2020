@@ -41,3 +41,7 @@ Not everyone is happy to hear women loudly asking for more. “There were proble
 Men’s attitudes have not caught up with women’s demands. When men marry, they have more traditional expectations of gender roles than women. Even in families where both partners work, women spend more than three hours a day on housework and child care compared with only half an hour for men. Men spend nine hours a day at the office, against seven hours for women.
 
 To many young women, change still feels frustratingly slow. But the fact that inequality is now being openly discussed is progress in itself, says Kim Ji-Yoon, a political talk-show host. “The single most important achievement of the past couple of years is that these issues are now on the agenda.” It is becoming easier to make different choices, says Ms Jung. “The influence of feminism is increasing,” she says. “Young people no longer want these conservative traditions, and women are free to reject them.” That increasing sense of possibility is not confined to gender roles. It is also making itself felt in politics. ■
+
+## URL
+
+https://www.economist.com/special-report/2020/04/08/south-korean-women-are-fighting-to-be-heard

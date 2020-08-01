@@ -35,3 +35,7 @@ Besides exposing old schemes, the pandemic is likely to give rise to new ones. W
 Bruce Dorris, head of the Association of Certified Fraud Examiners, the world’s largest anti-fraud outfit, says the effects of covid-19 look like “a perfect storm for fraud”. It may engender everything from iffy accounting to stimulus-linked scams as thousands of firms—including bogus applicants—hustle for help. One fraud investigator points to private-equity-owned firms as potential targets. “There are lots of them, they are highly leveraged and they may not qualify for bail-outs because they have deep-pocketed sponsors,” he says. That increases the temptation to resort to unseemly practices. The ebbing tide is likely to reveal plenty of corporate nudity. That will not stop some businesses from taking up naturism.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/business/2020/04/18/the-economic-crisis-will-expose-a-decades-worth-of-corporate-fraud

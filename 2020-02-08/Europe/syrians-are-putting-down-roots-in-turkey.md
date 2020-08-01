@@ -23,3 +23,7 @@ Desperate to avoid another wave of refugees, Mr Erdogan’s government has pledg
 The stand-off has already strained Turkey’s relations with Russia, which backs the regime, but which Mr Erdogan has courted as a strategic partner. During a visit to Ukraine on February 3rd, Mr Erdogan accused the Russians of negligence. He said Turkey did not recognise Russia’s annexation of Crimea, which he correctly called illegitimate. He also greeted Ukrainian troops with a nationalist slogan that irks the Kremlin.
 
 Yet there is a limit to how far Turkey’s leader can go. Confrontation with the Syrian regime in Idlib is manageable. Confrontation with Russia is dangerous. After Turkey shot down a Russian warplane in late 2015, Moscow imposed heavy sanctions and cut Turkey off from its proxies in Syria. It was only after Mr Erdogan apologised and made a series of concessions to Russia that the rapprochement between the two countries began. Turkey will try to stop the offensive in Idlib. But it will probably not risk conflict with Russia. And indeed, Russia does not want a war with Turkey, a NATO member. Meanwhile, Syria may have to brace for more bloodletting, and Reyhanli for more refugees. ■
+
+## URL
+
+https://www.economist.com/europe/2020/02/06/syrians-are-putting-down-roots-in-turkey

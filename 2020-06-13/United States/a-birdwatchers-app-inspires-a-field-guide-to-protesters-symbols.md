@@ -19,3 +19,7 @@ Mr Jhaveri, an amateur birdwatcher, borrowed features from Merlin Bird ID, a twi
 The developers stress that someone displaying a symbol does not necessarily subscribe to the beliefs associated with it. A Hawaiian shirt may indicate support for far-right extremism, but is more often evidence of nothing more serious than a crime against fashion. The potential for misuse and misunderstanding means that at present the app is available only to journalists. Perhaps that is just as well. During a field test in London, your correspondent’s children were identified as possible white-supremacists after VizPol mistook Peppa Pig, a cartoon character of unknown political leanings, for Pepe the Frog, an alt-right mascot.■
 
 Correction (June 17th 2020): A previous version of this article stated that VizPol had already learned the slogan "ACAB". It is due to learn this phrase when it is next updated.
+
+## URL
+
+https://www.economist.com/united-states/2020/06/13/a-birdwatchers-app-inspires-a-field-guide-to-protesters-symbols

@@ -33,3 +33,7 @@ The peg’s downfall may be imaginable. But is it probable? One place to look is
 Bearish bets became more popular last year during the worst of the protests. But the speculation was not as fierce as it had been in 2016, after China clumsily devalued the yuan. Capital outflows picked up in the third quarter of last year, diminishing Hong Kong’s foreign-exchange reserves. But reserves have stabilised since, helped by a truce in the trade war between America and China. Hong-Kong dollar deposits are lower than they were six months ago, but still higher than they were a year ago.
 
 Any signs of sustained capital outflows are, then, “embryonic”, says Alicia Garcia Herrero of Natixis, a bank. If capital is leaving, its speed of departure is reminiscent of one of Hong Kong’s quaint trams, not one of its bullet trains.■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/02/06/just-how-stable-is-hong-kongs-economy

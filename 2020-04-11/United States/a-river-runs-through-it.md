@@ -33,3 +33,7 @@ Anchored in local topography, hydrology and culture, it has meanwhile retained l
 It can be frustrating, too. After several hours flogging the river, Lexington had caught nothing. His son had meanwhile landed a plump brown trout. Fishing always sorts the men from the boys.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/united-states/2020/04/11/a-river-runs-through-it

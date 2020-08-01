@@ -59,3 +59,7 @@ ROD TIPPLECambridge, Cambridgeshire
 I recall that the gifted brother of Sherlock Holmes, Mycroft, is described in one affair as not just being in the government, but, occasionally, he is the government. Mycroft discreetly handles policy in every field, not always successfully, but with the highest loyalty and patriotism. And when taken into his confidence, Sherlock supports him completely. What are Mr Cummings’s credentials?
 
 BRYAN STONEEttingen, Switzerland
+
+## URL
+
+https://www.economist.com/letters/2020/01/18/letters-to-the-editor

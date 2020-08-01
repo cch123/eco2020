@@ -23,3 +23,7 @@ Of bigger import is a deal signed on January 27th with several factions of the N
 The deal is also good for Mr Modi. Government sources reckon the Bodo insurgency has left some 4,000 dead since 1987, including 88 killed in a series of bomb blasts in the state capital, Guwahati, in 2008. The violence also rendered tens of thousands of non-Bodos homeless as waves of refugees fled repeated massacres that targeted Bengali-speaking Muslim farmers in the floodplains of the Brahmaputra River and rival tribal groups in the hills. Aside from putting a stop to such mayhem, the deal will almost certainly prompt a large vote swing among the small but influential Bodo community towards Mr Modi’s Bharatiya Janata Party (BJP). Its hold in Assam has weakened in recent months due to protests against a controversial new citizenship law. With state elections looming in 2021, the BJP is resorting to “vote-bank” politics.
 
 Of course, the Bodoland deal is clearly not so good for non-Bodos who, despite the insurgents’ efforts at ethnic cleansing, constitute up to two-thirds of the population of the Bodoland region as currently defined. Naba Kumar Sarania, who represents the region in the national parliament, told the Hindu newspaper: “We are not against the peace process, but this accord has ignored the interests of the other ethnic communities in the area.” ■
+
+## URL
+
+https://www.economist.com/asia/2020/01/30/a-restive-corner-of-india-is-becoming-more-peaceful

@@ -21,3 +21,7 @@ Kew Gardens, a popular spot in a posh suburb of London, is closed, but Kew’s g
 Gardens are so central to the lockdown experience that they have become a political issue. They are regularly cited to explain how the effects of the pandemic are unevenly felt. When councils began to close parks, politicians protested that tower-block dwellers would be deprived of their only green space. Boris Johnson, who spent much of his campaign for the Tory leadership in garden centres, is likely to heed pleas from plant-sellers to be allowed to reopen. More than two-thirds of growers’ sales are in the spring.
 
 For now, the Kew Gardener, a nearby plant shop, is only taking orders online. But that has not stopped hopeful gardeners dropping by. Its owner, Daniel Slack, says one local asked him to pass a plant through the railings. He is not the only one looking for green shoots. ■
+
+## URL
+
+https://www.economist.com/britain/2020/05/02/a-nation-of-gardeners

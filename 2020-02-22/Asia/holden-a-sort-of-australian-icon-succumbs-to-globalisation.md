@@ -19,3 +19,7 @@ Holden had already closed its last factory in Australia in 2017; its vehicles ar
 The industry survived so long only because successive governments refuelled it with subsidies. GM guzzled about A$2bn ($1.3bn) before the handouts were cut by Mr Morrison’s party in 2013. Rightly so, according to a report released the following year by the Productivity Commission. It found no evidence that they had helped the wider economy, concluding that the “costs of such assistance outweigh the benefits”.
 
 Manufacturing’s share of Australia’s economy peaked in the 1960s, in Holden’s heyday. It now accounts for just under 6% of GDP, well below the level of most other rich countries. But that has not stopped the Australian economy—and local wages—from growing faster than their peers. ■
+
+## URL
+
+https://www.economist.com/asia/2020/02/20/holden-a-sort-of-australian-icon-succumbs-to-globalisation

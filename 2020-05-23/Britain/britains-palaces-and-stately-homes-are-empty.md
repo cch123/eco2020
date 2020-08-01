@@ -21,3 +21,7 @@ And for those who still own their country pile and need cash, covid-19 is a bonu
 It isn’t just the residents who are enjoying the shutdown. Dominic Hare, chief executive of Blenheim Palace, the Duke of Marlborough’s home, says that in the absence of tourists, locals have been making the grounds their own, walking their dogs and watching the lambing. “There’s an awful lot of families in the nearby area”, says Mr Hare, “for whom suddenly it becomes their personal oasis.” In this world turned upside down, Mr Dillamore finds his position as pseudo-aristocrat somewhat disconcerting. “I’m just waiting for someone to bring the guillotine out.” ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/05/23/britains-palaces-and-stately-homes-are-empty

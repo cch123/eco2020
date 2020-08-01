@@ -23,3 +23,7 @@ The proposed advertising ban is supported by more than two-thirds of people, acc
 The plans were welcomed by public-health experts, with the proviso that they are unlikely to make a huge difference to British waistlines. Although a Cochrane review of nutritional labelling found that it may have a small impact on food consumption, it noted the evidence was weak; two more recent studies by researchers at the University of Cambridge found that posting calorie counts in workplace cafeterias made no difference to eating habits.
 
 Children are watching half as much broadcast commercial television as they were a decade ago, notes Enders Analysis, a media-research firm. Online advertising is harder to regulate, because YouTube, unlike a broadcaster, is not legally responsible for the adverts it carries. As the committee of 1904 noted, they were fighting “popular taste, which it may take generations of educative influence to correct.” ■
+
+## URL
+
+https://www.economist.com/britain/2020/08/01/boris-johnsons-plans-for-a-fitter-nation

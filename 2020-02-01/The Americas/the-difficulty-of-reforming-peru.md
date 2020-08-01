@@ -25,3 +25,7 @@ Perhaps, too, the flexible nature of Peru’s political culture provides resilie
 The government has already set up a new body, picked on merit, to oversee judicial appointments. Several measures approved by the outgoing congress are aimed at cleaning up, and solidifying, political parties. Some are useful. They include tightening up rules on campaign finance, steps to cut the cost of politics and, from 2021, the shutting down of parties that fail to cross the 5% threshold. Pending are a tighter definition of parliamentary immunity and, perhaps, the addition of a senate to Peru’s small single-chamber legislature.
 
 The election offers few pointers to the 2021 presidential contest. “Everyone is weak and anything can happen,” says Alberto Vergara, a political scientist. By championing the fight against corruption, Mr Vizcarra has achieved the rare feat for a Peruvian president of remaining popular. Now more may be needed. The government is trying to improve health care and rural roads but is dogged by union pressures to raise public-sector salaries and business opposition to higher taxes (which raise revenue of just 14% of GDP). A new political system may yet emerge. But if Peru is to continue to enjoy economic growth and to avoid a Chilean-style social explosion it also needs a stronger and more effective state.
+
+## URL
+
+https://www.economist.com/the-americas/2020/01/30/the-difficulty-of-reforming-peru

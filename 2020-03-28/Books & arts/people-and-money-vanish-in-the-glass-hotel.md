@@ -21,3 +21,7 @@ There she adjusts to her new role as a trophy wife in “the kingdom of money”
 “The Glass Hotel” is a sprawling, immersive book. In places it is disorientating, as the narrative chops between timelines and perspectives. Minor characters, such as Vincent’s half-brother, drift in and out. And yet the novel’s scope and brimming vitality are also its strengths. Vincent’s encounters with the plutocracy are memorably realised; so are Alkaitis’s concoction of a “counterlife” in his prison cell and his employees’ struggles to save their skins.
 
 In the end, all the stories are drawn together by a single question: can you ever escape what you have done in the past, and what has been done to you? “There are so many ways to haunt a person,” the author writes, “or a life.”
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/03/26/people-and-money-vanish-in-the-glass-hotel

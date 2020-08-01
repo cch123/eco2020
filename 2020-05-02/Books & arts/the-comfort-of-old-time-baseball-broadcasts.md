@@ -19,3 +19,7 @@ Sports-lovers who favour action over finesse often bemoan the longueurs of baseb
 Returning to classic games also provides fans with an oral history of Major League Baseball, and, obliquely, of the cities it is played in, even of America itself. Listening to Jackie Robinson (pictured), a pathbreaking African-American star, hit a single to left field for the Brooklyn Dodgers in 1951 is a reminder of earthly transience (the Dodgers moved from New York to Los Angeles in 1958), as well as of the racism that has been endemic to the country and its pastimes.
 
 While audio from such early games is gravelly compared with today’s, some things haven’t changed at all. Announcers from 1940 and 2020 alike fall into the same rhythms: short, staccato sentences when the ball is in play; crescendos when it is hit; drawn-out vowels when home runs look certain and guttural screams from the crowd when victory or defeat looms. Unlike Whitman, fans today may not yet be able to leave their close rooms. But thanks to radio and the internet, baseball—in all its meandering, heart-fluttering glory—is still within their reach. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/05/02/the-comfort-of-old-time-baseball-broadcasts

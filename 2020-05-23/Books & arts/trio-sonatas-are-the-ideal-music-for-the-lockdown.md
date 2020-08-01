@@ -25,3 +25,7 @@ Ms Podger compares the instruments in a trio sonata to contrasting but co-operat
 For a playlist, go to [economist.com/triosonatas](https://www.economist.com/https://economist.com/triosonatas)
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/05/23/trio-sonatas-are-the-ideal-music-for-the-lockdown

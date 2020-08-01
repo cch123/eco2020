@@ -21,3 +21,7 @@ Western security officials had hoped it could act as a bulwark to stop the insur
 Stopping the jihadists will require not just troops, but also schools, economic development and accountable governments. Countries in the Sahel are not helped by climate and topography. Their people are poorer, less educated and have stubbornly high fertility rates. Just as countries such as Kenya and Ethiopia are slowing their population growth, women in countries such as Niger continue to have more than seven children each. The region’s rapidly deteriorating security is a warning to the continent as a whole of what may happen if its growing numbers of young people are not educated or are unable to find jobs at home or abroad.
 
 The Islamist jihad has caused more than 1,000 schools to close across west Africa, leaving almost 2m children out of school. In one village of 6,000 people outside the city of Maiduguri in north-eastern Nigeria, near the border with Niger, the only education that the village’s 2,000 children get is learning to recite the Koran. There is not a book in sight, just the rhythmic chanting of children rising into the afternoon heat.
+
+## URL
+
+https://www.economist.com/special-report/2020/03/26/parts-of-africa-will-remain-unstable-for-decades

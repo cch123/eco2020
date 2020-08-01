@@ -21,3 +21,7 @@ The success of past vaccine programmes may have bred complacency. Fear also play
 The ongoing immunisation drive will probably control this polio outbreak. But completing broader health-care reforms would make a future one much less likely. Almost three decades ago the central government devolved many health services to local authorities. These days services are supplied by a fragmented mix of private and public providers, which lack oversight and accountability. Many rural areas struggle to attract doctors.
 
 In 2019 President Rodrigo Duterte signed into law a Universal Health Care Bill, which automatically enrolls all Filipinos in the national insurance scheme, so as to give coverage to any who still lack it. The law also mandated better oversight of care providers and the more systematic collection of health data. A new government body is being created to assess the safety and efficacy of devices, procedures and, helpfully, vaccinations. All this is expected to cost 257bn pesos ($5bn) in the first year. It is worth a shot.■
+
+## URL
+
+https://www.economist.com/asia/2020/01/09/a-rare-outbreak-of-polio-reflects-the-philippines-poor-health-care

@@ -29,3 +29,7 @@ There are better ways to spread the cash. As Mr Jones notes, the regions that cu
 Doubling the research budget provides a lot of money to experiment with. A number of existing schemes are likely to grow. UKRI’s drearily-named “Strength in Places” fund, a £236m pot which is disbursed on the basis of academic excellence and economic considerations, could easily be beefed up. Another likely beneficiary, despite a decidedly mixed record so far, is the “catapult” programme. Based on Germany’s Fraunhofer Institutes, albeit with considerably smaller budgets, Catapults require a mixture of business, university and government investment. The most successful one—the AMRC in Sheffield—is home to the local university, as well as Boeing, Rolls-Royce and McLaren Automotive.
 
 Putting more money into applied research outside the golden triangle is unlikely to supercharge Britain’s ability to win Nobel prizes or suck in the world’s top scientists. But done the right way, it might just fulfil other ambitions more relevant to voters, and thus to the government’s re-election chances. ■
+
+## URL
+
+https://www.economist.com/britain/2020/02/27/britains-great-research-bonanza

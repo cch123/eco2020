@@ -23,3 +23,7 @@ Some leaders trust in God to stop the virus. John Magufuli of Tanzania insists t
 On the plus side, no African president has recommended injections of disinfectant or suggested that scientists investigate whether doses of ultraviolet light inside the body can kill the virus. But bad advice from clueless Big Men may still cost lives. It will also undermine commerce. On April 29th it was reported that the implementation of the African Continental Free Trade Agreement was being postponed from the scheduled date of July 1st. If some countries fail to control the virus there could be further delays. That would then make it harder for African countries to sell goods to one another—including not only herbal remedies but also useful products. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/04/30/some-african-politicians-risk-spreading-covid-through-quackery

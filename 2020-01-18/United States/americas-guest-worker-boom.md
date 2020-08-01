@@ -27,3 +27,7 @@ The issue remains fraught. But there have been signs of progress. In December a 
 It would codify a rule-change proposed by the Department of Labour over the summer that would make the visa-application process easier, addressing some employers’ concerns and potentially expanding the programme further. It also would offer a path to legal status for potentially thousands of unauthorised immigrants. Those who have worked in agriculture for at least 180 days in the past two years could apply for “certified agricultural worker” status. Those who have worked longer could eventually apply for green cards.
 
 The bill’s fate is less certain in the Republican-controlled Senate. The guest-worker programme is far from perfect. But a policy that encourages legal low-skilled migration and pleases both businesses and workers is certainly worth debating.■
+
+## URL
+
+https://www.economist.com/united-states/2020/01/18/americas-guest-worker-boom

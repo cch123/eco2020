@@ -53,3 +53,7 @@ Annexation may limit the Gulf states’ friendship with Israel. But their common
 Perhaps the most telling bit of Mr Otaiba’s opinion piece was not its text but its headline: “Annexation or Normalisation”. For decades Arab states said Israel would enjoy friendly relations only if it granted the Palestinians a state. The choice was occupation or normalisation. But Mr Otaiba made almost no mention of Palestinian independence. In his framing, Israel must only preserve the status quo. Some on the Israeli right count that as a victory. “They used to criticise us over the status quo,” says Gideon Sa’ar, a lawmaker from Mr Netanyahu’s Likud party. “Now they are criticising us for changing the status quo.”
 
 Still, there is little to celebrate. The prospects of renewed talks between Israel and the Palestinians are dim. Israel’s leaders are too hawkish and nationalist, Palestine’s too divided and illegitimate. Mr Trump’s plan was dead on arrival. After three decades of failure, the bar is low indeed: the world wants only to sustain a situation it has long called unsustainable. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/06/25/israel-weighs-the-future-of-the-west-bank

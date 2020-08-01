@@ -17,3 +17,7 @@ If that was the reality then, things are quite different now. A statement from t
 What is striking about the diaspora is their enduring reverence for “Mike”. Part of this is a recollection of an exciting time, when visiting entrepreneurs would pitch madcap ideas: a 24-hour-news channel; a casino with a fake volcano. If you had an idea and a sliver of equity, Mike and his team would raise the necessary debt. It is also—perhaps mostly—a form of gratitude for a unique education in markets and in the importance of understanding a company’s capital structure, its mix of debt and equity finance. The skills acquired in the buy-out boom of the 1980s are perfectly tailored for today’s boom in private equity. The diaspora owe their lucrative careers to what they learned from Mike.
 
 The question naturally arises as to why a pardon could possibly matter now. Mr Milken pleaded guilty. He served time. So central was he to the network of issuers and buyers in the junk-bond market that it would seem a minor miracle if he had not transgressed some aspect of securities law. Mr Milken is already applauded for his philanthropy. He is now 73. An official exoneration may permit a kinder judgment of his legacy: as a financier who widened access to corporate credit. When Wall Street sneered at “junk bonds, junk people”, Mr Milken would remind his apostles that anything AAA-rated can only go down. But anything rated as junk can always improve its standing. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/02/20/michael-milken-receives-a-presidential-pardon

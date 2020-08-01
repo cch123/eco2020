@@ -29,3 +29,7 @@ Yet exciting people with talk of revolution and then leading them into political
 Her message and style seem to be more palatable to a broader swathe of Democrats. Barack Obama recently warned that America “is less revolutionary than it is interested in improvement…the average American doesn’t think that we have to completely tear down the system.” Mr Sanders and his supporters may disagree. But rousing those least likely to vote while alienating much of his own party—not to mention the independents and disaffected Republicans whom Democrats need to retake the White House—is a strategy with unparalleled downside risk.■
 
 Dig deeper:Sign up and subscribe to Checks and Balance, our new [newsletter](https://www.economist.com//checksandbalance/) and [podcast](https://www.economist.com//podcasts/2020/04/24/checks-and-balance-our-weekly-podcast-on-american-politics) on American politics
+
+## URL
+
+https://www.economist.com/united-states/2020/02/01/assessing-elizabeth-warren-and-bernie-sanders-in-iowa

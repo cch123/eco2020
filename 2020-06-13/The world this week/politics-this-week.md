@@ -49,3 +49,7 @@ India reported a surge in infections; it now has the world’s fifth-highest num
 All workers in construction and manufacturing were allowed to return to work in New York City, and shoppers could pick up goods they ordered from stores.
 
 Scientists in New Zealand proclaimed that the country was rid of covid-19 following a two-week absence of new cases. The country’s borders remain closed to foreigners.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/06/13/politics-this-week

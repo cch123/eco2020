@@ -23,3 +23,7 @@ The new power stations will not be put to full use. They will face fierce compet
 That would be a problem for power-firms’ balance sheets. But the world may also suffer. China’s targets to reduce carbon emissions remain too low. The economic blow it has suffered as a result of covid-19 will deter it from making new pledges that could restrain its freedom to boost growth with the help of large and dirty building-projects. The glut of underused, debt-laden power stations could further weaken China’s emissions-cutting resolve.
 
 By building so many new coal-fired plants, China has wasted money that could have been spent more greenly, and given vested interests more reason to try to delay its energy transition. The big state-owned firms that operate coal-burning generators are also being relied upon by the government to produce much of China’s renewable energy, notes Lauri Myllyvirta of the Helsinki-based Centre for Research on Energy and Clean Air. But they would rather not hasten the closure of carbon-spewing power stations that they had intended to keep working for a good three decades. ■
+
+## URL
+
+https://www.economist.com/china/2020/05/21/a-glut-of-new-coal-fired-power-stations-endangers-chinas-green-ambitions

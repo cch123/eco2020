@@ -25,3 +25,7 @@ Mr Netanyahu, who relies on the support of ultra-Orthodox parties, was reluctant
 For decades the ultra-Orthodox have been allowed to run their own affairs, with government funding. Most neither serve in the army nor work. Many Israelis resent this. As the ultra-Orthodox begin using up scarce medical supplies, more questions will surely be asked about their unique position in Israeli society. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/04/04/why-covid-19-has-spread-among-israels-ultra-orthodox

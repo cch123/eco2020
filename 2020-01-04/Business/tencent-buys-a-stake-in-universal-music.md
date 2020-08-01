@@ -25,3 +25,7 @@ That rush of new entrants will bring new customers, helping the market grow. It 
 It also fits with Tencent’s taste for investing in other firms, and with its growing presence in the Western entertainment industry. The firm is best known for WeChat, a multi-purpose chat, payment and social media app with over a billion users. But it has stakes in hundreds of smaller firms. It is the world’s biggest video-game company: revenues from gaming accounted for around two-fifths of its 2018 total of 313bn yuan ($47bn). It owns Riot Games, the makers of “League of Legends”, an e-sports title whose biggest matches attract tens of millions of viewers. It has a controlling stake in Supercell, the Finnish studio behind the hit mobile game “Clash of Clans”. And it has a 40% share in Epic Games, an American firm whose offerings include “Fortnite”, a popular online shooter. Epic Games was valued at nearly $15bn in 2018.
 
 Tencent Music Entertainment Group, the firm’s streaming subsidiary, was listed on New York’s stock exchange in 2018. Its film-production company was involved with films such as “Wonder Woman” and “Terminator: Dark Fate”, the sixth instalment in the interminable “Terminator” franchise. The Universal deal may likewise not be the end of the story. Vivendi has given Tencent the option to double its stake at the same price, and has hinted that it might sell even more of Universal to the Chinese giant in future. Will Tencent be back? ■
+
+## URL
+
+https://www.economist.com/business/2020/01/02/tencent-buys-a-stake-in-universal-music

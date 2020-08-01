@@ -29,3 +29,7 @@ Blue Sky Rescue has several party cells embedded within it. In February the Peop
 This marked a step forward from 2008, when the government was startled by the scale and rapidity of the non-party response to an earthquake in Sichuan province that killed about 70,000 people. “Their thinking then was, ‘Who are you and why are you doing this?’” says Zhang Xuemei of the Sichuan Academy of Social Sciences. “But now they understand what kind of role NGOs and volunteers can play.”
 
 Even in need, officials are twitchy. After the outbreak in Wuhan, the authorities there issued orders—later ignored—that donations be disbursed only by a handful of official organisations. According to Holly Snape of the University of Glasgow, their edicts initially caused “critical bottlenecks”. The government may learn lessons, but it will keep NGOs on a tight rein. Officials nationwide are striving for “complete coverage” of local NGOs by the party, meaning all should have links with it. Hebei, the province surrounding Beijing, says it plans to achieve this by year-end. The pandemic is unlikely to get in the way. ■
+
+## URL
+
+https://www.economist.com/china/2020/07/09/ngos-in-china-have-helped-the-government-provide-covid-related-relief

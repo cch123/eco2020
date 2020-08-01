@@ -21,3 +21,7 @@ Tailoring ads to all tastes has limits. Too many sponsors may hurt a team’s br
 Still, virtual hoardings are here to stay. In the future, says James Gambrell, boss of Supponor, a supplier of the technology, sponsors could target an audience based on its demographic profile or the device or platform of choice (owners of Apple’s gadgets are generally better-off than those using Android devices).
 
 For the time being, it can help clubs keep controversial partners while placating an irate public. Last week British bookmakers, which bankroll half of the teams in the Premier League, announced that they are considering withdrawing from advertising on the side of the pitch after vocal criticism from anti-gambling campaigners. In France Lovebet, a big gambling company that sponsors Paris Saint-Germain, uses virtual advertising to reach viewers in Asia, where placing bets is legal and popular, but not in Europe, where it is restricted in some markets. This can spare clubs plenty of jurisdictional headaches—if not blushes for blunders like Mr Marçal’s.■
+
+## URL
+
+https://www.economist.com/business/2020/02/15/admen-have-a-clever-new-way-to-trick-sports-fans

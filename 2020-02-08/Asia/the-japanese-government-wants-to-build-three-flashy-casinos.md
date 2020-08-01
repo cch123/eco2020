@@ -19,3 +19,7 @@ The response from local government has also been mixed. Two prefectures seen as 
 Casino operators are, unsurprisingly, enthusiastic. The resorts could take in ¥1.75trn a year, according to the more bullish projections. Some of the biggest names in the business, such as Las Vegas Sands and MGM Resorts, are keen. President Donald Trump lobbied Mr Abe on behalf of American casino firms at a meeting in 2017, according to ProPublica, an investigative website. Sheldon Adelson, the boss of Las Vegas Sands, has also buttonholed him.
 
 But the government and casino operators seem to have different ideas about how the resorts should operate. Officials talk about strenuous measures to prevent people from losing their shirts, such as a ban on cash machines on the premises, a limit on the number of visits allowed per month, and so on. A maximum of 3% of the floorspace of each resort will be devoted to gambling. Some local politicians have suggested that only foreigners should be allowed to bet. The developers, however, will want to lure as many of Japan’s well-heeled pensioners as it can, and persuade them to gamble freely. No wonder the government has not yet said on what basis it will award the three licences, or when. ■
+
+## URL
+
+https://www.economist.com/asia/2020/02/06/the-japanese-government-wants-to-build-three-flashy-casinos

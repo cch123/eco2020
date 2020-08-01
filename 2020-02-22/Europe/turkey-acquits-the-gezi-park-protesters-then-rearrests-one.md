@@ -17,3 +17,7 @@ In the protest case, the prosecution wanted Mr Kavala sentenced to life for alle
 Mr Kavala’s acquittal and re-arrest suggest a governmental power struggle. But such decisions “would never be made without President Erdogan’s consent”, says Garo Paylan, a leftist MP. The president says Mr Kavala takes orders from “the famous Hungarian Jew”, referring to his work with the Open Society Foundations founded by George Soros.
 
 Gezi Park still stands, a scruffy patch of grass and trees. But Turkish civil society has melted away, as has any appetite for street protests. Seven years ago, the construction of a giant mosque near the park, one of Mr Erdogan’s pet projects, was a divisive issue. The mosque has since gone up without a whimper. Ahead of his acquittal, Yigit Aksakoglu, one of Mr Kavala’s co-defendants, described how the surreal trial had upended their lives. “I feel like I’ve been vacuumed into a movie,” he said. “Damn the park, let them build whatever they want to build.”
+
+## URL
+
+https://www.economist.com/europe/2020/02/20/turkey-acquits-the-gezi-park-protesters-then-rearrests-one

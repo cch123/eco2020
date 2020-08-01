@@ -25,3 +25,7 @@ Still, when people engage in risky acts, accidents happen. Just ask any athlete.
 When evidence is heard in court, the verdict largely depends on whom juries believe. What jurors believe depends on what they find plausible. In recent years public awareness and acceptance of diverse sexual practices has increased. But male violence against women has not gone away.
 
 The worry is that a murderer could deliberately make the crime look like “rough sex” gone wrong. Even if false, his story could be consistent with the physical evidence. A murder charge requires proving that someone intended to kill or seriously harm the victim. So much of the evidence hinges on accounts of intention and consent. “He said, she said” cases are notoriously tricky. In a concerning number of trials, it’s a case of he said, she’s dead. ■
+
+## URL
+
+https://www.economist.com/the-americas/2020/08/01/canadian-courts-test-the-rough-sex-defence

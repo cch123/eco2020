@@ -31,3 +31,7 @@ This special report will argue that since the second world war, governments acro
 Happily, they are at last starting to recognise the damage caused by these policies. In Britain the government now openly says that the housing market is “broken”. Scott Morrison, Australia’s prime minister, has pledged to make housing more affordable. Canada’s recent election was fought partly on who would do more to rein in the country’s spiralling housing costs. Carrie Lam, Hong Kong’s chief executive, has put housing front and centre in her response to the protesters.
 
 They need to learn from places where the housing market broadly works—and those places do exist. As this report shows, flexible planning systems, appropriate taxation and financial regulation can turn housing into a force for social and economic stability. Singapore’s public-housing system helps improve social inclusion; mortgage finance in Germany helped the country avoid the worst of the 2008-10 crisis; Switzerland’s planning system goes a long way to explaining why populism has so far not taken off there. Governments across the world need to act decisively, and without delay. Nothing less than the world’s economic and political stability is at stake. ■
+
+## URL
+
+https://www.economist.com/special-report/2020/01/16/housing-is-at-the-root-of-many-of-the-rich-worlds-problems

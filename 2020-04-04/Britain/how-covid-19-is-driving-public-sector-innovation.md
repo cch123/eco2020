@@ -33,3 +33,7 @@ There are also problems in the health system, such as a lack protective equipmen
 Dominic Cummings, the prime minister’s chief aide, and an advocate of revolution in government, has written of how a “beneficial crisis” can drive change. It seems improbable that even he would have chosen this route to reform. But as Nigel Edwards, chief executive of the Nuffield Trust, a think-tank, notes: “When we review all of this...we’ll find that some of the processes and systems that got in the way were not all that necessary.” Epidemiologists will undoubtedly learn lessons from the outbreak. So should Whitehall.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/04/03/how-covid-19-is-driving-public-sector-innovation

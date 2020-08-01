@@ -31,3 +31,7 @@ Yet Sudan’s willingness to bring in the ICC will not alone fix the court’s t
 The fight against impunity in Africa faces other problems, too. The ICC in practice is only able to try political losers, not those in power. It risks being used as a tool by the mighty to remove rivals while remaining untouched themselves. One lesson some leaders will take, says Phil Clark of the School of Oriental and African Studies in London, is “don’t lose power.”
 
 The prosecution of Mr Bashir might deter other despots from slaughtering inconvenient ethnic groups. But only if it succeeds. The court has had more cases collapse before or during trial than it has completed. The kind of people it goes after are the kind who terrify witnesses. For years, Mr Bashir did everything he could to hinder the work of the ICC. And even now, to have a chance of a successful trial, the court first needs to get its hands on him. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/02/13/omar-al-bashir-sudans-ex-dictator-could-at-last-face-justice

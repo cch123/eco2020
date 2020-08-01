@@ -31,3 +31,7 @@ The trust Mr Lacalle Pou enjoys may drop if the recession caused by covid-19 is 
 The president is putting Uruguay back to work. Nine-tenths of businesses have reopened. On June 1st the government began reopening schools, with sample testing of teachers and students. If that reveals an outbreak, they will shut again. “Uruguay looks like the exception in Latin America,” with an economy that can rebound from the pandemic, says Aldo Lema, an economist. If it can contain covid-19 at the same time, its neighbours will look to the one-time buffer state for lessons. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/the-americas/2020/06/18/how-uruguay-has-coped-with-covid-19

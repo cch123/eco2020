@@ -31,3 +31,7 @@ Mexico’s populist president, Andrés Manuel López Obrador, is doing little to
 Openness on the border was tested before Mr Trump and covid-19 came along. After the terrorist attacks of September 11th 2001, the United States enacted stringent inspections. The delays they caused threatened such economic damage that they “would [have] deliver[ed] to al-Qaeda the victory that it sought” had they been kept, says Alan Bersin, a former boss of United States Customs and Border Protection. The two countries fixed that by waving through “low-risk” workers with registered fingerprints, which freed border agents to watch for terrorists. That will not avert panic during a pandemic. If the disease becomes rampant in Mexico, Mr Trump could slam shut today’s semi-open border.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/the-americas/2020/03/26/mexico-and-the-united-states-shut-their-border-sort-of

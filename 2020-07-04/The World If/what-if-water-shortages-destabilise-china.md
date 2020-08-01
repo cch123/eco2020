@@ -51,3 +51,7 @@ To the central government, it is a special provocation that the leaked Xiong’a
 Such expressions of grievance may seem somewhat arcane. But in a closely watched surveillance state those voicing them are taking real risks, and their anger should not be ignored. The painfully unequal distribution of water in modern China is reawakening intra-regional resentments not seen for more than a century. Outsiders have spent years speculating what China might do about climate change. Now they are asking: what might climate change do to China? ■
 
 For more coverage of climate change, register for The Climate Issue, our fortnightly [newsletter](https://www.economist.com//theclimateissue/), or visit our [climate-change hub](https://www.economist.com//news/2020/04/24/the-economists-coverage-of-climate-change)
+
+## URL
+
+https://www.economist.com/the-world-if/2020/07/04/what-if-water-shortages-destabilise-china

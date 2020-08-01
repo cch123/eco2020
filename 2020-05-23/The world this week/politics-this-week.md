@@ -49,3 +49,7 @@ Donald Trump said he was taking hydroxychloroquine, a malaria drug, to ward off 
 America’s House of Representatives is to allow remote voting for the first time.
 
 Captain Tom Moore, a war veteran who walked laps of his garden ahead of his 100th birthday to raise money for Britain’s health service, was awarded a knighthood. Captain Tom’s quest went viral, raising £32m ($39m), and cheering up a nation.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/05/21/politics-this-week

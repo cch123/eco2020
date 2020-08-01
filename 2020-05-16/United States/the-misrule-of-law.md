@@ -31,3 +31,7 @@ He has intervened to press for a lighter sentence for Roger Stone, a Trump campa
 Both of those decisions by Mr Barr prompted DoJ lawyers to withdraw from the cases they helped prosecute. Mr Trump is now pushing an “Obamagate” theory that Mr Obama and his vice-president, Joe Biden, orchestrated the Russia investigation to hobble him.
 
 Many worry that the next step will be using the DoJ to pursue Mr Trump’s enemies. More than 2,000 former employees have signed a letter calling on Mr Barr to resign, and for Congress to censure him for his “repeated assaults on the rule of law”. The civil-rights-department veteran says that morale has plummeted. “People I talk to [at the DoJ] feel like the institution is being damaged…The notion that government lawyers act in a non-partisan way to enforce the law is being assaulted.” Such damage is much easier done than undone. ■
+
+## URL
+
+https://www.economist.com/united-states/2020/05/14/the-misrule-of-law

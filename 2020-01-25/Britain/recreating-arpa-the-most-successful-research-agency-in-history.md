@@ -25,3 +25,7 @@ Another task is to adapt the model to a very different research system. In the e
 If that sounds like the Treasury’s nightmare, that’s because it is. The ministry has resisted previous attempts to loosen research funding, and civil servants are currently trying to work out how to keep tabs on the progress of a British ARPA. Eleven years ago the American government established ARPA-E to develop advanced energy technology. Most observers think it is too soon to judge whether it is a success. In ten years’ time a British equivalent will be vulnerable to an axe-swinging chancellor looking for money to spend on his or her priorities, especially if the agency does not yet have much to show for itself.
 
 Even if everything goes to plan, another internet is an unlikely outcome. The success of the original ARPA was the product of a unique confluence of historical circumstance, government imperative and individual genius. Indeed, DARPA has struggled to reach its early heights, partly because of its more limited remit. Attempting to reverse-engineer the agency is hardly a guaranteed route to success, but that does not mean it is not worth trying. As ARPA demonstrates, unlikely bets do sometimes come off. ■
+
+## URL
+
+https://www.economist.com/britain/2020/01/23/recreating-arpa-the-most-successful-research-agency-in-history

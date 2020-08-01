@@ -37,3 +37,7 @@ At just 38, he lacks any national or even state-level governing or legislative e
 Dig deeper:
 
 Sign up and listen to Checks and Balance, our new [newsletter](https://www.economist.com//checksandbalance/) and [podcast](https://www.economist.com//podcasts/2020/04/24/checks-and-balance-our-weekly-podcast-on-american-politics) on American politics[](https://www.economist.com//united-states/2020/02/15/mike-bloombergs-very-expensive-moment)[The Democratic primaries will be a contest between radicals and repairers](https://www.economist.com//leaders/2020/02/06/the-democratic-primaries-will-be-a-contest-between-radicals-and-repairers)[Mike Bloomberg’s (very expensive) moment](https://www.economist.com//united-states/2020/02/15/mike-bloombergs-very-expensive-moment)[Bernie Sanders and Pete Buttigieg emerge from New Hampshire as the Democrats’ favourites](https://www.economist.com//united-states/2020/02/12/bernie-sanders-and-pete-buttigieg-emerge-as-the-democrats-favourites)
+
+## URL
+
+https://www.economist.com/united-states/2020/02/15/is-pete-buttigieg-doing-well-or-badly

@@ -23,3 +23,7 @@ A campaign to tell people how to behave plays to the Taliban’s strengths, says
 The most helpful thing the Taliban could do, however, is the one idea they have rejected outright. The militants have spurned calls for a ceasefire to allow the government and aid agencies to fight the virus unhindered. Instead, while offering Afghans advice on how to keep themselves safe, they have also been killing lots of them. Taliban attacks rose by more than 70% year-on-year in the six weeks after they signed a peace deal with America in Qatar at the end of February. Some 900 Afghan troops were killed over that period. America has accused the militants of flouting their pledge to reduce violence. The toll not just of pestilence, but also of war, looks set to rise further. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/asia/2020/05/09/the-taliban-are-joining-afghanistans-fight-against-covid-19

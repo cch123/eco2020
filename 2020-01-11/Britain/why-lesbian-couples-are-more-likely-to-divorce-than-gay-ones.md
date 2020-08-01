@@ -19,3 +19,7 @@ Lisa Power, one of the co-founders of Stonewall, a gay-rights charity, reckons p
 Lesbians are also more likely to have been married before. About 18% of women who formed civil partnerships were divorcees, compared with 10% of men. Once age is accounted for, second marriages are more likely to fail than first marriages.
 
 Whatever the explanation, Ms Vardag is most struck by the similarities between her clients, gay or straight. “It’s distress about adultery or domestic violence, not being listened to, the sense of one party slogging away and the other one taking it easy,” she says. “All the same things crop up.” ■
+
+## URL
+
+https://www.economist.com/britain/2020/01/09/why-lesbian-couples-are-more-likely-to-divorce-than-gay-ones

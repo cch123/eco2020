@@ -19,3 +19,7 @@ If the tariff of 25% has stained balance sheets red, a jump to 100% would put ma
 Hard-nosed officials may discount this. At a hearing to discuss a tariff threat on French champagne, United States Trade Representative officials quizzed merchants about whether drinkers could switch to different sorts of wines—perhaps even the American sort? The suggestion is an affront to sommeliers, who see the quality or character of a wine as intrinsically linked to its origin.
 
 Thus far winesellers have avoided passing the full cost of the tariffs on to drinkers. But according to Chris Bitter of Vintage Economics, a market-research company, the most extreme scenario would see tariffs covering almost all imported European wine, more than a quarter of American consumption by value, and around one in every six bottles sold. If that happens, expect Barolo- drinkers to mount the barricades.
+
+## URL
+
+https://www.economist.com/united-states/2020/02/13/american-drinkers-of-european-wine-face-mounting-tariff-bills

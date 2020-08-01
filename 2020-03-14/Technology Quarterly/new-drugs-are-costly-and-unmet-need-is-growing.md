@@ -59,3 +59,7 @@ If pharmaceutical companies do not make good on the promise of these new approac
 There is room in all this for individuals with vision; there is also room for luck: Dr Nizar has both. Her problem lies in PTH1R, a hormone receptor; her PTH1R gene makes a form of it which is jammed in the “on” position. This means her cells are constantly doing what they would normally do only if told to by the relevant hormone. A few years ago she learned that a drug which might turn the mutant receptor off (or at least down a bit) had already been characterised—but had not seemed worth developing.
 
 The rabbit, it is said, outruns the fox because the fox is merely running for its dinner, while the rabbit is running for its life. Dr Nizar’s incentives outstrip those of drug companies in a similar way. By working with the FDA, the NIH and Massachusetts General Hospital, Dr Nizar helped get a grant to make enough of the drug for toxicology studies. She will take it herself, in the first human trial, in about a year’s time. After that, if things go well, her children’s pain may finally be eased. ■
+
+## URL
+
+https://www.economist.com/technology-quarterly/2020/03/12/new-drugs-are-costly-and-unmet-need-is-growing

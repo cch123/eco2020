@@ -47,3 +47,7 @@ At the same time, the world’s biggest brands seem to be getting stickier. Of t
 Owners of the world’s best-loved brands have one last reason for cautious optimism as they fend off insurgent rivals. Labels and logos may matter less than they did—at least in investors’ eyes. In 2008-10 the value of the top ten brands (measured by the current and forecast revenues from products attributable to the brand rather than factors like price) equalled roughly a third of their owners’ market capitalisation. Since 2017 the figure has been closer to a fifth (see chart). Since 2017 GE has destroyed 60% of its shareholder value but only 40% of its brand equity. In 2000 Coca-Cola’s brand, number one at the time, was worth more than half its market capitalisation. Last year Apple’s brand, the current top dog, was valued at $234bn, a mere quarter of the value of its shares.
 
 Such findings could reflect problems with brand valuation, which is more art than science. But they hint that, even in the era of intangible assets, shareholders may prize size and market dominance over the nebulous allure of labels. Insurgent brands can help keep incumbents on their toes. Cutting the ground from under the giants’ feet is another matter.■
+
+## URL
+
+https://www.economist.com/business/2020/01/23/it-has-never-been-easier-to-launch-a-new-brand

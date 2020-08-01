@@ -59,3 +59,7 @@ Viewed narrowly, America doesn’t have much to lose: less than 1% of its banks�
 If the shock were severe China might lash out against American multinationals in China. Over time it might also seek to conduct cross-border finance on its own terms by coaxing more foreign financial firms to bulk up in mainland China on the condition that they accept China’s way of doing business, and use the yuan. And it might have another go at promoting the yuan as a global payments currency by pushing digital-payments systems, where Chinese technology is world-leading. The goal would be to end once and for all its dependence on the West’s financial system and, by implication, Hong Kong.
 
 No one at the top of Hong Kong’s financial establishment believes that this bad scenario is likely. But everyone thinks that moves by America or China to disrupt its role as a global dollar centre would be dangerous. Consider a selection of comments from bigwigs: it would be “incredibly dangerous”; “ a really serious mistake”; “a very, very radical and extreme measure that would backfire”; “an act of war”. That Hong Kong has become so important to global finance that people are terrified by the prospect of its being damaged is a backhanded compliment—and a reminder of how hard it is to absorb the jolts and shocks from two superpowers moving apart.■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/06/06/can-hong-kong-remain-a-global-financial-centre

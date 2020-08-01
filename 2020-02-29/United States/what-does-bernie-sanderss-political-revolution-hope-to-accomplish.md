@@ -61,3 +61,7 @@ Sandernistas often vacillate between the idea that their agenda is the one, true
 The likeliest outcome for a Sanders presidency would therefore be a slew of ambitious legislative plans all gleefully thwarted by Mr McConnell. Should his political revolution take him inside the gates of the White House, it is likely to stop there. Perhaps after four years of this, Mr Sanders would kvetch to his successor that it, like Congress, is a lousy place to work.■
 
 Dig deeper:Sign up and listen to Checks and Balance, our new [newsletter](https://www.economist.com//checksandbalance/) and [podcast](https://www.economist.com//podcasts/2020/04/24/checks-and-balance-our-weekly-podcast-on-american-politics) on American politics
+
+## URL
+
+https://www.economist.com/united-states/2020/02/29/what-does-bernie-sanderss-political-revolution-hope-to-accomplish

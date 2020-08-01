@@ -45,3 +45,7 @@ A larger headache for bosses is navigating the long-term future of their industr
 One route for expansion is cannibalisation. Rivalry between the BECCS and DAC camps is growing. Both are spending more on marketing and lobbyists. They want to persuade consumers and politicians that their technology is superior, and that humanity’s aim should be to return the atmosphere to pre-industrial levels of carbon dioxide. Despite these efforts, analysts expect the sector to shrink and consolidate in the coming years. That may favour the largest carbon-removal outfits, several of which are also oil producers. The very firms that prospered by taking carbon out of the ground may profit the most from putting it back. ■
 
 For more coverage of climate change, register for The Climate Issue, our fortnightly [newsletter](https://www.economist.com//theclimateissue/), or visit our [climate-change hub](https://www.economist.com//news/2020/04/24/the-economists-coverage-of-climate-change)
+
+## URL
+
+https://www.economist.com/the-world-if/2020/07/04/what-if-carbon-removal-becomes-the-new-big-oil

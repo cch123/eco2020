@@ -27,3 +27,7 @@ The power of documentaries to shake public opinion in modern China has been show
 Independent documentaries offer a sense of immediacy and of bearing witness “on the spot”, says Kiki Tianqi Yu, a Chinese film-maker who is a lecturer in London. Film–makers document history that the government will not, she adds. Those Chinese who are likely to hear about and see non-approved documentaries are a rather privileged bunch: university students, intellectuals, art-lovers, urban professionals and the like. Mr Jiang’s new film lets them hear a gruff ex-miner lament: “My poor little boy. I can’t die. His life will be difficult if I die.” Soon after his 50th birthday though, sensing that his end is near, he tells the camera, “I spat out blood yesterday. Damn it.” Perhaps only a few thousand people in China will see the film. But just for a moment, a father’s pain and fear bridges the gulf that separates urbanites from poor villagers in China, a horribly unequal society. Reason enough for art to exist. ■
 
 * Editor’s note: the documentary described in this column may be seen via this [link](https://www.economist.com/https://www.orientindiefilms.com/content/cast-crew/jiang-nengjie/?from=singlemessage&isappinstalled=0)
+
+## URL
+
+https://www.economist.com/china/2020/04/11/china-stifles-documentary-makers-but-their-art-still-shines

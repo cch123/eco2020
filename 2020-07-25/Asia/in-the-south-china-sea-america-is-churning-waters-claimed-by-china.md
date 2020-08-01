@@ -23,3 +23,7 @@ Until now, America’s priority in the South China Sea has been to ensure free p
 The other claimants welcome the American move, which has bipartisan support in Washington. Mr Duterte’s love-in with China appears over, and hawks alarmed at Chinese behaviour are running Philippine foreign policy again. Vietnam may take its own case against China to The Hague. As for a promised code of conduct in the South China Sea between China and the Association of South-East Asian Nations (ASEAN), of which the other claimants bar Taiwan are all members, agreeing on a text looks daunting, say Hoang Thi Ha and Ian Storey of the ISEAS-Yusof Ishak Institute in Singapore. China will never accept a code that affirms UNCLOS provisions, as ASEAN members want; nor will ASEAN members give in to China’s demands, in effect, to be able to veto military exercises with outside parties.
 
 But having America at your back is a mixed blessing. It could help establish what Bill Hayton of Chatham House, a think-tank in London, calls a “picket line” emboldening ASEAN members to work together to uphold UNCLOS. Yet, Ms Ha and Mr Storey point out, China is more likely to double down than retreat. And the last place the minnows want to be is in the middle of a clash between the South China Sea’s two big fish.
+
+## URL
+
+https://www.economist.com/asia/2020/07/23/in-the-south-china-sea-america-is-churning-waters-claimed-by-china

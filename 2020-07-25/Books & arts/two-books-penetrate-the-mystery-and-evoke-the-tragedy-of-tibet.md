@@ -35,3 +35,7 @@ Again, proximity to the Han hinterland did not appear to help. In the 1950s that
 The confrontations of the late 1950s followed a period during which Tibetans had been allowed to maintain their pre-Communist way of life, with the old elites largely still in place. It was when the party lost patience and began to treat those elites as class enemies and collectivise agriculture that widespread unrest erupted. Readers of Mr Weiner’s book might reflect on how aspects of his story are now being repeated in Hong Kong. Another place on China’s fringe is discovering what happens when the party loses patience with a pre-Communist order that it once tolerated.
 
 At least in Hong Kong the world is watching. By contrast, seldom is the veil lifted from Tibet—which makes Ms Demick’s and Mr Weiner’s chronicles all the more worth reading. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/07/25/two-books-penetrate-the-mystery-and-evoke-the-tragedy-of-tibet

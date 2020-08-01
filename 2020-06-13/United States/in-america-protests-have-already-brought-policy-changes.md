@@ -23,3 +23,7 @@ New York is also poised to pass bills creating an investigative office to look i
 More radical measures, such as defunding—which in practice can mean something less alarming, like rethinking how police departments function and redirecting some of their budgets—are also getting a hearing. Minneapolis’s city council vowed to disband the city’s police department, though how, when and what might replace it remain unclear. And the mayors of Los Angeles and New York said they would take money from police budgets for social-service programmes.
 
 Along with this flurry of activity have come two important cultural shifts. First, the shares of Americans who support Black Lives Matter and believe that police treat whites better than African-Americans have soared. Second, prosecutors have shed some of their traditional reluctance to go after the police, and have charged officers in several cities who were caught on camera assaulting unarmed people. Perhaps this shift is temporary. Or perhaps a lot of Americans have seen officers act as if they are above the law, and they do not like it.■
+
+## URL
+
+https://www.economist.com/united-states/2020/06/11/in-america-protests-have-already-brought-policy-changes

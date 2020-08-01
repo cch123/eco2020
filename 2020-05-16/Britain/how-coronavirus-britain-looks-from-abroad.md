@@ -33,3 +33,7 @@ Declinism is a national pastime in Britain, and some aspects of the country’s 
 But the recent knocks to Britain’s reputation will have consequences. “I would not want to be going around, as we all used to do, saying whatever its defects the British government system is one of the best in the world and other countries should borrow it,” says Lord Jay.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/05/16/how-coronavirus-britain-looks-from-abroad

@@ -25,3 +25,7 @@ Largely lost in the fuss over EU citizens are the neglected Brits in the EU. Sin
 And here is a final uncertainty, over the future migration regime. A new immigration act is needed this year. But the government awaits advice from its migration advisory committee. Ministers favour an Australian-style points system that gives no advantages to EU nationals. Some have even cast doubt on Britain’s continuing participation in Europe’s Erasmus student-exchange scheme. EU citizens fear that, even with settled status, they may suffer from a hostile environment in future. And they point to the pain of being seen as bargaining chips when, like most Brits in Europe, they had no say on Brexit.■
 
 Correction (January 23rd 2020): This story originally suggested that France had more resident Brits than any other EU country. In fact it has the second-largest number, after Spain.
+
+## URL
+
+https://www.economist.com/britain/2020/01/25/eu-citizens-rights-after-brexit

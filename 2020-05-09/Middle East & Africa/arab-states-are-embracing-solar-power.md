@@ -25,3 +25,7 @@ Regional turmoil scares investors away, too. Iraq’s electricity minister blame
 There is also a risk that, in the short term, cheap oil dims countries’ ardour for solar power. Saudi Arabia, for example, might prefer to burn more oil for energy. Declining revenues could force oil-producing states to suspend new solar projects.
 
 But such projects are largely driven by the private sector, and they continue to compare favourably with fossil fuels. “We have seen an acceleration in tenders during covid-19,” says Paddy Padmanathan of ACWA Power, a Saudi firm that operates renewable-energy projects. “Why spend money taking fuel out of the ground and processing it rather than relying on God-given free sun and wind?” ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/05/07/arab-states-are-embracing-solar-power

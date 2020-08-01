@@ -69,3 +69,7 @@ That does not mean Germany, or Europe as a whole, will necessarily ditch Huawei.
 The irony, though, does not invalidate the argument. Europe has sometimes acted to maintain its technological autonomy with respect to America in areas where national-security needs and civil infrastructure overlap, such as satellite launchers and navigation systems. In an interview with The Economist last November Emmanuel Macron, the French president, complained about European reliance on American tech platforms. At the same time he called development of 5G “a sovereign matter” and went on to say that “Some elements [of the 5G network] must only be European.” That did not in itself rule out any role for Huawei. But subsequent developments have pushed the continent further in that direction. American pressure may end up seeing Europe take a more assertive view of its “digital sovereignty”.■
 
 Dig deeper:Sign up and listen to Checks and Balance, our [weekly newsletter](https://www.economist.com//checksandbalance/) and [podcast](https://www.economist.com//podcasts/2020/07/17/checks-and-balance-our-weekly-podcast-on-american-politics) on American politics, and explore our [presidential election forecast](https://www.economist.com/https://projects.economist.com/us-2020-forecast/president)
+
+## URL
+
+https://www.economist.com/briefing/2020/07/16/americas-war-on-huawei-nears-its-endgame

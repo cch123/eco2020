@@ -31,3 +31,7 @@ In the meantime, storage across America is filling up rapidly, and could reach t
 Unprecedented circumstances are bringing unprecedented behaviour. Oil is usually stored in giant ships such as a Suezmax, or the aptly named Very Large Crude Carrier, or onshore near big ports or population centres, such as Rotterdam or New York. Ben Luckock of Trafigura, a big trader, says firms such as his are now considering rail cars, small barges or even parked trucks. The price of a contract for a major crude benchmark may not sink again to -$40. But as inventories rise, oil markets continue to test the realm of possibility. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/04/25/oil-markets-have-a-timing-problem

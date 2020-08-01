@@ -33,3 +33,7 @@ Apple’s latest quarterly results, released on January 28th (before the scale o
 There is one ray of light in China. The 5G iPhone, with much faster connectivity, is reportedly due to go on sale in late 2020. But will it provide a sales bonanza? What a 5G iPhone will offer to well-heeled Chinese customers that they do not already have is unclear. Chinese consumers in large cities are used to high-quality mobile-phone connections. It is common to see an entire metro carriage of commuters streaming high-definition video on the move, something that few American or European networks can handle. Phones made by Huawei, a Chinese tech giant, are as good or better than anything Apple offers.
 
 Even the success of a 5G iPhone would only be a temporary salve. As the decoupling of the American and Chinese technological ecosystems grinds on, it will only get harder for Apple to tap into the Chinese market and run its Chinese supply chains efficiently. That Apple was the first large American company to issue a revised forecast as a result of the virus shows just how dependent the firm is on China, for both supply and demand. Opportunities elsewhere may make up for some lost revenues—selling streaming services to Americans is a good business, if competitive. But it will be almost impossible for Apple to find a new growth engine quite as powerful as China.■
+
+## URL
+
+https://www.economist.com/business/2020/02/20/apples-chinese-troubles

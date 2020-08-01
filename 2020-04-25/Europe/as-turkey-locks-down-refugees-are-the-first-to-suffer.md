@@ -29,3 +29,7 @@ The government has tried to help the economy weather the storm with a 100bn- lir
 Turkey may soon turn to a familiar source for additional funding. In 2015 the EU offered Turkey $6bn if it agreed to look after the refugees and prevent them from crossing to Greece. Mr Erdogan deserves no reward for playing with their hopes to put pressure on European governments. But the migrants and refugees knocking on Europe’s doors do deserve better. Against the approaching storm, many of them are defenceless. Once again, the EU will probably be obliged to clench its teeth, loosen its purse-strings and entrust Turkey’s leader with lots more money. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/04/23/as-turkey-locks-down-refugees-are-the-first-to-suffer

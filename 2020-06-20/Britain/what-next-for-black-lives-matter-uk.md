@@ -19,3 +19,7 @@ A different lot of people have organised the gatherings over the past few weeks.
 Whereas the younger activists often see black musicians and other entertainers as models of empowerment, the older activists look on in exasperation as such people are invited onto news programmes to speak about black issues. “It’s part of the British media establishment’s ignorance of how seriously to take issues of racism,” says Adam Elliott-Cooper, a sociologist and co-founder of BLM UK. “They can just cart on any black person they want to come and talk, rather than it actually being something where people need to do research.”
 
 Although the younger activists do not have a fully worked-out agenda, many want to see BLM UK become a British black caucus. This would create “battle funds” to spend money on, for instance, increasing black representation in white-dominated industries such as law and engineering. It would also act as a non-partisan pressure group, which would encourage political parties to compete for its approval. “Black people need to be able to get into white spaces,” explains Ms Amoah. “Otherwise another four years comes and everyone’s doing another protest.”■
+
+## URL
+
+https://www.economist.com/britain/2020/06/18/what-next-for-black-lives-matter-uk

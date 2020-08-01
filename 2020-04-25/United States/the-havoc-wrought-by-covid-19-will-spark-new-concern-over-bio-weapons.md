@@ -35,3 +35,7 @@ Internationally, the issue is largely neglected. “There’s no single facilita
 Military labs across the world are already heavily involved in the fight against covid-19, but government money is a drop in the ocean compared with the billions of dollars of private funds now being unleashed against the virus. One hope is that the crash efforts to develop better tests and a vaccine may yield so-called platform technologies that would have utility not only against coronavirus, but also a wide range of other biological threats. Anthrax, for instance, has a vaccine but requires a cumbersome five doses. The “holy grail”, says Mr Kaszeta, would be a broad-spectrum antiviral or vaccine—a shield against natural and human foes alike.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/united-states/2020/04/23/the-havoc-wrought-by-covid-19-will-spark-new-concern-over-bio-weapons

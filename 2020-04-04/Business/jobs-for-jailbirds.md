@@ -27,3 +27,7 @@ Mr Meyer found that getting a job is not the only challenge for those released f
 Nehemiah cannot employ all of Ohio’s second-chancers. So Mr Meyer created the Beacon of Hope business alliance. In total, the alliance has 80 members, including Kroger, a supermarket chain. Collectively, they have hired 600 vulnerable people.
 
 Writing individuals off for life is not just callous. It also is economically inefficient. Society will be better if more jailbirds find jobs—be they those released early because of covid-19 or those still serving time.
+
+## URL
+
+https://www.economist.com/business/2020/04/04/jobs-for-jailbirds

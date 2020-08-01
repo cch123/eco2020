@@ -25,3 +25,7 @@ He provides a harrowingly detailed narrative of the horrors experienced during t
 Was the attack a war crime, as many believe? Winston Churchill’s omission of the bombing campaign when reeling off British military triumphs in his victory speech was telling, as was the post-war reluctance to award its veterans a campaign medal, a slight still felt deeply by their families. The campaign’s architect, Sir Arthur Harris, continued (if unconvincingly) to claim the “military necessity” of the raid—Britain’s Soviet allies had been demanding it as a way to spread chaos behind enemy lines—while insisting that he was not responsible for individual targeting decisions.
 
 Mr McKay’s purpose is neither to condemn nor condone, but to record what happened and why. Eschewing easy moralising, he prefers to reflect on Dresden’s intensely moving annual ceremony of remembrance and the episode’s place in collective memory. Above all, he rejoices in the modern city’s resurrection. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/02/06/the-destruction-of-dresden-the-florence-of-the-elbe

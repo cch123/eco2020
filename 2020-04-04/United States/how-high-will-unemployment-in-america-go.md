@@ -29,3 +29,7 @@ America’s economic-stimulus bill will be a more genuine check on rising jobles
 A big jump in unemployment is less of a problem if it quickly falls once the lockdown ends. Louisiana offers an encouraging precedent. After a few bad months in late 2005, the state’s unemployment rate dropped almost as sharply as it had risen, falling in line with the rest of the country. Whether the economy will prove so elastic this time is another matter. Travellers and restaurant-goers will be cautious until some sort of vaccine or treatment is widely available; social-distancing rules, even if relaxed, will continue for some time. Goldman Sachs’s researchers reckon that it will take until 2023 for unemployment to fall back below 4%. The lockdowns should be temporary, but the economic consequences will feel much more permanent.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/united-states/2020/04/01/how-high-will-unemployment-in-america-go

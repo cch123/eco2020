@@ -27,3 +27,7 @@ Other plausible, but voluntary, changes in behaviour would affect the dollar in 
 Japanese funds have in recent years preferred to buy euro-denominated debt, because the costs of hedging euro currency risk is low. But if the Fed keeps cutting rates, dollar hedges will become cheaper. Currency-hedged Asian investors might then tilt towards American assets. That would be neutral for the dollar (because of the hedging) but a welcome fillip for issuers of corporate debt in America.
 
 The dollar remains an unloved currency. Witness the surge in gold prices spurred by seekers of an alternative. It is the currency investors are forced to buy, not the one they want to buy. The dollar’s calmness is reassuring. A sudden spike in its value would be a bad sign indeed.
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/03/12/a-spike-in-the-dollar-has-been-a-reliable-signal-of-global-panic

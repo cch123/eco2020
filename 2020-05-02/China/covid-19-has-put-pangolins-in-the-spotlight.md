@@ -23,3 +23,7 @@ Campaigners see encouraging signs. On World Pangolin Day in February, the Commun
 Correction (May 6th 2020): In an earlier version of this story we reported that, in October 2018, China had lifted its ban on the medicinal use of tiger bone and rhino horn. We should have noted that it later decided to postpone doing so for an indefinite period. The story has been amended to reflect this.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/china/2020/05/02/covid-19-has-put-pangolins-in-the-spotlight

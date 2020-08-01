@@ -33,3 +33,7 @@ It would also be consistent with what the government itself wants: growth driven
 If the economic arguments are simple, the politics are more complicated—much as they are in the West’s debates about welfare for immigrants. The only difference is that in China, the migrants are not from abroad. Officials in China’s big cities worry that if they were required to deliver the full gamut of social services to all residents, including migrant workers, the fiscal burden would be crippling. Local authorities also fear that the promise of full benefits would attract more people from elsewhere.
 
 For now they have ways to keep them at bay. On a sunny afternoon in late April, a graphic designer whose firm was in trouble visited a social-security office in Shanghai’s Hongkou district to ask about unemployment insurance. He had worked in the city for several years and his company had paid his payroll tax. But an official told him that he would have to go to his birth city in Jiangsu province, a couple of hours away by train, to apply and, if successful, collect his benefits. In Jiangsu, however, the payout would be lower than in Shanghai. “I might not bother,” he said. ■
+
+## URL
+
+https://www.economist.com/china/2020/05/07/a-slump-exposes-holes-in-chinas-welfare-state

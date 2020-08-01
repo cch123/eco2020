@@ -21,3 +21,7 @@ Farmers are trapped in a cycle of debt. With cheap credit scarce, they take loan
 Poor practices add to the burden. The ill-funded agriculture ministry offers little help. Farmers often get technical advice from their suppliers—and some of it is bad. “These companies have a vested interest in people using more of their products,” says Hadi Jaafar, an agriculture professor at the American University of Beirut. Lebanese farmers lay down 330kg of fertiliser per hectare of arable land, one of the highest rates in the world. Pesticide use is also similarly high.
 
 Hobbyists can help, but only so much. Almost 90% of Lebanese live in urban areas. In greater Beirut, home to a third of the population, few have more than a balcony or rooftop for planting. Hassan Diab, the prime minister, has promised to subsidise staple imports, a temporary fix (if a costly and inefficient one). Farmers need access to credit and proper scientific advice. Some economists have called for a temporary freeze on their debts. Factories need reliable electricity and better transport, both of which the government has failed to sort out for decades. Investment in agriculture would bring not only food but jobs and exports—all badly needed in a country that can no longer live beyond its means. ■
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/05/28/hobbyists-hope-to-halt-hunger-in-lebanon-by-growing-their-own-crops

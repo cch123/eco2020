@@ -15,3 +15,7 @@ So begins a ten-minute video opera, “Osman Bey and the Snails”, produced by 
 The project began as an exchange between Thomas de Waal, a writer and journalist, and Nigel Osborne, a composer, who have known Mr Kavala for years. Mr de Waal heard about the cellmates his friend had adopted and joked that Mr Osborne should turn the story into an opera. The composer took up the challenge. Mr Osborne infused his work with elements of Arabic, Kurdish, Turkish and Balkan music, a nod to the bridges Mr Kavala has tried to build between artists and communities divided by the bloody collapse of the Ottoman empire. A group of Mr Kavala’s friends and human-rights campaigners wrote the libretto. Opera singers from across the globe recorded the songs from their lockdowns. No money changed hands.
 
 Mr Kavala was originally arrested in connection with the protests that convulsed Turkey in 2013. This year a court cleared him of all charges. But as he prepared to leave prison he was arrested on new, even more preposterous charges, related to an attempted coup in 2016. The snails are now free, and living with his lawyer. But Mr Kavala remains behind bars.
+
+## URL
+
+https://www.economist.com/europe/2020/07/02/a-lockdown-opera-pays-tribute-to-a-political-prisoner-in-turkey

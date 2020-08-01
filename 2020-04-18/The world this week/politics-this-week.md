@@ -47,3 +47,7 @@ Russia reported several record daily surges in new cases, bringing its total to 
 New York City’s cumulative death toll soared past 10,000 as officials added 3,700 previously unrecorded deaths from the disease to the rolls. See [article](https://www.economist.com//united-states/2020/04/18/american-inequality-meets-covid-19).
 
 America’s Supreme Court said it would hold its first-ever hearings by telephone conference, starting next month.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/04/18/politics-this-week

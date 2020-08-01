@@ -27,3 +27,7 @@ The splurge of cash and volunteers could be a fleeting product of the George Flo
 Most of the seats being contested are solidly Democratic, so the make-up of the House may not be affected by progressives’ success. But, as Karlyn Bowman, of the American Enterprise Institute, a think-tank, says, “it may have a big impact on Nancy Pelosi [the speaker] and the management of House Democrats.” “The Squad”—four left-wing Democrats elected in 2018—have proved a small thorn in her side. If more join them, then a strengthened left-wing caucus might be able to force its ideas—defunding the police, say—onto a reluctant leadership. ■
 
 Dig deeper:
+
+## URL
+
+https://www.economist.com/united-states/2020/07/04/the-progressive-left-celebrates-some-notable-democratic-primary-victories

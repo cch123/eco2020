@@ -21,3 +21,7 @@ The second prong was targeted advertising, but along broad categories such as co
 The Labour Party on the other hand was much more precise in its online advertising. It used its own and third-party data to create audience profiles and served ads to people its strategists reckoned would vote for Jeremy Corbyn. The Liberal Democrats also targeted their message carefully, aiming at people interested in Lib-Demmy subjects such as “Barack Obama” or “The Economist”, says Tristan Hotham, a researcher at the University of Bath.
 
 Publicly available data from Facebook’s ad library support these conclusions. On average the Conservatives spent £13.58 for 1,000 views, a common industry measure, on Facebook and Instagram. Labour spent nearly twice as much. “There is a diminishing return because the more layers of targeting you put on the advertising, the more expensive the ad is,” says Benedict Pringle, who runs politicsadvertising.co.uk, a blog. Media buyers have long held that half the money they spend on advertising is wasted—the trouble is figuring out which half. The promise of digital advertising was to cut that waste by allowing precise targeting. Yet the Conservative campaign suggests that a little bit of inefficiency may be no bad thing.■
+
+## URL
+
+https://www.economist.com/britain/2020/01/18/how-the-conservatives-won-the-social-media-campaign

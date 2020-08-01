@@ -21,3 +21,7 @@ Ireland’s police commissioner, Drew Harris, says he still agrees with an asses
 Declan Power, an analyst who served in Irish military intelligence, says that a lightly armed IRA still maintains a loose organisation to protect itself from dissident republicans who refuse to recognise the peace process, and to deter recruitment into them. One such group, the “New IRA”, is blamed for killing Lyra McKee, a journalist, in Londonderry last year. “In a way, there’s a degree of responsible thinking in place. You can’t just wind up an entire private army and put it to bed,” he says.
 
 Aidan Regan of University College Dublin says the IRA-Sinn Fein relationship is more nuanced. “Does Mary Lou take her orders from shadowy people in West Belfast [an IRA stronghold]? I don’t think so. But someone who was heavily involved in the Army Council in the IRA, who is still a member of Sinn Fein, of course they are going to have a voice in the party.” ■
+
+## URL
+
+https://www.economist.com/europe/2020/03/05/is-sinn-fein-now-a-normal-political-party

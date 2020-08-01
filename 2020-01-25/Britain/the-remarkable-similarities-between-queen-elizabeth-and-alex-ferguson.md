@@ -17,3 +17,7 @@ Neither Windsor nor Ferguson have tolerated incompetence. Just as Massimo Taibi,
 Although Windsor, with 68 years in the job, has surpassed Ferguson, his 27 in post made him the longest-serving manager at the top of British football. Both managers’ long reigns have conferred a degree of stability from which their organisations have benefited. Ferguson’s many years in power enabled him to assert an iron grip, since there was no hope of unhappy players ousting him; Windsor’s long stint in the job—she has taken the titles of Britain’s longest-ever reigning monarch, longest-lived British monarch and longest-reigning queen of all time—enabled her to ease her country through a long period of relative decline.
 
 Monarchies, like football clubs, outlive their incumbents. Since Ferguson stepped down, United have struggled. Manager after manager has failed in his shadow. Windsor’s many fans must hope the similarities do not extend that far.
+
+## URL
+
+https://www.economist.com/britain/2020/01/25/the-remarkable-similarities-between-queen-elizabeth-and-alex-ferguson

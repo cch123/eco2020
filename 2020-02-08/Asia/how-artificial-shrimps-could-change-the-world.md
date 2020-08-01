@@ -19,3 +19,7 @@ All this has given one Singaporean company a brain wave. “Farmed shrimps are o
 The hitch is that producing shrimp in this way currently costs $5,000 a kilo. Shiok Meats thinks it can bring the price down dramatically by using less rarefied ingredients in its growing solution. People want to know more about where their food comes from and how it is harvested, argues Ms Sriram. “Cell-based technology is one of the ways to provide that accountability.” And even ordinary shrimp, whether farmed or fished, come at a heady price.
 
 Sign up to our fortnightly climate-change newsletter [here](https://www.economist.com//theclimateissue/)
+
+## URL
+
+https://www.economist.com/asia/2020/02/08/how-artificial-shrimps-could-change-the-world

@@ -19,3 +19,7 @@ Aston’s legacy of losing money is as rich as that of making fast and glamorous
 Even if all these AML offerings prove wildly successful, they may not bring in enough cash to ensure a succession of new models needed to keep wealthy petrolheads coming back to the brand. Philippe Houchois of Jefferies, a bank, reckons that if AML sells 5,000 of the cars that start at £158,000 at a 15% margin, that would only bring in enough cash to cover £100m in annual interest on its debts. The overall market for sports cars is not growing fast and Evercore ISI, a broker, points out that rivals’ SUVs have eaten into sales of their other cars. AML can expect the same.
 
 Mr Houchois reckons that AML needs £400m-500m to tackle its debts and invest in its future. The firm says it is “reviewing its funding requirements”. Lawrence Stroll, a Canadian billionaire who co-owns a Formula 1 team, is said to be ready to inject £200m into the business. Apparent interest by Geely, a Chinese carmaker that also owns Volvo, Lotus and 10% of Daimler, pushed AML’s shares up this month. But any rescuer, should one come forth, risks looking like an Aston Martin buyer—stuck owning a fast-depreciating trophy asset. ■
+
+## URL
+
+https://www.economist.com/business/2020/01/18/aston-martin-is-stuck-in-neutral

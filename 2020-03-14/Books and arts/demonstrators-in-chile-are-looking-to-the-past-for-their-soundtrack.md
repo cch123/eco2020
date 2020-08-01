@@ -27,3 +27,7 @@ A new single by Ana Tijoux, a Franco-Chilean rapper, is called “Cacerolazo”.
 In tribute to those injuries, “El violador eres tu” (“The rapist is you”), a feminist anthem created by a group of women in Valparaiso, is typically performed wearing blindfolds. Linking police violence with abuses of women more generally, the song has struck a chord around the world. “La Caravana” by Kuervos del Sur, a rock band from the central city of Curicó, alludes to the steady flow of marchers along the Alameda, Santiago’s main drag. The marches, and the tumult, abated in the summer heat, but despite some government concessions (see [article](https://www.economist.com//the-americas/2020/03/12/can-chile-reinvent-itself)), they are now redoubling in the run-up to a referendum on constitutional reform on April 26th.
 
 Allende harnessed the power of music as he became Latin America’s first elected socialist leader; it fortified Pinochet’s long-suffering opponents. Now, in very different circumstances, it has again become the heartbeat of Chilean politics. “Music is what creates a sense of belonging at times like these,” comments Mr Osorio. “Everyone who plays these songs, who hears them, who picks up a spoon and taps out that same rhythm on a saucepan—these people are all feeling the same thing.” ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/03/12/demonstrators-in-chile-are-looking-to-the-past-for-their-soundtrack

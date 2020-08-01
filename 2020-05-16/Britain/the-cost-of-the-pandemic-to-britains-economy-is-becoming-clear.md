@@ -23,3 +23,7 @@ The extension of the scheme adds further costs to an already swollen fiscal bill
 A leaked government memo published on May 13th in the Daily Telegraph suggested that the deficit could hit around 15% of pre-pandemic GDP. Measures under consideration for balancing the books included raising income tax and freezing pensions spending. A brouhaha followed. In truth the Treasury has been looking for some time at how to raise revenue to pay the costs of an ageing population, regardless of the pandemic. For now, with government-borrowing costs near record lows Mr Sunak seems more focused on supporting the economy than on balancing the budget. But the memo is a sobering reminder: though the threat to public health should eventually pass, the economic costs of the pandemic will linger.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/05/16/the-cost-of-the-pandemic-to-britains-economy-is-becoming-clear

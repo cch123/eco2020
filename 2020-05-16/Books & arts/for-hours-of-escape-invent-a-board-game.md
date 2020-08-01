@@ -21,3 +21,7 @@ Is it more rewarding to create a new game, calibrate sometimes complicated rules
 For the inventor the pleasure is from being a storyteller of sorts, one who introduces a cast of characters, bestows each with attributes (a scientist able to invent new technology; the miner with geological nous) and then dreams up novel scenarios for them. For those who lead others in role-playing games, such as “Dungeons and Dragons”, it may be a small step to put a game on a board. For their audience—especially parents, who are prone to being baffled by many intricate rules—having cardboard tokens in hand helps to keep things simple. The real goal, whether for those trapped at home during lockdown, or astronauts stranded on a planet of wolf aliens, is to have a chance to escape. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/05/16/for-hours-of-escape-invent-a-board-game

@@ -21,3 +21,7 @@ Many of Polo’s contemporaries dismissed him as a fraud. Giant man-eating serpe
 Today his book remains a feast, opening up places that are now inaccessible, or perhaps never existed. If writing it was Polo’s way of escaping his Genoese cage, for covid-era readers it is a chance to swap quarantine for a mysterious world where the wondrous becomes true. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/05/23/confined-in-prison-marco-polo-roamed-across-the-world

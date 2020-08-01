@@ -25,3 +25,7 @@ In Malaysia a recent auction to build 500MW of solar capacity drew bids for 13 t
 Vietnam’s experience suggests that not all the planned coal plants will be built. Even if that proves correct, South-East Asia will still have a lot more coal-fired generation than environmental activists would like. But solar’s sudden spark in Vietnam should at least change officials’ views of what is possible. ■
 
 Sign up to our fortnightly climate-change newsletter [here](https://www.economist.com//theclimateissue/)
+
+## URL
+
+https://www.economist.com/asia/2020/01/25/vietnam-grapples-with-an-unexpected-surge-in-solar-power

@@ -51,3 +51,7 @@ That covid-19 has exposed the fragility of globalisation is particularly apparen
 The five-year period before the pandemic was the only one since Orville and Wilbur Wright made their first flight in 1903 in which the industry covered its cost of capital. Burned again by covid-19, many investors have now decided to stay away from anything that flies. Warren Buffett, a billionaire investor, once quipped that “if a farsighted capitalist had been present at Kitty Hawk, he would have done his successors a huge favour by shooting Orville down.” During the pandemic, Mr Buffett realised that this historical observation was no joke. Selling his shares in American airlines at a multi-billion dollar loss, he noted that they should be avoided by investors. His reason: “The world has changed after covid-19.” ■
 
 For more coverage of climate change, register for The Climate Issue, our fortnightly [newsletter](https://www.economist.com//theclimateissue/), or visit our [climate-change hub](https://www.economist.com//news/2020/04/24/the-economists-coverage-of-climate-change)
+
+## URL
+
+https://www.economist.com/the-world-if/2020/07/04/what-if-aviation-doesnt-recover-from-covid-19

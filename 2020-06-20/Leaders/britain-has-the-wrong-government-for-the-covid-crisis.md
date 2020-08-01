@@ -35,3 +35,7 @@ These shortcomings have claimed many victims. Among them is public trust. Britai
 The painful conclusion is that Britain has the wrong sort of government for a pandemic—and, in Boris Johnson, the wrong sort of prime minister. Elected in December with the slogan of “Get Brexit Done”, he did not pay covid-19 enough attention. Ministers were chosen on ideological grounds; talented candidates with the wrong views were left out in the cold. Mr Johnson got the top job because he is a brilliant campaigner and a charismatic entertainer with whom the Conservative Party fell in love. Beating the coronavirus calls for attention to detail, consistency and implementation, but they are not his forte.
 
 The pandemic has many lessons for the government, which the inevitable public inquiry will surely clarify. Here is one for voters: when choosing a person or party to vote for, do not underestimate the importance of ordinary, decent competence. ■
+
+## URL
+
+https://www.economist.com/leaders/2020/06/18/britain-has-the-wrong-government-for-the-covid-crisis

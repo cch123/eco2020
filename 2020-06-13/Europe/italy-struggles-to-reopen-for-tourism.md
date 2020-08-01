@@ -21,3 +21,7 @@ The central government hopes to bribe Italians into taking “staycations” wit
 That will deal a crushing blow to its many self-employed tourist guides who, on June 9th, demonstrated in several cities. They received two government payments of €600 each for March and April, but many were excluded from a third in May. They assume they will not work again before next March. They are seeking state support until then. But so are a lot of others. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/europe/2020/06/11/italy-struggles-to-reopen-for-tourism

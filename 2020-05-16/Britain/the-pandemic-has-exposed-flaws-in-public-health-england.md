@@ -27,3 +27,7 @@ Glimpses into PHE suggest a startling failure to get on top of the problem. In h
 The fragmented system that has resulted has its own problems, particularly in data collection. The health department has brought in Dido Harding, the head of an NHS regulator, to sort things out, and to link the testing programme with contact tracing, which is still run by PHE. The Office for National Statistics is leading serological studies to see how widespread covid-19 is in the British population. It is an all-hands-on-deck-situation for the government. Yet effective organisations tend to accumulate responsibilities. Instead, some in the NHS joke that PHE is enjoying a period of “self-isolation”. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/05/16/the-pandemic-has-exposed-flaws-in-public-health-england

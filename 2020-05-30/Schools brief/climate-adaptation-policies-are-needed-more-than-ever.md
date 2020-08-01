@@ -41,3 +41,7 @@ For the people in the small village of Newtok in Alaska, the limits to adaptatio
 Long before the world gets to that point, communities, especially in poorer regions, will suffer catastrophic losses. Many already are. Who pays for the losses and damages is yet another thorn in the side of UN climate talks. The calls from more vulnerable nations for international funds to help them foot the bill have fallen on deaf ears. Governments of wealthy nations want no part in any formal text that might contain a whiff of liability.
 
 In the eyes of some, rich governments are not the only guilty parties. In December the Philippines’s Commission on Human Rights declared that events leading to devastating storms like Typhoon Haiyan, which killed thousands of people in 2013, were a violation of human rights. They pointed the finger at fossil-fuel companies and other corporations. The commission claimed these companies could, hypothetically, be held accountable. ■
+
+## URL
+
+https://www.economist.com/schools-brief/2020/05/30/climate-adaptation-policies-are-needed-more-than-ever

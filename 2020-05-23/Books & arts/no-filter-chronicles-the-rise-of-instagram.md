@@ -27,3 +27,7 @@ Another subplot is how an app that people use to document their life turned into
 All this brought in $20bn for Instagram in 2019, or a quarter of Facebook’s revenue. But perhaps encouragingly, some in the company have come to see perfectionism as a risk to Instagram’s business. Young people have embraced Snapchat and, more recently, TikTok, as networks where they can go unfiltered. There they can post even imperfect shots: of their ordinary selves, their ordinary lives, even an ordinary dog by a taco stand. ■
 
 Dig deeper:
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/05/23/no-filter-chronicles-the-rise-of-instagram

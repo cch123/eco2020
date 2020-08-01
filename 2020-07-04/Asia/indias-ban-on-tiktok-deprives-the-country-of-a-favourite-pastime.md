@@ -15,3 +15,7 @@ Thousands of people around India appear to have made a living recording and broa
 Amit Varma, a podcaster from Mumbai who ran an online course about TikTok, puts the app’s success down to timing. It arrived in 2017, just after Reliance Industries, a huge conglomerate, had launched Jio, a 4G telecoms operation which radically reduced the cost of mobile data. Instead of a gigabyte a month, smartphone users suddenly had a gigabyte a day to play with. Cheaper Chinese handsets, meanwhile, made owning a smartphone more affordable.
 
 “This is not content made by clueless elites,” Mr Varma says. “In Bollywood a few big shots run the whole thing. But they have outdated ideas about what people want.” What they really want, if TikTok’s algorithms had it right, is weirder, homelier and more varied material than they could find on television, YouTube, Instagram or any of the English-first apps favoured by wealthy urbanites. Bidding fans farewell on the evening of June 30th, one TikTok star after another urged them to regroup on one or another of those apps, or on one of the close to 100 Indian copycats that have sprung up.
+
+## URL
+
+https://www.economist.com/asia/2020/07/02/indias-ban-on-tiktok-deprives-the-country-of-a-favourite-pastime

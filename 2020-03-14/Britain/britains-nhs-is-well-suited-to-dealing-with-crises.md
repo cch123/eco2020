@@ -25,3 +25,7 @@ Officials hope the health service will be able smoothly to reallocate resources.
 Speaking on March 5th, Dr Whitty, the chief medical officer, said that “depending on how high the peak is, this could be anything from a rather bad winter but in spring and summer...to huge numbers way overtopping the ability of the NHS realistically to put everyone in beds.” Vigorous tracing of those who potentially contracted the virus in its early stages was put in place partly to push the peak back to a time when the NHS is not under typical winter pressure. The weeks and months ahead will push an already stretched health service to its limits. Officials will be praying that their preparations are enough to ensure it is not pushed beyond them. ■
 
 Dig deeper:
+
+## URL
+
+https://www.economist.com/britain/2020/03/12/britains-nhs-is-well-suited-to-dealing-with-crises

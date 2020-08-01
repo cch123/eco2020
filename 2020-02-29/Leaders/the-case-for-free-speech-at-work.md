@@ -23,3 +23,7 @@ In laying down clearer rules, legislators should remember that offending and har
 There is also a difference between what people do at work and what they do outside. Speech is like a dress code. Just as companies can demand that their employees look the part while at work, they should be able to restrict what they say there, provided they are clear and fair about it. After people go home, though, they should be able to express their opinions freely, just as they are free to change into jeans and a T-shirt. A woman fired in 2004 by a housing firm for displaying a sticker backing John Kerry on her car was poorly treated. The situation is more complicated when it comes to public figures such as sports stars, who in effect sell their image as well as their labour.
 
 Firms will lobby to preserve their freedoms. But robust laws against unfair dismissal that protect speech would help them stand up to complaints from angry mobs and the Chinese government. Politicians should hold their nerve. Many complain that their constituents have become so ideological and tribal that they have forgotten how to talk to those with opposing views. Geographical and technological spaces are increasingly segregated. That makes it all the more important that people encounter different views at work—and especially outside it.■
+
+## URL
+
+https://www.economist.com/leaders/2020/02/27/the-case-for-free-speech-at-work

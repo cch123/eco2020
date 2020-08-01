@@ -29,3 +29,7 @@ Russia’s environmental watchdog imposed a record penalty on Nornickel (also kn
 Brooks Brothers, founded in 1818 and the oldest retailer of men’s clothing in America, filed for bankruptcy protection. Privately owned, Brooks has outfitted American presidents and been a purveyor of the finest sartorial elegance to countless businessmen, and, continuously from 1976, businesswomen. Even before the pandemic its business had to contend with the fashion for more casual office attire among executives.
 
 The popularity of loungewear and loose pants during the lockdown is possibly one reason why Levi Strauss suffered a 62% slump in quarterly sales. The maker of tight jeans is slashing 15% of its staff.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/07/11/business-this-week

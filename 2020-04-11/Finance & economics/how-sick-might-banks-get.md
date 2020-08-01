@@ -43,3 +43,7 @@ Whether banks end up drowning in red ink, or merely spattered with it, depends o
 In a letter on April 6th Jamie Dimon, boss of JPMorgan Chase (JPM), assured shareholders the bank could comfortably withstand an extreme (“and, we hope, unlikely”) scenario, in which GDP falls by 35% and unemployment hits 14%, emerging with capital above the safe minimum. JPM is the strongest, most profitable of the world’s big banks. Others, faced with such a storm, could find themselves in trouble. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/04/08/how-sick-might-banks-get

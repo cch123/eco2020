@@ -21,3 +21,7 @@ But the greatest confusion is within the travel industry, which must plan ahead.
 Airlines, tour operators and holidaymakers want an explanation for the government’s perplexing policy. A better idea might be to ask YouGov. “I know that some newspapers are obviously opposed to it, for whatever reason,” says the Home Office spokesman. But “the polling shows 63% [of Britons] support these measures.” The government says it is following “the science”. Psephology is a science too. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/06/11/britains-new-quarantine-rules-are-a-head-scratcher

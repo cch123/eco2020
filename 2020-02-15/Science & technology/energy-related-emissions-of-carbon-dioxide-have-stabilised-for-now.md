@@ -21,3 +21,7 @@ This is not the first time energy-related emissions have plateaued. Between 2013
 The news is also tempered by the latest data from the Amazon rainforest. This, one of the world’s largest woodlands, has acted historically as an absorbing sponge for CO2 by removing it from the atmosphere through photosynthesis. Researchers at Brazil’s National Institute for Space Research have shown that a vast part of the south-east of the Amazon, about one fifth of its area, has lost its ability to soak up the gas and is now a net source of emissions into the atmosphere instead. This land has been widely deforested, so the result is little surprise. But it is disappointing.
 
 Sign up to our fortnightly climate-change newsletter [here](https://www.economist.com//theclimateissue/)
+
+## URL
+
+https://www.economist.com/science-and-technology/2020/02/15/energy-related-emissions-of-carbon-dioxide-have-stabilised-for-now

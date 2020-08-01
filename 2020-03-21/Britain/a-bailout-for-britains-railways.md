@@ -19,3 +19,7 @@ The industry fears that Whitehall’s bandwith is being consumed by the wider vi
 Keith Williams, the former airline-industry boss heading the review, had been expected to recommend a move from the current franchise model to a concession system. Under that framework, common in other rich countries, private companies manage the trains, but the model is different from the one operating in Britain. Rather than carrying the costs and reaping the rewards, rail companies get a fee from the state for the service they provide. The government gets the income from fares, and taxpayers bear the risk in case of losses. That’s how London Overground, a well-run network, operates.
 
 Train operators have been somewhat wary of a concession model, preferring the potential financial upside of the current franchise arrangements. But with losses mounting, the sector is now keen for the government to take back control. A once controversial package of reforms has suddenly found unlikely friends.■
+
+## URL
+
+https://www.economist.com/britain/2020/03/21/a-bailout-for-britains-railways

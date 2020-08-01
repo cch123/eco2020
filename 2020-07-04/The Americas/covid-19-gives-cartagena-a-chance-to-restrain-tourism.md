@@ -27,3 +27,7 @@ William Dau, who was elected mayor in October on an anti-corruption platform and
 The central government is supportive. Julián Guerrero, the deputy minister of tourism, suggests making timings of holidays less rigid to spread the influx of domestic tourists across the year. Cartagena joined the “living heritage programme” of the Inter-American Development Bank, which advises cities on how to make historic centres places to live rather than merely visit. Cities that preserve their culture and history attract such agreeable institutions as galleries, street markets and start-up firms, says Jesus Navarrete, the programme’s co-ordinator. After the pandemic ebbs, says Ms Peñas, the walls that once repelled pirates will keep tourist hordes away. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/the-americas/2020/07/02/covid-19-gives-cartagena-a-chance-to-restrain-tourism

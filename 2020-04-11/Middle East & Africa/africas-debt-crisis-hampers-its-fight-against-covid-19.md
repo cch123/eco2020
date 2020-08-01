@@ -31,3 +31,7 @@ More than 100 international NGOs have called for a cancellation of all debt paym
 Even if lenders listen to the NGOs and suspend all debt payments this year, there is still trouble ahead for African countries. Most collect relatively little tax. Low commodity prices have led to decreased revenues. And the countries that borrow the most also tend to be irresponsible spenders. Once this crisis is over, a wall of payments awaits them. ■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/04/11/africas-debt-crisis-hampers-its-fight-against-covid-19

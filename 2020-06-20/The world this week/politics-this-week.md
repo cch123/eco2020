@@ -47,3 +47,7 @@ The remaining lockdown restrictions were lifted in France, enabling bars and res
 Next year’s Oscars ceremony was postponed by two months until April 25th. It is not yet clear whether the event will be held in a theatre or virtually.
 
 The English Premier League resumed its season, three months after it was suspended. The football matches are being played behind closed doors.
+
+## URL
+
+https://www.economist.com/the-world-this-week/2020/06/18/politics-this-week

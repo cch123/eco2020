@@ -23,3 +23,7 @@ But the crisis has also made people poorer. In Kenya, where mobile money is well
 Many of these effects will be temporary. Lockdowns are already starting to ease. In several countries transaction charges are being restored: without them, the mobile-money business is unprofitable. But as the M-Pesa story shows, habits formed during a crisis can sometimes outlast it. One of the biggest barriers to mobile-money adoption is that people do not trust the service, says Hennie Bester of Cenfri. The pandemic is forcing them to set aside their wariness, perhaps for good. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [coronavirus hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+## URL
+
+https://www.economist.com/middle-east-and-africa/2020/05/28/the-covid-19-crisis-is-boosting-mobile-money

@@ -23,3 +23,7 @@ This may be Mr Putin’s goal. He sees it as self-defence. Russia’s regime exp
 To hit back, propagandists advised the Kremlin to exploit divisions between Poland and the EU created by Poland’s attacks on the independence of its judiciary. Poland had hurt its credibility in 2018 with a bill that would have made it a crime to say that Poles collaborated in the Holocaust (which some did). In a discussion among historians, reported in the Russian press, Fyodor Gaida of Moscow State University laid out the strategy: “If we and the European bureaucrats need a common enemy, I guess Poland will be the first candidate …Our main ally is, yes, Israel. These topics must be developed: Jews in the Red Army and so on.”
 
 Israel has its own reasons to be nice to Russia, which has become a dominant player in Syria. Mr Putin is popular with the country’s Russian immigrants; Binyamin Netanyahu, the prime minister, used pictures of the two of them together during his recent election campaign. None of this has much to do with history, which is always a victim of political battles in the present. ■
+
+## URL
+
+https://www.economist.com/europe/2020/01/23/vladimir-putin-wants-to-rehabilitate-stalins-pact-with-hitler

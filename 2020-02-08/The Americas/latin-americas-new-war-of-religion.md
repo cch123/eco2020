@@ -25,3 +25,7 @@ The Catholic church, too, is no stranger to politics. It used to promote Christi
 Not all evangelicals are conservative. In Brazil’s election in 2018, Mr Bolsonaro got 22m evangelical votes but his left-wing opponent got 10m, estimates Datafolha, a pollster. Nor is religious conservatism carrying all before it. Brazil’s Supreme Court last year ruled that homophobic acts are criminal. Alberto Fernández, Argentina’s new president, has proposed a bill to legalise abortion.
 
 Popular religiosity in Latin America has strong roots, as solace in an often unjust world. But secularism has served the region well. It has been free of religious strife since the 1920s. Latin America cries out for more, not less, science. Many of its citizens believe that their democracies owe them the right to live as they wish. The separation of religion and politics needs defending.
+
+## URL
+
+https://www.economist.com/the-americas/2020/02/06/latin-americas-new-war-of-religion

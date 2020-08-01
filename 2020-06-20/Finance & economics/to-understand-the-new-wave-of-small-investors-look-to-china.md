@@ -23,3 +23,7 @@ As noisy as Mr Portnoy and his ilk are, they have been almost drowned out by the
 Put aside the harrumphing for a moment. There is something to cheer in all this. Academics have puzzled over why more people do not participate in the stockmarket. The literature suggests peers have an influence. A paper in 2002 by Esther Duflo and Emmanuel Saez, for instance, finds that the pension choices of university librarians were swayed by their colleagues. That does not mean there is nothing to worry about. Outside of their pension plans, even experienced retail investors have a habit of over-trading—to the detriment of returns. The tendency to churn portfolios is higher in men than women. It is linked to over-confidence and thrill-seeking.
 
 The Stock Operator knew the type. There is a higher grade of speculator, he said, who knows enough to avoid the trading mistakes beginners make. This kind loves to buy on stock declines and to quote wise-sounding aphorisms. The bucket shops and brokerages love him. For it is this sort of speculator, the “semi-sucker”, that keeps them in business.
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/06/18/to-understand-the-new-wave-of-small-investors-look-to-china

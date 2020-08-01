@@ -23,3 +23,7 @@ Britain’s diffuse policing structure does not help. Some of England and Wales�
 Restrictions elsewhere are far more draconian. In South Korea, an app alerts the authorities if citizens stray from their quarantine. The French must carry a written declaration of their reasons for going out. The fuss in Britain may be particularly acute precisely because its cops normally use such a light touch. Most officers are unarmed. Fatal shootings trigger automatic inquiries. And, says Lawrence Sherman of Cambridge University, “there is an absolute cultural dedication to proportionate policing”. Long may it last.■
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/britain/2020/04/04/policing-in-a-lockdown

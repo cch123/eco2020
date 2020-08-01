@@ -43,3 +43,7 @@ Many companies were already working to reduce their reliance on China’s factor
 Adding it all up, the Chinese economy is in for a grim start to the Year of the Rat, and this will cast a shadow globally. Chen Long of Plenum, a consultancy, thinks China’s growth could slouch to 2% year-on-year in the first quarter, its weakest in decades, down from 6% in the final quarter of 2019. But he expects a strong rebound when the country gets back to normal. People long cooped up will flock to shops and restaurants. Factories will rush to make up for lost time. To give the recovery a push, officials will increase infrastructure spending.
 
 The unknown is when normality might resume. In Yu Gardens, Mr Li could not wait. With business way down, he has told the three assistants in his silk-scarf shop to stay at home, unpaid—typical for small businesses in China. The death toll from the coronavirus is rising. And the whole country is paying a price.■
+
+## URL
+
+https://www.economist.com/international/2020/01/30/chinas-coronavirus-semi-quarantine-will-hurt-the-global-economy

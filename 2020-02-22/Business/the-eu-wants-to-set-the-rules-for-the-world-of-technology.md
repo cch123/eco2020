@@ -23,3 +23,7 @@ There are signs that the Brussels effect will work its magic again. Facebook is 
 But the Brussels effect may be less effective than in the past. The ground on which the debate over privacy legislation was conducted had been long established before the GDPR, but regulation in AI is nascent. Experts still quarrel over such basic questions as what AI actually is. And the EU, where politicians tend to favour stricter regulation, may overdo it. This could push the tech giants to differentiate their regional offerings after all (and stymie Europe’s startups). Worse, the data strategy could easily turn protectionist.
 
 If the EU’s digital plans became restrictive policy driven by protectionism, that would limit Europe’s ability to set global rules which could help to give its firms a much-needed leg up. It would also make it much harder for the EU to establish what the digital world will badly need, should regulation of tech remain stalled in America even after the presidential election. At risk is Europe’s role as a third “techno-sphere”—one that is not controlled by a handful of tech titans, as it is in America, or by the Chinese state.■
+
+## URL
+
+https://www.economist.com/business/2020/02/20/the-eu-wants-to-set-the-rules-for-the-world-of-technology

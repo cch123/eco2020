@@ -41,3 +41,7 @@ How this all plays out in Cambodia can be seen in the seaside town of Sihanoukvi
 More buildings are in a state of hasty construction than are completed—last year a high-rise collapsed, killing 28 workers. The city’s drains cannot cope. Maggie Eno, who runs the M’Lop Tapang school for street children, shows how monsoon floods turned the ground floor and playground into seas of raw sewage. Brothels operate out of plyboard shanties on construction sites. Thugs murder rivals in gangland killings, dumping victims’ bodies out of cars in the middle of town. And Sihanoukville’s beaches are piled high with plastic detritus from the Chinese invasion.
 
 Perhaps the worst is over. Last year the Cambodian government, reacting to the chaos at last, banned most gambling. In one of the town’s casinos recently, a Chinese construction foreman said he was having one last fling before heading home. The bubble has burst. But it will be many years before the city recovers. ■
+
+## URL
+
+https://www.economist.com/special-report/2020/02/06/chinese-investment-in-eurasia-is-not-always-smooth

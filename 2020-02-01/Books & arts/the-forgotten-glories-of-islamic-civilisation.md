@@ -23,3 +23,7 @@ This openness, Mr Marozzi says, made Islamic cities a “giant ideas laboratory�
 As the threats from a resurgent West mounted, however, some rulers turned inward; the faithful grew defensive. Defeat and intolerance went hand in hand. Sultan Hossein, a shah of the Safavid dynasty, shut Christians and Jews indoors when it rained lest they contaminate Shias. He lost Isfahan to the Afghans in 1722 and was beheaded in his dazzling Hall of Mirrors. “Craters had replaced flowerbeds,” reflects Mr Marozzi as he wanders through what had been Kabul’s terraced gardens. “The heterogeneous has given way to the homogeneous.”
 
 Mr Marozzi resists the impulse to say modern Islam has reverted to its harsh, intolerant origins. With their free trade, multinational populations, sybaritic excesses, showpiece museums and soaring architecture, his last two cities, Dubai and Doha, recall those of the heyday he mourns. The appetite for huge sports events, such as the football World Cup of 2022, testifies to their global ambitions. If only they could also recover Islam’s intellectual buzz. ■
+
+## URL
+
+https://www.economist.com/books-and-arts/2020/01/30/the-forgotten-glories-of-islamic-civilisation

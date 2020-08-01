@@ -23,3 +23,7 @@ Much of the alarm on the right, though, is both hypocritical and overblown. The 
 Coalitions of the left are rare in Europe. The prime minister is not an ideological radical. But he is on potentially treacherous ground. Some in his party are worried. Perhaps for that reason, he postponed his first cabinet meeting to give himself more time to organise the government. His next job is to get parliamentary approval for a budget with the coalition’s programme.
 
 Provided he does so, his hold on office may be more durable than it looks. The opposition is divided. His hardest task may to be to restore his credibility with the public. “With his sudden and cynical coalition [he] has alienated for a long time millions of Spaniards without conquering a single new one,” wrote Javier Marías, a novelist, in El País, a newspaper. Winning them back will require not just Mr Sánchez’s characteristic resilience, but good government. ■
+
+## URL
+
+https://www.economist.com/europe/2020/01/09/at-last-a-new-government-for-spain

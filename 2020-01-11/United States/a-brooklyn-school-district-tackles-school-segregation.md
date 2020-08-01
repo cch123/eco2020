@@ -19,3 +19,7 @@ It is still early days for District 15. But so far, integration appears to be st
 The city hopes District 15’s success can be replicated. Poor children who go to integrated schools have higher test scores, are more likely to go to college and are less likely to drop out of school.
 
 It may be a tough sell. One teacher notes that parents in Park Slope can be competitively progressive. The same zeal does not exist across the city. Even in liberal Brooklyn, there was unease at first about District 15’s integration plan. A plan to desegregate the district’s elementary schools has been postponed a year to do more outreach. Sweeteners, such as dual-language immersion programmes or Montessori teaching approaches, may help. “We won’t have real integration until kids are going to each other’s birthday parties and bat mitzvahs,” says Anita Skop, the district superintendent. But “it’s coming”.
+
+## URL
+
+https://www.economist.com/united-states/2020/01/09/a-brooklyn-school-district-tackles-school-segregation

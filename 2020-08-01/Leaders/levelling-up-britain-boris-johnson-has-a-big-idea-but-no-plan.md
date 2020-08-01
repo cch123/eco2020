@@ -33,3 +33,7 @@ David Cameron, who ran a more urbane government than Mr Johnson, began to build 
 To make metropolitan government more independent, it should be given greater power over taxation. Britain is overdue a reform of local property taxes, which are too low and not very progressive. Local and metropolitan authorities could also retain business rates, as some already do. There is even a good case for allowing them to levy income taxes, although within strict limits, to avoid tax competition. Scotland already has that power. There will need to be a balancing mechanism to prevent the poorest areas from losing out in the short term.
 
 Britain has been so politically and fiscally centralised for so long that such changes would be a wrench. They should be tried all the same. Mr Johnson has taken risks before, and won.■
+
+## URL
+
+https://www.economist.com/leaders/2020/07/30/levelling-up-britain-boris-johnson-has-a-big-idea-but-no-plan

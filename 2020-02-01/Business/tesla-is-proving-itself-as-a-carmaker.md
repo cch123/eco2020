@@ -21,3 +21,7 @@ If all goes to plan, reckons Morgan Stanley, a bank, Tesla will be making 2m veh
 But then why is Tesla worth twice as much? For one thing, its electric-car technology leaves rivals in the dust. It is also unencumbered by the legacy of a business based on internal combustion engines, which, reckons UBS, another bank, could make it the world’s most profitable carmaker. Jefferies, one more bank, points out that a stronger balance-sheet (should it in fact strengthen) would allow Tesla to start thinking beyond merely making cars. It speculates that the firm may confirm it is working on a project to develop a “million mile” battery, which will set a new standard for energy density and lifespan.
 
 Its ambitious expansion nevertheless faces many challenges of the car industry: spiralling labour costs, warranty issues, cut-throat competition as rivals (including go-getting Chinese ones) close the technology gap. For the time being, Tesla may bask in a Big Tech valuation, predicated on its disruption of carmaking. Investors appear keener than ever to condone its joyride. But if recurring profits do not materialise, expect them to confiscate the keys. ■
+
+## URL
+
+https://www.economist.com/business/2020/01/30/tesla-is-proving-itself-as-a-carmaker

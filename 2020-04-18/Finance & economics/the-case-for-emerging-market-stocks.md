@@ -29,3 +29,7 @@ Definitions matter, of course. Part of the appeal of indices of emerging-market 
 That feature alone should be appealing to a certain kind of investor. If the world is indeed changed radically by this health crisis, it may be in ways that are hard to imagine today. And if you are unsure of the future, it makes all the more sense to spread your bets.
 
 Dig deeper:For our latest coverage of the covid-19 pandemic, register for The Economist Today, our daily [newsletter](https://www.economist.com//newslettersignup), or visit our [coronavirus tracker and story hub](https://www.economist.com//coronavirus)
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/04/18/the-case-for-emerging-market-stocks

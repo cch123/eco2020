@@ -14,6 +14,8 @@ The dispute has simmered for years. Turkish drilling ships periodically sail int
 
 The two NATO countries have had their share of dust-ups of late. Earlier this year Turkey’s President Recep Tayyip Erdogan encouraged tens of thousands of migrants to breach the border with Greece. More recently the conversion of the Hagia Sophia saw the country’s top mufti delivering a sermon while clutching an Ottoman sword. The border crisis helped Mr Erdogan distract public opinion at home from an air strike that killed dozens of Turkish troops inside Syria (see [article](https://www.economist.com//node/21790210)). The reconquest of the Hagia Sophia came amid the economic fallout from the coronavirus crisis. Both were also intended to put pressure on Greece.
 
+
+
 ![](./images/20200801_EUM932.png)
 
 Turkey and Greece are staking competing claims to the waters between them, and the energy riches that may lie beneath the waves. Greece holds that its islands, even the smallest, have continental shelves where it has the sole right to drill. The EU and America agree. The Eisenhower, an American aircraft-carrier, accompanied by 12 smaller vessels, recently held a joint exercise with a Greek frigate and several Greek F-16 fighter jets off the island of Crete. Meanwhile, France threatened to slap Turkey with sanctions.

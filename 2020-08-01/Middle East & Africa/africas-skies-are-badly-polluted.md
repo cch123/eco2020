@@ -16,6 +16,8 @@ Fetid rubbish, old cars and filthy factories fill Africa’s air with smoke, rar
 
 Yet the WHO reckons that only 0.5% of African towns and cities have accessible air-quality data (Dakar is one of them). That would be unthinkable in the West (see map). Children are particularly at risk. In Europe and North America 72% of children live within 50km of an air-monitoring station versus only 6% of African children. Even in African cities that do track air quality, the data are patchy. “Most of the equipment in use is obsolete,” says Kofi Amegah of the University of Cape Coast in Ghana.
 
+
+
 ![](./images/20200801_MAM936.png)
 
 South Africa is an exception. There, as in much of the West, air-quality data are constantly and publicly available, so commuters and asthmatics can avoid the worst smog. Researchers can estimate the damage both to people’s health and the economy with reasonable accuracy.

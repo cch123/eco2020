@@ -14,6 +14,8 @@ When it does rebound, the twin priorities should be to put the industry on a sou
 
 Start with carbon emissions. The dramatic declines this year are a distraction because as people resume flying, emissions will start to rise again. Neither should the industry’s sorry financial state today relieve it of recent pressure to decarbonise in the future. For many years aviation mostly had a free pass when it came to regulations of the type that forced carmakers to clean themselves up. Before the pandemic that had been changing. Some airlines had begun to worry about their reputations as “flight shame” raised awareness of how travelling by air accelerated global warming. Aircraft-makers were starting to plan the next generation of cleaner planes.
 
+
+
 ![](./images/20200801_LDC010_0.png)
 
 The question is how an industry whose finances are in tatters can make the vast investments and the huge technological leap required for net-zero-emissions flying. Bail-outs are the wrong answer. Only 30 airlines were profitable before the crisis and rescues will keep failing carriers alive. Some green strings are attached to rescue deals—a recognition of the changing mood—but they may not outweigh the zombifying effects of lavish rescue packages. Lufthansa’s €9bn ($9.8bn) bail-out allows it to buy 80 new fuel-efficient planes, but it took more money than it needed to preserve its position as a global airline. France’s aerospace bail-out includes €1.5bn to develop zero-emission planes and obliges airlines not to fly shorter routes between French cities that are served by trains. The exception? Feeder airports for Air France’s Paris hub. America’s airlines, showered with federal subsidies for decades, have trousered $25bn.

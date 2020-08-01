@@ -22,6 +22,8 @@ Today Alphabet is a conglomerate of businesses that sometimes appear to have lit
 
 On the surface this might suggest that Alphabet, like most big tech firms, is a “one-trick pony”, in the words of Michael Cusumano of MIT Sloan School of Management. In fact, it is a herd of ponies, some of which look rather more like full-grown Shires. Nine have more than a billion users globally (see chart 2). Every day people make an estimated 6bn search queries on Google and upload more than 49 years’ worth of video to YouTube. More than 300bn emails are said to be sent every day and if only one-third originate on Gmail—a conservative estimate—then a stack of print-outs would be 10,000km high.
 
+
+
 ![](./images/20200801_FBC644.png)
 
 And there is more. “Other bets”, as Alphabet’s financial statements refer to its non-core businesses, now number 11, each with its own capital structure. These include Access (offering fibre-optic broadband), GV (which invests in startups), Verily (a health-care firm), Waymo (a developer of autonomous cars) and X (a secretive skunk works engaged in all manner of moonshots). Commercially these ventures seem only loosely connected with the core. What links them to the main business is information processing—and specifically these days artificial intelligence (AI), which powers everything from search to Waymo’s self-driving cars.
@@ -29,6 +31,8 @@ And there is more. “Other bets”, as Alphabet’s financial statements refer 
 Early on, the founders decided that to enable the company to grow with startup-like speed regardless of its actual size, they would create a singular organisational mix of institutions they knew best: the internet, the open-source-software movement and Stanford’s post-graduate programme, where the duo came up with Google’s original search algorithm in 1996.
 
 Like the internet, Google was envisaged as an ever-expanding collection of groups of engineers linked by a common language and common goals, most prominently to “organise all the world’s information”. Alphabet, too, is a network of networks held together by technical standards. It grows horizontally by adding yet more networks.
+
+
 
 ![](./images/20200801_FBC639.png)
 
@@ -46,15 +50,21 @@ The result is a collection of semi-independent firms with powerful bosses sittin
 
 These decisions are becoming harder. Googlers have always prided themselves on solving the toughest problems in computer science—less so on making money. This may be one reason why some of the company’s hit services generate smaller revenues than they might, like YouTube, or barely any at all, like Maps. Monetisation from the “other bets” has scarcely begun. They racked up more than $5bn in losses in the four quarters to March. Only Access and Verily bring in material revenues. Some could one day turn into huge businesses: Waymo was valued at about $30bn when it raised outside capital this spring. But even that impressive figure is much less than earlier estimates, which valued the autonomous-driving unit at more than $100bn.
 
+
+
 ![](./images/20200801_FBC640.png)
 
 None of this used to matter much, as long as Google’s ad products were “a gold-threaded safety net underneath every daring innovation”, as Steven Levy, one of Silicon Valley’s scribes, put it in 2011. It becomes a problem when it translates into lower margins and weaker stockmarket performance than rival tech giants (see chart 3 and chart 4).
+
+
 
 ![](./images/20200801_FBC641.png)
 
 Online advertising overall is far from a mature market, but growth in search ads, which continue to generate about 60% of Alphabet’s revenues, has slowed. In 2019 sales expanded by 15%, a healthy clip but considerably lower than the 22% a year earlier. General online search is also being “hollowed out” by specialised searches, says Mark Shmulik of Bernstein, a research firm. Mr Shmulik estimates that about 60% of product searches now start on Amazon (whose fast-growing online-ad business is already the world’s third-biggest behind Google and Facebook).
 
 Alphabet’s engineer-driven bottom-up culture is also showing signs of age. It can be hit and miss. “You can paper over a lot of problems by throwing money at it and hiring more bodies,” says a long-time Googler, who previously worked for Microsoft, which was regularly scooped by Google when it came to new products. “I thought they must have really clever strategists,” he recalls, only to discover on joining the firm that it “had hundreds of things happening in parallel”. Alphabet executives often liken their firm’s structure to a “slime mould”—organisms that survive as single cells, but must aggregate to reproduce.
+
+
 
 ![](./images/20200801_FBD002_0.jpg)
 
@@ -87,6 +97,8 @@ However, Mr Kurian’s financial success carries a risk. Insiders report a mini-
 That hints at a bigger unsolved problem with Google’s culture. After the walkouts, management made some tweaks. “When we were smaller, we all worked as one team, on one product, and everyone understood how business decisions were made. It’s harder to give a company of over 100,000 people the full context on everything,” Mr Walker reportedly wrote in November in an internal newsletter. The TGIF meetings are now held only once a month and limited to business-related questions. The largest internal mailing lists are moderated and postings deemed too political are allegedly being taken down. These days employees are being told to access sensitive documents only if they “need to know”. Some staff talk of creating if not a labour union, then at least a group to defend their interests.
 
 In the wake of the killing of George Floyd many Googlers criticised their top management for doing too little, too late to make the company more diverse; after a couple of weeks the firm vowed to raise the “leadership representation of underrepresented groups” by 30% over the next five years. In June more than 2,000 employees signed an open letter to Mr Pichai demanding that the company stop selling its technology to police forces across America.
+
+
 
 ![](./images/20200801_FBD003_0.jpg)
 

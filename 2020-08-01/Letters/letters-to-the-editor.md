@@ -40,6 +40,8 @@ HEATHER KATZAssistant professor of political scienceSouthwestern Oklahoma State 
 
 * “What is the point” of a theory of justice that is silent on “how the actual world is ravaged by injustice?” My own view: properly applied, John Rawls clears away the whataboutery and wonkishness to expose our persistent racism as a stunning, continuing injustice. A nail may want a hammer, but we need a lamp to see our work.V.VM.SCARPATO IIIDenver
 
+
+
 ![](./images/20200711_IRD001.jpg)
 
 * You lamented the disempowerment of individualism. However, American slavery and subsequent institutional oppression did not operate on an individual basis, but by the desire to keep an entire group of people disenfranchised and powerless. Hence, it is impossible to uproot this mentality from the American way of life. Black people decry daily their inability to carry on simply as individuals, a privilege only afforded to white people. But they do recognise that the institutions that shape their lives are fundamentally biased against their group. Data show significant inequalities between the races, and much of black culture has developed as a direct consequence of these inequalities. How can one begin to remedy such differences without considering the historical and ongoing group dynamics?The truth is that a black person can have individual freedom and the pursuit of happiness only if African-Americans as a group have freedom and the pursuit of happiness. If liberalism cannot incorporate such a moderate idea, perhaps it is time to rethink how progress should be achieved, to dare suggest that another system can give America the “life expectancy, material wealth, poverty, literacy, civil rights and rule of law” for which you credit liberalism, in addition to the racial equality that has eluded it so far.PATRICK NTWARIBoston* The implicit bias trainings I have attended awakened a notion that we all have a demon inside us that distrusts the different borne of millennia of seeking survival and self-defence. This demon cannot be wished away. Instead, focus on what we control and judge accordingly.
@@ -47,6 +49,8 @@ HEATHER KATZAssistant professor of political scienceSouthwestern Oklahoma State 
 Do we really want to be judged for differences we have no control over? It was Martin Luther King who dreamed of the day when his children will live in a country where they will not be judged by the colour of their skin, but by the content of their character. No human being has a choice about which body to be born into. Prejudice on this basis is patently illogical. Rainbow flags and gay-pride parades herald the type differences we do not control. Focus on the important quality we do control, which is our character. May our character exude kindness rather than malevolence.
 
 PETER ROBERTSSeattle
+
+
 
 ![](./images/20200711_FBP001.jpg)
 
@@ -73,6 +77,8 @@ SIMON DIGGINSRickmansworth, Hertfordshire
 * Critical race theory brings to mind one fundamental Marxist concept: that there is no “objective truth” and each class generates its own “truth”. Race ideology, just like Marxism, did not take “a wrong turn”. As somebody who was forced to study Marxism in a communist country, I see a perfect similarity: an ideology pushed by intellectuals with little contact with the real world, no compassion for real people, and fancy concepts leading to the most unfair and sinister consequences. Critical race theory leads by design to intolerance, the silencing of dissenters and polarisation.
 
 ANDREI TUDORANHouston
+
+
 
 ![](./images/20200711_IRD003.jpg)
 

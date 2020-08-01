@@ -16,6 +16,8 @@ The airline-industrial complex is vast. Last year 4.5bn passengers buckled up fo
 
 Instead, the coronavirus has lopped $460bn from this market value (see chart 1). Airline bosses are reassessing trends in passenger numbers, which had been expected to double in the next 15 years, just as they had with metronomic regularity since 1988, despite blips after the 9/11 terrorist attacks of 2001 and the financial crisis of 2007-09. Rather than increase by 4% this year, air-transport revenues will fall by 50%, to $419bn. After ten years of unusual profitability the $100bn of total losses forecast for the next two years is equal to half the nominal net profits the industry raked in since the second world war, calculates Aviation Strategy, a consultancy. Luis Felipe de Oliveira, director-general of ACI World, which represents the world’s airports, gloomily predicts that revenues there will fall by 57% in 2020.
 
+
+
 ![](./images/20200801_WBC651.png)
 
 Despite signs of life, particularly on domestic routes in large markets like America, Europe and China, the outlook remains uncertain. The wide-body jets used for long-haul flights stand idle. Carriers that rely on business passengers and hub airports are struggling. Although some American airlines expect a return to near-full operation next year, a second wave of covid-19 could dash these hopes. A small outbreak in Beijing in June set back the recovery in Chinese domestic flights. As one senior aerospace executive says, “It’s hardest to talk about the next 12 months.”
@@ -25,6 +27,8 @@ According to Cirium, another consultancy, around 35% of the global fleet of arou
 Aircraft-makers, which had been preparing to crank up production, are forced to do the opposite. Airbus, with a backlog of more than 6,100 orders for its A320 jets, was rumoured to be raising output from 60 of the popular narrow-bodies a month to 70. Instead it is making 40. Its long-haul planes have suffered similar declines. Boeing’s situation is made worse by the protracted grounding in 2019 of its 737 MAX, a rival to the A320, in the wake of two fatal crashes. It has kept making the aircraft and hopes to have it recertified for flight later this year. The American firm will slowly increase production to 31 a month by the start of 2022. But like Airbus, it too has announced cuts to wide-body production.
 
 This will open a big gap between what the pair, along with Embraer and Bombardier, makers of smaller regional jets, hoped to sell and what they actually will (see chart 2). According to consultants at Oliver Wyman, by 2030 the global fleet will be 12% smaller than if growth had continued unabated. That amounts to 4,700 fewer planes, which could translate to $300bn or so in forgone revenue for Boeing and Airbus, according to a rough calculation by The Economist.
+
+
 
 ![](./images/20200801_WBC628.png)
 

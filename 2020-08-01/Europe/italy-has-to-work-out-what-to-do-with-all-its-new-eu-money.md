@@ -26,6 +26,8 @@ Small wonder that Mr Conte’s handling of the negotiations won him some plaudit
 
 So far, investors are unfazed. Since the recovery funds were approved, the yield gap between Italian and German government bonds, which reflects market worries about Italy, has narrowed by 14 basis points, to just 1.49%. Giovanni Zanni, chief euro-area economist for NatWest Markets, says investors focus on two things. One is a government’s ability to repay its debts: with interest rates falling, he predicts that Italy’s annual borrowing costs could soon be down to 2% of GDP. The other factor is a government’s willingness to repay: with the Eurosceptic League out of government, there is no threat of Italy leaving the euro and re-denominating, or renouncing, its debts. Mr Conte has a fragile grip on office, with a wafer-thin majority in the Senate, but one of his first moves on returning from Brussels was to reach out to Silvio Berlusconi’s increasingly moderate Forza Italia party for extra support.
 
+
+
 ![](./images/20200801_EUC627.png)
 
 To some extent, Italy’s spending priorities will be dictated from Brussels; and the frugals have won an emergency brake on disbursements if things go wrong. That could cause problems. The country has for years fought against demands for unpopular structural reforms in return for EU concessions. But the aims of the recovery fund include making Europe greener and more digital. That chimes with the priorities of Mr Conte’s government, especially its largest component, the Five Star Movement.

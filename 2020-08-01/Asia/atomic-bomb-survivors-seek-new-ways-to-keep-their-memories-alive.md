@@ -20,6 +20,8 @@ Abe Shinzo, Japan’s prime minister, has sought to revise the constitution that
 
 As Hiroshima and Nagasaki prepare for their anniversaries, politicians in Tokyo have been debating whether to acquire weapons that would enable the country pre-emptively to strike missile bases and other facilities of enemies who may be preparing to attack it. Many hibakusha are aghast. “As we look stronger, it will invite potential attackers to attack earlier,” Mr Yuzaki argues. “We have to be very careful.”
 
+
+
 ![](./images/20200801_ASC632.png)
 
 Globally, non-proliferation efforts are faltering. In January the Bulletin of Atomic Scientists moved its Doomsday Clock, a subjective measure of humanity’s proximity to self-annihilation, closer to midnight than at any time since its establishment in 1947. Donald Trump has withdrawn America from the Iran nuclear deal and the Intermediate-Range Nuclear Forces Treaty (after accusing Russia of cheating). Hibakusha are pleased that 82 countries have signed a Treaty on the Prohibition of Nuclear Weapons, created in 2017. It invokes their “unacceptable suffering” in its preamble. Yet no country with nuclear weapons has signed up to it. Nor has Japan, which shelters under America’s nuclear umbrella. Mr Yuzaki regrets that Japan has not used its moral authority as the only victim of atomic weapons to push harder for their abolition.

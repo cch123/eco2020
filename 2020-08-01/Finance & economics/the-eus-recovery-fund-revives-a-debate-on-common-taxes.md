@@ -16,6 +16,8 @@ An EU levy on plastic waste may funnel €7bn a year towards the budget from 202
 
 National vetoes might make taxing foreigners look attractive. Leaders said they would try to implement two such levies by 2023: a “carbon border-adjustment mechanism” (a tariff on climate-unfriendly imports), which could raise €5bn-14bn a year, and a less lucrative levy on (mainly American) tech firms. Yet these face problems too. The border mechanism is devilish to design and will be challenged at the World Trade Organisation. America’s opposition to a digital tax has stalled a parallel process at the OECD, and given pause to governments trying to impose national versions.
 
+
+
 ![](./images/20200801_FNC649.png)
 
 Contributions from members based on national income have long made up the bulk of the EU’s budget (see chart). Every seven years countries grapple over minor adjustments to it; the summits are bruising, but governments retain control. Introducing fresh own resources would jolt them out of such zero-sum thinking, says Valérie Hayer, a French member of the European Parliament, and give heft to common priorities, such as climate. The parliament, which must approve last week’s deal, will seek to ensure that governments’ vows on own resources are not “empty”, she adds. Yet it cannot force their hands.

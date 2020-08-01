@@ -54,6 +54,8 @@ The effects of this sanitary revolution were dramatic. Though data from the late
 
 Not all of the improvement in health can be attributed to improvements in sanitation and hygiene. Over the course of the 20th century, economists have debated the relative importance of other factors such as improved medical techniques (in midwifery, in particular) and better nutrition associated with rising incomes. Indeed, nutritional gains do seem to have played a meaningful role in reducing mortality. But the contribution from better diets is difficult to assess, given the fact that the bodies of people who grow up in disease-ridden environments are less able to retain nutrients from the food they eat.
 
+
+
 ![](./images/20200801_BKD002_2.jpg)
 
 Similarly, while some research suggests that municipal investments in public-health measures can explain most or nearly all of the decline in mortality in the late 19th century, it is difficult to be certain. Cities in which public support for sanitary investments was high, for example, might have been more aware of public-health information generally, and more inclined to practise good personal hygiene.

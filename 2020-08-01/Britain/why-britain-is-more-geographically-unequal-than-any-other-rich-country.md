@@ -30,6 +30,8 @@ Covid-19 has knocked the capital back. The streets of central London are quieter
 
 North of a line from the Severn estuary to the Wash, and south of Hadrian’s wall, lies an area that (measured by purchasing-power parity) is as poor as the American state of Alabama or the former East Germany. The regions therein—the East and West Midlands, North West, Yorkshire and the Humber, North East, Wales and Northern Ireland—contain 47% of Britain’s population. By contrast, 20% of Germans live in the former Democratic Republic, and only 15% if you exclude Berlin.
 
+
+
 ![](./images/20200801_BRM934.png)
 
 The former East Germany is emptying as young people drift west. In Britain every region is growing. Yorkshire and the Humber, which includes Maltby, is swelling three-quarters as quickly as the United Kingdom as a whole. Maltby is shedding people, but slowly for a place that has lost its main industry. Since 2002 the parish population is thought to have fallen by 4% to 16,500. Homes are cheap, and many former miners have paid off their mortgages. They can get by on money from odd jobs.
@@ -37,6 +39,8 @@ The former East Germany is emptying as young people drift west. In Britain every
 Eight miles west of Maltby, in Rotherham’s city centre, Deborah Bullivant has created something remarkable. Officially, Grimm and Co is an apothecary’s shop that has existed since 1148 but was made visible to mortals in 2016; more straightforwardly, it teaches creative writing and sells strange objects. It has been so successful that it will soon move into an enormous new premises in a former Methodist church. The shop is a quirky place, with hidden doors and a beanstalk for sliding down. But Ms Bullivant’s wonderful illusion dissolves when you look out of the front window. The view from Grimm and Co is of a charity shop, a closed bank, a closed electrical-goods store and a closed clothes shop.
 
 “Thirty or forty years ago, this was a wealthy town,” says Andrew Denniff, head of the local chamber of commerce. Now Rotherham is on its uppers. Local people claim that nearby shopping centres have sucked away customers, and that others have been scared off by a sex-abuse scandal and a series of far-right marches. The truth is bleaker. The metropolis of which Rotherham is part—which also includes Sheffield and contains 1.2m people—is ailing.
+
+
 
 ![](./images/20200801_BRC540.png)
 

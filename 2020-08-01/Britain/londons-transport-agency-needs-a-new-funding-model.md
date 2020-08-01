@@ -14,6 +14,8 @@ TfL is unusual among large public-transport operators because it relies so heavi
 
 Mr Byford says that getting the finances on a sounder footing is one of his two priorities—the other one is opening the much-delayed Crossrail line. He argues that “going with the begging bowl out to the Treasury every six months” is not a long-term solution. Instead he wants a “sustainable, affordable and predictable” funding model, ideally one that will last for decades. That will not be easy.
 
+
+
 ![](./images/20200801_BRC012.png)
 
 Sadiq Khan, the Labour mayor of London, was due to face the voters in May this year. The pandemic has delayed elections until next spring. That context may explain why TfL has been treated more harshly than the railway companies, says Tony Travers, a long-time watcher of the capital’s institutions from the London School of Economics: “The rail industry got a quiet £3.5bn bail-out with little fanfare. Meanwhile TfL got less than half as much cash, had to drop concessionary fares, raise the congestion charge, take two new government-appointed directors and accept a financial review. There’s some politics here.”

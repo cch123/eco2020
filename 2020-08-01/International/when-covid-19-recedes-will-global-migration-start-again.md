@@ -36,9 +36,13 @@ With economies reeling, many will also conclude that it is time to stop immigran
 
 The pandemic might also hurt illicit migrants. Some of the snooping tools that governments have introduced to trace the spread of covid-19 could outlast it, making it harder to work in the shadows. In China, to take the most extreme example, malls and subways often deny entry to those who lack an app on their phone to show they are healthy, which no one can get without a formal address. “It may become virtually impossible to live without papers,” writes Roberto Castillo of AfricansInChina.net.
 
+
+
 ![](./images/20200801_IRC642.png)
 
 In other ways, however, the pandemic could make people friendlier towards immigrants, many of whom have risked their lives to do essential work during the crisis (see chart 1). Health services in rich countries could not function without them (see chart 2). Roughly half the doctors in Australia and Israel are foreign-born. In America migrants were 14% of the population in 2018 but 29% of doctors. Medical research, of the sort that will one day yield a vaccine, depends on teams of the most talented minds from around the world getting together and collaborating. Some 40% of medical and life scientists in America are foreign-born. The Oxford Vaccine Group, which unveiled promising vaccine trial results in July, includes scientists from practically everywhere.
+
+
 
 ![](./images/20200801_IRC643.png)
 
@@ -73,6 +77,8 @@ When the offices that issue permits were closed, the government promised that al
 Some countries may emerge from the pandemic more open to migration. In Japan covid-19 may have spurred the government to make its pro-immigration policies more explicit. The country is ageing and needs young foreigners to clean hotels and staff shops. The polite fiction was that many of these foreign workers were “trainees”, learning skills to bring back home.
 
 But from April the government ditched the requirement that these “trainees” stick with the firm that sponsored their visa. It did not want to deport migrants who had lost jobs in one sector (eg hotels) when others (eg hospitals) were crying out for them. So it announced that they could switch employers. By doing so, it has dropped the pretence that the trainee programme is about anything more than coping with Japan’s own labour shortage, argues Menju Toshihiro of the Japan Centre for International Exchange, a non-profit. Indeed, migrant workers are so valuable that calls to exclude them from the government’s covid-19 stimulus package fell on deaf ears.
+
+
 
 ![](./images/20200801_IRP002.jpg)
 

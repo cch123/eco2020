@@ -18,6 +18,8 @@ Saddled with huge write-downs of assets, around half of which originated in its 
 
 Boeing reported a $2.4bn quarterly loss and made further cuts to production. It also confirmed that it will stop building the 747, which entered service in 1970, bringing cheaper long-haul flights to millions. See [article](https://www.economist.com//business/2020/08/01/air-travels-sudden-collapse-will-reshape-a-trillion-dollar-industry).
 
+
+
 ![](./images/20200801_WWC011.png)
 
 The World Tourism Organisation said that up to the end of May the industry saw a 56% fall in tourist arrivals, year on year, translating to $320bn in lost revenue, three times more than in 2009, during the financial crisis. Although tourism accounts for a much bigger part of the economy in smaller countries, a few big economies will feel the hit, too. Tourism is worth 7% of GDP in France and 12% in Spain; they are the number one and two destinations for holiday-makers.

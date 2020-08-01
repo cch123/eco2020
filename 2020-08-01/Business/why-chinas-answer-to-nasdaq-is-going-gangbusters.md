@@ -16,6 +16,8 @@ That all changed in July. First, Semiconductor Manufacturing International Corpo
 
 The STAR Market’s most eye-popping valuations are for companies whose products are central to the Chinese government’s desire for an independent domestic semiconductor industry. Shares of SMIC and AMEC, for instance, trade at 200 and 500 times earnings. The average price-to-earnings ratio of STAR 50 firms is a juicy 71, compared with 52 for Nasdaq.
 
+
+
 ![](./images/20200801_WBC637.png)
 
 By all technical accounts that looks rich. Experts consider SMIC and AMEC to be behind cutting-edge Western rivals. So how did the STAR Market come from nowhere to become the world’s largest money pile for tech in just a year?

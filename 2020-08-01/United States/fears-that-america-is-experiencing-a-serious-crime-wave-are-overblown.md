@@ -14,6 +14,8 @@ But the evidence that America is experiencing a major crime wave is mixed at bes
 
 It is possible that this drop is simply an artefact of reporting. Covid-19 has meant fewer people on the streets, hence fewer potential witnesses who might call the police. However, Mr Abrams notes that the share of police stops which have resulted in arrests has not changed, which suggests that the drop in crime is genuine. It seems even drug dealers have been adhering to social-distancing guidelines.
 
+
+
 ![](./images/20200801_USC006.png)
 
 There are some exceptions to this decline. Non-residential burglaries spiked in early June, coinciding with the peak of the George Floyd protests, when looting of retail stores was common. Domestic violence has also probably increased. Data are sparse because only a small fraction of victims report being abused, and because police departments can be slow to share what numbers they do have. Research by Emily Leslie and Riley Wilson of Brigham Young University finds that calls related to domestic violence in March to May rose by an average of 7.5% in 14 cities compared with the same period in the previous year.

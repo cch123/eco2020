@@ -36,6 +36,8 @@ Ecuador’s defence minister said he was monitoring a fleet of around 260 mostly
 
 In Bolivia the electoral court postponed the country’s presidential election for a second time. It had been rescheduled to take place in early September, but because of covid-19 the date was pushed back to October 18th. The left-wing opposition rallied its supporters to protest against the delay. It has accused Jeanine Áñez, the centre-right interim president, of using the pandemic to cling to power. See [article](https://www.economist.com//the-americas/2020/07/30/the-return-of-rigged-elections-in-latin-america).
 
+
+
 ![](./images/20200801_WWC020.png)
 
 Vietnam recorded its first infections since April. It has still reported no deaths.

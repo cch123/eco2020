@@ -14,6 +14,8 @@ A few months ago the coronavirus shock looked financially lethal. But emerging-m
 
 In China, the biggest emerging economy of all, the revival of activity has been remarkable. Its GDP somehow grew by 11.5% in the second quarter, compared with the first, an annual pace of 59%, according to UBS, a bank. That left it 3.2% higher than in the prelapsarian era of April-June 2019. Capital Economics, a consultancy, now expects that by the end of this year China’s output will have caught up to where it would have been without the pandemic.
 
+
+
 ![](./images/20200801_FNC652.png)
 
 China’s growth has helped lift commodity prices, benefiting the roughly two-thirds of developing countries that export oil, metals and other primary products. The dollar value of Indonesia’s goods exports in June was 2.3% above that of a year earlier, defying expectations of a 12.3% fall. Other big emerging economies have also reported pockets of resilience or piecemeal recovery. In Mexico remittances were over 3% higher in May than a year earlier, perhaps because its emigrants took the opportunity to send money home while the peso was cheap. India in May and June regained over 90m of the 114m jobs lost in April, according to the Centre for Monitoring Indian Economy, a research firm.
@@ -33,6 +35,8 @@ If that is true, some industries in emerging economies will need reinvention. Bu
 To their credit, policymakers in emerging economies have tried to keep banks and firms intact. In March central banks in 42 developing countries cut interest rates, according to the World Bank, far more than in any month in 2008. Many have also become more ecumenical lenders of last resort. India’s central bank, for example, is helping to shore up shadow banks.
 
 A number of central banks have also bought sovereign bonds, helping governments provide as much stimulus as they dare (see chart). During the global financial crisis, recalls Mr Kose, some policymakers would say: “Maybe we shouldn’t do this, or we shouldn’t do that.” Those conversations have not happened this time.
+
+
 
 ![](./images/20200801_FNC653.png)
 

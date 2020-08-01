@@ -14,6 +14,8 @@ An analysis by The Economist suggests that, in the world of hip-hop at least, th
 
 All five posthumous albums in our sample performed better in their first week than previous works by the same artists. Pop Smoke and Juice WRLD’s posthumous albums, both released in the past month, amassed roughly four and seven times more AEUs, respectively, than the average releases during their lives. The posthumous works of Lil Peep and Mac Miller also recorded huge jumps in first-week sales (see chart).
 
+
+
 ![](./images/20200801_USC523.png)
 
 Critics of posthumous releases—including fans, music critics and artists alike—say they are a corporate cash-grab and a blight on a dead artist’s career. They allege that record labels compiling posthumous releases cram them with filler tracks and unfinished songs, in part to boost sales figures (the AEU system favours releases with more songs). There may be some truth to that. Since 2018, according to our figures, there has been a positive correlation between the number of tracks on a chart-topping album and its AEUs during the first week. But the relationship is very weak.

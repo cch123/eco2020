@@ -14,6 +14,8 @@ For the moment, the spikes in Europe are largely confined to a few hotspot count
 
 The rise in cases across Europe is not surprising, says Hans Kluge of the World Health Organisation. As lockdowns were lifted and people resumed travel and mingling, both imported cases and the local spread of the virus have pushed tallies up. What is different now is that testing and tracing systems are catching local spikes early, and authorities are battling them with localised measures. On July 27th Antwerp, Belgium’s most populous province, announced a night curfew for non-essential movement and made masks mandatory in public spaces; people were told to stay at home as much as possible. Covid clusters have emerged across Germany, in care homes, workplaces and private parties, forcing officials to impose localised lockdowns. In mid-July the Catalan authorities reimposed a strict lockdown in Lleida, a city of 140,000. Nightclubs in Barcelona and other hotspots in Spain were recently shut or ordered to close early.
 
+
+
 ![](./images/20200801_EUM937.png)
 
 Varying covid-19 rates across Europe have prompted countries to make some tough choices. In a normal year, some 18m Britons seek fun in the sun in Spain, along with lots of other northern Europeans. But as cases in Spain notched up, Britain and Norway swiftly brought back quarantine for people coming from Spain. Vacationers to Greece from some Balkan countries must now show proof of a negative covid-19 test to enter the country. That has dealt a blow to whatever remained of the foreign tourist season in much of southern Europe. But there has been a collective sigh of relief among health officials watching with trepidation clubs and beaches crowded with drunk foreigners.

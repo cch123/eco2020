@@ -20,6 +20,8 @@ Wells Fargo became the first big American bank to cut its dividend in light of t
 
 Cirque du Soleil filed for bankruptcy protection and laid off 3,500 employees who had been furloughed in March, when it was forced to cancel performances because of covid-19. In other pandemic-related redundancies, SSP Group, which operates food outlets at transport hubs around the world, and is best known in Britain, its home market, for its Upper Crust and Camden Food Co shops, slashed 5,000 jobs. Microsoft announced the permanent closure of all its 83 stores, most of which are in America.
 
+
+
 ![](./images/20200704_WWC294.png)
 
 American stockmarkets recorded their best quarter in at least two decades. From April to June the S&P 500 and Dow Jones Industrial Average rose by around 25%, and the Nasdaq by over a third. Most of the gains came in April and May following the market rout in March amid the coronavirus crisis (European stocks actually outperformed the S&P 500 in June). Most share indices are still lower than at the start of the year. The tech-heavy Nasdaq is a notable exception; it has climbed by 10%.

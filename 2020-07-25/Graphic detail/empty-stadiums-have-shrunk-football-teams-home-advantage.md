@@ -6,6 +6,10 @@
 
 > Jul 25th 2020
 
+
+
+https://infographics.economist.com/2020/20200725_GDC100/index.html
+
 LOCKDOWNS WERE particularly frustrating for football devotees, who had no live matches to watch while stuck at home. But the fans most pleased by the sport’s return may be statisticians. For them, empty stadiums are not a cheerless last resort, but rather a chance to tackle a great quandary: why do travelling teams tend to lose?
 
 Most studies have blamed referees for trying to placate fans. In [one experiment](https://www.economist.com/https://www.researchgate.net/publication/222697584_The_Influence_of_Crowd_Noise_and_Experience_upon_Refereeing_Decisions_in_Football), officials were shown recorded games and asked how they would have ruled. They were kinder to home sides when they could hear baying fans than when the sound was muted. Some analyses of live matches have found more bias with denser crowds. Before this summer, few competitive fixtures were played without fans. [One study](https://www.economist.com/https://www.carlsingletoneconomics.com/uploads/4/2/3/0/42306545/closeddoors_reade_singleton.pdf) from this May found just 160 cases since 2002. In this small sample, the home team’s edge vanished. Referees gave similar numbers of cards for fouls to both sides, and visitors won almost as often as hosts did.
@@ -21,6 +25,8 @@ So why have teams fared better at home, even without biased officials? Since May
 The cause of this gap remains mysterious. In American sports, visitors have to endure long trips between games. But travel times within European countries rarely exceed a few hours. A more plausible reason is that coaches still use conservative line-ups and strategies when playing away, even though hostile officials no longer undermine their best players’ efforts. If that is a factor, managers who excoriate referees ought to consider their own failings, too. ■
 
 Sources: 21st Club
+
+
 
 ## URL
 

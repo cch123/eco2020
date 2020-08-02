@@ -12,6 +12,8 @@ MORE THAN nine in ten Singaporeans are homeowners, a higher rate than in any oth
 
 Singapore seems to confirm what conservatives have long believed: that home ownership makes for richer, happier folk. Lee Kuan Yew, its first prime minister, was a big fan, arguing that it gave ordinary people “a stake in the country and its future”. Margaret Thatcher’s “right-to-buy” programme in the 1980s, allowing Britons in social housing to buy their property at knock-down prices, is said to have been influenced by the Singapore model.
 
+
+
 ![](./images/20200118_SRC523.png)
 
 It might be seen as worrying, then, that for the first time in a century home ownership in the rich world is in decline (see chart). Yet having more renters might not be such a bad thing.

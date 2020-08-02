@@ -20,6 +20,8 @@ But even here, it feels like something has changed. People were happy to follow 
 
 Parliamentary elections on April 15th, in which 300 seats in the National Assembly are up for grabs, will show if South Koreans think that Mr Moon has lived up to his promises, in fighting the pandemic and in other areas. His administration has had its own share of scandals and he has come under fire for initially downplaying the virus. Responding to a poll early in the outbreak, South Koreans professed much more faith in the centre for disease control than in the president’s office.
 
+
+
 ![](./images/20200411_SRM973.png)
 
 Yet South Korea’s social transformation cuts deeper than politics, and covid-19 is unlikely to halt it. The country’s arts scene and pop culture are just the most visible examples of the new model Koreans are devising for themselves. In 2018 the country exported more “cultural products” (which include music, television dramas and films) than home appliances (such as televisions) for the first time (see chart). The nature of those cultural exports is changing, too. BTS, the country’s—and the world’s—biggest boy band, are much more interesting than many of their equally pretty peers. One recent album is based on the psychoanalysis of Carl Jung. “Parasite” itself is no cheesy K-drama; its plot cuts to the heart of social divisions and inequality in South Korea and beyond.

@@ -14,6 +14,8 @@ He sometimes worked with Brazilian and American missionaries, swapping his local
 
 They owe their survival to a decision by Brazil’s government in 1988. It discourages contact with isolated tribes, except to prevent medical emergencies, warfare between tribes or other catastrophes. The policy’s father is Sydney Possuelo, a revered sertanista, or Amazon explorer, who led contact missions for Brazil’s military government in the 1970s and 1980s. Development projects like the construction of the Trans-Amazonian highway cleaved through forest inhabited by scores of indigenous groups (see map). In some, 50-90% of their members died from diseases like measles and flu. Horrified, Mr Possuelo persuaded the government to adopt the no-contact policy. It has become a model for other countries in the region.
 
+
+
 ![](./images/20200711_AMM920.png)
 
 From the start, it encountered resistance, chiefly from people who want to farm and mine on indigenous land. Now, for the first time, Brazil has a president, Jair Bolsonaro, who is a critic of the policy. An evangelical Christian, he shares the proselytising zeal of the missionaries whom Mr Mayoruna has encountered. He is also sympathetic to businessmen who want to develop the Amazon. Though still on the books, in practice the no-contact policy is being dismantled.

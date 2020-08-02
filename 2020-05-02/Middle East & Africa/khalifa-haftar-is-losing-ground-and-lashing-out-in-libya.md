@@ -12,6 +12,8 @@ KHALIFA HAFTAR’S self-styled Libyan National Army (LNA) says it will cease fir
 
 These moves cannot hide the fact that, for the first time in a while, General Haftar is on the back foot. Militias aligned with the GNA and backed by Turkey have regained a string of cities connecting Tripoli to the Tunisian border. They have hemmed the LNA inside al-Watiya air base, its headquarters for western operations, and are besieging Tarhuna, one of its strongholds (see map). The loss of these positions could doom General Haftar’s campaign in the west and lead to Libya’s partition.
 
+
+
 ![](./images/20200502_MAM958.png)
 
 Until recently General Haftar had the edge, thanks to covert backing from Egypt, France, Russia and the United Arab Emirates (UAE). But Recep Tayyip Erdogan, the president of Turkey, is challenging their influence in the eastern Mediterranean. In November he signed a pact with the GNA’s prime minister, Fayez al-Serraj, committing to defend Tripoli in exchange for gas-exploration rights in Libya’s waters. Since then Turkish arms and intelligence, as well as 4,000 fighters from Turkish-controlled parts of Syria, have shifted the balance on the ground in Libya. From the sky Turkish drones have been striking General Haftar’s long supply lines.

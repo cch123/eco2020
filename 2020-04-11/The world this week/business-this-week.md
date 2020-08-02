@@ -18,6 +18,8 @@ Boeing shut production of its 787 aircraft at its factory in South Carolina beca
 
 In Germany Lufthansa decommissioned around 40 jetliners and ceased operations at its Germanwings discount carrier. The airline warned that it will take “years until the worldwide demand for air travel returns to pre-crisis levels”.
 
+
+
 ![](./images/20200411_WWC171_0.png)
 
 Around 10m Americans filed claims for unemployment benefits in the second half of March, more than had been expected following the virtual lockdown of the economy. Payroll employment plummeted by 701,000 in the month, a number not seen since the depth of the financial crisis. In Britain 1m new people applied for benefits over two weeks, ten times the normal rate. Some 4m workers have been temporarily laid off in France, and Spain has reported its biggest-ever rise in job losses. See [article](https://www.economist.com//finance-and-economics/2020/04/08/labour-markets-take-a-dramatic-turn-for-the-worse).

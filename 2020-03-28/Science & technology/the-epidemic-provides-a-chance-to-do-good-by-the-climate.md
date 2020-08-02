@@ -24,6 +24,8 @@ The short-term amelioration of CO2 emission is likely to be real. On March 16th 
 
 But not, perhaps, for long. In 2009, worldwide CO2 emissions from fossil fuels and cement production dropped by 1.4%. A year later, however, they were growing again by 5.8-5.9%—faster than they had done since 2003. By the end of 2010, annual emissions were greater than they had ever been (see chart). Overall, therefore, the financial crisis made little difference to the quantity of CO2 in the atmosphere.
 
+
+
 ![](./images/20200328_STC914_0.png)
 
 Subsequent analysis has shown that the rise of emissions after the crisis of 2008 was caused especially by rapid growth in certain large emerging economies, notably those of China and India. Low fossil-fuel prices were part of the cause. But there were also stimulus packages deliberately intended to promote carbon-intensive areas of business, such as construction.

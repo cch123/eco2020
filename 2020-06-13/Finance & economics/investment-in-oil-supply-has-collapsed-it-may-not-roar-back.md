@@ -12,11 +12,15 @@ IN APRIL, WITH the world in lockdown from covid-19 and oil demand sinking faster
 
 On June 6th, with demand still fragile, the OPEC alliance extended the cuts by a month. It is one thing to see supply drop when the oil market is engulfed by crisis. The more interesting question is how quickly supply will climb as normality returns. Production will respond, of course, as demand rises for jet fuel, petrol and diesel. If prices remain over $40, some shale firms and petrostates may boost output this summer. In the longer term, though, supply faces other constraints.
 
+
+
 ![](./images/20200613_FNC005.png)
 
 Global investment in future supply has collapsed. The International Energy Agency (IEA), an intergovernmental forecaster, estimates that upstream investment this year will fall to its lowest since 2005 (see chart). Goldman Sachs, a bank, expects production outside OPEC to stagnate in the 2020s, due not to geology or even demand, but lack of investment. Bernstein, a research firm, thinks that non-OPEC supply, which accounts for about 60% of global output, may peak in 2025, and then only at around last year’s level.
 
 That would mark a dramatic shift. Because oil reserves are depleted continuously, producers have usually operated under the tenet of drill or die. An analyst once asked Lee Raymond, then the chief executive of Exxon, what kept him up at night. “Reserve replacement,” he responded.
+
+
 
 ![](./images/20200613_FNC894.png)
 

@@ -10,6 +10,8 @@
 
 AT THE START of the year no one would have predicted that China would crow about such slow growth by its lofty standards. Yet on July 16th it proudly reported that GDP grew by 3.2% in the second quarter compared with a year ago, rebounding from its coronavirus lockdown (see chart 1). This makes it, by far, the best-performing big economy.
 
+
+
 ![](./images/20200718_FNC473.png)
 
 Sceptics question the data. But alternative indicators confirm that the recovery is real, albeit highly uneven. During February the government prioritised the reopening of factories, as shown by coal consumption (see chart 2). Traffic congestion returned as people went back to work, partly because, wary of public transport, more commuted by car. Banks ramped up their lending to keep businesses afloat. Some credit flowed into the property market.

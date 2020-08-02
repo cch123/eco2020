@@ -14,6 +14,8 @@ Another slashed expense is that of climate action. Aviation emits 3% of man-made
 
 That baseline has become hotly contested. It was originally set at the industry’s average emissions for 2019 and 2020. Now emissions are forecast to fall by 37% this year, which would mean a lower baseline—and so, in time, higher offsetting costs. So IATA proposed using just emissions from just 2019 instead. On June 30th ICAO’s 36-member council agreed, at least for CORSIA’s first three years (see chart).
 
+
+
 ![](./images/20200704_WBC232.png)
 
 Environmental groups are up in arms. The scheme already lacked bite, since it is voluntary until 2027 and does not include domestic flights, about a third of the industry’s emissions. Countries representing three-quarters of aviation’s carbon footprint have signed up but flights between those which have opted in and those which have not are excluded. Dan Rutherford of the International Council on Clean Transportation, an NGO, calculates that on pre-pandemic trends the original plan would have covered only 9% of aviation emissions from 2021 to 2035 (when the scheme is scheduled to end).

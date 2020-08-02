@@ -14,6 +14,8 @@ In mid-February, at the peak of the coronavirus outbreak, some of China’s agri
 
 Much of China’s economy shudders with uncertainty about the damage caused by covid-19. But many firms still hope they can recoup at least some of their losses. Some cancelled events will be rescheduled. Some of the cars or refrigerators that were not sold during the shutdown will be snapped up when things return to normal. Farmers, however, cannot accept any disruption. To avoid a total loss for the season, they must start their spring planting soon. At stake is not only the welfare of the 40% of China’s people who live in the countryside and depend on agriculture, but the stability of the national food supply.
 
+
+
 ![](./images/20200314_CNC662.png)
 
 In the two months since the outbreak began, China has already felt covid-19’s impact on supplies of some food. Restrictions on the movement of people have left labour-intensive slaughterhouses understaffed, squeezing meat production. This follows the severe damage already done to pork supplies by an outbreak of African swine fever, an animal disease that struck China in 2018 and led to the loss of 40% of China’s pigs. Pork prices have tripled since early last year.

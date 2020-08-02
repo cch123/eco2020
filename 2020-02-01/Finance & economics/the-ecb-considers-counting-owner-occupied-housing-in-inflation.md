@@ -14,6 +14,8 @@ Consumer-price indices are meant to reflect the cost of typical baskets of goods
 
 Housing is both an investible asset and, as a source of shelter, a consumable service. But isolating the cost of the service is tricky. American statisticians assume that homeowners rent their homes from themselves, and count the “imputed” rent in consumer prices. This has a weight of 11.5% in the index favoured by the Federal Reserve. Japanese and Swiss inflation figures also include owners’ housing costs. (So does headline inflation in Britain, but not the Bank of England’s target measure.)
 
+
+
 ![](./images/20200201_FNC033.png)
 
 In fact, euro-area statisticians do calculate the cost of buying and owning a home. Adding it to price indices could raise measured inflation by 0.2-0.3 percentage points, notes Davide Oneglia of TS Lombard, an investment-research firm. That is nothing to sneeze at when official inflation is only 1.3%.

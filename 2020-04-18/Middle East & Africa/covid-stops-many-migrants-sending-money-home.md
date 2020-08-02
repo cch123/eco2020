@@ -14,6 +14,8 @@ WHEN A VIRUS spreads, so does hardship. A partial lockdown in Uganda has forced 
 
 Remittances are falling sharply across Africa. At one payments company, transfers from Britain to east Africa may have fallen by 80%. Another has seen flows from Italy to Africa drop by 90%. The effects are painful. Remittances bring much-needed cash directly to millions of families. They are also one of the continent’s main sources of foreign currency. In 2018 officially recorded remittances were worth $46bn in sub-Saharan Africa, far more than foreign direct investment of $32bn that year. The OECD, a club of mostly rich countries, reckons undeclared remittances could be worth another $16bn-35bn a year.
 
+
+
 ![](./images/20200418_MAC246.png)
 
 Some countries are particularly exposed (see chart). In Lesotho remittances are worth almost 16% of GDP. In Senegal they amount to 10% of GDP. Half of that comes from France, Spain and Italy, where nearly everyone is locked down. In Nigeria, where they are usually worth 6% of GDP, inflows dropped by half in February, says the central bank.

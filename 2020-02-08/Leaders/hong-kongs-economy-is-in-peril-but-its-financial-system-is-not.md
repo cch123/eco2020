@@ -16,6 +16,8 @@ Hong Kong’s economic fate is of international concern. Vast sums of global cap
 
 The fear about Hong Kong’s domestic economy is warranted. Much of the city’s livelihood depends on the economic virtues of openness and propinquity. It excels as both an entrepot and a rendezvous, where people from far-flung places can gather in jam-packed proximity. It thrives on human interaction. But so does the virus. Thus efforts to impede the disease, such as discouraging visitors and gatherings, also paralyse the economy.
 
+
+
 ![](./images/20200208_LDC106.png)
 
 Unfortunately the government lacks authority just when it needs it. By so gravely mishandling the recent social unrest, it lost the public’s trust. It now struggles to convince people that it is doing all it should to stop the disease. Some hospital workers have gone on strike, demanding a complete closure of the border with the mainland (see [article](https://www.economist.com//china/2020/02/06/a-weak-health-care-system-complicates-chinas-coronavirus-battle)). Others are furious about the shortage of masks. A more credible government might advise people that they do not need to wear one unless they are ill. But such advice would be scorned in Hong Kong. It has run out of masks because its government has run out of trust.

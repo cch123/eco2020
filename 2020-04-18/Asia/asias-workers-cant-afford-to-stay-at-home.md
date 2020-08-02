@@ -14,6 +14,8 @@ BANGLADESH WENT into lockdown on March 26th, but that didn’t stop Zohirul from
 
 As Asian governments impose quarantines to curb the spread of covid-19, the continent’s usually hectic streets have gone quiet. Restrictions vary, but almost everywhere the message is the same: stay home. Such measures threaten to ruin the majority of Asians. Seventy per cent of workers in Asia and the Pacific do not have formal jobs, with contracts, salaries or sick leave, but instead do things like driving rickshaws for a living, according to the Economic and Social Commission for Asia and the Pacific (ESCAP), the UN agency for the region (see chart). In many places there is not much of a safety net for the poor or unemployed either. Some workers feel they face a choice between getting sick and going hungry. 
 
+
+
 ![](./images/20200418_ASC128.png)
 
 Governments in poorer Asian countries realise there is little point declaring a lockdown if their citizens cannot afford to abide by one, and so are trying to help. It is a daunting task. Informal workers are “not in the government databases”, says Hamza Malik of ESCAP. Identifying them is “extremely challenging”, according to Guy Ryder, director-general of the International Labour Organisation (ILO). Bureaucrats are consulting censuses or lists of those who already receive some sort of help from the state. But these often miss people, and quickly go out of date. Indonesia’s Unified Database, which contains the details of the poorest 40% of the population—some 100m people—is supposed to be updated twice a year by local governments. However, two-fifths of them don’t have the budget or capacity to do so, reckons Vivi Yulaswati of the planning ministry. 

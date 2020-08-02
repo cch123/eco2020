@@ -6,6 +6,8 @@
 
 > May 28th 2020
 
+
+
 ![](./images/20200516_AMP001.jpg)
 
 As well as a dire need for fresh elections, Bolivia requires a new constitutional order (“[In limbo](https://www.economist.com//the-americas/2020/05/16/bolivia-needs-an-election-but-covid-19-makes-that-hard)”, May 16th). Our constitutional institutions were not able to handle the crisis that led to the ousting of Evo Morales as president in 2019. The proper path of presidential succession was not followed; Jeanine Áñez’s declaration that she was president was unlawful and polarising.
@@ -18,6 +20,8 @@ The liberalisation of social traditions by expanding civil rights is facing a te
 
 EDUARDO RODRíGUEZ VELTZÉFormer president of Bolivia, 2005-06La Paz
 
+
+
 ![](./images/20200425_USP002.jpg)
 
 Covid-19 has indeed raised concerns over the threat posed by biological weapons (“[Spore wars](https://www.economist.com//united-states/2020/04/23/the-havoc-wrought-by-covid-19-will-spark-new-concern-over-bio-weapons)”, April 25th). Fortunately, while advances in science and technology may be lowering the technical barriers to developing biological weapons, there are still many hurdles to overcome by anyone wishing to do so. One of these is provided by the Biological Weapons Convention and the widely accepted norm that it embodies against the use of disease as a weapon. As the preamble to the convention states, any use of a biological weapon would be “repugnant to the conscience of mankind”. Although a piece of paper alone will not stop a bio-attack, 183 countries have pledged to co-operate and come to each other’s aid in such an event.
@@ -25,6 +29,8 @@ Covid-19 has indeed raised concerns over the threat posed by biological weapons 
 The next review conference will take place in late 2021 and will provide the perfect opportunity to adapt the treaty to the challenges posed by technological advances and to reflect on the lessons learned from the current pandemic.
 
 DANIEL FEAKESChiefBiological Weapons Convention Implementation Support UnitUnited Nations Office for Disarmament AffairsGeneva
+
+
 
 ![](./images/20200509_STD001_0.jpg)
 
@@ -35,6 +41,8 @@ Reviewers are asked to commit to work fast and that their reviews and identity b
 This previously unheard of level of collaboration across publishers stresses the importance of working together on this challenge. Many of us within the open-science community hope that some of these changes will become the norm when we come out of the pandemic, laying the groundwork for more systematic cross-publisher collaboration that would further advance the dissemination of research. For now though we hope that our effort benefits research into this public-health emergency.
 
 SARAH GREAVESChief publishing officerHindawiLondon
+
+
 
 ![](./images/20200509_LDD002.jpg)
 
@@ -47,6 +55,8 @@ The food system has held up well over the past couple of months in tough circums
 Far from being “left free to work its magic”, the current food system needs a reset. There are $12trn “hidden” environmental costs—emissions, biodiversity loss, eutrophication—caused each year by the food system. And we need to move beyond a narrow focus on hunger to deal with people suffering from micronutrient deficiency (or hidden hunger) as well as those who are overweight and obese.
 
 SHENGGEN FANAGNES KALIBATAPAUL POLMANJEREMY OPPENHEIMFood and Land Use CoalitionLondon
+
+
 
 ![](./images/20200502_BKP016_0.jpg)
 

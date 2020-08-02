@@ -26,6 +26,8 @@ Domestic investors have soaked up two-thirds of the extra government borrowing s
 
 It is no surprise that investors have an appetite for American debt. Policy uncertainty abounds, not least thanks to Mr Trump’s enthusiasm for threatening trade war. There are few other havens. Germany’s insistence on running super-tight fiscal policy means there is an undersupply of bunds, argues Brad Setser of the Council on Foreign Relations, a think-tank. Traders moan that the market for Japan’s government bonds is illiquid.
 
+
+
 ![](./images/20200125_FNC214.png)
 
 Investors based in Europe appear to have been the most enthusiastic buyers (see chart). In part that reflects some countries’ large trade surpluses. In the past year Norway, a big oil exporter, has doubled its holdings. But that does not explain why Belgium, a country of 11m people, is one of the world’s biggest foreign buyers of Treasuries. Although official purchases by China look stable, some suspect that it is making some of its purchases through Belgian intermediaries.

@@ -14,6 +14,8 @@ Fifteen years later Asians are still under-represented. Some 11% of associates a
 
 Some prominent Asians run big companies. Arvind Krishna is IBM’s new boss. Satya Nadella runs Microsoft and Sundar Pichai leads Alphabet. But few other Asians have joined their ranks—and, revealingly, these stars all have Indian roots. There are fewer South Asians in America than East Asians, but they still made up 13 of those 16 Asian S&P 500 CEOs.
 
+
+
 ![](./images/20200229_WBC464_0.png)
 
 Why are there so few Asians among America’s business elite? And if a bamboo ceiling is to blame, why do South Asians break through more easily? These questions are the focus of a study by Jackson Lu of MIT Sloan School of Management and colleagues, who surveyed hundreds of senior executives and business-school students. They found that while discrimination exists, it is not destiny. South Asians endure greater racism than East Asians but still outperform even whites (if success is weighed against share of population). Their research also rules out lack of ambition: a greater share of Asians than whites strive for high-status jobs.

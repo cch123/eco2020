@@ -16,6 +16,8 @@ Western authorities have already promised huge sums. A crude estimate for Americ
 
 What to do? An economic plan needs to target two groups: households and companies. And it needs to be fast, efficient and flexible so that if the virus retreats only to resurge, workers and firms can be confident that governments will dial assistance down and up again as needed. Start with households, where large government spending is needed. One aim is to protect vulnerable people, by subsidising sick pay and ensuring those without insurance have health care. But spending is also needed to discourage lay-offs at firms running far below capacity, by subsidising workers’ wages—an area where Germany has led the way.
 
+
+
 ![](./images/20200321_LDC815.png)
 
 Governments also need to jerry-rig digital systems so they are able to distribute cash to households directly, as Hong Kong hopes to. The aim should be to have the capability to ramp further support up and down quickly. Many places, including America, rely on sluggish postal services and tax agencies to distribute cash. If funds can be sent instantly through mobile phones or online bank accounts, people will feel more confident and avoid hoarding cash and slowing the recovery when the virus recedes.

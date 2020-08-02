@@ -32,6 +32,8 @@ The turn in liberal thought was reflected in the pages of The Economist. From it
 
 In America the big liberal shift took place in the mid-1960s. To deal with the legacy of slavery, liberals began to concede that you need to treat the descendants of slaves as members of a group, not only as individuals. Sandra Day O’Connor, the first woman to serve on the Supreme Court, argued that affirmative action, though a breach of liberal individualism that must eventually be dispensed with, had to stay until there was reasonable equality of opportunity between groups.
 
+
+
 ![](./images/20200711_IRD002_0.jpg)
 
 Plenty of thinkers grappled with affirmative action, including Daniel Patrick Moynihan, a politician, sociologist and diplomat, and Ronald Dworkin, a philosopher and jurist. However, the most famous left-liberal work of the 20th century, written in 1971, was notably silent on race. The key idea of John Rawls’s “A Theory of Justice” is the “veil of ignorance”, behind which people are supposed to think about the design of a fair society without knowing their own talents, class, sex or indeed race. Detached from such arbitrary factors people would discover principles of justice. But what is the point, modern critics ask, of working out what a perfectly just society looks like without considering how the actual world is ravaged by injustice?
@@ -69,6 +71,8 @@ Liberals have no such simple prescription. They have always struggled with the i
 Tommie Shelby of Harvard University, who sees himself as both a critical race theorist and a liberal, argues that scepticism regarding liberalism’s power to redress racial inequality is “rooted in the mistaken idea that liberalism isn’t compatible with an egalitarian commitment to economic justice.” Mr Shelby has argued that the Rawlsian principle of “fair equality of opportunity” can mean taking great strides towards a racially just society. That includes not just making sure that formal procedures, such as hiring practices, are non-discriminatory. It also includes ensuring that people of equal talent who make comparable efforts end up with similar life prospects, eventually eradicating the legacy of past racial injustices.
 
 This would be a huge programme that might involve curbing housing segregation, making schooling more equal and giving tax credits (see [Briefing](https://www.economist.com//node/21789102)). That is not enough for Mr Mills, another liberal and critical race theorist. He wants liberal thinkers to produce theories of “rectificatory justice”—say, a version of the veil of ignorance behind which people are aware of discrimination and the legacy of racial hierarchy. Liberals might then be more willing to tolerate compensation for past violations. They might also demand a reckoning with their past failures.
+
+
 
 ![](./images/20200711_IRD003_0.jpg)
 

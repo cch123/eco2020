@@ -24,6 +24,8 @@ In Harris County some pregnant inmates have been released. Those protesting in R
 
 Another effort in many states aims to prevent people entering jails in the first place. Sheriff Dart in Chicago says daily arrivals have recently fallen by nearly half, from 100, as police issue more citations and arrest fewer offenders. That is becoming common in dozens of counties and cities. In Baltimore the state attorney, Marilyn Mosby, has told prosecutors to stop charging non-violent offenders such as those caught dealing drugs, trespassing or illegally selling sex. In Los Angeles, where 17,000 are in jail on an average day, officials are aiming to get the population down by 2,000. Daily arrests there have dropped from 300 to 60, says the sheriff.
 
+
+
 ![](./images/20200328_USC889_0.png)
 
 Amid all this, there is an opportunity to release those whose detention does little for public safety. Of the 1.29m in state prisons, according to the Prison Policy Initiative, a think-tank, nearly half are held for non-violent crimes. Three-quarters of the 631,000 in jails are awaiting trial, mostly on non-violent charges. Those held for breaking parole conditions or not posting bail, and those nearing the end of their sentences, may all be let out early. Montana’s chief justice has called for judges to free “as many prisoners as you are able” in such categories. One county jail in Kentucky released 120 of its 697 detainees this month.

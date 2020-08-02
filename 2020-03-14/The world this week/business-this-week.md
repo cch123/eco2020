@@ -4,6 +4,8 @@
 
 > Mar 12th 2020
 
+
+
 ![](./images/20200314_WWC695_0.png)
 
 Staggering from the effects of coronavirus on business, stockmarkets were also sent reeling by Saudi Arabia’s decision to instigate an oil-price war with Russia, as the pair’s agreement over production levels broke down. Oil prices plunged in the sharpest one-day decline since 1991. Saudi Aramco, the state-controlled oil company, is increasing capacity by 1m barrels of oil a day to a record 13m, saturating an already over-supplied market. Trading remained volatile; the decade-long bull run in stockmarkets was deemed to be over. See [article](https://www.economist.com//finance-and-economics/2020/03/12/no-one-is-likely-to-win-the-oil-price-war).

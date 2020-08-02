@@ -14,6 +14,8 @@ Given the stakes, one might expect voters to turn out in droves. Yet in Africa f
 
 In the West the rich vote more than the poor. But Kimuli Kasara of Columbia University and Pavithra Suryanarayan of Johns Hopkins University, who surveyed voting patterns in poor countries, many of them in Africa, found that the poorest fifth of citizens tended to vote more assiduously than the richest fifth. One possible reason for rich Africans’ lack of motivation to vote is that no matter who wins, they are unlikely to be taxed more. Rates may rise, but tax collection is ineffective. In sub-Saharan Africa tax revenue averages 17% of GDP compared with 34% in the OECD, a club of mostly rich countries.
 
+
+
 ![](./images/20200222_MAC230.png)
 
 Where people live ought to affect whether they vote. Getting to the polling booth can be a slog for people in the sticks—only a third of rural Africans live within two kilometres of a good road. Yet despite this, rural Africans are more likely to vote than city slickers, by 77% to 67%.

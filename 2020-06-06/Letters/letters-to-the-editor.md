@@ -6,6 +6,8 @@
 
 > Jun 4th 2020
 
+
+
 ![](./images/20200425_LDD001.jpg)
 
 You rightly say that governments’ pandemic debts will need to be paid for, and mention taxes on land, inheritance and carbon emissions as options (“[After the disease, the debt](https://www.economist.com//leaders/2020/04/23/after-the-disease-the-debt)”, April 25th). Why not add a tax on leverage to your list? After all, one reason governments will need to borrow so much is because they are bailing out over-indebted companies. Astonishingly, the credit crunch did nothing to curtail firms’ borrowings. Non- financial corporations around the world increased their debt by 70%, to $74trn, in the 12 years to 2019, according to the Institute of International Finance. What’s more, countries actually encourage their companies to splurge on debt by making interest payments tax deductible, whereas it would be far better for society if they had more equity.
@@ -24,6 +26,8 @@ Now is the time for innovation. For example, rather than raise wages for health 
 
 RICHARD MILBURNMarjan CentreKing’s College London
 
+
+
 ![](./images/20200509_ASP004.jpg)
 
 Regarding your article about government advice in Indonesia on sunbathing (“[Hot spot](https://www.economist.com//asia/2020/05/09/sun-shy-indonesians-are-suddenly-soaking-up-the-rays)”, May 9th), it is now well established that acute respiratory-tract infections are often related to Vitamin D deficiency. There is some evidence to suggest that those dying from covid-19 are more often deficient in Vitamin D than might be expected. Vitamin D is different from most other vitamins, in that it is hard to obtain in sufficient amounts just through a good diet. The only effective normal way to obtain it is through regular exposure to the sun, something that is not popular in Indonesia and in many other hot countries.
@@ -31,6 +35,8 @@ Regarding your article about government advice in Indonesia on sunbathing (“[H
 Such is the growing deficiency of Vitamin D that supplementing Vitamin D3 intake is now highly recommended, especially for those not getting sufficient sunlight on their skin. A meta-analysis using many studies and a review published in the British Medical Journal in 2017 by doctors from around the world showed with convincing evidence that regular supplementation offered protection against respiratory-tract infections. Despite all of this medical corroboration demonstrating an important relationship between vitamin D deficiency and lack of sun exposure with increased respiratory deaths, the issue is often overlooked.
 
 PETER WOODROOFKuala Lumpur
+
+
 
 ![](./images/20200425_BRP004.jpg)
 
@@ -41,6 +47,8 @@ THOMAS TSOULIASLondon
 The BBC is good at two things: news coverage and documentaries. I would challenge anyone who thinks it is still the world leader in period dramas to note the global popularity of Netflix’s “The Crown”. Regarding the BBC’s wider product, I have yet to meet someone who believes that their licence fee was well spent on creating no fewer than nine seasons of “Two Pints of Lager and a Packet of Crisps”.
 
 OLLIE ORMISTONLitchfield, Hampshire
+
+
 
 ![](./images/20200516_STP002.jpg)
 
@@ -63,6 +71,8 @@ JONATHAN LUNTHaywards Heath, West Sussex
 Many cultures prefer certain number patterns. The Economist merely reflects the Indo-European preference for the number three. Look at American institutions; CIA, FBI, NBC and so on. See the “Handbook of Classical Mythology” by William Hansen.
 
 COLLEEN ROONEYLos Angeles
+
+
 
 ![](./images/20200516_LDD001_0.jpg)
 

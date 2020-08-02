@@ -12,6 +12,8 @@ WHEN THE China Europe International Business School (CEIBS) was established in S
 
 Business education in China is booming, and not just at CEIBS. When the FT first published its list in 1999, no Asian school made the cut. This year 17 have done, nine of them Chinese. Seven Chinese institutions are among the 90 or so worldwide to boast the coveted “triple crown” of accreditations—from bodies in America, Belgium and Britain. In 2012 the American one, AACSB International, accredited 13 Chinese schools, seven of them in Hong Kong. Today it certifies 39, including 31 on the mainland (see chart). Between them, China’s home-grown business schools—not counting branches of Western ones it also hosts—offer more than 200 MBA programmes. Competition for places is fierce. Nearly 200,000 people applied last year, close to twice the number in 2016. Fewer than one in four typically get in.
 
+
+
 ![](./images/20200215_WBC182_0.png)
 
 In many ways, the best Chinese business schools look a lot like their Western rivals. CEIBS has aped foreign peers like INSEAD, which has branches in Singapore, Abu Dhabi and, since last year, San Francisco, by creating satellite campuses—at home, in Beijing and the southern boomtown of Shenzhen, and abroad, in Ghana and Switzerland. Many professors possess Western experience. Chen Fangruo, dean of Antai College of Economics and Management at Shanghai’s Jiaotong University, taught at Columbia Business School in New York for 25 years before returning to China. Their classroom manner is no different from their Western counterparts’: sleeves rolled up, approachable, engaging, witty. (When, in response to a question about cost allocation in producing an MBA degree, a student suggests that staff salaries are a considerable expense, a CEIBS professor quips that “we would rather be treated as assets”.)
@@ -37,6 +39,8 @@ Many business schools now also run startup incubators to help students with a cl
 A chance to rub shoulders with captains of China’s private sector is a big draw even for seasoned executives. Ye Kai, a serial entrepreneur from Shanghai who runs a restaurant chain and a group of urban ski schools, and who attended an executive MBA in the late 2000s, says he still meets up with old classmates every other month.
 
 CEIBS claims to have the “largest and most prestigious network” of alumni in China—over 22,000, including more than 3,000 chief executives. Among them are Dong Mingzhu of Gree, a maker of air-conditioners, and Richard Liu of JD.com, a big e-merchant. In Beijing the Cheung Kong Graduate School of Business, founded in 2002 by Li Ka-shing, Hong Kong’s richest tycoon, claimed in 2016 that former students ran one-fifth of the 103 Chinese firms then in the Fortune Global 500 list of the world’s biggest corporations by revenue. They included Jack Ma, the now-retired boss of Alibaba, China’s e-commerce titan and its largest listed firm. The local press has dubbed the school “the rich club”. Members certainly enjoy rich benefits. Jia Yueting, founder of LeEco, an indebted tech giant, was able to rustle up $600m from about a dozen classmates in 2016.
+
+
 
 ![](./images/20200215_WBD003_0.jpg)
 

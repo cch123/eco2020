@@ -20,6 +20,8 @@ The obvious reason for Mr Biden’s unpredicted success is that a huge number of
 
 The main reason was black voters: the biggest, most moderate and active part of the Democratic coalition. Hardly present in the early states, they predominate in South Carolina, where they took a deep breath and backed Mr Biden by a huge margin. Exit polls suggest that 56% of black voters followed suit on Super Tuesday. Asked why she had voted for Mr Biden, a black woman emerging from a polling station in Houston, offered a familiar explanation: “He was vice-president with Barack Obama and they did a good job.” Whether in reward for his loyalty to the first black president, or by simple process of elimination, black voters thus swept away the taint of failure that had hitherto clung to Mr Biden.
 
+
+
 ![](./images/20200307_USC989.png)
 
 His endorsement by Mr Buttigieg and Ms Klobuchar, who have seen him up close, also helped—especially in Ms Klobuchar’s state of Minnesota, where he thereby pulled off another surprise victory. And Mr Biden also enjoyed a few breaks, including the woeful recent debate performances of his main rival, Mr Bloomberg, who entered the primary on Super Tuesday and quit it the following day. Mr Sanders entered the multi-state contest rather tarnished, too—his brief spell as the front-runner having drawn unprecedented attention to his history of praising some of the achievements of Fidel Castro’s Cuba. The Democratic establishment had no say in most of that. It was merely one among the several factors that made Mr Biden, a widely discounted former front-runner, seem suddenly more plausible as a third of Democratic voters were about to have their say.
@@ -33,6 +35,8 @@ That the diverse Democratic starting-field has been winnowed down to two white-h
 The senator from Vermont wants to ban private health insurance and create a single-payer system free at the point of service. Mr Biden would prefer to preserve the Affordable Care Act, better known as Obamacare, and augment it by creating a public option for health insurance.
 
 Mr Sanders would spend an incredible $16trn on his Green New Deal, including, among other things, a federal jobs-guarantee. Mr Biden also has a bold climate plan, requiring $1.7trn in new federal spending. But its entire size is less than what Mr Sanders would spend replacing petrol- and diesel-powered cars with electric vehicles.
+
+
 
 ![](./images/20200307_USP005_0.jpg)
 

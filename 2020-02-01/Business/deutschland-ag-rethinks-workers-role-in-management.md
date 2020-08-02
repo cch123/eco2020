@@ -14,6 +14,8 @@ In the past century German bosses, long opposed to the idea, have made their pea
 
 As other advanced economies toy with the notion, however, parts of Deutschland AG are asking whether it is fit for the times. To some captains of German industry, the answer is no longer a docile natürlich.
 
+
+
 ![](./images/20200201_WBC035.png)
 
 German co-determination comes in two varieties, enshrined in a law from 1976 passed after relations between labour and bosses soured in the wake of that decade’s oil crisis. Workers in any firm with more than five employees can by law form a works council that co-decides some issues, like working hours or maternity leave, with management and co-operates with trade unions in industry-wide collective bargaining. At firms with 500-2,000 employees, worker and union representatives get a third of seats on the supervisory board, which in Germany’s two-tier board structure oversees the management board. (In those with more than 2,000 workers employees can nominate half of supervisory-board members.)

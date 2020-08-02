@@ -14,6 +14,8 @@ NOTHING EPITOMISES the animal spirits that drive capitalism as neatly as mega-me
 
 A spate of deals this month suggests that bankers and lawyers specialising in mergers and acquisitions (M&A) may want to hold off booking summer holidays. On July 20th Chevron announced it would be paying $13bn for Noble Energy, a smaller oil-and-gas rival. A day later Adevinta, a Norwegian company, said it would extend its classified-ads empire by snapping up a unit of eBay worth $9.2bn. A week earlier Analog Devices agreed to pay $19.8bn for Maxim Integrated, another chipmaker.
 
+
+
 ![](./images/20200725_WBC531.png)
 
 That is quite a change from the first half of the year. A weak start to 2020 at first looked like a blip in an otherwise bullish M&A cycle going back to 2014 (see chart). By the time covid-19 reached Europe and America in March, the blip had turned into a slump. Barely $500bn-worth of deals were announced in the second quarter, compared with over $1trn a year earlier, according to Refinitiv, a data firm. Mega-deals over $5bn fell even more steeply.

@@ -12,6 +12,8 @@ THE WAR in Yemen escalated last month when a missile hit a mosque at a military 
 
 Before the flare-up the conflict appeared to be winding down. The government and the rebels are mulling UN proposals to share power and allow the president, Abd Rabbo Mansour Hadi, to return from exile. Saudi Arabia has carried out fewer air strikes since October. It now seems less concerned with restoring the government-in-exile to the capital, Sana’a, than with reaching an agreement that safeguards its borders from Houthi attacks.
 
+
+
 ![](./images/20200208_MAM944.png)
 
 The Houthis (who prefer to call themselves Ansar Allah, or the Partisans of God) are “behaving like they’ve already won”, says an international official in Yemen. After five years of fighting more powerful armies, they still control land on which 70% of Yemen’s 30m people live. Now they are consolidating their grip and establishing a state modelled on the theocracy in Iran, which arms them.

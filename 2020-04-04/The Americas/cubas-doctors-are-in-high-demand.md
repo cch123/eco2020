@@ -14,6 +14,8 @@ WHEN THE number of patients mounts but the number of healers does not, whom do y
 
 Cuba’s Central Medical Collaboration Unit, which for six decades has sent doctors across the world, is having a busy month. Some 14 countries, from Angola to Andorra, have received a total of 800 doctors and nurses. Politicians in Buenos Aires and Valencia in Spain, and indigenous groups in Canada, are pressing national governments to request Cuban brigades.
 
+
+
 ![](./images/20200404_AMC064.png)
 
 Cuba trains a staggering number of doctors for its size and wealth (see chart). Even though its population of 11m is not young, it has doctors to spare. More than usual are available. In the past 18 months 9,000 have left Brazil, Bolivia, El Salvador and Ecuador, where leftist presidents have recently lost power. According to Granma, Cuba’s state-owned daily newspaper, the number of doctors and nurses abroad fell from more than 50,000 in 2015 to 28,000 in 2020.

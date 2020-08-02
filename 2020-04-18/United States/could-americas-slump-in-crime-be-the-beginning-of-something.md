@@ -14,6 +14,8 @@ FOR YEARS, activists, police and others hoping to reduce gun violence in cities 
 
 Courtesy of covid-19, a chance might now exist to test the firebreak idea. Stay-at-home orders are keeping many potential perpetrators and victims off the streets. That has led to a remarkable fall in violence, including murders, rapes, robberies and assault. Data on crimes recorded by a dozen cities’ police departments, collected this week for The Economist by Christopher Herrmann at the John Jay College of Criminal Justice, show a deep slump in the 28-day period to early April, from a year earlier (see chart for a selection). In some New York neighbourhoods, he says, crime is down by two-thirds.
 
+
+
 ![](./images/20200418_USC224.png)
 
 The reductions are widespread, if not entirely unexpected. Mr Herrmann used to analyse crime statistics for New York’s Police Department. He notes periods of heavy snowfall or big storms can also keep people indoors and cause dips in crime. Temporary closures of subway stations can do the same at a local level. Warm weather or school holidays that send more youngsters on to the streets tend to drive rates up. The last pandemic in America, the Spanish flu of 1918, also seemed to have an effect. Leigh Bienen, who runs a project tracking homicides in Chicago since 1870, notes that 130 people were shot dead there in 1918, a noticeable drop from 159 the year before. Gun killings then rose fast as the pandemic petered out.

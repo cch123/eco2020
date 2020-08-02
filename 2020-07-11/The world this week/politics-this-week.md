@@ -42,6 +42,8 @@ Amadou Gon Coulibaly, the prime minister of Ivory Coast, died, casting a shadow 
 
 High-altitude balloons started providing internet services in Kenya, offering a new way of allowing people in remote villages to get online. The service is operated by Loon, which is owned by Google’s parent company, Alphabet.
 
+
+
 ![](./images/20200711_WWC017.png)
 
 The WHO admitted that the risks from airborne transmission of covid-19 may be higher than it had thought.

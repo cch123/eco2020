@@ -14,6 +14,8 @@ With firms accounting for two-thirds of S&P 500 earnings out of the way, the moo
 
 America’s biggest firms are leading the charge. Apple’s net income grew by 11% to a record $22.2bn thanks in part to surprisingly strong iPhone sales. A surging cloud business boosted Microsoft’s net income by 38% to $11.6bn. Even Amazon, renowned for profitless growth, increased net income by a tenth, year on year, to $3.3bn. But Big Tech is not alone. Industries from utilities to banks to health care appear to be back in business—prompting analysts to revise upwards their forecasts for 2020. Jill Casey of Bank of America expects profits to rise by 8% this year, compared with the latest estimate of about 1% for last year.
 
+
+
 ![](./images/20200208_WBC081.png)
 
 What happened? For a start, fears of a recession have not materialised. If anything, America’s economy is perking up. In January the IMF forecast that American GDP would grow by 2% in 2020, faster than the euro area (1.3%) or Japan (0.7%). The “current activity indicator”, an aggregate of 37 economic metrics compiled by Goldman Sachs, an investment bank, rose sharply in January (see chart). Even manufacturing, where activity had been slowing since mid-2018, looks in better nick. A survey published on February 3rd by the Institute of Supply Management points to the first expansion in months.
@@ -24,6 +26,8 @@ Mr Trump’s massive corporate tax cut continues to be a source of bosses’ con
 
 A balmier business climate is encouraging companies to invest. Morgan Stanley’s index of capital-expenditure plans, which combines various indicators, moved up in January after falling for seven straight months. The bank’s economists attribute this capex revival in part to “more positive headlines on global trade”.
 
+
+
 ![](./images/20200208_WBC123.png)
 
 Jonathan Golub of Credit Suisse, an investment bank, argues that if the expansion since the global financial crisis of 2007-09 is measured not in time but in GDP, which has grown unusually slowly by historical standards since 2008, it may have life in it yet. The business cycle is not dead, he says. But it is “elongated”. Economists scoff at such simplistic metrics, but a version of this argument is an increasingly common refrain among bulls on Wall Street. Their poster child is Tesla, an electric-car manufacturer whose market value nearly quadrupled in four months.
@@ -31,6 +35,8 @@ Jonathan Golub of Credit Suisse, an investment bank, argues that if the expansio
 Lest the bulls get carried away, they should consider the three risks facing America’s Goldilocks market. First, the coronavirus from Wuhan is infecting American firms’ Asian supply chains—and global confidence (see [article](https://www.economist.com//finance-and-economics/2020/02/06/companies-warn-of-an-economic-crisis-as-china-battles-coronavirus)). Manufacturers in particular are vulnerable to contagion. Most economists, pointing to the modest global impact of outbreaks such as SARS in 2003, remain cautiously optimistic. But if the Wuhan virus turns into a deadlier global pandemic equity markets would invariably suffer.
 
 Another worry is that the entire stockmarket is skewed by Big Tech. Apple, Microsoft, Amazon, Alphabet and Facebook account for 18% of the S&P 500. Cassandras note that in 2000, on the eve of the dotcom bust, the giants of the day—Microsoft, Cisco, GE, Intel and ExxonMobil—also made up 18% of the index. Because of their exposure to other tech firms, including frothy startups, Microsoft, Intel and especially Cisco were brought low by the crash rather than being a counterweight to it.
+
+
 
 ![](./images/20200208_WBC078.png)
 

@@ -18,11 +18,15 @@ Some of that help is coming from America’s Federal Reserve. It is running “s
 
 These funds must be secured. America, to its credit, has already approved its share, but the biggest, richest members need to provide still more. The IMF should then follow a three-pronged approach to fighting the crisis.
 
+
+
 ![](./images/20200411_LDC189.png)
 
 First, it ought to create new special drawing rights (SDRs), a currency of sorts which is convertible into dollars but whose quantity the fund controls (see [article](https://www.economist.com//finance-and-economics/2020/04/11/should-the-imf-dole-out-more-special-drawing-rights)). This is a bit like printing money to finance a cheap perpetual credit line for every IMF member. In 2009, after the global financial crisis, the fund created $250bn in new SDRs; today it could create more than twice that amount before having to ask America’s Congress for permission to continue. Creating SDRs would provide indiscriminate, unconditional aid without draining the IMF’S reserves. However, it is controversial. The fund’s core mission is making conditional loans that are repaid, not printing money. It could take time to build the necessary support. In the meantime, rich countries should lend their SDRs to countries that are short of reserves. This may be more politically palatable than lending dollars.
 
 
+
+https://embed.acast.com/theintelligencepodcast/submergingmarkets-developingeconomiesandcovid-19
 
 Second, the IMF must alleviate the dollar liquidity shortage in solvent countries that have good institutions but which cannot borrow from the Fed. In 2017 the fund’s board rejected a proposal to provide its own swap-like funding to countries with strong institutions. It should revisit that decision. It should also explore ways of getting existing dollar reserves, which are ample at the global level, to where they are needed. For example, the fund could act as a clearing house for currency swaps, guaranteeing participating central banks against losses by graduating any debts that turn sour into a conventional IMF programme.
 

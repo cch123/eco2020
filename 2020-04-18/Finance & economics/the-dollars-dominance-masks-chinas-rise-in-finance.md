@@ -28,6 +28,8 @@ China cannot yet satisfy them. The yuan makes up just 2% of payments and global 
 
 Take bonds first. China is winning kudos as a trusted debtor, which props up the yuan. Even as other markets froze, its government-bond market was undisturbed. The gap between prices at which investors want to buy and sell—the “bid-ask” spread—has stayed low, as has volatility. According to an index compiled by JPMorgan Chase, returns on emerging-market bonds fell by 15.5% in the first quarter, but Chinese debt returned 1.3% (see chart). The bond market also recorded 60bn yuan ($8.5bn) in net foreign inflows. “The Chinese market has proven that it is somewhat independent from other global markets,” says Edmund Goh of Aberdeen Standard Investments, an asset manager.
 
+
+
 ![](./images/20200418_FNC260.png)
 
 That makes China’s $13trn bond market, the world’s second-largest, a haven among emerging peers. And it is a more lucrative option than rich-world bonds: China’s five-year treasuries yield 2.24%; American ones, 0.35%. As interest rates stay low in the West, that gap will endure. It should help that China’s bonds are being gradually included in two popular indices. Passive—and sticky—money should stream in.

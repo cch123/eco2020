@@ -12,6 +12,8 @@ ONE OF THE minor miracles of financial markets is that, in volatile periods such
 
 Corporate bonds cause the biggest headaches. A cheap and convenient way to hold them is via exchange-traded funds, or ETFs, low-cost vehicles that hold baskets of bonds and trade on stock exchanges. Part of the appeal of bond ETFs is the ease with which they can be bought or sold. But the corporate bonds held in such funds are typically less liquid than shares. Bonds are not as standardised; a company may issue them at varying maturities. Investors may still think they can sell them at a moment’s notice. There have long been concerns about a shortage of willing traders should the markets become stressed.
 
+
+
 ![](./images/20200307_FNC570.png)
 
 The broker-dealers who have traditionally stood between buyers and sellers of corporate bonds have scaled back their role as risk-takers (see chart). New forms of market-making are emerging. Slowly at first, and lately more quickly, the corporate-bond market is embracing trading on electronic platforms. Bloomberg is one of the main players. Another is Tradeweb, a venue favoured for the trading of government bonds. A third platform, MarketAxess, is the one best known for corporate-bond trades. A big question is, can such platforms make up for the diminution of old-school sources of liquidity?

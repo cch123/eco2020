@@ -18,6 +18,8 @@ Doubters allege that Chinese firms are flying empty planes to boost stated capac
 
 To be sure, Chinese carriers have taken a big hit. Revenues at the big three plunged by 46% in the first quarter, year on year, to 54bn yuan ($7.7bn). They suffered a combined net loss of 14bn yuan. Their share prices remain 25% or so below the level in January, when covid-19 began to spread fast in the city of Wuhan. But that is positively perky next to rivals elsewhere. The Bloomberg world airlines index, which tracks two dozen global airlines, has fallen by half in the same period.
 
+
+
 ![](./images/20200509_WBC463.png)
 
 Kelvin Lau of Daiwa Capital Markets, a broker, reckons that travel bans and lockdowns will cut the big three’s revenues by less than a third this year, to 286bn yuan. None has resorted to mass lay-offs. The trio serve the world’s second-biggest domestic market after America and, being state-controlled, can tap government support with fewer strings attached than American firms (whose $58bn bail-out is conditional on suspending payouts to shareholders).

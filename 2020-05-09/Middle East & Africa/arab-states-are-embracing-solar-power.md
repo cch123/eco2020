@@ -16,6 +16,8 @@ With its vast deserts, the Arab world’s most abundant clean-energy source is t
 
 The growing competitiveness of renewables makes analysts optimistic that the trend will continue (see chart). Solar farms are cheaper, faster and safer to build and maintain than oil and gas plants. The UAE’s new solar plant will generate electricity at roughly two-thirds the cost of gas and a third that of oil, even at today’s low prices. Several countries in the region speak of becoming renewable-energy exporters.
 
+
+
 ![](./images/20200509_MAC400.png)
 
 Investors, though, still have cause to hesitate. For a start, Arab autocrats often promise more than they deliver. Take Muhammad bin Salman, the de facto ruler of Saudi Arabia, who has made renewable energy a pillar of his economic-reform plan. In 2018 he and SoftBank, a Japanese conglomerate, announced the world’s biggest solar-power-generation project in the Saudi desert. It was shelved six months later.

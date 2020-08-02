@@ -12,6 +12,8 @@ THE BID was months in the making. On February 27th the supervisory board of Thys
 
 It is not the only recent one. Germany has become the most popular European market for private-equity investors, according to consultants at PwC. Last year the value of disclosed deals reached an all-time high of €32bn (see chart). Many of them involved foreign buy-out firms, whose advances seem increasingly welcome in Germany. Martina Merz, chief executive of the cash-strapped Thyssenkrupp, preferred the bids of the two consortiums to a higher one from Kone, a rival Finnish liftmaker. She worried that antitrust concerns would cause long delays in completing the deal (even though Kone planned to let CVC, another private-equity firm, run TKE’s European business). And union leaders opposed the Kone bid, assuming it would result in larger job losses than a takeover by private-equity groups, as the combined rivals reaped economies of scale.
 
+
+
 ![](./images/20200307_WBC550.png)
 
 Such bonhomie between buy-out firms, their targets and labour and political leaders would have been unthinkable a few years ago. When in 2004 Texas Pacific Group bought Grohe, a maker of bathroom equipment, Franz Müntefering, then boss of the Social Democratic Party, in whose constituency Grohe was based, branded the firms asset-stripping “locusts”.

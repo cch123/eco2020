@@ -14,6 +14,8 @@ In its most recent forecasts, the Bank of England has pencilled in the medium-te
 
 Estimates of potential trend growth have fallen globally, but the decline in Britain is sharper than in other major economies. In part, it reflects a lower forecast for population growth, as immigration drops after Brexit. But mainly it results from a gloomier view of productivity. Private-sector forecasters are more upbeat than the Bank: they think the British trend rate is around 1.5%.
 
+
+
 ![](./images/20200215_BRC167.png)
 
 If the Bank is right, in the short term lower potential growth will keep up the pressure on the public finances, as tax receipts have less room to grow. The medium-to-longer-term picture is more worrying still. Weaker output growth means slower improvement in living standards. To avert that, policymakers will have to focus on solving the great British productivity puzzle.

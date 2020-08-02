@@ -14,6 +14,8 @@ RANDY HATHCOCK appeared to be out of options. The time had come for the owner of
 
 Voters abhor bail-outs when they involve airlines and Wall Street, but seem altogether happier to provide succour to the likes of Mr Hathcock and Main Street. Politicians in America and Europe have all the more reason to help: small and medium-sized businesses (SMEs) have been clobbered by the pandemic, even more so than their larger peers. Fully 60% of people who worked for businesses with fewer than ten employees in America at the start of the year have since been fired, according to one study. In Britain, seven in ten firms managed by their owners say they have lost over half their revenue.
 
+
+
 ![](./images/20200502_FNC381.png)
 
 Even as the share prices of listed titans have perked up—the S&P 500 index of large American stocks is up by 31% since its nadir on March 23rd—small firms are becoming ever more uncertain about their prospects. Most have cash buffers that stretch to weeks, not years. Roughly half of American entrepreneurs do not expect business to recover within two years, according to a survey by academics at Oxford, Princeton and Yale universities (see chart 1).
@@ -33,6 +35,8 @@ European countries have also looked to direct cash to small firms—and faced si
 To ensure the money did not end up going to businesses with no hope of paying it back, bankers were roped in to assess potential recipients. Governments agreed to shoulder 70-90% of potential loan losses, limiting the downside for banks. Still, lending figures have underwhelmed. In Spain after five weeks only €13.4bn ($14.6bn) out of €100bn in state guarantees earmarked for SMEs have been tapped. Britain managed to allocate a meagre £4.1bn ($5.1bn) by April 28th. From early May it will join Germany in offering some loans that are completely underwritten by the state. Bankers can distribute cash without having to worry about the creditworthiness of the borrower.
 
 There will still be suspicions that the money is flowing into the wrong pockets. A study by researchers at the University of Chicago finds that SMEs in the bits of America where activity had fallen most were only half as likely to receive PPP funds as those in the least-disrupted places.
+
+
 
 ![](./images/20200502_FNC391.png)
 

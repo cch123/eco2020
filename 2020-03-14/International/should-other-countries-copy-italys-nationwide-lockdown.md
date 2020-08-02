@@ -18,6 +18,8 @@ Italy’s epidemic, which is still concentrated in Lombardy, spread rapidly. On 
 
 The crisis in Italy is sending shivers down spines in Europe and America. In many countries the number of cases being detected is rising on a trajectory that will soon bring them to the point at which Italy currently finds itself (see chart). Governments elsewhere are watching to see whether Italy’s efforts slow its epidemic, spreading infections out over time and giving its hospitals some breathing room.
 
+
+
 ![](./images/20200314_IRC995_0.png)
 
 On March 8th the Italian government imposed nationwide curbs on large gatherings. Big weddings and funerals were banned; museums, cinemas and theatres were closed. Nationwide travel restrictions followed a day later. Italians are not allowed to leave—or travel within—the cities and towns where they live, except for work or emergencies. Restaurants, bars and all shops except foodstores and pharmacies were told to close entirely from March 12th. Europe has not seen controls on this scale since the second world war.
@@ -25,6 +27,8 @@ On March 8th the Italian government imposed nationwide curbs on large gatherings
 Other European countries have, for the moment, opted for less restrictive measures. Like Italy, several countries including France, Spain and Greece have closed schools and universities. Some have banned big public gatherings. In America variations on these themes are being imposed at county or state level. A growing number of universities, including Harvard and Princeton, are switching to remote teaching or simply sending their students home. But if these limitations fail to slow rapidly and substantially the rate at which infections are increasing, Italy may become a role model.
 
 Italy’s national lockdown was prompted by its apparent success using comparable measures on a regional level. The government tested similar restrictions in two “red zones” around a handful of small towns in the northern part of the country where, in late February, it found its first big clusters of covid-19 cases. On March 8th Silvio Brusaferro, the president of Italy’s national public health institute, said the number of new infections in both areas was falling.
+
+
 
 ![](./images/20200314_IRM996.png)
 
@@ -39,6 +43,8 @@ The extent to which people continue to comply with demands that they keep their 
 In Britain, however, the government is worried about introducing such restrictions too soon. The country, which is at an earlier stage of its covid-19 outbreak than many others, has not yet banned mass gatherings, nor has it closed schools or instructed people to work from home. The scientists advising the government are concerned that if such measures come now, compliance fatigue may set in just as the epidemic is taking off. But tougher restrictions are almost certainly on the way. Sometime in the next two weeks everyone with symptoms of a cold will be asked to stay at home for seven days because at that point many such cases will be assumed to be covid-19 infections.
 
 The experience of South Korea, which has seen one of the largest outbreaks of covid-19, suggests that scientists in Britain may be right to worry. Outside the city of Daegu, where most of the country’s covid-19 cases have been identified, the government has not introduced any mandatory restrictions—hoping instead that people will voluntarily follow advice to stay at home and to take precautions during gatherings that they cannot avoid. In Gyeonggi province, which surrounds Seoul, mourners at funerals have been told to co-operate with temperature checks before writing their names in visitors’ books. They have also been ordered to minimise contact and conversation with others in attendance (including relatives of the deceased). Across the country guests attending weddings must wear masks—as must the happy couples, prompting many to postpone their nuptials.
+
+
 
 ![](./images/20200314_IRD002_0.jpg)
 

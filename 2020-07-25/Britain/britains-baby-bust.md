@@ -12,6 +12,8 @@ IN 1945 A sociologist, J. G. Ferraby, tried to explain why women were having so 
 
 They didn’t drift for long. As soon as the war was over, a two-decade-long baby boom began. But on July 22nd the Office for National Statistics revealed that just 640,000 babies were born in England and Wales in 2019—even fewer than when Ferraby fretted. The fertility rate, which measures births per woman, stands at 1.65. English and Welsh women are now notably less fecund than French women and are approaching the German level (see chart).
 
+
+
 ![](./images/20200725_BRC580.png)
 
 A fall in the fertility rate does not always mean children are going out of fashion. If women postpone pregnancy, the fertility rate will fall and then rise, even though women end up having the same number of children in the end. That happened in the early 2000s. English and Welsh mothers continue to grow older—the mean age of childbirth is now almost 31. Birte Harlev-Lam of the Royal College of Midwives says that is the main reason why, over the past ten years, the proportion of births that begin with an induction or a caesarian section has risen from 31% to 50%.

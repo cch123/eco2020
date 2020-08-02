@@ -50,6 +50,8 @@ Such calculations are subject to a wide margin of error. Nonetheless, they expla
 
 People who lack savings or a functioning safety net cannot simply stop working. Yet millions are being forced to do so. Before the crisis Jonathan Solmayor drove a tuk-tuk in Davao City in the Philippines. “I am feeding four mouths,” he says, but “my only source of living was stopped.” In western Nepal men have seen the hours they can work for wages fall by about 75%, according to the Yale Research Initiative on Innovation and Scale. In Uzbekistan the number of households where at least one person works has dropped by over 40%.
 
+
+
 ![](./images/20200523_IRC646.png)
 
 As the number of breadwinners falls, the price of food is rising. In India the price of potatoes has jumped by over 15%. In Uganda the prices of most key foods have gone up by over 15% since mid-March. The global food supply is holding up, but local disruptions are severe. In the province of Quezon in the Philippines an “extreme” quarantine has seen squash, beans, and watermelons wither in the fields. In India vegetables that were harvested have been left to rot as they cannot be transported to market. In East Africa covid-19 is not the only plague to strike this year: trillions of locusts are once again devouring crops.
@@ -79,6 +81,8 @@ Existing safety nets have long focused on rural folk, which used to make sense b
 In countries such as Kenya and Bangladesh mobile money is being used to distribute aid more quickly. But the poorest are often hard to reach. Governments often do not know who they are. And welfare systems were not designed with pandemics in mind. In South Africa delays have led people to form queues (not always socially distanced ones) outside post offices to sign up for benefits. In many countries corruption limits the effectiveness of welfare. In Zimbabwe aid has been steered to supporters of the ruling party. In Uganda MPs initially put themselves in charge of distributing $2.6m of relief cash in their constituencies (a court ruled they should pay it back).
 
 The biggest problem, though, is simply that governments in the poorest countries do not have much money. And they are getting poorer. The World Bank says that African government revenues will drop between 12% and 16% this year. In Nigeria, home to more extremely poor people than any other country, the collapse of the oil price has shredded government spending plans. During the global financial crisis many poor countries slashed spending on education; they may do so again.
+
+
 
 ![](./images/20200523_IRP002_0.jpg)
 

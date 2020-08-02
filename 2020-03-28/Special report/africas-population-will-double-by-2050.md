@@ -20,6 +20,8 @@ In the 1970s little more than half of children in sub-Saharan Africa were enroll
 
 There is, however, a 20-year lag between changes in education and changes in fertility, so improvements in schooling since the early 2000s are only beginning to be seen (see chart). The change, when it comes, though, may be quick. In Iran women went from having seven children each to fewer than two between the early 1980s and 2006 after a big rise in female education.
 
+
+
 ![](./images/20200328_SRC294.png)
 
 If African countries were rapidly to expand their provision of schooling for girls the continent’s total population might peak around 1.9bn in 2070 before falling to below 1.8bn by the end of the century, according to Mr Lutz.

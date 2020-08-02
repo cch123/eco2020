@@ -32,6 +32,8 @@ Countries accustomed to big-spending throngs of Chinese tourists face a brutal s
 
 Companies that have hitched themselves to China’s fast-growing middle class are also vulnerable. Starbucks has temporarily closed more than half of its 4,292 cafés in China. Footfall in those still open is scarce, with some posting signs that patrons may only enter if they are wearing face masks. Sales of masks are, indeed, a rare bright spot for companies such as 3M. Disney closed its resort in Shanghai for the new-year holiday, one of its busiest weeks of the year (adding insult to injury, China has just entered the Year of the Rat and the Chinese term for rats also refers to mice, a fine marketing opportunity for a brand built around them).
 
+
+
 ![](./images/20200201_IRC024.png)
 
 Factory closures will cascade through the global economy. Wuhan is a manufacturing hub, especially for autos. Nissan, Honda and General Motors have plants there. Bloomberg ranks Wuhan 13th out of 2,000 Chinese cities for its role in supply chains. One local company, Yangtze Optical Fibre and Cable, is the biggest maker of the wires that carry data around the planet.

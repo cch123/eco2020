@@ -26,6 +26,8 @@ Spain’s Socialist prime minister, Pedro Sánchez, is less hostile than Mr Cont
 
 Neither Italy nor Spain is on the precipice. But the weakness of their fiscal positions—debt-to-GDP ratios of 136% and 97% respectively last year—is showing. Their responses to covid-19 have been more timid than Germany’s (see chart), despite the havoc it has wrought in their countries. More worryingly, growing debt may inhibit their ability to pay for recovery. The ECB is no panacea: its bond-buying could be indirectly undermined in May, when Germany’s constitutional court rules on the legality of its quantitative-easing programme; and anyway it cannot last forever. “At some point, markets will question Italy’s debts,” says Nicola Nobile at the Oxford Economics consultancy.
 
+
+
 ![](./images/20200411_EUC133.png)
 
 That calls for a “second line of defence”, says Grégory Claeys at Bruegel, a think-tank. Yet Germany continues to rule out coronabonds, and the Dutch appear even more immovable (although Mr Hoekstra eventually apologised for his tone). The sceptics’ old arguments about moral hazard and the risks of common borrowing without centralised supervision have been supplemented with new ones: a coronabond would take too long to establish, and institutions like the ESM and EIB involve some mutualisation anyway. And like their southern counterparts, northern governments must also deal with restive parliaments and troublemaking populists.

@@ -14,6 +14,8 @@ The attack was the worst since 2016, when gunmen killed 19 people in a beach res
 
 Jihadists seized control of chunks of Mali in 2012 and were stopped from overrunning Bamako, its capital, only after thousands of French troops were hurriedly flown in. The insurgents have since pushed across the border into Niger and Burkina Faso (see map). In those three countries alone, 4,800 people lost their lives in the conflict last year. Fully 1.7m people have been forced to flee their homes. Now the war is beginning to jump borders again, putting at risk some of Africa’s fastest-growing economies, including Benin, Ghana and Ivory Coast.
 
+
+
 ![](./images/20200711_MAM917.png)
 
 This war in the Sahel has been growing rapidly. Ten times more people were killed last year than in 2014 (excluding deaths in north-eastern Nigeria, which faces its own jihadist insurgents). Two main jihadist groups are behind most of the fighting: the Islamic State in the Greater Sahara (ISGS); and Jama’at Nasr al-Islam wal Muslimin (JNIM), which is linked to al-Qaeda. These groups have extended their reach, even though thousands of international peacekeepers and local and Western soldiers have been deployed to stop them. France has sent some 5,100 troops to the Sahel, while the United States has provided another 1,200. In addition, the UN has 15,000 blue helmets there, including about 350 Germans, plus 250 British soldiers who are soon to arrive. With American forces leaving Afghanistan, the Sahel will soon be the West’s biggest combat zone.

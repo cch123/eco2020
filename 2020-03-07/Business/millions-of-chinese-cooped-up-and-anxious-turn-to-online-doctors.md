@@ -20,6 +20,8 @@ Until now, however, most of these firms have stuck to delivering drugs or, in Pi
 
 Authorities, too, have been cautious. In many countries, including America, the world’s biggest telemedicine market, most insurers do not reimburse patients’ online expenses. Nor, in all but a few regions, does China’s national health-insurance scheme. Most Chinese online doctors are permitted only to handle repeat prescriptions and follow-up consultations, not make an initial diagnosis. A draft government policy from 2017 took “a negative tone” on internet hospitals and recommended they be shut down, recalls Li Tiantian, founder of Dingxiang Doctor, which runs a medical myth-busting-and-advice forum.
 
+
+
 ![](./images/20200307_WBC408_0.png)
 
 Last year the government began to lift some restrictions, such as a ban on the sale of prescription drugs. But covid-19, as the new disease is known, has accelerated the shift. At the peak of the epidemic in early February a health-ministry directive mandated that internet-based medical services be given “full play” to diagnose and treat patients. Another encouraged hospitals to give online consultations. Jiangsu province, China’s industrial powerhouse, authorised reimbursements for online medical care. So have cities including Shanghai and Wuhan, capital of Hubei province, where covid-19 first emerged. 

@@ -22,11 +22,15 @@ There were a number of structural reasons to imagine that America would be hit p
 
 The health-insurance system is patchy and expensive, leaving many Americans with too little or no coverage. Researchers speculate that African-Americans may have had a particularly deadly experience of the virus in part because, being less likely to have adequate insurance than their fellow citizens, they tended to seek treatment later in the course of their disease, which typically leads to worse outcomes.
 
+
+
 ![](./images/20200530_FBP003_0.jpg)
 
 America, like China, has a younger population than Europe’s. Other things being equal, that should have helped. But other things were not equal. Americans have high levels of conditions that make the virus more lethal, such as diabetes, hypertension and obesity. Roughly 11% of Americans are diabetic, compared with 5% in Italy or France; more than one-third of adults are obese, compared with less than a quarter in Germany. The burden of cardiovascular and respiratory disease in America is substantially higher than it is in western European countries.
 
 Despite all this, the statistics to date do not show America doing particularly badly. As of May 27th it had seen 301 deaths per million citizens. The 27 countries of the EU have between them seen a death toll of 125,000; 279 deaths per million people. But seven EU countries (including Belgium, France, Italy, the Netherlands and Spain) currently rank above America in their mortality rate. So does Britain, where the official rate is a shocking 559 per million. America thus looks to have fared better, so far, than most major European states, despite significant structural disadvantages when it comes to its people’s health and the system meant to maintain it.
+
+
 
 ![](./images/20200530_FBC771.png)
 
@@ -48,6 +52,8 @@ America’s public-health services are a remarkable resource in terms of brainpo
 
 There was no wartime management of the supply chains for testing reagents, swabs and other needed kit. Rather than acting as a co-ordinator, the federal government encouraged an internecine competition between states for PPE and ventilators. A federal agency outbid the commonwealth of Massachusetts for 3m medical-grade face masks, dramatically seizing them after they had been delivered to a New York port. Larry Hogan, the Republican governor of Maryland, was so worried about the federal government muscling in on an order of 500,000 testing kits from South Korea that state police spirited them away to a secret location straight from Baltimore airport.
 
+
+
 ![](./images/20200530_FBC727.png)
 
 In assessing this friction, it is worth having a look at the fortunes of two other federated republics during the pandemic (see chart 2). In Brazil Jair Bolsonaro, the president, thinks that containing covid-19, which he once likened to “sniffles”, is not worth the economic cost (see [article](https://www.economist.com//the-americas/2020/05/28/brazils-losing-battle-against-covid-19)). He has tried, unsuccessfully, to prevent some states from locking down. When tasked with enforcing those lockdowns which have gone ahead, the police, who are generally sympathetic to the president, have been dilatory. Brazil’s death toll has been climbing steeply.
@@ -68,9 +74,13 @@ Spending may ease the pain; but many states are nevertheless reopening businesse
 
 Again, it is the states which are doing this, not Mr Trump—despite his various attempts to undermine the shelter-in-place orders while they were in force. But the politics of Mr Trump’s presidency are a key part of how things have unfurled.
 
+
+
 ![](./images/20200530_FBC717.png)
 
 This is because the geographical underpinnings of covid-19 epidemiology and electoral politics are correlated. Low population density predicts both a low covid-19 death rate and a propensity for supporting the Republican Party. Places where Mr Trump has the most support tend to have atypically low experience of the medical effects of the epidemic (see chart 3). Recent polling by YouGov has found that only 9% of Republicans have had a family member, friend or acquaintance die of covid-19, compared with 15% of Democrats. Many Republicans in sparsely populated areas feel entirely justified in their exasperation with blanket stay-at-home orders.
+
+
 
 ![](./images/20200530_FBC765.png)
 
@@ -81,6 +91,8 @@ The right-wing media, which give their audiences a sense that lockdowns, mask-we
 America is not an outlier in the fact of its reopening; the same is happening in western Europe. But there is a crucial difference. European reopenings have been preceded by clear indications that the rate of infection was falling. The same is not true for all of America.
 
 An epidemiological analysis published by researchers at Imperial College London, found that, as of May 17th, “the epidemic [was] not under control in much of the US”. In 24 states the number of further cases to be expected as a result of each new case remained above one. The situation has improved since then, but not by leaps and bounds. New York and surrounding hard hit states are showing declining levels of infection. In other states, such as Alabama and Mississippi, infection rates do not appear to be under control, perhaps because their lockdowns were not that well observed. Outside New York, New Jersey and Connecticut, hospitalisation rates have not changed since the start of May.
+
+
 
 ![](./images/20200530_FBP004_0.jpg)
 

@@ -18,6 +18,8 @@ It is a call that raises hackles. Committees that set investment policies for pe
 
 The results were surprising: it made hardly any difference. The S&P index returned an average of 9.71% annually between 1989 and 2017; the index excluding energy stocks returned 9.74%. The range of returns, from the worst portfolio to the best, was just 0.5 percentage points.
 
+
+
 ![](./images/20200111_FNC914.png)
 
 This finding seemed like it might be a fluke. But a further check, going back to 1925, had a similar outcome. The spread between the best and worst portfolios was 0.54 percentage points; there was hardly any gap between the portfolio with energy stocks and without them (see chart). This is worth knowing, whatever your views on ESG. The market, it seems, has done rather a good job over time of pricing stocks so that no broad industry group yields abnormal returns.

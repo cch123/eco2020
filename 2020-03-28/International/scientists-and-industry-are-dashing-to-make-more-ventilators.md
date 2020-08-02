@@ -30,6 +30,8 @@ Yet that does not mean it is impossible. It all depends on the options that are 
 
 Behind all these efforts are companies, groups and well-intentioned individuals keen to make their open-source designs freely available to anyone prepared to start producing them. Hospitals and regulators will, naturally enough, be cautious, wanting to ensure that equipment is safe and reliable, adds Professor Minshall. It is not just the risk to patients and staff they are worried about, but also legal liability. A fast-track approval service, which some countries are planning, would help.
 
+
+
 ![](./images/20200328_IRD003_1.jpg)
 
 Existing producers are stretching themselves. Hamilton Medical, a Swiss firm that is one of the biggest manufacturers of ventilators, usually turns out 220 machines a week. After moving office workers onto the production line, it hopes to double that by the end of April. Siare Engineering in Italy produces 160 ventilators a month and aims to triple that with the help of army technicians. Medtronic, an American firm with its headquarters in Ireland, plans to more than double its 250 employees making ventilators at its Irish plant and move to round-the-clock production. In America Ventech Life Systems is collaborating with General Motors to scale up ventilator production, and Smiths Group, a British producer, is looking to see if other firms might be able to make its portable machines.

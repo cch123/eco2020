@@ -28,6 +28,8 @@ All national epidemics are made up of many local epidemics, each with its own tr
 
 Public-health authority in America is devolved to the states. The federal government provides cash and guidance, but its legal oversight is largely limited to movement between states (such as on aeroplanes). As a result, governors and mayors are the primary deciders on whether to close schools, gyms and museums and when to lift shelter-in-place orders. The decentralised response will mean that some states fare better than others.
 
+
+
 ![](./images/20200404_USC084.png)
 
 California and Washington, states that saw some of the first cases in the country, installed relatively stringent measures early and have seen a slower growth in caseloads than other states that acted later (see chart). Borders between states are unlikely to be shut. That suggests one shortcoming of the federalised system: laxer controls in one state risk recrudescence in others.

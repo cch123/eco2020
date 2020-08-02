@@ -22,6 +22,8 @@ America’s big banks reported their earnings for 2019. JPMorgan Chase reported 
 
 The British government cobbled together a rescue plan for Flybe, an airline that provides services to Britain’s smaller regional airports. The bail-out, which includes deferring the loss-making company’s tax bill, provoked fury from other airlines. Willie Walsh, the outgoing boss of the group that owns British Airways, described it as “a blatant misuse of public funds” and filed a complaint with the EU. See [article](https://www.economist.com//node/21778390).
 
+
+
 ![](./images/20200118_WWC161.png)
 
 Buffeted by the grounding of its 737 MAX airliner, Boeing confirmed that last year had been its worst for orders and deliveries in more than a decade. The aerospace company delivered just 380 aircraft in 2019, compared with 806 the previous year. With airlines queuing up to cancel requisitions for new planes, Boeing’s overall net new orders turned negative, at -87. Boeing’s new chief executive, David Calhoun, who started his job this week, has promised to turn things around, assuring staff that he sees “opportunities to be better. Much better.”

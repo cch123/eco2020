@@ -12,6 +12,8 @@ A NIGERIAN PASSPORT, says Karo Agono, a Nigerian businessman, raises all sorts o
 
 More and more rich Africans are buying second passports or foreign residency rights. They do so because their own passports open few doors (see chart). Henley and Partners, which advises people on how to acquire a spare nationality, says inquiries from Africa are up by a third compared with last year. The firm is opening an office in Lagos, adding to those in Johannesburg and Cape Town. Habila Malgwi of Arton Capital, another adviser, says it has agents in 15 African countries and plans to open an office on the continent “very, very soon”. Covid-19 has led to soaring interest. People, he says, are looking for a Plan B.
 
+
+
 ![](./images/20200627_MAC176.png)
 
 Mr Agono, who is waiting for his new passport, hopes it will help him enter new markets. There are intangible benefits, too. Tari Best, who runs a Nigerian logistics company, is expanding his business to Singapore. With his new Grenadian passport “we are treated as equals”, he says. Others wish to whisk a spouse or lover off to the French Riviera or nip over to their kids at Eton without queuing for visas. And a few, of course, want to up sticks altogether.

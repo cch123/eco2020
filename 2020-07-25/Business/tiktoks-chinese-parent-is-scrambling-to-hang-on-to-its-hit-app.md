@@ -14,11 +14,15 @@ Now that ambition is in jeopardy. On June 29th India banned TikTok and 58 other 
 
 Official unease about TikTok has risen with its popularity. It has an estimated 70m American users, in the same league as Snapchat. In the first quarter it was downloaded 315m times globally, more than any app ever in three months, according to Sensor Tower, a research firm (see chart 1). In America and Britain it rivals YouTube for user attention—and not just among teenagers, who first took to it. “TikTok is a place for everyone now,” says Vanessa Pappas, the app’s general manager for America.
 
+
+
 ![](./images/20200725_WBC577.png)
 
 ByteDance keeps its numbers close to its chest but its investors say it is on track to bring in $30bn of revenue in 2020, up from $15bn-20bn in 2019. Net profit could more than double, to $7bn. Most of that comes from its Chinese businesses, Douyin, a version of TikTok, and Toutiao, a news app. TikTok is not yet making money, but ByteDance reckons it may in time eclipse all its Chinese properties put together, by tapping into America’s vast ad market. It has been rolling out tools to advertisers. ByteDance’s mainly American venture-capital backers believe this, plus growth in China, could lift its valuation to $500bn.
 
 To TikTok’s users the idea of Uncle Sam cracking down on videos of baby hedgehogs is as silly as grandpas learning to shuffle. Officials have two concerns. The first is over censorship and propaganda. TikTok has in the past muted discussion of subjects sensitive in China, like Tibet, Tiananmen Square or repression in Xinjiang province. The second worry is that as a Chinese firm, ByteDance is subject to laws that require it to work with China’s authorities.
+
+
 
 ![](./images/20200725_WBC528.png)
 

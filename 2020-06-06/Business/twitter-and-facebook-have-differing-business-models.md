@@ -22,6 +22,8 @@ The difference may seem subtle, but it has several implications for the two firm
 
 This goes a long way towards explaining why in 2019 Facebook boasted nine times the users, 21 times the revenue and 12 times the profit of Twitter (see table). More importantly, the strong network effects are a prime asset that Facebook has defended vigorously: it has spent vast sums on buying firms it considers likely future competitors, such as Instagram, acquired in 2012 for $1bn, and WhatsApp, for which it paid $19bn in 2014.
 
+
+
 ![](./images/20200606_WBC494.png)
 
 Facebook’s size has made it the dominant outlet for political discourse in America and elsewhere. That means it has to be more wary than Twitter when moderating content as it is more vulnerable to accusations of political favouritism and thus to scrutiny by lawmakers. Like Twitter, it faces growing pressure to do more to fight illegal content, hate speech and misinformation on its platform.

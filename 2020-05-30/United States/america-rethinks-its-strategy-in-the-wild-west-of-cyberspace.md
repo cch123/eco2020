@@ -42,6 +42,8 @@ One is shame. Most countries do not like getting caught in the act. Second, Russ
 
 Exposure also helps establish norms, defining what is considered beyond the pale in cyberspace. America and its allies argue that the existing laws of war, including ideas such as proportionality and distinctions between combatants and civilians, apply in the digital world (how this squares with suspected American attacks like Stuxnet is less clear). Russia, China, Cuba and others fear that this line of thinking might legitimise American retaliation.
 
+
+
 ![](./images/20200530_USD002_0.jpg)
 
 Double standards abound. America indicted Russian officers for hacking the Organisation for the Prohibition of Chemical Weapons, but the NSA has itself run riot in international institutions. And practical deals have not survived contact with reality. An agreement in 2015 between Barack Obama and Xi Jinping, China’s president, to ban commercial espionage is widely deemed to have fallen apart.

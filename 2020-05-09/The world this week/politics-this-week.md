@@ -36,6 +36,8 @@ Venezuelan forces intercepted two boatloads of men allegedly trying to overthrow
 
 The new chief of Brazil’s Federal Police, Rolando Souza, transferred the head of the force in Rio de Janeiro. Mr Souza became police chief after the Supreme Court blocked the man initially chosen by Jair Bolsonaro, the Brazilian president, who is a friend of the president’s family. Mr Bolsonaro is facing claims that he tried to influence investigations, centred on Rio, into his family, which he denies. Coronavirus briefs
 
+
+
 ![](./images/20200509_WWC009.png)
 
 The worldwide death toll from covid-19 rose above 250,000.

@@ -16,6 +16,8 @@ Messrs Biden and Bloomberg want to put all existing and new borrowers for underg
 
 America already has income-linked repayment schemes for distressed borrowers, but they are flawed. The earnings thresholds at which repayments begin are too low: typically around $18,000, compared with £26,000 ($34,000) in Britain. The interest rates, which are typically around 6%, are unjustifiably high for borrowing from the government. And the schemes are an administrative nightmare. Students must choose from one of four options and fill out new paperwork every year to avoid penalties. Any outstanding debt is forgiven after 20 or 25 years, but debt-forgiveness is taxable, putting struggling debtors at the mercy of the Internal Revenue Service.
 
+
+
 ![](./images/20200222_LDC379.png)
 
 By enrolling everyone automatically, Mr Biden’s and Mr Bloomberg’s plans would greatly improve the status quo. Both would cut repayments from 10% of income above the threshold to 5%, less even than in the British system. Mr Biden would raise the repayment threshold to $25,000 and make all debt forgiveness tax-free. Mr Bloomberg would forgive debt that was incurred at failed or predatory for-profit universities and exempt debt forgiveness up to $57,000 from tax. Both candidates should also consider cutting the high rate of interest.

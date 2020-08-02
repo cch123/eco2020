@@ -36,6 +36,8 @@ Donald Trump suspended for at least 60 days the provision of green cards to peop
 
 NASA set May 27th as the date for the first launch of “American astronauts on American rockets from American soil” since the end of the space- shuttle programme. The vessel has been built by Space X, one of Elon Musk’s companies. Since 2011 Americans travelling to the International Space Station have had to hitch a ride on Russian rockets.
 
+
+
 ![](./images/20200425_WWC007.png)
 
 Officials in Wuhan, the Chinese city where covid-19 was first detected, raised the death toll there by 50%, to 3,869. The true extent of the outbreak in China remains unclear.

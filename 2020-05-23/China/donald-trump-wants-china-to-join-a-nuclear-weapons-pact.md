@@ -24,6 +24,8 @@ One incentive for China to agree to negotiate is the risk that, if it does not, 
 
 There may also be diplomatic dividends for China should it enter talks. Doing so would “raise China’s status as a major global military power on a par with the two former superpowers”, says Mr Zhao. China may benefit in such negotiations by having Russia, a strategic partner, in the room. Both countries are deeply wary of America’s efforts to build missile defences.
 
+
+
 ![](./images/20200523_CNC697.png)
 
 The problem, however, is that neither China nor Russia is keen on trilateral talks. On May 15th China again rejected the idea. This week Russia said that if America wanted to engage China on nukes, it should leave Russia out of it. In the past, Russian officials have said that if China were to join in, then Britain and France—American allies with 485 nuclear warheads between them—should be involved, too. In February Mr Trump agreed to a Russian proposal for a meeting of all five permanent members of the UN Security Council to discuss strategic matters. American officials said they would use the opportunity to press for new arms control. Such a forum would conveniently rope in China, as well as Britain and France. But if a trilateral dialogue would be hard, a pentalateral one would be a nightmare. None is scheduled.

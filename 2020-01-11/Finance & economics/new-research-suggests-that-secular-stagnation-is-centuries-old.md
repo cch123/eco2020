@@ -12,6 +12,8 @@ HOW LOW can interest rates go? It is a question that worries central bankers eve
 
 Most research on long-term trends in interest rates relies on data from the past century. But Paul Schmelzing of the Yale School of Management has gathered information on real interest rates (that is, corrected for inflation) covering 78% of advanced-economy GDP going back to the early 14th century, when capitalism and free markets began to emerge. He found that real rates have declined by 0.006-0.016 percentage points a year since the late Middle Ages (see chart). That may not seem much, but it means real interest rates have fallen from an average of around 10% in the 15th century to just 0.4% in 2018.
 
+
+
 ![](./images/20200111_FNC911.png)
 
 That conclusion undermines the claim that “secular stagnation” is a recent economic malaise. The concept gained prominence after Larry Summers of Harvard University used it in 2013 to describe the falling rates of return on investment and economic growth in the American economy since the 1970s. Mr Schmelzing’s data instead suggest that secular stagnation, insofar as it means falling interest rates, has been a feature of capitalism since its birth. Rates falling since the early 1980s may be less the result of acute problems, such as an ageing population, than markets simply snapping back to a centuries-old trend.

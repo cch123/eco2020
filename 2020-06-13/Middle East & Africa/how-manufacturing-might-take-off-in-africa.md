@@ -36,6 +36,8 @@ Unlike Africa, East Asia has little wealth buried beneath its soil, so it relied
 
 So African countries are scouting out a new path. “The scope for classic labour-intensive, export-oriented industrialisation is narrower now,” says Yaw Ansu, who advises the minister of finance in Ghana. “But countries like us can compensate by basing our model on adding value to our agriculture and natural resources.” One example is Blue Skies, a company near Accra. Its workers dice fruit sold in European shops.
 
+
+
 ![](./images/20200613_MAC023.png)
 
 Another example is horticulture. In normal times, more than 400 tonnes of cut flowers are flown out of Nairobi every day, on average. In Ziway, an Ethiopian town, kilometre-long greenhouses sprawl like aircraft hangars beside the dust and donkey carts. Roses grow for transport to the Netherlands. Covid-19 has thrown many of these firms into crisis. But when travel and trade bounce back, so will opportunities.

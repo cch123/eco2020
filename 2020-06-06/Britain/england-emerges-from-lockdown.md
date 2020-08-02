@@ -16,6 +16,8 @@ When Boris Johnson laid out his plans for leaving lockdown, he promised to be gu
 
 The decision is ultimately a political one about risk. In parts of England the virus appears under control; elsewhere it is more widespread (see chart). Before the government lifted restrictions, SAGE advised that the reproduction number was below one, which means cases would have been expected to continue to decline. But estimating the spread of the virus is an inexact science, and there may have been little wriggle room. The lockdown was looser than in other countries, with people out and about more than in places like Italy and Spain.
 
+
+
 ![](./images/20200606_BRC834.png)
 
 As John Edmunds, an epidemiologist and one of the dissenting SAGE members, has noted, much now rests on the country’s track-and-trace infrastructure. That consists of a mobile app, as well as some 25,000 human contact tracers charged with finding people who have been in contact with infected patients. Along with widespread testing, it is supposed to allow health authorities to monitor and quickly suppress outbreaks. Mr Johnson promised a “world-beating” system by June 1st.

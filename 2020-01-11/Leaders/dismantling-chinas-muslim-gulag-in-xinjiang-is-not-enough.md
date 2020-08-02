@@ -12,6 +12,8 @@ IMAGINE A PLACE with nearly seven times more land than Britain, oil reserves as 
 
 Such is the far-western region of Xinjiang (see [article](https://www.economist.com//china/2020/01/09/many-han-chinese-dont-mind-the-gulag-for-their-uighur-neighbours)). The dominant ethnic group are the Han Chinese, who are more than 90% of China’s population and about 40% of Xinjiang’s. The Communist Party has never trusted a Uighur to run Xinjiang. Han people dominate its economy, too, through massive state-owned industrial and agricultural firms which answer to the government in Beijing, 2,000km (1,200 miles) to the east.
 
+
+
 ![](./images/20200111_LDM918_0.png)
 
 Many of the 10m Uighurs in Xinjiang object to this state of affairs. Some have been so bold as to say so publicly. A tiny minority have made their displeasure known violently. China has reacted by building a vast network of prison camps and tossing perhaps 1m Uighurs into it for “vocational training” (ie, indoctrination). All it takes to get hauled away is to show too much interest in Islam or Uighur traditions.

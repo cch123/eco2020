@@ -12,6 +12,8 @@ AMERICA’S FEDERAL RESERVE recognised the disruptive potential of electronic mo
 
 Just as in the early 20th century, when central banks created telegraph transfer networks, they are now coming to the view that they must design their own digital-payment networks in order to retain control of their monetary systems. One idea gaining favour is to issue a so-called central-bank digital currency (CBDC), which would exist only as electrons on a computer chip, rather than a coin or bill. Roughly 80% of central banks are doing some kind of CBDC work, from research to trials, according to one survey. Although still early, it is a trend that could give rise to tantalising new possibilities for monetary policy.
 
+
+
 ![](./images/20200725_FNC524.png)
 
 Most central bankers were sceptical about CBDCs at first, but in recent months their views have turned more positive, according to an analysis of their speeches by the Bank for International Settlements (BIS), a club of central banks (see chart). Partly, that is because they are now more familiar with the concept. China has already put the digital yuan into use on a limited test basis, and Sweden is close to that with the e-krona. The coronavirus pandemic has added to the urgency as more people shop online or pay with contactless cards or phones rather than cash.

@@ -14,6 +14,8 @@ Weak earnings growth is in part the product of a relatively weak economy. In the
 
 A recent working paper from the Bank of England shows that in many parts of America building houses has become more difficult since the mid-2000s. Tough zoning laws may partly be to blame. The paper’s results suggest that it is now about as hard to build in Burlington, the biggest city in Vermont, as in San Francisco. Constraining Burlington’s growth weighs on the economy. People find it hard to move there because it is too expensive, so they are stuck in less productive jobs elsewhere.
 
+
+
 ![](./images/20200201_USC300.png)
 
 Yet it is wrong to blame Vermont’s wage woes on policy alone. The state has raised its minimum wage by 36% since 2009. The higher pay floor has supported earnings at the bottom—apparently with little negative impact on jobs. Vermont’s unemployment rate is below America’s average. The most important reason why Vermont has missed out on wage gains may be the structure of its economy.

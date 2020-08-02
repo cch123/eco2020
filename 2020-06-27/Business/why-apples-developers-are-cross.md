@@ -14,6 +14,8 @@ Perhaps that is just as well—for this year Mr Cook may have heard a few boos. 
 
 The EU’s investigation follows complaints from Spotify, a Swedish music-streaming firm, Tile, which makes tracking devices, and Kobo, a maker of e-book readers. They are unhappy about rules that force app-makers that sell digital services on Apple devices to use Apple’s own system for handling purchases made in their apps. Apple takes a cut of up to 30% from each such transaction. At the same time the rules limit firms’ ability to guide users to other payment options (via their websites, for instance). Since the App Store is the only way to sell software to iPhone users, the firms allege that Apple’s rules amount to an abuse of its control over the platform.
 
+
+
 ![](./images/20200627_WBC221.png)
 
 The grumpiness extends beyond firms that have formally complained. Just before the WWDC, Basecamp, which makes an email app called Hey, publicly fell out with Apple for the same reason. Match.com, an online-dating firm, says it is unfair that purveyors of digital services must fork over 30% to Apple, while other businesses, such as ride-hailing apps like Uber, do not have to. Other developers grouse in private, fearing reprisals if they speak up. Apple, for its part, has dismissed the complaints as mere moaning from companies keen to get a “free ride”, though it did quietly make a few small concessions, such as promising to loosen restrictions on non-Apple web browsers, music-streaming apps and other software, and letting developers appeal when their products are said to violate App Store rules. 
@@ -21,6 +23,8 @@ The grumpiness extends beyond firms that have formally complained. Just before t
 Apple’s legal troubles extend beyond its payments systems, and beyond the EU. Besides charging for in-app transactions, the firm also takes a 30% cut from every sale of any app in the App Store. A court case in America alleging that the App Store’s monopoly has driven up prices for consumers was given the green light to proceed by the Supreme Court last year. Attitudes towards the tech industry in general are hardening on both sides of the Atlantic. Google, Facebook and Amazon all face their own scrutiny from trustbusters. On June 18th Brad Smith, the president of Microsoft—which lost a landmark antitrust case in 2001—gave the pot a vigorous stir when he opined that Apple and Google exert far tighter control over smartphones than Microsoft ever had over desktop PCs.
 
 Mr Cook and Sundar Pichai, who runs Google’s corporate parent, Alphabet, may beg to differ—not least because each can claim to have to compete with the other. Either way, Apple may be tempted to carry on squeezing its developers even as regulatory storm clouds gather. Smartphones, which have powered the firm’s transformation from also-ran to colossus over the past decade, have become a mature market. Sales of iPhones are stagnant. Those who already own a device replace it less frequently. And the number of people buying an iPhone for the first time has fallen by 63% from its peak in 2016, calculates Neil Cybart of Above Avalon, a tech-analysis firm (see chart 1).
+
+
 
 ![](./images/20200627_WBC177.png)
 

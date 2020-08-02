@@ -50,6 +50,8 @@ To estimate how changes in policy might affect emissions a different family of m
 
 One of the things that CMIP5 asked climate modellers to look at is the way that the climate might evolve if emissions followed four standardised “pathways” developed from four particular IAMs in the 2000s. Three were generated from IAMs trying to simulate various types of climate policy. The fourth, RCP8.5, though often referred to as “business as usual”, was generated from an IAM run featuring high population growth, low technological progress and very large scale use of coal. As a result it shows emissions increasing at a spectacular rate, which makes it scary, but not a helpful baseline.
 
+
+
 ![](./images/20200502_SBC002.png)
 
 The uncertainties in what the models predicted was as striking as ever (see chart). But they all agreed that only the pathway embodying the strongest climate action—much stronger than what is seen and promised today—might allow the world to keep the temperature rise since the 18th century well below 2ºC in the 21st, the target enshrined in the Paris agreement of 2015. ■

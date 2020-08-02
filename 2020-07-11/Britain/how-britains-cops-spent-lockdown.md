@@ -14,6 +14,8 @@ But not all crime fell. After lockdown started, even as overall crime declined i
 
 One reason for the rise is that the drugs trade became easier to disrupt. While other businesses shut down, it kept going. “Organised criminals are innovative people. They responded well, from their perspective, so actually there weren’t long term shortages or price rises within the UK,” says Steve Rodhouse, a director general at the National Crime Agency (NCA). But the business demands face-to-face contact, and drug dealers who were out on the streets when everybody else was inside were abnormally conspicuous.
 
+
+
 ![](./images/20200711_BRC402_0.png)
 
 At the same time, while demands on the police declined, the supply of officers rose as leave was cancelled and new recruits promised by Boris Johnson last year arrived. Police forces used the time to tackle their to-do lists. Among the things they did was “progressing complex investigations, for example county lines”, a national network of drug-runners, says Julia Mulligan, North Yorkshire’s police and crime commissioner. North Yorkshire police worked with their counterparts in areas that supply drugs, including Merseyside, West Yorkshire and Greater Manchester. And as Peter Neyroud, a criminologist at Cambridge University and a former chief constable puts it, “It’s a great time to serve warrants, because everyone has to be at home.”

@@ -26,6 +26,8 @@ A Dutch appeals court reinstated an international court’s ruling that Russia o
 
 A Turkish court acquitted a group of civic activists who took part in protests to save a park in Istanbul from development in 2013 of conspiring to overthrow the government. President Recep Tayyip Erdogan’s repression of civil society worsened after the Gezi Park demonstrations. Prosecutors immediately re-arrested one of the activists on charges of taking part in an attempted coup in 2016. See [article](https://www.economist.com//europe/2020/02/20/turkey-acquits-the-gezi-park-protesters-then-rearrests-one).
 
+
+
 ![](./images/20200222_WWP001.jpg)
 
 Despite a fall in daily numbers of newly confirmed infections, many places in China maintained tight controls to curb the spread of covid-19. In Wuhan, where the new coronavirus was first discovered, officials banned outdoor activities. Beijing required anyone entering from another province to undergo 14 days of quarantine. In Japan, the quarantine of a cruise ship, the Diamond Princess, wound down, with hundreds of passengers allowed to leave. Over 600 others had been infected with the virus; two people died. Russia all but barred visits by Chinese citizens. See [article](https://www.economist.com//china/2020/02/22/in-china-newly-confirmed-cases-of-coronavirus-infection-are-falling).

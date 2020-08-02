@@ -16,6 +16,8 @@ In the last big bull market for gold, from 2009 to 2012, companies splurged on b
 
 Now gold firms are benefiting from an amalgam of pricier gold and cheapish oil, which is an important input. But miners have also learned from past mistakes. Between 2013 and 2017 the aggregate net debt of the top 20 gold companies tracked byGDX, a specialised exchange-traded fund, fell by 42%. Costs to sustain production dropped by about 20% from 2012 to 2017, says Credit Suisse, a bank.
 
+
+
 ![](./images/20200208_WBC320.png)
 
 The industry has consolidated. Last year saw more than $33bn of mergers, acquisitions and joint ventures (JVs), according to Refinitiv, a data provider. That included two mega-deals. Barrick Gold of Canada paid $7bn, including net debt, for Randgold Resources, with mines across Africa. Newmont Mining, an American firm, purchased Goldcorp, another Canadian one, for $12bn. Many companies, including Barrick and Newmont, are at last shovelling more cash to shareholders.

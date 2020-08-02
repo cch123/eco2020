@@ -12,6 +12,8 @@ THE BIG story of Boris Johnson’s first ministerial reshuffle on February 13th 
 
 Government suffers from such rapid turnover. There have been five justice ministers in the past five years, and ten housing ministers in the past decade (Esther McVey, the ninth, was sacked last week after serving six months). It is hard to recall policy successes in either department, and easy to spot failures. Nor is political churn offset by official stability. The IFG reports that the turnover rate among senior civil servants has risen as well.
 
+
+
 ![](./images/20200222_BRC206.png)
 
 The absence of training for ministerial office exacerbates the problem. A recent book* by Peter Riddell, a former head of the IFG, quotes many former ministers bemoaning their lack of preparation and saying it often took them two years to learn their job—at which point they were expected to move on and start all over again. Experience as a special adviser and then an MP—which is all many ministers have—is insufficient training for managing a complex department.

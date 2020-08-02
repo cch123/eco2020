@@ -26,6 +26,8 @@ Rather than draining the continent of skills, migration shows those at home the 
 
 This means that large numbers of bright youngsters are getting exposed to societies that are often more democratic, less corrupt and with more productive business environments than those they grew up in. Research supports the idea that migrants in democratic societies help promote democracy back home. One study of Senegalese living in America and France found that many were urging their family members to register to vote in elections. Another study, this time in Mali, found that returning migrants were more likely to vote. Their civic-mindedness seems infectious. Voter turnout rises even among non-migrants in neighbourhoods with returnees. The diaspora also provides a haven for the opposition. Oromo activists in America played a key role in the protests that have pushed Ethiopia in a more democratic direction.
 
+
+
 ![](./images/20200328_SRC963.png)
 
 It is not just politics that is being transformed but also business. Some returnees are actual rocket scientists such as Kwami Williams, a Ghanaian-born American who studied aerospace engineering at MIT and was about to take a job at NASA before he changed course and set up a business in Ghana. Or Ikenna Nzewi, a Nigerian-American who studied computer science at Yale before teaming up with two pals from MIT and Duke to set up a business, Releaf, to collect and process palm-oil kernels from smallholder farmers in Nigeria. Rather than migration leading to a “brain drain” or “brain gain”, it is actually circular, with people moving, learning new skills and then moving again, says Stephen Gelb of the Overseas Development Institute (ODI), a London think-tank.

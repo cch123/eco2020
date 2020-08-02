@@ -10,6 +10,8 @@
 
 
 
+
+
 ![](./images/20200404_FNC087.png)
 
 ECONOMISTS cannot revise down their forecasts of GDP growth for the effects of the coronavirus pandemic fast enough. All agree that 2020 will be dreadful, but some expect recovery to take longer than others, making for a much grimmer year.■

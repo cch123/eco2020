@@ -14,6 +14,8 @@ On May 15th America tried a different tack. It announced new rules that target H
 
 The microchip is an American invention. But the chipmaking business has gone global. These days the dozen biggest semiconductor firms make only 27% of their sales in America. Just 20% of their plant is physically based there. Huawei evaded the worst effects of America’s original blacklist by switching suppliers and buying from non-American factories. The new measures focus on a bottleneck instead: a cohort of American-based chip-equipment firms whose products lack substitutes.
 
+
+
 ![](./images/20200523_LDC693.png)
 
 Huawei has said its survival is at stake. Markets are more sanguine. The price of its bonds, which are traded in Hong Kong, barely dipped. It has spent the past year beefing up its large cash buffers and inventories. Now a hunt will begin for a new way to sidestep the rules. China’s long-term project to build up its own chip industry, of which Huawei is a vital part, will be seen as more important than ever. On May 15th SMIC, which is China’s biggest chipmaker, said it had raised $2bn from state investors and planned to increase its capacity in China six-fold.

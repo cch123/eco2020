@@ -24,6 +24,8 @@ The range in estimates reflects the difficulty of forecasting the impact of the 
 
 These cuts will be mitigated by states’ financial reserves and by federal help. The rule that states must balance budgets has made them fiscally conservative. Most used the 2010s to build up reserves. According to the Pew Charitable Trusts, a nonpartisan think-tank, these reached $75bn in 2019, the highest ever, equal to 8% of spending (or 28 days’ worth). But that is just an eighth of CBPP’s forecast of the shortfall in 2020-22. The costs of the pandemic have swept away the benefits of caution.
 
+
+
 ![](./images/20200620_USC120.png)
 
 The federal government has also offered help, but not enough. It is financing new unemployment insurance introduced during the pandemic and in March gave states an extra $110bn. But the money may not be used to compensate for revenue shortfalls. And anyway, the (bipartisan) National Governors Association reckons states need $500bn. Glenn Hubbard, the former head of George W. Bush’s Council of Economic Advisers, calls the extra help “about as close to a no-brainer...as possible”. In mid-May the House of Representatives promised $500bn. But the bill stalled in the Senate, where the majority leader, Mitch McConnell, has said states should be allowed to declare bankruptcy instead (which may not be constitutional). This leaves states struggling to balance budgets largely on their own.

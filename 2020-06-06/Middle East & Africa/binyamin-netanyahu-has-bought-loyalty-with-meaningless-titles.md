@@ -14,6 +14,8 @@ There is, for example, a minister of education and a minister of higher educatio
 
 Half a century ago Israel had many fewer ministries (see chart). But the country’s proportional-representation system makes it difficult to form a stable governing coalition—just ask Binyamin Netanyahu, the prime minister. Three elections in the span of a year produced nothing but gridlock until Mr Netanyahu convinced his former opponent, Benny Gantz, to join him in government. Now the prime minister must keep politicians from eight parties happy. So, like past leaders, he has broken up existing departments and created new ones in order to reward allies and buy off opponents.
 
+
+
 ![](./images/20200606_MAC838.png)
 
 Mr Netanyahu has thus formed the biggest government in Israeli history. Several new ministries aim to satisfy loyal members of his Likud party. The ministry of community empowerment and advancement was invented to reward a defector from the opposition, Orly Levy-Abekasis. It is responsible for preventing drug abuse and violence against women and children, tasks previously handled by the ministry of public security (which still exists). Ms Levy-Abekasis will also oversee projects to strengthen Arab neighbourhoods. Her credentials include supporting Mr Netanyahu’s plans to annex parts of the occupied West Bank and breaking away from an alliance of left-wing parties because it was backed by a predominantly Arab party.

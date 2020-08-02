@@ -12,6 +12,8 @@ BINYAMIN NETANYAHU, Israel’s prime minister for the past 11 years, is never on
 
 On March 16th Mr Gantz was given the first shot at forming a government, having received the endorsement of 61 members of the 120-seat Knesset (Israel’s parliament). He vowed to “form a national unity government, as broad as possible, within days”. But his allies are united only in their desire to replace Mr Netanyahu. They include Yisrael Beiteinu, a Jewish nationalist party led by Avigdor Lieberman, and the Joint List, an alliance of Arab-majority parties that is now the third-biggest bloc in the Knesset. They are unlikely to sit in government together. Even some in Mr Gantz’s own party, Blue and White, oppose a government that is supported by Arab lawmakers.
 
+
+
 ![](./images/20200321_MAC907.png)
 
 Mr Gantz’s preference would be to form a unity government that includes Mr Netanyahu’s Likud party. “I extend my elbow,” said Mr Gantz, referring to new guidelines barring handshakes. But Mr Netanyahu has always insisted that, if the premiership were to rotate between them, he should go first. Mr Gantz and his colleagues are loth to accept this proposal as they believe Mr Netanyahu would not abide by the deal. Moreover, they think he will use his position to try to shield himself from legal action. Mr Gantz could try to pass legislation preventing a politician facing criminal charges from forming a government. But right-wing politicians might accuse him of sabotaging the effort to fight covid-19.

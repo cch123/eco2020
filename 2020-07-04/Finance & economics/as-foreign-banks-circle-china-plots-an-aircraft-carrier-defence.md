@@ -16,6 +16,8 @@ The immediate prompt is foreign competition. After years of dragging its feet, C
 
 Even without the foreign threat, China has been eager to whip its brokers into shape. Officials want capital markets to lessen the burden on banks, which last year provided two-thirds of all new credit. The ten biggest Chinese banks have roughly 30 times more assets than the ten biggest securities firms, and are also far more profitable (see chart). The securities industry’s main problem is extreme fragmentation; 131 registered firms providing similar services fight for clients by slashing fees. Some even underwrite bonds for nothing.
 
+
+
 ![](./images/20200704_FNC286.png)
 
 Change is unlikely to be revolutionary at first. “It is not China’s way to suddenly implement a new policy and wipe out existing companies,” says Chen Jiahe of Novem Arcae Technologies, a wealth-management firm. Investors agree: the share prices of China’s largest brokers fell by about 5% on June 29th, when the news first broke, but have since recovered.

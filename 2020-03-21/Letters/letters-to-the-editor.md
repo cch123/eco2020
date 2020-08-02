@@ -6,6 +6,8 @@
 
 > Mar 21st 2020
 
+
+
 ![](./images/20200307_WBD000.jpg)
 
 [Schumpeter ](https://www.economist.com//business/2020/03/05/covid-19-is-foisting-changes-on-business-that-could-be-beneficial)(March 7th) connected the coronavirus crisis to the lesson of “resilience and adaptation” offered by the strike on the London Underground in February 2014. Shaun Larcom, Ferdinand Rauch and I analysed the strike and found that the partial closure of the network forced many commuters to experiment with new routes. For many this resulted in shorter travel times; they continued to use the new routes after the strike, thus generating a lasting benefit.
@@ -26,11 +28,15 @@ Working from home could result in staff forking out thousands in extra costs. An
 
 MARGARET O’BRIANLondon
 
+
+
 ![](./images/20200229_CNP002.jpg)
 
 The problem with China’s success in using surveillance methods such as facial recognition and colour codes to tame covid-19 is that this could legitimise the extensive use of profiling tools (“[Code red](https://www.economist.com//china/2020/02/29/to-curb-covid-19-china-is-using-its-high-tech-surveillance-tools)”, February 29th). One can easily imagine how massive surveillance and limitations to fundamental rights like privacy could become the new norm. Desperate times call for desperate measures, but democracies face the dilemma of solving serious problems and at the same time protecting privacy, covid-19 or not.
 
 ASBJORN AMMITZBOLL FLUGGEphd fellowDepartment of Computer ScienceUniversity of Copenhagen
+
+
 
 ![](./images/20200222_FNP511_0.jpg)
 
@@ -40,6 +46,8 @@ For instance, when comparing staffing levels at most European central banks with
 
 THIERRY DESANOISPresidentStanding Committee of European Central Banks UnionsParis
 
+
+
 ![](./images/20200222_LDP502_0.jpg)
 
 The consequences of Boris Johnson restricting the power and independence of the judiciary in Britain may be more far-reaching than the erosion of a safeguard against unchecked executive power (“[Boris v the judges](https://www.economist.com//leaders/2020/02/20/boris-johnson-takes-on-the-judges)”, February 22nd). The principle of judicial independence in Britain underpins the legal systems of some former British colonies, in which authoritarianism is more appropriately described as a feature rather than a tendency. The weakening of judicial independence in Britain may thus have a knock-on effect of undermining judicial independence in other places.
@@ -47,6 +55,8 @@ The consequences of Boris Johnson restricting the power and independence of the 
 For Hong Kong, the recent appointment of the heavy-handed Xia Baolong as director of the Hong Kong-affairs office signals Beijing’s tightening grip on the city’s administration. A decline in Britain’s judicial independence may stoke concerns of opportunistic attempts by Beijing to diminish the power of Hong Kong’s judiciary. Even though judicial independence requires judges to be partial only to the law, Beijing expressed in a white paper published in 2014 that it is a basic political requirement that judges in Hong Kong be patriotic. When Baroness Hale was appointed to the city’s Court of Final Appeal in 2018, it came as no surprise that pro-Beijing lawmakers voiced concern about her handling cases in which national interests may be at stake. If Mr Johnson has his way, it may spell an unprecedented challenge to Hong Kong’s independent judiciary.
 
 JUSTIN BONG-KWANBarrister-at-lawHong Kong
+
+
 
 ![](./images/20200229_FNP002.jpg)
 

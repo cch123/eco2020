@@ -16,6 +16,8 @@ Turkey has already provided Libya’s embattled UN-backed Government of National
 
 Turkey has plenty at stake in Libya. The GNA’s survival and a return to relative stability would offer Turkish companies a chance to resume work on construction projects worth around $20bn that have been frozen since the fall of Libya’s dictator, Muammar Qaddafi, in 2011. Turkey would also be poised to help rebuild Libya’s institutions and its army, says Mustafa el-Sagezli, the head of a government programme to reintegrate militiamen into society. If the GNA wins, “the doors of Libya are open to them,” he says.
 
+
+
 ![](./images/20200111_MAM916.png)
 
 Saving the GNA would also beef up Turkey’s position in the energy-rich eastern Mediterranean, where Mr Erdogan’s government has been isolated by Cyprus, Egypt, Greece and Israel. In November Turkey and the GNA struck a maritime border deal that could frustrate plans by those four countries to export gas to Europe through an undersea pipeline. Turkish officials say the deal gives their country a decisive say in exploration in the eastern Mediterranean. Turkey previously raised the stakes by sending ships to drill for gas off the divided island of Cyprus, despite the EU’s threat of sanctions. The new maritime deal may be the price the desperate GNA had to pay to enlist Turkey’s help. “Turkey would not be in Libya without it,” says Sinan Ulgen of EDAM, a think-tank in Istanbul.

@@ -12,6 +12,8 @@ THERE IS “LOCKDOWN”. And then there is lockdown. Those who have spent the pa
 
 Polarstern is the location of MOSAiC, the Multidisciplinary drifting Observatory for the Study of Arctic Climate. She sailed from Tromso, in Norway, on September 20th 2019 and travelled to a point at latitude 85°N (see map). Here, mimicking the first high-Arctic voyage, made in 1893 by Fridtjof Nansen, a Norwegian explorer, her captain fixed her into an ice floe that carried her along at about 7km/h, courtesy of an ocean current called the transpolar drift stream. Her closest approach to the pole itself, 156km, was on February 24th.
 
+
+
 ![](./images/20200620_STC993.png)
 
 Things have not, however, gone according to plan. The idea was for a revolving cast of 300 scientists each to spend two months on board. This would have permitted specialists in the study of different seasons and conditions—winter or summer ice, say—to be there at the appropriate moment, and would also have had the benefit of protecting everyone from cabin fever.
@@ -21,6 +23,8 @@ A planned rotation in April had, though, to be cancelled. Norway, the new shipma
 The coronavirus has not changed MOSAiC’s objectives, however. These are to study the structure of Arctic ice and how this changes with the seasons, and to look at the air above that ice, the water below and the creatures living in that water—and, indeed, in the ice itself. All of these are interlinked. They also link the place with the wider world, for the Arctic is both a recorder and a driver of climate change.
 
 It is a recorder because the visible difference between ice and water, and the obvious relationship between global temperatures and the amount of ice around, mean together that the ice’s waxing and waning shows in an easily graspable way how things are changing. And changing they are, for the extent of the Arctic sea ice in summer has declined by 30% in the past 30 years, and that loss is accelerating (see chart).
+
+
 
 ![](./images/20200620_STC066.png)
 
@@ -59,6 +63,8 @@ That is bad news for photosynthesising planktonic microbes. The already low leve
 This is not, however, a problem for those organisms actually embedded in the ice. For them, thinner ice means they get more light, rather than less. That raises their productivity. The result, as observed by Dr Bowman, was an unusually early spring-ice algal bloom this year.
 
 It remains to be seen what the effects of the early bloom are. But shifts in the timing of events of this sort can have consequences. For example, if the algae bloom early, the tiny animals that eat them may hatch too late to catch their main food source. Fewer of these zooplankton means, in turn, less to eat for things further up the food chain—like fish, seals and polar bears.
+
+
 
 ![](./images/20200620_STP002.jpg)
 

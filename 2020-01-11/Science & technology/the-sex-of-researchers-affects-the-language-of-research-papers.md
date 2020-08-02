@@ -12,9 +12,13 @@
 
 A paper just out in the BMJ, a medical-research journal, however, offers some support for the idea that men promote themselves more, and that this helps their careers. Marc Lerchenmueller and Olav Sorenson, affiliated with Yale Business School, and Anupam Jena, of Harvard Medical School, examined the language in the titles and abstracts of over 100,000 clinical-research articles. They separated those in which both the first and the last named authors were women from ones in which one or both were men. (The first name is often a more junior researcher who led the work, while the last name is usually a senior scholar who helped guide it.) Sure enough, articles with either a first or a last male author were more likely to describe their work in positive terms.
 
+
+
 ![](./images/20200111_STC052_0.png)
 
 “Novel” was the most common self-applied positive term, and those papers with a male first or last author used the word 59.2% more than women-women papers did. But “promising” was even more skewed: papers with a male first or last author used this word 72.3% more than those with women first and last authors (see chart). The researchers further found that such self-promotion was associated with a greater number of subsequent citations. And both effects were bigger in prestigious journals.
+
+
 
 ![](./images/20200111_STC052_0.png)
 

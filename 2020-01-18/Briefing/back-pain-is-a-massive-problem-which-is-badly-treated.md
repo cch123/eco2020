@@ -12,6 +12,8 @@ PETE MOORE was 43 when he woke up one autumn morning with back pain so excruciat
 
 Mr Moore received a prescription for opioids to help him cope with the pain; but the pain persisted, and he found himself becoming loopy. Unable to work or do much else, Mr Moore, who had been a painter, sank into depression. Three years into his ordeal, he says, he was “thinking of ending it all”.
 
+
+
 ![](./images/20200118_FBC183_0.png)
 
 Back pain does not, in and of itself, kill people. But it makes a huge number of lives a misery. In most countries for which there are reliable figures, whether rich or poor, back pain is the top cause of disability, measured by the aggregate number of years lived in poor health. That burden is decreasing (see chart) but only very slowly.
@@ -65,6 +67,8 @@ Other countries have had some success with an approach called “Choosing Wisely
 But when professional associations in America urged doctors to take up the Choosing Wisely model their campaign made almost no difference to back-pain treatment—perhaps because doctors were under no obligation to change, says Dr Deyo. Nor has a change in the advice provided by the American College of Physicians had any great effect as yet. In 2017 the college stopped recommending medication as an initial response to back pain, suggesting instead acupuncture, yoga, tai-chi and psychological therapies aimed at reducing stress, all of which have been shown to reduce pain-related disability. Insurers have taken note, with some now covering some or more of these alternatives. That will make it easier for doctors moved to change their practice to do so.
 
 Another approach might be to nudge doctors incrementally, rather than to change their practices once and for all. Tweaking the interface of the electronic systems doctors use to order MRIs so that it takes them longer to place an order has been shown to reduce the number of unnecessary scans. Adding a pop-up reminder explaining why imaging is frequently unnecessary has also shown effects.
+
+
 
 ![](./images/20200118_FBD002_1.jpg)
 

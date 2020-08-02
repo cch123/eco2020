@@ -22,6 +22,8 @@ Foreign policy is trickier. Most Greens shed their instinctive pacifism long ago
 
 Difficult compromises are being forged on climate, the party’s signature issue, too. Despite having battled to shake off their image as humourless eco-moralists tossing off prohibitions against motorists and carnivores, the Greens are again talking about bans, which Mr Habeck has called “the condition for freedom”. The Greens want to phase out coal power and the combustion engine (in new cars) by 2030. They also want cheaper trains, dearer flights, EU tariffs on climate-unfriendly imports and a higher price on carbon emissions—plus compensation for those affected by it. Yet overall the party seeks to harness the power of markets and innovation, not to scare voters with radical proposals implying privation. The party assiduously courts business; Mr Kretschmann, its most successful politician, hugs closely the car firms that employ hundreds of thousands in his state. Still, there are limits. The Greens will not shake off their founding opposition to zero-carbon nuclear energy.
 
+
+
 ![](./images/20200104_EUM903.png)
 
 The common thread is a little bit of everything: climate-friendly growth that hurts neither companies nor the poor; investment plus fiscal responsibility; a foreign policy combining ethics with realism, all wrapped in an EU flag. Underpinning this is the closest the party gets to a political philosophy, as outlined by Mr Habeck. “Society has changed, and the idea of one-size-fits-all parties isn’t working,” he says. “If you think Greens have the answer, you can vote for us whether you’re an old lady or a punk in Berlin.”

@@ -16,6 +16,8 @@ As The Economist went to press, the leaders of Russia and Turkey were to hold a 
 
 That should now be painfully clear to Mr Assad. Although there are no precise statistics on his losses (both sides have an incentive to fudge them), even regime loyalists say hundreds of Syrian soldiers have been killed by Turkish strikes. The casualties also include members of Hizbullah, a Lebanese militia that backs Mr Assad, and other Iranian-trained militias stocked with Afghan and Pakistani fighters. A video posted on social media showed Syrian troops roaming Idlib in an ambulance (itself a war crime), desperately trying to hide from Turkish missiles. Scores of Syrian tanks have been destroyed or captured.
 
+
+
 ![](./images/20200307_MAM988.png)
 
 Turkey hit back mostly with unmanned drones. They fly low and slow, without the range or payload of America’s hulking Reapers. But they pack enough punch to wreck armoured units. Syria’s air defences, never very strong, were useless against swarms of drones orbiting overhead. After Syrian jets shot one down, a Turkish F-16 downed two of the Syrian planes.

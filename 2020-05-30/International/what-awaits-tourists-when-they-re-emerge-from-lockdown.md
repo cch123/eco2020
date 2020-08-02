@@ -14,11 +14,15 @@ MOST STRIKING is the absence—of cars outside the building, of people inside it
 
 Inside an employee stood ready to hand out facemasks, with no one to give them to. The vast check-in hall was nearly deserted. Just one lane at security was operating. Many of the lights were off. The departures board showed six flights for the entire day.
 
+
+
 ![](./images/20200530_IRC737.png)
 
 International travel has all but stopped. Borders are closed. Hotels are empty. In April last year 6.8m passengers passed through Heathrow. This April just over 200,000 did—fewer than a pandemic-less daily average. Flight movements across Europe are down by nearly 85% (see chart 1). In America the Transportation Security Administration screened 3.2m passengers in its airports last month, down from 70m during the same period last year. Some countries, such as India, stopped all road and rail transport, grounded all flights and shuttered airports. And as countries creak open, they are picking and choosing which nationalities to allow in. The old rules have gone out of the window.
 
 And so for many 2020 will be a year without holidays. The fear of disease will keep people at home. Travel is already a luxury. Even in rich Europe, with its generous holiday entitlements, three in ten cannot afford a week’s annual holiday away from home. Those who have lost jobs or who are worried about recessions may cut travel from their budgets. For those who still dream of foreign beaches, the biggest obstacle will be getting anywhere. Many restrictions—including border closures and quarantines post-arrival—are still in place.
+
+
 
 ![](./images/20200530_IRC729.png)
 

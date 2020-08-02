@@ -10,6 +10,8 @@
 
 CAST YOUR mind back to 2007. Flashy types were showing off their first-generation iPhones. Netflix sent DVDs through the post for people who did not have the time to drop into a branch of Blockbuster. The biggest firms in the world were old-economy stalwarts such as General Electric and Royal Dutch Shell. Myspace ruled online. That seemingly distant era was when America, followed by Europe and most of the rich world, last fell into recession. Since then the way people buy products, entertain themselves, move around and borrow money has altered and in some cases been revolutionised by a mighty band of global technology titans.
 
+
+
 ![](./images/20200222_WBC367.png)
 
 “The composition of the economy has changed since 2007, and hence so will the nature of recessions,” says Douglas Elliott of Oliver Wyman, a consultancy. Working out the impact of the next recession is important because one is on the way, sooner or later. Past recessions have been costly. The Economist calculates that in the most recent downturn 11m people lost their jobs in rich economies and profits of big listed firms in Europe and America dropped by 51% and 30%, respectively. Stockmarkets always take a battering when the economy turns (see chart 1). Recessions matter to governments and central banks, which must work out how to respond, and to firms and investors, because downturns sort the wheat from the chaff. In the past three recessions the shares of American firms in the top quartile of each of ten sectors rose by 6% on average, while those in the bottom quartile fell by 44%.
@@ -19,6 +21,8 @@ In some important ways the corporate world looks similar to the picture in 2007.
 Much has also changed. First, the digital world is more dominant. An economic bounceback has fuelled the rise of global tech giants that have disrupted incumbents in retail, taxis, hotels and many other businesses. The example of tech upstarts has seeped through to non-tech firms, which are now more asset-light. Managers have shifted IT spending from buying servers to renting them through the cloud, for example. The second change is that bosses may have less room to cut costs. Third, some firms have heaped on debt and engaged in accounting puffery, increasing what John Kenneth Galbraith, an economist, called “the bezzle”: money no one is aware has gone missing. Boom times paper over cracks, for instance by allowing firms to delay writing down the value of misfiring acquisitions.
 
 Start with the first change, the rise of digital technology. The most visible difference is in the nature of the largest firms: seven of the ten most valuable firms in the world are now tech outfits, up from two in 2010 (see chart 2). In America the top five —Alphabet, Apple, Amazon, Facebook and Microsoft—account for 13% of the profits of S&P 500 firms. This is forecast to rise to about 20% in five years’ time. At less than 5%, their share of S&P 500 employment is small but they have become America’s largest investors, ploughing $189bn into the economy last year (including research and development), equivalent to 17% of investment by big publicly listed companies.
+
+
 
 ![](./images/20200222_WBC366.png)
 
@@ -41,6 +45,8 @@ Meanwhile the social context has shifted. In 2019 the heads of 181 of the larges
 The final change is that a long period without a downturn has encouraged bad habits that mean some firms are too indebted, or are hiding nasty secrets. Such problems are usually spotted once it is too late to fix them. The Asian crisis of 1997 featured crony-capitalists crippled by debt-currency mismatches; in 2000-01 it was imploding dotcom firms and frauds at Enron and WorldCom; and in 2007-09 banks built on rotten foundations crumbled.
 
 Predicting these fiascos is hard but there are some general warning signs. After a long bout of dealmaking, goodwill (the difference between what the acquirer pays for a target and its book value) is at a record high of $3.6trn for S&P 500 firms. This can indicate trouble. In 2000-01 and 2007-09 firms made huge goodwill write-offs as they confessed to dodgy deals.
+
+
 
 ![](./images/20200222_WBC368.png)
 

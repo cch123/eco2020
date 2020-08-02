@@ -14,6 +14,8 @@ Little of that terror is visible in “The Unseen Archive of Idi Amin”, a phot
 
 Photographing Amin was dangerous work. A caption could anger him, even if the image was innocuous. State photographers became “fearful, paranoid, nervous men”, write Derek Peterson of the University of Michigan and Richard Vokes of the University of Western Australia, two of the co-curators of the exhibition, in a forthcoming book. The risks intensified after 1976, when Israeli commandos stormed the national airport at Entebbe and rescued hostages from a hijacked plane. Pictures of the raid were reprinted in a South African magazine; the man who sold them was killed by Amin’s thugs. From then on, negatives were locked away. The cameras still followed him, like theatrical props, but few of the pictures were ever printed.
 
+
+
 ![](./images/20200229_BKP511.jpg)
 
 Unflattering photos were destroyed, as were most scenes of violence. So the curators give special prominence to images of the regime’s victims, seen in life rather than death. One poignant series captures a military tribunal established to prosecute “economic crimes” such as smuggling and overcharging. The suspects are by turns bewildered or resigned. A teenage girl scowls defiantly at the camera (see previous page). Many of those prosecuted were shot.
@@ -21,6 +23,8 @@ Unflattering photos were destroyed, as were most scenes of violence. So the cura
 But what are viewers to make of the despot playing an accordion or dipping his toes in a lake? At a recent showing in West Nile, Amin’s home region, his son insisted that he had stamped out corruption and “gave Ugandans self-esteem”. Young people sometimes praise him as a leader who stood up to British colonisers and Asian tycoons. Ms Bananuka worries that his “dark side” is missing. “People are seeing Amin dancing,” she says, as though he were merely “a jolly man”.
 
 The pictures in “Rebel Lives” (such as the one above) are equally unsettling. They were taken by LRA fighters during its 20-year insurgency in northern Uganda (where peace returned in 2006, though remnants battle on elsewhere). Accounts of the rebellion tend to focus on its leader, Joseph Kony, and the many atrocities he oversaw, depicting the group as a bizarre cult. But the conflict was complex in its origins and intimate in its effects. Many rebels were abducted as children, making them both victims and perpetrators of violence. The photographs, collected by Kristof Titeca of the University of Antwerp, give a glimpse of the war from their perspective.
+
+
 
 ![](./images/20200229_BKP512.jpg)
 

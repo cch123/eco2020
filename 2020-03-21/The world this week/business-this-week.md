@@ -6,6 +6,8 @@
 
 The Federal Reserve took more emergency measures to bolster short-term liquidity in markets by providing new funding lifelines to banks. It also cut its benchmark interest rate close to zero and began a new programme to buy commercial paper. Stockmarkets were in free fall; trading was halted again on the New York Stock Exchange after steep plunges triggered an automatic “circuit breaker”. The S&P 500 had its worst day since 1987, falling by 12%. It has now shed all the gains it made last year. See [article](https://www.economist.com//finance-and-economics/2020/03/21/why-americas-financial-plumbing-has-seized-up).
 
+
+
 ![](./images/20200321_WWC439.png)
 
 As investors turned to the dollar for safety, the pound fell to levels last seen during the 1980s, dropping below $1.15 in trading. Uncertainty about Brexit was an extra factor weighing on panicky markets. See [article](https://www.economist.com//britain/2020/03/21/covid-19-is-delaying-brexit-negotiations).

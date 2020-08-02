@@ -18,6 +18,8 @@ The enormous emergency spending bill due to be passed by America’s Congress—
 
 But the bill also brings dangers. Markets cheered it not just because of its likely effect on growth, but also because it directly benefits investors. Large firms will have access to cheap taxpayer-financed loans on an unprecedented scale. The Fed had already announced, on March 23rd, that it would buy companies’ short-term debt. Congress is now giving the central bank a capital infusion to support vast direct lending to corporate America. Emergency interventions like these shift the costs of the crisis away from investors and towards taxpayers (see [article](https://www.economist.com//finance-and-economics/2020/03/25/how-to-pay-for-the-pandemic)).
 
+
+
 ![](./images/20200328_LDC031.png)
 
 That is partly necessary, because letting a large number of big firms go bankrupt could prove so disruptive that it would worsen the crisis. And investors are not completely undeserving beneficiaries. No firm could have been expected to stockpile cash to pay workers to do nothing in the event of a government-enforced lockdown. The real potential unfairness in the stimulus is that aid to large firms is the part of the rescue package that is most likely to work without a hitch. Sophisticated corporations will have no trouble borrowing from the Fed or from backstopped capital markets, even as they lay off some workers (prohibited only “to the extent practicable”). But aid to small firms, and directly to the jobless, may turn out to be less than comprehensive.

@@ -24,6 +24,8 @@ Over the century more and more cities grew large, dense and rich. By 2016 more t
 
 Workers and firms have continued to pile into cities like New York, even as travel and telecommuting have become easier, because there is so much to be gained by proximity to other human beings, especially when it comes to the “knowledge economy” reliant on highly skilled, highly educated and highly productive workers. Geoffrey West, a physicist at the Santa Fe Institute, has shown that these benefits in terms of wages and innovation grow faster than the cities which provide them.
 
+
+
 ![](./images/20200613_FBM981.png)
 
 Edward Glaeser, an economist at Harvard University, has shown that urban density increases workers’ productivity and minimises their carbon footprints. Americans who live in big metropolitan areas are, on average, more than 50% more productive than those who live in smaller metros. This holds true even for workers with the same education, experience, working in the same industry and boasting the same IQ. Much the same is true in other rich countries. In poorer ones the advantages of city life are even greater.
@@ -35,6 +37,8 @@ But making mass transit safe in a world of social distancing is hard. The Metrop
 Mr de Blasio has done little to help. Asked for 100km (60 miles) of new bus lanes to help with the situation he has provided just 30km. He has also been grudging when it comes to pedestrianising streets so that people can keep a respectful distance from each other while getting around and increasing provision for the use of bicycles.
 
 This all means that New Yorkers cannot safely return to work in one fell swoop. But the point of a dense city is that it needs density to work. According to Enrico Moretti, an economist at the University of California, Berkeley, each of the “knowledge jobs” that make cities like San Francisco or New York so successful supports five service jobs, some high paying—lawyers—some much less so—baristas. If office workers stay at home, the workers who depend on them being in town have no income. If, faced with half-empty offices, such service workers do not come back for want of custom, that will add to the commuters’ disinclination to return. If the businesses providing services actually go bust waiting for the tide to turn things will go even worse.
+
+
 
 ![](./images/20200613_FBC010.png)
 
@@ -71,6 +75,8 @@ Take financial services, which account for a third of the Manhattan payroll. Bar
 If workers can conduct their jobs from home permanently, some will leave the city for good. According to a survey conducted by Redfin, a property platform, more than half of those currently working from home say they would move away from their city if given the opportunity to work from home permanently. This may be an exaggeration. Thinking you might like to move and moving are quite different; searches on property websites do not show an immense appetite for life in the boondocks (which, to true New Yorkers, basically means all parts of the country outside the city’s limits). Scott Stringer, New York City’s comptroller, for one, thinks flight to places like Austin, Texas, is unlikely. “You know why?” he laughs. “Because they’d have to live there.”
 
 What is more, an entirely decentralised workforce, however Slacked, Teamed, Hung-out and Zoomed it might be, cannot capture all the benefits the city has to offer, either for its members (in terms of finding better jobs) or its employers. Paco Ybarra, an executive at Citigroup, another bank, has said that firms might be able to work remotely now because they have already built up client and team relationships face-to-face in the past, but that this would “erode over time”.
+
+
 
 ![](./images/20200613_FBP003_0.jpg)
 

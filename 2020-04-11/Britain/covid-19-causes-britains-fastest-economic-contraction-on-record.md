@@ -18,6 +18,8 @@ Official data from the Office for National Statistics will take time to catch up
 
 The scale of the economic damage and the cost of the policy response will in months undo a decade of effort to reduce the fiscal deficit. The take-up of support schemes appears to be running well ahead of what was anticipated. The jobs-retention scheme, for example, allows firms to furlough staff on 80% of their wages up to £2,500 a month with the taxpayer picking up the bill. At first the Treasury estimated that around 3m private-sector employees, just over 10% of the workforce, would be furloughed, at a cost to the exchequer of around £10bn. But a survey conducted by the British Chambers of Commerce found that three-quarters of respondents planned to use the scheme, and almost four in ten intended to furlough more than three-quarters of their staff.
 
+
+
 ![](./images/20200411_BRC136.png)
 
 In his budget, Mr Sunak estimated that government borrowing would rise to 2.4% of GDP. The Institute for Fiscal Studies, a think-tank, now estimates that it could increase by around an additional £130bn this year, to around 10% of GDP. That would take the government’s total financing needs back to levels last seen in the financial crisis (see chart).

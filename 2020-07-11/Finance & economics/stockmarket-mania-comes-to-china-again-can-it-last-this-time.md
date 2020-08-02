@@ -14,11 +14,15 @@ China’s indomitable punters now hope that a trundling taurus has at last arriv
 
 For starters, China appears to be in much better economic shape than other large economies. Because investors must allocate their funds somewhere, there is always a comparative element to stockmarket performance. China is the only big economy forecast to grow this year, and is also expected to record the strongest rebound next year, according to projections published by the IMF at the end of June. There are grave concerns about the toll that the coronavirus might take in America during the flu season in the autumn. By contrast, China has shown every intention of smothering renewed outbreaks. That has given people and businesses greater certainty about the path ahead.
 
+
+
 ![](./images/20200711_FNC397.png)
 
 Market dynamics also seem to be helping. Even after the rally, valuations in China are reasonable. The CSI 300 trades at 14 times the value of company earnings, far below the 27-times multiple of the S&P 500, America’s most-watched share index (see chart). Foreign investors have more ways to enter China’s previously walled-off market; many are compelled to do so, because its shares are now included in key indices tracked by institutions. During the first three trading days of July, 44bn yuan ($6bn) flowed into Chinese equities via accounts in Hong Kong, a record high for any three-day period.
 
 
+
+https://embed.acast.com/theeconomistmoneytalks/moneytalks-nohuawei
 
 Although more investors have started buying shares with borrowed money, the outstanding balance of such margin trading is just over half the peak it reached five years ago, during China’s most recent manic run. It is now easier for companies to list shares on the mainland, so new offerings should help absorb some of the cash rushing into the stockmarket. “This lays the foundation for a slow-bull market that could last for ten or 20 years,” says Chang Shishan of Kangzhuang, an asset-management firm.
 

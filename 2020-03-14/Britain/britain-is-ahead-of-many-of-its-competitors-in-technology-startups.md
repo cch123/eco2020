@@ -14,6 +14,8 @@ Revolut’s rise mirrors Britain’s unicorn scene. A unicorn is defined as a pr
 
 More interesting than these numbers is a step-change in the rate of growth. Between 2009 and 2013, Britain averaged about two new unicorns a year. Since then the figure has quadrupled. Part of that may be down to overall market optimism in recent years around anything tech-related. But investors may also have worked out how to navigate the “valley of death”, in which promising innovations would either disappear without being commercialised, or end up being swallowed by dragons. That was the fate of DeepMind, an artificial-intelligence startup, when Google bought it in 2014.
 
+
+
 ![](./images/20200314_BRC428.png)
 
 A few British unicorns, such as Graphcore, which designs specialised chips for artificial intelligence, are pure tech companies. But for most, computing is not the product, even if tech is central to the process. Finance, making up nearly a third of Britain’s unicorns, is the biggest sector, with companies like Revolut, Monzo and OakNorth (all upstart banks) and TransferWise (a money-transfer service). Retail, with ten unicorns (such as, Deliveroo and Ocado, which deliver cooked and supermarket food, respectively) and health (such as Oxford Nanopore, a gene-sequencing company) are also success stories. Some, such as BrewDog, a beer-maker, have nothing to do with technology at all.

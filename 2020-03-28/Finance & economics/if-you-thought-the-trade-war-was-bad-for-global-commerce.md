@@ -14,6 +14,8 @@ Trade is the conduit through which economic pain passes from one country to anot
 
 When world output, at purchasing-power parity, fell by 0.1% in 2009, trade volumes collapsed by a whopping 13%. Quarterly volumes fell by even more (see chart). Weaker demand in America and the European Union rippled along trade routes to Canada, China, emerging Asia, Japan and Mexico. One study finds that 27% of the decline in American demand and 18% of that in the European Union was borne by foreign producers.
 
+
+
 ![](./images/20200328_FNC876.png)
 
 The shock coming this year threatens to be far more brutal. When one of the world’s economic giants sneezes, the rest of the world catches cold. Now everyone is coughing. Factory closures are being exacerbated by a rise in trade barriers. And global demand is plummeting as households’ incomes dry up and cash-strapped firms put their investment plans on ice.

@@ -18,6 +18,8 @@ The most likely scenario is that Hong Kong’s institutions face gradual decay a
 
 When Hong Kong returned to Chinese sovereignty in 1997, it was a lively entrepot known for its rags-to-riches magnates and well-oiled expatriate bankers, but not a global powerhouse. Since then it has been transformed. It is nine times bigger than in 2000, using the median of a panel of four capital-markets measures, and ranks third among global financial centres (see chart 1). It has learned new tricks, including how to sell derivatives, private banking, fintech and life insurance. Financiers have leapt to offer the services that mainland China cannot provide and tolerates being offered offshore. In the 1990s and early 2000s Hong Kong courted initial public offerings of Chinese state-owned firms, and then shifted to listing private companies. Since 2014 it has hosted “Stock Connect”, a platform that allows limited cross-border trading in securities between it and the mainland, and which now accounts for 8% of share trading in Hong Kong. Even when Chinese firms have conspicuously declined to use Hong Kong’s markets they have used legal structures engineered by its lawyers and accountants. When Alibaba, China’s most valuable firm, listed in New York in 2014, its prospectus mentioned Hong Kong 72 times (in November last year it floated in the territory, too, after worries about America punishing Chinese firms listed on Wall Street).
 
+
+
 ![](./images/20200606_FNC860.png)
 
 Of course mainland China’s financial markets have expanded, too. Shanghai has a stockmarket capitalisation that rivals Hong Kong’s, and China’s bond market is vast. Global bank chiefs love the entrepreneurial vim of Shenzhen, whose sizeable stockmarket hosts over 2,000 firms. But scale doesn’t mean compatibility with the requirements of global investors. Disclosure standards are often terrible; the government sometimes rigs prices; moving capital across the border is hard; and even in some fairly plain-vanilla areas mainland China lacks critical mass. It hosts only 1.6% of global currency trading, for example, and a puny 0.2% of worldwide interest-rate-derivatives activity.
@@ -30,6 +32,8 @@ Such squeaky-clean credentials mean Hong Kong has been granted access to the hea
 
 Of all Hong Kong’s privileges, the most important is its role as the dominant offshore dollar funding centre in Asia, a status that the Fed has tolerated, if not encouraged. Since 1983 its currency has been pegged to the greenback, underwritten by foreign reserves of about $440bn, over twice the value of the local money supply, narrowly defined. Firms dealing in Hong Kong’s currency assume that it is perfectly fungible with the greenback.
 
+
+
 ![](./images/20200606_FNC861.png)
 
 More importantly, they also assume that an American dollar in Hong Kong is perfectly fungible with one in New York. This belief explains why so much activity is denominated in American dollars, including 97% of foreign-exchange deals, 58% of cross-border loans and other bank instruments, 43% of cross-border derivatives and 37% of deposits (see chart 2). The stock of dollar cross-border claims is $4trn, equivalent to a tenth of the value of America’s stockmarket.
@@ -37,6 +41,8 @@ More importantly, they also assume that an American dollar in Hong Kong is perfe
 To command the confidence of investors, Hong Kong relies on a home-grown payments infrastructure that links it to America’s money markets. One monetary artery, called USD CHATS, allows banks in the territory to transact in dollars with each other and is then connected to New York by HSBC, a London-headquartered bank that does most of its business in Asia. Total payments pumped through this system amounted to $10.4trn last year. Nine of the ten largest mainland Chinese banks piggyback off it, using USD CHATS accounts with HSBC. Though it is not possible to estimate what share of China’s total dollar payments use this mechanism, it may be chunky. China does have alternatives. It can use bespoke arrangements with Western banks. Five mainland lenders participate in an American dollar-payments venue, known as CHIPS, although none is a member of the exclusive club of global banks that owns it.
 
 Assured of Hong Kong’s fair play, good standing in the rest of the world and fungible money, financial firms have been happy to locate there. The territory has 163 licensed banks, three of the five largest of which are Western-controlled, and 1,600-odd asset managers, most of which are global and source half of their money from America, Europe and non-Chinese Asia. While mainland investment banks dominate business on the mainland, Western firms still reign over complex cross-border deals. Four of the five underwriters for Alibaba’s recent flotation were American or European, including Morgan Stanley and Credit Suisse. The participation of many global firms in Hong Kong is evidence that its markets are run well, and creates jobs: 13% of the territory’s employment and 26% of its GDP come from professional services and finance. For workers outside these gilded sectors, though, life is less easy. The high cost of living is one reason why protesters have repeatedly brought Hong Kong to a standstill.
+
+
 
 ![](./images/20200606_FNP004_0.jpg)
 

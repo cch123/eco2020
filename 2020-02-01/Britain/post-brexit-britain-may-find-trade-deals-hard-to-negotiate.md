@@ -14,6 +14,8 @@ Britain already has its work cut out simply replicating existing EU deals with S
 
 Where to focus? America, the biggest market for exports, is an obvious candidate. Until the Huawei decision the Trump administration was positive about a quick deal. Brexiteers like it as it would make it hard to switch back to the EU. Yet America’s priorities of opening up food markets and drug prices do not appeal to consumers (or the government). A row over digital taxes may also hamper a deal.
 
+
+
 ![](./images/20200201_BRC037.png)
 
 America may allow a deal to lapse if its partner agrees one with China, and Chinese deals are one-sided. India is more promising, but its government is not trade-friendly and it sees easier visas for Indians as a precondition. Sam Lowe of the Centre for European Reform think-tank points to Japan, Australia and New Zealand as partners that might set a template for other deals. The government is keen on Japan, though one concern is that it cannot do better than the EU since the terms of the EU’s deal requires it to get the same benefits.

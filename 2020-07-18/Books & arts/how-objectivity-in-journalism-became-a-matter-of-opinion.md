@@ -24,6 +24,8 @@ A century later, four trends have put this principle under strain. (The Economis
 
 The Trump era has also exposed problems with journalistic notions of balance. Giving equal weight to both sides of an argument is an easy shortcut to appearing objective. Yet this “bothsidesism” has sometimes come to seem misleading. At an impeachment hearing in December, “the lawmakers from the two parties could not even agree on a basic set of facts in front of them,” reported the Times. Which facts were real? Readers were left to guess.
 
+
+
 ![](./images/20200718_BKD002.jpg)
 
 A second cause of doubts about objectivity is the changing make-up of the American newsroom. Amid more diverse recruitment, the share of the Times’ editorial staff who are white is falling; the proportion who are women is rising. Not only has this sharpened sensitivity to odd phrases like “racially infused”; it has also made some wonder if the “objective” viewpoint is in fact a white, male one. The “view from nowhere” is just the view of “a white guy who doesn’t even exist”, Dan Froomkin, an outspoken media critic, has argued.

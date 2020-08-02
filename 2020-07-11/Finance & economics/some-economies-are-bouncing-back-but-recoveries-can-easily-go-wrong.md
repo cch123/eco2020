@@ -14,11 +14,15 @@ The fate of the Jolly Sailor hints at the difficulties that rich countries face 
 
 Some countries have a tougher job on their hands because their output has fallen more since February, when lockdowns started to be imposed. No one knows for sure yet who has fared well or badly. GDP data for the second quarter are not yet available, and in any case will probably be subject to large revisions over time, as is often the case in downturns. But industrial structure is one indication. Surveys of economic activity in Germany suggest that it held up better between March and May than it did in France, Italy or Spain. That may be because of its heavy reliance on manufacturing, where maintaining both output and a social distance is easier than, say, in retail or hospitality services. Capital Economics, a consultancy, argues that Poland will experience Europe’s smallest contraction in GDP this year in part because it relies little on foreign tourists.
 
+
+
 ![](./images/20200711_FNC336.png)
 
 The stringency of official lockdowns, and changes to people’s behaviour, has clearly played a huge role. Research by Goldman Sachs, a bank, finds that lockdown stringency—in terms of both the strength of official rules and how enthusiastically people practised social distancing—is strongly correlated with the hit to economic activity, as measured by surveys. By this measure, Italy had the tightest lockdown for the most time (see chart 1). A back-of-the-envelope calculation suggests that its GDP for the first half of 2020 is likely to come in about 10% lower than it would have been otherwise—a lot of ground to make up for a country that struggled to grow even before the pandemic. By contrast, South Korea’s GDP looks likely to fall by 5%.
 
 The lifting of lockdowns is now boosting economic activity. By how much, however, varies from country to country. Real-time activity data suggest that America and Spain are laggards, not only in terms of visits to restaurants but also to workplaces and public-transport stations. Others are powering ahead. By the end of June, economic life in Denmark and Norway had pretty much returned to normal. Danish retail sales actually rose by more than 6% year-on-year in May (compared with a double-digit decline in Britain). Germany’s restaurants were closed in May. But in recent days they have returned to full capacity (see left-hand panel of chart 2).
+
+
 
 ![](./images/20200711_FNC337.png)
 

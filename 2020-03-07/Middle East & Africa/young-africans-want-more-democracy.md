@@ -54,6 +54,8 @@ Outsiders may care little about African democracy. But there is no such apathy o
 
 Though Africans remain keen on the idea of democracy, frustration with the reality has risen. In the late 1990s only about a quarter of respondents in a sample of 14 African countries tracked by the Centre for the Future of Democracy at the University of Cambridge expressed “dissatisfaction” with democracy. By the 2010s that had risen to about a half.
 
+
+
 ![](./images/20200307_MAC532.png)
 
 Dissatisfaction is reflected in the rising number of protests. In 2019 there were 10,793 demonstrations in Africa, according to the Armed Conflict Location & Event Data Project, compared with 819 in 2009 (see chart 1). And whereas demonstrations typically lasted for days or weeks, recent cases in, say, Malawi, Sudan, Togo and Guinea have gone on for many months.
@@ -81,6 +83,8 @@ Malawi’s doughty judges show the importance of institutions. Strong judiciarie
 Take African legislatures. They are often dismissed as rubber-stamp institutions. But they have helped ensure that, since 1990, all but seven of the 47 countries in sub-Saharan Africa that have non-ceremonial heads of state have term limits. These limits are more than twice as likely to be kept as broken.
 
 Institutions cannot always restrain a determined autocrat, but they can raise the costs of him repressing his people and clinging to power. This is one reason why there has been a rise in the number of peaceful, if not always democratic, changes of government (see chart 2). There have been 29 non-violent transfers of power since 2015, compared with just nine in the first half of the decade. Of the 49 sub-Saharan leaders in charge at the start of 2015, just 22 are in place today. Many of these changes reflect deals among elites, such as the one that brought Abiy to power in Ethiopia. But they show that political systems do respond to pressure.
+
+
 
 ![](./images/20200307_MAC542.png)
 

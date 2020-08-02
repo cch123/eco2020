@@ -42,6 +42,8 @@ Jane goes to the police. Asked why she didn’t report the next day, she says sh
 
 If victims think reporting assaults is pointless, it is not without reason. In a study recently released by America’s National Criminal Justice Reference Service, researchers followed the flow of reports of rape and attempted rape in six American jurisdictions between 2008 and 2012. Of 2,887 reports by women just a fifth led to an arrest. Only 1.6% of incidents reported led to a trial. “Police and prosecutors selected cases based on what they thought a jury would believe,” says Linda Williams, one of the study’s authors.#
 
+
+
 ![](./images/20200104_IRD011_0.jpg)
 
 Drop-off rates seem to be increasing. In 2018-19 Britain had its lowest number of rape prosecutions in a decade, despite the number of police reports nearly tripling since 2014. According to FBI data, in America police successfully closed just 33% of rape investigations in 2018 (including dismissals), the lowest “clearance rate” since the 1960s. Rape was second only to robbery as the least-solved violent crime. Lower clearance rates might be a sign that police are keeping complex cases open for longer. But it could equally indicate that more rapes are going unsolved.
@@ -93,6 +95,8 @@ Three months later, Jane resigns from her job; Joe’s friends at work make her 
 “I don’t care if 30 more women come forward and allege this kind of stuff, Les is our leader and it wouldn’t change my opinion of him,” Arnold Kopelson allegedly told fellow members of the board of CBS , a broadcaster, in July 2018. A single accusation of sexual misconduct against the company’s CEO, Les Moonves, had become a spate. But their sheer volume meant that unlike Mr Kopelson the public did care, and in time the shareholders came to care, too. Mr Moonves was forced out of his job; he might have been prosecuted had the statute of limitations relevant to the allegations not expired. Mr Moonves denies all of the allegations.
 
 The retrial of Mr Cosby also demonstrated the power of numbers. The first case against him, which went to court in June 2017, ended in mistrial. But at retrial the judge allowed five additional victims to testify. Even though there was only one formal complainant, the volume of supportive testimony helped the jury to convict him. Some rapists do indeed, over time, rape more than one woman—a rare example of a commonplace about rape that has some truth. Multiple accusers make each other more credible, especially if they come out independently. But the number of allegations does not necessarily make any one easier to prove in legal terms.
+
+
 
 ![](./images/20200104_IRD012_0.jpg)
 

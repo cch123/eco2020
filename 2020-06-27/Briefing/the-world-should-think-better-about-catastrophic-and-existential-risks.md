@@ -46,6 +46,8 @@ America does, at least, have a solid plan: the National Space Weather Strategy a
 
 There is little planning anywhere for what to do in response to a volcanic eruption large enough to cool and dry the climate around the world, as the eruption of Tambora, a volcano in Indonesia, did in 1815. The fact that the stratospheric sulphate particles which bring about such cooling leave a distinctive residue in glaciers and ice sheets reveals the frequency of these eruptions (see chart 1). But there is no pattern which says when another one might be due.
 
+
+
 ![](./images/20200627_FBM133.png)
 
 Careful remote monitoring of the world’s volcanoes, including those that are apparently dormant, should reveal if one is likely to blow in a big way. Again, satellites can play a key role. A technique called radar interferometry makes it possible to see when mountains start to deform as a result of the pressure of the magma building up beneath and within them. Scientists at the University of Bristol are using such data from past eruptions to train machine-learning systems on how to see future ones. Very large eruptions should be fairly easy to anticipate; but quite how large one will prove, and thus quite what effects to expect, will be hard to say in advance.
@@ -56,9 +58,13 @@ As the need to worry about big asteroids has diminished, though, interest in spo
 
 It is possible to imagine better early-warning systems for pandemics, solar storms and volcanic eruptions, and carefully considered plans which would use that knowledge to reduce the hazard. What of the other big bads?
 
+
+
 ![](./images/20200627_FBD002_0.jpg)
 
 Existing anthropogenic risks are already quite well dealt with. There are aspects of climate change that could and should be better monitored—methane sources, for example, and changes in soil moisture—but the subject is hardly systematically understudied. It is in the nature of nuclear weaponry that its possessors spend a great deal of time monitoring each other’s capacities and intentions. As for those trying to develop nuclear weaponry covertly, the Comprehensive Nuclear-Test-Ban Treaty Organisation operates a remarkably acute network of monitoring stations that brings together seismometers, radioisotope sensors and detectors of low-frequency sound waves which makes setting off a nuclear weapon of any size without being noticed effectively impossible.
+
+
 
 ![](./images/20200627_FBC906.png)
 

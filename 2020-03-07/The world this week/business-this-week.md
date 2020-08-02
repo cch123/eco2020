@@ -6,6 +6,8 @@
 
 Stockmarkets swung wildly following the worst sell-off over a week for more than a decade. The Federal Reserve made an emergency half-a-percentage-point cut to its benchmark interest rate, to a range of 1-1.25%. The Fed last cut rates by half a point in October 2008, the maelstrom of the financial crisis. This time investors fear the potential impact of the spreading coronavirus, covid-19. The yield on ten-year  us Treasury bonds fell below 1% for the first time. The central banks of Australia, Canada and Malaysia also cut rates while the Bank of Japan pumped liquidity into the financial system. The European Central Bank said it was ready to take “appropriate” action; the Bank of England said it would also act. See [article](https://www.economist.com//finance-and-economics/2020/03/05/a-recession-is-unlikely-but-not-impossible).
 
+
+
 ![](./images/20200307_WWC571.png)
 
 The International Air Transport Association reported that the covid-19 outbreak caused airline passenger demand in January to grow at the slowest pace since April 2010, when a volcanic ash cloud curtailed global travel. It warned that January was “just the tip of the iceberg”, given that flight restrictions did not begin until January 23rd. Airlines could lose up to $113bn in revenue.

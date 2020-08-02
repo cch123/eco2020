@@ -18,6 +18,8 @@ The ancient French dirigiste reflex can be seen behind the swift geographical di
 
 France’s administrative structure has also enabled it to impose and enforce confinement unapologetically. The day after lockdown was announced, the central bureaucracy had, naturellement, drawn up a new form, which each individual must sign to justify any trip out of the home. Policemen and gendarmes, patrolling the near-empty streets, parks and beaches, have since carried out a staggering 5.8m checks on such paperwork and imposed 359,000 fines. There has been scarcely a murmur at this, nor at the government’s “state of health emergency” law which, among other things, gives it powers to control prices of certain products and requisition stocks. Old habits die hard.
 
+
+
 ![](./images/20200404_EUM919.png)
 
 The emergency also makes use of the existing command-lines of a centralised bureaucracy. Among his measures to support workers and businesses, Bruno Le Maire, the finance minister, included a “partial unemployment” scheme to help firms avoid redundancies, under which the state pays 84% of employees’ wages. Despite initial wrinkles, it already covers 3.6m employees. Indeed the French seem to be reconnecting enthusiastically with their inner Jean-Baptiste Colbert, finance minister to Louis XIV. On a visit to a medical-mask factory on March 31st, Mr Macron declared that “the day after won’t look like the days before” and that it was now crucial “to produce more in France”. Even the cosy, unloved Parisian elite, which usually meets over dinner in parquet-floored salons, has become a handy network, as bosses of luxury firms and car-parts makers turn factories over to the health effort.

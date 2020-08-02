@@ -16,6 +16,8 @@ Four years on, might the Midwest again put Mr Trump in the White House? Of tradi
 
 Other Midwestern places may be more important. Though small, Iowa could be up for grabs. Barack Obama was popular with small-town voters in northern, once-industrial places. That area is notoriously disloyal to both parties. America’s greatest concentration of “pivot counties”, where voters picked Mr Obama as president but switched to Mr Trump, are 50 clustered near the northern stretch of the Mississippi river, in Illinois, Iowa, Minnesota and Wisconsin. Illinois is immovably Democratic, but any of the other three could quite possibly flip.
 
+
+
 ![](./images/20200725_SRM983.png)
 
 Back when the economy was in good shape, Mr Trump hoped to win Minnesota’s ten electoral-college votes. He lost there in 2016 by just 1.5%, or 45,000 votes, even as he took 78 of its 87 counties. The same rural-urban resentment that Ms Cramer tracked is clear in the state. In once-Democratic strongholds, such as the Iron Range mining district, Republicans have made big gains. Seen from run-down towns like Eveleth, Democrats are out of touch, focusing on the environment and immigration, not on rural, blue-collar interests. And race is undoubtedly also a factor. When Mr Trump attacks non-white Democrats such as Ilhan Omar, a congresswoman of Somali descent from Minneapolis, he hopes it resonates with small-town voters.

@@ -30,6 +30,8 @@ Yet over the years, in several different spheres, America and Britain have grown
 
 The economic ties are especially deep. New York and London, the world’s top two financial centres, are rivals but they are also intertwined. Nearly a fifth of Britain’s exports go to America, more than double the share going to Germany, the next-biggest partner. America accounts for 15% of Britain’s total trade. American investment in Britain supports an estimated 1.5m jobs, and 1.3m vice versa. Britain attracts more than 10% of American foreign R&D.
 
+
+
 ![](./images/20200201_FBD002_1.jpg)
 
 As much as anything, though, it is shared values and habits of co-operation that have bound Britain and America together. Britain, says Nicholas Burns, a former American ambassador to NATO, is “the country we trusted the most, and worked most closely with.” At the State Department, where British diplomats enjoy a level of access afforded no other country, Britain was “the most like-minded country” with America, and “the first port of entry” with the EU on many issues, according to Amanda Sloat, a Europe specialist who served there under the Obama administration. In an Emerson poll from October 2019, 40% of Americans saw Britain as their country’s most valuable ally and strategic partner, far ahead of next-placed Canada on just 22%.
@@ -51,6 +53,8 @@ This strategic intimacy dates to the second world war. However, it is not immuta
 In recent years the sorest point has been British defence cuts. In 2015 Barack Obama demanded, in terms that would foreshadow Mr Trump’s rhetoric, that David Cameron, then prime minister, pay his “fair share”. General Ray Odierno, then head of the US Army, said that he was “very concerned” by the belt-tightening, which amounted to an 18% fall in real-terms spending over the previous five years. 
 
 Those warnings helped trigger a spending boost, but three years later James Mattis, then Mr Trump’s defence secretary, fired another shot across the bow of his British counterpart. “France and the US have concluded that now is the time to significantly increase our investment in defence,” he warned in a letter, adding ominously: “It is in the best interest of both our nations for the UK to remain the US partner of choice.” That prompted another hurried injection of cash, but Britain has struggled to keep up. The size of its armed forces has fallen for nine consecutive years. Brexit might lead to further reductions.
+
+
 
 ![](./images/20200201_FBD003_1.jpg)
 

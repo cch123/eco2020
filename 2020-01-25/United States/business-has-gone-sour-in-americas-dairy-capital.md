@@ -18,6 +18,8 @@ Industrial-scale ones do well from technology, economies of scale and easier acc
 
 The industry is consolidating for several reasons. In the long run, blame an ageing rural population. Many older owners cannot persuade their adult children to take over. And why would they? It is ever tougher to turn a profit from a small herd of cows. Milk prices have slid for decades, largely because ever better techniques, genetics and technology ensure rising supply. Consumers at the same time are losing their taste for drinking milk. On average an American gulped 247lb (109 litres) of it in 1975, but only 146lb in 2018.
 
+
+
 ![](./images/20200125_USC290.png)
 
 Tina Hinchley, who has 220 cows on another picturesque lot with red barns, mentions more recent problems. She laments volatile weather, especially floods, in the past few years. And although most milk is sold domestically (in Wisconsin 90% goes to local cheesemakers), exports that once accounted for 15-18% of national sales have been hit. China last year shunned many products, including whey, which it previously lapped up; after an outbreak of swine fever in China killed half its pigs, demand for whey as animal feed collapsed. Exports of cheese to Mexico have also suffered. Mrs Hinchie blames “horrific” trade disputes engineered by Donald Trump, although other difficulties are also to blame.

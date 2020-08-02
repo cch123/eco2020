@@ -28,6 +28,8 @@ Mr Xi launched the initiative in two speeches in 2013. The first—in Astana (no
 
 Soon after, Mr Xi presented the maritime component in the Indonesian capital, Jakarta. A “21st century maritime Silk Road”, a network of port cities in the South China Sea, the Indian Ocean and the Mediterranean would tie China closer by sea to these regions. Mr Xi has unveiled further dimensions to the plan: a “polar Silk Road” to develop Arctic shipping routes; a “digital Silk Road” of undersea cables, 5G telecoms and cloud computing; and even a “space information corridor” to open up satellite- and space-launch capabilities. 
 
+
+
 ![](./images/20200208_SRM968.png)
 
 The debates about the BRI began from the outset. At one level, it merely extended a trajectory China had followed for some time, meshing with its major resource suppliers worldwide, as well as its European markets. At another, it was a response to the global financial crisis of 2007-9, which removed a large source of demand for Chinese goods. The lesson was that in future China had to make its own markets abroad. At a third level, it represented an internationalisation of Chinese industrial policy. Faced with overcapacity in steel, cement and more, a party-state whose legitimacy hangs on creating jobs and investment could hardly shut down capacity, as Western countries might do. Instead it must try to export it. Lastly, at a time when the West appeared to be stumbling, both in terms of growth and global leadership, here was a bend in the historical road. Everything was contingent, but China’s moment had come and needed to be seized—more Leninist opportunism than Marxist determinism.

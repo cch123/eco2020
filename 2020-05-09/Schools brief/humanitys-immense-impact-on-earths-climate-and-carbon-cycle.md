@@ -18,6 +18,8 @@ Through its effects on the plants, animals and microbes which make up the biosph
 
 To appreciate the importance of this industrial carbon flow, you have to understand the carbon cycle in which it sits. At first, this context seems reassuring. Almost all microbes, and all animals, get the energy that they need for life from breaking up food made of organic molecules. The flame-free, internalised form of combustion by which they do so, which biologists call respiration, produces much more carbon dioxide than industry does.
 
+
+
 ![](./images/20200509_SBC003.png)
 
 But respiration has a counterpart: photosynthesis, through which plants, algae and some bacteria use sunlight to turn inorganic carbon back into organic molecules. These new molecules are the raw material from which almost all living things on Earth are made; the sunlight stored within them is the source of all the energy that is released through respiration when those living things are eaten.

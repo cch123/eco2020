@@ -16,6 +16,8 @@ Most multinational firms have been caught by surprise. This is not the first tim
 
 Investors are punishing companies for this failure. The shares of American firms with strong exposure to China have underperformed the S&P500 index by 5% since early January, when news of the outbreak first broke (see chart).
 
+
+
 ![](./images/20200215_IRC960.png)
 
 There are three reasons to think the coming months could prove even more unpleasant for many firms. First, big multinationals have left themselves dangerously exposed to supply-chain risk owing to strategies designed to bring down their costs. For example, many keep only enough stock on hand to last a few weeks, confident that they can always replenish their inventories “just in time”. That confidence is misplaced, argues Bindiya Vakil of Resilinc, a consultancy.

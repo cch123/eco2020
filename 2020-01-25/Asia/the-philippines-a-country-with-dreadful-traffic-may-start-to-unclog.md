@@ -16,6 +16,8 @@ As the jams in Manila suggest, not much has shifted yet. But change is coming. �
 
 One of the biggest projects still in the works is New Clark City, which is eventually supposed to house 1.2m people and lots of government offices, in an effort to ease traffic in nearby Manila. The city was planned under Mr Duterte’s predecessor, but embraced by him in an unusual display of political continuity. The first phase was completed in November. Mr Duterte has also presided over the opening of a new airport in the province of Bohol, and of the Philippines’ largest passenger-ferry terminal on his home island of Mindanao.
 
+
+
 ![](./images/20200125_ASC357.png)
 
 Spending on infrastructure has roughly doubled since the president took office. The plan is for it to reach 7% of GDP by 2022, up from 2.6% in 2015 (see chart). The austere policies of past presidents have left Mr Duterte scope to borrow. Public debt is around 41% of GDP. He has introduced a series of sensible tax reforms, which are expected to help boost government revenue, and diversified the Philippines’ sources of funding. Japan has provided some $12bn in recent years. The Asian Development Bank (ADB) is so enthusiastic about Mr Duterte’s infrastructure plans that last year it lent the Philippines more than any other country bar India. China has also promised $9bn for infrastructure, although it has signed formal agreements to provide only $900m.

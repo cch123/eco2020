@@ -16,6 +16,8 @@ The upshot has been spectacular growth for India’s IT firms. The big five’s 
 
 As in the previous downturn after the financial crisis of 2007-09, the coronavirus-induced recession has caused corporate clients to tighten the purse-strings on all manner of expenses, including IT. Sales of the big firms barely grew year on year in the latest quarter, down from an annual growth rate of over 20% throughout the 1990s and 2000s. Lockdowns have put their plush campuses—the Infosys one in Mysore has a bowling alley and a climbing wall, as well as roaming peacocks—mostly out of bounds. Other countries are erecting barriers to foreign employees. America, a crucial market, has suspended visas for skilled temporary workers, 70% of which typically went to Indians.
 
+
+
 ![](./images/20200725_WBC525.png)
 
 If the pandemic were their only problem, the IT firms would shrug it off. Being technologically adept, they quickly shifted their employees to home-working. Within days, 95% or more of their staff were toiling remotely—quite a feat in a country with patchy broadband and countless bureaucratic obstacles to sudden changes in workplace practices. The impact of having fewer Indians in foreign offices will be mitigated by greater acceptance of videoconferencing and longstanding efforts to recruit workers directly in their foreign markets; Infosys has 17,500 employees in Europe and 22,200 in America. 
@@ -25,6 +27,8 @@ However, covid-19 hit at a time when growth was already sputtering. The industry
 For all their tech nous, the Indian giants have also been unable to keep pace with technological change. Corporate software is becoming easier to use, reducing demand for their services. The lucrative legacy business of running mainframes is evaporating. Helping clients shift to the cloud makes money but not nearly as much. Despite some interesting pilot projects—such as Tech Mahindra’s use of artificial intelligence to tell apart 1,645 Indian languages or Infosys’s covid-19 contact-tracing in Rhode Island—the consultancies have not come up with a killer app, let alone powerful platforms like those of America’s big tech firms.
 
 Worse still, multinationals are increasingly reluctant to outsource their IT. Rather than hire the consultants, many are creating subsidiaries in India to do the job in-house—sucking away both custom and workers from the consultancies. Before the pandemic India hosted more than 1,400 of these so-called “captive centres”, employing a total of more than 1m people, according to an analysis by the Ken, an Indian news website; around 70% of them were owned by big American firms. Walmart Labs India, owned by the American supermarket chain, is reportedly on course to double its staff numbers to 7,000 in the next year or two.
+
+
 
 ![](./images/20200725_WBC543.png)
 

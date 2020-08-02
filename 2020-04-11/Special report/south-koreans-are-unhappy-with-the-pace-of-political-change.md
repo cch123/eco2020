@@ -24,6 +24,8 @@ In the previous election, the average age of those elected to parliament was ove
 
 The policy environment for change from below has become more favourable. The recent electoral reform strengthens proportional-representation provisions that are designed to ensure that smaller parties win seats roughly in line with their vote share. That will probably mean fewer seats for Mr Moon’s Minjoo party and United Future, the main conservative opposition party (though both are looking for ways around the rules, using “satellite parties”).
 
+
+
 ![](./images/20200411_SRC516.png)
 
 That may go some way towards breaking the deadlock between the two major parties, as they will have to include a wider variety of views to build coalitions. Though it probably won’t fix the partisan polarisation overnight, it may help.

@@ -12,6 +12,8 @@ AMERICA’S CURRENCY was not always as coveted as it is in today’s troubled ti
 
 The world now faces the opposite problem: a dollar in high demand, prone to dangerous appreciation. It has, unsurprisingly, strengthened against the currencies of emerging markets, which have suffered brutal capital outflows since late January (see chart). But the dollar has, more surprisingly, also strengthened against safe-haven currencies such as the yen and the Swiss franc, and pushed currencies like the pound and the Norwegian krone to their weakest level in decades. On March 18th Bloomberg’s dollar spot index, which measures the greenback against a basket of currencies, hit an all-time high, its seventh consecutive rise. Anyone seeking to swap their yen, francs or euros for dollars (and then swap them back again after a few months) must pay a premium, known as the cross-currency basis, which is deducted from any interest they earn. That premium has risen sharply on several occasions in the past two weeks.
 
+
+
 ![](./images/20200321_FNC810.png)
 
 One reason for this scarcity may be the dollar’s global role. Zoltan Pozsar and James Sweeney of Credit Suisse, a bank, have pointed out that supply chains are payment chains in reverse. When the flow of parts, components and assembly is interrupted, so is the flow of payments in the other direction. In East Asia, where the pandemic began, these payments are often made in dollars.

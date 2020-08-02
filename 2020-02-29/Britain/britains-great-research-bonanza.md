@@ -22,6 +22,8 @@ But as David Willetts, a former Conservative universities and science minister, 
 
 Some Tory think-tankers have suggested the government should establish research institutes across the country—and particularly in towns that have just turned blue—in an attempt to give them a sense of purpose. Such an approach would create jobs supported by public money, but it would not do much else. Richard Jones, a science-policy expert at the University of Sheffield whose writing has influenced Downing Street, cites government nanotechnology investment in the mid-2000s as an example of how not to do things. Some £50m was split between 24 centres to bring the technology to market. Unsurprisingly, none went on to do anything of note.
 
+
+
 ![](./images/20200229_BRC392.png)
 
 There are better ways to spread the cash. As Mr Jones notes, the regions that currently have higher levels of private R&D than public R&D, and thus where there is probably scope to increase public spending, include the Midlands and the north-west. These parts of the country have the additional benefit of cheaper property and looser planning regimes than Oxford, Cambridge and London, thus lowering the cost of expansion. The National Audit Office, an official watchdog, has criticised the government for not taking into account the running costs of new research facilities when deciding where to place them. Those decisions dictate where funding goes for decades to come. Cities in these regions will have a good claim to new institutions.

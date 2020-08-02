@@ -16,6 +16,8 @@ Lockdowns have brought short-term pain and long-term uncertainty. Beyond offices
 
 Investors are also worried about what happens next, which is why the caterers’ share prices have not rebounded with the rest of the stockmarket. Home-working has nibbled at growth and looks likely to continue doing so after the pandemic. In factories social distancing means a smaller workforce toiling for longer shifts, so fewer mouths to feed. University students, who along with pupils consume a quarter of catered meals, may also stay away from campuses as online courses gain steam.
 
+
+
 ![](./images/20200627_WBC189.png)
 
 Because of high fixed costs, losing a few diners can eat into margins (see chart). Operating profits are already wafer-thin: around 36 cents per meal, or roughly $100 per site per day, in the case of Compass. Rising expenses, such as hiring more staff to enforce stricter cleaning protocols, will not help. Passing the costs on to clients is tricky in a recession. A slower economy will weigh on consumers; overpriced stadium hot dogs are an easy luxury to forgo in a downturn even once live sports return.

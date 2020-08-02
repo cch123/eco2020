@@ -8,6 +8,8 @@
 
 Letters are welcome via e-mail to [letters@economist.com](https://www.economist.com/https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=letters@economist.com)
 
+
+
 ![](./images/20200613_LDP002.jpg)
 
 You described the fortune of Cecil Rhodes as “grubby”, which is far from true (“Marble monsters”, [June 13th](https://www.economist.com//leaders/2020/06/11/how-to-handle-racists-statues)). In fact, his fortune was rather clean, even if his colonial ambitions were not. His riches started with claims in the De Beers mine, land which had been bought from the eponymous, and white, brothers. It was secured with the formation of De Beers Consolidated, essentially by purchasing Kimberley Central from Barney Barnato for £5,338,650, a huge sum at the time. It was expanded through Gold Fields, which purchased properties on the Rand from their Boer farmers.
@@ -30,6 +32,8 @@ It is not enough to take down statues of Jefferson Davis. Some southern states c
 
 GEORGE RICHMONDAlbuquerque, New Mexico
 
+
+
 ![](./images/20200613_BRP001_0.jpg)
 
 A watery grave was an entirely fitting place for Edward Colston’s statue, until it was retrieved by Bristol council. In all likelihood the seabed was the final resting place for some of those slaves who formed his miserable cargo. It would have been better if he had been left to the fish, whose forebears fed on his helpless victims.
@@ -44,6 +48,8 @@ Your leader on the removal of historical statues reminded me of a small area out
 
 BOB RUTHERFORDVictoria, Canada
 
+
+
 ![](./images/20200411_OBP001.jpg)
 
 * Your obituary ([April 11th](https://www.economist.com//obituary/2020/04/08/catherine-hamlin-died-on-march-18th)) on Catherine Hamlin, my mother, whose life ended peacefully on March 18th in Ethiopia aged 97 gave a vivid impression of the endeavour and zeal my mother showed for her medical and humanitarian mission, especially after my father, Dr Reginald Hamlin OBE, died in 1993. They had worked in Ethiopia since 1959, their obstetric careers slightly separate for part of the first decade there. As The Economist proved, any obituary for one needs to mention the other to portray the full picture of their combined medical venture. 
@@ -52,11 +58,15 @@ The description of my father as “conventional” and “always used to doing t
 
 RICHARD HAMLINAddis Ababa
 
+
+
 ![](./images/20200523_WBD000.jpg)
 
 Schumpeter ([May 23rd](https://www.economist.com//business/2020/05/23/farewell-for-now-to-a-golden-age-of-drinking)) missed one key opportunity for small booze brands during the lockdown, which is online sales direct to the consumer. Sales through our own website and to other online shops (such as Master of Malt) grew by 300% from March to May. If anything, being able to bypass supermarkets’ buying departments and go straight to the consumer is a big opportunity for small companies.
 
 PADDY FLETCHERPort of Leith DistilleryEdinburgh
+
+
 
 ![](./images/20200613_FND001.jpg)
 
@@ -66,6 +76,8 @@ The lingering effects from the pandemic will slow down consumption even further 
 
 GINTAS KRYZIUSLondon
 
+
+
 ![](./images/20200606_AMP003_0.jpg)
 
 June 4th). Colombia has made all its procurement spending accessible online in a user-friendly way, regardless of the amount or procurement method, a contrast to most other countries, which try to hide the figures. It is free for anyone to analyse, which has helped uncover a number of cases where politicians abused emergency contracts.
@@ -74,11 +86,15 @@ So you can buy equipment fast and still buy openly. If Colombia can do it, we th
 
 NICOLAS PENAGOSHead of Latin America Open Contracting PartnershipBogotá
 
+
+
 ![](./images/20200530_BKP004_0.jpg)
 
 Your appreciation of “Civilization VI”, the latest in a long-running series of video games, has inspired me to admit to a guilty pleasure (“Will to power”, [May 30th](https://www.economist.com//books-and-arts/2020/05/30/take-over-the-world-in-civilization)). I have been working harder during this pandemic than I ever have. One of the things that has kept me sane is playing little snippets of Civ6 between Zoom calls or doing chores. Playing the game, in which you have to co-ordinate diplomacy, religion, the armed forces, industry and the economy, has been comforting and useful, as I work with a team building an integrated response strategy to covid-19.
 
 E. GLEN WEYLCo-chairHarvard Edmund J. Safra Centre for Ethics Rapid Response Taskforce on Covid-19Cambridge, Massachusetts
+
+
 
 ![](./images/20200613_WBP001.jpg)
 

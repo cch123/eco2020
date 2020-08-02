@@ -36,6 +36,8 @@ ANDREW WILSONPortland, Oregon
 
 ADRIAN WILLIAMSHeadington, Oxford
 
+
+
 ![](./images/20200418_WBD000.jpg)
 
 May I respectfully question Schumpeter’s imagery of activist investors as soon-to-be awakened serpents ([April 18th](https://www.economist.com//business/2020/04/18/activist-investors-have-gone-quiet-during-the-pandemic)). The extreme disruption for business being wrought by this dreadful virus will indeed expose the weaker performers to scrutiny from activists and institutional investors alike. Warren Buffett’s line that “only when the tide goes out do you discover who’s been swimming naked” comes to mind.
@@ -44,11 +46,15 @@ Emboldened by a market hungry for yield and with little patience for underperfor
 
 MALCOLM MCKENZIEManaging directorAlvarez & MarsalLondon
 
+
+
 ![](./images/20200425_BBP002.jpg)
 
 You suggested that we may soon reach the $100 per kWh price for lithium-ion batteries to make electric vehicles competitive (“[Charging up for a long ride](https://www.economist.com//briefing/2020/04/25/lithium-remains-the-car-battery-material-of-choice)”, April 25th). However, research from MIT finds that once we account for price floors set by materials cost, battery prices will probably fall to only $124 per kWh by 2030. This, coupled with cheaper fuel for cars from lower oil prices, means that government interventions in the form of subsidies, fuel taxes and emission rules are still necessary if EVs are to compete.
 
 KARAN BHUWALKACambridge, Massachusetts
+
+
 
 ![](./images/20200418_MAP501_0.jpg)
 
@@ -58,6 +64,8 @@ These restrictive migration policies mean that Yemenis are forced to move intern
 
 CHLOE SYDNEYInternal DisplacementMonitoring CentreGeneva
 
+
+
 ![](./images/20200411_BRP002.jpg)
 
 The parallel between Neil Kinnock and Sir Keir Starmer in their respective ascension to the leadership of Britain’s Labour Party is striking (“[Socialism with a barrister’s face](https://www.economist.com//britain/2020/04/11/keir-starmer-labours-electable-new-leader)”, April 11th). Jeremy Corbyn’s manifesto at last year’s election brought to mind Michael Foot’s in 1983, described as the longest suicide-note in history. Mr Kinnock replaced Foot, giving Labour credibility and holding the Thatcher government to account far more eloquently than Foot ever had.
@@ -66,11 +74,15 @@ Sir Keir will also flourish in both these aspects. His great challenge, however,
 
 KARDO BECKLondon
 
+
+
 ![](./images/20200425_OBP001.jpg)
 
 Your obituary of John Conway ([April 25th](https://www.economist.com//obituary/2020/04/23/john-conway-died-on-april-11th)) states that he earned fellowship of the Royal Society “in the same big book as Newton and Einstein”. If you are referring to the Charter Book of the Royal Society, which all fellows sign, it is worth mentioning that one notable omission is Albert Einstein. Although elected as a Foreign Member in 1921, he never signed the book.
 
 SEMIR ZEKIProfessor of neuroestheticsUniversity College London
+
+
 
 ![](./images/20200509_FNP501_0.jpg)
 
@@ -81,6 +93,8 @@ You also rightly note the liquidity stress that the financial institutions lendi
 It is critical not to fan a flame of panic, but to foster the communal approach that impact investors and development banks have taken—continued support for the financial institutions that reach out to MSMEs in order to support the informal economy and all income-generating activities for the most vulnerable among us.
 
 MARTIN HEIMESCo-head, Financial Institutions DebtresponsAbility InvestmentsZurich
+
+
 
 ![](./images/20200509_LDD001.jpg)
 

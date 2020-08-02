@@ -6,6 +6,8 @@
 
 > Jul 11th 2020
 
+
+
 ![](./images/20200620_SRD001.jpg)
 
 Your special report on the UN ([June 20th](https://www.economist.com//special-report/2020/06/18/global-leadership-is-missing-in-action)) outlined several “great fractures” that could lead to worldwide bedlam. One scenario missing from the list is the possibility of China annexing Taiwan. This would confirm the UN’s impotence. Just as America vetoes any resolution condemning Israel, China can veto any resolution condemning its actions, even if those actions are condemned by every other UN country.
@@ -28,6 +30,8 @@ This may be a big step for the UN but it is not unprecedented. Such independent 
 
 PROFESSOR DANIEL BRADLOWCentre for Human RightsUniversity of Pretoria
 
+
+
 ![](./images/20200620_BRP502_0.jpg)
 
 I read your article about which government department in Britain should allocate aid money (“Will charity begin at home?”, [June 20th](https://www.economist.com//britain/2020/06/19/british-diplomats-and-donors-are-told-to-merge)). The more critical question is, what happens to aid money when it reaches a poor country? Downing Street has proclaimed zero tolerance for corruption, and aid contracts normally contain anti-corruption clauses.
@@ -38,6 +42,8 @@ In addition to enriching senior politicians, foreign aid also encourages a cultu
 
 PROFESSOR RICHARD ROSEUniversity of StrathclydeGlasgow
 
+
+
 ![](./images/20200613_EUP002_0.jpg)
 
 It is true that Olof Palme considered himself a democratic socialist and improved diplomatic relations with the Soviet Union and Cuba (“Who killed Olof Palme?”, [June 13th](https://www.economist.com//europe/2020/06/11/sweden-unmasks-a-prime-ministers-assassin)). He was also an opponent of the South African apartheid regime, his awareness of racial oppression a result of his travels in the American South as the first Swedish leader to receive a university education in the United States. But Palme was, like nearly all social democrats of his generation, a staunch anti-communist. He publicly criticised Swedish student radicals and elements in the labour movement in the 1960s for their naive support of communism. Indeed, he presided over an administration that controversially registered communist sympathisers through a branch of Swedish military intelligence (the IB Affair).
@@ -45,6 +51,10 @@ It is true that Olof Palme considered himself a democratic socialist and improve
 Palme did indeed oppose America’s war in Vietnam, referring rather bluntly to the Nixon government as “bloody murderers” in the wake of the Christmas bombing campaign of North Vietnam in 1972, but if anything his views on the North Vietnamese (and the Cubans) were rooted in a strong sense of the right of smaller nations to determine their own fate even in the shadow of superpowers, rather than any kind of pro-communist sentiment. This is why Palme was so strong in his denunciation of the Soviet Union’s puppet states in eastern Europe.
 
 STEFAN ANDREASSONBangor, Down
+
+
+
+
 
 ![](./images/20200620_LDP501_0.jpg)
 
@@ -56,11 +66,15 @@ Put simply, what degree of trust and ambition do investors, governments and, inc
 
 ANGELA WILKINSONSecretary General and CEOWorld Energy CouncilLondon
 
+
+
 ![](./images/20200620_ASP004_0.jpg)
 
 China’s casual approach to casualties it may have suffered reminded me of a story about the old communist regime (“Death valley”, [June 20th](https://www.economist.com//asia/2020/06/18/india-and-china-have-their-first-deadly-clashes-in-45-years)). Perusing a mandarin’s feasibility study of a dam project, Mao Zedong underlined the report’s sentence that “Such measures would benefit the citizens”, then scrawled a rhetorical question in the margin, “What is a citizen?” Appropriate demotion was swiftly meted out to the study’s author.
 
 BUSH GULATIToronto
+
+
 
 ![](./images/20200627_BKD002.jpg)
 

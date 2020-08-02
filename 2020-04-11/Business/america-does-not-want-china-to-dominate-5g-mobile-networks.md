@@ -16,6 +16,8 @@ This old debate is playing out again, this time in mobile technology—specifica
 
 Earlier iterations of mobile technology all had their winners (see chart): mobile carriers and handset producers like Nokia and Ericsson (2G), smartphone-makers, notably Apple, and online giants reaching consumers on such devices, such as Amazon or Google (3G and 4G). 5G will be no different. It is too early to say with conviction who will take the biggest slice of the $2trn annual connectivity boost to global GDP by 2030 that the McKinsey Global Institute, the consultancy’s think-tank, predicts in health care, manufacturing, transport and retail alone. But one thing is clear: America does not want it to be China. The battle over 5G is spilling over from commerce into geopolitics.
 
+
+
 ![](./images/20200411_WBC185.png)
 
 At first blush, Western panic over Huawei seems overblown. Many telecoms experts dismiss 5G as hype by makers of devices and networking kit drumming up business. They are partly right. 5G will not profoundly alter consumers’ lives. It promises faster connections, but often only in optimal conditions (with a base-station antenna in line of sight). Similar download speeds can be achieved by extending 4G. Outside China, South Korea and a few other Asian countries, the uptake of 5G may be barely half as quick as of 4G, which reached 30% of mobile users within five years of launch in 2009, reckons UBS, a bank.

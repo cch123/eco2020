@@ -6,6 +6,8 @@
 
 > Mar 26th 2020
 
+
+
 ![](./images/20200314_LDD001_0.jpg)
 
 Countries are indeed struggling to cope with covid-19 (“[The politics of pandemics](https://www.economist.com//leaders/2020/03/12/the-politics-of-pandemics)”, March 14th). But China’s approach is not the only way to suppress its spread. Taiwan has relatively few cases of the disease. Learning harsh lessons from the SARS crisis in 2003, the government of Taiwan acted swiftly and established a central command centre in order to respond to the outbreak. Taiwan’s health minister held press conferences almost every day to provide updates and information. Tests on travellers from Wuhan, the Chinese city where the outbreak started, began in December, one month ahead of China. Technology using big-data analysis was applied for intensive health monitoring.
@@ -16,11 +18,15 @@ The Chinese propaganda machine is trying to convince the world that its draconia
 
 DAVID LINTaipei Representative Office in the United KingdomLondon
 
+
+
 ![](./images/20200314_ASP003.jpg)
 
 You provided good context for the recent failure by civilian lawmakers to limit the generals’ power in Myanmar (“[Making war and law](https://www.economist.com//asia/2020/03/12/myanmars-army-blocks-constitutional-reforms)”, March 14th). Since 1962 the armed forces have determined to control power in perpetuity, which they have accomplished through rule by decree (1962-74, 1988-2011), a single-party socialist system controlled by the army (1974-88), and, since the manipulated elections in 2010, through a constitution which the generals dictate and cannot be altered without their approval. Yet this continuous military control was not only based on command of all forces of coercion, but, until recently, all avenues of social mobility (a contrast with all other armies in Asia with no such pervasive power). That has now gradually broken down through political, economic, educational and civil advances. Military control will probably ebb, though slowly and in relation to assurances of the unity of the state and the army’s autonomy from civilian political restraints. But the local elections of 2020 will not change that trajectory.
 
 DAVID STEINBERGProfessor emeritus of Asian studies at Georgetown UniversityBethesda, Maryland
+
+
 
 ![](./images/20200229_USD000.jpg)
 
@@ -30,11 +36,15 @@ The error is in the way we vote. When only a single vote is allowed, moderates s
 
 FELIX SARGENTChairBoard of directorsCentre for Election ScienceOakland, California
 
+
+
 ![](./images/20200229_ASD001.jpg)
 
 Conflict between humans and elephants remains a problem in many parts of the world, including Sri Lanka ([Banyan](https://www.economist.com//asia/2020/02/27/of-all-sri-lankas-conflicts-the-one-with-elephants-is-the-oldest), February 29th). There is a very simple and cost-effective natural solution: beehive fences. Elephants are terrified of bees and will flee at even the sound of them. Beehive fences involve wires strung between hives; if elephants walk through the wires they irritate the bees, which swarm out and chase them away. Lucy King developed the concept and it is now used widely in east Africa (see her recent TED talk). Not only is it an effective deterrent, farmers can also make money from selling honey.
 
 RICHARD MILBURNKing’s College London
+
+
 
 ![](./images/20200314_OBP001.jpg)
 
@@ -42,11 +52,15 @@ In this particular moment of crisis, Freeman Dyson’s ideas on the origin of li
 
 MARIO ALEMIMilan
 
+
+
 ![](./images/20200314_TQD004.jpg)
 
 Your piece on curing rare genetic diseases with targeted therapies showed what can be done with analysis of our DNA (“[Broken](https://www.economist.com//technology-quarterly/2020/03/12/congenital-diseases-reveal-a-lot-about-human-biology)”, March 14th). Unfortunately its subheading was “Congenital disease”. Congenital means originating from the time of birth and covers genetic and non-genetic defects, like my own congenital anosmia. I don’t intend to have my gene analysed in order to be able to smell.
 
 PETER TOMPKINSLondon
+
+
 
 ![](./images/20200314_BRD002.jpg)
 

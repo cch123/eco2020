@@ -14,6 +14,8 @@ On May 1st a flotilla of two American destroyers, a nuclear submarine, a support
 
 But on May 4th some of those ships broke off and sailed farther north into the Barents Sea, along with a third destroyer, remaining there until VE Day on May 8th. Russia’s navy, whose powerful Northern Fleet is based at Severomorsk around the corner, was told in advance, but still greeted its visitors with live torpedo exercises.
 
+
+
 ![](./images/20200516_EUM964.png)
 
 The decision to dispatch destroyers was a bold one. One aim was to show that covid-19 has not blunted swords, despite the virus knocking out an American and a French carrier. Another was to assert freedom of navigation in the face of Russia’s imposition of rules on the Northern Sea Route (NSR), a passage between the Barents Sea and the Pacific Ocean that is increasingly navigable as ice melts. Although last week’s exercise did not enter the NSR, it hints at a willingness to do so in the future.

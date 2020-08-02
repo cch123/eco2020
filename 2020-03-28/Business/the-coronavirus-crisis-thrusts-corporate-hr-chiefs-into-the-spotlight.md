@@ -16,6 +16,8 @@ Once derided as “pay and parties” managers, by the early 1990s HR chiefs tur
 
 As recruiting and retaining skilled workers became CEOs’ big concern—four-fifths now fret about skill shortages, up from half in 2012—HR heads’ desks moved closer to the corner office. Today many reside right next to the boss. Shareholders are inviting more outside HR chiefs onto boards. In America salaries remain lower than CFOs’ pay but have risen about 20% faster since 2010 (see chart).
 
+
+
 ![](./images/20200328_WBC877.png)
 
 A higher profile entails new expectations. HR was once the domain of history graduates and masters in labour relations; nowadays plenty hold business degrees. Although most firms recruit them from HR jobs, more are choosing outsiders or unconventional candidates. Russell Reynolds Associates, an executive-search firm, found that HR heads appointed to Fortune 100 companies in 2016-19 were around 50% likelier than earlier hires to have worked abroad, in general management or finance.

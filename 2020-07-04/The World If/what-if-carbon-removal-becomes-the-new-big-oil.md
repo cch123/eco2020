@@ -12,6 +12,8 @@ Editor’s note: Each of these climate-change articles is fiction, but grounded 
 
 IT IS HARD to envisage now, but the Permian basin in Texas and New Mexico used to be America’s biggest source of crude oil. At its peak it accounted for more than half of national production. Today the steel pumpjacks have been replaced by direct-air capture (DAC) units. Powered by the sun, the machines suck carbon dioxide from the atmosphere and pump it into the sedimentary rock formations below. There is an elegant symmetry in the way the carbon is being pumped back into the ground. Big Oil has given way to Big Suck.
 
+
+
 ![](./images/wif_spec_4.png)
 
 The transformation of the Permian region illustrates an industrial shift that began in the early 2020s. The once-mighty oil industry, in its old form, has withered. From its husk a thriving new industry has emerged. Carbon-removal firms now number among the world’s biggest. Alongside big cuts in emissions, their technology has helped stabilise the climate and reduce emissions to net-zero. The atmospheric concentration of carbon dioxide is even beginning to drop as carbon-removal efforts are expanded. At the same time, the industry has reshaped geopolitics—and is creating its own set of environmental impacts.

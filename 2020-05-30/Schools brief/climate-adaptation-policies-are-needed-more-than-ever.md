@@ -22,6 +22,8 @@ A decade on, adaptation is more urgent than ever. Global average temperatures ar
 
 Faced with these projections, the need to adapt societies and economies to be more resilient to a hotter climate is clear. The Global Commission on Adaptation, an NGO, estimates that, if nothing is done to prepare for climate change, it could lower global agriculture yields by as little as 5% and as much as 30% by 2050—depending on a range of assumptions. Roughly 5bn people could suffer water shortages at least one month a year. Hundreds of millions of people may have to abandon their homes in coastal cities. Adaptation is not just a matter for poor countries. The damage which Hurricane Sandy wreaked on New York City in 2012 showed that extreme events could bring one of the world’s most important financial centres to its knees. Damages topped $19bn. Such losses spurred a $19.5bn urban-adaptation plan.
 
+
+
 ![](./images/20200530_SBC811.png)
 
 Businesses have also started to look at their vulnerabilities to climate change—partly because of pressure from activist investors. Several are adapting. Mylan, a pharmaceutical company, has reinforced its buildings in hurricane-prone Puerto Rico; Microsoft has built redundant cloud capacity in case servers are knocked out by extreme weather. Individuals in a few places are spending to ensure their future comfort and livelihood. The fact that some adaptation can be provided privately brings with it incentives that are lacking when it comes to mitigation, which is notoriously vulnerable to the free-rider problem. But it also brings worries of its own. If the wealthy can adapt for themselves, the pressure on states to help may decrease.

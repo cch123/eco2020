@@ -14,6 +14,8 @@ Yet when it comes to public opinion, Abe Shinzo, Japan’s prime minister, has b
 
 Mr Abe has cultivated the image of himself as a strong leader. But faced with covid-19 “he has not acted like the leader he claimed he was,” says Tobias Harris, author of “The Iconoclast”, a biography of Mr Abe to be published later this year. Instead, he has appeared hapless and out of touch, much as he did during his brief first stint as PM in 2006-07, when Japanese media pilloried him as kuuki yomenai, or “one who cannot read the air”, says Jeff Kingston of Temple University in Tokyo.
 
+
+
 ![](./images/20200523_ASC973.png)
 
 A scheme to send each Japanese household two cloth masks, at a cost of ¥47bn ($436m) to taxpayers, generated scorn. Detractors dubbed the programme “Abenomasks”, a play on “Abenomics”. When the masks started to arrive, many were dirty and defective and, for most people, too small; entire regions have yet to receive any. “Is that really public policy?” asks Sone Yasunori of Keio University.

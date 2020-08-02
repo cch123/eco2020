@@ -10,6 +10,8 @@
 
 OVER A DECADE on from its almighty bust, Nevada’s housing market was on a roll. Since 2015 house prices have risen by 10% a year, not far off the dizzying price growth of the years leading up to the financial crisis. In 2019 just 2% of houses in Nevada lay empty, close to a record low—and quite a change from the early 2010s, when abandoned properties with “No Trespassing” signs blighted the suburbs of Las Vegas. Yet even before the pandemic, something was amiss with Nevada’s housing market. Though it looks as if there was money to be made, housebuilding has been remarkably weak (see chart).
 
+
+
 ![](./images/20200502_USC394.png)
 
 Nevada is an extreme example of a national trend. Housing costs are high and have been rising, especially in prosperous cities. Vacancy rates are at rock-bottom. Yet builders are oddly cautious. A recent Bank of England working paper from Knut Are Aastveit, Bruno Albuquerque and André Anundsen finds that housing-supply elasticities—ie, the extent to which building responds to demand—have dropped since the pre-crisis boom, not just in Las Vegas but across the country. Before covid-19 hit, housebuilding was 20% lower than it was before the financial crisis in other G7 countries. In America it was 40% lower. This is a sorry state of affairs for the one in two American renters who devote more than 30% of their pre-tax income to housing, and for those who cannot afford to buy their first home. Unless there is more building, housing will remain dear. Depending on the region, up to three reasons explain what has gone wrong.

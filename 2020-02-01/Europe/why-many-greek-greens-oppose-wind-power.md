@@ -20,6 +20,8 @@ Oddly, they will face strong opposition from Greece’s increasingly active envi
 
 [](https://www.economist.com//theclimateissue/)
 
+
+
 ![](./images/article_call-to-action_-_the_climate_issue2x_4.png)
 
 Battles loom over plans to allow offshore wind parks to be built in the Aegean and Ionian seas, while increasing the size of onshore parks. Greece’s environment is “too fragile” to sustain such big projects, says Apostolos Pantelis, a hill-walker campaigning against plans to build wind parks on mountain ridges in the remote Agrafa region, a refuge for rare griffon vultures, brown bears and wolves.

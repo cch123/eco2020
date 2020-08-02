@@ -14,6 +14,8 @@ The most recent Sino-Indian confrontation occurred three years ago. In June 2017
 
 During April tensions appeared to build between Indian and Chinese troops in Ladakh, a high plateau at the western edge of Tibet. On May 5th these erupted into violence when Chinese troops reportedly took issue with an Indian patrol on the north bank of Pangong lake, where the two countries have overlapping claims. The resulting fist-fight and stone-pelting resulted in injuries on both sides, including to senior officers. Indian officials remain concerned about Chinese construction activity in Ladakh near Daulat Beg Oldi, a vital airfield, and Demchok, a strategically located village. Then on May 9th another skirmish broke out 1,000km to the east at Naku La, a mountain pass near Doklam. Shortly afterwards Nepal, another mountainous minnow wedged between the two giants, which Mr Xi visited in October, complained about India’s own road-building in yet another disputed border area.
 
+
+
 ![](./images/20200516_ASM966_0.png)
 
 Small dust-ups are common. Thanks in part to slapdash colonial cartography, the boundary between India and China is undefined. Whereas India and Pakistan agree where the “line of control” separating their forces runs in the disputed territory of Kashmir, India and China have different views about the exact location of the “line of actual control” they are patrolling. Encounters between units from the two sides are therefore inevitable. Agreements signed in 1996 and 2003 established protocols to deal with such incidents, including promises not to use weapons. The resulting gunless confrontations range from mere jostling to more serious melees, complete with rock-throwing and acrobatic flying kicks.

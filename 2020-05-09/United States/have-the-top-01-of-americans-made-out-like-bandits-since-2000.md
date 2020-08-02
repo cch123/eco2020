@@ -16,6 +16,8 @@ In a newly updated working paper Matthew Smith of the Treasury department, Owen 
 
 Allowing for different rates of return, the paper’s headline results suggest that America’s top 0.1% own roughly 15% of the country’s private wealth (see chart). Their share has risen since the 1980s, but by less than other economists believe (some papers find that it has jumped to 20% or more). And according to the new paper, that measure of wealth inequality has been stable since the middle of the 2000s.
 
+
+
 ![](./images/20200509_USC449_0.png)
 
 But does it make sense to count only private wealth? In another new working paper Sylvain Catherine, Max Miller and Natasha Sarin of the University of Pennsylvania argue that accrued entitlements to Social Security should also be included. Someone with access to a public pension is surely better off than someone without. Crucially, too, an expansion of Social Security means that poorer folk have less need to save for retirement. That distorts measures of wealth inequality which count only private nest-eggs. (Sweden, surprisingly enough, has very high private-wealth inequality, in part because of its cradle-to-grave welfare system.)

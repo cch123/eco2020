@@ -14,6 +14,8 @@ The data economy as it exists today is already very unequal. It is dominated by 
 
 It is also becoming clear that, as the data economy expands, these sorts of dynamics will increasingly apply to non-tech companies and even countries. In many sectors, the race to become a dominant data platform is on. This is the mission of Compass, a startup, in residential property. It is one goal of Tesla in self-driving cars. And Apple and Google hope to repeat the trick in health care. As for countries, America and China account for 90% of the market capitalisation of the world’s 70 largest platforms (see chart), Africa and Latin America for just 1%. Economies on both continents risk “becoming mere providers of raw data...while having to pay for the digital intelligence produced,” the United Nations Conference on Trade and Development recently warned.
 
+
+
 ![](./images/20200222_SRC931.png)
 
 Yet it is the skewed distribution of income between capital and labour that may turn out to be the most pressing problem of the data economy. As it grows, more labour will migrate into the mirror worlds, just as other economic activity will. It is not only that people will do more digitally, but they will perform actual “data work”: generating the digital information needed to train and improve AI services. This can mean simply moving about online and providing feedback, as most people already do. But it will increasingly include more active tasks, such as labelling pictures, driving data-gathering vehicles and perhaps, one day, putting one’s digital twin through its paces. This is the reason why some say AI should actually be called “collective intelligence”: it takes in a lot of human input—something big tech firms hate to admit.

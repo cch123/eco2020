@@ -12,6 +12,8 @@ GEEKS ARE not known for being poets. But sometimes even they have a way with wor
 
 This also nicely describes what has been the goal of corporate information technology since it emerged 60 years ago. And the adage encapsulates the main tension for businesses in the data economy: finding digital truth—that is, identifying and combining data that accurately represent reality—is becoming more difficult and more important. More difficult because data and their sources are multiplying. And more important because firms need to get their data house in order to benefit from AI, which they must to stay competitive. AI boosts revenues and profits, according to a recent survey by McKinsey, a consultancy (see chart).
 
+
+
 ![](./images/20200222_SRC017.png)
 
 Happily, technology is coming to the rescue. Data-handling software and cloud computing are increasingly enabling what George Gilbert, an investor and veteran observer of the IT industry, calls the “AI-ssembly line”—in reference to what happened a hundred years ago, when electricity replaced steam as the main source of power in factories. Before, machines had to be grouped closely around the power source—a steam engine. Electricity then allowed power to be distributed to where it was needed, which made assembly lines feasible. What is happening now, however, is actually the inverse: the machines of the digital age—a firm’s business applications and software to build these—are virtually regrouping around a new power source: central digital repositories known as “data warehouses” or “data lakes”. In time this may allow companies to build entire digital twins of themselves.

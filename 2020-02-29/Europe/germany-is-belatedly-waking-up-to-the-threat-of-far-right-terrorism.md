@@ -14,6 +14,8 @@ Right-wing extremism in various guises has troubled parts of Germany for decades
 
 Ministers have belatedly acknowledged that far-right terrorism is Germany’s gravest security threat. Officials count over 32,000 right-wing extremists in the country; over 1,000 are considered to be primed for violence. The Centre for Research on Extremism at the University of Oslo calculates that between 2016 and 2018 the number of severely violent far-right incidents in Germany, most of them targeting immigrants or non-whites, far outstripped those elsewhere in Europe (see chart). And that was before the recent surge.
 
+
+
 ![](./images/20200229_EUC466.png)
 
 Police and security officials have become much better at tackling organised right-wing threats since botching their response to the National Socialist Underground, a murderous neo-Nazi terrorist cell active in the early 2000s, says Daniel Koehler of the German Institute on Radicalisation and De-radicalisation Studies. Yet as the response evolves, so does the danger. Underground far-right networks remain a serious threat; the suspect in the Lübcke killing had a decades-long history in them. But the attackers in Halle and Hanau were both loners who were radicalised online, had no known connection to established far-right groups and were unknown to the German authorities.

@@ -12,6 +12,8 @@ THE STORY of mobile money is one that turns during crises. In Kenya in 2008, vio
 
 Could covid-19 have a similar catalytic effect in other countries? In Rwanda the number of mobile-money transfers doubled in the week after a lockdown was imposed in March, according to data collected by the telecommunications regulator and analysed by Cenfri, a South African think-tank. By late April users were making 3m transactions a week, five times the pre-pandemic norm (see chart). The value of transfers between individuals had risen six-fold to 40bn Rwandan francs ($42m).
 
+
+
 ![](./images/20200530_MAC753.png)
 
 The data do not show what caused the spike. Maybe Rwandans switched to digital payments because restrictions on movement made it hard to use cash; perhaps they were sending help to loved ones in need. A third explanation is that official policy changed. Just before the lockdown, the central bank told telecoms companies to eliminate charges on all mobile-money transfers for a three-month period. It also raised transaction limits.

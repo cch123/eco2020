@@ -18,6 +18,8 @@ As news of the attack came down, some Kenyans worried that they had been caught 
 
 Al-Shabab may not have been doing Iran’s dirty work this time. But some analysts believe the assassination of General Suleimani has so profoundly changed the geopolitical landscape that some kind of future co-operation is possible. Rashid Abdi, an independent expert, reckons the attack in Kenya may have been a signal to Iran that al-Shabab is interested in a covert tactical alliance.
 
+
+
 ![](./images/20200111_MAM912.png)
 
 Under this theory, the two would set aside their differences for the sake of expediency. Both are more pragmatic than is often assumed. Iran has made common cause with groups that do not share its theology, such as Hamas in Gaza. Al-Shabab’s younger leaders are flexible. “They would make a deal with the devil,” says Mr Abdi.

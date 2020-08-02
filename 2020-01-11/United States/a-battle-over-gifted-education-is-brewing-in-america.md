@@ -18,6 +18,8 @@ In America the debate is kicking up anew. The issue is national: the most recent
 
 Much of that is due to Bill de Blasio, the city’s left-wing mayor, who has staked his administration (and recently imploded presidential run) on the promise of reducing inequality. In August a panel he convened, called the School Diversity Advisory Group, proposed a sweeping reform to “move away from unjust gifted and talented programmes and school screens”—eliminating them entirely. Though the policy has not yet been implemented, it triggered a furore among parents, particularly Asian-Americans, fearful that their children’s chance of a fine education was to be sacrificed on the altar of diversity.
 
+
+
 ![](./images/20200111_USC018.png)
 
 Emotions run high because the quality of education in New York City, as with most other aspects of life there, is so uneven. There are schools with perfect graduation rates and some where more than 30% of pupils drop out. An astonishing 40% of high schools in the city do not teach chemistry, physics or upper-level algebra, notes Clara Hemphill, the founding editor of InsideSchools, an education-policy website. “The problem is not learning linear algebra in schools, but not knowing arithmetic.”

@@ -36,6 +36,8 @@ Employers say they need to restrict the expression of certain views in order to 
 
 But firms are increasingly concerned about what their employees say and write outside the office. In 2018 a film director was fired by Disney for tweets in which he joked about rape, sent years before the company hired him. In 2019 a “greeter” for ASDA, a supermarket, was dismissed for Islamophobia after sharing a Billy Connolly video on Facebook (a comedian whose work is sold by ASDA). Both have since been reinstated, but only after hassle, and “all because their employers had a panic attack over what was happening on social media,” says Jodie Ginsberg, the outgoing CEO of Index on Censorship, a charity. Pascal Besselink, a Dutch employment lawyer, estimates that about one in ten on-the-spot firings in the Netherlands are now related to social media. Few have garnered much attention because companies tend to settle disputes quietly. Even when firms are in the right they prefer to stay out of the limelight, so will buy off fired employees in exchange for their silence.
 
+
+
 ![](./images/20200229_IRD002_0.jpg)
 
 The courts are puzzling their way through such cases. Last August the Australian High Court upheld a decision by the Department of Immigration to fire a public servant who had sent thousands of anonymous tweets critical of her employer. More complex are firings over posts that are unrelated to work but which are deemed to bring an employer into disrepute.

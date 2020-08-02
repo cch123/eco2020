@@ -14,6 +14,8 @@ Enterprising women are increasingly visible in the real Korea, too. More young w
 
 Under the post-war dictatorship, South Korea’s growth model relied on a clear division of labour: men did military service and went out to work, women raised the children and did the housework. What paid work women did tended to be subordinate to men’s, serving, for instance, to pay for their brothers’ education. Adverts often stated that applicants must have completed military service, effectively excluding women. Such rules were abolished as part of the democratisation of the late 1980s. And Korean women are now far too well-educated to submit meekly to second-class status. But they still face barriers in the labour market, and are expected to do the bulk of housework and child care. Many are extremely unhappy about this. A rising number are opting out of marriage and motherhood entirely.
 
+
+
 ![](./images/20200411_SRC721.png)
 
 Jung Se-young and Baeck Hana, two twenty-something women who live on their own in Seoul, are a case in point. Last year they set up a YouTube channel about single living after meeting at a feminist discussion group. They regale their 40,000 subscribers and tens of thousands more casual viewers with tales of blissful holidays free of the obligation to cook for a roomful of male family members. They also offer practical advice for living a happy and successful single life, including investment advice and budgeting tips for solo living in Seoul’s expensive housing market.

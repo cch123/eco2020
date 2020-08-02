@@ -24,6 +24,8 @@ Lack of readiness showed itself too in the infection of many health workers (14%
 
 The next worry is the economy. It depends heavily on tourism and the car industry, both of which have shut down completely. Economists are forecasting that GDP will shrink by up to 15%, depending on how long the emergency lasts. Much of that will not be recovered. “Tourists who come later on won’t eat two dinners a night,” says Toni Roldán of Esade-EcPol, a think-tank.
 
+
+
 ![](./images/20200328_EUM912.png)
 
 The government has unveiled an aid package worth up to €200bn (around 16.5% of GDP), half in credit guarantees and €17bn in extra spending on health services and income support. It has guaranteed that workers temporarily laid off (some 1.5m so far) will get unemployment benefit. That will not help the 2.5m workers on short-term contracts or the 3.7m self-employed. Officials say they are working on measures for these groups. “The key issue is immediacy,” says Mr Roldán.

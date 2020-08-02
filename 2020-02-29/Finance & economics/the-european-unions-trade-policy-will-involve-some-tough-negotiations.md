@@ -18,11 +18,15 @@ Mr Hogan’s reputation as a canny politician willing to make tough decisions—
 
 His experience over the following five years meant that he became intimately acquainted with the EU’s most sensitive spots. Alongside Cecilia Malmström, then the EU’s trade commissioner, he boasts of concluding no fewer than 15 trade agreements. According to some of the negotiators who were on the opposite side of the table, while he could be both charming and funny, his strategies to avoid giving concessions could be deeply frustrating. In some cases, he simply declined to show up.
 
+
+
 ![](./images/20200229_FNC463.png)
 
 The American government may roll its eyes at the talk of a tougher EU trade regime. Some in America could accuse the bloc of being too timid about using tariffs to get its own way with trading partners, and too weak to overcome the protectionist instincts of its member states. They ask why, if the EU is so concerned about the demise of the WTO’S dispute-settlement system, it ignored America’s complaints about it for so long? Where, they ask, was the EU while America was filing WTO disputes against China? Tough talk is cheap, results will require action.
 
 Mr Hogan’s first priority is to add muscle to the EU’s defences. From May 1st he will oversee a new “chief trade-enforcement officer”, as well as new enforcement unit dedicated to making sure that existing trade deals are implemented properly. The European Commission is proposing new rules that would sharpen the EU’s teeth, including an amendment to enforcement regulations that would allow tariffs against other governments blocking the WTO’s dispute-settlement system. On the topic of the WTO’s appellate body, Mr Hogan acknowledges some of the American concerns, but adds that he would love to see detailed proposals for solutions to the problems from the Trump administration.
+
+
 
 ![](./images/20200229_FNC463_0.png)
 

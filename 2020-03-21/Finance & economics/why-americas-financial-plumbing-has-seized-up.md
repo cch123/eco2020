@@ -16,11 +16,15 @@ Unlike the 2007-09 financial crisis, when problems in the financial system cause
 
 Some are better equipped than others (see left-hand chart). The operating expenses (opex), like wages and rent, of all nonbank S&P 500 companies in 2019 amounted to $2.6trn. The same firms held $1.7trn in cash and liquid securities at the end of that year. On average, that was about seven months of opex. But this cash is unevenly distributed. Apple could pay for six years of opex with its $200bn war chest. Many big utilities, such as Edison International, carry only enough cash to cover a week’s worth.
 
+
+
 ![](./images/20200321_FNC812.png)
 
 The quickest way for investors, firms and banks to raise cash is to sell liquid assets. Investors moved first. Their priority was to liquidate holdings of risky assets, like stocks and high-yield bonds, and buy safe assets like Treasuries. Markets moved accordingly: the S&P 500 has sold off hard and fast (see right-hand chart) and bond yields rallied. But companies and banks tend to hold their liquid assets in Treasuries. When their need for cash became dire, they dumped even these.
 
 Asset sales help reallocate the stock of existing cash. For every investor selling stocks or bonds to raise cash, there are those willing to take the other side—like Warren Buffett, the fabled “be greedy only when others are fearful” investor, who held $125bn in “dry-powder” at Berkshire Hathaway, his investment firm, at the end of 2019. He has already snapped up shares in Delta, an American airline. But reallocation can only do so much. When all firms face the same economic shock, they need a vast increase in the supply of credit.
+
+
 
 ![](./images/20200321_FNC782.png)
 

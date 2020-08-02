@@ -14,6 +14,8 @@ The deaths shook France. They also revived questions about what exactly the coun
 
 The paradoxes and agonies of the French operation, known as “Barkhane”, have been brutally exposed by these deaths, as well as those of (many more) troops from other African countries. In early January 89 soldiers from Niger died in a jihadist ambush of a military post in Chinagodrar, near the border with Mali. This followed a separate attack on a military base in Niger, at Inates, that killed 71 soldiers. The borderlands between Niger, Burkina Faso and Mali have become a zone of chronic instability, trafficking and jihadist activity. This has thrived in the Sahel following the collapse of Islamic State in Syria and Iraq, and Libya’s descent into chaos. France, says Marc-Antoine Pérouse de Montclos, author of a new book on France in the Sahel, has been dragged into what he calls “mission impossible”.
 
+
+
 ![](./images/20200118_EUM928.png)
 
 It was President François Hollande who originally dispatched French troops to Mali back in 2013 in order to beat back a jihadist incursion. This was not supposed to be a permanent operation. Yet, seven years on, France still has 4,500 troops there. In theory they help train and work alongside a joint force of 5,000 from Burkina Faso, Chad, Mali, Mauritania and Niger, known as the G5 Sahel. But these forces—Chad’s apart—are not considered to be up to the job. There is also a United Nations peacekeeping force in Mali some 15,000 strong.

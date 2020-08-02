@@ -14,6 +14,8 @@ Alan Joyce, the chief executive of Qantas, said that it will take years for inte
 
 Airbnb forecast a 50% slump in annual revenue and said it would cut its workforce by a quarter. The online home-rental firm thinks coronavirus will forever change its market because people will want to travel to places that are closer to home and relatively safe. Airbnb had been expected to float its shares on the stockmarket this year.
 
+
+
 ![](./images/20200509_WWC502.png)
 
 Just 4,321 new cars were registered in Britain last month, a drop of 97% compared with April 2019, according to the Society of Motor Manufacturers and Traders. The Italian and Spanish markets saw similar declines; in Germany registrations were down by 61% and in France sales fell by 89%. That stands in stark contrast to China, where, according to a Volkswagen official, the car market has rebounded. 

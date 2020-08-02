@@ -16,11 +16,15 @@ There are 19.8m university students in America, of whom just over a million come
 
 The American government thinks some Chinese students and researchers are responsible for a great deal of intellectual-property theft. The CCP fears that people like Alex and Victor are contracting dangerous levels of democratic idealism. And China’s efforts to curtail the room such dissidence has to flourish in worries people who care about free expression on American campuses and beyond.
 
+
+
 ![](./images/20200104_FBC821.png)
 
 The number of mainland Chinese students in America grew by 276% over the past decade (see chart 1) as China’s elite sought to buy excellent educations for their children and American researchers sought talent. In 2018, the most recent year for which figures are available, Chinese graduate students received 13% of all science and engineering doctorates awarded by American universities.
 
 The rate at which researchers at the Massachusetts Institute of Technology (MIT) co-author papers with colleagues at leading Chinese universities has risen tenfold over the past decade—part of a trend which has seen collaborations between American and Chinese researchers become more numerous than collaborations with any other country (see chart 2). Many Chinese researchers have significant resources as well as sharp minds; some sorts of lab work are easier and cheaper in China than in America. It is hardly surprising that American researchers—especially the growing number who have former pupils back in China—want to work with them.
+
+
 
 ![](./images/20200104_FBC823.png)
 
@@ -51,6 +55,8 @@ The Trump administration, for its part, has tried to have things both ways. Whil
 Fears of China’s espionage are not new. Since 2011 more than 90% of all American prosecutions for economic espionage have been linked to China. But that does not mean their increased prominence can be simply chalked down to a hawkish change under Mr Trump. China has changed, too. Both its ambitions and its authoritarianism have become more marked, especially since President Xi Jinping abolished the term limit on his presidency in 2018. The internment of more than 1m Uighurs in detention centres, a severe crackdown on lawyers and activists and a hardline response to protests in Hong Kong have fatally undermined the old argument that Western engagement with China would see it liberalise. In the past it was possible to argue that Chinese students in the West would return home with new ideas about freedom of expression and individual dignity and political agendas to match. Now it is clear that, in some cases at least, their presence is an overseas redoubt for the CCP’s ideas about conformity and loyalty. 
 
 Some China-watchers point to Australia as a worrying exemplar. Australian officials have warned for years of China’s influence operations in the country, including at universities. In July students from mainland China threw punches at other students demonstrating in solidarity with the Hong Kong protesters at the University of Queensland. The consul-general in Brisbane, Xu Jie—who is, unusually for a senior Chinese diplomat, an adjunct lecturer at the university—praised them for their “patriotic behaviour”.
+
+
 
 ![](./images/20200104_FBD002_0.jpg)
 

@@ -26,6 +26,8 @@ They may be overstating the case. First, as the Boston Consulting Group points o
 
 [](https://www.economist.com//theclimateissue/)
 
+
+
 ![](./images/article_call-to-action_-_the_climate_issue2x.png)
 
 Furthermore, Big Oil has ways to make other high-risk, high-reward bets on clean energy. One is through venture capital. The OIES calculates that of 200 recent investments by the oil majors, 70 have been in clean-energy ventures, such as electric-vehicle charging networks. They have generally been small for now. But BP reportedly plans to build five $1bn-plus “unicorns” over the next five years with an aim of providing more energy with lower emissions. Another way is to back research and development in potentially groundbreaking technologies such as high-altitude wind energy, whose generating efficiency promises equally lofty profits.

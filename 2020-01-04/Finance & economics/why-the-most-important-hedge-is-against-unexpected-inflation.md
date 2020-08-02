@@ -20,6 +20,8 @@ For much of the decade that has just ended, central banks kept interest rates un
 
 A serious burst of inflation would change all that. It would be a sign that the low-interest-rate equilibrium had shifted. That would upset the constellation of high asset prices. For investors with portfolios stuffed with richly priced stocks, there is a strong reason to seek hedges against unexpected inflation. High-quality government bonds are the traditional diversifier for equity risk. But when inflation strikes, long-term nominal bonds are the worst assets to own. One way for the cautious to protect themselves is simply to hold more cash. Central banks would surely respond to a surge in inflation by raising short-term interest rates, thus boosting the returns on cash (with a delay).
 
+
+
 ![](./images/20200104_FNC856.png)
 
 But in many places cash rates are below current inflation. A superior way to hedge is to hold Treasury Inflation-Protected Securities, or TIPS. The coupon—effectively a real rate of interest—is a fixed fraction of the principal. The principal is not fixed, however. It is adjusted over time to reflect increases in the consumer-price index, or CPI. Ten-year TIPS currently have a small but positive real yield of 0.1% or so (see chart). The yield on a nominal ten-year Treasury is around 1.9%. The difference between the two reflects expectations of inflation (that is, 1.8%).

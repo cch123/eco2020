@@ -16,6 +16,8 @@ America did not segregate accidentally. At the beginning of the 20th century, bl
 
 Urban sociologists use a measure called a dissimilarity index to quantify segregation: the percentage of blacks that would have to move to ensure equal dispersion across a city. In 1970 this number was 93%, according to calculations from census data by the social scientists Richard Sander, Yana Kucheva and Jonathan Zasloff, meaning nearly complete segregation. By 2010, the dissimilarity index had declined to 70%—an improvement, but far from the integrated society that civil-rights activists may have hoped for 60 years ago (see chart). “Brown [v Board of Education] made it clear that we couldn’t have racially separate and equal schools, but we never got to that point with respect to housing,” says Stefanie DeLuca, a professor of sociology at Johns Hopkins University. Segregation by class, both in housing and schooling, has grown in the meantime.
 
+
+
 ![](./images/20200606_USC857.png)
 
 In 1970, according to one more sophisticated measure of poverty calculated by scholars at Columbia University and Mathematica Policy Research, roughly 47% of black Americans were poor. By 2014 that had fallen to 27%—a sizeable drop, but still nearly triple the level experienced by whites. Although this represents some progress, the poor are increasingly clustered together. Since 2000, the number of poor Americans who live in areas of concentrated poverty (defined as places where more than a fifth live below the federal poverty line) has increased by 57%. And black children are seven times as likely as white children to experience this more corrosive form of poverty.

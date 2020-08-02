@@ -12,6 +12,8 @@ THE WAIT for a train at Haxby in North Yorkshire has been a long one. The statio
 
 Farther north, the former coal mining towns of Ashington and Blyth lost their railway links in the 1960s. On January 6th Grant Shapps, the transport secretary, popped up in Blyth announcing “we will get this line reopened”. Blyth elected a Tory MP for the first time last month and in neighbouring Ashington, the Labour majority fell from over 10,000 to just 800.
 
+
+
 ![](./images/20200111_BRC042.png)
 
 The hard hat in which Sajid Javid, the chancellor, revealed the date of his budget—March 11th—and the location of his announcement—the new Trafford Park tram line project in Manchester—pointed to the economic consequences of Britain’s new political geography. Productivity differences across Britain are large and have grown (see chart). “Levelling up” will be a major theme in Mr Javid’s first budget, and his preferred policy lever will be spending on transport infrastructure.

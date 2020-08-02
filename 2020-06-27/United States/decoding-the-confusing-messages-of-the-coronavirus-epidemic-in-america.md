@@ -14,6 +14,8 @@ Five days before, Mike Pence, the vice-president, wrote an article in the Wall S
 
 Such contradictory claims are more than playing with numbers. They reveal a changing pattern of infection which is not only confusing but, in the final analysis, worrying for the future of the pandemic.
 
+
+
 ![](./images/20200627_USC198.png)
 
 America’s death toll and caseload are high, and not only in absolute terms. Per head, it has had twice as many cases as Europe and about 50% more deaths. The number of new cases rose 42% in the two weeks to June 21st, and this national average disguises a more disturbing trend. America’s totals have been dominated by the terrible outbreak in New York City. Greater New York has accounted for about a third of all deaths. If you strip out the area, you find new-case numbers in the rest of the country barely budged in May, rose in June and are now as high as they were at the height of the pandemic (see chart). Outside New York, America has failed to halt the growth of the coronavirus.

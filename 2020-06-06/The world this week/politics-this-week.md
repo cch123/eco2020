@@ -40,6 +40,8 @@ A court in South Africa ruled that a ban on the sale of cigarettes and alcohol w
 
 A militia leader in the Democratic Republic of Congo was arrested for the murder three years ago of two UN experts, one of whom was beheaded, and their interpreter. They had been investigating abuses of human rights.
 
+
+
 ![](./images/20200606_WWC013.png)
 
 South Korea temporarily closed some schools that had only just reopened after recording the highest spike in new cases in two months.

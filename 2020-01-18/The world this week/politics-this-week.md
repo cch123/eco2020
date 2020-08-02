@@ -34,6 +34,8 @@ Alejandro Giammattei, a pro-business conservative, was sworn in as Guatemala’s
 
 Haiti’s parliament was supposed to start sitting on January 13th. But the country is now being governed without a functioning legislature because an election due last October was never held. President Jovenel Moïse can now rule by decree. See [article](https://www.economist.com//the-americas/2020/01/18/jovenel-moise-tries-to-govern-haiti-without-a-parliament).
 
+
+
 ![](./images/20200118_WWP001.jpg)
 
 Vladimir Putin took Kremlin-watchers by surprise when he proposed an overhaul of Russia’s political institutions that could expand the power of the Duma and the state council, a body that currently has little weight but which he heads. Mr Putin must step down as president in 2024, according to the constitution. The opposition says he is manoeuvring to hold on to power. Dmitry Medvedev, an ally of Mr Putin, stood aside as prime minister. See [article](https://www.economist.com//node/21778375).

@@ -18,6 +18,8 @@ To grasp how all this may work, consider the origin and journey of a typical bit
 
 Ericsson, a maker of network gear, predicts that the number of IOT devices will reach 25bn by 2025, up from 11bn in 2019. Such an estimate may sound self-serving, but this explosion is the likely outcome of a big shift in how data is collected. Currently, many devices are tethered by cable. Increasingly, they will be connected wirelessly. 5G, the next generation of mobile technology, is designed to support 1m connections per square kilometre, meaning that in Manhattan alone there could be 60m connections. Ericsson estimates that mobile networks will carry 160 exabytes of data globally each month by 2025, four times the current amount.
 
+
+
 ![](./images/20200222_SRC016.png)
 
 The destination of your average bit is changing, too. Historically, most digital information stayed home, on the device where it was created. Now, more and more data flow into the big computing factories operated by AWS, but also its main competitors, Microsoft Azure, Alibaba Cloud and Google Cloud. These are, in most cases, the only places so far with enough computing power to train algorithms that can, for instance, quickly detect credit-card fraud or predict when a machine needs a check-up, says Bill Vass, who runs AWS’s storage business—the world’s biggest. He declines to say how big, only that it is 14 times bigger than that of AWS’s closest competitor, which would be Azure (see chart).

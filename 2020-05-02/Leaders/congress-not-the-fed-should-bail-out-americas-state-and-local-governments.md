@@ -14,6 +14,8 @@ The states do have some cash stashed away for a rainy day. They have built up fu
 
 Help has so far been lacking. Congress has provided about $280bn and on April 22nd Mitch McConnell, the Republican leader of the Senate, suggested that states be allowed to go bankrupt (a route available to cities but not states). He has since walked back his statement, but President Donald Trump and many Republicans, complaining of poor government in Democrat-run states, say they do not want to reward recklessness.
 
+
+
 ![](./images/20200502_LDC402.png)
 
 Their concerns are not empty. Many states have vast unfunded pension liabilities. In Connecticut, Illinois and California pension costs threaten to eat up over 10% of annual revenues. The problem is not limited to Democratic-leaning areas. In Mr McConnell’s state, Kentucky, one pension plan is only a sixth funded. It would be costly to create the impression that Congress will, in a downturn, bail out states and cities who live precariously. When local-government finances were shot in the 1830s, the federal government stayed on the sidelines for this reason. It was reluctant to intervene when New York City almost went bankrupt in the 1970s. But the pandemic is not the result of any state’s profligacy. Americans often share disaster risks nationally. Congress steps in when hurricanes or tornadoes strike. Making up tax shortfalls during lockdowns would benefit all states, not only those with extravagant pensions or bad management.

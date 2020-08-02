@@ -28,6 +28,8 @@ Advance warning has also allowed Africa to boost testing capacity. Today more th
 
 Experience in dealing with other infectious diseases may prove useful. Roughly one in three deaths in Africa every year is from an infectious or parasitic disease, compared with one in 50 in Europe. Recent Ebola outbreaks, across west Africa in 2014-16 and in eastern Congo in 2018-20, have taught policymakers vital lessons.
 
+
+
 ![](./images/20200328_mac017.png)
 
 People who have dealt with Ebola, such as David Nabarro, a special envoy for covid-19 to the World Health Organisation, say it is essential to win over communities. One sign of success in Sierra Leone was when Ebola became known in the Mende language as “bonda wote”, literally “family turn round”—a sign that people were changing behaviour. “I am absolutely convinced that African countries can get on top of this quicker than European countries,” says Dr Nabarro.
@@ -48,6 +50,8 @@ Many African leaders have been swift to ban religious meetings. Some churches ar
 
 African governments face practical as well as spiritual obstacles. The state’s ability to enforce social distancing and lockdowns is questionable in cities, where two in every five Africans live. More than half of city-dwellers are in crowded slums (see map). In Alexandra, a slum in Johannesburg, there are more than 9,000 households per square km, compared with fewer than 700 in neighbouring Sandton, a posh suburb. In Kampala 71% of households sleep in a single room. Frequent handwashing with soap is difficult. In Makoko, a huge slum in Lagos, less than 20% of households have piped water. Conditions in refugee camps are often worse.
 
+
+
 ![](./images/20200328_MAM928.png)
 
 Persuading slum-dwellers to stay in one-room shacks with many relatives will be tougher than getting people in New York or London to stay on the sofa watching Netflix. And few can work from home. Six in ten Ugandan workers are either self-employed or help out in a family business. If people do not work they do not eat, says Steven Agaba, who lives in a poor part of Kampala, Uganda’s capital. He gestures at a man selling fruit from a tarpaulin spread across the muddy ground. “It will not be the coronavirus to kill us, but the hunger.” It may also send the poor back to their villages, further spreading the disease.
@@ -67,6 +71,8 @@ On March 21st Rwanda closed its border with Congo. The livelihoods of petty trad
 The economic consequences of covid-19 have not escaped African epidemiologists. For John Nkengasong, director of Africa CDC, a public-health body, the virus could be a “national-security crisis first, an economic crisis second, and a health crisis third”, if the responses are not calibrated appropriately. That does not mean letting the disease rip, but it does mean “community engagement” and careful monitoring of knock-on effects on poverty and the treatment of other diseases.
 
 African authorities will probably struggle to shut down cities to the extent seen in Europe, never mind China. For the moment, though, they are trying to combine restrictions on movement with some steps to ease the economic pain. The Seychelles, for example, has pledged salary guarantees for private-sector employees for three months. South Africa has announced a tax holiday for businesses to encourage them to keep paying workers, and its central bank is extending credit lines to keep firms afloat. Senegal aims to spend about 6% of GDP feeding people and helping firms, but it must appeal for funds to do so.
+
+
 
 ![](./images/20200328_MAC898.png)
 

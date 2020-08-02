@@ -12,6 +12,8 @@ IN HIS AUTOBIOGRAPHY, published soon after retiring from GE in 2001, Jack Welch 
 
 In his inaugural address Mr Welch maintained the nautical metaphor—with less decorum and a greater sense of urgency. He told his charges that he wanted GE to be like a speedboat in the harbour “trying to move like hell”. The threat from sophisticated competitors from Japan was growing. He did not want GE to go the way of Detroit’s carmakers or IBM, which failed to adapt. As corporate America mourns his death on March 1st, aged 84, the company he reinvented is itself struggling to keep up with the times.
 
+
+
 ![](./images/20200307_WBC412.png)
 
 Mr Welch certainly revved up GE’s propellers. Under Jones, who led the firm from 1973 to 1980, it doubled revenues to $25bn and saw its share price sink by about a fifth. Under Mr Welch revenues quintupled from $27bn in 1981 to $130bn in 2000. Total shareholder returns, including dividends, rose 70-fold, more than three times as fast as those for the S&P 500 index of big corporations (see chart 1).
@@ -23,6 +25,8 @@ The Welch revolution rested on four pillars: people, process, purpose and profit
 He also promoted an obsessive, ruthless meritocracy. To tame GE’s bloated bureaucracy, he introduced the policy of “rank and yank”, sacking the bottom 10% of managers, measured by financial and other metrics, each year. “Public hangings are…worth a thousand CEO speeches,” Mr Welch once quipped. He lavished praise when managers excelled, but upbraided them publicly if they did not. “You were either a pig or a prince,” recalls a senior aide.
 
 Mr Welch was also obsessed with processes. Some were radical in his day but have since become commonplace. To prevent turf wars from killing new ideas, for instance, he insisted that town-hall meetings (dubbed “work-outs”) be held so that all relevant parties could raise objections. He championed Six Sigma, a series of techniques that aimed to keep manufacturing defects below 3.4 per million parts.
+
+
 
 ![](./images/20200307_WBC415.png)
 

@@ -18,6 +18,8 @@ Second, most companies—particularly in America—went into the crisis in prett
 
 Unfortunately, many European countries and some American states immediately began to impose social-distancing measures and, soon thereafter, lockdowns. Businesses found themselves looking into the abyss of a largely moribund economy. According to the International Labour Organisation sectors now facing a severe decline in output, and thus a high risk of lay-offs and furloughs, employ almost 38% of the global workforce: some 1.25bn workers (see chart 1).
 
+
+
 ![](./images/20200411_FBC184.png)
 
 Government handouts in America and Europe should ease the pain of some of that unemployment—if fully implemented and if the benefit systems work. But many of the proposed beneficiaries, such as florists, gyms and bakeries, will still go short. Whether they scrape by or go under, that will prolong the slump in consumer confidence—as will the possibility of a second wave of illness after restrictions are lifted. One pessimistic Wall Street banker talks of a future neither V-shaped, U-shaped or even W-shaped, but “more like a bathtub”.
@@ -30,6 +32,8 @@ China’s economy shows distinct signs of recovery. Bernstein, an investment fir
 
 Neither is the gloom within countries evenly spread. Some sectors are doing worse than others, and in all the fortunes of the most and least resilient are far apart (see chart 2). Should the coming recession not kill off animal spirits entirely, there will be lots of opportunities for corporate upheaval, takeovers and strategic shifts. 
 
+
+
 ![](./images/20200411_FBC180.png)
 
 China’s government may encourage its state-owned firms to go global by buying distressed car companies in Europe. The share price of Daimler is less than half what it was when Geely, a Chinese carmaker, bought a 10% stake in 2018. Car companies may also see offers from technology giants keen to improve co-operation between metal bashers and the engineers of autonomy—currently wary at best. The healthier airlines, such as Qantas and IAG, owner of British Airways, will snap up airport slots from their bankrupt rivals and may try to acquire others only just staying aloft. Private-equity firms, which have mountains of committed investor cash, may start buying up fundamentally sound but impecunious suppliers in various industries, aware that when demand returns such companies will see its first fruits. Anand Mahindra, chairman of the Mahindra group, one of India’s largest conglomerates, says that as well as big corporations buying smaller ones, many smaller firms will look to merge with peers.
@@ -38,9 +42,13 @@ Around the world, small and medium-sized firms are particularly exposed. In Amer
 
 
 
+https://embed.acast.com/theeconomistmoneytalks/moneytalks-thebusinessofsurvival
+
 Much of this activity will happen on the fly, as disasters and opportunities present themselves. As time goes by, though, the currents of the great acceleration will begin to assert themselves. For companies enmeshed in the comparatively freewheeling, Anglo-American model of business that has been in competition with Chinese-style state capitalism in recent years it will be a distinct shock.
 
 Take China and its supply-chain primacy first. By 2017, when average Chinese manufacturing wages had become as high as those in the poorer parts of Europe, it was clear that the logic which saw a large fraction of the world’s supply chains pass through the country needed re-examining. The former boss of a big American company’s Chinese operations says that in the past few years the trade war and other risks of business disruption saw many global firms seek to reduce their dependency on China. One of their favoured strategies was to put more business into factories elsewhere in Asia.
+
+
 
 ![](./images/20200411_FBD002_0.jpg)
 

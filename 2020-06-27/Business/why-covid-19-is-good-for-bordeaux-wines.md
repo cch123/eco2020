@@ -14,6 +14,8 @@ The bargains will not sustain tipplers through lockdowns. Bordeaux estates sell 
 
 The modern version of this network evolved 70 years ago, when wineries needed money and patient buyers snapped up cheap claret. By the 1990s leading estates had cash aplenty. But the system turned into an investment vehicle. Investors who bought wine en primeur each year between 2000 and 2008, and sold each vintage after two years, made a return of 19% on average, according to Liv-ex, a trading platform.
 
+
+
 ![](./images/20200627_WBC202.png)
 
 Since then en primeur has seen booms and busts (see chart). The great years of 2009 and 2010 were sold just as Chinese consumers embraced fine wine, sending prices up. When China banned lavish gifts in 2012 investors were stuck with wine they literally could not give away. Western drinkers’ taste shifted from Bordeaux’s Cabernet Sauvignon and Merlot blends to rarer Pinot Noirs from Burgundy.

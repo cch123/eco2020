@@ -14,6 +14,8 @@ Stockmarkets took fright after Jerome Powell, the chairman of the Federal Reserv
 
 Despite avoiding a prolonged lockdown, the South Korean economy shed almost half a million jobs in April, the most since 1999 at the tail end of the Asian financial crisis. The pandemic has created a “wartime situation” in the economy, said the country’s president, Moon Jae-in.
 
+
+
 ![](./images/20200516_WWC585.png)
 
 Britain’s economy was 2% smaller in the first quarter than in the previous three months, the fastest rate of contraction since the global financial crisis of 2007-09. However, the figure only captured a glimpse of the chaos caused by covid-19. Britain’s lockdown began in late March; the economy was 5.8% smaller in that month than it was in February. Forecasters think the economy could shrink by 20-30% in the second quarter. A study by academics at the London Business School found that household spending has plunged by 40-50% during the crisis. See [article](https://www.economist.com//britain/2020/05/16/the-cost-of-the-pandemic-to-britains-economy-is-becoming-clear).

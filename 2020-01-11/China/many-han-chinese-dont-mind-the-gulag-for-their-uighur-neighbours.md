@@ -16,6 +16,8 @@ Urumqi today is calm, but its ethnic contours remain distinct. Erdaoqiao is stil
 
 Urumqi is a Han bastion, but in Xinjiang as a whole there are about 10m Uighurs and around 9m Han people. They are divided not only by culture but also by geography. Han people mainly live in the north where Urumqi is located. Uighurs are concentrated in the much poorer south, in ancient oasis towns such as Kashgar and Hotan. Between north and south is the vast Taklimakan desert (see map).
 
+
+
 ![](./images/20200111_CNM917.png)
 
 To understand why officials in Xinjiang began building a gulag in 2016 in which they have incarcerated an estimated 1m people, mostly Uighurs, it is important to understand the nature of this ethnic divide. The riots in 2009 made Han people more suspicious of Uighurs. The government’s draconian reaction has made Uighurs more resentful. The prison camps, euphemistically known as vocational training centres, are evidence that this divide has become even more institutionalised. That suggests that the Uighurs’ suffering will last a very long time.
@@ -29,6 +31,8 @@ It is clear that this blanket security is mainly aimed at monitoring Uighurs and
 The clampdown of recent years targets the Uighurs’ faith. Some mosques have been shut or bulldozed. At others, domes, crescents and other Islamic features have been removed to make them look more “sinified”. Officials have stepped up controls over places of worship, for example by barring the teaching of children. They have banned many forms of observance, such as women’s full-head coverings and big beards on men. Officials and students have been banned from observing the Muslim holy month of Ramadan.
 
 Many Han people in Xinjiang say they are not bothered by the intrusive security. “We’re all used to it, and in fact we like it because we know it keeps us safe,” says a woman surnamed Chen, who seven years ago moved from China’s interior to Turpan, a city close to Urumqi, where she runs an electronics shop.
+
+
 
 ![](./images/20200111_CNC011.png)
 

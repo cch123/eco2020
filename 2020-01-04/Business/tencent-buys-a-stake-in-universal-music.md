@@ -12,6 +12,8 @@ IT WAS A nice example of nominative determinism. On December 31st a consortium l
 
 Tencent’s purchase values Universal at around €30bn. That is remarkable, for two reasons. The first is that Vivendi’s total market capitalisation is just €31.5bn. But Universal is merely the largest component of a conglomerate that also includes Canal+, a French pay-TV channel, and Havas, a PR-and-advertising firm. Both bring in profits of hundreds of millions of euros, and Vivendi is only lightly indebted.
 
+
+
 ![](./images/20200104_WBC815.png)
 
 The second is that it illustrates the recorded-music industry’s remarkable recovery over the past few years. The International Federation of the Phonographic Industry, a trade body, reckons that sales of recorded music were $23.9bn in 2001. By 2014 that had dropped by 40%, to $14.3bn (see chart). The industry laid much of the blame on piracy fuelled by the internet.

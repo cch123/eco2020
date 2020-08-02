@@ -20,6 +20,8 @@ The small screen has its own problems. Nielsen, a research company, finds that i
 
 Even if people tune in to reruns TV finances will be under strain. As their own revenues evaporate and their customers cannot shop, advertisers are pulling commercials. Ad bonanzas have been postponed (Olympics) or cancelled (Wimbledon). Suspension of live sport has deprived pay-TV operators such as Disney’s ESPN and Sky, a European giant belonging to Comcast, of their last big remaining attraction. Some firms, like Sky, have allowed customers to pause sports subscriptions or offered access to other paid programming in their place. ESPN is airing repeats of classic matches, plus offbeat fare like dodgeball and arm-wrestling. Neither tactic is likely to arrest the slide in the share of households with pay-TV, down from almost 90% in 2010 to 65% in America.
 
+
+
 ![](./images/20200404_WBC454.png)
 
 Streaming offers some respite. Netflix’s share price, up by 15% this year, looks buoyant amid a market rout. It claims to have enough fresh content to last a few months. Subscription growth for all the big streamers has soared by double digits from week to week since lockdowns kicked in, estimates Antenna, a data company. After its European launch in March Disney’s new platform, Disney+, was downloaded more than 5m times in just days. AT&T and Comcast hope for similar success when they launch (paid) HBO Max and (ad-supported) Peacock, respectively, later this year.

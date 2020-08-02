@@ -12,6 +12,8 @@ FOR OVER a year the UN-backed Government of National Accord (GNA) in Libya had b
 
 Mr Serraj, however, is not calling the shots. Drawn by Africa’s largest oil reserves and over 1,700km of Mediterranean coastline, foreign armies have piled into Libya. A surge of support from Turkey beginning in December saved Mr Serraj. It now determines how far the GNA advances. Russia, Egypt and the United Arab Emirates (UAE) have long backed the LNA and are trying to shore up its hold on the east. After six years of civil war, the division of Libya into a Turkish zone of influence in the west and a Russian zone in the east—in other words, de facto partition—looks increasingly likely. “We’re heading towards a frozen conflict,” says a diplomat in Tripoli.
 
+
+
 ![](./images/20200613_MAM958.png)
 
 Russia and Turkey also back opposing sides in Syria, where they have learnt to co-ordinate their operations in order to avoid a big escalation. The risk is greater in Libya, at least for now. The Turks have frigates off the coast, warplanes and drones in the sky and mercenaries on the ground. Recep Tayyip Erdogan, Turkey’s president, wants the GNA to punch into the oilfields that lie beyond Sirte and take the airbase in Jufra. He believes this would give Mr Serraj a financial boost and a strategic buffer against General Haftar and other eastern predators. But last month Russia moved 14 warplanes to Jufra. Hundreds of mercenaries from the Wagner Group, a private-security firm with connections to the Kremlin, support General Haftar. Egypt has moved a column of tanks to (and, some say, across) its western border. It and the UAE see the war as a struggle against Islamism.

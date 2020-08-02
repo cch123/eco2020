@@ -14,6 +14,8 @@ To some this is a clear sign of spreading irrational exuberance. Shares, it is a
 
 Start with the good news. Most analysts had thought that America’s unemployment rate would rise from 14.7% to around 20% in May. Instead it fell to 13.3% as millions of Americans were recalled to work (see [article](https://www.economist.com//finance-and-economics/2020/06/11/what-the-early-1980s-implies-for-unemployment-today)). Real-time data on credit-card spending, e-commerce and consumer mobility suggest that American consumer spending reached a trough in April and has now recovered to around 90% of its pre-pandemic level. The recession that was only this week officially declared to have started in March already looks to have bottomed out.
 
+
+
 ![](./images/20200613_LDC044.png)
 
 Like the market rally, the green shoots are not confined to America. In May Chinese goods exports were only 3.3% lower than a year ago—analysts had expected almost twice that fall. Labour markets have beaten expectations in Canada and South Korea. In Europe surveys of business sentiment remain depressed but have rebounded strongly from record lows in April. It helps that the euro zone has embraced stimulus. This month the ECB has expanded its bond-buying programme and Germany has fired a fiscal bazooka (see [article](https://www.economist.com//europe/2020/06/11/germany-opens-the-money-tap)).

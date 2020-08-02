@@ -12,6 +12,8 @@ SINCE 1972 Americans have sat through more than 9,000 episodes of “The Price i
 
 Technology may play a role. Reaching for a smartphone is easier than recalling a fact from memory. Who remembers phone numbers anymore? People may just fall out of the habit of recalling prices. Still, the rise of the smartphone is a recent phenomenon—it cannot explain why contestants became worse guessers during the 1970s, 1980s and 1990s.
 
+
+
 ![](./images/20200307_USC410.png)
 
 Economic changes may be a better explanation. A paper published in 2001 suggested that higher GDP growth raised “price-recall error”. Like the proverbial politician who thinks a gallon of milk costs $15, as people get richer they worry less about budgeting. (Contestants guessed a bit better after 2010, when GDP growth was weak and budgets tight.) A related trend is that Americans devote a shrinking share of their household spending to goods—which tend to appear on “The Price is Right”—and a rising share to services, such as dining and child care, which do not. Contestants might be pretty good at guessing the price of a spin class or a babysitter.

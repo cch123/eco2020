@@ -6,6 +6,8 @@
 
 The problems mounted at Boeing, as it more than doubled the cost it expects to incur from the grounding of the 737 MAX airliner, to $18.6bn. The aerospace company reported a net loss of $636m for 2019, its first annual loss in 22 years. The amount of debt it holds is ratcheting up. And it is cutting production of the Dreamliner. To cap it all, Boeing took a $410m charge in the fourth quarter because its Starliner unmanned spacecraft failed to dock with the International Space Station on its maiden voyage.
 
+
+
 ![](./images/20200201_WWC034.png)
 
 By contrast, Apple reported record quarterly sales and profit figures. Revenue was up by 9% in the last three months of 2019 compared with the same quarter a year earlier, to $91.8bn. That generated a net profit of $22.2bn. Sales of the iPhone rebounded after several quarters of moribund growth; Apple is expected to release its first 5G phones later this year. The company’s share price jumped, pushing its market capitalisation above $1.4trn.

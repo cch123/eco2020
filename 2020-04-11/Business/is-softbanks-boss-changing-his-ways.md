@@ -16,6 +16,8 @@ He is under pressure to make concessions. Over the past few years SoftBank took 
 
 As investors took fright at heavily indebted firms amid a pandemic-related market sell-off, SoftBank’s vital signs weakened. In February and March the cost of insuring its debt against default leapt by 2.72 percentage points. Standard & Poor’s, a credit-rating agency, cut SoftBank’s outlook to negative. The gap between SoftBank’s market value and that of its main underlying assets, such as its Alibaba stake, widened to 66% (see chart). That led Mr Son to announce the $41bn asset sale. Then Moody’s, another rating agency, added a two-notch downgrade, far into junk territory: selling prize assets amid a markets rout, it implied, looked desperate.
 
+
+
 ![](./images/20200411_WBC149.png)
 
 As long as Mr Son can pull off the asset sale and cut debt, says Mary Pollock of CreditSights, a research firm, SoftBank’s balance-sheet will emerge stronger. The Alibaba stake is still a get-out-of-jail-free card, she says. For the time being, Mr Son has probably eased fears about his entire empire collapsing under its weight of debt.

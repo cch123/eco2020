@@ -16,6 +16,8 @@ For all the rapid growth in Hawassa and the many other industrial parks that Eth
 
 Some of the gloom is over a more fundamental question: will export-led manufacturing play a big role in Africa’s economic growth or has the continent missed its chance because automation will give many manual jobs to machines? The question is important because governments have to decide where to invest scarce resources—in ports and railways to foster manufacturing, for instance, or fast internet cables and film schools.
 
+
+
 ![](./images/20200328_SRC211.png)
 
 Most successful economies eventually move away from manufacturing towards services. Dani Rodrik, an economist at Harvard, argues that Africa’s are at risk of doing so without first having gone through a phase of industrialisation. The risk is that this “premature de-industrialisation” could leave many African countries unable to produce the good jobs and economic growth needed to catch up with the rich world. Yet such a gloomy outlook seems to be at odds with what is happening on the ground. Although manufacturing’s share of GDP is shrinking in much of the rich world, it has increased in Africa from a low of 9.4% in 2011 to 11% in 2018. Though there are questions about the reliability of those manufacturing data, it is clear that exports are rising sharply. The value of textiles and clothing leaving Ethiopia has jumped about ten times since the early 2000s, and about five times in Kenya and Uganda.

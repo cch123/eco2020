@@ -30,6 +30,8 @@ The wartime diaries of Astrid Lindgren, author of “Pippi Longstocking”, high
 
 In many war diaries there is an uneasy tension between headline events and personal tribulations. “Not much news”, Orwell writes, “ie only events of worldwide importance…” Three years into the war Lindgren recalls how “we used to talk about it all the time; now we see it as a necessary evil, to be thought of and talked about as little as possible.” By contrast, in the diaries of Derek Jarman, a British film-maker and artist, the personal and the political fuse.
 
+
+
 ![](./images/20200523_BKD002_0.jpg)
 
 Jarman began his diaries, published in two volumes as “Modern Nature” and “Smiling in Slow Motion”, soon after learning he was HIV-positive, and just before he revealed the diagnosis publicly. Behind the tally of days, weeks and months runs an undercurrent of mortality—a fate that many people, even if they know their death is close, try to ignore. Jarman faces the ultimate, inevitable adversary head on.

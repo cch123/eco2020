@@ -18,6 +18,8 @@ I doubt that it was in line with your usual standards of prudence and civility t
 
 AREND SMILDEUtrecht, Netherlands
 
+
+
 ![](./images/20191214_IRD001.jpg)
 
 It is surprising that your correspondents may have ignored an important aspect of hormone-replacement therapy (Letters, [January 11th](https://www.economist.com//letters/2020/01/11/letters-to-the-editor)), given that, in spite of many studies, the adverse effects of HRT, if any, remain unclear. It should be recognised that so many women have greatly improved their well-being while on these therapies, and that their libido and sexual function have been enhanced. Happiness and health go together.
@@ -30,6 +32,8 @@ These are important data for women to be aware of. As newer methods of molecular
 
 LOWELL HARTAssociate professor of internal medicine, hematology and oncologyWake Forest University School of MedicineWinston-Salem, North Carolina
 
+
+
 ![](./images/20191221_LID001.jpg)
 
 Regarding the liberalisation of Ireland (“Personal and political”, [December 21st](https://www.economist.com//christmas-specials/2019/12/18/the-liberalisation-of-ireland)), the “profound shift” in Irish social attitudes over the past four decades has been matched by a similarly profound change in economic circumstances. Today’s older generation in Ireland lived through an era in which the economy transformed from one of the poorest in Europe to one of the wealthiest. It is perhaps unsurprising that people who have seen rapid economic growth bring about drastically increased living standards are less conservative and fearful of change in their social attitudes than those of similar generations elsewhere.
@@ -41,6 +45,8 @@ COLM HARNEYLondon
 The introduction of universal free secondary education in 1967 was the single most important piece of social policy in the second half of the 20th century in Ireland, helping transform the culture. If ever there was a case study on the role of education in remoulding a country it was this. It made Ireland enlightened, successful and normal.
 
 DAVID MERRIMANCork
+
+
 
 ![](./images/20200104_BRD001_0.jpg)
 

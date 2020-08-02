@@ -34,6 +34,8 @@ The opium harvest in Afghanistan that supplies nearly all the world’s heroin h
 
 The next stage in the supply chain—wholesale distribution—has been distorted. But gangs are already adapting. Syndicates that rely on drugs smuggled on flights, such as Nigerian gangs in South Africa, have been hit hard. Two members of Mexico’s Sinaloa cartel told Reuters that far fewer drugs are being transported in cars across the border into the United States since it was shut on March 21st. Syndicates seem to be using tunnels and drones instead. Officials in Brazil have reported that traffickers in cocaine, which enters from Colombia and Peru on its way to Europe and Africa, are switching consignments from land routes and onto boats travelling down the Amazon. With maritime and air traffic greatly diminished, it is even harder to get drugs out of Brazil. Yet seizures between February and April were up by 10%. Elvis Secco of the Brazilian Federal Police’s drugs and organised crime unit says traffickers are offloading their stockpiles and taking more risks, which partly explains why more narcotics are being impounded.
 
+
+
 ![](./images/20200516_IRD002_0.jpg)
 
 Cocaine prices in Europe and America have risen accordingly. But that also reflects the difficulties of retail distribution, the link in the supply chain that has probably had to be adjusted most. In Naples last month police dogs found 89 packages stuffed with narcotics waiting to be dispatched from a courier depot. The drugs had been ordered on the darknet. The courier firm had no idea of its role.

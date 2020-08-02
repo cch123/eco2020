@@ -20,6 +20,8 @@ Each submission triggers a 90-day process. The emergency requests will be handle
 
 Internet-governance nerds have questions aplenty. Will users and authorities deem the board legitimate? Much will hinge on the geographic and biographical diversity of its initial members, reckons Ms Klonick. Will it have the capacity to deal with appeals? The board is expected to consider no more than a few dozen cases a year, compared with 3.4m posts Facebook declined to restore in the first quarter of 2019 alone (not counting spam, see chart). Some fear that Facebook could flood it with emergency requests to distract from inconvenient ones for the company.
 
+
+
 ![](./images/20200201_WBC308.png)
 
 Most important of all, how powerful and independent will Facebook allow the board to become? And how will it affect the firm’s business? The answer is not very and not much—for now. The board’s decisions will be based not on real-world laws but on the community standards, which are vague. Initially it will only rule whether individual pictures and posts ought to have been taken down, though the company promises to extend the board’s ambit to entire Facebook pages and groups and also to whether certain posts should be up in the first place, once the technical infrastructure is in place. If this makes the social network seem more salubrious, it may lure more corporate advertisers, the fount of Facebook’s revenues (which grew more slowly last quarter than ever before).

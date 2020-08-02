@@ -14,6 +14,8 @@ Fire-damaged towns have received Scott Morrison, the prime minister (pictured), 
 
 Bitter experience with seasonal conflagrations has left Australia with extensive codes related to wildfires, many introduced or expanded after the deaths of 173 people in fires in Victoria in 2009. Observers abroad say that fire-safety rules for housebuilders and home-fixers are perhaps the world’s most comprehensive. Whereas authorities had previously thought that well-prepared homes could be defended, Australians are now told to evacuate as fires bear down on them, nudged by emergency broadcasts, text messages and fire-watching mobile apps. To encourage them to do so, a new category of “catastrophic” or “code red” was added to risk warnings. All this has certainly saved lives this year.
 
+
+
 ![](./images/20200111_ASC003.png)
 
 Ross Bradstock, a bushfire expert at the University of Wollongong, notes that in recent years Australia has greatly expanded the use of preventive measures known as “hazard reduction”, in which controlled burns are carried out during the winter to reduce the amount of material available to ignite when temperatures rise. Some Australians grumble, without much evidence, that “greenies” worried about plants and wildlife have been holding this practice back. But the main obstacle is that the fire season is lengthening year by year, says Shane Fitzsimmons, a fire chief. This shrinks the amount of time available to carry out preventive work.

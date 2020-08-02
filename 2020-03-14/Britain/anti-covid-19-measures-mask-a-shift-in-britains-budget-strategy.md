@@ -20,6 +20,8 @@ The support for businesses, especially smaller ones, was the most substantial el
 
 The reaction from the main business lobbies was positive. The British Chambers of Commerce welcomed the chancellor’s efforts to help firms manage their cashflow. Ian Stewart, chief economist of Deloitte, a professional-services firm, hailed the Treasury’s and the bank’s actions as “a forceful and convincing response to the crisis”. According to one corporate restructuring specialist, easier credit conditions and a delayed schedule of tax payments should help to prevent “thousands of insolvencies over the next few months. There are firms that would have gone to the wall that now won’t.”
 
+
+
 ![](./images/20200314_BRC429_0.png)
 
 Whether these measures will prove sufficient will depend as much on epidemiology as on economics. The ultimate impact of the virus is still impossible to quantify. But the emergency measures masked a wider shift in the government’s fiscal strategy. Even excluding any covid-19 related economic slowdown, as well as the £12bn response package announced so far, the government is set to borrow significantly more in the next five years than it had previously planned (see chart). The deficits planned in 2019 for the years from 2021 to 2024 have all been revised up by more than 1% of GDP.

@@ -16,6 +16,8 @@ The accuracy of ratings matters, because the licensed firms that issue them wiel
 
 Far from having their wings clipped after messing up prior to 2007, the rating agencies cashed in on the past decade’s debt bonanza (see chart 1). At the end of 2019 global corporate-bond debt was $13.5trn, double the level of 2008 in real terms. With central banks using ratings to sift potential fodder for their asset-buying programmes, these grades have become even more crucial determinants of who can hold what.
 
+
+
 ![](./images/20200509_FNC475.png)
 
 The agencies argue that their ratings hold up well when viewed “through the cycle”, rather than over short periods of time. They also point to changes, imposed on them after the financial crisis, that have strengthened the walls between their analysts and sales teams. Ratings are paid for by the issuer; in the run-up to the financial crisis it was largely the fear that big clients, often banks, would take their business elsewhere that led the agencies to award overly generous marks to toxic loan pools.
@@ -27,6 +29,8 @@ James Grant, editor of Grant’s Interest Rate Observer, a newsletter, and a lon
 There is, though, still plenty for critics to chew on. A study in 2013 found an inverse relationship between ratings quality and the state of markets: agencies are more likely to issue less-accurate ratings when fee income is high, hiring top-quality analysts is pricier and default probabilities low. In 2019 a Wall Street Journal investigation found that the six largest agencies had in the previous seven years all made changes to ratings criteria that led, at least briefly, to a rise in market share—particularly in the securitised-loan market.
 
 Two more recent studies have found evidence of post-financial-crisis ratings inflation. A report by the OECD in February found that agencies gave borrowers more leeway on leverage, relative to earnings, in 2017 than a decade earlier (see chart 2). The agencies say that factors such as lower interest rates and increased corporate diversification, rather than sloppy ratings, explain the gap. “There’s no doubt some companies are over-levered for their rating,” says Colin Reedie of Legal & General Investment Management. “We’ve seen it before at the same stage of the cycle, when [rating agencies] give managements too much benefit of the doubt on promises to get back on an even keel.”
+
+
 
 ![](./images/20200509_FNC486.png)
 
@@ -47,6 +51,8 @@ How the agencies handle these tests will determine whether the crisis brings mor
 A more fertile area for reform concerns over-reliance on ratings. They are hard-wired into all manner of regulations and investment mandates, often in a mechanistic way that discourages investors from doing their own homework. They help determine everything from banks’ capital requirements to what mutual funds are allowed to buy. Here too, though, change has proved elusive. A study in 2018 found that references to ratings in American bond funds’ investment mandates had actually increased since 2010.
 
 As for competition, several upstarts are hustling for business. Kroll Bond Rating Agency, founded in 2010, chalked up $140m in revenue last year. But Moody’s, S&P and the smaller Fitch still have a combined global market share of almost 95%.
+
+
 
 ![](./images/20200509_FNC470.png)
 

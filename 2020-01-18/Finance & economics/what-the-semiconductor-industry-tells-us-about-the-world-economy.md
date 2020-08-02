@@ -18,6 +18,8 @@ The cost structure of the chip business is central to this enigma. A semiconduct
 
 Until quite recently the industry’s rhythms, and the tautness or slackness of Asia’s supply chains in general, were dictated by the two- or three-year life-cycle of smartphones. Export orders for Taiwanese electronics, for instance, tended to spike whenever a new Apple or Galaxy handset was launched. But the smartphone market is now saturated. Consumers find that an old model works almost as well as a newer one—and this might still be the case even when the new 5G generation of phones reaches the market. What drives growth in demand now is cloud computing, electrification of cars, wearable gadgetry and gaming, says Shawn Kim of Morgan Stanley. The cloud is a particular force. As firms ramp up capital spending of all kinds, that in turn spurs investment in cloud capacity, where business-related software lives.
 
+
+
 ![](./images/20200118_FNC157.png)
 
 What signals should market cryptologists be looking at? One measure is exports of semiconductors from South Korea, says Alicia Garcia-Herrero, chief economist for Asia at Natixis, an investment bank, who is based in Hong Kong. South Korea is pivotal to Asia’s supply chain, she says, and its shipments of semiconductors help predict exports in the region more generally. After a brutal 2019 the trend has bottomed out and is turning (see chart). Another signal is the financial health of big Asian chip companies, such as Samsung and SK Hynix. Those averse to digging deep into financial statements could simply monitor industry share prices. Or they could look for inflection points in the price of DRAM, a type of memory chip used to store data on servers and computers.

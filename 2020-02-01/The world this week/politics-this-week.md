@@ -26,6 +26,8 @@ Heavy fighting broke out in Libya between forces loyal to the UN-backed governme
 
 The biggest infestation of locusts for at least 25 years wrought havoc on east Africa. Heavy rains last year created ideal conditions for the pests. An adult locust can eat its own weight each day. See [article](https://www.economist.com//middle-east-and-africa/2020/01/30/east-africa-is-reeling-from-an-invasion-of-locusts).
 
+
+
 ![](./images/20200201_WWP003_0.jpg)
 
 Holocaust survivors and international leaders gathered at the former Auschwitz death camp in Poland to mark the 75th anniversary of its liberation by Allied troops, amid calls to fight resurgent anti-Semitism. The presidents of Israel and Poland led the commemoration. About 1.1m people, mostly Jews, were murdered at Auschwitz-Birkenau, the Nazis’ biggest death camp. See [article](https://www.economist.com//europe/2020/01/26/an-anniversary-at-auschwitz-is-marred-by-disputes).

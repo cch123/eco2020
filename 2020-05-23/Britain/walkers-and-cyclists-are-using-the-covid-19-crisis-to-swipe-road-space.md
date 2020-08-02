@@ -16,6 +16,8 @@ Camden High Street in north London is a mess of barriers and traffic cones, whic
 
 Will Norman, London’s walking and cycling commissioner, argues that the city has no choice but to repurpose roads for walking and cycling. In normal times Londoners rely on trains, buses and the Tube for more than two-fifths of their travel (see chart). Covid-19 has made them fearful of doing so: on the morning of May 18th London Underground carried 8% of the passengers that it did a year earlier. If lots of people transfer from public transport to cars, the streets will gum up and pollution will rise. The city must be quickly reconfigured to make that option seem less attractive, and cycling and walking more so.
 
+
+
 ![](./images/20200523_BRC656.png)
 
 Yet the danger of gummed-up streets seems a long way off. London and other British cities are still deathly quiet. And if they do bounce back to life—which, if social distancing is a long-term reality, they may not—taking lanes away from cars might exacerbate congestion. Steve McNamara of the Licensed Taxi Drivers’ Association reckons that covid-19 is merely an excuse to force through an anti-car strategy. “This is a land grab,” he says.

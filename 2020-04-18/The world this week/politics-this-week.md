@@ -36,6 +36,8 @@ Several European countries moved to ease their lockdowns. In Spain work was allo
 
 The European Commission, stung by criticism that it has been absent during the crisis, outlined a roadmap that it hopes EU member states will follow to co-ordinate the easing of restrictions. EU ministers agreed on an aid package of up to €540bn ($590bn) for hard-hit countries. The European Central Bank had said up to €1.5trn was needed.
 
+
+
 ![](./images/20200418_WWC006.png)
 
 Boris Johnson was discharged from hospital, where he had been admitted to intensive care. The British prime minister is convalescing at Chequers, an official residence.

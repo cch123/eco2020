@@ -14,6 +14,8 @@ Broadly, Marcellus’s top 20 can be split into three groups. The first contains
 
 Companies in the second group are unusually lucrative for less deserving reasons. They include state-controlled remnants of Nehruvian socialism. They can count on cheap loans from state-owned banks and, often, cosy monopolies (like Coal India’s, until the government ended it to fight covid-19). This group is shrinking, albeit slowly: Marcellus’s top 20 contained seven state-owned firms in 2019, down from 13 in 2004.
 
+
+
 ![](./images/20200523_WBC641.png)
 
 The last bucket blends the other two. These are huge private companies with mediocre returns but a knack for navigating both India’s labyrinthine bureaucracy and its corridors of power. They operate in heavily regulated industries: Larsen & Toubro, an engineering group, builds roads; Hindustan Zinc, a subsidiary of London-listed Vedanta Resources, is a big miner.

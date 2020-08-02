@@ -26,6 +26,8 @@ Japan has to date been a virus outlier: the epidemic has proceeded more slowly t
 
 Like other East Asian countries, Japan has learned from previous epidemics, such as SARS and bird flu, about the importance of containment: pains are taken to identify infection clusters and then to track down transmission routes, says Shindo Nahoko of the WHO. A compliant population heeds government health advice about frequent hand-washing and accepts unpopular measures such as the closure of schools.
 
+
+
 ![](./images/20200328_ASC878.png)
 
 Yet the government has to date communicated little sense of crisis—in part, the suspicion goes, to make everything appear normal so that the games could go ahead. Instead of adopting the stringent suppression measures being pursued across Asia, Europe and America, Japan is relaxing its restrictions. Hokkaido, with a big cluster of infections, has lifted the state of emergency declared in late February. Mr Abe says that schools can reopen next month.

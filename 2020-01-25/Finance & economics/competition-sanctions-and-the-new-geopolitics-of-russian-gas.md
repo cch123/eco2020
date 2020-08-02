@@ -14,6 +14,8 @@ Yet on January 12th Ditte Juul Jørgensen, the European Commission’s director-
 
 Europe’s gas market has been transformed in the past decade. Demand fell after the financial crisis and has not fully recovered, in part due to a ramp-up in renewables. Australia and America have helped bring a boom in liquefied natural gas (LNG). Additional LNG terminals, pipelines and gas-storage facilities have sprouted across Europe, often aided by public investment. Europe imported 123bn cubic metres of LNG last year, nearly twice as much as in 2017, reckons S&P Global Platts, a commodities and analytics outfit.
 
+
+
 ![](./images/20200125_FNM934.png)
 
 These supplies of gas, combined with new means of storing and transporting it, have helped support a spot market, which in turn has made the rigid contracts and oil-linked pricing long favoured by Gazprom look less tenable. In 2018 oil-linked pricing accounted for only 24% of Europe’s gas market, according to the International Gas Union, compared with 78% in 2005. “The market has become more competitive, flexible and significantly more efficient,” says Ira Joseph of S&P Global Platts.

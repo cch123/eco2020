@@ -38,6 +38,8 @@ North Korea shut down the hotlines it shares with South Korea’s leadership. Th
 
 Election officials in Singapore announced measures that make it safer for voters to cast their ballots during the pandemic, including time slots, stoking speculation that a poll will be called for July.
 
+
+
 ![](./images/20200613_WWC014.png)
 
 The World Health Organisation changed its advice and now recommends that people wear face masks on public transport and in other situations where social distancing is difficult.

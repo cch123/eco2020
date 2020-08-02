@@ -14,6 +14,8 @@ SHAREHOLDERS THE world over have had a rotten 2020. Some might have hoped the co
 
 Blame poor performance, present and expected. Dividends and buy-backs are a sign of profits and confidence, both in short supply in a pandemic. Derivatives markets where investors can bet on the size of dividends imply these will fall by at least a quarter in America. If the crisis of 2007-09 is anything to go by, buy-backs (popular mainly among American firms for tax reasons) will be halved.
 
+
+
 ![](./images/20200418_WBC239.png)
 
 All told, global payouts to shareholders are expected to tumble from $2.2trn in 2019 to $1.4trn this year, according to The Economist’s rough estimate (see chart). The cuts could go deeper. If the crisis worsens (or regulators step in), banks in America, which have suspended buy-backs, may do the same with dividends, which they have kept. Policymakers in Europe, where dividends are higher as a share of profits, are asking all firms to show restraint.

@@ -16,6 +16,8 @@ These numbers are alarming, especially because they are grave underestimates. Po
 
 In the most worrying countries, many live hand-to-mouth. Their governments tend not to have much money, either. That has prompted the authorities to relax the restrictions they put in place to slow the spread of the disease, to save their citizens from ruin. India, for instance, ended its lockdown on June 1st, just as the number of daily infections hit a new record (see [article](https://www.economist.com//asia/2020/06/06/covid-19-infections-are-rising-fast-in-bangladesh-india-and-pakistan)). Mexico has declared that it will open for tourism on June 8th. And non-essential businesses have been allowed to reopen in Rio de Janeiro, Brazil’s second-largest city.
 
+
+
 ![](./images/20200606_LDC859.png)
 
 When outbreaks are big enough to overwhelm health-care systems, deaths soar, since even cases that might respond to treatment become deadly. Poor countries have fewer hospitals and doctors and less of the necessary kit, from ventilators to disposable gloves and gowns. This can lead to horrifying scenes like those witnessed in Guayaquil, Ecuador, in April, when coffins ran out and bodies were abandoned in the streets.

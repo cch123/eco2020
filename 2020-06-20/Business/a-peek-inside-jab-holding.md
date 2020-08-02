@@ -18,6 +18,8 @@ Alongside JAB Holding, which manages the Reimanns’ money (and that of Mr Harf,
 
 Like the famed American investor’s conglomerate, JAB favours long-term bets on businesses that are easy to understand. What sets it apart from Berkshire Hathaway, and many family offices, is a focus on a few big assets. According to Moody’s, a credit-rating agency, 96% of JAB Holding’s funds were in the three biggest last year (see chart). Investor AB, another large and complex investment fund, controlled by Sweden’s Wallenberg clan, has 37% of its portfolio in its top three assets. Mr Harf wants JAB Holding to own a stake of 30-40% in each portfolio firm, so that even if JCF’s backers exit, the Reimanns would retain the ear of the operating firms’ CEOs.
 
+
+
 ![](./images/20200620_WBC086.png)
 
 Such concentration is a boon when things are going well, as they have been with the coffee business, which Mr Goudet envisaged as a rival to Switzerland’s Nestlé. Defying the covid-19 pandemic, JAB listed 16.5% of shares in JDE Peet’s, the result of a merger between Jacobs Douwe Egberts and Peet’s Coffee, at the end of May in Amsterdam. Out of ten “smart investors”, nine warned Mr Harf to wait with the IPO, he says. In the event, the offering raised a caffeinated €2.25bn, making it Europe’s biggest IPO this year and valuing the firm at €15.6bn. The share price surged by 15% on the first day of trading. The outlook for JAB’s other cafés, starved of customers amid pandemic lockdowns, may improve as economies reopen.

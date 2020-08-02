@@ -20,6 +20,8 @@ When the virus first jolted financial markets, the threat of a full-blown emergi
 
 The sense of panic has since begun to abate. The Federal Reserve’s swap lines to 14 central banks—including those of Brazil, Mexico and South Korea—have helped ease a global dollar shortage. Capital outflows have subsided and emerging-market bond yields have fallen. This tentative reprieve invites a more discriminating assessment of emerging-market finances. The Economist has ranked 66 countries using four indicators of financial strength (see chart). Some, such as Russia, Peru and the Philippines, look relatively robust. About 30 are in distress, or flirting with it. The alphabet of alarm runs from Angola to Zambia. But these 30 account for a relatively small share of the group’s debt and GDP.
 
+
+
 ![](./images/20200502_BBC380.png)
 
 Covid-19 hurts emerging economies in at least three ways: by locking down their populations, damaging their export earnings and deterring foreign capital. Even if the pandemic fades in the second half of the year, GDP in developing countries, measured at purchasing-power parity, will be 6.6% smaller in 2020 than the IMF had forecast in October.

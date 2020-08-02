@@ -24,6 +24,8 @@ But there has also been investment in automation and remote operation that has b
 
 Modern high-tech factories already have systems in place to control who comes in or out and what they have on their person. The procedures which identify workers now take their temperatures, too. Many factories are also relying on a variety of “health code” apps developed by provincial Chinese governments. These run through portals inside WeChat and AliPay, two payment apps, to determine the worker’s health status and travel history. Willy Shih of Harvard Business School, who studies Chinese factories and supply chains, says such techniques were developed during the outbreaks of SARS and H1N1, in 2003 and in 2009, respectively. “Normally you change out of street clothes and go through a security check,” he says. “In many respects the [new protocols] are a small incremental addition.”
 
+
+
 ![](./images/20200411_FBC140.png)
 
 Once inside the factory, the changes required depend on what the workers are making. Those in car factories are already spread out and do not need much repositioning—though some manufacturers are using fences to enforce separation. The parts the workers handle are regularly disinfected as they pass through the assembly process, says Tu Le, a consultant. At a phone factory in Guangdong province, though, changes in layout are immediately apparent. Workers no longer cluster around each step of the assembly process in dense U-shaped cells; instead they are spread out, increasing their safety at the expense of some speed.

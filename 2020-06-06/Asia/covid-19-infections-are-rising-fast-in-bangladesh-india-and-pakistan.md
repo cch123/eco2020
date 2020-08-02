@@ -14,6 +14,8 @@ With some 350,000 confirmed cases and fewer than 9,000 deaths so far, the region
 
 Low levels of testing mean that the real numbers could be far worse. One foreign health official in Pakistan reckons the death toll is between two and three times the government’s count. John Clemens of ICDDR,B (formerly the International Centre for Diarrhoeal Disease Research, Bangladesh), estimates that Dhaka, Bangladesh’s capital, may already have as many as 750,000 cases, even though the official national tally is less than 60,000.
 
+
+
 ![](./images/20200606_ASC828.png)
 
 In harder-hit parts of the region, health services are under severe strain. Madhuri, a 46-year-old nurse in Thane, a suburb of Mumbai, had been working 12-hour shifts with no days off from April 1st until she herself caught covid-19 from a patient in May. The government hospital where she works does not treat the disease, passing positive cases to designated covid hospitals. But Madhuri (not her real name) says her colleagues must instead cope with the patients those places no longer treat. “We now do 60-70 deliveries a day, up from 40-50 in normal times, in addition to stab wounds, accidents and so on.” Her hospital’s 20-bed intensive care unit is staffed by just two nurses and its 16-bed isolation ward by just one, she says.

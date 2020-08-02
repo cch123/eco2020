@@ -42,6 +42,8 @@ Whether the virus helps it along or not, severe inflammation of the lungs often 
 
 Because it is hard to tolerate having a tube stuck down your throat and into your lungs, patients on ventilators are heavily sedated and unable to do anything for themselves. Nurses must reposition them every few hours to prevent bed sores. Their doctors keep watch for kidney failure, blood clots and heart problems—risks to critically ill patients in ICUs that anecdote has suggested may be more common in covid-19 patients than in others. Those anecdotes are now being backed up by a few studies. However, as Dominic Wichmann of the University Medical Centre Hamburg-Eppendorf points out, this correlation does not necessarily mean SARS-CoV-2 is itself damaging the organs involved.
 
+
+
 ![](./images/20200606_FBC001.png)
 
 A quarter of covid-19 patients in British ICUs have had kidney problems severe enough to require dialysis. “It’s all part of the second phase of the illness when people, eight to ten days in, suddenly get worse,” says Claire Sharpe of King’s College London. A big part of the problem, she says, is just dehydration, always a risk in ICUs, all the more so when patients are feverish. On top of this, the stress caused to the body by having air pumped in and out amounts to “a double hit on the kidneys”.
@@ -49,6 +51,8 @@ A quarter of covid-19 patients in British ICUs have had kidney problems severe e
 Early in the pandemic critical-care doctors in various countries added to the problem by flushing fluids from the body in order to keep the patients’ damaged lungs from filling with liquid. They appreciated the risk of crashing the kidneys that this involved. Their thinking in doing it anyway, Dr Johnson says, was “I have to do everything I can to try to help their oxygen levels, because if I don’t win that then the whole game is lost.” Once doctors began to see high rates of kidney failure in covid-19 patients, though, they stopped “running them dry”. Dr Johnson, whose unit had the benefit of the experience from New York and other early hotspots, says kidney failure is now no more common in his covid-19 patients than in those with other viral pneumonias.
 
 Blood clots are another worry for patients in ICUs—so much so that mild blood thinners are routinely used as a prophylactic. Again, the problem may be worse in covid patients. Autopsies of the first 12 people to die of covid-19 in Hamburg found that four had died from a blood clot in the lungs. Autopsies by other teams have turned up lots of small clots in the blood vessels traversing the lungs.
+
+
 
 ![](./images/20200606_FBC849.png)
 
@@ -61,6 +65,8 @@ Harlan Krumholz of the Yale School of Medicine thinks both the virus and the imm
 In most cases, though, it is the generalised immune response, inflammation, that goes into overdrive. Why some patients are prone to this problem remains unclear. But as data piles up from hospitals around the world clues about the biological pathways of the disease are starting to emerge.
 
 Some of the clues come from the conditions which predispose people to the disease. “You’d think underlying lung problems or immune system problems will be the greatest risk,” says Dr Levitt. “But it seems the biggest risk factors have been hypertension, diabetes and obesity.” That has led many scientists to suspect that the profound inflammation seen in severe cases of covid-19 may be yet another problem linked to SARS-CoV-2’s fondness for ACE2. People with diabetes, hypertension and heart disease have more ACE2 on their cells as a response to the higher levels of inflammation that come with their condition; ACE2 has an anti-inflammatory effect. When SARS-CoV-2 sticks to ACE2 and reduces its ability to do its job, the underlying inflammation gets worse.
+
+
 
 ![](./images/20200606_FBD002_0.jpg)
 

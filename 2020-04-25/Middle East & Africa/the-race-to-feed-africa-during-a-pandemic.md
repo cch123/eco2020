@@ -38,6 +38,8 @@ The most vulnerable parts of Africa are those already reeling from war, pests or
 
 The WFP says more than 5m people in the central Sahel will go hungry in the coming lean season. In Zimbabwe, cursed with drought and recession, over a quarter of the population get food handouts. In Uganda rations for 1.4m refugees have been cut by 30%. The funding shortfall was not caused by the pandemic, but shows what happens when donors lose focus.
 
+
+
 ![](./images/20200425_MAM952.png)
 
 Away from crisis zones the threat is not starvation, but a slow-burning struggle which may last long after lockdowns are lifted. More than 50m children in sub-Saharan Africa are missing school meals (see chart). As hardship bites, many families will switch to less nutritious diets, cutting out things like fruit and vegetables, or simply eating less. Claude Bahati, a laid-off cleaner in Goma, gulps down water every morning to fill his empty stomach. “We used to eat twice a day, now we only eat once,” he says. “If this confinement continues then we will die.”

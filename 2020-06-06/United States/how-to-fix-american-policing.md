@@ -22,6 +22,8 @@ Also unlike most police forces elsewhere, American police patrol a heavily armed
 
 Many have cited these disparities as evidence of systemic racism in American policing—and indeed, calls for reform often start with recognising and working to root out such bias. Not everyone is convinced. Robert O’Brien, President Donald Trump’s national security adviser, told CNN on May 31st that though “there are some bad cops that are racist” he did not think there was “systemic racism”. But systemic racism does not mean that all officers are racists or bad people; it means that the system operates in a racially biased manner regardless of individual motivations. Mr O’Brien is doubtless correct that not all officers are racists, but given the vast racial disparities across the criminal-justice system—for which police are the intake valve—his scepticism is difficult to justify.
 
+
+
 ![](./images/20200606_USC978.png)
 
 Some argue that education can help root out officers’ implicit biases. But evidence that this works is mixed, not least because many react as Mr O’Brien did, by treating discussion of implicit bias as an attack on individual officers’ character. Phillip Atiba Goff, who heads the Centre for Policing Equity, a think-tank, puts his faith in data and in training.
@@ -53,6 +55,8 @@ Yet when it comes to killing, few officers face consequences. Prosecutors are re
 Ms Van Cleve noticed that as Mr Chauvin choked Mr Floyd, he “stared straight at the camera. He didn’t look anxious or nervous. He knows he’s being filmed and watched. You don’t do that unless you know that prosecutors aren’t going to charge you.” Under pressure, prosecutors did charge Mr Chauvin. But police officers are rarely convicted for killing someone.
 
 Police also have functional immunity from civil actions, thanks to a doctrine known as “qualified immunity”. This lets public officials have lawsuits dismissed, provided their contact did not violate, as the Supreme Court explained, “clearly established statutory or constitutional rights.” Courts interpret “clearly established” with baffling vigour: an appellate court dismissed a suit against officers accused of stealing hundreds of thousands of dollars in cash and rare coins while enforcing a search warrant, because “there was no clearly established law holding that officers violate the Fourth or 14th Amendment when they steal property seized pursuant to a warrant.”
+
+
 
 ![](./images/20200606_USP002_0.jpg)
 

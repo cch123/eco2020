@@ -18,6 +18,8 @@ Of the other two reasons, the most obvious is another political upset: Brexit. I
 
 For the third reason, step away from the hurly-burly of electoral politics to take in the deep tides of demography. When the six counties of Northern Ireland opted out of independence in 1922, they thought they were ensuring that a part of the island would always remain under Protestant control; Protestants outnumbered Roman Catholics there by two to one.
 
+
+
 ![](./images/20200215_FBC344_1.png)
 
 That edge has been dulled. Analysis by The Economist of the censuses of 2001 and 2011, along with results of Britain’s quarterly labour-force survey, strongly suggests that Catholics are now the single biggest confessional grouping in Northern Ireland (see chart). Gerry Adams, who was president of Sinn Fein from 1983 to 2018, and who is widely believed also to have been a senior figure in the IRA—a charge he completely rejects—once quipped that though “outbreeding unionists may be an enjoyable pastime...it hardly amounts to a political strategy.” Yet it has still brought about a change. If the 2021 census bears this out, the finding will add to the fears of unionists.
@@ -52,11 +54,15 @@ Then there is the economy. It has long been a reason for persuadable voters in t
 
 Northern Ireland, though poorer than the south, is nothing like as badly off as East Germany was compared with the west. In 1989 West Germany boasted four times the east’s GDP per person. But it also had four times its population, whereas the republic of Ireland is less than three times larger than the north (see table). And the north’s economy is in a long-standing mess, scarred by the Troubles and “left behind” by deindustrialisation. Harland and Wolff, which laid the keel of Titanic in 1909, went into administration last August; its two gigantic cranes, Samson and Goliath, tower over the Belfast skyline as silent monuments to decline. Official data suggest that the public sector in Northern Ireland accounts for well over 50% of local GDP and that it raises enough tax to pay for only two-thirds of its spending. The British government makes up the difference. 
 
+
+
 ![](./images/20200215_FBC346.png)
 
 Nationalist economists claim that Northern Ireland’s fiscal deficit is artificially inflated by statistical trickery. They say, for instance, that if the region broke free from Britain it would not have to repay the portion of Britain’s public debt built into those figures. There is precedent here. In the 1920s Ireland’s republican leaders negotiated down the British government’s initial demand that their new nation take on a pro rata share of public-debt and pension liabilities. On the other hand, during the run-up to the Scottish independence referendum in 2014 the British government insisted that a newly independent Scotland would have to assume responsibility for its share of British public debt.
 
 Covering Northern Ireland’s fiscal deficit would be a tall order for the republic. It would have some help. In a recent interview Mick Mulvaney, President Donald Trump’s chief of staff, told The Economist that “we expect that both philanthropists and the private sector in America would stand ready to help Northern Ireland in the event of reunification.” The EU would obviously play a role. But providing just half of the north’s current subsidy would cost the republic some 3% of its national income.
+
+
 
 ![](./images/20200215_FBD002_2.jpg)
 

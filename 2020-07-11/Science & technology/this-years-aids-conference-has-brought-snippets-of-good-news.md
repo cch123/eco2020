@@ -14,6 +14,8 @@ The International AIDS Conferences, the first of which was held 35 years ago, in
 
 A paradox of AIDS is that it has dropped off many people’s radar screens precisely because the response to it has been so successful. That risks neglect of the problem, which in turn risks a rebound of the disease. UNAIDS, the United Nations’ agency charged with combating the HIV pandemic, released its latest report on July 6th, the day the conference began. On the face of things, it makes grim reading. Though the error bars are wide, some 1.7m people were newly infected in 2019 and 690,000 of those already infected died. At the end of the year that left 38m people living with the virus, of whom 25.4m were taking antiretroviral (ARV) drugs of one sort or another to keep their viraemia under control. But, though these numbers are huge, they are all heading in the right direction (see chart 1).
 
+
+
 ![](./images/20200711_STC390.png)
 
 The world’s AIDS establishment is also coming closer to achieving its next self-imposed target, known as 90:90:90. This is to identify 90% of those infected, treat 90% of those so identified, and suppress to undetectability the viral load of 90% of those so treated. The aim, set by the UN in 2014, was to do all that by the end of this year. It always seemed ambitious, and is most unlikely to happen. At the end of 2019 the central estimates of the numbers in question were 81%, 82% and 88% respectively.
@@ -39,6 +41,8 @@ Cabotegravir also seems to be more effective than Truvada. A trial of 4,600 volu
 Periodic injections rather than daily pills may also be on the cards for the treatment of those already infected. Once again, cabotegravir is involved. Two trials which reported last year, of a combination of it and another antiretroviral, rilpivirine, suggest that this formula is just as effective, when injected once a month, as are standard oral drugs taken daily.
 
 Advances in prevention and treatment, then, are clearly on the cards. One of the conference’s most intriguing announcements, though, concerned the tantalising possibility of a cure.
+
+
 
 ![](./images/20200711_STC395.png)
 

@@ -40,6 +40,8 @@ Also that month, 15 grandees of the pro-democracy movement, including Martin Lee
 
 That law had its second reading on May 27th. People who had planned to gather near Legco to protest against it and the new national-security bill were kept away by hundreds of police. At demonstrations elsewhere police fired pepper bullets and rounded up more than 360 people, including schoolchildren in uniform. As with attempted protests on May 24th (pictured), the first of any size this year, a new police tactic was apparent: move hard and fast, swamp the area and make mass arrests.
 
+
+
 ![](./images/20200530_CNP003_0.jpg)
 
 Given such methods, it is hard to predict whether protests can grow. Young Hong Kongers face dismal job prospects and see the space for political expression rapidly shrinking. They may see little to lose in one last summer of defiance before facing the full wrath of new anti-subversion laws. But to control covid-19 all public gatherings are banned, which makes it easier for the police to stop protests. The restriction will remain in place at least until June 4th, the anniversary of the crushing of the Tiananmen Square protests in 1989 which Hong Kongers traditionally mark with a mass vigil. Police have refused permission for the usual event. Thereafter, police will reject many applications for protests, as they did last year citing possible violence.
@@ -48,9 +50,13 @@ Furthermore, support for demonstrations may be ebbing. Last year the biggest one
 
 A bellwether of public support for street action will be July 1st, the anniversary of the start of Chinese rule and a traditional day of protests. If many turn out, then it could be another long, hot summer. But after the arrests of nearly 9,000 people for offences related to the unrest, many of the most ardent demonstrators may be out of action. Some have fled to Taiwan.
 
+
+
 ![](./images/20200530_CNC751.png)
 
 As for business, Hong Kong’s foreign chambers of commerce were unusually vocal against last year’s extradition bill but now seem to be more muted. Mainland firms will certainly grin and bear it, and they are becoming the backbone of Hong Kong’s economy. The number of foreign firms with their Asian headquarters in Hong Kong fell last year. But in 2018 the number of mainland businesses with offices of any kind in the city eclipsed the number of American firms for the first time (see first chart). Mainland companies accounted for 73% of the Hong Kong stockmarket at the end of last year, compared with 60% five years before. Many mainland firms also turn to the city when selling their bonds (see second chart). In 2018 they were responsible for about 70% of the corporate bonds issued in Hong Kong, says Natixis, a French bank.
+
+
 
 ![](./images/20200530_CNC728.png)
 

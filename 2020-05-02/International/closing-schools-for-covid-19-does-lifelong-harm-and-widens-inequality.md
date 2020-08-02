@@ -30,6 +30,8 @@ Less well-off children everywhere are less likely to have well-educated parents 
 
 Ashley Farris, an English teacher at KIPP high school in Denver, Colorado, says several of “her” kids are virtual truants. Her school worked hard to get students computers and Wi-Fi access, but the digital gap is only part of the story. Some must work to make up for parents’ lost wages. Others must look after younger siblings.
 
+
+
 ![](./images/20200502_IRC387.png)
 
 Closures in Britain could increase the gap in school performance between children on school meals (a proxy for economic disadvantage) and those not on school meals, fears Becky Francis of the Education Endowment Foundation, another charity. Over the past decade the gap, measured by grades in tests, has narrowed by roughly 10%, but she thinks school closures could, at the very least, reverse this progress. At least over summer, teachers are not on tap for anyone. In the current lockdown some students can still quench their thirst for education not just with highly educated parents but also with teachers; others will have access to neither.

@@ -14,6 +14,8 @@ How banks are defined in America has changed over time. Between 1933 and 1999 co
 
 Most of these crises inflicted severe economic pain, not least the subprime fiasco of 2007-09. After it the phrase “too big to fail” entered the modern lexicon—and the popular perception of leviathans pulling the strings of the world’s biggest economy took hold.
 
+
+
 ![](./images/20200725_FNC582.png)
 
 This portrait of utterly dominant and dangerous banks exaggerated their importance and today looks out of date. Banks have become safer—including the investment banks, most of which are now part of big banking conglomerates. And they are being upstaged by a new wave of innovation in capital markets that has changed securitisation and debt issuance and led to more direct lending by other financial firms. As a result banks’ corporate lending as a share of GDP, for example, has stagnated at about 12%, even as they have rebuilt their strength and America Inc has indulged in a borrowing boom (see chart 1).
@@ -32,6 +34,8 @@ Regulation has blunted banks’ competitive advantage. The fact that they were v
 
 As banks have grown risk-averse, non-banks, often tech-savvy, are stepping up. “When you regulate the banks and you leave the rest of the financial system more lightly regulated, there will be regulatory arbitrage,” says Richard Berner of New York University. “But technology has also facilitated a shift because, particularly in the past decade, it has promoted the growth of payments and of bank-like activities outside the banking system.”
 
+
+
 ![](./images/20200725_FNC592.png)
 
 You can gauge this by looking at how the stock of lending by banks and non-banks has slowly changed. America has deleveraged since the financial crisis (see chart 2). That was almost wholly driven by the decline in mortgage debt, held by both banks and non-banks. Corporate debt, though, has reached an all-time high, and the bulk of activity has still been facilitated by shadow banks. Of the stock of debt that companies have added since 2012, that lent by banks has increased by just 2 percentage points of GDP. The stock that the non-bank sector holds has risen by 6 percentage points. Even though banks are now flush with capital and liquidity it is the capital markets that have financed the bulk of the increase in corporate debt.
@@ -39,6 +43,8 @@ You can gauge this by looking at how the stock of lending by banks and non-banks
 A notable shift has taken place in the rest of the world, where capital markets have historically played a smaller role. Since the crisis these have expanded. In 2007 global non-bank financial assets stood at $100trn, equivalent to 172% of GDP and 46% of total financial assets, according to the Financial Stability Board (FSB), a grouping of regulators. Now these assets, at $183trn, constitute 212% of GDP, or 49% of the world’s financial assets.
 
 What counts as a shadow bank? In America banks are now easy to define: they take retail deposits and are regulated by the Fed. They can park cash in accounts with the central bank, and borrow directly from it in times of stress. The term shadow banking, meanwhile, could apply to a range of financial institutions and activities. It includes long-established institutions like pension, insurance, private-equity and hedge funds, as well as newer ones, like exchange-traded fixed-income funds, which provide a vehicle for savers to deposit cash that is then invested in government and corporate bonds.
+
+
 
 ![](./images/20200725_FNC581.png)
 
@@ -68,11 +74,15 @@ The riskiest types of shadow banks, says the FSB, include fixed-income funds and
 
 With a growing number of capital-markets functions and a great deal of credit-provision to firms sitting outside the banking system, policymakers have once again found their customary tools do not work as well as they might like. In the financial crisis, both banks and non-banks were caught up in the panic. This time there has been no concern that banks might fail. Even in the worst case dreamt up by the Fed for this year’s stress tests, core capital ratios fell from an average of 12% across the 33 biggest banks in America to a still-chunky 9.9%.
 
+
+
 ![](./images/20200725_FNC583.png)
 
 Rather than acting as a lender of last resort to the banking system, therefore, the Fed has been forced to act as a marketmaker of last resort. The crisis of 2007-09 was an audition for this role, with some experimental interventions. Now the Fed has intruded into a bewildering array of financial markets (see chart 4). It stepped in to calm the Treasury market, and to revive the corporate-bond market, which had ceased functioning, by promising to buy bonds. It has provided funding to the repo market—where Treasuries are swapped overnight for cash—as it did in September 2019, when the market sputtered. It is providing liquidity to money-market mutual funds, which take cash from individuals and park it in very short-term investments like Treasury bills, in the hope that investors can be paid promptly when exiting such funds. And it has bought up mortgage-backed securities—the ultimate output of retail-mortgage providers.
 
 The Fed was able to soothe investors through the power of its announcements; it has so far lent only $100bn through its schemes. But Stephen Cecchetti and Kermit Schoenholtz, two scholars, have calculated the scale of each of the implicit guarantees. Adapting their figures, we estimate that the Fed has promised to lend, or to buy instruments, to the tune of more than $4trn in credit markets with a total outstanding value of $23.5trn. That is backed by a $215bn guarantee from the Treasury, potentially exposing the Fed to losses.
+
+
 
 ![](./images/20200725_FND003.jpg)
 

@@ -16,6 +16,8 @@ The criminal-justice system is a baleful presence in black lives. The incarcerat
 
 But those are not the only reforms needed to put right the hurt and neglect Dr King spoke of. The economic disadvantage that black America labours under is, in many ways, as stark now as it was 50 years ago. The household income gap is the same as it was in 1968. So is the wealth gap (see chart 1). Crime and the criminal justice system are part of that story of stagnation, as is persistent, if lessened, racism. Changes in individual behaviour and in the economy at large have also played a role. The most important factor is the degree to which the concentrated poverty in largely segregated black communities shuts their members off from opportunity.
 
+
+
 ![](./images/20200711_FBC393.png)
 
 “We got rid of ‘whites only’ signs and legal segregation is no longer possible. But why are we at this moment? There’s a lot of things that didn’t change and probably won’t change with only focus on police brutality and reforming the police,” says Clayborne Carson, a historian at Stanford who edited Dr King’s letters and papers. “Yes, that should be done. But don’t expect that to have any impact on the race problem. It’s the tip of the iceberg. You can have polite police—that would be wonderful. You can have social workers. But unless people have the ability to basically change the opportunity structure, the changes are not going to be apparent.”
@@ -25,6 +27,8 @@ Children who grow up poor—as 32% of African-American children do, a rate nearl
 And for black children in America, as for Native American children, concentrated poverty has been the norm. Only 6% of white children born between 1985 and 2000 spent part of their childhood in neighbourhoods with at least a 20% poverty rate. For black children the figure was 66%, according to Patrick Sharkey, a sociologist at Princeton; experience of such neighbourhoods was normal for middle-class black families. Today’s generation is in a similar position. Twenty-six per cent of black children currently live in neighbourhoods where the poverty rate is higher than 30%. Only 4% of white children do.
 
 Poor neighbourhoods impose environmental costs, as well as social ones. Black families are 70% likelier than the rest of the population to live in substandard housing, and black children are nearly three times as likely to have high levels of lead in their blood, which stunts intelligence and leads to greater violence in adulthood. Compared with white children they are almost one and a half times as likely to have asthma—and five times likelier to die from it. Greater exposure to fine particulate matter—the sort of pollution which most damages lungs—and delays in treatment brought on by a lack of good health insurance may explain why covid-19 now seems to be killing African-Americans at twice the rate of it does white Americans.
+
+
 
 ![](./images/20200711_FBC857.png)
 
@@ -59,6 +63,8 @@ Schools in poor neighbourhoods need particularly good teachers. But the schools 
 Keeping students in college is also an area where a little money can do a lot if applied with good sense. In New York a system that gives students access to an adviser, subway tickets and modest cash grants has been shown to double graduation rates from community college, and to have particularly beneficial effects on black and Hispanic students.
 
 Then there is child poverty. Expanding the earned-income tax credit (EITC), which tops up the wages of working low-income adults, and a universal child tax credit could drastically reduce child poverty—and reduce the tremendous costs to be incurred decades from now in lower tax revenues and higher expenses on incarceration, homelessness services and health care. A programme combining a $2,700 annual child allowance and a 40% expansion of the EITC would reduce child poverty by half, and cost $110bn a year, according to a report by the National Academies. Canada’s implementation of a similar programme in 2016 took just two years to reduce child poverty by a third.
+
+
 
 ![](./images/20200711_FBP003_0.jpg)
 

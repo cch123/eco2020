@@ -24,6 +24,8 @@ Many governments are using new tools to help struggling businesses. Corporate ba
 
 China, without any fanfare, is in fact leaning on state-owned banks. The total amount of new credit issued last month was equivalent to 5% of last year’s GDP—the highest for any month since 2010, the tail-end of a giant stimulus. Arrangements are often discreet. The Golden Eagle executive says that in late February a group of bankers came to the mall to determine which tenants they could prop up.
 
+
+
 ![](./images/20200418_FNC241.png)
 
 With such backstops in place, the financial fallout from the outbreak has been limited so far. The peak-to-trough drop in China’s stockmarket was 16%, less than half of America’s plunge. Credit spreads exploded in Western bond markets; in China they have barely widened (see chart). Defaults have been rare. In the past two months just four companies missed bond payments in China for the first time, less than half as many as during the same period last year. “In the bad times you see more advantages of the system,” says Yu Yongding, a former adviser to China’s central bank.

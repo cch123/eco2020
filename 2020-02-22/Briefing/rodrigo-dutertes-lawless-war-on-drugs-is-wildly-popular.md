@@ -16,6 +16,8 @@ The police, for their part, reported more than 23,000 “homicide cases under in
 
 In all this uncertainty, the costs of the bloodshed to Mr Duterte’s reputation are much easier to gauge. There have been almost none. Filipinos harbour few illusions about the drugs war. Polls published by SWS last month found that more than three in four see “many” human-rights abuses in the campaign; an even higher share believes that “ninja cops” sell on the drugs they have confiscated. Nevertheless, most Filipinos—including, often, people whose families have lost loved ones—continue to support the campaign and the man who promised it to them. More than three years into his six-year term he remains consistently popular. Filipino presidents often enjoy popularity for their first few years in office before falling quickly from grace, as Mr Duterte’s immediate predecessor, Benigno Aquino III, did (see chart 1). Mr Duterte looks likely to maintain his touch to the end.
 
+
+
 ![](./images/20200222_FBC209.png)
 
 If Mr Duterte’s remarkable rhetoric—in office he has labelled both the pope and Barack Obama sons of whores, called God “stupid” and offered to eat the liver of a terrorist—and explicit encouragement of extrajudicial killing outrages some in the country’s political elite, their disquiet does not count for much with the people. Indeed, what looks like hand-wringing may bolster the president’s support.
@@ -25,6 +27,8 @@ The voters elevated Mr Duterte from mayor of Davao, a tough city on the southern
 Mr Duterte’s vulgar hyperbole—by his own estimate, only two in every five of his statements are true—showed that there was a new type of player on the court. But his aggressive populism does not alienate the middle class and university graduates: indeed they cleave to him. His sexism does not seem to put off women any more than his blasphemy and anticlericalism puts off the four in five Filipinos who still declare themselves Catholic.
 
 Term limits mean Mr Duterte cannot capitalise on this with a second election campaign when his six years are up in 2022. Instead he has a “legacy campaign” launched with a huge shindig in Manila on January 17th. Beyond the chilling discovery that the public has supported his brutality in deed as well as word, what sort of legacy will it be?
+
+
 
 ![](./images/20200222_FBC213.png)
 
@@ -41,6 +45,8 @@ Senate elections are hard slogs, with all the candidates competing nationally. A
 For all that Mr Duterte presents himself as an outsider unfamiliar with Manila’s swamp, it is from this world of established power that he comes. He mastered local politics as a scion of a well-nested family in Mindanao, the poorest part of the country; his father was, for a time, a provincial governor there. Originally a prosecutor, Mr Duterte was appointed to his first political job in 1986, when he was 40. He ran for mayor of the island’s largest city, Davao, two years later and dominated its politics for more than two decades, avoiding pesky term limits by switching jobs with his daughter. For a while he became a member of congress, just for a change.
 
 The city provided a base in which to establish his reputation. He introduced a public smoking ban and a curfew after 10pm for loiterers and youngsters. His first campaign against drugs took place there: tales of its brutal tactics helped secure his presidential victory.
+
+
 
 ![](./images/20200222_FBC214.png)
 
@@ -67,6 +73,8 @@ In 2018 his daughter, Ms Duterte-Carpio, founded a loose coalition called Hugpon
 The intensity of his efforts may stem from persistent anxiety over the president’s health. In the past Mr Duterte has used fentanyl to help him cope with back pain. In 2018 he did little to curb speculation that he might have cancer after receiving a colonoscopy. In October he spoke about suffering from a chronic autoimmune disease, and was forced to cut short a trip to Japan owing to “unbearable pain” caused by a motorcycle fall.
 
 If he survives to retirement, Mr Duterte will be keen on a less litigious, and indeed carceral, one than those endured by his three most recent predecessors. Mr Aquino has faced various charges related to government spending on infrastructure projects and, separately, to a botched counter-terrorism operation in 2015. His predecessor, Gloria Macapagal Arroyo, spent nearly five years in detention until the supreme court acquitted her of misusing state lottery funds in 2016. While in office Ms Arroyo pardoned her predecessor, Joseph Estrada, who was sentenced to life in prison for plunder in 2007.
+
+
 
 ![](./images/20200222_FBP003_0.jpg)
 

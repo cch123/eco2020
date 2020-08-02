@@ -42,6 +42,8 @@ Cynthia Dearin, a consultant in Australia who spent four years in Iraq between 2
 
 Those who have willingly isolated themselves in less traumatic circumstances may provide examples of how to ease the current crisis. In addition to the loneliness they experience, astronauts, who spend prolonged periods away from their loved ones or indeed any other human beings, suffer from disturbed sleep, heart palpitations, anxiety and mood swings. Cooped up together, they may also fall out with their fellow crew members.
 
+
+
 ![](./images/20200404_IRD002.jpg)
 
 Couples who suddenly find themselves in enforced proximity may sympathise. There are reports that some cities in China, such as Xi’an and Dazhou, have seen a spike in divorce proceedings since the lockdown was lifted in parts of the country in early March. Writing in the New York Times, Scott Kelly, a former astronaut who spent a year on the International Space Station, suggested that keeping a routine and writing a journal can help ease loneliness. He also encouraged people to get outside, if they could. He found that after “being confined to a small space for months, I actually started to crave nature—the colour green, the smell of fresh dirt, and the feel of warm sun on my face.”

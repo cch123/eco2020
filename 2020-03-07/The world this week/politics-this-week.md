@@ -22,6 +22,8 @@ Colombia’s Constitutional Court decided not to legalise abortions during the f
 
 Spain agreed to an extradition request from the United States for Hugo Carvajal, a former head of Venezuelan intelligence, whom the Americans suspect of drug-trafficking. Mr Carvajal fled Venezuela and was arrested in Madrid last year. In Venezuela, Nicolás Maduro, the dictator, urged women to have six children “for the good of the country”. Food shortages under the socialist regime have led to widespread malnutrition among children.
 
+
+
 ![](./images/20200307_WWP002.jpg)
 
 Binyamin Netanyahu, the prime minister of Israel, claimed victory in the country’s third parliamentary election in a year. His party, Likud, won 36 seats, compared with 33 for its main rival, Blue and White. But Mr Netanyahu’s alliance of nationalist and religious parties did not win a majority of seats, so he will struggle to form a government. See [article](https://www.economist.com//middle-east-and-africa/2020/03/05/binyamin-netanyahus-party-has-come-out-on-top-in-israels-election).

@@ -14,6 +14,8 @@ Editor’s note: Some of our covid-19 coverage is free for readers of The Econom
 
 Across the rich world nearly half of all deaths from covid-19 have happened in care and nursing homes, even though less than 1% of people live in them. In Canada 80% of all the deaths from covid-19 have happened in places such as Camilla (see chart 1). In Britain the pathogen has killed an estimated 5% of all people living in such institutions. The problem is not only that the residents’ age makes them particularly vulnerable, but also that their living arrangements created opportunities for the virus to spread. Countries with fewer care homes have had fewer covid-19 deaths, all else being equal. The number of care-home beds explains 28% of the variation in death rates among European countries and 16% among American states, according to a study by Neil Gandal and colleagues at Tel Aviv University.
 
+
+
 ![](./images/20200725_IRC594.png)
 
 Politicians are under pressure to put more cash into care-home safety, inspections and quality standards. In the short term care homes will need more personal protective equipment (PPE) and better access to testing. But the disaster also offers a chance to reimagine care. In the future, many experts argue, the vast majority of old people should be looked after at home for as long as possible. In all but the most severe cases this is cheaper. It is also what most old people want. Putting them in big institutions is the opposite of what they say they value most: autonomy and independence. And for those who still need it, residential care should be transformed.
@@ -48,6 +50,8 @@ Daan Livestro, a consultant at Gupta Strategists, estimates that 25-60% of care 
 
 There will always be people who want or need residential care. In those cases “smaller is often better”, says Dr Grabowski. Research shows that smaller nursing homes use fewer restraints, see fewer infections and have more satisfied residents than larger ones. Small institutions promote closer friendships between residents and closer connections with staff.
 
+
+
 ![](./images/20200725_IRD002_0.jpg)
 
 In Tupelo, Mississippi, residents of the Green House wake up to the smell of bacon, cinnamon and fresh coffee. The constant smell of baked goods in the open kitchen is deliberate; declining appetite can be a problem in old age. “I’ve seen people come from traditional nursing homes and they start eating again, they start walking again and they start talking again,” says Steve McAlilly, one of the founders. The Green House consists of ten homes, each with 10-12 housemates. There are no vinyl floors, no dinners on trays and no bingo. “Do you have planned activities in your home?” asks Mr McAlilly. “If it isn’t in a home it isn’t in a Green House.” Bill Thomas, an American geriatrician who founded the Green House movement in 2003, calls himself a “nursing home abolitionist” and says he is guided by two principles: “It is better to live in a house than a warehouse,” and “People should be the boss of their own lives.” Care homes that follow the Green House model now exist in more than 30 American states.
@@ -59,6 +63,8 @@ Technology could help improve residential care, even as it reduces the number of
 In southern Tokyo, in a bland conference room on the tenth floor of a grey office tower, a robot glides towards visitors and announces: “The food you ordered has arrived.” The Future Care Lab was set up by Sompo, one of Japan’s largest insurers. It has experimented with labour-saving devices such as a self-cleaning bath and a wheelchair that turns into a bed. It has also invented a pad that when placed under a mattress monitors breathing, heart rate and quality of sleep. A nursing home that tested it last year said that it reduced the time staff had to spend “patrolling” its 54 rooms from seven hours a day to 20 minutes. Residents slept better because staff no longer routinely woke them up.
 
 Improving care will not be cheap. But settling for bad care only stores up costs for later. Research in America links a 10% cut in Medicaid reimbursement to a nearly 10% decline in older people’s ability to do things such as walk and bathe, as well as a 5% increase in persistent pain. Each month the health system in Britain loses about 83,000 hospital days to “bed-blocking” that results when elderly patients who are no longer sick enough to remain in hospital get stuck there because no good care is available outside of it.
+
+
 
 ![](./images/20200725_IRC545.png)
 

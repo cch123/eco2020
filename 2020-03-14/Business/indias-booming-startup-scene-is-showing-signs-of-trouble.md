@@ -12,9 +12,13 @@ WHEN ITINERANT venture capitalists land at Delhi airport, many head straight to 
 
 What Delhi’s tech parks lack in the splendour of India’s historic business hub, in south Mumbai, they make up for in unpotholed roads, uninterrupted mobile connections and stable broadband. Between 2017 and 2019 the capital spawned 2,562 startups, according to Tracxn Technologies, a data provider. Other clusters, notably in Bengaluru, Mumbai, Hyderabad, Pune and Chennai, added a further 4,500 or so between them. India now has 80,000 startups (see chart 1). They raised $10bn in 2019, up from $3.1bn in 2012 (see chart 2). That puts India’s venture capital (VC) activity behind America ($114bn) and China ($34bn) but ahead of larger economies such as Germany or France.
 
+
+
 ![](./images/20200314_WBC420.png)
 
 PitchBook, a research firm, counts 18 unlisted “unicorns”, valued at more than $1bn apiece, grazing in India. They are worth a combined $72bn. Bright engineers and managers now aspire to work for them—or their VC backers—rather than settle for safe careers at a multinational, a bank or a state-run firm. Another 150-odd “soonicorns” may reach the $1bn mark shortly. They promise free cappuccinos, excitement—and, for a lucky few, riches. They may reconfigure parts of the national economy. Mohandas Pai, a VC-wallah and former finance chief of Infosys, a local tech giant, predicts that within a decade India’s startups will help triple its GDP.
+
+
 
 ![](./images/20200314_WBC419.png)
 
@@ -23,6 +27,8 @@ Mr Pai is not alone in his bullishness. India’s business press revels in tales
 The Indian VC scene has come a long way. In 2005, when Rajan Anandan, a partner at Sequoia Capital, a Silicon Valley VC titan, returned to India after a spell in America, all-important early-stage VC was close to non-existent. Foreign firms began to fill the gap. Californian stalwarts, including Accel, Matrix, Lightspeed, Bessemer and Norwest, have since set up mostly autonomous Indian offices. So have Singaporean sovereign-wealth funds, Temasek and GIC; Chinese tech giants, Tencent and Alibaba; and, inevitably given its startup covetousness, SoftBank of Japan. They have been joined by powerful local firms such as Blume Capital. Giant Indian conglomerates such as Tata, Reliance and Mahindra have launched VC arms. VC types say they get more than 5,000 pitches a year.
 
 Most of the money has gone into familiar platforms: ride-hailing (Ola), food delivery (Swiggy, Zomato), online grocers (bigbasket), car rental (Zoomcar), online education (Byju’s). The first new unicorn of 2020, HighRadius, offers software-as-a-service (SaaS), another tested business model which provides companies with things like accounting or customer support via the computing cloud.
+
+
 
 ![](./images/20200314_WBC430.png)
 

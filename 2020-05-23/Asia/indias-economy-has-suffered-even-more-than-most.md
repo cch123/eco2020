@@ -16,6 +16,8 @@ Already, however, India has paid a heavier economic price for the lockdown than 
 
 Goldman Sachs, a bank, expects the economy to contract by 45% this quarter at an annualised rate, and by 5% over the full year, assuming a big bounce in the second half. The National Council of Applied Economic Research, a think-tank in Delhi, predicts a contraction of 12.5% this fiscal year unless there is a huge stimulus.
 
+
+
 ![](./images/20200523_ASC668.png)
 
 Recognising the pain, Narendra Modi, the prime minister, on May 12th pledged an almost mythical-sounding 20 lakh crore rupees of fresh government spending, equivalent to $265bn or 10% of GDP, to reignite growth. Over the next five days a bank of finance-ministry officials faced cameras, unveiling slice after slice of measures, carefully designed to add up to Mr Modi’s magic number.

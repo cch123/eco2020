@@ -26,6 +26,8 @@ Using the emissions disclosed by these companies, we estimated emissions for non
 
 Totting everything up reveals that each year publicly traded companies emit greenhouse gases equivalent to 10bn tonnes of carbon dioxide from their operations (see chart 1). Perhaps a quarter of those are produced by listed firms that are majority owned by governments. That leaves eight gigatonnes of emissions that stock markets can influence directly. That is 14% of the world’s total emissions, or 19% of the emissions related to energy use and industrial processes. (Those estimates undercount oil emissions. If you add the emissions from the oil sold by institutionally controlled energy firms, part of what is called “scope three” emissions, then it increases to 23% and 32%, respectively.)
 
+
+
 ![](./images/20200620_BBC900_0.png)
 
 Where are the rest of the emissions coming from? In large part from consumers of those companies’ wares. An oil company’s scope-one emissions include all the carbon dioxide and methane it gives off in its operations, but not the carbon dioxide given off when its wares are burned in engines and boilers. Attempts to take this into account are found in the scope-three disclosures, which cover the entire value chain of a business from the extraction of its raw materials through its suppliers and on to its end users.
@@ -35,6 +37,8 @@ Only two-fifths of the firms in the S&P 500 and half of those in the Euro Stoxx 
 Large scope-three emissions point to business models that depend on either suppliers or customers emitting greenhouse gases in bulk. This makes them hard to change. A company can reduce its scope-one emissions by changing its internal processes, and its scope-two emissions by changing its electricity supplier—for example, choosing one that uses a lot of renewable energy sources or nuclear power plants. To change its scope-three emissions, though, it needs to change either the practices of its suppliers or, harder still, what it sells.
 
 The first may be feasible through investment. The Swedish furniture retailer IKEA has a €200m ($224m) fund to help its suppliers transition to using renewable energy, among other things. Changing what happens downstream, though, may be harder. As long as BHP goes on selling iron ore to steelmakers who use coal to smelt it, BHP will have high scope-three emissions; as long as Royal Dutch Shell sells oil and gas it will, too.
+
+
 
 ![](./images/20200620_BBD002_0.jpg)
 
@@ -50,6 +54,8 @@ Hortense Bioy of Morningstar, a research firm, says that in Europe there are abo
 
 Nevertheless, carbon intensity may be a useful measure (see chart 2). The Economist looked at data from firms that disclose their operational emissions in the S&P 500 and Euro Stoxx 600. Calculating carbon intensity on a variety of measures shows that greener firms trade at a premium. Whether that means better returns in the long run, though, remains inconclusive.
 
+
+
 ![](./images/20200620_BBC088.png)
 
 Perhaps the most obvious avenue for green investing is in firms whose technologies replace those that emit greenhouse gases on a grand scale. Renewable energy is one obvious possibility, but one which does not at the moment offer a wide range of choices to investors. Only three firms in the S&P 500 produce renewable energy, making up less than 1% of the index’s market capitalisation. Even among private-equity and venture-capital firms only $11bn were invested in renewables in 2019, according to BloombergNEF, a consultancy.
@@ -63,6 +69,8 @@ So far, these tests are not producing results as worrying as some might have exp
 It is also possible that the risks are not, in fact, that catastrophic. There are clearly businesses which will not survive serious action on climate change. For the world to limit warming to 2°C nine-tenths of today’s coal reserves will have to stay in the ground, according to JPMorgan. But this hardly means that, in Mr Hohn’s words, “Coal is the new subprime.” Western banks tend to have little exposure to the energy sector. The biggest ten have between 8-14% of the total credit exposure of all listed energy firms. Their share of exposure to coal will be even smaller.
 
 Chinese banks probably have a much bigger share, though disclosure is patchy at best. One analysis by UBS, a bank, found that between January 2014 and September 2017, 60% of the financing for the world’s biggest 120 coal-plant developers came from Chinese banks. The next-biggest lenders were Japanese banks (8%) and Indian ones (7%).
+
+
 
 ![](./images/20200620_BBC998.png)
 

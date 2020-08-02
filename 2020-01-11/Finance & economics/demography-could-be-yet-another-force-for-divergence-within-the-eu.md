@@ -28,6 +28,8 @@ These demographic disparities worsen economic divides. Southerners start in a po
 
 Most central and eastern countries are outside the currency union. But here too there are strains. EU membership promised speedy catch-up towards western European levels of income. But the IMF reckons that the annual growth rate of GDP per person will be up to a percentage point lower because of demographic decline, slowing convergence. Many of these newish members were initially keen on free movement. But after losing working-age people to Europe’s north and west, they are cooling on it. Croatia, which lost 5% of its population in the three years after it joined in 2013, wants the union to discuss tackling the effects of demographic decline.
 
+
+
 ![](./images/20200111_FNM913.png)
 
 Migration within the EU, as in America, has seen workers move to more dynamic cities and regions. Research by the Centre for European Reform suggests that less successful places tend to be older and less productive. The EU has a pot of money to ensure “cohesion”, but it is small and less equipped than national budgets to redistribute from winners to losers.

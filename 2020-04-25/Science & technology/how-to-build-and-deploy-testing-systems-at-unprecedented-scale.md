@@ -28,6 +28,8 @@ The Rockefeller plan suggests current testing numbers in America can be tripled 
 
 Some states are already doing this. Those with big research universities, such as Massachusetts (home to Harvard and the Massachusetts Institute of Technology, MIT, among others), have an advantage here. The Broad Institute, a joint MIT-Harvard enterprise run by Eric Lander, one of the leaders of the Human Genome Project, has begun doing SARS-CoV-2 tests and might, when up to speed, be able to manage to do 1m of them a day. In other places commercial laboratories could be put to the task. In Wisconsin Exact Sciences, a firm that specialises in cancer tests, has rejigged a large part of its laboratory to process 20,000 covid-19 tests a week.
 
+
+
 ![](./images/20200425_STC307.png)
 
 Making more use of so-called point-of-care machines would be another way to increase testing capacity. These small boxes are already used to test for viruses in thousands of hospitals and clinics around the world, and adapted versions have recently been introduced to detect SARS-CoV-2. Point-of-care machines can process throat swabs in around 15-30 minutes. Ramping up production of them would be useful in bringing testing capacity to, say, rural areas where collecting and returning throat swabs to a big central laboratory might take too long. The supply chains for electronics and reagents for these machines, however, rely heavily on China, and so building more of them now might not be easy.
@@ -35,6 +37,8 @@ Making more use of so-called point-of-care machines would be another way to incr
 The jump from 3m tests per week to 30m will need big, new labs on the scale of the Broad to be dotted around the country. Each of these would process hundreds of thousands of tests a day, using robotics and automation. Testing needs to become simpler, too. Collecting samples for RT-PCR tests is invasive, and the tests themselves are complicated. Scaling the process up to millions a day is an “impossible” mission according Severin Schwan, the boss of Roche, a Swiss pharmaceutical giant that makes point-of-care testing machines.
 
 Other testing methods are possible, but as yet unproven. Scientists at Rutgers University in New Jersey recently demonstrated a way to look for signs of the virus in spit samples (which are easy to obtain) instead of throat swabs (which are notoriously difficult and uncomfortable to collect). On April 13th America’s Food and Drug Administration (FDA) granted spit tests an emergency-use authorisation. Generic spit kits that can be tweaked to do this are already widely available and can be transported to processing laboratories at ambient temperatures.
+
+
 
 ![](./images/20200425_STP003.jpg)
 

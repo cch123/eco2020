@@ -14,6 +14,8 @@ America’s youngest senator then is now its oldest ever presumptive nominee as 
 
 President Donald Trump is a highly divisive figure. He is the only president in modern history to never have seen more than 49% of the population approve of his performance in the role (see chart); his current rating is around 40%. At 74 he is the oldest president ever to stand for re-election, which goes some way to neutralising concerns about Mr Biden’s age. He is also the first ever to seek re-election after being impeached. Stories that might have destroyed another presidency—tear-gassing peaceful protesters for a photo opportunity, asking the president of China for help in re-election—seem to break around his ears every few weeks.
 
+
+
 ![](./images/20200704_FBC280_0.png)
 
 On top of an extraordinary incumbent, extraordinary times. America’s covid-19 epidemic has, so far, cost the country over 120,000 lives. Not yet controlled, it could claim almost that many again by election day. Mr Trump had hoped to run on a booming economy, and had he been able to he might well have won, despite his lack of broad support. Instead, he will run in a country ravaged by a misfortune he has done too little to deal with and blighted by unemployment and bankruptcy. Social distancing’s constraints have created a campaign unlike any other. An unprecedented number of Americans will vote by mail, a development that has already seen Mr Trump whipping up false fears of fraud.
@@ -29,6 +31,8 @@ He will also be attacked on policy. Mr Biden has always sat close to his party�
 Many on the party’s progressive wing give him little credit for this. In the primaries, they wanted to abolish private health insurance; today, many want to defund police departments. Some warn, or threaten, that if he fails to take a turn to the left on such causes he risks losing the election. Aimee Allison, who heads She the People, an organising and advocacy group for women of colour, urges Mr Biden to “meet the moment [and] turn protesters into voters. If he doesn’t...he’s not going to be able to close this fatal enthusiasm gap he has now.”
 
 There are two problems with this. One is that the Democrats’ greatest recent success, winning back the House in 2018, was brought about not by progressives who retained safely Democratic seats but by centrists taking seats previously held by Republicans. The voters they won over then are the sort of people Mr Biden needs now. The second is that it would be inauthentic. Mr Biden’s persona is that of a moderate: a decent, reassuring figure running, as he often says, to “restore America’s soul”, and offering, as a surrogate put it, “a return to civility.” That is the Joe Biden for whom a majority of Americans twice voted when he was on the same ticket as Mr Obama.
+
+
 
 ![](./images/20200704_FBC908_0.png)
 
@@ -57,6 +61,8 @@ Not all change needs legislation. Mr Biden could roll back the Trump administrat
 Foreign policy, where presidents have the greatest room for manoeuvre, would provide Mr Biden with his comfort zone. Decades as a member of the Senate’s foreign-relations committee and then as vice-president mean that he knows the game and many of the players. Neither the tactics of the opposing teams nor the state of the pitch, though, are as he left them. China is a far more assertive power; Russia has been able to interfere in American elections with minimal retribution. And the pandemic spreads on.
 
 Mr Biden believes the world’s democracies want America to reassert itself in the role, abandoned by Mr Trump, of their leader and protector. He is unlikely to prove it so through force of arms, any more than Mr Obama chose to. But simply playing the part should prove a first step.
+
+
 
 ![](./images/20200704_FBD002_1.jpg)
 

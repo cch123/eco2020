@@ -14,6 +14,8 @@ It is the worst locust invasion in decades for Kenya, Ethiopia and Somalia. One 
 
 The insects eat a lot. A swarm the size of Paris consumes the same amount of food in one day as half the population of France. Crops such as millet, sorghum and maize are a big part of their diet, making life even harder for the 12m or so people in Ethiopia, Kenya and Somalia who are already hungry (see map). Northern Uganda and South Sudan are also at risk; swarms are just 200km away and moving fast.
 
+
+
 ![](./images/20200201_MAM937_1.png)
 
 Tempting as it may be to blame God, there are more obvious culprits. The swarms were first noticed a year and a half ago in the Arabian peninsula. Last July the FAO warned that they “could migrate from Yemen in the autumn to the Horn of Africa and reach Kenya by the end of the year, unless urgent preventive and control measures are established in the region.” They weren’t. The organisation appealed to rich countries for funds to contain the bugs. But little cash arrived.

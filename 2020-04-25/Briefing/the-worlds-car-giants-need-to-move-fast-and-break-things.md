@@ -14,9 +14,13 @@ Most carmakers were fitter going into this crisis than the last recession a deca
 
 The immediate concern is survival. Firms are tapping old and new credit lines despite high borrowing costs. Ford, an American firm, is paying a punishing 9% interest on its newly issued bonds. The price of insuring its debt against default has soared since December. Other companies, too, have seen their creditworthiness increasingly questioned.
 
+
+
 ![](./images/20200425_BBC326_0.png)
 
 They have no choice but to borrow. Credit Suisse, a bank, expects GM and Ford to burn through $10bn and $14bn of cash, respectively, in the first half of 2020. France’s PSA Group, which reported first-quarter results on April 21st, and enjoyed record profitability before production stopped, used up €4bn ($4.4bn) of cash between January and March, leaving it with gross liquidity of €19bn. Analysts at Jefferies, a bank, estimate that the eight biggest carmakers in Europe and America could, in all, burn over $50bn of cash in the second quarter. At that rate, they may run out of money by the end of the year (see chart 2).
+
+
 
 ![](./images/20200425_BBC325_0.png)
 
@@ -25,6 +29,8 @@ Companies are cancelling dividends and begging governments for assistance. Acros
 At least factories are opening after having been shut for weeks. Those in China are already up and running. Chinese dealerships are, too. Early signs offer some encouragement. Chinese sales collapsed by 80% in February, year on year, according to the China Passenger Car Association, an industry body. In March they were down by two-fifths—still dismal but less so. April promises to be better. In the first 19 days of the month sales were down by just 7% from the same period last year.
 
 
+
+https://embed.acast.com/theeconomistmoneytalks/moneytalks-peakcar-
 
 Even if sales recover, scars will remain. Capacity utilisation in Chinese factories was already low by global standards, at 75%. It is surely even lower now—possibly below the 65% that, according to an industry rule of thumb, carmakers need to break even. Social distancing is hard on an assembly line, where even highly automated procedures, such as robotically attaching windscreens, require half a dozen workers in attendance.
 

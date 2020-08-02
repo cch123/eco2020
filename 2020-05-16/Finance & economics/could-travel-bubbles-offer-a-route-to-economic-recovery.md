@@ -24,6 +24,8 @@ But in the same way that regional trade deals are more efficient than bilateral 
 
 The first is in the Asia-Pacific region, where countries from Japan to New Zealand have recorded fewer than ten new infections per 1m residents over the past week. The second is in Europe: using a laxer threshold—fewer than 100 new cases on the same basis—the bubble could reach from the Baltic to the Adriatic, and take in Germany (see map). Our Asia-Pacific bubble would, thanks to China and Japan, account for 27% of global GDP. Our European one would make up 8%.
 
+
+
 ![](./images/20200516_FNM964.png)
 
 One measure of the potential value of the bubbles is their degree of trade integration, showing whether the economies are complementary. For the countries in our Asia-Pacific bubble, an average of 51% of their overall trade is with each other. In our Baltic-to-Adriatic bubble, it is 41%. Small countries would gain the most by reconnecting with larger neighbours.

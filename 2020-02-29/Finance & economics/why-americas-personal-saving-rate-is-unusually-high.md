@@ -14,6 +14,8 @@ Saving typically rises during the bad times and falls during the good. The finan
 
 One commonly heard explanation for higher saving relates to inequality. Poorer people may save little or nothing—research from the Federal Reserve suggests that 12% of adults would be unable to cover a $400 emergency expense. Rich people, by contrast, tend to save a big share of their income. A body of evidence suggests that in recent years the rich have taken a greater share of total income, thereby dragging the overall personal-saving rate upwards. Still, rising inequality is at best an incomplete explanation for America’s savings puzzle. As the chart shows, saving was far higher in the 1970s, yet inequality was lower.
 
+
+
 ![](./images/20200229_FNC309.png)
 
 The financial system may play a more important role. In recent years many Americans have found it more difficult to access credit. From 2008 banks tightened lending standards on consumer and credit-card loans. The median credit score for both mortgages and car loans is higher than it was before the crisis. It is now more difficult for middle-income households to spend beyond their means.

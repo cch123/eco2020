@@ -16,7 +16,11 @@ There is only one catch. There was no professor. Both he and his apartment were 
 
 In countries where old homes and objects often stay in the same family, such a project might come across as false or redundant. In Russia, where family histories were cut to shreds by the 20th century’s man-made disasters, holding on to the past is a fixation. “We try to preserve a past that can disappear at any moment,” says Katerina Kirsanova, the museum’s curator.
 
+
+
 ![](./images/20200208_BLP507.jpg)
+
+
 
 ![](./images/20200208_BLP506.jpg)
 

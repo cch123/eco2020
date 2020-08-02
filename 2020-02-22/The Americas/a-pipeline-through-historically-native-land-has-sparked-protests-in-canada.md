@@ -14,6 +14,8 @@ The pipeline is an “invasion”, detractors say, because about a quarter of it
 
 None of this has scuppered the plans, but it has disrupted the economy and embarrassed the Liberal government. Canadian National Railway (CN) shut down lines in the east of the country and temporarily laid off about 450 workers; Via Rail, a passenger service, is doing the same to nearly 1,000. Food, heating fuel, farm exports and commodities are gridlocked. Cars and ships have been unable to get through bridges, ports and the border with the United States. Public sentiment is against the protesters, reckons Janice, a regular rail rider who missed work because of cancellations. A court granted CN an injunction against demonstrators on its rail line in Alberta; fed-up counter-protesters have tried to dismantle blockades themselves.
 
+
+
 ![](./images/20200222_AMM966.png)
 
 Justin Trudeau, the prime minister, has asked for patience. He missed the first week or so of chaos because he was abroad, lobbying for a seat on the UN Security Council. Mounting pressure forced him to cancel his next stop, to Barbados, and hold crisis talks in Ottawa. This is a thorny issue for Mr Trudeau, because he must juggle a trio of promises. He has promised to promote reconciliation with indigenous people—he calls their relationship with the government Canada’s most important. But he has yet to unveil a new set of rules for that relationship that was expected before last year’s election. He has promised to protect the environment, but the pipeline will carry a fossil fuel, which many greens would rather leave in the ground. And he has promised to boost economic growth, which exporting gas would obviously help.

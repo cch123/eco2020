@@ -12,6 +12,8 @@ NO AMERICAN COMPANY makes as much money in China as Apple. While few make that m
 
 The virus that has swept across the country is doing just that, hurting both manufacturing operations and sales of iPhones in Apple’s second-biggest market. Many of the migrant workers on whom Apple and its contract manufacturers depend have not yet returned to their posts as the movement of people is restricted by the government. Shoppers have not yet returned to the streets. As a result, on February 17th Apple warned investors that it would miss its revenue guidance for the quarter. The firm’s shares, which have been on the ascent since last summer, dropped by nearly 2% after the announcement.
 
+
+
 ![](./images/20200222_WBC377.png)
 
 The short-term threat to Apple’s business in China is best understood against the backdrop of the firm’s longer-term success. Apple’s Chinese fortune was built in the first half of the past decade, when its revenues in the country grew from $2.8bn in 2010 to $59bn in 2015. Sales have slipped in subsequent years (see chart), but were still sufficient for the Chinese market to account for 18% of Apple’s total revenues over the past ten years, second only to America. Apple says that it is gradually reopening its retail shops and that all of its iPhone manufacturing sites have reopened too, although their ramp up is going more slowly than it anticipated. Even if the virus outbreak proves to be no more than a blip, the 2020s are unlikely to treat Apple so well.

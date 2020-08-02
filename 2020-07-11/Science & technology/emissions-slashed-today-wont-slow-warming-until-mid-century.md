@@ -18,6 +18,8 @@ Running these simulations over and over again in order to get statistically reli
 
 Reducing CO₂ by 5% per year, starting this year, would produce a statistically significant deviation from what temperatures would have otherwise been only in 2044. And yet, even that rate of CO2 reduction is ambitious, on a par with the 4-7% drop estimated this year as a result of the covid-19 pandemic and widespread economic shutdowns. Before this, annual emissions were creeping up. Without concerted efforts from governments, they are likely to rise again as economies reopen.
 
+
+
 ![](./images/20200711_STC368.png)
 
 One reason for the delayed effect of slashing emissions is natural variability in the climate. Whether one year is warmer or cooler than the previous is not simply down to greenhouse gases. Large-scale natural climate effects also play a role (El Niño and La Niña are perhaps the best-known examples), warming and cooling the planet in a cyclical fashion by fractions of a degree. Depending on their phase, the warming of greenhouse gases is either masked or compounded by these kinds of natural effects. As emissions begin to drop, natural variability will also mask any slowdown of global warming that results. Dr Samset’s modelling took this into account.

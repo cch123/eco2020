@@ -6,6 +6,10 @@
 
 > Jun 11th 2020
 
+
+
+https://infographics.economist.com/2020/20200613_GDC101/index.html
+
 ONE OF THE factors slowing progress against climate change is a lack of corporate accountability. In the Amazon rainforest, which absorbs 3% of global carbon emissions, a France-size swathe of foliage has vanished since 1970. Nearly all deforestation in Brazil today is illegal. But we do not know which firms use suppliers that operate on illegally cleared land [(see article)](https://www.economist.com//the-americas/2020/06/11/how-big-beef-and-soya-firms-can-stop-deforestation). Even beef exporters are in the dark: they mostly record where their cattle were fattened, not where they were reared.
 
 Fortunately, plausible deniability is becoming harder to sustain. Trase, a research initiative led by Global Canopy and Stockholm Environment Institute, two non-profits, has analysed Brazil’s supply chains, stretching from newly cleared land in the Amazon and cerrado (a leafy savannah) to ports overseas. In a forthcoming report, conducted with ICV and Imaflora, two Brazilian institutes, Trase finds that the bulk of soyabean exports from one state ravaged by illegal deforestation ends up in the hands of a few big companies, some of which trade on Western stockmarkets.
@@ -23,6 +27,8 @@ In Brazil, beef causes six times more deforestation than soya does. Trase has al
 However, these companies acquire a majority of their beef from firms that do not rear all of their cattle themselves. And these suppliers’ own suppliers are much harder to monitor. If exporters wish to prove they act responsibly from farm to fork, they will need to obtain and share data about their chains’ missing links. ■
 
 Sources:Trase; Global Canopy; Stockholm Environment Institute; ICV; Imaﬂora
+
+
 
 ## URL
 

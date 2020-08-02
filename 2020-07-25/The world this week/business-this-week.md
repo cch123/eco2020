@@ -14,6 +14,8 @@ United joined Lufthansa, American Airlines and British Airways in calling for co
 
 Intesa Sanpaolo, Italy’s second-biggest bank, improved its takeover proposal for UBI Banca, the fifth biggest. It is trying to entice UBI’s shareholders by increasing the cash element of its deal; its website is running a countdown to the offer’s expiration on July 28th. Intesa thinks a merger will help the banks cope better with “new complex scenarios” resulting from the pandemic.
 
+
+
 ![](./images/20200725_WWC588.png)
 
 Tesla’s sales stayed steady in the second quarter, bucking the trend of plunging revenues among carmakers, possibly helped by its controversial defiance of the lockdown to restart production. The company reported net income of $104m, marking the first time it has made a profit in four consecutive quarters. It also announced that its second car factory in America will be based near Austin, Texas.

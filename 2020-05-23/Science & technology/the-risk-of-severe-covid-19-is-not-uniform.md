@@ -16,6 +16,8 @@ The lockdowns to stop covid-19 have been a radical departure from the tenets of 
 
 Who these high-risk individuals are is now becoming clearer, as research from around the world piles up. Some of the strongest evidence is from a study published on May 7th by Ben Goldacre of Oxford University and his colleagues. This looked at the medical records of more than 17m people in Britain, about 6,000 of whom had died from the new illness. The Goldacre study confirmed previous suspicions that mortality risks are particularly high (after accounting for old age, smoking and poverty—which other investigations have not had the data to do) for people who are obese, who have diabetes, who have cancer or who have received a transplanted organ. Being a man is also risky. The biggest risk factor of all, nevertheless, is being old. People in their 60s are twice as likely to die of covid-19 than are those in their 50s. Mortality from the disease shoots up still more rapidly from the age of 70, so that even healthy elderly people are at significant risk. Data for nine rich countries gathered from various sources by The Economist show that care homes for the elderly and infirm have accounted for 40-80% of covid-19 deaths (see chart 1).
 
+
+
 ![](./images/20200523_STC679.png)
 
 That is a dreadful fact. But it also offers an opportunity. Focusing efforts on care homes would cut the death toll considerably. This means implementing infection-prevention routines similar to those in hospitals, such as protective masks and gowns for staff, as well as testing both staff and residents frequently for active SARS-CoV-2 infection. Testing regular visitors may be prudent too—or finding other ways to stop them bringing in the virus. Some Dutch care homes, for example, have installed glass partitions in the rooms where residents and visitors meet.
@@ -33,6 +35,8 @@ These sorts of data can help disease-control authorities identify the mix of mea
 To resolve these matters some places have set up quarantine facilities for those who cannot isolate themselves at home. Sweden is particularly generous in this regard. Stockholm is offering separate flats to people in big immigrant households who are at high risk of severe covid-19.
 
 Communication is also important. Translating information on SARS-CoV-2 prevention into the languages spoken by immigrant groups was an early omission in many sets of control measures. So was the dissemination of relevant information through the channels used to learn about such things, such as local community leaders and radio stations in people’s first languages. Measures of this sort are not a novelty in public health. They were deployed, for example, in recent outbreaks of measles in Britain, many of which started among immigrants from eastern Europe.
+
+
 
 ![](./images/20200523_STC675.png)
 

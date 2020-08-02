@@ -36,6 +36,8 @@ East Timor entered its third week of political flux after the prime minister res
 
 America urged the government of Afghanistan and the Taliban to proceed with a proposed exchange of prisoners, as promised in the agreement the Taliban signed with America in February. The Afghan government wants the exchange to proceed alongside peace talks, but the Taliban say talks cannot begin until the prisoners are released.
 
+
+
 ![](./images/20200321_WWC002.png)
 
 Countries imposed strict restrictions on border crossings, including between America and Canada. See [article](https://www.economist.com//briefing/2020/03/19/in-europe-and-around-the-world-governments-are-getting-tougher).

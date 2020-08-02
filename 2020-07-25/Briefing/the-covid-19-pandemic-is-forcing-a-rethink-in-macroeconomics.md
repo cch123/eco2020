@@ -22,6 +22,8 @@ Policymakers looked for something new. The monetarist ideas of the 1980s inspire
 
 In the 1990s and 2000s a synthesis of Keynesianism and Friedmanism emerged. It eventually recommended a policy regime loosely known as “flexible inflation targeting”. The central objective of the policy was to achieve low and stable inflation—though there was some room, during downturns, to put employment first even if inflation was uncomfortably high. The primary tool of economic management was the raising and lowering of short-term interest rates, which, it had turned out, were more reliable determinants of consumption and investment than the money supply. Central banks’ independence from governments ensured that they would not fall into the inflationary traps of which Friedman warned. Fiscal policy, as a way to manage the business cycle, was sidelined, in part because it was seen to be too subject to political influence. The job of fiscal policy was to keep public debts low, and to redistribute income to the degree and in the way that politicians saw fit.
 
+
+
 ![](./images/20200725_FBC124.png)
 
 Now it seems that this dominant economic paradigm has reached its limit. It first began to wobble after the global financial crisis of 2007-09, as policymakers were confronted by two big problems. The first was that the level of demand in the economy—broadly, the aggregate desire to spend relative to the aggregate desire to save—seemed to have been permanently reduced by the crisis. To fight the downturn central banks slashed interest rates and launched quantitative easing (QE, or printing money to buy bonds). But even with extraordinary monetary policy, the recovery from the crisis was slow and long. GDP growth was weak. Eventually, labour markets boomed, but inflation remained muted (see chart 1). The late 2010s were simultaneously the new 1970s and the anti-1970s: inflation and unemployment were once again not behaving as expected, though this time they were both surprisingly low.
@@ -56,9 +58,13 @@ This view does not eliminate the role of central banks, but it does relegate the
 
 Not everyone is happy about this. In June Paul Tucker, formerly deputy governor of the Bank of England, said that, in response to the bank’s vast purchases of government bonds, the question was whether the bank “has now reverted to being the operational arm of the Treasury”. But those influenced by the Keynesian school, such as Adair Turner, a former British financial regulator, want the monetary financing of fiscal stimulus to become a stated policy—an idea known as “helicopter money”.
 
+
+
 ![](./images/20200725_FBC315.png)
 
 Huge fiscal-stimulus programmes mean that public-debt-to-GDP ratios are rising (see chart 2). Yet these no longer reliably alarm economists. That is because today’s low interest rates enable governments to service much higher public debts (see chart 3). If interest rates remain lower than nominal economic growth—ie, before adjusting for inflation—then an economy can grow its way out of debt without ever needing to run a budget surplus, a point emphasised by Olivier Blanchard of the Peterson Institute for International Economics, a think-tank. Another way of making the argument is to say that central banks can continue to finance governments so long as inflation remains low, because it is ultimately the prospect of inflation that forces policymakers to raise rates to levels which make debt costly.
+
+
 
 ![](./images/20200725_FBC516.png)
 
@@ -83,6 +89,8 @@ Negative rates also pose problems for banks and the financial system. In a paper
 Several factors might yet make the economy more hospitable to negative rates, however. Cash is in decline—another trend the pandemic has accelerated. Banks are becoming less important to finance, with ever more intermediation happening in capital markets (see [article](https://www.economist.com//finance-and-economics/2020/07/25/banks-lose-out-to-capital-markets-when-it-comes-to-credit-provision)). Capital markets, notes Mr Buiter, are unaffected by the “reversal rate” argument. Central bankers, meanwhile, are toying with the idea of creating their own digital currencies which could act like deposit accounts for the public, allowing the central bank to pay or charge interest on deposits directly, rather than via the banking system. Joe Biden’s campaign for the White House includes similar ideas, which would allow the Fed to directly serve those who do not have a private bank account.
 
 Policymakers now have to weigh up the risks to choose from in the post-covid world: widespread central-bank intervention in asset markets, ongoing increases in public debt or a shake-up of the financial system. Yet increasing numbers of economists fear that even these radical changes are not enough. They argue that deeper problems exist which can only be solved by structural reform.
+
+
 
 ![](./images/20200725_FBD002_0.jpg)
 

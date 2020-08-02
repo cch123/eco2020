@@ -22,6 +22,8 @@ John Magufuli, Tanzania’s president, does not believe his country’s results.
 
 Opposition activists and NGOs say that there have been dozens of burials of covid-19 victims in Dar es Salaam, Tanzania’s largest city. On May 12th the American embassy said that hospitals there were “overwhelmed”. “It is a cover-up,” says Zitto Kabwe, an opposition leader.
 
+
+
 ![](./images/20200516_MAC594.png)
 
 There are similar reports of undocumented surges in other countries. In Kano, in northern Nigeria, hundreds of unexplained deaths have been alleged by gravediggers. In Mogadishu, the capital of Somalia, medics claim that the deaths they are seeing do not chime with official totals.

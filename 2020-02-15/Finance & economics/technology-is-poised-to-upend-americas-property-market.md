@@ -14,6 +14,8 @@ For this reason real estate has long been a fragmented, local market. There are 
 
 Real estate is the biggest asset market in the world. The value of residential property in America—at around $34trn—rivals the market capitalisation of all listed American companies. Throw in commercial and retail property, together worth around $16trn, and its value easily eclipses that of public firms. For decades the market has been characterised by low volumes and extortionate transaction costs (see chart). Just 7% of American homes change hands each year. Homeowners traded property worth $1.5trn in America in 2019, forking over some $75bn in commission to agents, or around 0.4% of GDP. The fees for trading many other financial assets pale in comparison. Around $40trn-worth of stocks are traded annually in America. The fees paid by institutional investors to brokers have halved from their peak, to less than $10bn.
 
+
+
 ![](./images/20200215_FNC155.png)
 
 On top of the brokers’ fees paid to sell a home in America, which amount to 5-6% of the price, other levies—government taxes, mortgage fees—mean that the total cost of moving exceeds a tenth of the price. The expense could help explain why owners are staying in their homes for longer. In the 1950s, 20% of households in a county moved each year. Today 9% do.

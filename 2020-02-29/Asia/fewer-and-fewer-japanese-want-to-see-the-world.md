@@ -12,6 +12,8 @@ NO FEWER THAN 191 countries admit Japanese visitors without a visa. That is twic
 
 On paper, Japanese are venturing abroad more often. They went on roughly 20m overseas trips in 2019, up from 19m in 2018. But that figure is inflated by people travelling for work and by frequent flyers. The share of people who hold a passport has been slowly falling, from 27% in 2005. Morishita Masami, who chaired a government committee to promote outbound travel, estimates that at least two-thirds of Japanese are lukewarm about the idea of leaving the country. Several factors deter them: miserly annual leave, concerns about safety, the inferiority of foreign food and, most of all, a crippling fear of the embarrassment of not being understood. Sluggish wage growth and a weak yen have made travel less affordable. Even pensioners, who have plenty of free time and disposable income, are travelling less.
 
+
+
 ![](./images/20200229_ASC173.png)
 
 In the 1980s and 1990s Japanese were keen to explore the world. Students backpacked for weeks with their copies of Chikyu no arukikata (“How to walk the Earth”), a popular travel guide. A strong yen made foreign jaunts affordable. But interest has been dwindling since the late 1990s. They are “just one of many” leisure options, Ms Morishita explains.

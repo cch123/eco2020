@@ -22,6 +22,8 @@ At their simplest the protests mark people’s antipathy towards cops who beat o
 
 Some of the global anger is directed at the United States. Protests have erupted outside American embassies from Spain to South Africa. Nana Akufo-Addo, Ghana’s president, tweeted that: “Black people, the world over, are shocked and distraught.” President Cyril Ramaphosa of South Africa said: “The killing of George Floyd has opened up deep wounds for us all.”
 
+
+
 ![](./images/20200613_IRC033.png)
 
 Many protesters would agree. But many also seethe that their leaders condemn police abuse in Minnesota while allowing or even encouraging it at home. America’s police kill more people than those of any other rich democracy, but cops in some developing countries are much more lethal (see chart 1). So plenty of the protests around the world are about local abuses as well.
@@ -57,6 +59,8 @@ Before the protests, New Zealand was mulling whether to equip more of its usuall
 Some Europeans have deplored American racism while failing to see the parallels in their own countries. Europe’s biggest Black Lives Matter rallies were in Germany. Signs in English were far more prominent than German ones. In Spain, too, demonstrators mostly condemned American racism, with only cursory mentions of Europe’s treatment of African migrants. There were few mentions of Europe’s widespread religious discrimination against Muslims.
 
 Europeans are sometimes complacent about racism. Granted, European police shoot far fewer people than American police do. But this is largely because they are less likely to be shot at. Last year 48 police were killed—most of them shot—in the line of duty in America; in Britain one was.
+
+
 
 ![](./images/20200613_IRC032.png)
 

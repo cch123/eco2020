@@ -14,6 +14,8 @@ A new report by its author, Sir Michael Marmot of University College London, rev
 
 Moreover, both men and women under the age of 50, particularly between 45 and 49, have seen mortality rates tick up (see chart). Sir Michael suggests that this could be related to suicide, alcohol use and rising drug toxicity, making it the British version of rising mortality rates among poor Americans, termed “deaths of despair” by Anne Case and Sir Angus Deaton, two economists who study the phenomenon.
 
+
+
 ![](./images/20200229_BRC395.png)
 
 What happened? The report stops short of putting the blame squarely on austerity, though it notes government spending has declined sharply in the past decade. One reason women may have suffered more than men is that spending cuts hit them harder. Research by the House of Commons library found that the majority of reductions have been borne by women, because the benefits they were likelier to receive saw deep cuts. Regional differences matter too. Poorer areas in the north are even more likely to have worse health than those in the south-east. “I invite you to speculate that it is highly likely that some of these [cuts] will have had an adverse effect on health,” says Sir Michael.

@@ -16,9 +16,13 @@ His next fortnight was punctuated, every eight hours, with the need to reactivat
 
 Mainland China and South Korea have reduced the number of reported new covid-19 cases down to around 100 a day or less; Hong Kong, Singapore and Taiwan never saw steep rises in the first place (see chart 1). Now they all face the same challenge: how to limit the all-but-inevitable rise in cases that will follow when they relax current controls, a rise which can already be seen in some places. To meet that challenge they are all turning to information technology.
 
+
+
 ![](./images/20200328_FBC611.png)
 
 Their efforts, like others elsewhere, are experimental. They risk failure; they also risk adverse side-effects, most obviously on civil liberties. But around 2.5bn people have now been put on some sort of lockdown during the pandemic (see chart 2). Only a fraction of them have been or will be infected, and thus become immune. The rest, when they emerge, will need watching—for their own sakes, and for the sakes of those around them.
+
+
 
 ![](./images/20200328_FBC028.png)
 
@@ -48,11 +52,15 @@ Apparently unworried about doing so, on March 16th Israel’s government authori
 
 South Korea, too, is using digital systems to ease the load on its human contact tracers. At the beginning of the outbreak the Korea Centers for Disease Control and Prevention ran their requests for location histories through the police, who used their channels to data controllers to retrieve the required information. But the KCDC says that system was too slow, and it has now automated the request process, allowing contract tracers to pull data in automatically through a “smart city” dashboard. This data-request system was put into operation on March 16th. Korean news reports say that the automation has reduced contact-tracing time from 24 hours to ten minutes.
 
+
+
 ![](./images/20200328_FBD002_0.jpg)
 
 It might also be possible to do something similar from the bottom up, thus limiting government snooping. Start with an app that sends coherent health and travel data to a central registry, as China’s Health Check purports to. Then add sufficiently smart and powerful number-crunching for the system to be able to find all the places where two people’s histories cross. When someone gets sick, the system can then alert all the other users whose paths that user crossed. Because the infrastructure would be separate from that of the spooks, it could be much more open, scrutable and trustworthy.
 
 Such approaches, though, face serious problems. The number of people an infectious person actually infects will almost always be much smaller than the number they encounter. Sean McDonald, an expert on public health and digital governance, says a system which alerted all the people that an infected person had been near over the past week could lead to a demand for tests that would entirely overwhelm the capacity available in most countries. If the relative risk of, say, walking past someone on the street and drinking from the same water fountain an hour apart were known, and if the data picked up such niceties, things might be different. But they are not.
+
+
 
 ![](./images/20200328_FBC899.png)
 

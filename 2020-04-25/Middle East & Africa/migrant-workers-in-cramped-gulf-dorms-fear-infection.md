@@ -28,6 +28,8 @@ Gulf states would like to send the newly unemployed home. But their home countri
 
 State media have tried to downplay any discrimination. One gauzy ad from the UAE tells foreigners that they are part of a “family” of 10m. But some prominent figures have denounced migrants as a vector for disease. Hayat al-Fahad, a Kuwaiti actress, said in a television interview that the country was “fed up” with the foreigners who make up two-thirds of the population and suggested putting them in the desert. An Emirati social-media personality defended her comments by explaining that she only meant Asian labourers: “Do you expect that we…equate a Bengali worker with an Egyptian worker? God forbid!” (Many Gulf citizens criticised both their remarks.)
 
+
+
 ![](./images/20200425_MAC290.png)
 
 The social contract in the GCC has always been transactional. Foreigners are paid more than they would earn in their home countries. Even unskilled labourers toiling in the heat make enough to send back remittances. In return they accept a state of permanent transience. Residency is tied to employment: no matter how long you work in the Gulf, you will probably have to leave once you cease being useful. Even wealthy expats are being reminded that they are outsiders. Many of those who happened to be travelling when the lockdown began now cannot get back to their homes in Qatar or Dubai. Some are separated from spouses or parents. Far from bringing people together, the virus underscores how far apart they are. ■

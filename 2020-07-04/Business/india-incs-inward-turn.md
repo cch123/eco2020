@@ -14,6 +14,8 @@ For Reliance, the bonanza is a way to manage the huge debts it has taken out to 
 
 The investments were hailed by the local press and security analysts as an endorsement of a new digital champion—and of India itself. A recent flurry of dealmaking seems to corroborate this rosy view (see table). In February the Adani Group, another conglomerate, completed a $450m sale of 25% of its Mumbai power operations to Qatar’s government and received a $900m investment in a 37% stake in its gas operations by Total, a French oil giant. Talk of more deals abounds, notably one possibly involving Lockheed Martin that could enable the local production of jets for India’s air force at a time of rising tensions with China. (In May Chinese soldiers engaged in a brief but deadly skirmish with Indian border forces.)
 
+
+
 ![](./images/20200704_WBC512_0.png)
 
 Look closer, though, and the apparent thumbs-up from foreign investors is not quite what it seems. After years of trying to make it on their own with mixed results, some foreigners appear to have concluded that getting ahead in India requires a powerful local partner. Mukesh Ambani, Reliance’s boss and India’s richest man, or Gautam Adani, the industrialist behind Adani Group, fit the bill to a tee.
@@ -24,9 +26,13 @@ That is a long way from the pro-business, investor-friendly posture which first 
 
 After independence from Britain in 1947 the main way for most outsiders to partake in India’s economy was through joint ventures with domestic partners or some other form of local ownership. Some Indian partners were chosen on the basis of access to the levers of power rather than managerial acuity. India’s largest carmaker, Maruti Suzuki, created in 1982, was the brainchild of Sanjay Gandhi. His mother, Indira, was prime minister at the time. The Gandhis took care of the politics; Suzuki of Japan brought the cash and built the cars.
 
+
+
 ![](./images/20200704_WBC282_0.png)
 
 Things began to change after 1991, when India emerged from decades of self-imposed isolation and interventionism of the so-called “Licence Raj”. A series of liberalising governments cut tariffs and opened industries up to competition (see chart 1). But many stifling rules remained in place. Some were newly imposed. Shops were limited to a certain size and certain prices, for instance of drugs, remained controlled. By 2001 so many multinationals in industries from petrol (Caltex) to pharmaceuticals (Astra, Roche, Rhône-Poulenc) were once again fleeing red tape and other foibles that the Times of India, a leading daily, bewailed “second Quit India movement”.
+
+
 
 ![](./images/20200704_WBC300.png)
 

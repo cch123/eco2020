@@ -40,6 +40,8 @@ Specific emission cuts were agreed upon five years after Rio, in Kyoto. They wer
 
 The UN imprimatur gave the UNFCCC universal legitimacy. But fashioning a treaty that all could accept had meant producing one with little practical power. The UNFCCC lacked any mechanism for making countries commit to ambitious action, let alone binding them to such commitments.
 
+
+
 ![](./images/20200425_SBC001.png)
 
 If all countries had shared an urgent interest in action, those shortcomings would not have mattered. But they did not. The costs of environmental improvements tend to fall on a few groups—typically, those doing the polluting. In domestic environmental politics, progress typically relies on going some way to placate those groups while increasing the enthusiasm for action among others and the public.

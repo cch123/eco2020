@@ -6,11 +6,15 @@
 
 > Jun 20th 2020
 
+
+
 ![](./images/20200606_USP001.jpg)
 
 As a former prosecutor, with more than a decade of experience in Miami, I take issue with your statement alleging that prosecutors are not inclined to bring charges against police because we’d rather secure convictions to advance our careers (“[Order above the law](https://www.economist.com//united-states/2020/06/04/how-to-fix-american-policing)”, June 6th). The “elaborate culture” described in your article of turning a blind-eye to police misconduct is an academic chimera. I have never met a prosecutor who engaged in that kind of unethical calculus and am confident that it would not have been tolerated by our fellow prosecutors or our managers. That being said, I’m sure that racism exists at all levels of government. But speciously suggesting that there is an unspoken quid pro quo between police and prosecutors is false and does nothing to advance the rights of victims of police brutality.
 
 J.P. NIXONWestport, Connecticut
+
+
 
 ![](./images/20200606_IRD001.jpg)
 
@@ -19,6 +23,8 @@ There is another reason for the popularity of fake news on the political right (
 One group of experts on infectious diseases, whom I presume supported the lockdowns, penned a letter with over 1,200 signatures stating that the protests were necessary to fight “white supremacy”. It is hard to imagine that these experts would support street demonstrations by conservatives in the middle of a pandemic. Commentators on the right had a field day pointing out the hypocrisy. A politicised scientific and medical community is deeply worrying because it boosts the argument on the far right that supposedly unbiased science and scholarship are a sham.
 
 ARVIN BAHLNew York
+
+
 
 ![](./images/20200530_MAP002.jpg)
 
@@ -32,11 +38,15 @@ The rise of mercenaries in the 21st century is indeed a striking, if not worryin
 
 ANTHONY KINGChair of war studiesWarwick UniversityCoventry
 
+
+
 ![](./images/20200606_USP005.jpg)
 
 An article referred to the hooligan fish’s genus name, Thaleichthys, as Latin for rich fish (“[Alaska welcomes hooligans](https://www.economist.com//united-states/2020/06/04/in-praise-of-the-tiny-oily-candlefish)”, June 6th). The word thaleichthys does not stem from Latin but comes from ancient Greek, a merger of the words thalein (to flourish) and ichthys (fish).
 
 HARRY CORDATOSColchester, Connecticut
+
+
 
 ![](./images/20200523_BBD001.jpg)
 
@@ -48,11 +58,15 @@ EITE products account for less than 2% of global GDP but 20% of carbon-dioxide e
 
 OLIVER SARTORAgora EnergiewendeBerlin
 
+
+
 ![](./images/20200606_BRP001_0.jpg)
 
 It was apparently too obvious that the scriptural basis for old-fashioned Christians’ fondness for old-fashioned communal worship could only come from the Old Testament to bother checking the quote “Don’t forsake the gathering of the brethren” (“[Your own personal Jesus](https://www.economist.com//britain/2020/06/04/online-services-swell-the-church-of-englands-congregations)”, June 6th.) The reference is in fact found in the letter to the Hebrews in the New Testament. This old-fashioned priest would like respectfully to remind The Economist that the internet allows Bible references to be checked in a matter of seconds.
 
 FR PHILIP-THOMAS EDWARDSLondon
+
+
 
 ![](./images/20200606_USD000.jpg)
 

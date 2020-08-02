@@ -18,6 +18,8 @@ There are other dangers. As recession bites, people may default on car loans, ma
 
 Given its carbon footprint, isn’t there an argument for the creative destruction of the car industry? If only it were that simple. Millions of jobs are at risk and the big firms account for about 60% of the industry’s investment, a rising share of which is, belatedly, going into green technologies. Adaptation would be far preferable to extinction. And yet there is a risk that government aid ossifies car firms before they have modernised. State “cash for clunkers” subsidies—which are on the menu in Germany—could encourage consumers to buy dirty, internal-combustion-engine cars. On March 31st America watered down emissions standards in order to help Detroit. Subsidies for idling workers help in the short run, but if they go on for long they risk preventing firms from shifting resources from old to new technologies.
 
+
+
 ![](./images/20200425_LDC323.png)
 
 The industry should take control of its own fate. Car firms need to be pioneers in operating factories under new health protocols, from redesigning the choreography of assembly lines to providing health tests for workers. Big Western firms are starting to re-open some plants. This won’t be lucrative, but it will stem short-term losses.

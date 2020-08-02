@@ -22,6 +22,8 @@ The British government announced that its scheme paying the wages of furloughed 
 
 An index of manufacturing activity in Britain improved in May, though IHS Markit, which compiled the survey, said conditions in the industry were still “at depths unseen outside of the current pandemic and the global financial crisis” of 2007-09. 
 
+
+
 ![](./images/20200606_WWC851.png)
 
 Brazil’s economy shrank by 1.5% in the first three months of the year compared with the previous quarter. With the number of covid cases and deaths increasing steadily Brazilians are almost certainly heading into another deep downturn. Australia’s GDP contracted by 0.3%: the Lucky Country is facing its first recession in three decades. 

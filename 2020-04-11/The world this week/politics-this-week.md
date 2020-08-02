@@ -36,6 +36,8 @@ Ecuador’s top court convicted Rafael Correa, who was president of the country 
 
 A Venezuelan naval patrol vessel fired on an unarmed Portuguese-flagged cruise ship, the RCGS Resolute, which it claimed was in its waters. Columbia Cruise Services said the holiday craft, hardened to withstand polar ice, was rammed by the Venezuelan vessel, which then sank. All 44 Venezuelan sailors were rescued. Their commanders congratulated them on their “impeccable performance”. See [article](https://www.economist.com//the-americas/2020/04/11/venezuelas-navy-battles-a-cruise-ship-and-loses).
 
+
+
 ![](./images/20200411_WWC005.png)
 
 Joe Biden floated the idea that voters in America’s presidential election might have to participate by mail only.

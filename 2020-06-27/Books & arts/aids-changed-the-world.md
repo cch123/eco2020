@@ -38,6 +38,8 @@ There is no single reason for the severity of the pandemic in Africa. There are 
 
 Multiple theories have been put forward, most containing some truth. Poverty, for example, matters. When ART cost at least $10,000 per person per year, as it did in 1996, only elites could be treated. But poverty does not explain why prevalence was already so high. More than a fifth of adult residents of capitals such as Kampala and Lusaka were HIV-positive by 1990. Other poor parts of the world, including central America, South Asia and the Caribbean were less affected. Botswana and South Africa, two of the richest African countries, are two of the hardest hit.
 
+
+
 ![](./images/20200627_BKC165.png)
 
 Patterns of commerce and migration are important. Across Africa goods are moved by long and slow truck journeys. Studies have highlighted the high rates of HIV among truck drivers and prostitutes at stops. Another arrangement that encouraged the spread of HIV, especially in southern Africa, was the migratory labour system that began in colonial times and persists to this day. Miners would spend many months away from their families. Often they lived in single-sex dormitories, surrounded by prostitutes attracted by the miners’ steady wages. Studies of mining towns found extremely high rates of HIV.
@@ -53,6 +55,8 @@ Worst was Thabo Mbeki, who succeeded Nelson Mandela as president of South Africa
 Religion also played a role; sometimes for good, but often for ill. Data from Afrobarometer, a pollster, suggest that religious figures are more respected than other pillars of society. As in America, many saw HIV/AIDS as punishment for sin, with some churches opposing condoms and refusing to bury AIDS victims. Traditional religions could be unhelpful, too. In Malawi hundreds of thousands flocked to one healer who claimed ancestral spirits had instructed him in the use of a tree bark to cleanse people of the disease.
 
 Blame, stigma and denial discouraged open conversations about HIV/AIDS. In Congo, SIDA, the French initials for AIDS, was said to stand for syndrome imaginaire pour décourager les amoureux, or “imaginary syndrome to discourage lovers”. Though some famous Africans, such as Philly Lutaaya, a Ugandan singer, were honest about their condition; others, like Fela Kuti, a Nigerian musician, were not.
+
+
 
 ![](./images/20200627_BKD004_0.jpg)
 

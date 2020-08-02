@@ -12,6 +12,8 @@ THE LATEST jobs report shows that the unemployment rate in America stayed at 3.5
 
 Americans could certainly do with additional retirement security. The median balance held in retirement accounts is $60,000 per family, enough for only a pitiful income in old age. Yet by one estimate 40% of working-age Americans have no retirement-account savings at all, meaning that they will probably have to rely on Social Security (public pensions) in their dotage. That safety-net is thin. America’s rate of old-age poverty is one of the highest in the rich world (see chart).
 
+
+
 ![](./images/20200118_USC123.png)
 
 The new law’s many provisions may help turn things round. One of the most promising relates to the age at which people must start to withdraw cash from their retirement accounts. It will rise from 70.5 years to 72, meaning that workers who can afford to delay retirement will have more time to amass tax-favoured savings. That policy is expected to cost the federal government some $9bn over a decade. But the government will raise extra revenue by tightening the tax rules on inherited retirement accounts. The overall fiscal cost of the new act is likely to be tiny—perhaps one reason why it went through Congress with bipartisan support.

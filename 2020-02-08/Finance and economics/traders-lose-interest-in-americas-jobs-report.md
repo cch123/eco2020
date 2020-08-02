@@ -12,6 +12,8 @@ BY 9.30PM ON the first Friday of the month, the bars in Marunouchi, Tokyo’s fi
 
 The release—which includes figures on non-farm employment, the unemployment rate and wages—often generated sizeable market moves. On average, five-year Treasury yields moved by 0.17 percentage points on the day of the report in 2004. The four biggest daily moves that year occurred after a release. Since then, though, market reaction has cooled (see chart). In 2019 yields barely budged, moving by less than 0.04 percentage points on publication. What explains the lack of excitement?
 
+
+
 ![](./images/20200208_FNC114.png)
 
 Before the financial crisis jobs data were thought to give a good signal about the likely actions of the Federal Reserve, which is tasked with ensuring maximum employment and stable inflation. The more people in jobs, the thinking was, the closer America got to full employment. A tighter labour market would push up wages and consumer prices. (In other words, what economists call the Phillips curve, which plots inflation against the unemployment rate, sloped downwards.) That made it more likely that the Fed would raise interest rates, making dollar assets more attractive. As most financial assets are priced in dollars, the data took on worldwide significance. Hence Marunouchi’s emptying bars.

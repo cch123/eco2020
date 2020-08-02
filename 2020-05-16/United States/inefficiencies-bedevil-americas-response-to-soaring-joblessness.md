@@ -14,6 +14,8 @@ EILEEN SHEPPARD has been cutting hair professionally for 20 years. Now 39, she l
 
 So rapid a rise in unemployment would stress any country’s UI system. Some, such as Britain’s, have coped surprisingly well. America’s has not. The federal government funds the administration of these benefits through grants tied in part to how much each state paid in UI claims in the previous year. America’s long economic expansion left its system woefully underfunded. So although the weekly $600 top-up that Congress approved in late March is nominally generous, millions of people have not had their money. Preliminary data analysed by The Economist suggest that up to 15m Americans who applied for UI in March and April had not received money by the start of May.
 
+
+
 ![](./images/20200516_USC547.png)
 
 Compounding these administrative problems are looming political battles. The $600 booster expires at the end of July. Worries that America’s UI system is too generous and discourages work are growing on the right.

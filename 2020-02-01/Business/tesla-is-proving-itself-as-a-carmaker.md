@@ -14,6 +14,8 @@ The latest indication that Tesla is at last making an impression as a manufactur
 
 Profits and production are not the only reasons Tesla is joining the automotive mainstream. New products and plants are also on track. Its Cybertruck, an angular pick-up straight out of a 1980s sci-fi flick, which Mr Musk unveiled in November, is set to hit roads in 2021. This year Tesla will launch the Model Y, a smaller SUV, and the Roadster, a pricey sports car. It has just started making Model 3s at a new “Gigafactory” in China, showing that it could react far more swiftly than leaden-wheeled competitors; it got the plant in Shanghai up and running in 11 months. It is set to break ground on another in Germany.
 
+
+
 ![](./images/20200201_WBC307.png)
 
 If all goes to plan, reckons Morgan Stanley, a bank, Tesla will be making 2m vehicles a year by 2030 and its operating margin over the next decade will average 8.3%. That would put it close to the current output and profitability of both BMW and Daimler (at least before their margins began to be squeezed by heavy investment in electrification, both to catch up with Tesla and to meet European emissions rules).

@@ -14,6 +14,8 @@ American officials are not so explicit about the meaning of the exercise. But th
 
 Jostling in the South China Sea is nothing new. For decades, China and other littoral countries, including Brunei, Malaysia, the Philippines and Vietnam, have competed and clashed over its atolls, shoals, reefs and sandbars. China has largely emerged the victor. And despite promising America in 2015 that it would not militarise the area, it has built ports, runways and bunkers in the Spratlys and installed missiles on these island fortresses.
 
+
+
 ![](./images/20200620_CNM992.png)
 
 Recently China has been tightening its grip in symbolic ways. In April it created two administrative districts covering the Spratlys and Paracels. They are under Sansha, a notional “city” that China established in 2012 as the sea’s government. It also named 80 new geographical features in the South China Sea, including 55 submerged ones. Now there is speculation that China may turn to the skies above.

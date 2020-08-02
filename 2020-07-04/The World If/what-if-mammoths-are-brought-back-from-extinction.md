@@ -12,6 +12,8 @@ Editor’s note: Each of these climate-change articles is fiction, but grounded 
 
 IN THE LATE 1980s Michael Crichton, a novelist and filmmaker, had a lucrative idea. He picked up on the work of Allan Wilson, a geneticist at the University of California, Berkeley, and let his imagination run riot. Wilson had extracted DNA from an extinct type of zebra called a quagga. The DNA in question was fragmented, and the extinction of the quagga only a century in the past, but that did not matter. Crichton speculated about recovering far older DNA than the quagga’s by looking in the guts of bloodsucking insects preserved in amber that had formed millions of years ago, during the age of the dinosaurs. If the insects had been feasting on dinosaurs, he mused, they might have preserved those creatures’ DNA. And if you have something’s DNA you could, perhaps, recreate it. The result was “Jurassic Park”.
 
+
+
 ![](./images/wif_spec_7.png)
 
 Sadly, there is no sign of any real DNA having been preserved from that far back in the past. But be a bit less ambitious in your time-travelling, and apply the three decades’ worth of biotechnological advances that have happened since “Jurassic Park” was published to the question of how you might go forward from here, and the aspiration of recreating at least some prehistoric creatures no longer seems completely fanciful. It may, moreover, be of practical importance, because one animal the de-extinctionists have in their sights is the woolly mammoth. And some people believe that reintroducing mammoths into the wild would make a change to the ecology of Earth’s northern reaches sufficiently large as to help curb global warming.

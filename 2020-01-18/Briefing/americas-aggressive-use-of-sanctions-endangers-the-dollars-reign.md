@@ -18,6 +18,8 @@ The world’s financial rhythm is American: when interest rates move or risk app
 
 America began to flex its financial muscles after the terrorist attacks of September 11th 2001. It imposed huge fines on foreign banks for money-laundering and sanctions-busting; in 2014 a $9bn penalty against BNP Paribas shook the French establishment. Mr Trump has taken the weaponisation of finance to a new level (see chart). He has used sanctions to throttle Iran, North Korea, Russia, Turkey (briefly), Venezuela and others. His arsenal also includes tariffs and legal assaults on companies, most strikingly Huawei, which Mr Trump accuses of spying for China. “Secondary” sanctions target other countries’ companies that trade with blacklisted states. After America pulled out of a nuclear deal with Iran in 2018, European firms fled Iran, even as the EU encouraged them to stay. SWIFT quickly fell into line when America threatened action if it did not cut off Iranian banks after the reimposition of sanctions in 2018.
 
+
+
 ![](./images/20200118_BBC087.png)
 
 Using the dollar to extend the reach of American law and policy fits Mr Trump’s “America first” credo. Other countries view it as an abuse of power. That includes adversaries such as China and Russia; Russia’s president, Vladimir Putin, talks of the dollar being used as a “political weapon”. And it includes allies, such as Britain and France, who worry that Mr Trump risks undermining America’s role as guarantor of orderliness in global commerce. It may eventually lead to the demise of America’s financial hegemony, as other countries seek to dethrone its mighty currency.
@@ -49,6 +51,8 @@ Parts of the world’s consumer-finance system are coming under China’s sway t
 China’s central bank is reported to be working on a new digital currency, though details are sparse. Some speculate that it wants to get a head-start on America in building whatever international system emerges for managing payments in central bank-issued digital currencies. It discussed creating a common cryptocurrency with other BRICS countries (Brazil, Russia, India and South Africa) at a recent summit. China may end up doing Bitcoin with an authoritarian twist: instead of anonymity it may want all data to be trackable and centrally stored.
 
 That America’s geopolitical rivals want to escape the dollar’s dominance is no surprise. Perhaps more striking is that its allies are flirting with it, too. In her manifesto for 2019-24, Ursula von der Leyen, the new president of the European Commission, said: “I want to strengthen the international role of the euro.” Jean-Claude Juncker, her predecessor, has called the dollar’s dominance in European energy trade an “aberration” (when just 2% of imports come from America). The commission is working on a new action plan, part of which involves encouraging EU countries to eliminate “undue reference” to the dollar in payments and trade invoicing, according to a staffer.
+
+
 
 ![](./images/20200118_BBD002_0.jpg)
 

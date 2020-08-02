@@ -18,6 +18,8 @@ A generous interpretation of Mr Trump’s deal with China is that he is simply t
 
 It could even be argued that managing trade with China would be easier than it was with Japan. Later attempts to repeat Reagan’s semiconductor tactic failed, as Japan’s government had grown tired of cajoling its private sector into changing its sourcing decisions. It had no direct control over who bought the managed products, and had to resort to pleading letters to firms, as well as surveys asking about who they were buying from. By contrast, China’s government has the purchasing power of its state-owned enterprises at its disposal, and sway over the private sector too.
 
+
+
 ![](./images/20200125_FNC228.png)
 
 Dig into the details of Mr Trump’s new deal, though, and the risks of waste and distortion become clear. The agreed increase in sales to China is large and rapid. According to an analysis by Chad Bown of the Peterson Institute for International Economics (with whom your columnist hosts a podcast), China has, in effect, pledged to increase its purchases of certain American agricultural products by 60%, and manufactured products by 65%, by the end of this year compared with levels in 2017 (see chart). This must happen regardless of economic conditions in China. Whereas Japan agreed to increase the share of imported goods in domestic demand, China has signed up to buy fixed dollar amounts.

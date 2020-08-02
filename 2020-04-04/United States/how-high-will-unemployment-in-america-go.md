@@ -14,6 +14,8 @@ IN AUGUST 2005 the unemployment rate in Louisiana was 5.4%, close to its all-tim
 
 Now America as a whole faces a similar shock. From a five-decade low, early data suggest unemployment is shooting upwards, as the onrushing coronavirus pandemic forces the economy to shut down. Millions of Americans are filing for financial assistance. The jobs report for March, published shortly after The Economist went to press, is a flavour of what is to come—though because the survey focused on early to mid-March, before the lockdowns really got going, it is likely to give a misleadingly rosy view of the true situation. How bad could the labour market get?
 
+
+
 ![](./images/20200404_USC085.png)
 
 GDP growth and the unemployment rate tend to move in opposite directions. Unemployment hit an all-time high of around 25% during the Great Depression (see chart). The coronavirus-induced shutdowns are expected to lead to a year-on-year GDP decline of about 10% in the second quarter of this year. Such a steep fall in economic output implies an unemployment rate of about 9% in that quarter, based on past relationships, which would be roughly in line with the peak reached during the financial crisis of 2007-09.

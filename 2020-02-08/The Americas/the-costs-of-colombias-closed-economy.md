@@ -14,6 +14,8 @@ It used to be easier. The government liberalised the economy in the early 1990s 
 
 That openness lasted just a few years. Owners of factories and sugar mills, dairy farmers, rice growers and regional governments, which own distillers of aguardiente, a local tipple, were hurt by competition. They lobbied to restore protection. The government could not reimpose tariffs, in part because of its commitments as a member of the World Trade Organisation. So it put up lots of non-tariff barriers.
 
+
+
 ![](./images/20200208_AMC083.png)
 
 Colombia is now as closed as it was in the 1990s, according to a new book*. Total trade has increased fivefold, but the ratio of trade to GDP has not risen much (see chart). Non-tariff measures affect nearly four-fifths of imports, up from 27% in 1992, says the UN Conference on Trade and Development. The government has created new trade-related agencies, and has given existing bodies more power to meddle.

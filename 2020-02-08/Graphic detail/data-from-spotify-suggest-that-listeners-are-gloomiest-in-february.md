@@ -6,9 +6,17 @@
 
 > Feb 8th 2020
 
+https://infographics.economist.com/2020/20200208_GDC200_1/index.html
+
+
+
 RESIDENTS OF THE northern hemisphere might think that their moods are worst in January. Christmas is over, the nights are long and summer is a distant prospect. Newspapers often claim that “Blue Monday”, in the third week of January, is the most depressing day. To create a quantitative measure of seasonal misery, The Economist has analysed music consumption.
 
 Our calculations use data from Spotify, which offers 50m tracks to 270m users in over 70 countries, mostly in Europe and the Americas. The firm has an algorithm that classifies a song’s “valence”, or how happy it sounds, on a scale from 0 to 100. The algorithm is trained on ratings of positivity by musical experts, and gives Aretha Franklin’s soaring “Respect” a score of 97; Radiohead’s gloomy “Creep” gets just 10. Since 2017 Spotify has also published daily tables of the 200 most-streamed songs, both worldwide and in each country. We gathered data for 30 countries around the globe, including 46,000 unique tracks with 330bn streams, to identify the annual nadir of musical mood. Drum roll, please.
+
+https://infographics.economist.com/2020/20200208_GDC200_2/index.html
+
+
 
 The global top 200 songs are gloomiest in February, when their valence is 4% lower than the annual average. In July, the perkiest month, the mood is 3% higher. The most joyful spike comes at Christmas.
 
@@ -21,6 +29,8 @@ So why might some countries with long days and clear skies in February get the b
 Perhaps the global dip is explained simply by the calendar. For most people, the first weeks of a promising new year have disappeared with little sign of improvement. Anyone for some Joy Division? ■
 
 Sources: Spotify; The Economist
+
+
 
 
 

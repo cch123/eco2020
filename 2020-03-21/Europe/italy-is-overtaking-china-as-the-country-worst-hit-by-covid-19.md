@@ -20,6 +20,8 @@ The next few days will be crucial in showing whether draconian containment measu
 
 In Lombardy, the number of new daily cases is still growing, but as a share of the total existing cases the number is starting to fall. By March 18th it was down to 9.2%. Three days earlier, the governor, Attilio Fontana, noted the change. “Let’s hope it is the start of a trend reversal,” he said. But he added: “I am saying it in a whisper.”
 
+
+
 ![](./images/20200321_EUM906.png)
 
 Nationally, the percentage increases have also been dropping. But the latest figures showed an uptick, from 12.6% to 13.4%, as the virus spread out to other regions north and south of Lombardy. The absolute numbers, which are what matter to the country’s regional health services, keep rising alarmingly.

@@ -34,6 +34,8 @@ Assigning a PRS does not require sequencing a subject’s whole genome. One just
 
 The need for masses of genetic information from many, many human genomes is one of the main reasons why genomic medicine has taken off rather slowly. Over the course of the Human Genome Project, and for the years that followed, the cost of sequencing a genome fell quickly—as quickly as the fall in the cost of computing power expressed through Moore’s law. But it was falling from a great height: the first genome cost, by some estimates, $3bn. The gap between getting cheaper quickly and being cheap enough to sequence lots of genomes looked enormous.
 
+
+
 ![](./images/20200314_TQC481.png)
 
 In the late 2000s, though, fundamentally new types of sequencing technology became available and costs dropped suddenly (see chart). As a result, the amount of data that big genome centres could produce grew dramatically. Consider John Sulston’s home base, the Wellcome Sanger Institute outside Cambridge, England. It provided more sequence data to the Human Genome Project than any other laboratory; at the time of its 20th anniversary, in 2012, it had produced, all told, almost 1m gigabytes—one petabyte—of genome data. By 2019, it was producing that same amount every 35 days. Nor is such speed the preserve of big-data factories. It is now possible to produce billions of letters of sequence in an hour or two using a device that could easily be mistaken for a chunky thumb drive, and which plugs into a laptop in the same way. A sequence as long as a human genome is a few hours work.

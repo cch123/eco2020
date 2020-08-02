@@ -28,6 +28,8 @@ Being a one-party state does not blind China to public concerns about safety. Wh
 
 Some of these reactors are still of foreign design. Versions of both the AP1000, an American design, and the EPR, a French one, have begun operating in China over the past two years. But that underlines China’s edge. It is the only country, including France and America, yet to have successfully built either design. Rather than importing more nuclear technology, Mr Zou and others are looking to export their own.
 
+
+
 ![](./images/20200104_TQC475.png)
 
 The reactor of choice—Mr Zou says that Li Keqiang, China’s prime minister, has ordered that it be given pride of place—is China’s brand new Hualong One. It is developed from reactors based on French designs, as those were in turn based on American designs, but can reasonably claim to be completely Chinese. Although none has yet been finished (the first is due to be connected to the grid in Fujian province in 2020), two are being built near Karachi in Pakistan. Another is planned for Argentina, and Britain is evaluating plans to build one at Bradwell in Essex. One advantage of such exports is that the Chinese will get the design scrutinised by independent regulators abroad. That China’s nuclear regulator is part of the same government that is urging the industry’s expansion brings with it some serious concerns about safety.

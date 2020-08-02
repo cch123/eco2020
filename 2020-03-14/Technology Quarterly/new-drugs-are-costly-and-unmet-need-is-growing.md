@@ -30,6 +30,8 @@ Some of it will, eventually, be met. For one thing, there are government incenti
 
 Drug firms say such treatments are economically worthwhile over the lifetime of the patient. Four-fifths of children with the worst form of SMA die before they are four. If, as is hoped, Zolgensma is a lasting cure, then its high cost should be set against a half-century or more of life. About 200 patients had been treated in America by the end of 2019.
 
+
+
 ![](./images/20200314_TQC482.png)
 
 But if some treatments for rare diseases may turn a profit, not all will. There are some 6,000 children with SMA in America. There are fewer than ten with Jansen’s disease. When Dr Nizar asked companies to help develop a treatment for it, she says she was told “your disease is not impactful”. She wrote down the negative responses to motivate herself: “Every day I need to remind myself that this is bullshit”.

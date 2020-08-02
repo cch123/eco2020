@@ -26,6 +26,8 @@ Even more worrying is that the zone of devastation is expanding. Swarms could so
 
 The FAO’s Keith Cressman hopes they will stop in Sudan, which is generally fairly good at spraying and suppressing them; it has even sent locust-surveillance teams to its embattled western region of Darfur for the first time in 17 years. But unless it rains more in Sudan’s deserts, the locusts will not stay there for long. In search of food, billions may head to west Africa via the Sahel (see map), where they would be harder to control.
 
+
+
 ![](./images/20200704_MAM909.png)
 
 After a slow start, governments are reacting. More than half a million hectares in east Africa have been sprayed with pesticides, despite delays in the arrival of experts from abroad and shipments of chemicals because of covid-19. Many of the region’s most valuable crops have been protected. But pastoralists reliant on grasslands have not been so lucky. Foreign donors have pitched in. The World Bank will lend $500m to countries in east Africa and the Middle East, but it is not nearly enough. Ethiopia has received less than two-thirds of the $77m it asked donors for.

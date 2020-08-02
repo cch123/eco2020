@@ -14,6 +14,8 @@ This will go down well. Buses account for more public-transport trips than train
 
 Until recently, the decline in bus use could be put down to bad policies and austerity. In 1986, with Margaret Thatcher in her pomp, bus transport outside London was privatised and deregulated. Bus companies piled in to the best routes; the less popular ones were neglected, especially after the financial crisis, when subsidies were cut. Fares have risen, which deters more people from taking the bus. “It’s a cycle of decline”, says Darren Shirley of the Campaign for Better Transport.
 
+
+
 ![](./images/20200215_BRC151_0.png)
 
 But if deregulation, service cuts and higher fares are the problem, why are London buses emptier? They have suffered none of those things. Yet the decades-long rise in bus trips in the capital—which was driven by good management, subsidies, a booming economy, rapid population growth, ever more unpleasant driving conditions and costly parking—appears to have reversed. Something else is up.

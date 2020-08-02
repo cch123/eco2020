@@ -18,6 +18,8 @@ A paper by researchers at Oxford University, in the Oxford Review of Economic Po
 
 In one sense, the pandemic takes the pressure off. A deep recession should limit the need to import low-paid workers, since there will be a large pool of unemployed domestic labour. Yet farms are flying in workers from Romania, suggesting that Britons on their uppers might hesitate before taking back-breaking or low-paid jobs.
 
+
+
 ![](./images/20200516_BRC561.png)
 
 The political argument for a restrictive regime is weakening. Voters were warming to immigration even before they voted to leave the EU and thereby restrict it (see chart). The scandal in 2018 over the government’s shoddy treatment of the Windrush generation of Caribbean migrants illustrated that, if the public senses injustice, crackdowns can prove as politically perilous as liberal approaches. A survey in March by Ipsos MORI, a pollster, found that the overwhelming majority of voters want the number of migrants coming to Britain to work in care homes to stay the same or rise. Since the pandemic and its associated recession will significantly reduce overall immigration anyway, Ms Patel can afford to be a little more generous. ■

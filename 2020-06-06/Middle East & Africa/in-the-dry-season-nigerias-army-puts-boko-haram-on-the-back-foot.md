@@ -14,6 +14,8 @@ Nigerian forces claim to have made big advances and to have killed more than 1,0
 
 But some Nigerian soldiers, casting a weather eye at the horizon, are less confident that the army can keep up its advance in the months ahead. In the dry season, which runs roughly from October to April, the cloudless sky is ideal for air strikes. The ground is baked hard enough for armoured vehicles to move around. Leaves and grass shrivel up, enabling government troops to spot insurgents far away.
 
+
+
 ![](./images/20200606_MAM932.png)
 
 The coming rains, though, will turn the earth to knee-deep mud, says a staff sergeant in the army. Soldiers in bogged-down trucks will become sitting ducks. The insurgents, who often zip around on motorbikes, may regain the initiative. “The only thing we do in the rainy season is ambush,” says the sergeant. Artillery shells often fail to detonate when hitting the damp soil, leaving a trove of explosives that the rebels turn into roadside bombs, says Ahmad Salkida, the editor of HumAngle, a digital news site.

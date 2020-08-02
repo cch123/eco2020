@@ -14,6 +14,8 @@ On December 31st Mr Trump tweeted that he will soon sign a “phase one” trade
 
 Some firms are suffering from a backlash arising from the trade war. But its effect on America Inc has been exaggerated. For one thing, American companies on average get only about 5% of their revenues from China (see chart), according to Morgan Stanley, a bank. Though the technology, automobile and consumer-products industries have greater exposure, for others China is an afterthought.
 
+
+
 ![](./images/20200104_WBC765.png)
 
 A third of respondents to a survey by the US China Business Council (USCBC), a trade group, claim they have been subjected to “increased scrutiny from Chinese regulators as a result of bilateral trade tensions.” However, local governments with their own growth targets have been rolling out the red carpet this year, foreign executives say. Thanks in part to such efforts, the share of American firms claiming their local operations had been hurt by “Made in China 2025”, an indigenous-innovation scheme America is wary of, plunged from 20% in 2017 to 12% in 2019.

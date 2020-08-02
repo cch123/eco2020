@@ -18,6 +18,8 @@ Unlike other emerging powers such as China and Brazil, Africa is divided into 54
 
 The continent has disappointed before. Thabo Mbeki, at his inauguration as president of South Africa in 1999, spoke of entering “the African century”. Even after the global financial crisis, rapid growth in Africa gave hope of sustained progress, albeit from a low base. But that was dampened again from mid-2014, when commodity prices fell and African GDP growth slowed considerably.
 
+
+
 ![](./images/20200328_SRM111.png)
 
 This special report will argue that, in spite of these setbacks and although many of the continent’s problems persist, social, economic and political improvements since the cold war are gathering pace. After centuries on the periphery, Africa is set to play a much more important role in global affairs, the global economy and the global imagination. Asia’s economic and population booms may continue to dominate the first part of this century, but Africa’s weight will grow in the second half.

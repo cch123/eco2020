@@ -14,6 +14,8 @@ With help from Iran and Russia, and by bombing and gassing his own people, Mr As
 
 When Mr Assad inherited the presidency from his father two decades ago, Syria was a middle-income country. Now over 80% of its people are poor. Last year GDP was thought to be about a third of what it was before the war. This year it will be even lower. A covid-19 lockdown is partly to blame. Then there is the situation in neighbouring Lebanon. Syria’s biggest foreign market and main supplier of dollars is mired in a financial crisis. With dollars scarce in both countries, the value of the Syrian pound has fallen to record lows. The currency traded at about 50 to the dollar before the war. Today a greenback fetches about 3,000 pounds on the black market. The rebels in Idlib recently adopted the Turkish lira to replace the pound.
 
+
+
 ![](./images/20200620_MAM996.png)
 
 The value of government salaries is also sinking, as prices rise. The upshot, says the UN, is that many people can no longer afford food. Even a local football hero posted a picture of himself on the street with his belongings. Pharmacies have run out of medicines because producers don’t have enough money to pay for ingredients from abroad. Shops and cafés which reopened after the lockdown was lifted have quickly closed again for want of custom. In an effort to prop up its reserves of hard cash, the government has made things worse. Banks have been told to stop lending. They have switched off their cash machines and limited withdrawals. People wait outside in queues, hoping to recover what savings they can before the currency drops again.

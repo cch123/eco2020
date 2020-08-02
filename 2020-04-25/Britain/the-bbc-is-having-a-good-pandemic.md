@@ -28,6 +28,8 @@ Yet even if the virus has averted a “whacking”, the BBC should worry about a
 
 The first concerns the alleged bias in its output. The corporation is either “stacked full of right-wingers” (as a Guardian columnist complained) or so lefty that even its “Sherlock” detective drama contains anti-Tory messages (as claimed by the Daily Mail). Yet polling by the Reuters Institute finds that the BBC reaches an audience that is broadly in the middle of the political spectrum. This contrasts with its main commercial rivals, ITV and Sky, whose viewers lean to the right, and with public broadcasters in other countries, whose audiences usually lean left (see chart 1).
 
+
+
 ![](./images/20200425_BRC949.png)
 
 However, the question of bias has become harder to navigate. Digital technology has exposed audiences to new outlets like YouTube that are not required to follow impartiality rules. Unregulated online ranters should make the BBC look unbiased by comparison. But there is a danger that viewers draw the opposite conclusion: that everyone has a bias, and the BBC is merely concealing its own. In 2005 Michael Grade, the BBC’s then-chairman, predicted that “in the context of this new world of opinionated, value-laden broadcasting, the BBC [could] be perceived not as fundamentally different from other providers, but as fundamentally the same.”
@@ -37,6 +39,8 @@ At the same time, the old left-right divide has been superseded by a cultural on
 But the Reuters study found that on a “populism” spectrum, the BBC’s audience leant anti-populist. It struggles to reach the less-educated, who are 20% less likely than graduates to tune in to the BBC and little more than half as likely to consume its content online. “In our sensibilities, in our delicacies of speech, we are super-serving upper-middle-class people,” admits one well-known journalist. “The cultural battle isn’t made up by Dominic Cummings [the prime minister’s adviser]. It’s real.”
 
 The second threat to the BBC’s universality is that young people are switching off. Whereas over-65s watch nearly six hours of live TV a day, the same as a decade ago, viewing among 16- to 24-year-olds has fallen by half, to just 85 minutes (see chart 2). Though they consume about four-and-a-half hours of video daily, the same as the average Briton, an explosion in new ways to watch has pulled them away from broadcast TV. More than half of households subscribe to a streaming service like Netflix, a figure that is rising under lockdown (see [article](https://www.economist.com//business/2020/04/23/how-technology-shapes-tv-shows-narrative-arcs)). Those aged 16-24 spend more time on YouTube than live TV, according to Ofcom, the regulator. If that is worrying for BBC executives, the next generation should terrify them. Children aged 12-15 are more likely to have heard of Netflix than the BBC.
+
+
 
 ![](./images/20200425_BRC311.png)
 

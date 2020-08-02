@@ -16,6 +16,8 @@ This grim situation became apparent in France when it started publishing statist
 
 How many sinister, underreported aspects of the covid-19 outbreak might yet emerge in Europe? Due to reporting lags and varying death-certification procedures, all official data tend to undercount covid deaths. The best way to get a more accurate picture is to look at excess mortality, the gap between the number of overall recorded deaths and the historic average for the same period. The Economist has calculated excess mortality for some of Europe’s worst-hit countries, using, where possible, a five-year average (see chart). We also use this to calculate how well different countries are capturing the effect of covid-19 in their official data.
 
+
+
 ![](./images/20200509_EUC504.png)
 
 France, Sweden and Belgium seem to do the best job. (German numbers are not recent enough to make valid comparisons, and may be exaggerated by unusually low flu-related deaths earlier this year.) Their official covid-19 death tolls are picking up 87-93% of excess mortality. This partly reflects reporting protocols. Belgium includes suspected as well as confirmed covid-19 deaths. Indeed, three-quarters of covid-19-related deaths in its care homes have not actually been tested, according to Yves Coppieters, an epidemiologist at the Free University of Brussels. This gives tiny Belgium a big total relative to its population. Belgian officials were miffed when Donald Trump recently used a chart showing Belgium as the worst-affected country. A “vile” insinuation, commented Denis Ducarme, a Belgian minister. Even in Belgium, some criticise this approach as too speculative, but it may mean fewer nasty surprises later on.

@@ -16,9 +16,13 @@ These woes have been exacerbated by seismic shifts in the allocation of capital.
 
 Hedge-fund managers have long warned that these trends in investment allocation might pan out poorly for investors in a crisis. The financial-market chaos wrought by the pandemic has tested that claim, and hedge funds have been vindicated, though only partially. They have not made big gains. And they have experienced outflows: figures released by Hedge Fund Research on April 22nd suggest that these amounted to 1% of assets under management in the first quarter. Still, they have, so far, lost less than the market. And there are early signs that the crisis could benefit the industry in the longer term, if it causes investors to appreciate the benefits of hedging their equity exposure, and to shift away from illiquid assets.
 
+
+
 ![](./images/20200425_FNC309.png)
 
 How you think hedge funds have performed during the market turmoil depends on how stern a test you apply. If you think their purpose is to make steady returns, regardless of how markets fare, then most have failed. On average, the value of their portfolios has fallen by 10.5% (see chart 2). But they have at least beaten the market: the S&P 500 fell by 20% in the first three months of the year. True, average annualised returns of the S&P 500 in the past five years, at 4.6%, still beat those of the average hedge fund, at 3%. But the goal for most institutional investors is not to achieve the juiciest returns; it is to generate good returns that are steady and low-risk. If hedge funds beat the market during times of stress, they become a source of portfolio diversification that is useful to endowments and pension schemes.
+
+
 
 ![](./images/20200425_FNC314.png)
 

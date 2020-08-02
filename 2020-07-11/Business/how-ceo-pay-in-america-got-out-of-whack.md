@@ -16,6 +16,8 @@ Rise it has—and then some. According to Bloomberg, a research firm, the median
 
 A forthcoming report by the Economic Policy Institute (EPI), a left-leaning think-tank, scrutinises how much bosses at the 350 biggest American firms by revenue actually made once stocks and options were vested and exercised (as opposed to their notional values at the time they were granted). Lawrence Mishel of EPI calculates that from 1978 to 2019 the average “realised” compensation swelled nearly thirteen-fold in inflation-adjusted terms, outpacing the stockmarket (see chart 1). It shot up by 14% in 2019 alone.
 
+
+
 ![](./images/20200711_WBC362.png)
 
 Such numbers were setting off alarm bells before the covid-19 crisis. Now the mass lay-offs and bleeding balance-sheets resulting from the recession have brought it into stark relief. According to official filings, one in ten members of the Russell 3000, a broad index of listed American companies, has slashed bosses’ salaries in response to covid-19. They include big airlines (like United and Delta), hotel chains (such as Marriott and Wyndham) and industrial conglomerates (for example, GE). Many others plan to review their compensation plans. Todd Sirras of Semler Brossy, a pay consultancy, predicts a busy autumn for his industry.
@@ -23,6 +25,8 @@ Such numbers were setting off alarm bells before the covid-19 crisis. Now the ma
 Though portraying this as a show of solidarity with workers, a few have quietly also handed bosses lucrative perquisites. A week after Hyatt Hotels cut its chief executive’s salary in March, it awarded him shares and options that could, if the company’s share price rebounds, be worth much more than the forgone pay. Courtney Yu of Equilar, a research firm, observes that bonuses, grants of stocks and options tied to performance at big American firms have risen from a small portion of executive compensation two decades ago to more than half today.
 
 The favoured measure of performance is a company’s total returns, which combine share-price moves with any dividend payouts. As a consequence of a record bull market in equities after the global financial crisis of 2007-09, only brought to a halt by the covid-19 pandemic, executive pay in America shot up into the stratosphere. Today, after a rollercoaster ride this year, the S&P 500 is nearly back to where it was before the coronavirus struck; compensation may continue to rise.
+
+
 
 ![](./images/20200711_WBC388.png)
 
@@ -35,6 +39,8 @@ Critics point to problems besides rewarding luck instead of skill. One is rent-s
 Compensation committees often rely on advice—and political cover—from pay consultants. A recent study of 2,347 firms, by Kevin Murphy of the Marshall School of Business and colleagues, finds that companies using consultants pay more. Independently, those with higher pay and more complex pay plans are also likelier to hire advisers. Most problematic is their use of pay benchmarking, which has led to the ratcheting-up of pay for all bosses. As Mr Nzima of CalPERS observes, “Everyone is targeting either median or above-median pay, so median is always going higher regardless of actual performance.” Gregg Passin of Mercer, another consultancy which advises clients on pay, accepts that the ratchet effect is real. “I can’t deny it,” he says. His firm recommends that some bosses, such as first-time CEOs, should be paid below the median.
 
 The good news, says Pamela Marcogliese of Freshfields, a law firm, is that institutional investors are paying more attention to remuneration. She points to a surge in attention among big activist investment funds to “say on pay” proposals, which let investors express dissatisfaction with excessive pay.
+
+
 
 ![](./images/20200711_WBC372.png)
 

@@ -16,6 +16,8 @@ That competition was not the only example of athletes taking to a video-game ver
 
 It may seem surprising that fans might be satisfied by watching a virtual version of their sport. Yet video games have been quietly becoming more like traditional sports for some time. Covid-19, by keeping athletes indoors, has given a boost to “e-sports”—not just virtual versions of old sports, but entirely new online games, played competitively by professionals and watched by tens of millions of people.
 
+
+
 ![](./images/20200627_IRC179.png)
 
 Video games, now played often by perhaps a quarter of the world’s population, are no longer just entertainment. Many games are more like something between a sport and a social network. And games have thrived under lockdown. The number of players logged into Steam, a popular gaming platform on PCs, reached record highs in late March, with 25m players logged in at one time. Nintendo’s share price increased by 45% in the month from March 16th. Twitch saw its traffic jump by 50% from March to April.
@@ -39,6 +41,8 @@ Though South Korea remains a leader in e-sports, China is catching up. The islan
 For a generation that lives chiefly online anyway, games are a means of socialising, like traditional sports. Thurston Jepps, a 12-year-old from London, mainly plays “Minecraft”, a free-roaming construction game, and “Overwatch”. He guesses that at least four-fifths of the time he spends playing is with friends online, rather than alone. Logging into his Xbox and seeing who is online is a little like going to the park to see who is around for a kick-about. “I don’t often play single-player games unless I am kinda lonely,” he says. “Playing alone is very uncool.” Sometimes he and his friends play competitively, but often they just hang out and talk on voice-chat.
 
 E-sports are different in some respects, however. Nobody owns the game of soccer or basketball. That is not true of e-sports. Publishers control the games. And grassroots do not exist in the same way. Children are not encouraged to play video games at schools; most amateur teams exist only online; the pathway into playing professionally is unclear. Some teams are trying to change that. Mr Spoont’s firm has held “block parties’’ to encourage parents to take the game seriously. His teams have scouts to recruit the best players internationally, much as other sports do. But he admits that there is a long way to go. “Parents are rightly anxious,” says Mr Spoont, who limits his six-year-old’s screen time.
+
+
 
 ![](./images/20200627_IRD002_0.jpg)
 

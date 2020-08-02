@@ -26,6 +26,8 @@ While China’s supply chains have buoyed up his company, its intellectual-prope
 
 If Chinese companies do take patent disputes to court, the process often takes years—a lifetime for a young startup. But that is still progress. China did not have any patent law until 1985. Specialised courts for hearing IP cases were introduced in 2014. An analysis of those courts’ performance carried out by Renjun Bian of the law school at University of California, Berkeley, shows that, perhaps surprisingly, they have so far favoured non-Chinese patent holders over domestic ones. Ms Bian found that foreign patent holders were winning more cases, receiving injunctions at higher rates, and being awarded larger damages than domestic ones. Those results are probably a reflection of the legitimate nature of foreigners’ grievances—but they are also a sign of the courts’ good faith.
 
+
+
 ![](./images/20200104_TQC529.png)
 
 China’s progress on intellectual property (see chart) is not proving enough for America’s trade hawks. But internal pressure from innovators like Mr Li is more likely to create positive change in China’s IP system than a trade war is. This presents a conundrum for American policymakers. The best path to a Chinese system which respects and protects intellectual property is for China itself to become more innovative. And yet that very same Chinese innovation, and the more efficient use of resources as a nation that it makes possible, is unsettling to Americans.

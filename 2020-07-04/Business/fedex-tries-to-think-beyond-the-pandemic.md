@@ -16,6 +16,8 @@ Aside from crushed profits, thousands of the companies’ delivery workers have 
 
 FedEx has not, then, had a great pandemic. But most of its problems predate the crisis. The main one has been indecision over whether to focus on bulk deliveries or the consumer market. Despite cutting ties with Amazon a year ago, apparently out of frustration with the slim margins offered by the e-commerce giant on its voluminous deliveries, it has maintained partnerships with Walmart and Target, America’s second- and eighth-largest online retailers, respectively. The result was a muddle.
 
+
+
 ![](./images/20200704_WBC242.png)
 
 In January FedEx finally extended home deliveries from six days a week to seven and strengthened its business-to-consumer operation. But its earlier dithering left it with a ground network for home deliveries that was a work in progress when the pandemic hit. UPS in particular had leaned earlier and more heavily into that growth business before covid-19. It too has experienced problems as a result of pandemic demand—but fewer than FedEx has.

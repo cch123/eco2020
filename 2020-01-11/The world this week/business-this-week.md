@@ -14,6 +14,8 @@ The euro zone’s annual inflation rate reached a six-month high of 1.3% in Dece
 
 Bruno Le Maire, the French finance minister, said that he was working closely with Steven Mnuchin, his American counterpart, to reach a deal within the next two weeks that would avoid America imposing tariffs on French products in retaliation for a digital sales tax that the Trump administration says is aimed solely at American tech giants. The pair are expected to meet at the Davos forum in late January.
 
+
+
 ![](./images/20200111_WWC038.png)
 
 Cyrus Mistry said he would no longer seek his reinstatement as chairman of Tata Sons, despite winning a legal challenge in December, but does intend to seek a seat on its board. Mr Mistry was sacked by the Indian conglomerate in 2016 after a power struggle. Tata is to ask India’s Supreme Court to overturn last month’s ruling favouring Mr Mistry.

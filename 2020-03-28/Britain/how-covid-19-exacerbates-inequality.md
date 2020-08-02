@@ -16,11 +16,15 @@ Yet the fallout from the pandemic threatens to expose—and widen—inequality i
 
 The first divide is geographic. Differences in the structure of local labour markets may lead to vastly different outcomes across the country (see map). Some parts of the country are stuffed with professionals who can weather travel restrictions by working from home; others are full of factory workers who can hardly set up assembly lines in their living rooms. Prosperous places like Reading and Brighton have plenty of potential home-workers, according to analysis by the Centre for Cities, another think-tank. Less well-to-do cities like Middlesbrough and Hull do not.
 
+
+
 ![](./images/20200328_BRM913.png)
 
 The south-east of England, the region with the highest share of white-collar jobs, is best placed for business as usual. More than a third of journalists, for example, work in London. The Economist has been entirely written and edited from journalists’ homes, most of them in the south-east. Even within regions, differences are stark. Newcastle will cope better than neighbouring Sunderland. The map echoes geographic divides in support for Brexit. The thriving areas that voted Remain are more likely to be packed with video-conferencers today than are the so-called left-behind places that voted to leave the EU.
 
 The second disparity is economic. The most flexible workers tend to be higher earners. The Resolution Foundation reckons about half of Britain’s highest-paid employees can work from home, but less than 10% of those in the four lowest-paid deciles can. Hospitality and retail workers, who will bear the brunt of closures, are already among the lowest-paid in Britain (see chart). Nor can they fall back on reserves: more than half of poorer households have no savings.
+
+
 
 ![](./images/20200328_BRC885.png)
 

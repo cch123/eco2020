@@ -18,9 +18,13 @@ Yet Thuringia is just the most extreme example of the fragmentation of German po
 
 This cosy picture was to be triply disrupted. First came the Greens, founded in 1980, who quickly morphed from hirsute radicals into a party of government. Reunification in 1990 brought in the former eastern communists, who later merged with west German leftists to form Die Linke, Mr Ramelow’s party. The biggest jolt was the rise of the AfD, which began in 2013 as an anti-euro party but soon curdled into xenophobic populism. Today there are six parties in parliament, and the decline of the Volksparteien means three of the four governments Angela Merkel has led since taking office in 2005 are “grand coalitions” of the CDU/CSU and SPD; two faltering giants leaning on each other for support. On current polling they attract barely 40%.
 
+
+
 ![](./images/20200208_EUC058.png)
 
 Fragmentation is at its starkest in Germany’s unusual federal system. Thirty years ago seven of its 16 Länder (states), which have powers in education, policing and infrastructure, were ruled by single parties; all but one of the rest had two-party coalitions. Today almost half are governed by three (see chart). There are a head-spinning 13 coalition combinations in the 16 states (see map). Eastern Germany is particularly afflicted, thanks to the strength there of the untouchable AfD. Saxony, Saxony-Anhalt and Brandenburg are all run by “Kenya” CDU-SPD-Green coalitions (the parties’ colours match the Kenyan flag), fragile and unloved contraptions erected solely to keep the AfD out of office.
+
+
 
 ![](./images/20200208_EUM950.png)
 

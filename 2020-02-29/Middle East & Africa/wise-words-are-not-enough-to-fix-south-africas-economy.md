@@ -16,6 +16,8 @@ Mr Mboweni announced some sensible policies aimed at speeding growth, such as ma
 
 Then there was Eskom, a state-owned electricity utility that epitomises South Africa’s struggles. Decades of mismanagement, outright theft, and contracts and jobs for pals have left it broke and unable to keep the lights on. About a third of its capacity is out of action because of breakdowns. Rolling blackouts that regularly shut factories, shops and mines are pushing the economy towards recession. Mr Mboweni promised to make it easier for independent firms to sell power into the national grid. Many have heard that before.
 
+
+
 ![](./images/20200229_MAC489.png)
 
 Most importantly, Mr Mboweni outlined his plan to reduce the country’s budget deficit—forecast to be almost 7% of GDP next year. Duties on some alcoholic drinks will increase. But most of the reduction in borrowing will be made by cutting spending by 261bn rand ($17.2bn) over the next three years. Savings on the wage bill are supposed to provide 160bn rand.

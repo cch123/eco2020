@@ -18,6 +18,8 @@ Ideally private investors would swoop in—Warren Buffett is sitting on $125bn o
 
 Such bespoke deals are easy to sign but often go sour. Uncle Sam lost over $10bn on the General Motors rescue of 2009 and the Wall Street bank bail-outs left an especially bitter taste. Negotiations can be hijacked by politicians who want pork or sway over firms’ strategies. If bailed-out firms end up indebted and burdened by long-term job guarantees, the economy can become ossified, sapping productivity. And it is unfair to ask well-run firms to compete with state-backed rivals.
 
+
+
 ![](./images/20200404_LDC115.png)
 
 What to do? Governments need to offer support for business in an integrated way. There should be blanket offers to all firms of cheap loans and help in paying the wages of inactive staff for three to six months with few strings attached. This is what the $8trn of loans and guarantees mostly try to do, but there are gaps and doubts about how small firms will get cash. One answer is making sure banks have the resources to lend—even if this means suspending their dividends, as Britain did this week. The goal should be to freeze most of the economy temporarily, until the lockdowns ease.

@@ -38,6 +38,8 @@ A study published in the current edition of Nature Medicine backs this idea up. 
 
 Rupert Beale, an infections biologist at the Francis Crick Institute in London, says that Dr Cowling’s study presents “strong and compelling” evidence in favour of the public wearing masks, but he warns that this approach should not be used in isolation. It could instead form part of a wider “exit strategy” from lockdown, combined with tried-and-tested measures including continued social distancing and thorough handwashing.
 
+
+
 ![](./images/20200411_STP004_1.jpg)
 
 This only works, though, if there are enough masks to go around. According to the WHO, “the chronic global shortage of personal protective equipment is now one of the most urgent threats to our collective ability to save lives. We must provide the protection health-care workers deserve to save our lives.”

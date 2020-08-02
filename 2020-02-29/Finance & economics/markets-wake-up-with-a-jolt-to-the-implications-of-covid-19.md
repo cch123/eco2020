@@ -18,9 +18,13 @@ But there is also an uneasy sense that the virus could trigger a bigger rupture 
 
 Start with the first, volatility. Equity-market instability might feed on itself. The VIX, which measures the expected volatility implied by the price of options on the S&P 500 index, vaulted from around 15 to above 27 in a matter of days (see chart 1). Some investment strategies are particularly sensitive to it. For example when volatility is low, they allow for a bigger weighting of equities in portfolios. But when it rises and stays high, some investors are forced to unload some of their holdings—creating yet more volatility. Some exchange-traded funds whose value is linked to the VIX saw outflows. It is likely that at least some investors have been betting on continued near-dormant volatility. The resilience of such strategies could be tested.
 
+
+
 ![](./images/20200229_FNC493_0.png)
 
 A bigger worry is credit markets and in particular corporate debt, which has soared over the past decade. A sharp rise in borrowing costs would hurt firms that need to roll-over maturing bonds and would also rattle America’s huge private-credit markets. The last big global growth scare, in late 2018, caused a panicky sell-off that briefly threatened to become a credit-crunch. So far the interest-rate spread over Treasuries demanded by investors to hold high-yield corporate paper has widened to 4.3 percentage points, with much of the impact felt by energy-sector bonds (see chart 2). That is cause for concern, not alarm. But new issuance has halted—by February 26th Wall Street had gone three days without any high-grade offerings, according to Bloomberg. If that continues there will be a corporate liquidity squeeze.
+
+
 
 ![](./images/20200229_FNC491_0.png)
 

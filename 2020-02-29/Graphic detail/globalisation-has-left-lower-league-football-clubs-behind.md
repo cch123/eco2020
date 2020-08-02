@@ -8,6 +8,10 @@
 
 > Feb 29th 2020
 
+
+
+https://infographics.economist.com/2020/20200229_GDC300_1/index.html
+
 POPULISTS OFTEN decry a “rigged system”, where global “elites” break rules while everyone else falls behind. Their tale got a recent boost from an unlikely source.
 
 On February 14th UEFA, which runs Europe’s continental football contests, said it would expel Manchester City from those events for the next two years. The club, largely owned by Emirati royalty, won the English Premier League (EPL) last year with a costly, star-laden squad. On paper, it complied with rules that ban teams from making big losses, by paying wages using revenue from Emirati corporate sponsors. But UEFA said those firms had improperly subsidised the club, by paying above the market rate. City says the deals were not inflated, and has appealed against the decision.
@@ -15,6 +19,10 @@ On February 14th UEFA, which runs Europe’s continental football contests, said
 Meanwhile, English teams without access to foreign capital or accountants have fallen on hard times. Just north of Manchester is Bury, whose local club, Bury FC, was set to start this season in League One. (Confusingly, English football’s second, third and fourth divisions are known as the Championship, League One and League Two.) In August Bury was kicked out of professional football after it failed to service its debts. On February 21st fans entered a new club into the amateur tenth tier.
 
 The diverging paths of Manchester City and Bury reflect a widening economic gap between the top of England’s football pyramid and its base. An investigation by the Times found that 52 of the 72 teams in the second, third and fourth divisions recorded a loss in their most recent accounts. According to Deloitte, a consultancy, in 1992-2018 the revenues of teams in Leagues One and Two grew only a quarter as quickly as those in the Premier League did.
+
+
+
+https://infographics.economist.com/2020/20200229_GDC300_2/index.html
 
 This separation owes in part to differences in regulation. Whereas UEFA’s financial rules have forced elite teams to be profitable, those for lower-ranked clubs are weaker. Many small teams have made big, unwise gambles trying to reach the top division, driving them into the red.
 
@@ -25,6 +33,8 @@ Growing inequality in football has mirrored broader trends in British society. E
 Fans of struggling teams have noted the parallel between their hometowns and football clubs that once served as a pillar of community. “The system...always lets people down at the bottom,” says Zoë Hitchen, a Bury supporter. “It never lets down the people at the top...You can’t split this from what’s happening in the UK at the moment. You can’t split it away from Brexit.” ■
 
 Sources: Deloitte; Transfermarkt; Footstats.co.uk; Footballgroundguide.com; Chris Hanretty; ONS
+
+
 
 ## URL
 

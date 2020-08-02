@@ -14,6 +14,8 @@ Half a century in the making, the hydro-electric dam is Africa’s largest, with
 
 For Egypt, however, it seems a source of national danger. Over 90% of the country’s 100m people live along the Nile or in its vast delta. The river, long seen as an Egyptian birthright, supplies most of their water. They fear the dam will choke it off. Pro-regime pundits, not known for their subtlety, have urged the army to blow it up.
 
+
+
 ![](./images/20200704_MAM907.png)
 
 Both sides have tried diplomacy, but years of talks failed to produce a deal on how Ethiopia would fill and operate the dam. The African Union tried to mediate, as did America earlier this year. Now a deadline looms: Ethiopia wants to start filling the reservoir during this summer’s rainy season. On June 26th, after another round of talks, Egypt, Ethiopia and Sudan pledged to reach a deal within two weeks. Ethiopia agreed not to start filling the dam during that period.

@@ -16,6 +16,8 @@ Happily, the Fed concludes, in this U-shape scenario the banking system’s tota
 
 One way to give yourself nightmares is to imagine that nothing had changed at the banks and they were still run with the skimpy capital levels they had at the end of 2008. The Economist has used the Fed’s data to make a rough estimate of the impact today’s loan losses would have had (see chart). If an unreformed banking system had faced this year’s U-shape scenario, its total core-capital ratio would have potentially dropped to 1.5%, with several big banks’ figures touching zero—ie, technical insolvency. Faced with this, depositors and counterparties would have fled, in a full-scale bank run. The taxpayer bail-out in this parallel universe might have been even bigger than in the financial crisis.
 
+
+
 ![](./images/20200704_FNC293.png)
 
 Instead, the banking system’s new resilience means that customers and investors did not rush to withdraw funds as in 2007-09. Banks were seen as safe. Lenders in turn have had the resources to extend overdrafts to firms in need.

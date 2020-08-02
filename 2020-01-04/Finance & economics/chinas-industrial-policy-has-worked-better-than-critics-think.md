@@ -28,6 +28,8 @@ China’s shipbuilding industry provides a textbook example. Panle Jia Barwick a
 
 That, though, is not the end of the story. Ultimately, the value of industrial policy is in its wider economic impact. In a separate paper, Ernest Liu of Princeton University argues that state support is most effective when it targets those sectors that make the most essential inputs for others. Generally, these are upstream; turning raw materials into products used in a range of industries. Subsidies for them, even via state firms, can raise overall efficiency. As it happens, China has focused its support on the right sectors in Mr Liu’s calculations, such as steelmaking and machinery. China, put bluntly, might never have become the economic power that it is today without ambitious industrial policy.
 
+
+
 ![](./images/20200104_FNC814.png)
 
 Mr Liu’s model does not indicate when subsidies are too high, nor does it set out how best to design policies. There is evidence that China’s heavy-handed intervention is becoming increasingly ineffective. Total factor productivity growth in China in recent years has been a third of what it was before the 2008 global financial crisis (see chart). Productivity has also slowed in other countries, but the World Bank, in a recent book about Chinese innovation, notes that China’s slowdown has been unusually sharp.

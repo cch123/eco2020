@@ -14,6 +14,8 @@ Canadians have their doubts. Canada’s pharmaceutical prices are 25% higher tha
 
 It is the only country with publicly financed universal health care that does not provide universal coverage for prescription drugs. A fifth of Canadians have no drug insurance. Nearly 1m say they spend less on food or heating to pay for them. Hundreds of people die and tens of thousands harm their health because they stop taking medicines, according to a report in 2018 by a nurses’ union.
 
+
+
 ![](./images/20200215_AMC179.png)
 
 Politicians now agree that Canada has a drug problem. Justin Trudeau, the Liberal prime minister, who has led a minority government since a parliamentary election in October, calls drug prices a “terrible financial barrier”. In December the government said it would introduce “national pharmacare”, some sort of federal drug-insurance benefit. That leaves big questions unanswered. Just how Mr Trudeau goes about fixing drug coverage will be one of the biggest decisions of his second term.

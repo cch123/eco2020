@@ -12,9 +12,13 @@ NO INDUSTRY HAS been more battered by covid-19 than air transport. With people w
 
 Plenty were stalling before the pandemic. Of the 120 airline companies ranked by IATA only around 30 made money in 2017 and 2018. Last year the biggest half-dozen in Europe earned the bulk of the $7bn in profits there, calculates Citigroup, a bank. Many firms had borrowed heavily to buy planes which the virus has grounded. The 90-odd that are in the red have on average six times as much net debt (adjusted for aircraft leases) as EBITDAR (a measure of airline profits). In January the typical carrier had enough cash to cover between 50% and 80% of short-term liabilities and about two months of revenues, IATA says (see chart). Three-quarters could not cover costs beyond three months—if that.
 
+
+
 ![](./images/20200321_WBC803.png)
 
 Big companies have secured generous credit lines from banks. IAG, which owns British Airways, can tap €1.9bn ($2.1bn) in revolving credit. EasyJet, a British low-cost carrier, has $500m available. Most firms, especially in Europe and Asia, nevertheless have no choice but to cut flights and sack staff. Cancellations in America are a bit less savage while planes are still permitted to crisscross its air space; Southwest has cut just one in five flights. If revenues fall by 35% in 2020, Delta, Southwest and United should end the year with “adequate” liquidity, says JPMorgan Chase, another bank—as long as demand begins to bounce back.
+
+
 
 ![](./images/20200321_WBC438.png)
 

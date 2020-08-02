@@ -12,6 +12,8 @@ DEEP UNDER the countryside north of Geneva, straddling the Franco-Swiss border, 
 
 The LHC belongs to the world’s leading particle-physics laboratory, CERN. It is the latest in a long line of increasingly sophisticated machines built over the past century by researchers intent on finding out how the universe truly works. The result of this effort has been one of the most successful, most tested scientific ideas of all time: the Standard Model of particle physics (see chart).
 
+
+
 ![](./images/20200104_STC710.png)
 
 The Standard Model is not, however, a theory of everything. It leaves many things unexplained. So, even though their multi-billion-franc toy at CERN has at least two more decades of collisions left to run, physicists are already considering what comes next. That means building a yet more powerful machine that can reach yet higher energies, and thus generate yet heavier and more interesting particles. And building that machine means, in turn, building the political will to pay for it and deciding where it will be constructed. This might be at CERN, or perhaps in Japan, or maybe in China—a prospect unwelcome to the current primus inter pares of the field, America.
@@ -55,6 +57,8 @@ Unlike a ring, a linear collider can be constructed in stages, which helps with 
 If particle physics went down the linear-collider route, which of these machines would come out on top is moot. On the face of things, the International Linear Collider is ahead. Physicists from around the world have spent years working on the proposal and, in 2013, they secured Japan’s support to build it in Honshu. After that, however, progress slowed, and as yet there has been no decision on whether the project will go ahead. The Science Council of Japan, which advises the government on such matters, is still evaluating the scheme. It is expected to make its intentions clear in February. CERN, meanwhile, seems more interested in building a new ring. The Compact Linear Collider’s supporters in the organisation are a minority.
 
 While the old Great Powers of physics argue about what to do next, though, they may find themselves outflanked. For China is moving into the field at breakneck speed. Under the leadership of Wang Yifang, head of the Institute of High Energy Physics in Beijing, the country has been training young scientists and building an impressive research infrastructure. Its flagship proposal is the Circular Electron-Positron Collider (CEPC), conceived by Dr Wang after the discovery of the Higgs boson and which has now been through several stages of technical design.
+
+
 
 ![](./images/20200104_STD002_0.jpg)
 

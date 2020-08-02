@@ -16,6 +16,8 @@ The market is, little by little, getting busier. But merchants have a big challe
 
 Since the outbreak of the virus, economists and investors have tried to grasp the basics of epidemiology, analysing such matters as the potential incubation period of the disease. Recently, they have turned back to more familiar terrain, tracking the state of the economy. To gauge whether output is resuming, economists have been examining an array of daily figures, including coal consumption, traffic congestion and property sales. All have started to rise (see chart), but remain far below healthy levels. One gauge has been far more upbeat—unrealistically so. China’s stockmarket fell by more than 10% after the coronavirus spread in late January but has since recovered that ground, partly on a belief that the government will unleash a big stimulus to boost growth. So far, though, it has only offered targeted support: loan extensions, tax cuts and subsidised rents.
 
+
+
 ![](./images/20200229_FNC458.png)
 
 Yet China has unquestionably shifted its focus, as underlined on February 23rd when President Xi Jinping spoke via teleconference to 170,000 cadres around the country. In areas where the virus is no longer a big danger, it is time for companies to resume operations, he said. So along with reporting the number of new infections every day, officials now report on the number of reopened businesses. The province of Zhejiang, a manufacturing hub and home to Yiwu, leads the country, with 90% of its large industrial firms having restarted. But many of these are running at low capacities. “The government, enterprises, workers—everyone is making a gamble in restarting,” says Jason Wang, an executive with a company that sells winter coats.

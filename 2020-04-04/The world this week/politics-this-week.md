@@ -32,6 +32,8 @@ Hungary, which has been dismantling checks and balances on the executive for a d
 
 European leaders were at loggerheads over the issuance of so-called coronabonds, government bonds jointly guaranteed by all countries of the euro zone. Rich northern countries have refused to countenance these, but a group of nine mainly southern countries are warning of economic calamity and threats to the single currency if they are not created.
 
+
+
 ![](./images/20200404_WWC004.png)
 
 Boris Johnson contracted covid-19, the first political leader of a country to do so. The British prime minister is self-isolating at Number 10.

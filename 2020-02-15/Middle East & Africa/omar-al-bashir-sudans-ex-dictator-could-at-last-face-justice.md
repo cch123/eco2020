@@ -24,6 +24,8 @@ It helps that the ICC’S chief prosecutor, Fatou Bensouda, is a Gambian, traine
 
 Mr Bashir’s fate suggests a novel path to the ICC; a revolution followed by the new government calling in the court to help prosecute former leaders. That might worry Saif al-Islam Qaddafi, the son of Libya’s former despot, indicted for crimes against humanity by the ICC (see table).
 
+
+
 ![](./images/20200215_MAC160_0.png)
 
 Yet Sudan’s willingness to bring in the ICC will not alone fix the court’s troubles in Africa. Paradoxically, the likelihood of stronger co-operation by African governments rests more on the ICC’s ability to pursue cases outside of Africa. The ICC has moved that way, opening preliminary investigations into abuses by British forces in Iraq and pushing for an investigation into all sides in Israel-Palestine.

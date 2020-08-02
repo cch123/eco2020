@@ -34,6 +34,8 @@ Defeating the virus will require tracking who has been infected, tracing their c
 
 Cambodia’s emergency law allows for unlimited surveillance of private citizens. Moscow is mulling a scheme whereby everyone would have to register their personal details on an official website. Every time they want to go out, they would have to provide a reason and the address of their destination. They will then be sent an electronic message to show to the police if they are stopped. The authorities would monitor everyone’s geolocation and even financial records to make sure they comply. The potential for abuse is obvious.
 
+
+
 ![](./images/20200425_IRC304.png)
 
 Spreading rumours during a pandemic can be dangerous. Many regimes have used this as an excuse to crack down on critics. Reporters without Borders, a watchdog, cites 38 countries that have used covid-19 as a pretext to harass the media. It stresses that the list is not exhaustive.
@@ -63,6 +65,8 @@ Some governments have used the disease itself to intimidate the opposition. Crow
 Some governments are looking for scapegoats. In India that means Muslims. After it was discovered that a Muslim religious meeting on March 15th was the source of more than 1,000 infections, the Hindu nationalist government made every effort to publicise this fact. For several days the ministry of health counted separately covid cases tied to the event. A cabinet member likened it to a crime by the Taliban. Health authorities assiduously traced every single case from the Delhi meeting, ultimately putting some 25,000 people under quarantine. They have made no such effort with any other vector, such as the huge wedding party of a ruling-party bigwig. #CoronaJihad proliferated on social media, along with rumours that Muslims were spitting in people’s food to spread the virus. Muslims have been attacked in the streets. A cancer hospital in Meerut said that it would not take Muslim patients unless they tested negative for covid-19.
 
 Blaming Muslims is a handy way to fire up Hindu nationalist voters and distract attention from the fact that, at the time of the notorious Muslim prayer meeting, the government had yet to take the virus seriously. “Having spent years painting [Muslims] as a demographic, cultural, sexual, and security threat, it is now busily painting them as a biohazard,” complains Mitali Saran in the Deccan Herald.
+
+
 
 ![](./images/20200425_IRD002_0.jpg)
 

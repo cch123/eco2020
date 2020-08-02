@@ -16,6 +16,8 @@ The arrival of the new coronavirus in the city-state was predictable. China is S
 
 Others insist they are unaffected by the virus. Indonesia, with its 6,000 inhabited islands and 267m people, denies it has a single case. That would be surprising (see chart), given that 2m Chinese tourists visit every year. Some 5,000 Chinese visitors to Bali extended their stay there, fearful of returning home and exposing themselves to the virus. Amin Soebandrio, director of the Eijkman Institute for Molecular Biology in Jakarta, maintains that the country is more than able to detect anyone infected. And yet 238 Indonesians who were evacuated from Wuhan were quarantined but not tested for covid-19. The health ministry said that this was because the arrivals appeared healthy and the tests are expensive.
 
+
+
 ![](./images/20200215_IRC964.png)
 
 Experts suspect there are many more infections than have been reported. “Any country that has significant travel back and forth with China and hasn’t found cases should be concerned,” cautions Marc Lipsitch, a professor of epidemiology at Harvard University. Covid-19 has arrived in Singapore; it would be foolish to think that it has not spread more widely, he says.

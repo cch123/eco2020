@@ -14,6 +14,8 @@ Mr Bezos has long been gripped by an environmentalist dream—albeit an unusual 
 
 In the context of climate change, $10bn is both a lot and a little. The Earth Fund will have to hand out at least $500m a year to avoid tax penalties, and Mr Bezos could add to the pot. The next-biggest climate donor, the Hewlett Foundation, disburses around $120m a year in the area. But the scale of the problem dwarfs even Mr Bezos’s vast resources. The cost of meeting the Paris agreement, which aims to prevent the planet warming by more than 2°C, compared with pre-industrial levels, has been estimated at 2.5% of the world’s $86trn GDP every year.
 
+
+
 ![](./images/20200222_LDC239.png)
 
 As a technically minded space cadet, though, Mr Bezos surely knows his Archimedes. Moving the Earth is not a matter of brute force, but of finding the right lever. There are, broadly, two types of leverage open to him. One is political: turn the tide of opinion and politics in America, thereby adding a superpower’s force to his efforts. The other is technological; take things that the market is ignoring and build them up to the point where, in the right political environment, they can make money for other people. Then watch those other people do just that.
@@ -23,6 +25,8 @@ The political route is risky. Existing philanthropies have spent a great deal of
 In technology, progress will come from putting large amounts in well-chosen areas outside the mainstream. There is little point in ploughing money into solar and wind power, or electric vehicles. Better to focus on taking the risk out of things which the world needs but markets will not yet invest in. Building full-scale pilot plants for emissions-free steel-smelting and concrete-making would be helpful. So, too, would creating farms that maximise both crop yields and carbon storage, becoming sinks for greenhouse gases instead of sources.
 
 [](https://www.economist.com//theclimateissue/)
+
+
 
 ![](./images/article_call-to-action_-_the_climate_issue2x_0.png)
 

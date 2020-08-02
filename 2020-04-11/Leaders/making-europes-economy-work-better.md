@@ -18,6 +18,8 @@ To avoid a deep and enduring slump, the southern countries need government spend
 
 The temptation is to dither. Southern borrowing costs are higher than the north’s but not near panic levels. Italy’s ten-year bonds yield about two percentage points more than Germany’s. After fumbling, the ECB has tried to limit the damage by acquiring bonds and relaxing rules about what it buys.
 
+
+
 ![](./images/20200411_LDC168.png)
 
 Those actions will buy time, but no more than that. There are still limits on how much the ECB can help the south and extra bond purchases are likely to end before southern economies recover. The bank may feel it lacks the mandate to extend its scheme. A legal challenge in Germany is an ever-present threat. And, aware that they are pushing their luck, southern countries may opt for smaller stimulus packages than they really need. That could still mean they face a doom loop as a shrinking economy makes it harder to service existing debts.

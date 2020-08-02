@@ -16,6 +16,8 @@ Spain seems to have turned a corner in one of the worst outbreaks of covid-19. T
 
 Governments around the world are trying to work out how to exit their covid-19 lockdowns. Several other European countries, including Austria, Germany, Norway and the Czech Republic, are reopening nurseries, schools and shops as their efforts to stop the spread of covid-19 start, as in Spain, to pay off (see table). In various American states discussions of exit strategies are gaining traction. In New York state, where covid-19 has killed more than 10,000 people in just a month, the total number of cases in hospitals is starting to plateau. On April 13th, along with five other states on the east coast, it disclosed it was working on a strategy for reopening the region’s economy. On the same day three states on the west coast, including California, announced a similar project.
 
+
+
 ![](./images/20200418_IRC800.png)
 
 The big unknown is whether any of the exit strategies being considered or implemented will avoid a second wave of infections. Researchers at Imperial College London estimate that, even when the many infections that were never registered are added to the total, just 1-15% of people in Europe had some immunity to covid-19 at the end of March. Until a vaccine is available, governments will need to keep sufficient numbers of infected people tightly quarantined to prevent new outbreaks that would overwhelm their health systems. But most failed to do this during the early days of covid-19. That is why the epidemics grew so bad that they needed to implement full lockdowns to save hospitals from disaster. It is not yet clear that they will do well enough the second time around to prevent a resurgence of the disease.
@@ -55,6 +57,8 @@ Many experts doubt that such apps, which people will have to install voluntarily
 But organising quarantines on the scale required by covid-19 would require more than just manpower and technology, notes Mr Fraser. Most of the new contact-tracers can work from home, by phone or using other technologies. Some, however, would need to go to people’s homes. For that, they would need face-masks and gloves to protect them—which are in short supply globally. At a local level, isolation facilities are needed for people who cannot isolate themselves at home. These must be safe, private and comfortable.
 
 Above all, every country that wants to contain a second wave will need to test everyone suspected of being infected with covid-19 and their contacts. This will have to be rapid diagnostic testing, says Ms Cicero, where people get the results in less than an hour. Testing sites would need to be set up in every health-care facility. The way things are now in America, people often wait for their results for several days—too long for a virus that they can spread before they develop symptoms.
+
+
 
 ![](./images/20200418_IRD002_0.jpg)
 

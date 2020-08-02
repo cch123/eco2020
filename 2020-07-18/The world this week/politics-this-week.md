@@ -42,6 +42,8 @@ Yemen’s Houthi rebels agreed to give a team of UN inspectors access to an aban
 
 Talks between Ethiopia and Egypt over the filling of a controversial dam on the Nile river broke down. Ethiopia has begun filling the dam.
 
+
+
 ![](./images/20200718_WWC018.png)
 
 Infections continued to soar in America, to over 60,000 cases a day. Florida reported the largest daily increase of any state since the start of the pandemic. California reimposed many of the curbs it had only recently lifted. See [article](https://www.economist.com//united-states/2020/07/18/america-is-in-the-midst-of-an-extraordinary-surge-of-covid-19).

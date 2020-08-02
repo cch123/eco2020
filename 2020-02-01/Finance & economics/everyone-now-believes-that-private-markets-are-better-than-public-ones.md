@@ -14,6 +14,8 @@ This passive boom has spawned its antithesis—niche, run by humans, secretive, 
 
 Worldwide, pools of private capital, including private equity and private debt, as well as unlisted real-estate and hedge-fund assets, grew by 44% in the five years to the end of 2019, according to JPMorgan Chase. A different way to capture the scale of the private party is to look at the quartet of Wall Street firms that specialise in managing private investments for clients—Apollo, Blackstone, Carlyle and KKR. Their total managed assets have risen by 76% in the past five years, to $1.3trn. They have long specialised in buy-outs and property. More recently they have grown in private-debt markets, too—in total their funds’ credit holdings have hit $470bn.
 
+
+
 ![](./images/20200201_FNC025.png)
 
 Venture capital (VC), another part of the private universe, is feverish. SoftBank’s Vision Fund, a $100bn private-capital vehicle backed by Saudi Arabia’s sovereign-wealth fund, has funnelled cash into fashionable, unlisted startups. Other institutions have vied with it to write big cheques for Silicon Valley’s brightest new stars. Already some of these bets have gone awry. WeWork, an office-sharing deity-turned-dud, had to cancel an initial public offering (IPO) in 2019 after public-market investors balked at its valuation. This week Casper, a loss-making firm that sells mattresses on the web, announced that the value it is seeking at IPO is below its $1.1bn valuation at its previous funding round.
@@ -34,6 +36,8 @@ Since the 1990s a growing band of investors have followed the Swensen formula an
 
 Nonetheless the academic literature has concluded that private equity is not all smoke and mirrors. A landmark study in 2005 by Steven Kaplan of the University of Chicago and Antoinette Schoar of MIT introduced a metric called PME (public-market equivalent) to gauge the merits of private capital. A recent comprehensive study based on this technique—by Mr Kaplan together with Robert Harris, of the University of Virginia, and Tim Jenkinson of Oxford’s Saïd Business School—finds that venture and buy-out funds on average did better than the S&P 500 index by around 3% a year after fees. The spread around that average is considerable. Investors in the top quartile enjoyed returns that were far higher than in public equity; investors in bottom-quartile funds did a lot worse.
 
+
+
 ![](./images/20200201_FNC027.png)
 
 Better returns for investors reflect in large part better operating performance by the firms that most funds invest in. In the main, the academic literature finds that private-equity and venture-capital funds add value to the firms they own. They raise efficiency, revenue growth and profitability. The firms have better management habits than entrepreneur- or family-owned firms. Buy-outs lead to modest net job losses but big increases in both job creation and destruction. They spur greater efficiency by speeding up exit from low-productivity “sunset” firms and entry into more productive “sunrise” firms. VC backing spurs more innovation, patents and speedier product launches.
@@ -52,11 +56,15 @@ Yet anyone running a big investment organisation should worry about three things
 
 This pressure is already visible in venture capital. Very few new firms are world-beating. Lots of capital has gone to startups that are variations on established themes: enterprise computing; platforms that bring providers of services (taxis, lodgings, office space) and consumers together; and retail sales via the internet. As more and more capital seeks a piece of the action, the valuations of firms are inflated. “You have a lot of zero-sum expenditure,” says a Silicon Valley bigwig. “Think of all those subsidised taxi journeys from Uber and Lyft.”
 
+
+
 ![](./images/20200201_FNC041.png)
 
 A second concern is liquidity. In principle, there are rewards for tying up money for five to ten years. It affords time for Silicon Valley to turn fledglings into global firms and for private-equity firms to transform sluggish businesses into world-beaters. But even long-horizon investors have ongoing demands on their cash, for example paying the beneficiaries of a pension scheme, meeting commitments to put fresh cash into buy-outs, or (for universities) paying for research grants and bursaries. It is a headache for investors to manage their liquidity needs when a large chunk of their assets are private and illiquid. Payment flows are unpredictable. And capital calls often come at the worst time: during recessions. It is only then that a lot of investors discover that they are less patient than they had believed themselves to be when liquidity was plentiful. Illiquid assets cannot easily be sold to take advantage of low prices in public markets, for instance during crises, when other investors are forced to sell.
 
 The final concern is agency costs. Private capital may be a solution to the age-old agency problem between shareholders and company bosses. But it also creates another one between institutions (the limited partners) and the private-asset managers (the general partners) to whom they supply capital. Fees are high. And private-capital managers enjoy a great deal of discretion over how they value their assets and the timing of buying and selling decisions. Just as there are costs of monitoring the management of public firms there is a cost to monitoring your private-capital manager.
+
+
 
 ![](./images/20200201_fnd002.jpg)
 

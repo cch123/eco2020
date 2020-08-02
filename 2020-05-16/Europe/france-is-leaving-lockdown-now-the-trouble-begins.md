@@ -16,6 +16,8 @@ After eight weeks of confinement, France was supposed to resume work this week. 
 
 Much of the complexity of organising this is not unique to France. The sourcing of masks, the spacing of seats on public transport or in classrooms, the distribution of hand gel in shops and offices: these problems are shared by all countries exiting lockdown. Yet, as the court decision against Renault shows, France also faces some quite specific difficulties.
 
+
+
 ![](./images/20200516_EUC597.png)
 
 One is the adversarial nature of labour relations, combined with the French state’s enduring appetite for bureaucracy. Unions enjoy an entrenched role through mandatory works councils. President Emmanuel Macron simplified these, and merged even more tangled former structures into a single comité social et économique. But firms with over ten employees still have to hold monthly or bi-monthly meetings, partly to discuss issues concerning employee well-being. Talks are often long, and testy.

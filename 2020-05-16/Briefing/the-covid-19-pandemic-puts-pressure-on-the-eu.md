@@ -38,6 +38,8 @@ To rebalance the EU’s economy, an alliance of countries led by Spain suggested
 
 However this plan was staunchly opposed by small, rich, mostly northern countries, several of which have also had slightly fewer covid-related deaths than others (see map). The Netherlands, Demark and Sweden all pooh-poohed the idea. The Dutch government offered a one-off grant of €1bn, about a tenth of a percent of the sum demanded by the Spanish government, as a gesture of goodwill.
 
+
+
 ![](./images/20200516_FBM965.png)
 
 The German government, meanwhile, will stretch only to modest grants, arguing that any EU recovery fund should consist mainly of loans. In the middle, the European Commission is tasked with devising a scheme that keeps both sides happy. It will propose a mixture of grants and loans to indebted countries, paid for out of the EU’s budget. Countries will spend much of the year haggling over it.
@@ -58,6 +60,8 @@ Indeed, the EU already has immense regulatory clout. It sets global standards on
 
 If the EU rolls back its global ambitions and goes down the second route suggested by Mr Krastev—becoming a monastery—it will have to deal with a war among the monks. Any claim that the EU is united in its support for liberal democratic norms is disproven by the fact that Poland and Hungary have steadily eroded the rule of law—and yet they remain members of the club. Poland’s government has tried to nobble its supreme court. Hungary’s prime minister, Viktor Orban, has subverted or sidelined most of his country’s checks and balances over the past decade, and seized on the pandemic as an excuse to rule by decree indefinitely. Meanwhile, cronies of his ruling party are gorging on aid from Brussels.
 
+
+
 ![](./images/20200516_FBC580.png)
 
 Even previously unchallenged parts of the EU’s dogma, such as its legal order, look more shaky. In May Germany’s constitutional court ruled that the European Court of Justice in Luxembourg was acting beyond its authority in the way it ruled on the European Central Bank’s bond-buying in 2018. In effect, the German court declared that since the EU is not a federal state, national courts can decide whether the ECJ has gone beyond its remit. The ECJ disagreed, leaving the two courts jostling for supremacy. The European Commission is examining whether to launch sanctions against Berlin for breaking the EU’s treaties. (The ECJ would have the final say.) A bizarre situation looms in which the German government is criticised for the actions of its independent court.
@@ -67,6 +71,8 @@ These warring judges have also called into question the future of actions taken 
 However, the ECB has created moral hazard. Bold action by the central bank has led to political complacency among the EU’s northern states. It has thus relieved pressure on Europe’s leaders to take tricky decisions, such as whether they should provide southern Europe with enough fiscal power to get out of the crisis. Germany and the Netherlands once railed against the ECB’s largesse; now they are among its beneficiaries, delaying difficult choices in the knowledge that the bank will continue to keep the bloc afloat. For a project that seems to move decisively only when in peril, this is a problem.
 
 The result is that a constitutional reckoning has never seemed more necessary, yet it has never felt less likely. Hard questions proliferate: whether or not the EU will pursue deeper integration, what role the bloc will play in global politics, and so on. Even dilemmas unimaginable a decade ago, such as whether the EU is only for liberal democracies, need to be cleared up.
+
+
 
 ![](./images/20200516_FBD002_0.jpg)
 

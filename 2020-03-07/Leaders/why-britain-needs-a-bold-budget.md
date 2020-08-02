@@ -16,6 +16,8 @@ These last two factors would argue for an expansionary budget. But there is a fu
 
 To deal with these issues, Mr Sunak will have to spend more in two areas. The first is investment. The government looks set to double the R&D budget and boost infrastructure spending, particularly for greener transport. That is all to the good, but other sorts of investment also need a boost. To enhance workers’ skills, Britain should spend more on technical education for school leavers and those already in work. And to raise private investment, which has been weak since 2016 and is growing more slowly than in any other G7 economy, the chancellor should increase capital allowances, which let investment spending be deducted from tax bills, and thus encourage firms to invest.
 
+
+
 ![](./images/20200307_LDC564.png)
 
 The second area that deserves more cash is public services. Local authorities, which provide many of them, have about a third less to spend, in real terms, than they did in 2010, and the government’s current plans imply further cuts. That is poor politics and poor economics. A shiny new railway station, paid for out of the capital budget, will be scant consolation to many voters, nor will it boost poorer regions’ prospects if local services, funded out of current spending, continue to deteriorate.

@@ -6,6 +6,10 @@
 
 > Jan 11th 2020
 
+
+
+https://infographics.economist.com/2020/20200111_GDC100/index.html
+
 AMERICANS WHO have heard of MS-13, a Hispanic gang notorious for grisly murders, might think it came from Latin America. In fact, it was born in the USA. Like Barrio 18, its rival, MS-13 evolved into a violent mob in Los Angeles during the 1980s, when the group’s ranks swelled with Salvadoreans who had fled a civil war.
 
 After America toughened immigration laws in 1997, it deported thousands of these criminals to El Salvador, where mob activity rose. Some 65,000 members of these two gangs now live in the country, and its murder rate is among the world’s highest.
@@ -18,11 +22,19 @@ A census from 1992, when the civil war ended, shows no socioeconomic divide at t
 
 To check if this divide still persists, the scholars conducted a poll. Respondents who lived on gang turf reported less than half the income of those outside. They were also less likely to say they worked outside their neighbourhoods or for large firms, which might explain why they were poorer.
 
+
+
+https://infographics.economist.com/2020/20200111_GDC101/index.html
+
 Finally, the paper analysed night-time light levels, a proxy for economic activity. Focusing on regions with below-average brightness—primarily rural areas—the authors divided the country into places where gang-related murders occurred in the early 2000s, and ones far away from such crimes. Before the gangs arrived, light emissions grew at a similar rate in both groups. From 1995 to 2013, the increase was 33% smaller in the afflicted zones.
 
 Quantifying exactly how much gangs have stunted development is tricky. Adrian Bergmann of El Salvador University says that the share of investment that goes to poor, gang-prone areas has fallen since the 1990s, another possible cause of the disparity. Nonetheless, the bulk of the data suggests that gangs inflict far more harm than just committing crimes. Little wonder so many Salvadoreans want to flee them. ■
 
 Sources: “Gangs, Labour Mobility, and Development”, by N. Melnikov, C. Schmidt-Padilla and M.M. Sviatschi (2019); OpenStreetMap
+
+
+
+
 
 
 

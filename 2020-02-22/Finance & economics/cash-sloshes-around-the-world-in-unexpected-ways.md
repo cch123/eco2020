@@ -18,6 +18,8 @@ Another recent study by Antonio Coppola of Harvard University, Matteo Maggiori o
 
 The authors stitch together seven data sets, including information on investor portfolios and the relationships between parent companies and their subsidiaries. Both debt and equity investments funnelled through tax havens are reallocated to the location of the parent company. What the official figures count as an American loan to Petrobras Global Finance BV in the Netherlands, the researchers reclassify as a loan to Petrobras in Brazil.
 
+
+
 ![](./images/20200222_FNC244.png)
 
 This amounts to a large adjustment to the official data. Around 12% of what looks like American investors’ holdings of foreign bonds turns out to be their holdings of domestic ones, mostly in the form of bundled corporate loans. American holdings of corporate bonds in emerging markets are revised up too: from $8bn to $44bn in the case of Brazil, and from $3bn to $37bn for China (see chart). As these bonds do not tend to be issued in the parent company’s currency, the adjustments bump up emerging markets’ exposure to foreign-currency debt, from 20% to 50% of Brazilian debt securities held by foreigners, and from 30% to 60% for Russian securities.

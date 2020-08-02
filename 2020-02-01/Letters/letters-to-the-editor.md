@@ -18,11 +18,15 @@ If Boris Johnson now gives real political substance to what has become an overus
 
 ALISTAIR LEXDENHouse of LordsLondon
 
+
+
 ![](./images/20200104_TQD001.jpg)
 
 China’s shift from investing in chip manufacturing to chip design is long overdue, but it will take significant time to plug its intellectual-property gap ([Technology Quarterly](https://www.economist.com//technology-quarterly/2020/01/02/with-the-states-help-chinese-technology-is-booming), January 4th). That is the very piece of the puzzle that creates the most enabling value, within a chip and within the end product. China still imports a vast number of semiconductors, and import substitutes have had an impact only at the low end of the chip market and for some smartphones. China is still heavily reliant on chips from America for its data centres, and chips from Japan and Europe for cars. The intellectual property within such chips is highly patented. Even with the wind at its back, it will take China some time to develop the requisite IP and steer clear of the patent landmine. At the same time, American and British innovators will continue to advance the state of the art. It is the new great game.
 
 WOZ AHMEDChief strategy officerImagination TechnologiesKings Langley, Hertfordshire
+
+
 
 ![](./images/20200118_FBD001.jpg)
 
@@ -36,6 +40,8 @@ As a recently retired doctor I agree that the overuse of opiates in particular h
 
 DOUGLAS SALMONBirmingham
 
+
+
 ![](./images/20200111_WBD000.jpg)
 
 The 737 MAX fiasco ([Schumpeter](https://www.economist.com//business/2020/01/11/the-last-ge-man), January 11th) was the ultimate result of running Boeing like a hard-nosed business rather than a great engineering firm. This was not its first blunder. When Airbus won the contract for the American air force’s aerial tankers, Boeing cried foul instead of sharpening its pencils for next time, got the contract reopened and won it in 2011. It has been a disaster, well over budget and still not ready for full production (the Airbus tanker has been in service since 2011).
@@ -47,6 +53,8 @@ In 2016, Boeing became alarmed that Bombardier’s C Series aircraft had won a c
 Will Boeing’s culture change under David Calhoun? The signs are not encouraging. Boeing offered the victims of the 737 MAX crashes $50m in total compensation. Dennis Muilenburg, Mr Calhoun’s predecessor, got a $60m payout. Not a good start to repairing Boeing’s reputation.
 
 GRAEME SHELFORDThetis Island, Canada
+
+
 
 ![](./images/20200111_IRD001.jpg)
 

@@ -32,6 +32,8 @@ Under pressure from the G20 to offer debt relief, private creditors have come up
 
 Vera Songwe of the UN Economic Commission for Africa hopes to find another solution. She favours creating a new body that would borrow cheaply and then lend money to governments. However, it would need backers with deep pockets willing to guarantee that private lenders would not take a loss. It has found few volunteers.
 
+
+
 ![](./images/20200606_MAC850.png)
 
 There is not much time to act. African bond issuers face a wall of payments starting in 2022 (see chart). Many hope they are just experiencing a short-term cash crunch. But unless their economies rebound quickly—or they get more help from the rich world—a wave of defaults seems inevitable. If so, it may be better to take the hit and restructure debt now, while hoping that credit markets have short memories. Ken Ofori-Atta, Ghana’s finance minister, pointed out in a webinar hosted by Harvard University that rich countries were taking extraordinary measures to protect their economies, while telling Africans to stick to the rules. “You really feel like shouting: ‘I can’t breathe,’” he said. ■

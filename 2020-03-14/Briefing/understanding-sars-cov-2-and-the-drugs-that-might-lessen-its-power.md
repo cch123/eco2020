@@ -36,9 +36,13 @@ ACE2 has a role in controlling blood pressure, and preliminary data from a hospi
 
 Once a virion has attached itself to an ACE2 molecule, it bends a second protein on the exterior of the cell to its will. This is TMPRSS2, a protease. Proteases exist to cleave other proteins asunder, and the virus depends on TMPRSS2 obligingly cutting open the spike protein, exposing a stump called a fusion peptide. This lets the virion into the cell, where it is soon able to open up and release its RNA (see diagram).
 
+
+
 ![](./images/20200314_FBC902.png)
 
 Coronaviruses have genomes bigger than those seen in any other RNA viruses—about three times longer than HIV’s, twice as long as the influenza virus’s, and half as long again as the Ebola virus’s. At one end are the genes for the four structural proteins and eight genes for small “accessory” proteins that seem to inhibit the host’s defences (see diagram). Together these account for just a third of the genome. The rest is the province of a complex gene called replicase. Cells have no interest in making RNA copies of RNA molecules, and so they have no machinery for the task that the virus can hijack. This means the virus has to bring the genes with which to make its own. The replicase gene creates two big “polyproteins” that cut themselves up into 15, or just possibly 16, short “non-structural proteins” (NSPs). These make up the machinery for copying and proofreading the genome—though some of them may have other roles, too.
+
+
 
 ![](./images/20200314_FBC994.png)
 
@@ -67,6 +71,8 @@ Conversely, parts of the immune system are too active in covid-19. The virus kil
 Actemra (tocilizumab) is an antibody that targets the interleukin-6 receptors on cell surfaces, gumming them up so that the interleukin-6 can no longer get to them. It was developed for use in rheumatoid arthritis. China has just approved it for use against covid-19. There are anecdotal reports of it being associated with clinical improvements in Italy.
 
 While many trials are under way in China, the decline in the case rate there means that setting up new trials is now difficult. In Italy, where the epidemic is raging, organising trials is a luxury the health system cannot afford. So scientists are dashing to set up protocols for further clinical trials in countries expecting a rush of new cases. Dr Farrar said on March 9th that Britain must have its trials programme agreed within the week.
+
+
 
 ![](./images/20200314_FBC703.png)
 

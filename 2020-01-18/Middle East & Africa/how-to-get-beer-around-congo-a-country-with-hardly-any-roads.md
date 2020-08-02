@@ -22,6 +22,8 @@ In 2019 Bracongo had the edge over its competitor: it provided 53% of beers in t
 
 Indeed, despite the country’s abysmal infrastructure, beer gets everywhere. Like the rumba music which is blasted from fuzzy speakers at every run-down bar, it is one of the few things Congolese can rely on. To understand how one brewery gets its wares to thirsty customers, your correspondent embarked on a series of voyages.
 
+
+
 ![](./images/20200118_MAM900.png)
 
 The Congo river traces a huge arc across the country from the south-east, through the city of Kisangani, past Kinshasa and out into the Atlantic Ocean (see map). It is both the second-longest river in Africa and the deepest. If its roaring water mass was turned into energy through hydroelectric dams, it could light up most of the continent.
@@ -34,6 +36,8 @@ Today the river is a source of pride. Photos of fishermen in canoes on the river
 
 After a week Mr Barcat’s barge reaches Bandundu. From here, as in Mbandaka, smaller vessels carry the beers to tiny villages on the banks of the river. At the port in Mbandaka, Christine, a 40-year-old bar owner, picks up 70 crates of beer from the Bracongo depot. She travels to the city twice a month on one of these smaller vessels to collect beers for her bar and to sell to other bartenders. The trips are tough: she has to sleep out on deck in the rain and the muggy heat. “We are exposed to all the elements,” she sighs.
 
+
+
 ![](./images/20200118_MAP504.jpg)
 
 The second, spluttering wooden boat, which along with Christine and her beers carries around 150 people, 60 sacks of charcoal, palm oil, peanuts, two charred cobras (a regional delicacy) and a mournful-looking chicken, finally sets off, after a five-hour delay, at 9pm. Rumba music hums from several battery-powered radios. Modified Chinese generators power the boat. Fiston, a member of the crew in his early 20s, explains that there are five generators so the boat will not have to stop when one or two inevitably conk out. Indeed, a few hours into the journey, the first so-called engine splutters and dies.
@@ -44,6 +48,8 @@ Soon after the boat starts off, the smell of marijuana wafts down from the upper
 
 In one of the four cabins available to passengers, your correspondent’s bed is a sagging foam mattress supported by slabs of plywood with a grubby mosquito net hanging over it. Sleep is elusive: the generator is so loud that it is hard to doze off.
 
+
+
 ![](./images/20200118_MAP501.jpg)
 
 The next morning bleary-eyed passengers shuffle, one by one, to the back of the boat, clutching toothbrushes. A woman fries dough balls and sells plastic cups of sugary tea for breakfast. An argument breaks out between the captain and a couple of young men. A group of boys on the United States deck lean over to get a better view of the ruckus. Angel, a peanut vendor, wags one of her fingers and shouts something in Lingala, a local language. Suddenly everyone cheers. A drunk man blows a whistle. “One of the boys was winding up the driver,” Christine explains. “But that woman put him in his place.”
@@ -51,6 +57,8 @@ The next morning bleary-eyed passengers shuffle, one by one, to the back of the 
 Your correspondent gets off, grateful for dry land, at a village called Lolanga. Christine will continue on the boat for three more days, to its final stop, a larger village called Akula. It is less than 350km—about as far as New York is from Washington, DC, a journey of around four hours in a car. Each round trip takes Christine just over a week. She dreads it, but knows that her bar will not survive without beer.
 
 Christine’s travails are passed on to her customers. Her beers cost a third more than those in Kinshasa, at $1.80. She has to factor in her $60 boat ticket and the money she pays a friend to run her bar when she is away. Her profits are slim. She does not make enough money to save, she says, but enough to survive.
+
+
 
 ![](./images/20200118_MAP503.jpg)
 
@@ -61,6 +69,8 @@ Beer is a status symbol, observes Mr Mena, like owning a mobile phone. The two o
 Partly as a result, beer sales in Congo do not reflect the state of the economy, which shrank by 1.5% in 2019. According to Bracongo people are drinking more beer than ever before. “Even we don’t understand it sometimes. This dry season [April to August] we have some of the biggest figures ever,” says Mr Mena.
 
 Since 2010 Bracongo has started to promote different kinds of beers to different slices of the population. Those without jobs inevitably pick the cheapest in the market: small bottles of the weakest brew called Beaufort. Young people tend to go for lighter lagers, says Florent Muteba, head of Bracongo’s commercial analysis. Farmers and street vendors seem to like malty dark ales. Clever, aspirational marketing and Herculean logistics help explain why the company manages to sell alcohol even when people are getting poorer. (Its addictive qualities probably help, too.)
+
+
 
 ![](./images/20200118_MAP502.jpg)
 

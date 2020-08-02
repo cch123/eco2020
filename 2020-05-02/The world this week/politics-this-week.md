@@ -38,6 +38,8 @@ Kim Jong Un, North Korea’s dictator, remained invisible. He has not been seen 
 
 The government of India said it would allow migrant workers stranded far from their home villages to return to them if they wanted. Many of the workers had lost their jobs as a result of a national coronavirus lockdown, but the associated curbs on travel had left them with nowhere to go.
 
+
+
 ![](./images/20200502_WWC008_apple_news.png)
 
 The WHO asked states not to issue immunity passports. It said there was insufficient evidence that exposure to the virus confers immunity. See [article](https://www.economist.com//science-and-technology/2020/05/02/leaving-lockdown-means-understanding-immune-responses-to-the-virus).

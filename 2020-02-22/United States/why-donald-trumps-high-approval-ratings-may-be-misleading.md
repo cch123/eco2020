@@ -16,6 +16,8 @@ But even after correcting for demographic biases, pollsters’ data can still be
 
 In the wake of Mr Trump’s acquittal in the Senate, pollsters suspect that such a bias could be affecting polls. Courtney Kennedy, the director for survey research at the Pew Research Centre, says that there is a “strong possibility” that the recent uptick in Mr Trump’s ratings has a wave of optimistic Republicans as its source. She says that outlets can control this problem by adjusting their data to have the correct shares of Democratic- and Republican-leaning voters, but the idea is relatively new and few pollsters have data good enough to perform such corrections.
 
+
+
 ![](./images/20200222_USC189.png)
 
 The Economist’s analysis of polls taken during Mr Trump’s impeachment proceedings affirms Ms Kennedy’s suspicion. In polls that weight their data to represent America’s partisan balance or the results of the 2016 election, the share of adults who approve of Mr Trump’s job as president has risen by half a percentage point since impeachment proceedings began in earnest last October. But in polls that do not, Mr Trump’s ratings have increased by over three percentage points.

@@ -12,6 +12,8 @@ THE ANNUAL shareholder meetings of ExxonMobil, Chevron and BP, all held on May 2
 
 Even before the pandemic investors were searching elsewhere for lower risk and higher returns. Energy was the worst-performing sector in the S&P 500 index in four of the past six years. Yet the supermajors argue that, for all that, their prospects aren’t bad.
 
+
+
 ![](./images/20200530_WBC748.png)
 
 They have half a point. Many of them have become more resilient since the last downturn, in 2014, pursuing more profitable projects and cutting costs. The oil price required to cover capital spending and dividends for the seven biggest—ExxonMobil, Shell, Chevron, Total, BP, Equinor and Eni—is about half what it was in 2013, reckons Goldman Sachs, an investment bank (see chart).

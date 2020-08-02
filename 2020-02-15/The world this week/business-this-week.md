@@ -14,6 +14,8 @@ Barclays said that its chief executive, Jes Staley, was being investigated by re
 
 Amid continuing tension between staff and management, Google’s head of human resources said she was leaving the role to spend more time with her family. Google has warned its employees to tone down their sometimes public opposition to its dealings, such as a censored search engine in China and defence work.
 
+
+
 ![](./images/20200215_WWC175.png)
 
 British GDP was flat in the final quarter of 2019 compared with the previous three months. Year on year, the economy grew by just 1.1%, the weakest by that measure since the start of 2018. A lack of capital investment was a major drag on the economy in the fourth quarter, a factor that also had a negative impact in the previous two quarters.

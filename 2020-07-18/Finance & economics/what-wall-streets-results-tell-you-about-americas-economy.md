@@ -14,6 +14,8 @@ The second act was less turbulent, as government support quelled the panic. Legi
 
 As bond markets began to function again, firms rushed to sell securities. In America companies have issued more than $2trn in equity and debt, equivalent to 5% of the entire value of outstanding corporate bonds and public equity, and an increase of almost 50% on the year. Accordingly, primary-issuance revenues at the four big banks rose by 56%, year over year, to $7.8bn. Traders stayed busy: trading revenues rose by 70% on the year to an all-time high of $26.9bn. That reflected stronger client activity, as well as wider trading spreads, said Stephen Scherr, the chief financial officer of Goldman Sachs.
 
+
+
 ![](./images/20200718_FNC489.png)
 
 More company bosses are now telling investors that they hold enough cash to cover two or three years’ worth of outgoings. Newly recapitalised companies are paying back revolving loans. Of the $55bn drawn down from JPMorgan in March $39bn has since been repaid.

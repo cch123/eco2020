@@ -14,6 +14,8 @@ The lockdown, which began on March 25th, has failed to stop the virus—the case
 
 Employment, car sales and services improved in May: a step back from the “abyss”, as CMIE put it. But GDP will still shrink by 4% in the year ending March 2021, according to Moody’s, a rating agency. It was no surprise, then, that it cut India’s credit rating on June 1st for the first time since 1998. The government’s debt, Moody’s pointed out, is 30 percentage points higher than in a typical economy with the same rating. That vulnerability was once offset by unusually fast growth. But even before the pandemic, momentum was slipping. Growth fell from 8.3% in the year ending March 2017 to 4.2% in the last fiscal year. The crisis, Moody’s said, merely “amplified” vulnerabilities stemming from the government’s inability to clean up a troubled banking system, improve poor infrastructure or revise rules that constrict the markets for labour, land and products.
 
+
+
 ![](./images/20200613_FNC004.png)
 
 The cut brought Moody’s rating down to the lowest tier of investment grade, the same as Fitch and S&P. It also had knock-on effects. Because the sovereign rating puts a cap on the country’s corporate credit scores, Moody’s also swiftly lowered the rating on 37 Indian companies. These included many of the country’s most successful private firms, such as Reliance Industries, Tata Consultancy Services and HDFC Bank.

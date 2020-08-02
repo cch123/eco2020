@@ -14,6 +14,8 @@ These shifts in official demeanour, from hospitality to hostility to something i
 
 To stop the lira’s slide, regulators have tightened limits on the amount of lira local banks can provide to foreign financial institutions, making it harder for foreigners to bet against the currency. And they have imposed new restrictions on the spread of “misleading or wrong information” in financial markets. “They want to discourage people from talking about these issues,” says Mustafa Sonmez, an economist. People are “not to criticise”. He ought to know. He and dozens of others, including two Bloomberg journalists, were indicted last year on charges of seeking to “destabilise the economy” during the 2018 crisis.
 
+
+
 ![](./images/20200516_FNC559.png)
 
 The authorities have intervened in more conventional ways as well. GlobalSource Partners, a consultancy, estimates that the central bank, often acting through the state banks, has burned through roughly $35bn in foreign reserves this year trying to prop up the lira. How much more it can spend is a matter of controversy. The country’s “gross” foreign assets (including gold) stood at over $87bn on May 12th. But on the other side of its balance-sheet, the central bank reports foreign liabilities worth $71.3bn. It has also entered into currency swaps with local lenders, obtaining dollars in exchange for lira on the condition that the transaction will be reversed in due course. Deduct those borrowed dollars from the total, and its net reserves have dipped below zero.

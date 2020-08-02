@@ -12,6 +12,8 @@ TEN YEARS ago it was just a big, sleepy village, says Mohammed Duveydar, a docto
 
 Refugees from Syria’s war were greeted with open arms when they began arriving in Turkey nine years ago. No longer. Polls show that over 80% of Turks want the 3.6m refugees their country hosts to go home. President Recep Tayyip Erdogan’s government has drafted plans to resettle up to half of them in areas wrested by its troops from Kurdish insurgents in an offensive last year. (That no longer seems feasible: Turkey nabbed only a third of the area it wanted.) But despite hardening attitudes, the refugees are putting down roots, especially in border towns like Reyhanli, picking up Turkish habits and spreading their own. Most have no intention of going home, whatever the situation in Syria. Over 110,000 Syrians, including Mr Duveydar, have received Turkish citizenship.
 
+
+
 ![](./images/20200208_EUM956.png)
 
 Syrians do not have it easy in Turkey. With some exceptions, they have no right to own property or to work. Most work illegally, while the authorities turn a blind eye. Thousands have been deported. But quietly, so as to avoid a nativist backlash, the government is helping Syrians make themselves at home. Access to education has improved. The government has been phasing out special refugee learning centres, where most courses are taught in Arabic, placing the pupils in Turkish schools.

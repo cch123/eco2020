@@ -6,6 +6,8 @@
 
 > Apr 23rd 2020
 
+
+
 ![](./images/20200321_MAP001.jpg)
 
 I read your article on the trade in African bush meat (“[A crocodile hunter’s tears](https://www.economist.com//middle-east-and-africa/2020/03/19/the-toils-and-spoils-of-congos-crocodile-killers)”, March 21st). HIV may have been transmitted from chimpanzees to people as a result of bush meat. The SARS epidemic probably jumped from an animal to people in a shop selling traditional Chinese medicines in Guangdong province. These shops often have cages with live animals, such as civet cats and ant-eating pangolins. A million pangolins may have been exported from Africa to China in the past decade, and the pangolin is a possible origin of covid-19.
@@ -22,6 +24,8 @@ This is not a populist or nationalist proposal. The world must simply change its
 
 TORBEN JUNG LAURSENFlensburg, Germany
 
+
+
 ![](./images/20200404_ASP506_0.jpg)
 
 Regarding your article on Thailand’s handling of covid-19 (“[Sigh-am](https://www.economist.com//asia/2020/04/02/thailands-economy-was-suffering-before-the-virus)”, April 4th), the Thai authorities have been praised for their comprehensive response. Johns Hopkins University ranked Thailand as the sixth-most prepared country in the world for pandemics. Thailand’s economic fundamentals remain strong and should propel further growth after the crisis eases. The government has responded with stimulus packages and relief measures equal to 12% of GDP.
@@ -32,6 +36,8 @@ Finally, Thailand’s international standing has become stronger after last year
 
 PISANU SUVANAJATAAmbassador of ThailandLondon
 
+
+
 ![](./images/20200307_IRD001.jpg)
 
 I was encouraged to see The Economist report on the increasing access to safe abortions around the world (“[From backstreet to mail-order](https://www.economist.com//international/2020/03/05/abortions-are-becoming-safer-and-easier-to-obtain-even-where-they-are-illegal)”, March 7th). As you noted, “in America abortion is a battleground”. In Australia, however, the issue of providing access to safe abortions is rarely discussed, least of all in Parliament, despite general public support. The issue is particularly relevant as the legislature in Western Australia is currently discussing legislation that would create 150-metre safe-access zones around reproductive-health clinics, making it the second-last Australian state to do so (Tasmania first introduced safe-access zones in 2013).
@@ -39,6 +45,8 @@ I was encouraged to see The Economist report on the increasing access to safe ab
 My hope is that these shielded areas, along with increased access to clinics and work to reduce the stigma of the procedure, will help secure a future where girls (I am 16) and women in my community truly have unimpeded access to safe abortions.
 
 MIA FRASERPerth, Australia
+
+
 
 ![](./images/20200314_IRD003_0.jpg)
 
@@ -57,6 +65,8 @@ AUGUSTUS HANEYNew York
 Just to add to readers’ letters on naming houses in Britain ([March 28th](https://www.economist.com//letters/2020/03/26/letters-to-the-editor)), arriving in St Andrews to take up a post at the university in the 1960s, and being informed by the town council that it would not supply his house with a number, but require him to choose a name for it, a young don erected the following sign: High Entropy.
 
 ANDREW DAWSONWorcester
+
+
 
 ![](./images/20200404_FBD001.jpg)
 

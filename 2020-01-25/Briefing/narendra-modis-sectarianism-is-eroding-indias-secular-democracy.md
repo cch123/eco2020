@@ -28,6 +28,8 @@ In his first term as prime minister Mr Modi was careful not to project an explic
 
 Having secured an even bigger electoral victory in May 2019, Mr Modi has now taken his gloves off. Despite facing a rapidly slowing economy (see [article](https://www.economist.com//finance-and-economics/2020/01/23/indias-economy-risks-swapping-stagnation-for-stagflation)), his government has used its whopping parliamentary majority to pursue a Hindutva social agenda. In July it criminalised a form of instant divorce still practised by Indian Muslims. This was a welcome social reform; indeed, the practice has long been banned in most Muslim countries. But it was enacted with minimal consultation, breaching India’s tradition of granting each religion some control over family matters.
 
+
+
 ![](./images/20200125_FBC211.png)
 
 In August Mr Modi annulled the statehood of Jammu & Kashmir, part of a region long disputed over by India, Pakistan and China. The constitution gave the state special status, with its own constitution, flag and degree of autonomy. Now, it is split in two, and both parts of the state have been placed under direct rule. The 7.5m inhabitants of the Kashmir valley—nearly all of them Muslim—are under watch by 600,000 soldiers, who infuriate them with a range of shifting restrictions, such as curfews and roadblocks. Police also rounded up hundreds of potential troublemakers, among them local politicians, and severed mobile phone and internet services. These services have been partly restored, but the region remains isolated and many Kashmiris are fearful. Relative peace was only restored to the valley in the last decade, ending 20 years of violence in which between 40,000 and 70,000 people died.
@@ -57,6 +59,8 @@ On previous occasions when his will has been challenged, Mr Modi has tended to b
 And even as Mr Modi has backed away from pursuing the controversial national register of citizens, he has doubled down on the CAA. His home minister, Amit Shah, has vowed not to give an inch on the citizenship rules. Instead, the BJP has mobilised the formidable party and government propaganda machines to push their message. The offensive is likely to prove effective among Mr Modi’s base. “There are an awful lot of Hindus, I’d guess 40%, who basically dislike Muslims and have no problem at all with this government’s approach,” says an American political scientist of Indian origin, who prefers anonymity (a subclause of the CAA allows the government to strip émigrés of their Overseas Citizen of India status).
 
 Yet even if Mr Modi and Mr Shah do get their way, and if India’s Supreme Court overlooks the plainly contentious aspects of the CAA, the costs of the citizenship row to Mr Modi and his country are high. From a financial perspective, the outlays would be prohibitive even if India’s economy had not slowed in the past year to its lowest level of growth in four decades. In Assam compiling the citizens’ register took many years, employed 52,000 people and cost the government close to $200m. Given that Assam is home to less than 3% of India’s population, stretching this exercise nationwide would be very costly.
+
+
 
 ![](./images/20200125_FBP001.jpg)
 

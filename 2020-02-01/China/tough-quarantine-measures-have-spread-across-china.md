@@ -14,6 +14,8 @@ Chinese cities brim with migrant workers from villages like Weiji, hauling brick
 
 About 200 migrants from Weiji work in Hubei’s capital, Wuhan, the city where the virus was discovered (pictured, under lockdown). Because some returned to the village for the new year, which began on January 25th, Weiji was dragged into a vast quarantine operation that has trapped tens of millions of Chinese in their homes, grounded some international flights, halted long-distance bus services and closed the country’s largest tourist sites. The virus-control campaign explains a splash of colour on Weiji’s almost-empty main street, a red banner urging locals to be tested. It reads: “Find It Early! Treat It Early! Medical Fees All Free!”
 
+
+
 ![](./images/20200201_CNM948.png)
 
 That encouraging, cajoling sign is buttressed by a dose of coercion. The village’s fresh-faced Communist Party chief, who wears a smart black windbreaker, describes instructions from higher-ups. Cars with Hubei number plates are to be turned away, and migrants returning from that province sent back. Those who made it home to Weiji before controls were imposed on January 20th must submit to temperature checks twice a day and remain indoors in their family homes, with no visitors allowed. Foreign experts may debate the medical efficacy of mass quarantines, but locals describe a sense of comfort from doing something to fight what President Xi Jinping calls a “devil” virus.
@@ -31,6 +33,8 @@ Schooled in the idea that they live in an all-knowing surveillance state, Chines
 China’s response to the virus has been unmistakably authoritarian, involving the locking down of Hubei’s cities, and mandatory orders to stay indoors for a fortnight for those who leave Hubei and head to such centres as Shanghai. But it is not totalitarian. Unlike in the Mao era, when blind loyalty was demanded from citizens, the party has at times responded to public anger with a hint of understanding. In a much-discussed state television interview, Wuhan’s mayor, Zhou Xianwang, offered to resign if the public wished. Still, his mea culpa contained an unsubtle jab at his masters in Beijing. Acknowledging that the city had held back information about the outbreak, Mr Zhou noted that he needed superiors’ permission to disclose news of an infectious disease.
 
 The principle of quarantine is rarely challenged, even in Wuhan. Residents reached by telephone describe a mix of community spirit, such as bakeries offering free food to medics, a mass singing of the national anthem out of apartment windows as well as some grumbling about confusing and draconian local decisions. In a city of 9m people (the mayor says another 5m left, just before the quarantine was imposed, because of the holiday and the virus) taxis are now the only public transport. They can no longer be hailed on the streets, however, or summoned through an app. They have been commandeered by the city. Duties include “emergency runs” such as ferrying the sick to hospitals, says Wang Jie, a retired taxi driver. Rides are free. The city pays drivers 600 yuan ($86) a day, more than double what they make in normal times. Still, many fear being infected, says Ms Wang. Most have to buy their own protective masks, goggles and gloves.
+
+
 
 ![](./images/20200201_CNP002_0.jpg)
 

@@ -20,6 +20,8 @@ Readers of a certain age are now permitted to roll their eyes. At least twice in
 
 There were several reasons for this. For a start, ripping up and replacing the world’s fossil-fuel infrastructure is a huge job. And even were that an easy thing to accomplish, hydrogen itself has drawbacks. Though better than batteries, it stores less energy in a given volume than fossil fuels can manage (see chart 1). More important, it is not a primary fuel. You have to make it from something else.
 
+
+
 ![](./images/20200704_STC248.png)
 
 This can be done by a chemical reaction called steam reforming but, besides steam, the other ingredient of that process is a hydrocarbon of some sort, which rather defeats the object of the exercise. Or it can be done by the electrolysis of water. This has appropriate green credentials as long as the electricity is either from renewable sources or a nuclear-power plant. But the laws of thermodynamics mean that the energy content of the hydrogen which comes out of the process is less than the electricity that went in. This inbuilt inefficiency raises the question “why not simply power the end-use electrically, rather than using hydrogen as an intermediary?”
@@ -60,9 +62,13 @@ At the moment, virtually all of the roughly 70m tonnes of hydrogen produced each
 
 The extra equipment needed to capture the carbon dioxide produced by reforming necessarily pushes up the price of blue hydrogen. Bloomberg New Energy Finance (BNEF) a firm of clean-energy analysts, reckons its current cost ranges from $1.50 to $3.50 a kilogram, depending on which fossil fuel is used to produce it (see chart 2). Moreover, the process of capturing CO2 is imperfect, so some of that gas escapes. The real desideratum, therefore, is “green”, electrolytic hydrogen. At $2.50 to $5 or more a kilogram, however, green hydrogen is currently even pricier than the blue sort.
 
+
+
 ![](./images/20200704_STC361.png)
 
 This could all change, though, as the technologies involved in making both blue and green hydrogen are scaled up. Prediction is a mug’s game, but BNEF has had a go anyway. Its analysts reckon green hydrogen might, by 2050, cost between 70 cents and $1.6 a kilogram—in other words the current price of the grey variety. As Kobad Bhavnagri, the firm’s head of special projects, explains, “The cost of electrolysis equipment has fallen by around 40% in the last five years in the West.” Dr Bhavnagri reckons the kit can now be had in Western countries for around $1,200 per kilowatt of capacity and that there may be scope for those numbers to fall much further. “The cost in the Chinese market is drastically lower—around $200 per kW,” he says, which will presumably bring the price down everywhere soon. UBS, a bank, cites a deal recently struck by Nikola, an American firm that says it is planning to make hydrogen lorries, which implies electrolyser costs of just $350 per kW.
+
+
 
 ![](./images/20200704_STC265.png)
 

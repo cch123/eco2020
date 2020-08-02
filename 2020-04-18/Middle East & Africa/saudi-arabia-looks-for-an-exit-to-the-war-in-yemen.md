@@ -12,6 +12,8 @@ RARELY HAS Saudi Arabia sounded so magnanimous. For five years it has been fight
 
 Cynics doubt that compassion is truly motivating Saudi Arabia, a majority Sunni nation. For years its bombs have hit hospitals, houses and schools in Yemen—often, it seemed, on purpose. Rather, the war is turning and the Saudis are losing heart.
 
+
+
 ![](./images/20200418_MAM944.png)
 
 Despite its vicious air campaign, Saudi Arabia has been unable to dislodge the Houthis from most of Yemen’s population centres, including the capital, Sana’a (see map). Its main international ally, the United Arab Emirates, began scaling back its involvement in the war last year. The Saudis themselves are bombing less: their air strikes are down by more than 90% compared with 2015. In recent months they have held secret talks with the Houthis. Gone is the hope of returning Abd Rabbo Mansour Hadi, the exiled Yemeni president, to Sana’a. Now the kingdom’s goal is to stop Houthi missile strikes on its own territory. “The Saudis want a way out and are using the coronavirus as a figleaf,” says Abdulghani al-Iryani, a Yemeni analyst.

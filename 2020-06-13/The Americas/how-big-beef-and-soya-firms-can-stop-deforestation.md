@@ -16,6 +16,8 @@ The companies do not chop down trees themselves. Rather, they are middlemen in c
 
 Under pressure from public opinion, the big firms have made attempts to control the problem. In 2009, a damning report from Greenpeace led JBS, Marfrig and Minerva, meat giants which together handle two-thirds of Brazil’s exports, to pledge to stop buying from suppliers that deforest illegally. (The forest code allows owners to clear 20% of their land.) JBS, which sources from an area in the Amazon larger than Germany, says it has blocked 9,000 suppliers, using satellites to detect clearing. Soya traders such as Cargill and Bunge have used such systems to enforce a zero-deforestation agreement for the region since 2008, when retail firms like McDonald’s and Tesco said they would no longer buy Amazonian soya harvested on deforested land. 
 
+
+
 ![](./images/20200613_AMC899.png)
 
 These agreements contributed to a sharp decline in the rate of tree loss until 2012 (see chart). Before the “soya moratorium”, 30% of new fields in the Amazon involved clearing forests. In the eight years after it was signed, 99% of soya expansion was on land that was already treeless. But, warns André Vasconcelos from Trase, a research initiative that tracks commodity supply chains, the frenzy of deforestation under Mr Bolsonaro could reverse this trend. 

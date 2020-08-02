@@ -18,6 +18,8 @@ If that weren’t enough, a brawl between Saudi Arabia and Russia has led to a p
 
 Saudi Arabia and Russia were expected to discuss production cuts with other petrostates on April 9th, after The Economist went to press, then again at a G20 meeting the next day. Any deal is unlikely to end oversupply. Covid-19 is already exposing vulnerabilities of petrostates and oil firms. With prices poised to sink lower, the entire industry may be forever transformed.
 
+
+
 ![](./images/20200411_BBC176.png)
 
 A few months ago demand was expected to rise modestly this year. But trouble festered. Surging production in Guyana, Norway and Brazil seemed sure to weigh on prices. More worrisome, the world’s energy powers were increasingly at odds. In 2016 Russia teamed up with the Organisation of the Petroleum Exporting Countries (OPEC), led by Saudi Arabia, in an attempt to offset booming American shale production. This OPEC+ alliance proved both fractious and ineffectual. Russia regularly ignored the group’s self-imposed production limits, forcing Saudi Arabia to curb its own output more sharply. That pushed oil prices high enough to shore up investment in American shale but too low to balance the budgets of Saudi Arabia and other petrostates.
@@ -26,7 +28,11 @@ America, which in 2018 eclipsed Saudi Arabia and Russia as the world’s top oil
 
 
 
+https://embed.acast.com/theeconomistmoneytalks/moneytalks-thebusinessofsurvival
+
 American frackers and international oil giants had problems of their own. Even as shale production surged, shale firms’ valuations sank, with more investors sceptical of their ability to produce steady profits. Worries over climate change clouded the long-term prospects of supermajors such as ExxonMobil and Royal Dutch Shell while other industries offered better short-term returns. Energy was the worst-performing sector in the S&P 500 index in four of the past six years.
+
+
 
 ![](./images/20200411_BBC154.png)
 

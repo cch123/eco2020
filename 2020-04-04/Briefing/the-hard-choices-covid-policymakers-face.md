@@ -22,6 +22,8 @@ But as time goes on, “at what cost” will become easier to voice, and harder 
 
 Epidemiological models come in two types. The first seeks to capture the basic mechanisms by which diseases spread in a set of interlinked equations. In the classic version of this approach each person is considered either susceptible, exposed, infectious or recovered from the disease. The number in each group evolves with the numbers in one or more of the other groups according to strict mathematical rules (see chart 1). In simple versions of such models the population is uniform; in more elaborate versions, such as the one from Imperial College London, which has influenced policy in Britain and elsewhere, the population is subdivided by age, gender, occupation and so on.
 
+
+
 ![](./images/20200404_FBC929.png)
 
 The second type of model makes no claim to capture the underlying dynamics. They are instead based on what is essentially a sophisticated form of moving average, predicting things about next week (such as how many new infections there will be) based mostly on what happened this week, a little bit on what happened last week, and a smidgen on what happened before that. This approach is used to forecast the course of epidemics such as the seasonal flu, using patterns seen in epidemics that have already run their course to predict what will come next. Over the short term they can work pretty well, providing more actionable insights than mechanistic models. Over the long term they remain, at best, a work in progress.
@@ -35,6 +37,8 @@ If more data improve models, so does allowing people to look under their bonnets
 As models become more important and more scrutinised, discrepancies between their purported results will become apparent. One way to deal with divergence is to bring together the results of various different but comparable models. In Britain, the government convened a committee of modelling experts who weighed the collective wisdom from various models of the covid-19 epidemic. America’s task force for the epidemic recently held a meeting of modelling experts to assess the range of their results.
 
 Another way to try to get at the combined expertise of the field is simply to ask the practitioners. Nicholas Reich of the University of Massachusetts, Amherst, and his colleague Thomas McAndrew have used a questionnaire to ask a panel of experts on epidemics, including many who make models, how they expect the pandemic to evolve. This sounds crude compared with differential equations and statistical regressions, but in some ways it is more sophisticated. Asked what they were basing their responses on, the experts said it was about one-third the results of specific models and about two-thirds experience and intuition. This offers a way to take the models seriously, but not literally, by systematically tapping the tacit knowledge of those who work with them.
+
+
 
 ![](./images/20200404_FBC101.png)
 
@@ -56,11 +60,15 @@ Those sceptical of the costs of current policies argue that they, too, want to s
 
 Lost business activity will mean lost incomes and bankrupt firms and households. That will entail not just widespread misery, but ill health and death. Some sceptics of mitigation efforts, like George Loewenstein, an economist at Carnegie Mellon University, in Pittsburgh, draw an analogy to the “deaths of despair”—from suicide and alcohol and drug abuse—in regions and demographic groups which have suffered from declining economic fortunes in recent decades.
 
+
+
 ![](./images/20200404_FBD002_0.jpg)
 
 The general belief that increases in GDP are good for people’s health—which is true up to a point, though not straightforwardly so in rich countries—definitely suggests that an economic contraction will increase the burden of disease. And there is good reason to worry both about the mental-health effects of lockdown (see [article](https://www.economist.com//international/2020/04/04/how-will-humans-by-nature-social-animals-fare-when-isolated)) and the likelihood that it will lead to higher levels of domestic abuse. But detailed research on the health effects of downturns suggests that they are not nearly so negative as you might think, especially when it comes to death. Counterintuitive as it may be, the economic evidence indicates that mortality is procyclical: it rises in periods of economic growth and declines during downturns.
 
 A study of economic activity and mortality in Europe between 1970 and 2007 found that a 1% increase in unemployment was associated with a 0.79% rise in suicides among people under the age of 65 and a comparable rise in deaths from homicide, but a decline in traffic deaths of 1.39% and effectively no change in mortality from all causes (see chart 3). A study published in 2000 by Christopher Ruhm, now at the University of Virginia, found that in America a 1% rise in unemployment was associated with a 1.3% increase in suicides, but a decline in cardiovascular deaths of 0.5%, in road deaths of 3.0%, and in deaths from all causes of 0.5%. In the Great Depression, the biggest downturn in both output and employment America has ever witnessed, overall mortality fell.
+
+
 
 ![](./images/20200404_FBC928.png)
 
@@ -75,6 +83,8 @@ It is also at this point that one can expect calls to restart the economy to bec
 When the restrictions are lessened it will not be a simple matter of “declaring victory and going home”, the strategy for getting out of the Vietnam war advocated by Senator Richard Russell. One of the fundamental predictions of the mechanistic models is that to put an epidemic firmly behind you, you have to get rid of the susceptible part of the population. Vaccination can bring that about. Making it harder for the disease to spread, as social distancing does, leaves the susceptible population just as vulnerable to getting exposed and infected as it was before when restrictions are lifted.
 
 This does not mean that countries have to continue in lockdown until there is a vaccine. It means that when they relax constraints, they must have a plan. The rudiments of such a plan would be to ease the pressure step by step, not all at once, and to put in place a programme for picking up new cases and people who have been in contact with them as quickly as possible. How countries trace cases will depend, in part, on how low they were able to get the level of the virus in the population and how able, or inclined, they are to erode their citizens’ privacy. How they relax constraints will depend to some extent on modelling.
+
+
 
 ![](./images/20200404_FBD003_0.jpg)
 

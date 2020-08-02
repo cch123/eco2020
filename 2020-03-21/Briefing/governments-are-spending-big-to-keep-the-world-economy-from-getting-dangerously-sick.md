@@ -14,11 +14,15 @@ A CHARACTER IN a novel by Ernest Hemingway once described bankruptcy as an exper
 
 The new phrase on politicians’ lips is “whatever it takes”—a line borrowed from Mario Draghi, president of the European Central Bank (ECB) in 2011-19. He used it in 2012 to convince investors he was serious about solving the euro-zone crisis, and prompted an economic recovery. Mr Draghi’s promise was radical enough. Politicians are now proposing something of a different magnitude: sweeping, structural changes to how their economies work.
 
+
+
 ![](./images/20200321_FBC440.png)
 
 There are unprecedented promises. On March 16th President Emmanuel Macron of France declared that “no company, whatever its size, will face the risk of bankruptcy” because of the virus. Germany pledged unlimited cash to businesses hit by it. Japan passed a hastily compiled spending package in February, but on March 10th supplemented it with another one that included over ¥430bn ($4bn) in spending and almost four times as much in cheap lending. Britain has said it will lend over £300bn (15% of GDP) to firms. America may enact a fiscal package worth well over $1trn (5% of GDP). The most conservative estimates of the total extra fiscal stimulus announced thus far put it at 2% of global GDP, more than was shovelled out in response to the global financial crisis of 2007-09.
 
 In part this radical action is motivated by the realisation that the coronavirus, first and foremost a public-health emergency, is also an economic one. The jaw-droppingly bad economic data coming out of China hint at what could be in store for the rest of the world. In the first two months of 2020 all major indicators were deeply negative: industrial production fell by 13.5% year-on-year, retail sales by 20.5% and fixed-asset investment by 24.5%. GDP may have declined by as much as 10% year-on-year in the first quarter of 2020. The last time China reported an economic contraction was more than four decades ago, at the end of the Cultural Revolution.
+
+
 
 ![](./images/20200321_FBC442.png)
 
@@ -66,11 +70,15 @@ Some economists are leery about such a policy. For one thing, it would do little
 
 America has done something similar before, with results that were not entirely encouraging. The government sent out cheques in both 2001 and 2008 to head off a slowdown. The evidence suggests that people saved a large chunk of it. The psychological reassurance of a bit of extra cash could be significant for many Americans, but the sums involved are not especially impressive. Bernie Sanders, a Democratic presidential contender, is not known for his smart economic policymaking, but his suggestion of $2,000 per household per month until the crisis is over is probably closer to what is required.
 
+
+
 ![](./images/20200321_FBD004_0.jpg)
 
 Indeed, more fiscal stimulus will be needed across the world, especially if measures to contain the spread of the virus fall short. After the Japanese government passes the budget for next fiscal year at the end of this month, it can begin work on a supplementary budget that takes the virus into full account. Britain’s Parliament has given Rishi Sunak, the chancellor of the exchequer, carte blanche to offer whatever support he deems necessary, without limit.
 
 How much further can fiscal policy realistically go? Last year the 35-odd rich countries tracked by the IMF ran combined fiscal deficits of $1.5trn (2.9% of GDP). On the not-unrealistic assumption that the average deficit rose by five percentage points of GDP, total rich-country borrowing would rise to over $4trn this year. Investors have to be willing to finance that splurge. The yield on ten-year Treasury bonds, which had fallen as low as 0.5% as fears of the virus took hold and traders sought havens, has recently risen above 1%. This is probably due to firms and investors selling even their safest assets to raise cash, but might reflect some anxiety over the scale of planned government borrowing.
+
+
 
 ![](./images/20200321_FBC435.png)
 

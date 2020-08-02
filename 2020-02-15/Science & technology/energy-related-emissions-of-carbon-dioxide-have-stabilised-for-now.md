@@ -14,6 +14,8 @@ Energy-related emissions, which include those produced by electricity generation
 
 As a result of this the CO2-intensity of electricity generation—a measure of how much of the gas is emitted per kilowatt-hour of juice produced—fell by nearly 6.5%, to 340 grams of CO2 per kilowatt-hour. It had already been falling, but this is three times the average for the past decade. Such declines more than offset the effect of increased electricity production. The average emission-intensity of power generation in 2019 was “lower than all but the most efficient gas-fired power plants”, according to the IEA.
 
+
+
 ![](./images/20200215_STC180.png)
 
 This is not the first time energy-related emissions have plateaued. Between 2013 and 2016 they hovered around 32.2bn tonnes a year, before rising again in 2017 as the use of coal to fuel developing economies increased. This previous plateau was accompanied by excited declarations that such emissions had peaked. Similar comments have been made this week, perhaps also prematurely. In addition to changes in coal use, a sluggish economy may have played a part and the data show that milder than usual weather caused a perceptible drop in emissions from several countries with large, carbon-hungry economies.

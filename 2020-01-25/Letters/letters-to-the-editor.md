@@ -8,6 +8,8 @@
 
 Letters are welcome and should be addressed to the Editor at letters@economist.com
 
+
+
 ![](./images/20191221_BRP502.jpg)
 
 A sad farewell
@@ -22,6 +24,8 @@ Tens of millions of us are grateful that Britain has always been there for us. W
 
 EVGENII DAINOVProfessor of politicsNew Bulgarian UniversitySofia
 
+
+
 ![](./images/20200111_EUD000.jpg)
 
 Not content to have kept the peace, built a single market, launched a new currency and quadrupled membership in the space of a lifetime, the EU’s countries have also revelled in their national cultures and, yes, indulged their well-worn prejudices. You can have your gateau and eat it, after all.
@@ -32,6 +36,8 @@ A close family, respectful of its differences, is stronger than the sum of its p
 
 JONATHAN HILLBrussels
 
+
+
 ![](./images/20191221_LDD001.jpg)
 
 Coming from a publication founded in opposition to the Corn Laws, your flirtation with central planning for the deployment of technology was dismaying (“Pessimism v progress”, [December 21st](https://www.economist.com//leaders/2019/12/18/pessimism-v-progress)). Granted, the emergence of Big Data opens up possibilities that Adam Smith or Milton Friedman could not have foreseen. However, centrally managed data could only work in a static economy, where everything is more or less the same year in and year out.
@@ -39,6 +45,8 @@ Coming from a publication founded in opposition to the Corn Laws, your flirtatio
 As little as 20 years ago, no one imagined that we would walk around with interconnected super computers that fit in our back pockets. Microwave ovens were a dream when I was a child in the 1960s. In turn, several goods and services that we will use in 20 years’ time do not yet exist. Without creative and sometimes crazy people determined to try new things, an economy does not advance. No computer, by the way, will ever detect an opportunity for a new Italian restaurant in Brooklyn.
 
 YVES ARSENAULTGatineau, Canada
+
+
 
 ![](./images/20191221_SSD001.jpg)
 
@@ -49,6 +57,8 @@ Factory data were centrally analysed in Project Cybersyn and the results sent di
 Beer was a passionate advocate for democracy, publishing a book on this titled “Designing Freedom”. He argued that it is possible to have effective and efficient control of economies democratically. The VSM was designed to do just that.
 
 PROFESSOR GRAEME BRITTONSingapore
+
+
 
 ![](./images/20191221_CPP001.jpg)
 
@@ -61,6 +71,8 @@ ADRIEN MEISCHAmbassador of Luxembourg to the USSR, 1970-73Luxembourg city
 The article omitted any mention of Zhu Xiao-Mei, who transcribed the music of J.S. Bach while she was interned in Mao’s labour camps during the Cultural Revolution. Ms Zhu is such a miraculous pianist that she was invited to perform Bach’s “Goldberg Variations” in Bach’s church, the Thomaskirche in Leipzig, during Bachfest in 2014.
 
 RICH SEIDNERBoulder Creek, Colorado
+
+
 
 ![](./images/20200104_WBD001.jpg)
 

@@ -28,6 +28,8 @@ More recently, Mr Sanders has pledged not to use America’s military might for 
 
 That is not quite right. On the stump and in campaign materials, Mr Sanders has called for a foreign policy centred on human rights, economic fairness, democracy, diplomacy and peace. For voters of a certain age, that rhetoric may conjure up echoes of Jimmy Carter’s human-rights-focused foreign policy. But some of his advisers say Mr Sanders’s foreign policy would be more like Barack Obama’s.
 
+
+
 ![](./images/20200229_USC473.png)
 
 He shares Mr Obama’s belief in talking to America’s opponents, and said he will continue Mr Trump’s personal dialogues with Kim Jong-un, North Korea’s leader. He also wants to re-enter the nuclear deal with Iran. He would probably try to reset—to use an unlucky word—America’s relationships with Russia and China. Like his Democratic rivals, he has vowed to re-join the Paris Climate Agreement, and wants America to take a leading role in combating climate change. He does not share Mr Trump’s hostility towards NATO, and is unlikely to set out to further erode the country’s alliances. Mr Sanders has recently said that he would honour Article V commitments to NATO members, including for countries that do not meet their commitment to spend 2% of GDP on defence.
@@ -51,6 +53,8 @@ A further worry among moderate Democrats is that a Sanders-led ticket could doom
 Socialism may play well in cities and on college campuses, but not in the suburbs, which are vital to the current House majority. Some have already started to speak out. Joe Cunningham, who in 2018 flipped a South Carolina congressional seat last won by a Democrat in 1978, said earlier this month that “South Carolinians don’t want socialism,” and said he would not support “Bernie’s proposals to raise taxes on almost everyone”. In the wake of favourable comments he made about Fidel Castro on February 23rd, virtually every elected Democrat in Florida, a perennially important state in presidential elections, distanced themselves from him. Mr Sanders has a history of fringe political views (though so does Mr Trump). The fact that he even now seems incapable of muting his admiration for Cuban social policies worries Democrats. It risks turning what should be a referendum on Mr Trump, which should be a winning argument, into one on socialism, which could well be a losing one.
 
 The odds of Democrats winning the Senate, which are already long, could look even worse with a radical at the top of the ticket. Down-ballot Democrats could try to distance themselves, but Republicans will not let them. Martha McSally, a vulnerable incumbent Republican senator from Arizona trailing her Democratic challenger, Mark Kelly, in the polls, recently released an ad titled “Bernie Bro”, linking Mr Kelly to Mr Sanders’s unpopular policy to give free health care to undocumented immigrants. Doug Jones, the Democratic senator from Alabama, might find his chances of victory narrowed to zero. Against a candidate as unpopular as Mr Trump, Mr Sanders might still achieve victory—only to find that there are insufficient Democrats left on Capitol Hill to carry out his revolutionary marching orders.
+
+
 
 ![](./images/20200229_USP005_0.jpg)
 

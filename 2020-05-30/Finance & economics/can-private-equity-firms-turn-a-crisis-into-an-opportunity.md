@@ -12,9 +12,13 @@ MOST APPARENTLY sound stewards of capital were revealed to be anything but durin
 
 The private-equity (PE) industry has been an exception to the trend. The funds it deployed during the crisis in 2007-09 have ended up yielding a median annualised return of 18%. And it has become far more important. Investors, from university endowments to public pension funds, have handed over ever more cash to PE managers (see chart). The biggest PE firms have evolved into financial conglomerates straddling buy-outs, property and credit markets, taking over some of the roles that Wall Street banks used to play. Assets under management have swollen to more than $4trn. The 8,000 firms run by PE in America account for 5% of its GDP, and a similar share of its workforce.
 
+
+
 ![](./images/20200530_FNC772.png)
 
 Now another savage recession is in full swing and the performance of PE is a crucial question for investors and the economy. The leveraged companies and debt instruments in PE portfolios are vulnerable and much depends on whether managers can tide these investments over. Meanwhile they have amassed $1.6trn in dry powder that they can deploy on new deals. PE shops’ fate depends on whether the hit to their existing investments is nasty enough to wipe out the potential gains from dealmaking afforded by the crisis.
+
+
 
 ![](./images/20200530_FNC733.png)
 

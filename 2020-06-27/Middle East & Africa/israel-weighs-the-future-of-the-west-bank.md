@@ -20,6 +20,8 @@ What Mr Netanyahu does matters less than the fact that he might do it. The Oslo 
 
 Israel has already annexed East Jerusalem and the Golan Heights, two other territories captured in 1967—but not the West Bank, home to 3m Palestinians who see it as the heart of their future state, and 430,000 Israeli settlers. (Another 230,000 settlers live in East Jerusalem.) The West Bank’s status has long been regarded as a question for a final peace agreement between Israel and the Palestinians.
 
+
+
 ![](./images/20200627_MAM800.png)
 
 Like his predecessors, Mr Trump took a stab at drafting one. His “Peace to Prosperity” plan, released in January, envisions a Palestinian state—should the Palestinians meet a list of onerous conditions—in Gaza and on 70% of the West Bank (see map). It allows Israel to annex the remaining 30%, which consists of settlements and the Jordan Valley.

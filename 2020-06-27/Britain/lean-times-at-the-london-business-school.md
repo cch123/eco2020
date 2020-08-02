@@ -16,6 +16,8 @@ LBS is unusual among British business schools in being a stand-alone entity. Mos
 
 The staff have benefited. “It’s run like an investment bank”, says a faculty member. “The core asset is the people that work here and we take the upside." In 2019, the school’s revenues came in at just over £160m, of which £80m paid for 830 staff. While academic pay has been broadly flat across British universities over the past decade, that has not been the case at LBS. Fifty staff members earn more than £250,000: a 12-fold increase, in inflation-adjusted terms, while 126 members of staff earn over £100,000.
 
+
+
 ![](./images/20200627_BRC207.png)
 
 The school argues that pay levels represent “the quality of our faculty and the strong demand for their services in top business schools around the world”. Remuneration packages at American institutions are certainly larger. Many staff members at business schools in the United States pull in over $1m, while LBS’s best-paid employee, the dean, François Ortalo-Magné, got a mere £609,000 last year. But to academics at other British universities, whose average salary is £48,000, LBS’s pay level is eye-watering.

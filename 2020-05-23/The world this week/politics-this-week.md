@@ -36,6 +36,8 @@ El Salvador’s Supreme Court suspended an order from the president, Nayib Bukel
 
 Researchers in Argentina found fossils of an undiscovered type of megaraptor (large carnivorous dinosaur)in Patagonia. The dinosaur lived 70m years ago, was ten metres long and had 40cm claws. Megaraptors were slimmer than the Tyrannosaurus rex, and more prepared to race “with long tails to help them maintain balance”.
 
+
+
 ![](./images/20200523_WWC011.png)
 
 The Chinese city of Shulan was put under a strict lockdown after an outbreak of covid-19.

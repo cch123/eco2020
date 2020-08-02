@@ -22,6 +22,8 @@ General Suleimani was more than the paymaster for Iran’s proxies in Lebanon, S
 
 Even in Ahvaz, an Arab city in south-western Iran where hostility towards the regime runs deep, hundreds of thousands paid their respects as the coffin passed through. Young Iranians who chanted “Death to Khamenei” in huge protests last November—protests which the IRGC had savagely put down—joined the mourners, hailing a hero who had risked his life for his country while appearing to remain untainted by its corrupt internal rivalries (see [Obituary](https://www.economist.com//obituary/2020/01/09/obituary-qassem-suleimani-was-assassinated-on-january-3rd)). The crowds called him the people’s soldier, not the supreme leader’s.
 
+
+
 ![](./images/20200111_FBM907.png)
 
 Iran’s leaders, clerical, political and military, publicly vowed revenge. Its first fruits were not long coming. In the early hours of January 8th ballistic missiles rained down on two military bases in Iraq that host American troops—the Ain al-Asad base in the west, which is home to at least some of America’s Reapers, as well as other aircraft, and another facility in Erbil, in the north (see map). Shortly afterwards Iran’s foreign minister, Muhammad Javad Zarif, who days earlier had talked of the consequences of the assassination haunting America “around the globe”, played down the prospect of further reprisals, tweeting that Iran had “concluded proportionate measures in self-defence”.
@@ -37,6 +39,8 @@ By targeting General Suleimani, Mr Trump showed not just that he was willing to 
 Thus, though the New York Times reports that Mr Khamenei has decreed retaliation must be direct, proportional and carried out by Iran’s own forces rather than allied groups, it is not likely that the country will launch any more open military attacks against American targets. But this does not mean it will do nothing. It will attempt to make the best of public anger towards America, especially in Iraq. In time, it may sponsor kidnappings and assassinations of its own, as it has done in the past. And it will expand its nuclear activity.
 
 In Iraq, where the government is dominated by Iran, protesters have for months been chanting “Iran Out” and “Death to Khamenei”. Now they thunder “Death to America”. On January 5th Shia representatives in Iraq’s parliament passed a non-binding resolution urging the government to expel foreign—that is, American—troops (most Sunni Arab and Kurdish MPs boycotted the session). A letter dated January 6th had the top American commander in Baghdad telling his Iraqi counterpart that America was going to begin “repositioning forces” to prepare for a withdrawal. Hours later Mark Milley, chairman of the Joint Chiefs of Staff, said the letter was a mistake. But Iraq’s prime minister, Adel Abdul-Mahdi, said he would treat it as official policy and start negotiating the withdrawal of American combat troops.
+
+
 
 ![](./images/20200111_FBP003_0.jpg)
 
@@ -62,6 +66,8 @@ Iran can draw some comfort from this. With its enemy marginalised in Iraq and tr
 
 Particularly badly hit will be those who have been protesting against corrupt and ineffective governments in Iraq and Lebanon, where Hizbullah is one of the parties in power, as well as in Iran itself. The increased tension will be used to delegitimise the protests. At best the demonstrators will be cast as a nuisance; at worst, as tools of American imperialism. Mr Nasrallah has already made such an argument; in Iraq the PMU is moving against the protesters. By killing General Suleimani, America may have undermined Iraqis and Lebanese seeking better government, as well as critics of Iran’s regime at home.
 
+
+
 ![](./images/20200111_FBC046.png)
 
 Not all the repercussions will be military, nor will they all necessarily take place in the Middle East. One of the features of Mr Nasrallah’s speech on January 5th was its conviction that General Suleimani’s death would inspire “many more martyrs to blow themselves up”. Hizbullah was the first organisation to weaponise the strong current of martyrdom in Shiism. “They teach that death is just a stepping stone to a new phase of life,” says Abbas Kadhim, an Iraqi scholar of Shiism in Washington.
@@ -75,6 +81,8 @@ Iran’s leaders may currently be sufficiently cowed by Mr Trump’s promise to 
 Meanwhile, Iran’s nuclear facilities are expanding. On January 5th Iran abandoned the last of several restrictions on uranium enrichment that had been imposed under the JCPOA. It has not left the agreement; it says that if sanctions were lifted it would reimpose the restrictions, and it is still accepting the extremely intrusive inspection regime that the agreement calls for. But by asserting its ability to resume research on advanced centrifuges, take old equipment out of mothballs and enrich uranium to levels above those prescribed by the JCPOA it is greatly increasing its capacity to stockpile material which could relatively easily be enriched to weapons grade, were it to pull out of the Nuclear Non-Proliferation Treaty and boot out the inspectors.
 
 Such a “breakout” would force America (and Israel) either to accept an Iranian bomb as a fait accompli or to launch an all-out campaign against its nuclear facilities. But although such a campaign could certainly delay Iran’s acquisition of nuclear weapons for years, it would be unlikely to stop the process altogether.
+
+
 
 ![](./images/20200111_FBP002_0.jpg)
 

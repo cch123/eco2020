@@ -14,6 +14,8 @@ The question is whether policy can remedy a grave weakness: that countries facin
 
 The good news is that EU policymakers are trying to redress the imbalance. Thanks in part to Germany’s newfound generosity, the recovery fund could direct cash to countries according to need rather than what they contribute. A proposal by the European Commission suggests that Italy could receive grants equivalent to about 5% of its GDP, and loans worth another 5%, says Jacob Nell of Morgan Stanley, a bank. Germany and the Netherlands might receive funds worth only 1% of GDP. The bad news is that although many economists expect an agreement to be struck, a few countries—such as the Netherlands and Sweden—are yet to sign up. As a result the fund could well become stingier. Moreover, the cash will only begin to be doled out in 2021, and will be spread over a number of years.
 
+
+
 ![](./images/20200620_FNC129.png)
 
 That means that the ECB must do the heavy lifting this year. All told, it is due to buy €1.6trn in public and private-sector debt in 2020, equivalent to 14% of last year’s GDP. Like the commission the bank has shifted away from its usual “one-size-fits-all” approach. Instead of buying assets in line with its “capital key” (ie, a country’s contribution to the bank’s capital, which is in turn proportional to its economic size), it seeks to contain the spread between the bond yields of riskier countries and those on German bunds. Around 22% of the purchases through its pandemic programme and its older quantitative-easing scheme in April and May were of Italian paper, whereas Italy’s share of the capital key is 17%, says Sven Jari Stehn of Goldman Sachs, another bank. That means the ECB could indirectly fund all of Italy’s deficit this year.

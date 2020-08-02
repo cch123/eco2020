@@ -40,6 +40,8 @@ An off-duty soldier killed 29 people in a shooting spree in the city of Nakhon R
 
 Mobs attacked villages in Kazakhstan inhabited by Dungans, a tiny ethnic group with origins in China, after rumours spread that Dungans had attacked an elderly Kazakh man. Eight people died, scores were injured and thousands fled to nearby Kyrgyzstan. See [article](https://www.economist.com//asia/2020/02/13/an-ethnically-motivated-attack-alarms-multi-ethnic-kazakhstan).
 
+
+
 ![](./images/20200215_WWP001.jpg)
 
 “Parasite”, a South Korean comedy thriller,was the surprise winner at the Oscars. It beat the bookies’ favourite, “1917”, to scoop best picture, the first foreign film to do so, and best director. Hollywood stars spouted platitudes about diversity and stealing baby cows. The ceremony had its worst-ever viewing figures. See [article](https://www.economist.com//books-and-arts/2020/02/13/the-oscars-triumph-of-parasite).

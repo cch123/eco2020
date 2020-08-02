@@ -12,6 +12,8 @@ IN THE WAKE of the Fukushima nuclear disaster in 2011, an IT expert, a restauran
 
 He was not alone. Enthusiasm for renewable energy swelled after the disaster. Kan Naoto, the prime minister at the time, declared that Japan would draw up a new energy strategy “from scratch” and “elevate” renewables. One of his government’s last acts before losing power was to pass a law to stimulate renewable energy. Dozens of small firms like Aizu sprang up. Fukushima prefecture itself pledged to get all its power from renewable sources by 2040.
 
+
+
 ![](./images/20200613_ASC841.png)
 
 The hoped-for transformation, however, has been “slow and almost invisible”, Mr Yamada laments. Renewable generation has grown from 10% of the power supply in 2010 to 17% in 2018, almost half of which comes from old hydropower schemes. Most nuclear plants, which provided more than a quarter of the country’s power before the disaster, have been shut down, at least for the time being (see chart). But for the most part they have been replaced not by wind turbines and solar panels but by power stations that burn coal and natural gas. The current government wants nuclear plants to provide at least 20% of electricity by 2030. It also wants coal’s share of generation to grow, and has approved plans to build 22 new coal-fired plants over the next five years. The target for renewables, by contrast, is 22-24%, below the current global average, and far lower than in many European countries.

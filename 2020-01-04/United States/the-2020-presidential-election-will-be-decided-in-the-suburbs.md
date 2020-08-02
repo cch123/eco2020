@@ -20,6 +20,8 @@ Mature suburbs have also become magnets for America’s most highly educated gra
 
 It is possible, too, that people of different personality types are increasingly concentrated in different suburbs, or so says Will Wilkinson of the Niskanen Centre, a think-tank in Washington, DC (and before that of The Economist). Psychologists identify the so-called “big five” personality traits, features which underpin other aspects of personality and are stable throughout adulthood. They are openness to new experiences; conscientiousness; extroversion; agreeableness and neuroticism. Mr Wilkinson argues that at least two of these traits are not distributed randomly.
 
+
+
 ![](./images/20200104_USC232.png)
 
 As economic change and migration shift people and jobs around, folk with a greater degree of openness are more willing to move, whereas conscientious people—those with more respect for rules, duty and self-discipline—prefer to stay put. This is may sound far-fetched. But Markus Jokela of the University of Helsinki has shown that personality traits predict people’s willingness to move long distances, and Jason Rentfrow of Cambridge University finds that openness is more common in the states of New England, the mid-Atlantic and the Pacific coast.
@@ -33,6 +35,8 @@ All this suggests that suburbs contain two swathes of voters, each loyal to a di
 So what does that imply for 2020? On the face of it, it looks like good news for Democrats. Using Mr Frey’s classification, mature suburbs contain 82m people, compared with just 27m in Republican-leaning emerging suburbs and 9m in safe Republican exurbs. The Democrats’ potential pool of voters is larger and, in 2018, they increased their actual vote from 57m to 61m, carrying the overall suburban vote. Many of Mr Trump’s policies, such as caging immigrant children at the border and disdain for American allies, are unpopular with suburban voters.
 
 But Republicans are resilient. Even 2018’s blue wave did not sweep them away nationally. In suburbs around the 100 largest cities, the Democrats were ahead by only 4m votes, out of 118m. If you include small towns in the total, the parties’ votes were almost identical, 91m Democrats to 90m Republicans.
+
+
 
 ![](./images/20200104_USP004_0.jpg)
 

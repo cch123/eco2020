@@ -30,6 +30,8 @@ Indonesia’s president, Joko Widodo, visited Natuna Besar, an Indonesian island
 
 The death toll from flooding in Jakarta rose to 67. The Indonesian capital has been hit by the most powerful monsoon rains in years. See [article](https://www.economist.com//asia/2020/01/11/flooding-in-jakarta-is-the-worst-for-over-a-decade).
 
+
+
 ![](./images/20200111_WWP002.jpg)
 
 Juan Guaidó, the president of Venezuela’s national assembly, was barred from entering parliament by security forces at the time it was due to decide whether to re-elect him to that post. Mr Guaidó is recognised as Venezuela’s interim president by nearly 60 countries. The few parliamentarians whom the regime allowed to enter the building chose Luis Parra as the assembly’s new president, but a larger group convened elsewhere and re-elected Mr Guaidó. See [article](https://www.economist.com//the-americas/2020/01/09/a-crude-attempt-to-stifle-whats-left-of-venezuelas-democracy).

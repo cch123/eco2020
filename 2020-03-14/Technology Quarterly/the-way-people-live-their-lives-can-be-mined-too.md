@@ -24,6 +24,8 @@ Sometimes the footprints may be just that. Dan Vahdat, who runs Medopad, a healt
 
 The recognition of such patterns is clearly a job for the machine-learning techniques driving the current expansion of AI. These techniques are already being used to interpret diagnostic tests, sometimes with real success. An AI system for prostate cancer diagnosis developed by the Karolinska Institute in Stockholm has held its own against a panel of 23 international experts; a nine-country trial is now assessing how much it can reduce the workload of doctors. But recent research published in The Lancet Digital Health, a journal, suggests some caution is advisable. Looking at around 20,000 studies of medical AI systems that claimed to show that they could diagnose things as well as health-care professionals, it found that most had methodological flaws.
 
+
+
 ![](./images/20200314_TQC480.png)
 
 One particular worry with machine learning in general is that bias in the “training sets” from which the computers learn their stuff can mean that the algorithms do not work equally well for all members of the population. Medical research has a poor historical record on such matters, for example when it does not match clinical-trial populations to the population at large, or excludes women of child-bearing age from trials. Machine learning could bake in such biases, and make them invisible.

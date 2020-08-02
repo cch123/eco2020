@@ -14,6 +14,8 @@ Exactly what the council meant is unclear. Fighters seized government offices, i
 
 The south has long had a restive streak. Britain set up a base in Aden, a refuelling stop on the passage to India, and ruled it until 1967, when a local rebellion forced it out. After winning independence South Yemen became the Arab world’s only formally communist state. But unification with the north in 1990 created new grievances. Many southerners came to resent the government in Sana’a for its corruption and perceived bias. Money and power flowed north while Aden, the former capital of the south, was neglected. Its disrepair was clear in mid-April, when heavy rains caused floods that killed at least 14 people.
 
+
+
 ![](./images/20200502_MAM957.png)
 
 Still, the STC aligned itself with the Saudi-led coalition. The Houthis enjoy little support in the south, where they are seen as interlopers from a different religious and tribal background. The United Arab Emirates (UAE), which led the fighting in the south, put separatist fighters on its payroll. But last summer, tired of the long campaign, the UAE withdrew most of its troops.

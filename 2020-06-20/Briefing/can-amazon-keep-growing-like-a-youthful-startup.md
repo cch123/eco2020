@@ -26,6 +26,8 @@ The scale of its retail operation gives Amazon an unparalleled collection of dat
 
 In the digital world Amazon dominates the cloud-computing business. In 2003 two engineers suggested that Amazon’s in-house IT infrastructure could be provided as a service to other companies, as space on its website and use of its logistics system were. That intrigued Andy Jassy, Mr Bezos’s technical adviser at the time. Today Mr Jassy is AWS’s chief executive. The division has established the company’s credentials as a developer of serious technology on a very large scale, rather than just a user of it. It also provides lots of cash. Last year AWS contributed $35bn to Amazon’s sales—and a fat $9.2bn in operating profits.
 
+
+
 ![](./images/20200620_FBC072.png)
 
 The AWS piggy bank has supported both expansion in retail—in 2017 Amazon paid $14bn for Whole Foods, an upscale supermarket chain—and new projects which the company’s engineers cook up at a prodigious rate. One of the whizziest is Project Kuiper, a satellite-broadband venture; another is Haven Healthcare, a not-for-profit aimed at reducing health-care costs, created with JPMorgan Chase, a bank, and Berkshire Hathaway, a conglomerate.
@@ -35,6 +37,8 @@ Amazon is still growing briskly, especially so for a set of multi-billion-dollar
 And the coronaviral sales boost has come at a cost. The company is hiring 175,000 new workers in America to cope with surging demand; it has invested heavily in covid-proofing its operations; and it has sacrificed earnings by prioritising the delivery of essential items, which tend to have lower margins, while barring many lucrative non-essentials from warehouses and removing ads for them to tamp down demand. Even as sales rose by 26% between January and March, profits fell by 29% compared with the previous year.
 
 With its range narrowed and shipping slowed, Amazon could not keep up with soaring online demand (see chart 2). In America and elsewhere shoppers turned to rivals, often on a “click and collect” basis. According to data from Rakuten Intelligence, an independent subsidiary of a Japanese e-commerce firm, Amazon’s share of online spending in America was 34% in mid-April, down from 42% before covid-19. For years Amazon has led the way as an e-commerce pioneer, says Mark Shmulik of Bernstein; now every big retailer will turn to the web as never before. Long-established retailers like Target and Walmart are already making hay.
+
+
 
 ![](./images/20200620_FBC117.png)
 
@@ -47,6 +51,8 @@ A year ago, after 15 years of trying, Amazon gave up on China. In 2012 it had ma
 Elsewhere in the emerging world Amazon is still burning billions with no returns in sight. Its $6.5bn investment in India looks troubled. The nationalist government of Narendra Modi is making life hard for foreign firms—and easier for its local champion, Reliance Jio (in which Facebook is investing $5.7bn). In Latin America Amazon’s 3% share of online retail is barely one-fifth that of MercadoLibre, an Argentine firm better at dealing with bad roads, banditry and other local pitfalls. Because profits from western Europe are not enough to offset losses in the developing world, Amazon’s international division has been losing money for years.
 
 Investors have mostly shrugged off Amazon’s global retail slowdown. The reason is simple—AWS. Its operating income usually adds up to well over half of Amazon’s total—in the most recent quarter it accounted for 77%. Bernstein estimates that Amazon’s retail business had an operating margin of -1% in 2019, and AWS 26%. But the cloud is getting crowded. Alibaba, Google and Microsoft have expanded their cloud offerings (though Alibaba Cloud still earns almost all its revenue in China). Globally, AWS’s share of cloud-computing declined from 53.7% to 47.8% between 2016 and 2018, according to Gartner, a research firm, while Microsoft’s nearly doubled to 15.5%. Revenue growth at AWS has slowed sharply, from 49% in the second quarter of 2018, year on year, to 33% in the first quarter of 2020 (see chart 3).
+
+
 
 ![](./images/20200620_FBC888.png)
 
@@ -67,6 +73,8 @@ There is no historical precedent for a half-a-trillion-dollar firm growing that 
 How would Amazon fare without AWS? In some ways, the change might be salutary: some close to Amazon feel that it has grown too big. Elements of unproductive bureaucracy and politicking are creeping in, they report. A lot of high-level Amazon meetings these days are about lobbying for promotion rather than innovation or operational excellence, says a former executive. A slimmed-down and refocused company might be on a better footing.
 
 It would, though, also be one with much less cash to back its further growth. As well as helping pay for the purchase of Whole Foods, AWS money has paid for international expansion and heavy investment in “last-mile” delivery, among other things. If the e-commerce rump were to inherit a hefty chunk of the company’s $59bn cash pile it might be able to keep spending—but not for long, at its recent rates. An Amazon without AWS “might not be one I would want to own”, says a representative of a big institutional shareholder in Amazon.
+
+
 
 ![](./images/20200620_FBD002_0.jpg)
 

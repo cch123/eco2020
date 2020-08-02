@@ -16,9 +16,13 @@ Even at the president’s high-water mark in February, he trailed Mr Biden by fi
 
 The election, of course, will not be held today. In fact, more time remains between now and November 3rd than has passed since Mr Trump’s impeachment trial. And given the devotion of the president’s base, Mr Biden is probably approaching his electoral ceiling, whereas Mr Trump has plenty of room to win back soft supporters.
 
+
+
 ![](./images/20200613_USP005_0.jpg)
 
 Indeed, there are good reasons to expect he will. First, the latest jobs report suggests that the economy may have bottomed out. In 1984 Ronald Reagan trounced Walter Mondale by declaring “Morning in America”, though unemployment remained high by historical standards. Mr Trump plans to make the same argument. The Black Lives Matter protests could also backfire on Democrats if they rally white voters behind the “law and order” candidate, as they are thought to have done in 1968.
+
+
 
 ![](./images/20200613_USC983.png)
 
@@ -30,6 +34,8 @@ However, statistical models that used a historically accurate amount of polling 
 
 Like most forecasts, our model, built with the aid of two academics from Columbia, Andrew Gelman and Merlin Heidemanns, applies past patterns of voters’ behaviour to new circumstances. Its stated probability of victory answers the question: “How often have previous candidates in similar positions gone on to win?” If those historical relationships break down, our forecast will misfire. But one of the paradoxes presented by Mr Trump’s unprecedented presidency is that voters have mostly treated him as they would handle any other Republican.
 
+
+
 ![](./images/20200613_USC041.png)
 
 Our analysis begins with “fundamentals”, or structural factors that shape the public’s choices. Predictably, when presidents have high approval ratings, their parties’ candidates tend to get more votes (see chart 1). Incumbents seeking re-election also fare better if the economy does well, though growing partisan polarisation has shrunk this effect. And voters seem to have an “eight-year itch”: only once since term limits were enacted in 1951 has the same party won three times in a row.
@@ -37,6 +43,8 @@ Our analysis begins with “fundamentals”, or structural factors that shape th
 Because of the two-term penalty, these factors correctly predicted Mr Trump’s victory in 2016. Until recently, they were poised to favour him again: a typical modern incumbent with a good-not-great economy and bad-not-terrible approval ratings should win around 51% of the vote. However, the recession set off by covid-19 has turned the fundamentals against him.
 
 Just how much this hurts Mr Trump is hard to estimate. First, no post-war president has been saddled with an economic crash this deep. Does moving from 10% unemployment to 15% hurt an incumbent as much as moving from 5% to 10%? Second, whereas recovery from previous economic calamities has been slow and grinding, the easing of lockdowns is likely to put millions of Americans back to work before the election. Come November, will voters punish Mr Trump for the big decline since February, or reward him for a smaller gain since April? Finally, voters may not treat a recession caused by a pandemic the same as one with economic roots. Despite mass unemployment, Mr Trump’s approval rating remains above its lows of 2017.
+
+
 
 ![](./images/20200613_USC040.png)
 
@@ -49,6 +57,8 @@ Polls are prone to biases, above and beyond their stated margins of error. Their
 Rather than analysing polls individually, our model considers them collectively. It assumes that particular survey methods, weighting schemes, adjustments for partisan non-response bias and the like influence reported results in unknown ways. Using a statistical method called Markov Chain Monte Carlo, it then estimates the impact of these factors, by finding the values for them that best explain the differences in results between pollsters surveying similar places at similar times. Finally, it blends the resulting polling average with a forecast based on fundamentals, placing greater weight on polls as time goes on.
 
 With the election five months away, the model now relies mostly on fundamentals. These are sufficiently grim for Mr Trump that it gives him just a 5% chance of getting more votes than Mr Biden does. However, his overall odds of victory are about four times higher than that, thanks to a healthy chance that he once again wins the electoral college while losing the popular vote.
+
+
 
 ![](./images/20200613_USC038.png)
 

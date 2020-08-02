@@ -14,6 +14,8 @@ The government’s mantra, repeated at every opportunity, instructs people to �
 
 This is not entirely bad. For one thing, the quiet has made reorganisation easier. And it is likely that some of the drop-off reflects a genuine decline in need. Many of the so-called “worried well” are now probably more worried by a trip to hospital than by their supposed illness. With more handwashing, it is little surprise that admissions for gastrointestinal illnesses have dropped. With pubs closed and roads empty, there are fewer accidents. Greater use of online and telephone consultations means that fewer people need to come into hospital to receive care.
 
+
+
 ![](./images/20200411_BRC170.png)
 
 Yet the scale of the drop in admissions has alarmed medics. Before the crisis, the health service estimated that just one in ten emergency attendances were “non-urgent”, meaning treatment could have been provided by a general practitioner outside of hospital. Emergency departments are not just seeing fewer stomach bugs. There has been a sharp fall in the number of emergency admissions with cardiac problems. Forthcoming data will show that referrals for cancer diagnosis have plunged. And one hospital even reports a 70% fall in admissions for detached retinas. None of these things is likely to be the result of cleaner hands.

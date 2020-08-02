@@ -18,6 +18,8 @@ Commercial property has become an investment craze over the past two decades. In
 
 The immediate problem is that tenants are behind on the rent. Every recession involves sporadic delinquencies, but the lockdowns have led to anarchy in some bits of the property business. Perhaps a quarter of free-standing shops, half of mall tenants and 60% of restaurants in America and other Western markets are not paying their dues. This can be a spontaneous rebellion or landlords may have offered holidays. Some cities and governments have introduced moratoriums. Landlords have taken a hit to their income. So far they have been unwilling or unable to repossess buildings that may have no other prospective tenant. A growing number have defaulted on their debts. Commercial-mortgage-backed securities, which bundle up property loans, have seen delinquency rates exceed the levels in the financial crisis of 2007-09.
 
+
+
 ![](./images/20200627_LDC222.png)
 
 Temporary delinquencies are only part of the problem. In the longer run the uses of property may change. E-commerce activity has risen to the level pundits had thought it would reach three to five years from now, speeding up the decline of bricks-and-mortar shops and boosting demand for warehouses. Firms that have found remote-working tolerable may shrink the office space they hire. Video calls in lieu of business trips could reduce the number of hotel nights billed. Even as economies open up again, there are signs that behaviour may have changed permanently. The latest mobility-tracking data suggest that activity in offices in America is 36% below normal levels. It is 15% below the usual level for retail and recreation spaces such as restaurants, shops and cinemas.

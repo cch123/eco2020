@@ -12,6 +12,8 @@ THE CHRISTMAS of 2018 was a dismal one for American stockmarket investors. Meagr
 
 The fears proved overblown. The S&P 500 rose by 28.9% during 2019, close to the 2013 record increase and well above the average annual gain for the past decade (see chart). December is often good for markets—a phenomenon traders call the “Santa rally”. This one was particularly strong, with the index rising by 2.9%. Markets beyond America also did well. The FTSE All-World, a global index, rose by 24% in dollar terms, its best showing since 2009. 
 
+
+
 ![](./images/20200104_FNC819.png)
 
 Share prices often rise when expectations of future profits do. But earnings have stagnated recently, so that does little to explain this year’s boom. Falling interest rates played a bigger part. These boost share prices by increasing the comparative value of claims to future income streams, such as profits. The Federal Reserve, which had finished 2018 signalling that it would tighten monetary policy, changed course early in 2019 and indicated that it would ease if necessary to offset any shocks caused by the trade war. Market predictions for policy rates tumbled. During the year the Fed cut three times, undoing nearly all the previous year’s tightening.

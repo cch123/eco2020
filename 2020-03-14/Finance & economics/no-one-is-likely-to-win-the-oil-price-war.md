@@ -14,6 +14,8 @@ Amid turmoil in global markets unleashed by the plummeting oil price, and panic 
 
 The fallout caps a seismic decade for oilmen. Power has shifted between Saudi Arabia, Russia and America (see chart). In 2014 Saudi Arabia sought to check America’s ascendant shale industry by flooding the market with oil. The result was cataclysmic for all producers. Two years later OPEC restored its grip on output by forging an alliance with Russia and others.
 
+
+
 ![](./images/20200314_FNC666.png)
 
 In recent years, though, Russia has flouted the terms of its deals with OPEC. Its oil companies, led by Rosneft, have chafed at market share lost to American frackers. As troubling for Russia, America has become less shy about leaning on foreigners. In December it announced sanctions to delay Nord Stream 2, a Russian gas pipeline to Europe. In February America imposed sanctions to punish Rosneft for its dealings with Venezuela.

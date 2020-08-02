@@ -16,6 +16,8 @@ At first glance, YC’s fate seems at odds with the broader health of foreign ve
 
 For venture capitalists, China used to be a breeze, notes one based in Shanghai. “You were dealing with the entrepreneurs directly, not with the state. Partners could parachute in, do some deals and leave.” Zhou Wei, who worked for Kleiner Perkins, says that life was especially rosy in the “copy to China” years after the first firms arrived around 2005. But it remained pretty plush for longer. In 2018 China overtook America as the top country for VC returns (measured by current return on investment), according to eFront, a data firm. That year seven of the world’s ten largest VC deals involved Chinese startups. YC called China “an important missing piece of our puzzle” and dreamed of combining “the best of Silicon Valley and China”.
 
+
+
 ![](./images/20200111_WBC270.png)
 
 For many foreign firms the glory days are over. They must contend with homegrown rivals, a few thousand government-funded incubators doling out cash and free digs to budding entrepreneurs, and China’s internet giants, with their voracious appetite for dealmaking. In an interview with local media, Mr Lu recalled from his stint at YC that many Chinese entrepreneurs put themselves through tough interviews only to turn down foreign funds and go, with YC’s imprimatur, to deeper-pocketed Chinese investors. William Bao Bean, a Shanghai-based partner at SOSV, an American firm, says the kind of sums that the likes of YC help raise are “a rounding error” in the world’s most competitive VC market—even in the midst of a “capital winter” that has enveloped China in the past 18 months and caused activity in 2019 to sink to its lowest level in four years (see chart).

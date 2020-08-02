@@ -14,6 +14,8 @@ The family’s bonds with China are not just emotional. Two-fifths of CP’s $68
 
 The Chearavanonts’ past and present mirror those of other wealthy ethnic-Chinese clans in South-East Asia. Although they make up less than 10% of the region’s 650m or so people, they dominate swathes of its $3trn economy. Many have prospered thanks to familial ties with China—and vice versa. “China cultivates them and they cultivate China in turn,” says George Yeo, a former foreign minister of Singapore.
 
+
+
 ![](./images/20200530_WBC719.png)
 
 According to The Economist’s analysis of data from Forbes magazine, last year more than three-quarters of $369bn in South-East Asian billionaire wealth was controlled by huaren (a Mandarin term for “overseas Chinese” who are citizens of other countries). A lot resides in Singapore, a rich majority-huaren city-state. But plenty is spread from Indochina and Indonesia to the Philippines (see chart).

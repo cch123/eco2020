@@ -36,6 +36,8 @@ A Track 2 dialogue may begin with a working paper and an outline of familiar sta
 
 No one would claim that Track 2 is easy, or quick. Facilitators have to “provide the space without dictating solutions”, says Ms Vimalarajah. “I’ve never seen a process that’s been very linear.” This is not a game you get into unless you’re comfortable with a low batting average, notes another expert. “Track 2 is limited, let’s be honest,” says Eugene Rumer of the Carnegie Endowment for International Peace, a think-tank. He has been involved in “no bullshit” exchanges between Americans and Russians on security issues; the modest achievement may be to feed a fresh idea or two back to the Kremlin or the White House. Sometimes facilitators do get tantalisingly close to a breakthrough—on rights for Kurds in Turkey, for example—only to be stymied by a mood change in government.
 
+
+
 ![](./images/20200125_IRD002_0.jpg)
 
 Is Track 2 worth all the effort? Not everyone is a fan. Diplomats sometimes frown on outsiders’ encroachment. America’s Logan Act of 1799 criminalises unauthorised negotiations that undermine government policy. The ethics of dealing with people who have blood on their hands is tricky.

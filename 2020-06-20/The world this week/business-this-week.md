@@ -16,6 +16,10 @@ Robert Lighthizer, the US trade representative, confirmed that America had pulle
 
 Facebook launched a payment service on its WhatsApp platform in Brazil. Brazilians can link their credit or debit cards to WhatsApp Pay to send money to each other or buy goods from small firms. Facebook had hoped India would be the first country to use the facility nationwide, but became bogged down in regulatory objections there.
 
+
+
+
+
 ![](./images/20200620_WWC131.png)
 
 Retail sales in America surged last month by 17.7% over April, more than double the amount that had been expected. That followed a 14.7% decline in April. Sales were still down by 6.1% compared with May last year. It is thought that the government’s stimulus measures to households helped fuel the shopping spree, and that consumers might not spend so much when the money runs out.

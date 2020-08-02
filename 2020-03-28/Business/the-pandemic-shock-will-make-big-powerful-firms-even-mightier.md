@@ -22,6 +22,8 @@ Who, then, are the top dogs? To get a sense of firms’ resilience The Economist
 
 Silicon Valley and Big Pharma dominate (see chart). Technology firms make up 48 of the top 100. The likes of Microsoft (10th), Apple (13th), Facebook (14th) and Alphabet (18th) operate with big cash buffers. Demand for some of their products is surging: Microsoft’s team-working software, for example. Another 24 are health-care firms. Many have spare cash and a captive market of people in need of drugs. Plenty of the weaklings are in the ailing transport, retail and recreation industries (think Marks & Spencer or American Airlines).
 
+
+
 ![](./images/20200328_WBC018.png)
 
 Clear winners and losers are emerging within sectors, too. In tech, Amazon is adding 100,000 workers in America to meet e-commerce demand. Meanwhile SoftBank, a Japanese conglomerate which bet big on flaky startups (including smaller e-merchants), has been forced to announce $41bn in divestments to raise cash, among them, perhaps, the sale of part of its lucrative stake in Alibaba, China’s biggest listed firm. In energy, the shares of giants such as ExxonMobil, Royal Dutch Shell and BP have outperformed smaller firms by a vast margin. Occidental Petroleum, an aggressive medium-sized company that has tried to acquire its way to the big league, now has a hefty $40bn in debt. L’Oréal, a big French personal-care group, has done vastly better than Coty, an American rival. Even among beleaguered aircraft-makers a gap has opened up. On March 23rd Airbus, Europe’s champion, said it had about $32bn of liquid funds available. Debt investors view it as less risky than Boeing, which may seek a bail-out from the American government.

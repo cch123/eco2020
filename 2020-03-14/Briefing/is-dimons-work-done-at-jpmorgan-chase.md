@@ -20,6 +20,8 @@ Mr Dimon made arguably the most important decision of his career in his twenties
 
 It was a sign of his steely determination to reach the top that, with a beady eye on Mr Weill, he said the merger would “give Citi a run for its money”. Under Mr Dimon, JPM has achieved far more than that. At the time Citigroup was considered the greatest American bank. It was twice as valuable as its newly merged rival; it had the biggest pile of assets of any bank globally; and it had earned an average return on equity (ROE) of 19.2% over the previous five years. JPM had registered a paltry 8.9%. It was seen as a lumbering laggard (see chart 1).
 
+
+
 ![](./images/20200314_BBC639.png)
 
 How times have changed. JPM has since become a world-beater on a wide range of metrics. In 2006 its investment bank won a fat share of the advisory fees on Wall Street but its trading business was comfortably outclassed by rivals. Today it is number one in both businesses.
@@ -27,6 +29,8 @@ How times have changed. JPM has since become a world-beater on a wide range of m
 Its retail bank has ballooned in size. In 2006 JPM held 3.6% of American retail deposits; it now holds 9%. The bank opened almost a quarter of all new checking (current) accounts in America last year. It has also scooped up a growing share of corporate deposits. JPM’s asset-management business runs $2.7trn-worth of investments on behalf of clients, double the amount held in 2006. Acquisitions made opportunistically during the financial crisis of 2007-09, such as Bear Stearns, an investment bank, and Washington Mutual (WaMu), a savings-and-loan institution, have helped JPM leapfrog other American and European banks in size (though a clutch of Chinese banks are still larger).
 
 Importantly, this growth has been reflected in the bottom line. Earnings per share of $9 in 2019 were four times higher than in 2005. The bank’s ROE in 2019 was 15%, several percentage points higher than those of American and Chinese rivals and double that of the best-performing European ones. This has been achieved without relying on easy ways of boosting performance, like increasing leverage or the risk the bank takes (see chart 2).
+
+
 
 ![](./images/20200314_BBC640.png)
 
@@ -48,6 +52,8 @@ But it was the financial crisis that was the making of him. It quickly became cl
 
 Such healthy paranoia forms the basis for a weekly meeting between Mr Dimon and the heads of all the main businesses. The meeting has no time limit—sometimes it takes minutes, other times all day—and he quizzes them on what the risks are in their units. It was over the course of these meetings in 2006 that problems with subprime mortgages were revealed. As a result JPM began to reduce its exposure across all its businesses, 18 months before most other banks did. While they were struggling to stay afloat, JPM was in a position to snap up Bear Stearns and WaMu for a song.
 
+
+
 ![](./images/20200314_BBC635.png)
 
 Despite navigating the crisis relatively unscathed, the bank has paid heavily for mishaps. Mortgage-related fines have cost it tens of billions of dollars—the most expensive being a $13bn bill for misleading investors over toxic securitised loans. JPM also had to cough up $2.6bn to settle allegations that it turned a blind eye to Bernie Madoff’s giant Ponzi scheme.
@@ -62,6 +68,8 @@ In the longer term there is also a tech war to win. With fintech firms continuin
 
 Meanwhile, Mr Dimon may see scope for further expansion. Rumours have circulated that JPM is preparing to launch a British digital bank later this year, as a possible step towards taking the retail bank global. He might want to do a few more deals. At the bank’s investor day on February 25th he hinted that a fintech acquisition might look tempting.
 
+
+
 ![](./images/20200314_BBP001.jpg)
 
 It must, indeed, be hard to say goodbye. The decision is especially tricky for a boss who is so widely lauded, and famously dedicated to the job. Mr Dimon once insisted on keeping an appointment with The Economist despite feeling woozy after undergoing an intrusive medical procedure earlier that day.
@@ -69,6 +77,8 @@ It must, indeed, be hard to say goodbye. The decision is especially tricky for a
 One of the most critical roles of a CEO is to groom a successor and then to recognise when the time has come to pass the baton. Mr Dimon’s health problems will focus investors’ minds on this question. He has, however, long been accused of pushing out heirs apparent. “Jamie Dimon has only one succession plan,” quips one European bank boss, “If he sees a successor, he kills them.” The bank denies this and says those who left were not on the board’s list.
 
 Plenty of putative successors have left during the Dimon era, including lieutenants who followed him from Citigroup, like Charlie Scharf and Mike Cavanagh (see chart 4). A JPM diaspora now run banks with $5trn-worth of assets. And Mr Dimon continues to keep the net of potential heirs wide open. At least six names are commonly mentioned: along with Messrs Smith and Pinto, Marianne Lake, who runs consumer lending; Doug Petno, head of the commercial bank; Jennifer Piepszak, the chief financial officer; and Mary Erdoes, head of wealth and asset management.
+
+
 
 ![](./images/20200314_BBC641.png)
 

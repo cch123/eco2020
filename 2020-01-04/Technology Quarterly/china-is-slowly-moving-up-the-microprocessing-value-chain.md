@@ -26,6 +26,8 @@ Although Chinese firms are still behind in the manufacture of chips, they have r
 
 On November 6th the latest results of MLPerf, an industry-standard benchmark for AI chips, were published. They showed that the Hanguang 800 chip was performing a standardised machine-learning task 13 times faster than the chip that Intel had just released (see chart). The comparison is not totally fair, as the Alibaba chip was made physically larger than the Intel chip, letting it draw more power and perform more calculations per second. But even compared with a bigger chip from Nvidia called the Titan RTX, the Hanguang 800 clocked in four times faster.
 
+
+
 ![](./images/20200104_TQC478.png)
 
 There are probably more caveats. Alibaba ran only one out of five tests. Poor performance in the others would betray a chip over-optimised for one task. But even in the most pessimistic scenario it is impressive. That a Chinese company has designed an AI chip which performs as well as, or better than, its Western competitors should alert American politicians and innovators to China’s progress in this area.

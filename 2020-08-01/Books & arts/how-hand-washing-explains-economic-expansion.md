@@ -4,7 +4,7 @@
 
 # How hand-washing explains economic expansion
 
-> The history of economic growth is, in many ways, a tale of cleaniness
+> The history of economic growth is, in many ways, a tale of cleanliness
 
 > Aug 1st 2020WASHINGTON, DC
 

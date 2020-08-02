@@ -18,6 +18,8 @@ So what is going on? The answers lie in SMIC’s status as China’s best hope o
 
 Investors who put assumptions about a company’s long-term success over its short-term performance may view the American government’s attention as a signal of SMIC’s potential. Many Chinese patriotic day-traders probably belong to that group. But the immediate risk to their investment from America’s actions is real.
 
+
+
 ![](./images/20200711_WBC341.png)
 
 The latest assault came on May 15th, when the Department of Commerce introduced new export-control rules that prevent SMIC from using American chipmaking equipment to produce microprocessors for Huawei, the Chinese telecoms giant at centre-stage in the technological cold war. Bernstein, a research firm, says that if SMIC were to lose Huawei’s custom that would shave 20% from its existing revenue and, crucially, deprive it of “most” of its expected growth. SMIC’s already thin margins may turn negative when $1.7bn in capital spending since 2016 begins to incur depreciation costs, according to Bernstein, which recently said in a report that SMIC’s shares looked overvalued.

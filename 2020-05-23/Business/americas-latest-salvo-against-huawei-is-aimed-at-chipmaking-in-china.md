@@ -22,6 +22,8 @@ Even if the legal experts are wrong, the rule will be difficult to enforce: the 
 
 The industry’s geographic scope was already becoming broader—and less American—over time. One crude yardstick for this is to track where its physical assets sit, as recorded in the filings of public tech businesses (see chart). The top dozen global semiconductor firms, for example, now have only 20% of their plant in America. Asian firms, such as TSMC, SMIC and Samsung, mostly locate their factories at home. American chipmakers, meanwhile, and many suppliers, have been diversifying geographically for years, says Dan Hutcheson of VLSI, a consultancy—partly in pursuit of cheap labour, partly to protect against natural disasters.
 
+
+
 ![](./images/20200523_WBC686.png)
 
 Consider Intel, which makes chips of its own design for customers (among them Huawei) that assemble electronic devices. In 2019 the American giant had over 35% of its $55bn in physical assets, a rough proxy for manufacturing capacity, abroad. Some $8bn-worth sat in Israel and another $4bn in Ireland. Industry insiders report that China-bound shipments from both places have increased since America’s Huawei-baiting began. Intel also has more than $5bn in assets in China, its biggest market. All told, $20bn of its $72bn in revenues last year came from China.

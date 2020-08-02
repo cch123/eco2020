@@ -14,6 +14,8 @@ Editor’s note: The Economist is making some of its most important coverage of 
 
 The evidence comes from a company called Unacast, founded by two Norwegians in New York in 2014. It aggregates location data from mobile phones to track and analyse people’s movements on behalf of retailers and property companies. Such data become available when users download, say, restaurant-finding apps. This makes it possible to measure the total distance logged on mobile phones by county, state and nation.
 
+
+
 ![](./images/20200404_USC067.png)
 
 The most interesting data are those from state and county levels. In Nevada people halved the total distance they travelled between February 28th and March 27th. In Wyoming they travelled around more. (The average national reduction was 30%). The biggest declines in distance were in the north-east and Pacific coast. In the South, Midwest and Plains states declines have been modest.

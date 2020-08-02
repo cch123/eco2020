@@ -24,11 +24,15 @@ Battlegrounds are easy pickings for the virus. But they also help it spread. War
 
 In Congo, some 480,000 people have fled their homes since violence escalated in late March. This number accounts for 75% of the total number of people displaced worldwide during the pandemic. Near Bunia, over 27,000 displaced people live in rows of white tarpaulin tents in a camp. Twenty-nine-year-old Charlotte Tabu sleeps in a tent that she shares with nine others. She fled when rebels attacked her village. “The rebels burned my house while I was working in the fields,” she says. “We are suffering here. It is not easy to find food in the camp. We need this war to end. I had seven children, two were burned inside my house.”
 
+
+
 ![](./images/20200620_IRD002_0.jpg)
 
 Health workers worry about the spread of the virus through and among such wretched communities. In Cox’s Bazar in Bangladesh, for instance, 900,000 Rohingya Muslims, driven out of Myanmar, live in packed camps. In a survey conducted from April 11th to 17th, researchers at Yale found that 25% of respondents in camps had experienced at least one common covid-19 symptom. Most had attended a communal prayer in the previous week, a setting in which transmission is especially likely. Several refugees have already died.
 
 Those with the guns—governments and rebel groups alike—are exploiting opportunities created by the virus and its shock to economic and social life. Since March Islamic State has switched its focus from intimidating civilians to attacking government and government-backed forces in Iraq and Syria. It killed more than 30 Syrians soldiers in two days of fighting in April and briefly seized a small town, Mubarak, in Diyala province north-east of Baghdad. In early May it launched its biggest attack in Iraq since the coalition declared its defeat in 2017, killing ten fighters from Hashad al-Shaabi, a mostly Shia militia.
+
+
 
 ![](./images/20200620_IRC101.png)
 
@@ -49,6 +53,8 @@ Many countries are anxious that such self-evident disruption to their armed forc
 The urge to downplay weakness and project strength has resulted in a form of nervous muscle-flexing that Nick Childs of the International Institute for Strategic Studies, a think-tank, calls “pandemic deterrence”. In mid-April China steamed its own aircraft-carrier through the Miyako Strait between Taiwan and Japan, an “opportunistic” act “almost calculated to contrast with the plight” of the stricken Roosevelt, notes Mr Childs. On May 22nd America’s navy pointedly noted that it had seven out of eleven carriers at sea, though it is implausible that all are fighting fit. In mid-June three were sent to the Pacific for the first time in three years (see [article](https://www.economist.com//china/2020/06/17/chinas-next-move-in-the-south-china-sea)).
 
 Covid-19 has not had the shattering effect on military power the Spanish Flu had a century ago. Modern health care is vastly better. Today’s pandemic, unlike the earlier one, largely spares the young adults who fill the ranks of armed forces. But as governments have been preoccupied at home and distracted abroad, the virus has deepened geopolitical tensions—between America and China, above all—and worsened what was already a febrile international mood. “Some leaders may...see covid-19 as cover to embark on destabilising foreign adventures, whether to deflect domestic discontent or because they sense they will face little pushback amid the global health crisis,” warns the ICG.
+
+
 
 ![](./images/20200620_IRD003_0.jpg)
 

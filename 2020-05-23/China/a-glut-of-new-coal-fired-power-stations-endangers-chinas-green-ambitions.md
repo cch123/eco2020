@@ -14,6 +14,8 @@ Work on many of the new coal-fired stations began after the central government g
 
 China does not need a lot more power. Its economy is growing less energy-intensive as it relies less on manufacturing and construction. Lately coal-power plants have been able to sell less than half the electricity they are able to produce, down from 60% a decade ago. But local governments see any big construction project as a potential boost to growth. Some also have coal-mining industries to protect.
 
+
+
 ![](./images/20200523_CNC647.png)
 
  In 2016, recognising its mistake, the central government began clawing back the authority it had devolved to the provinces. But it worried that halting projects would threaten local economies, so it allowed many of those under way to proceed. Soon it began to relax curbs on the approval of new stations. In January China had 135GW of coal-power capacity either permitted or under construction, says Global Energy Monitor, an NGO in San Francisco. That is equal to about half the total coal-power capacity in America.

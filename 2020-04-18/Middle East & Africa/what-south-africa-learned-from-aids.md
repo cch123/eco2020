@@ -16,6 +16,8 @@ Yet that pandemic has given South Africa vast knowledge of how—and how not— 
 
 HIV has shaped South Africa’s response in two main ways, says Professor Karim. The first was to convince politicians to listen to medical experts and act quickly. The current president, Cyril Ramaphosa, has done just that. Social-distancing measures were introduced on March 15th, followed by a national lockdown on March 27th. “I failed miserably” to convince Mr Mbeki of the seriousness of HIV, reflects Professor Karim. “This government is much easier to work with.”
 
+
+
 ![](./images/20200418_MAC221.png)
 
 Restrictions seem to have had an effect. In the week to March 28th the number of confirmed cases quadrupled. But it took 17 days for the reported tally to double after that date. What looked at first like a Britain-style trajectory has come to appear more like South Korea’s (see chart). Confirmed cases depend on the number of tests, but Mr Karim believes that the deceleration reflects reality and that it is mostly due to the government’s measures.

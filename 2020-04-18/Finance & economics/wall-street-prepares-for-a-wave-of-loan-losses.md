@@ -16,6 +16,8 @@ So when American lenders reported their first-quarter earnings on April 14th and
 
 Banks’ balance-sheets have swollen as they have issued loans to firms, creating new deposits. Loans outstanding at JPMorgan, Bank of America, Citigroup, Goldman Sachs and Wells Fargo grew from $3.8trn to $4.0trn between the end of last year and March 31st. (America’s other big beast, Morgan Stanley, was due to report results as The Economist went to press.) A torrent of trading in financial markets pushed transaction volumes to new highs. As a result, trading revenues were up by 32% at JPMorgan and 28% at Goldman Sachs, compared with the same period in 2019.
 
+
+
 ![](./images/20200418_FNC250.png)
 
 But the worst is yet to come. The frenetic pace of trading activity is unlikely to last. Lower interest rates will eat into interest margins. And banks are bracing for loan losses. America’s four large lenders booked $24.1bn in provisions for credit losses, an increase of $18.7bn compared with the first quarter of 2019. That dragged down profits: the same banks reported a total of $10.1bn in net earnings in the first quarter, down from $27.1bn in the same period a year ago.

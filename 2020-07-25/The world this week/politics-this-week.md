@@ -38,6 +38,8 @@ Congress considered measures to remove the names of Confederate generals from ar
 
 Mr Trump denied a report that he asked America’s ambassador in London to press the British government to get the British Open staged at the Trump Turnberry golf course in Scotland, which would have been lucrative publicity.
 
+
+
 ![](./images/20200725_WWC019.png)
 
 The World Health Organisation reported new record daily increases for global infections and deaths.

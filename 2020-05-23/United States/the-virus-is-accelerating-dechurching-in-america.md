@@ -16,6 +16,8 @@ His words may prove prophetic. The covid-19 pandemic has hammered churches of al
 
 The result could be a significant reduction in the number of churches in America. David Kinnaman, the president of Barna Group, an evangelical research outfit, reckons that as many as one in five churches—and one in three mainline ones—could close for good within the next 18 months.
 
+
+
 ![](./images/20200523_USC666.png)
 
 This would represent a rapid acceleration of a long-term decline in American religiosity. Though the process of secularisation has been slower to take hold in America than in other parts of the rich world, it is now well under way. According to Pew Research, the share of Americans who say they attend religious services at least once or twice a month has dropped by seven points over the past decade to 45%. The share who go to church every Sunday is a lot lower: some pollsters put it at 20%. Though the decline is evident among all demographic groups, it appears to be fastest among poor whites.

@@ -24,6 +24,8 @@ Tales like that of Jack Ma, who twice failed to get into university and started 
 
 This sentiment may be reinforced by the high share of startups that turn into “unicorns”. China has 206 privately held companies valued at $1bn or more, more than any other country. Beijing alone hosts 82, more than San Francisco’s tally of 55, according to Hurun Report, a research firm. They include ByteDance, the world’s mightiest unicorn (which owns TikTok, a hit short-video app, and is valued at $90bn or thereabouts).
 
+
+
 ![](./images/20200502_WBM959.png)
 
 Unicorns are not, of course, a representative sample of private enterprise. But they nonetheless illustrate that Chinese entrepreneurship is broad as well as deep. According to Vision Plus Capital, a venture-capital firm, a big share of the herd grazes around cities with a high startup density per million residents, such as Hangzhou (31), Shenzhen (27) and Beijing (24). But their founders are a more geographically diverse bunch. Hurun lists 112 founders of Chinese startups worth $1.5bn or more. The 78 whose birthplace The Economist has been able to identify in China hail from 20 provincial-level regions (see map).
@@ -45,6 +47,8 @@ Not everyone is as obliging. State-owned lenders refuse to extend new loans to m
 This increasingly heavy hand is the private sector’s second problem. The party looks more hostile to it than at any time since before Deng set up “special economic zones”, capitalist sandboxes for firms, in the 1980s. Mr Xi favours state-led development over private-sector effervescence, maybe seeing the cult of entrepreneurs as a rival source of authority. The former party boss in Zhejiang and provincial head of equally enterprising Fujian has disappointed those who say breakthroughs require an environment where people are free, in the words of R. May Lee, “to indulge, to daydream and to do things differently”. Ms Lee stepped down as dean of the School of Entrepreneurship and Management at ShanghaiTech University in 2018 partly out of frustration over increasing state control of the curriculum.
 
 The third worry for many Chinese firms is the prospect of being shut off from the world. This is not wholly China’s fault; America has limited exports of certain technologies to Chinese buyers as part of a trade war between the two superpowers. But Mr Xi’s pursuit of greater autonomy from the West will make it harder for Chinese firms to procure kit and components unavailable at home, including advanced microprocessors, and, increasingly, to attract business partners abroad. Officials’ early response to the virus, when they tried to suppress reports of the original outbreak in Hubei province, has only added to foreign queasiness of all things Chinese.
+
+
 
 ![](./images/20200502_WBC376.png)
 

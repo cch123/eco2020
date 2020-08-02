@@ -14,6 +14,8 @@ For years the yuan revolved around the dollar. That benefited China, but it also
 
 Our planet’s inhabitants tend to analyse the yuan in comparison with the biggest currency in our solar system. So its recent depreciation against the dollar attracted much attention, especially in late May, when the People’s Bank of China (PBOC) set the yuan’s daily reference rate at 7.13 to the dollar, the weakest since 2008. Amid ever-increasing tensions with America, many economists predicted further depreciation, though the yuan has strengthened against the greenback so far in June.
 
+
+
 ![](./images/20200613_FNC898.png)
 
 But the singular focus on the dollar misses something important. At the end of 2015 China started announcing the yuan’s exchange rate against a basket of currencies. It took a while to work out the kinks in the new system, but the evidence is that the yuan has been among the most stable currencies in the world since mid-2016. Its real effective exchange rate—its value against the currencies of its trading partners, adjusted for inflation—has risen by just 0.2% over the past four years, anchored by the official basket (see chart).

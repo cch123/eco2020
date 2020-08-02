@@ -16,6 +16,8 @@ Share prices in America have followed a dramatic V-shape recently. A brutal sell
 
 So why has the stockmarket rallied so hard? In part this reflects the Federal Reserve’s efforts to backstop the economy. It has bought bonds on an unprecedented scale, swelling its balance-sheet (chart 3). Bond yields have also become even paltrier (chart 4). Equities are appealing, if only by comparison.
 
+
+
 ![](./images/20200509_FNC480.png)
 
 The pattern of share-price changes is revealing. America’s have risen faster than Europe’s. The industry make-up of each market explains much of this. Europe’s bourses are weighed down by cyclical industries—banks, carmakers and energy companies. America’s has a bigger tilt toward technology companies, the relative winners of the covid-19 crash. The five largest tech stocks continue to be market darlings (chart 5). Healthcare stocks and consumer staples have also proved resilient (chart 6). Investors are not looking much beyond stocks they judge to be recession-proof. The market’s recent “V” is not for victory.■

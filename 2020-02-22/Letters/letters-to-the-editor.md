@@ -8,6 +8,8 @@
 
 Letters are welcome and should be addressed to the Editor at letters@economist.com
 
+
+
 ![](./images/20200201_WBD000.jpg)
 
 Schumpeter’s otherwise worthy encomium for Clayton Christensen makes the mistaken claim that he asserted a monopoly on disruptive wisdom ([February 1st](https://www.economist.com//business/2020/01/30/clayton-christensens-insights-will-outlive-him)). After his seminal “The Innovator’s Dilemma”, Clayton only ever wrote with co-authors, and he took every opportunity to attribute the staying power of the theory to other writers, for he valued work that challenged the theory even more than work that confirmed it.
@@ -16,17 +18,23 @@ Furthermore, claiming that Clayton “shrugged off” Apple and “brushed off�
 
 MICHAEL RAYNORMississauga, Canada
 
+
+
 ![](./images/20200125_USD000_0.jpg)
 
 The answer to Lexington’s question “Could it be Bernie?” is a resounding no ([January 25th](https://www.economist.com//united-states/2020/01/25/could-it-be-bernie)). It is inconceivable to me, a life-long Republican who will not be voting for Donald Trump, that the Democrats could choose the only person whom Mr Trump could beat. When Bernie Sanders jumped to the lead, Mr Trump tweeted nice things about him. He knows he can beat Bernie with an impeached arm tied behind his back. The Democrats’ mantra should be electability, plain and simple. Choosing Bernie would only show that they can screw up the sleeves on a vest.
 
 STEPHEN COONEYPottstown, Pennsylvania
 
+
+
 ![](./images/20200201_LDP501_0.jpg)
 
 Regarding puberty blockers for transgender children (“[Pill-pushers](https://www.economist.com//leaders/2020/01/30/what-to-do-about-puberty-blockers)”, February 1st), it broke our hearts to watch our brilliant, funny kid descend into a deep depression once puberty started. It took every ounce of courage she had to tell us she was transgender. We took her at her word, and have supported her these past two years as she began her transition. We were told of the risks of hormone therapy, but for us there was never any question. On hormones, our child has a chance for a happy and fulfilling life. Without them, we might have lost her, and that is a risk we simply were not willing to take.
 
 JESSICA VETERDundas, Canada
+
+
 
 ![](./images/20200201_FND001.jpg)
 
@@ -40,11 +48,15 @@ It suits buy-out insiders and investors to suggest that their use of high debt i
 
 PETER MORRISLondon
 
+
+
 ![](./images/20200118_BRP003.jpg)
 
 Without more resources, you say, increasing the number of police officers in Britain will result in more of the accused in courts and more prisoners (“[What’s going wrong here?](https://www.economist.com//britain/2020/01/16/britains-20000-new-cops-wont-get-the-justice-ministry-celebrating)”, January 18th). But there is also an opportunity cost. Bobbies on the beat are associated with crime prevention. Potential criminals feel more restrained if detection rates improve and they think they could get caught. So if 20,000 extra police are put on the streets and into detection and technology channels, a lot of crime could be prevented.
 
 DEEP SAGARFormer chairAudit and assurance boardNational Police Chiefs’ CouncilBerkhamsted, Hertfordshire
+
+
 
 ![](./images/20200201_CND000.jpg)
 

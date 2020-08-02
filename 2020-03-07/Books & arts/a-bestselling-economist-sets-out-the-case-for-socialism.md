@@ -34,6 +34,8 @@ This is too gloomy—as some of Mr Piketty’s own data show. Inequality has ris
 
 The last part of his book focuses on his alternative to “neo-proprietarianism”. He is no fan of Soviet communism, in part because he accepts that society “sometimes requires small businesses funded with private capital and employing a handful of workers”. And though he is encouraged by the willingness of politicians in the mid-20th century to confront elites, for instance by steeply raising income and inheritance taxes, he cannot bring himself to endorse 20th-century social democracy. It fell short, he thinks, not least because “progressive taxation…power-sharing in firms…democratic budgeting and public ownership were never explored as fully or systematically as they might have been.” Instead he proposes a new form of socialism.
 
+
+
 ![](./images/20200307_BKD002.jpg)
 
 This system bears many of the hallmarks of a movement The Economist has called “millennial socialism”, which is on the rise on both sides of the Atlantic. The core idea is to “democratise” the economy, transferring control from capitalist and government elites to ordinary folk. Employees would have a decisive say in the management of their firm: think of Bernie Sanders’s plan to put workers on boards. Public services, especially education, would be vastly enhanced. Every youngster would get a cash lump sum. Mr Piketty envisages radically higher taxes on the rich, not just to raise revenue but to drastically reduce their clout. He imagines a wealth tax of up to 90% on the largest fortunes.

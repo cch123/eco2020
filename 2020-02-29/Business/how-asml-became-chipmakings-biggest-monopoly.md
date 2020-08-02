@@ -16,6 +16,8 @@ The company’s performance reflects this increased dependence. Its revenues gre
 
 With neither Canon nor Nikon pursuing EUV technology, investors have concluded that ASML will enjoy its nanoscopic monopoly for a while. Since 2010 its market capitalisation has grown tenfold, to around €114bn (see chart). It has nearly doubled in the past year alone. ASML is worth more than Airbus, Siemens or Volkswagen. Its share price has suffered along with others as covid-19 rattles global markets, but its longer-term outlook appears as bright as the white-walled cleanrooms where its machines take shape. Its shares trade at a mouthwatering 32 times forward earnings, double or more those of its biggest customers.
 
+
+
 ![](./images/20200229_WBC384.png)
 
 Times were not always so good. The firm started life in 1984 as a joint venture between Philips, a Dutch electronics giant, and ASM International, which made semiconductor equipment. Early on it occupied a few wooden huts on Philips’s Eindhoven campus. Jos Benschop, ASML’s technology chief, is candid about its early troubles. Its first products were obsolete as soon as they were released, he says, and the firm struggled to find customers. It was kept alive by Philips, itself facing financial difficulties, and by subsidies from the Dutch government and the EU’s predecessor.
@@ -23,6 +25,8 @@ Times were not always so good. The firm started life in 1984 as a joint venture 
 In 1995 it listed its shares in New York and Amsterdam. Shortly afterwards the firm bet that EUV lithography would be the future of chipmaking. Big chipmakers planned to be using its machines by around 2007. They were to be disappointed—repeatedly. So were ASML’s shareholders, as the company discovered that EUV light is frustratingly difficult to work with. Working out the kinks took much longer than expected, admits Mr Benschop. The firm’s first prototype machines were sent to IMEC, a research institute in Belgium, in 2006. Commercial clients did not start using the technology until 2018.
 
 Earlier generations of kit employ lasers to produce light directly. But as wavelengths shrink, things get trickier. Inside a cutting-edge EUV machine 50,000 droplets of molten tin fall through a chamber at its base each second. A pair of lasers zap every drop, creating a plasma that in turn releases light of the desired wavelength. The mirrors guiding this light, made of sandwiched layers of silicon and molybdenum, are ground so precisely that, if scaled to the size of Germany, they would have no bumps bigger than a millimetre. Because EUV light is absorbed by almost anything, including air, the process must take place in a vacuum. To get into the production facilities, your correspondent had to don a special suit and leave his notebook behind, lest it shed unwanted fibres.
+
+
 
 ![](./images/20200229_WBC385.png)
 

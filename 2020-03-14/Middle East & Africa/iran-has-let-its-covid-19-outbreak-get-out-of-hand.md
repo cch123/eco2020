@@ -14,6 +14,8 @@ According to the government, the virus has infected 9,000 people and killed over
 
 Trust in the regime was already low as a result of its killing of protesters in November and its attempt to cover up the downing of a Ukrainian passenger plane over Tehran in January. When the virus struck, officials hid news of it so that voters would turn out for a rigged parliamentary election on February 21st. Visibly sick, the deputy health minister denied a cover-up on February 24th. He tested positive for the virus a day later. The number of infected officials alone suggests an enormous outbreak. So do public surveys and other indicators. Some in the government think the actual number of cases is closer to 100,000. Outside estimates go even higher.
 
+
+
 ![](./images/20200314_MAC691.png)
 
 The government has closed schools, universities and theatres, and told people not to attend large gatherings. Some 300,000 soldiers and volunteers have been mobilised to fight the disease. But these measures have come late and are incomplete. There was no thought of quarantining the holy city of Qom, where the outbreak started. As fear of the virus grew, sick residents fled to other parts of the country, spreading it to every province. Hospitals, dubbed “virus factories” by locals, are overloaded. Yet the mullahs still refuse to close the popular (and lucrative) holy shrines in Qom and elsewhere. Two men even filmed themselves licking the shrines (and were arrested). By contrast Saudi Arabia, with many fewer cases, has banned foreign pilgrims from its holy sites.

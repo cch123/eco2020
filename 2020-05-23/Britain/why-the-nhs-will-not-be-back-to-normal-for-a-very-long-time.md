@@ -14,6 +14,8 @@ The covid-19 burden has at least become less pressing. In England fewer than 700
 
 In truth, the NHS will never return to its pre-pandemic state. For one thing, NHS England, which runs the health service, is working out which innovations introduced because of covid-19 should stay. Almost all prescriptions and primary-care appointments now happen online, as do lots of outpatient ones. Doctors have been surprised by how well this works. Other changes—like the retraining of specialists and the increase in intensive-care capacity—will become a permanent feature to protect against further waves of the virus. According to the Financial Times, the NHS London region plans to double the number of intensive-care beds in its hospitals.
 
+
+
 ![](./images/20200523_BRC170.png)
 
 Such innovations will make the NHS more resilient. But even if it manages to keep them, the health service will still face difficulties. Before the crisis, it was in bad shape. In February just 85% of people turning up at accident-and-emergency departments were seen in four hours, for instance, against a target of 95%. And dealing with yet more sweeping changes will be a big ask for staff who “are absolutely wrung dry”, says Sir Chris Ham, co-chair of the NHS Assembly, which advises on the integration of the health service.

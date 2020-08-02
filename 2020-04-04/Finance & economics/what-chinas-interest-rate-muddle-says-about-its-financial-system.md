@@ -26,6 +26,8 @@ Their giant profits mean that banks are often a lightning-rod for criticism in C
 
 In the Chinese context it has a point. Where banks go, so goes the economy. Banks’ assets are worth 175% of GDP, more than in any other country, according to a core measure used by the World Bank (see chart). Many analysts think that China’s banks can expand their loans by about 10% a year while making big enough returns to preserve their capital buffers. In a normal year these new loans would be expected to generate economic growth of about 6%, with a mild rise in total indebtedness. The link between lending and growth is a closed loop that works, assuming no major capital outflows and no sustained declines in asset quality.
 
+
+
 ![](./images/20200404_FNC098.png)
 
 Even the coronavirus shock need not break this loop. Of course growth has suffered. But because credit demand is determined by the volume of investment approved by the government, and not animal spirits, loans might accelerate. Such state-led lending is likely to lower efficiency, but that is a long-term problem.

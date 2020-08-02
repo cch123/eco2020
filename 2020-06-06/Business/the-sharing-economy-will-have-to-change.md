@@ -24,6 +24,8 @@ Making money proved to be harder than expected. Uber’s rides required heavy su
 
 By the time Uber went public in May last year, it had lost a total of $16.6bn between 2016 and 2019. It said that it would lose more cash before turning a profit, a big reason why its initial public offering was not as successful as many had predicted. Even Airbnb, whose business model of taking a cut of rental fees meant that it had made profits for some time, began losing money—$322m in the first nine months of 2019. The pandemic has interrupted its plans for a flotation, which had been expected to take place in April or May.
 
+
+
 ![](./images/20200606_WBC847.png)
 
 A focus on profitability with an emphasis on cutting costs was already in the air when the pandemic brought businesses almost to a halt. Airbnb faced 1m cancellations and $1bn in refunds. The number of Uber rides plummeted by as much as 80% in April compared with a year ago. Bird, feeling a similar pinch, reacted in late March by laying off over 400 employees, a third of its workforce. Airbnb followed in early May, sacking 1,900 staff, a quarter of its workforce. Uber also dismissed a quarter of its staff, around 6,700 workers. Lyft, its main rival in America, made cuts that were only slightly less savage.

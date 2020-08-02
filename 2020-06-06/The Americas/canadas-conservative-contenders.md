@@ -14,6 +14,8 @@ The success in minting Conservatives is deceptive. Canada’s main opposition pa
 
 The winner will face a prime minister who looks far more formidable than he did in October. Voters think he has handled the pandemic well. As a share of the population, Canada’s 7,579 confirmed deaths are half that of the United States. Four-fifths have been in old-age homes. More than two-thirds of Canadians approve of the government’s handling of the pandemic, according to EKOS, a pollster. Even in oil-producing Alberta, where the Liberals won no seats, Mr Trudeau’s approval rating has doubled since February to 35%, according to Angus Reid, another polling firm. A snap election could happen “by this time next year”, says Kory Teneycke, who was communications director for Stephen Harper, Canada’s last Conservative prime minister.
 
+
+
 ![](./images/20200606_AMC831.png)
 
 Perhaps as disconcerting for Conservatives is that Mr Trudeau is using covid-19 to remake Canada in unconservative ways. Like many governments, Canada’s is spending lots of money to shield citizens from the pandemic’s economic impact. The Parliamentary Budget Office expects the federal deficit to reach at least C$252bn ($187bn), a record 13% of GDP, in the fiscal year ending in March. The largesse includes grants of C$500 a week for 16 weeks to workers who have been furloughed or laid off or are self-employed. Employers can apply to get subsidies worth 75% of a worker’s wage for up to 24 weeks.

@@ -16,6 +16,8 @@ Sangli, the big country town where Sandeep (not his real name) lives, is 300km (
 
 With nearly 800,000 confirmed cases so far, India ranks third after America and Brazil in infections. The tally of covid deaths, over 21,000, is relatively modest. It works out at fewer than 15 per million, a quarter of the world average and a fraction of the 651 per million in Britain. But, for reasons ranging from the relatively low level of testing to spotty medical record-keeping to political interference, many experts believe India is undercounting deaths by a third or more. With cases rising by some 25,000 a day (see chart), fatalities are anyway bound to soar.
 
+
+
 ![](./images/20200711_ASC367.png)
 
 Unlike Brazil and America, India responded quickly and forcefully to the pandemic. Perhaps too quickly: two months of nationwide lockdown shattered the economy, but only slowed the disease. “You flattened the wrong curve,” is how Rajiv Bajaj, a prominent businessman, puts it. One deadly error was to freeze all travel with no warning, trapping millions of migrant workers where they were no longer wanted, in big cities with the highest rates of infection, and then later to let them go, carrying the infection with them. Local edicts have caused similar spikes: the state government in Tamil Nadu has declared several sudden lockdowns, prompting crowding in markets that have proved dangerous vectors for covid.

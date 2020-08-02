@@ -14,6 +14,8 @@ Mr Min Kyaw Thein is one of a growing number of devout Burmese Buddhists strivin
 
 But until recently those purporting to be latter-day weizza had been banished to the margins of Burmese society. Ne Win, the strongman who ran Myanmar from 1962 until 1988, feared and envied secret weizza associations, which had powerful adherents and were so opaque that they were regarded as a “Burmese Buddhist Illuminati”, according to Mr Patton. The dictator is said to have worried that they might overthrow him by, for instance, raising an army of ghosts. He dissolved some of these groups, banned their magazines and books, and had portrayals of weizza scrubbed from films and other media.
 
+
+
 ![](./images/20200404_ASP502.jpg)
 
 Wizards started to make a comeback about a decade ago, when the army began ceding political power to civilians. Since the abolition of the censorship board in 2012, and particularly in the past couple of years, “there has been an explosion of publications about the wizards,” says Mr Patton. Young, image-conscious weizza market their talents on YouTube and Facebook, where the most popular attract hundreds of thousands of followers. Three weizza to whom The Economist spoke said that they have seen surging numbers of students and clients in recent years.

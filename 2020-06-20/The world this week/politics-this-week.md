@@ -36,6 +36,8 @@ There were more demonstrations in Lebanon. The government began injecting more A
 
 A judge overseeing a corruption trial in the Democratic Republic of Congo was murdered. Police initially said that the judge had had a heart attack, but an autopsy showed he had died from brain injuries after being stabbed in the head.
 
+
+
 ![](./images/20200620_WWC014.png)
 
 A randomised trial conducted by scientists at Oxford found that dexamethasone, a cheap steroid drug found in many countries, reduced the death rates for patients on ventilators by 35% and by 20% for those needing oxygen. See [article](https://www.economist.com//britain/2020/06/18/dexamethasone-cuts-covid-19-deaths).

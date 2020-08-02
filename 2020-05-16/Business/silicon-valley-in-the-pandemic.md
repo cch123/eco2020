@@ -16,6 +16,8 @@ Mr Forzley speaks for many in Silicon Valley. The largest American tech firms ma
 
 Californian tech firms and their financiers were among the first in America to take the threat of coronavirus seriously. Some venture capitalists began refusing to shake hands at the beginning of February (and were ridiculed for it). The moneymen also moved quickly to “triage” companies in their portfolio, classifying them according to how likely they were to survive and what they should do. Mostly this involved letting people go. “The shocking thing is how fast everything has moved,” says Marco Zappacosta, who runs Thumbtack, a marketplace for local professionals from plumbers to dog trainers, which laid off 250 of its 900 employees.
 
+
+
 ![](./images/20200516_WBC593.png)
 
 Definitive figures are hard to come by. When big firms cut back it makes the news. Airbnb and Uber recently announced they would let go 1,900 and 3,700 workers respectively. Layoffs.fyi, a website that tracks dismissals in the tech industry by adding up numbers from press reports, has counted about 17,600 jobs lost since mid-March. But this misses many sackings at smaller startups. Although still well below the national average and the peak during the financial crisis of 2007-09, unemployment in the region is edging up (see chart). Some VCs expect workforces to shrink by 15% on average, adding up to total job losses in excess of 125,000.

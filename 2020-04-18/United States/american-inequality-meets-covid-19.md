@@ -24,6 +24,8 @@ It is also uncertain whether this racial disparity would dissipate if the virus 
 
 Adherence to social-distancing guidance also seems to differ by income and party affiliation. A recent study by a team of researchers armed with cell-phone-location data found that compliance with the new behavioural guidelines was substantially lower in counties with lower incomes, greater exposure to recent trade wars and higher rates of support for Mr Trump. The few governors who have not recommended shelter-in-place orders as of April 14th are of all Republican-led, largely rural states like Arkansas and South Dakota (where over 500 workers in a pork processing plant recently tested positive for the virus).
 
+
+
 ![](./images/20200418_USC232.png)
 
 Although the uneven health effects of the pandemic are still being worked out, there is little doubt already about where the economic effects have been most severe. Official unemployment numbers are tabulated every month and have not yet incorporated the worst weeks of the economic downturn. When they catch up, the Peterson Institute for International Economics, a think-tank, reckons that they will show an unemployment rate of 20% by early summer—a number not seen since the Great Depression. A survey of 4,000 American workers conducted by a team of European economists found that 16.4% had already lost their job because of the viral shock. For the 20% of American workers least able to work from home, nearly 40% have lost their jobs, according to the survey results. Workers who are younger, poorer or lack a university education have disproportionately lost their source of income (see chart). For some, that has also meant losing their employer-sponsored health insurance in the middle of an epidemic.

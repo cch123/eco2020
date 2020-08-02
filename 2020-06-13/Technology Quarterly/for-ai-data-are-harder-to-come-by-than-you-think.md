@@ -24,6 +24,8 @@ Cognilytica reckons that the third-party “data preparation” market was worth
 
 The data themselves can contain traps. Machine-learning systems correlate inputs with outputs, but they do it blindly, with no understanding of broader context. In 1968 Donald Knuth, a programming guru, warned that computers “do exactly what they are told, no more and no less”. Machine learning is full of examples of Mr Knuth’s dictum, in which machines have followed the letter of the law precisely, while being oblivious to its spirit.
 
+
+
 ![](./images/20200613_TQC968.png)
 
 In 2018 researchers at Mount Sinai, a hospital network in New York, found that an AI system trained to spot pneumonia on chest x-rays became markedly less competent when used in hospitals other than those it had been trained in. The researchers discovered that the machine had been able to work out which hospital a scan had come from. (One way was to analyse small metal tokens placed in the corner of scans, which differ between hospitals.)
@@ -31,6 +33,8 @@ In 2018 researchers at Mount Sinai, a hospital network in New York, found that a
 Since one hospital in its training set had a baseline rate of pneumonia far higher than the others, that information by itself was enough to boost the system’s accuracy substantially. The researchers dubbed that clever wheeze “cheating”, on the grounds that it failed when the system was presented with data from hospitals it did not know.
 
 Bias is another source of problems. Last year America’s National Institute of Standards and Technology tested nearly 200 facialrecognition algorithms and found that many were significantly less accurate at identifying black faces than white ones. The problem may reflect a preponderance of white faces in their training data. A study from IBM, published last year, found that over 80% of faces in three widely used training sets had light skin.
+
+
 
 ![](./images/20200613_TQC624.png)
 

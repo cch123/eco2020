@@ -16,6 +16,8 @@ The unevenness reflects the fact that women are more likely to work in services 
 
 Today’s picture is in stark contrast to past recessions (see chart). Men are usually worse affected, because they dominate sectors such as manufacturing and construction, which tend to be badly hit. Matthias Doepke of Northwestern University and Michele Tertilt of the University of Mannheim estimate that three-quarters of all cyclical employment fluctuations in 1989-2014 were owing to men losing and gaining jobs. Women, by contrast, have acted as stabilisers. Employment in services, which is female-dominated, tends to be less volatile. And wives take up work or increase their hours when husbands lose jobs.
 
+
+
 ![](./images/20200606_FNC800_0.png)
 
 This time, though, industries involving face-to-face interaction, such as hospitality, have suffered most. In America health care and education have not been spared, with five times as many women losing their jobs as men. Firms run by women are also concentrated in customer-facing areas, which is why female small-business founders are much more likely than men to expect a drop in sales owing to covid-19, according to a survey by Nicholas Bloom and Robert Fletcher of Stanford University.

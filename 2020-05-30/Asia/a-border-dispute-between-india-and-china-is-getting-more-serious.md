@@ -12,6 +12,8 @@ WHEN INDIAN and Chinese soldiers brawled at Pangong lake high in the Himalayas e
 
 According to Indian press accounts, Chinese troops have crossed the undefined border with India at several points, some reportedly penetrating 3-4km over punishing terrain. They are said to have destroyed Indian posts and bridges, and dug in with tents and trenches. Incursions have been reported at the confluence of the Galwan and Shyok rivers, the Hot Springs area and Pangong lake, the site of the original scrap (see map).
 
+
+
 ![](./images/20200530_ASM975.png)
 
 There is considerable uncertainty over the precise size and location of the forces involved, but Ajai Shukla, a former army colonel now with the Business Standard, an Indian newspaper, estimates that three Chinese brigades—each comprising thousands rather than hundreds of soldiers—might be involved, one several hundred kilometres to the south near the Indian state of Uttarakhand. Though this might evoke images of an invading land army, the bulk of troops are likely to be to the rear, on the Chinese side, in support of intruders nibbling at Indian territory.

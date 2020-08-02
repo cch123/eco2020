@@ -14,6 +14,8 @@ The hawkers had some plausible excuses. The weather has been erratic, and delive
 
 But India’s inflation is not only or everywhere an onion phenomenon. A Mumbai tea-vendors’ association recently recommended a price rise because of the increased cost of sugar and tea leaves, as well as the gas that fuels vendors’ stoves. The National Pharmaceutical Pricing Authority allowed sharply higher charges for 21 drugs, including treatments for leprosy, malaria and tuberculosis, which were in short supply because prices had failed to cover rising costs.
 
+
+
 ![](./images/20200125_FNC232.png)
 
 Indian Railways, a government entity, announced an increase in ticket prices in December. Its eroding finances apparently left it no choice. Complaints about rising air fares have been circulating since the collapse of Jet Airways last April. India’s mobile-phone operators have raised tariffs sharply after losing a court battle with the government over licence fees and spectrum charges. Despite a collapse in sales, vehicle prices are rising, a result of costly new regulations. Rajiv Bajaj, managing director of Bajaj Auto, a motorcycle-maker, has complained that the government “is killing the industry”.

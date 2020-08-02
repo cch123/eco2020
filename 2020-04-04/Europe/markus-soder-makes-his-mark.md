@@ -18,6 +18,8 @@ Mr Söder’s elevation to Germany’s de facto corona-chief has surprised many,
 
 Yet in the spirit of the outlandish costumes he loves to don in carnival season, Mr Söder simply adopted a new identity. Detecting Germans’ growing climate concerns, he broadcast his love for bees and trees. He found a statesmanlike tone with wide appeal, stressing the economy and technology. Mr Söder hopes to maintain the CSU as a broad church, emulating the party’s other great leaders, Edmund Stoiber and Franz Josef Strauss. “We have gone through a tough process of transformation,” says Markus Blume, the CSU’s general secretary. It seems to have paid off. As Angela Merkel’s Christian Democrats (CDU) slid in the polls, the CSU, its sister party and national coalition partner, stabilised.
 
+
+
 ![](./images/20200404_EUC089.png)
 
 Then came covid-19, which gave state leaders, who run health care and public order, a chance to shine. Germans used to viewing Bavarians with a blend of scorn and envy discovered an unfamiliar feeling of respect. “I’m slowly becoming a Söder fan,” says a bewildered TV-watcher in a recent Berlin newspaper cartoon, fearing he has contracted the fever. In a recent poll Mr Söder emerged as Germany’s most popular politician—even outpacing Mrs Merkel.

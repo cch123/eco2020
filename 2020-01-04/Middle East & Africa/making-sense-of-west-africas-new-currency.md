@@ -14,6 +14,8 @@ On December 21st those calling for an end to the CFA franc mostly got their way.
 
 The symbolism is powerful. The currency’s acronym originally stood for “French Colonies of Africa” and the CFA has become a lightning rod for anti-French sentiment across west Africa—in early December Mr Macron threatened to withdraw the 4,500 French troops battling jihadists in the Sahel unless governments in the region ended their “ambiguity” towards “anti-French movements”. Mr Macron seems to hope that he will quell some of the anger against France by backing away from the currency it once championed.
 
+
+
 ![](./images/20200104_MAM907.png)
 
 Yet the economic implications will be large. France says it will continue to support the currency’s peg to the euro. But this guarantee—in effect a promise to make unlimited transfers from the French treasury if the eco comes under speculative attack—is one that markets may doubt, especially in a crisis. “How can we short this thing?” asked one hedge fund trader, on hearing news of the new currency.

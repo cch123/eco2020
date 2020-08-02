@@ -16,6 +16,8 @@ America’s first crewed spacecraft since the space shuttle, which first flew in
 
 The mission was eagerly anticipated for two reasons. One is that it has been something of an embarrassment for America to go so long without the capacity to launch its own astronauts, relying instead on rides into space provided by the Russians (and paying handsomely for the privilege).
 
+
+
 ![](./images/20200606_STC976.png)
 
 The other, deeper, reason for excitement was that the Crew Dragon programme proved that human space flight can be far cheaper than NASA’s previous record would lead you to expect. The Planetary Society, which lobbies for space exploration, reckons the Dragon cost NASA just $1.7bn, making it the cheapest crewed spacecraft developed in America (see chart).

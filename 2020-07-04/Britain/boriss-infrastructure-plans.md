@@ -14,6 +14,8 @@ Mr Johnson’s plans for a spree of infrastructure spending to “level up” po
 
 Given the hype, the speech was underwhelming. The government will stick to its original plan to increase capital spending to 3% of GDP, the highest consistent level since the 1970s (see chart), and will speed up £5bn of repairs to roads, schools and hospitals. An announcement that the government was revising up its borrowing plans by an additional £50bn ($62bn), or 2.5% of pre-crisis GDP, this year made barely a ripple in the bond markets.
 
+
+
 ![](./images/20200704_BRC289_0.png)
 
 Since the economy will have no difficulty absorbing the extra demand and worries earlier this year that the construction sector would have difficulty delivering on the government’s grand plans have dissipated, bringing spending forward seems sensible. But Mr Johnson’s comparison of his scheme to Franklin D. Roosevelt’s New Deal, which dragged America out of the Depression, doesn’t bear much scrutiny. FDR increased central government spending from under 4% of GDP in 1930 to over 10% by 1939. In Britain it stood at about 40% just before the crisis and is forecast to be at similar level in 2024. Today’s construction projects are capital-intensive and require skilled labour; unemployed baristas are not going to find work digging sewers.

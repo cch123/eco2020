@@ -24,6 +24,8 @@ Once admired for its willingness to act, in the past decade or so the Bundesbank
 
 In part the dissent stemmed from an old-fashioned view of inflation. The ECB’s price-stability target, of inflation “close to, but below 2%”, is asymmetric, reflecting the Bundesbank’s aversion to inflation. But the ECB has come to view its target as symmetrical. The Bundesbank has a higher tolerance for low inflation. It was nervous that loose monetary policy could cause inflation to snap back. But despite all the easing it has averaged 1% in the past five years.
 
+
+
 ![](./images/20200222_FNC234.png)
 
 Another reason for dissent was the Bundesbank’s views on the job of a central bank. It is part of the mainstream German economic tradition, which frets that making borrowing cheaper encourages laxity. The legitimacy of both Mr Draghi’s promise in 2012 to buy unlimited bonds of troubled sovereigns and the ECB’s quantitative-easing scheme has been questioned in German courts. (Mr Weidmann gave evidence against the former, though he now accepts a ruling by the European Court of Justice on its legality.)

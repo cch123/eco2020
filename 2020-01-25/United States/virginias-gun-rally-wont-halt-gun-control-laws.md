@@ -14,6 +14,8 @@ The protest, by about 22,000 people, was organised by the Virginia Citizens Defe
 
 The calm of the event came as a relief. A few days before, the FBI arrested three men, alleged to be part of a white-supremacist movement, who had planned to attend the rally. They had apparently expressed hope that the protest might spark a “civil war”. Various far-right figures attended, including Alex Jones, the founder of InfoWars, a conspiracy-theory website. Many Virginians feared a repeat of the far-right rally in 2017 that rocked Charlottesville, another city in the state, and led to the death of a counter-protester.
 
+
+
 ![](./images/20200125_USC291.png)
 
 Cool heads probably prevailed because, unlike the rally in Charlottesville nearly three years ago, most protesters in Richmond were not actually white supremacists. Most were gun-owners who could not believe that in Virginia, associated with hunting and conservative political values, the public had voted for a government that might pass tighter gun restrictions. “Our country was built on the ability to protect your family, protect your property and fight for your freedom,” said Jamie LeBeau, who drove from Lynchburg, two hours away, to attend the rally. Her husband Erich expressed outrage that congressmen would continue to have armed guards, but his guns might be taken away.

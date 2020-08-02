@@ -28,6 +28,8 @@ The xiaoge have helped build food delivery in China into a $46bn business, the w
 
 For migrants from the countryside, the job is an unusually easy ticket to city life. Factory workers must have a skill, and often a home-town peer to vouch for them. But some riders are hired as soon as they upload copies of an identity card and health certificate to an app. The pay is usually better than on an assembly line.
 
+
+
 ![](./images/20200404_CNC224.png)
 
 Nearly one-third of Meituan’s riders were once factory hands. Their switch reflects a nationwide trend. In 2018, for the first time, more migrant workers took up jobs in services than in manufacturing.
@@ -43,6 +45,8 @@ Such frustrations may grow. During the epidemic, firms rolled out contactless de
 Food delivery allows migrant workers to choose their own work hours, but the stress is still immense. Many riders are hired by middlemen who impose tough requirements for the job. The pressure is evident: heavily burdened delivery people often run the final distance to drop-off points. The Hong Kong Confederation of Trade Unions, a pro-democracy labour group, describes gig workers as an “immense army of precariats”.
 
 Among the army’s recruits is a lanky 22-year-old in a baggy Ele.me jacket who prefers to be identified only by his surname, Liu. He says that, in his distant home-town near the eastern city of Suqian, he would need to “work as long as the machines” in order to earn as much as he does in Shanghai. He now puts aside 5,000 yuan a month. But he works six days a week, ten hours a day, even in the grimmest weather. Mr Liu says he jumps red lights every day to avoid late-delivery penalties. In the first half of 2019, Shanghai recorded 12 road accidents a week involving food-delivery riders. Many go unreported.
+
+
 
 ![](./images/20200404_CNP001.jpg)
 

@@ -20,6 +20,8 @@ Those who do have symptoms should not, of course, be out and about at all. In th
 
 Governments are beginning to take this on board. As part of the loosening their lockdown, the Dutch are required to wear face-coverings on public transport—but not ones of medical grade, which should be reserved for professionals. This encourages people to make their own.
 
+
+
 ![](./images/20200530_STC775.png)
 
 Neither laboratory studies nor the data on asymptomatic transmission provide watertight evidence of the efficacy of masks. That would need randomised controlled trials, in which one group wore masks and the other did not. This would be ethically tricky, since it might condemn one of the groups to a higher death rate. Hamsters, which are susceptible to covid-19, are the next best thing to people. So researchers at Hong Kong University put cages of healthy hamsters next to cages of infected ones, with a fan in between drawing air from the infected to the healthy cage. They sometimes also placed a stretched-out face mask in the air stream. With no interposed mask, two-thirds of the healthy animals were infected within a week. With a mask interposed close to the healthy hamsters (the equivalent of a healthy person wearing a mask), one-third were. With the mask close to the infected hamsters, only a sixth were.

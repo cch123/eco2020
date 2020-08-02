@@ -14,6 +14,8 @@ Mr Dmitriev says he was convinced early on that the outbreak would be severe. RD
 
 The world’s 90-odd sovereign-wealth funds (SWFs) have gained significant clout in markets over the past two decades (see chart 1). Together they oversee more than $8trn in assets, equivalent to around 10% of global GDP. The downturn presents them with an opportunity. Free of the liabilities burdening insurers or pension funds, they are immensely patient investors, and can snap up bargains. But the pandemic also introduces strains. As governments at home battle economic collapse, the SWFs are being urged to chip in, just as, for many, inflows from oil and commodity earnings have dried up. Such pressures could lead funds to change how they invest.
 
+
+
 ![](./images/20200523_FNC651.png)
 
 Cash-rich countries have been stashing their excess foreign currency in kitties since the 1950s, when Kuwait launched its fund. SWFs often have two aims: to smooth out fiscal policy, by releasing cash when the weather turns, and to pass wealth on to future generations, in case luck (or oil) runs out. They grew fast in the 2000s, as China’s hunger for raw materials and other goods fed surpluses in oil-rich states and export champions, and in the 2010s, when funds posted strong returns. Since 2015, for instance, PIF has made returns of nearly double its target of 4-5% a year, according to a source familiar with the fund.
@@ -27,6 +29,8 @@ Markets now offer buying opportunities. SWFs have stuck to their “allocation t
 PIF’s recent purchases include a stake in Carnival, a cruise operator (whose share price jumped by 30% when the stake was disclosed in April). Others are betting on Chinese stocks, or privately held assets. James Burdett of Baker McKenzie, a law firm, saw a fund finalise a property-investment platform worth hundreds of millions of dollars weeks into the lockdowns.
 
 Involvement in private markets carries risks, though. In recent years SWFs have piled into such illiquid assets (see chart 2). Where stocks go, unlisted assets often follow. Valuations are uncertain. Matt Whineray of NZ Super Fund, which owns farms and forests, says price ranges for these are now much wider. Low interest rates should push prices up; but investors are also more cautious, which pulls them down.
+
+
 
 ![](./images/20200523_FNC658.png)
 

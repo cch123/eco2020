@@ -16,11 +16,15 @@ The corona-crisis does indeed give banks a chance to improve their image. But it
 
 The industry went into the crunch in decent shape. Capital cushions, depleted going into the last crisis, have since been plumped up. Banks have also been made less vulnerable to funding runs. This time the system has creaked but not buckled. Early evidence suggests that post-2009 efforts to push liquidity risk from banks into capital markets have worked, and to the extent that risk has rebounded it has been largely absorbed by central banks through their market-support programmes, not by commercial banks, says Huw van Steenis of UBS, a Swiss lender.
 
+
+
 ![](./images/20200411_FNC147.png)
 
 Under those schemes, and their own steam, banks have increased lending dramatically, especially in America (see chart). In March public companies there drew down $191bn from bank credit lines, after taking next to nothing in January and February. The odd one out is China, where loan growth is similar to last year’s rate. In 2008-09 officials arm-twisted lenders into leading stimulus efforts. They may fear that another such push could break them. Chinese banks’ assets have ballooned to 285% of GDP, from 195% in 2007.
 
 To encourage banks to lend more and offer forbearance, regulators in the West have rushed to relax or delay rules brought in after the financial crisis. These cover everything from loan-loss accounting to the thickness of capital buffers (see chart). By one estimate, such (presumably temporary) regulatory forbearance has created $5trn of lending capacity.
+
+
 
 ![](./images/20200411_FNC146.png)
 

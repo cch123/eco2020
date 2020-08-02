@@ -20,6 +20,8 @@ It was not a proper referendum. It had no precedent or legal basis. It did not r
 
 The 206 proposals in the referendum were designed to confuse. Voters were asked to approve a long list of crowd-pleasing ideas: inflation-proof pensions, protected status for the Russian language and the banning of gay marriage. Adding to the flim-flam were proclamations of faith in God and ancestors. Voters were not allowed to pick and choose which elements to support: it was either yes or no to the whole lot.
 
+
+
 ![](./images/20200704_EUC274.png)
 
 Buried in the middle of this haystack of populist pledges was the real point of the exercise. The number of terms Mr Putin has served as president is to be set back to zero. More power is to be concentrated in his hands. He will be able to fire judges of the supreme and constitutional courts.
@@ -45,6 +47,8 @@ Mr Putin acknowledged the shift in public opinion. On January 15th he told the n
 So on March 10th a codicil to the reforms was added. After they were passed, Mr Putin’s term-limit clock would be reset to zero. The deal was to be sealed in an “all people’s vote” on April 22nd—Lenin’s birthday—and followed by a military parade on May 9th, the 75th anniversary of the Soviet victory in the second world war, to be attended by many foreign leaders including the presidents of America, China and France.
 
 Covid-19 disrupted this plan. Mr Putin reluctantly postponed both the parade and the vote, and all but disappeared from view. Sergei Sobyanin, the mayor of Moscow, imposed a strict lockdown on March 29th which he said should last until daily new cases were in only double figures.
+
+
 
 ![](./images/20200704_EUP002.jpg)
 

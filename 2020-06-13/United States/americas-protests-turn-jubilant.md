@@ -16,6 +16,8 @@ They offer a cultural history of America’s recent decades of racial injustice,
 
 This potpourri also reflects the diffuse and largely spontaneous nature of the protests. A minority, especially in the early days after Mr Floyd’s death, have seen violence, first by protesters, then increasingly also by the police (though it is not clear that any of this was caused by the shadowy anarcho-leftists William Barr, the attorney general, has pointed to). The vast majority of the multiracial gatherings have been peaceful, however. Many have been organised by groups of friends and neighbours in small towns. By one count there have been protests in 1,280 places—including such hotbeds of left-wing militancy as Sister Bay, Wisconsin, and Sheridan, Wyoming.
 
+
+
 ![](./images/20200613_USM982.png)
 
 In big cities such as Washington, DC, black activist groups have played a significant organising role. Many are members of a national coalition, the Movement for Black Lives, which was formed in 2014 and has 150 constituent parts. Its best-known, Black Lives Matter (BLM), which came to prominence over police killings during Barack Obama’s second term, has been especially influential, in part by rallying left-leaning whites, whose mass participation in these protests is their most novel feature. “The political weather has shifted,” says Makia Green of Black Lives Matter DC, “We now have widespread multiracial, multi-generation support.”

@@ -26,6 +26,8 @@ A measure known as the “distress ratio” also highlights the problem. Distres
 
 A wave of defaults might unfold with varying severity across different industries. Thanks to the collapse of the oil price as well as other troubles in the shale patch, almost 70% of the speculative-grade debt in the oil-and-gas industry is at distressed levels. Five other sectors have ratios of 35% or higher: retail and restaurants, mining, transport, cars and utilities (see chart).
 
+
+
 ![](./images/20200516_WBC599.png)
 
 The upshot is that a second, bigger wave of bankruptcies is on the cards. How would that compare to past troubles? At the peak of the financial crisis, the global default rate for junk bonds was 10%. Moody’s, a credit-rating agency, predicts that if the current crisis is more severe than the financial crisis, as now seems likely, the default rate could rise to 20.8% (see chart). The coming bankruptcy wave could be worse than during the financial crisis because it will be more widespread, reckons Debra Dandeneau, a bankruptcy specialist at Baker McKenzie, a law firm. But she thinks it will take some months to arrive: “We’re in the eye of the hurricane now.”

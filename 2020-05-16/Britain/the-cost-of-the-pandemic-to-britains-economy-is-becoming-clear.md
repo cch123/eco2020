@@ -16,6 +16,8 @@ With many companies shut down, whether temporarily or permanently, Britons are f
 
 The mounting costs of providing this support in part explain the government’s shifting rhetoric over lockdown measures. Britons in many sectors have been told to return to their office, factory or site if teleworking is not possible (although some such employees were never told by the government to stop work). Some parliamentarians have been pushing Rishi Sunak, the chancellor, to wind down the job-protection scheme. Fearful of mass unemployment, however, on May 12th Mr Sunak extended it to the end of October—though he has sensibly tweaked it to allow bosses to bring back workers part-time from August. He also says that employers will soon have to foot more of the bill.
 
+
+
 ![](./images/20200516_BRC601.png)
 
 The extension of the scheme adds further costs to an already swollen fiscal bill (see chart). Even in the absence of any decline in output, and with no fall in tax revenues, this support would push up Britain’s budget deficit from 2% of GDP, before the pandemic, to 8%—its highest level since the global financial crisis of 2007-09. In reality, nominal GDP may fall by 12% or more this year, and tax revenues are collapsing. An annual deficit on a wartime scale looks inevitable, leading to substantially higher public debt.

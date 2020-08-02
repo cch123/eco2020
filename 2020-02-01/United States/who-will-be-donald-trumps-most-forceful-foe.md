@@ -24,6 +24,8 @@ Mr Trump may have benefited from this dynamic in 2016. According to the Co-opera
 
 Here, Mr Biden looks strong. YouGov’s polling reveals that Americans view him as the most moderate Democrat, on average. They perceive all the other major Democratic contenders as more extreme than Mr Trump (see chart).
 
+
+
 ![](./images/20200201_USC021.png)
 
 Mr Trump’s support from racially conservative whites may also help him. In an article published in 2019, Tyler Reny of UCLA, Loren Collingwood of the University of California, Riverside and Ali Valenzuela of Princeton University conducted a study of the CCES data to analyse the link between voters’ self-professed attitudes towards racial minorities and their voting behaviour. The authors found that “white voters with racially conservative or anti-immigrant attitudes” switched votes to Mr Trump at a higher rate than those with more liberal views on these matters.

@@ -16,6 +16,8 @@ The French mandatory-pension system, made up of 42 different regimes, consumes 1
 
 With just two years left before the next presidential campaign, and having narrowly survived the gilets jaunes (yellow jackets) protests against costly fuel, Mr Macron might have chosen a mere technical fix. A 0.7-percentage-point increase in pension charges, for instance, would close the financing gap by 2025. But Mr Macron campaigned for the presidency in 2017 on a more radical promise. He vowed to reshape the labour, training and welfare systems so as to encourage job creation, adapt France for a “post-salary” era, ease mobility and protect people rather than jobs.
 
+
+
 ![](./images/20200111_EUC255.png)
 
 To this end, Mr Macron vowed in his manifesto to merge the 42 regimes into a single points-based system, with the same rules for all. This will spell the end of the special regimes, which Mr Juppé did not dare to do 25 years ago, as well as even out calculation rules that favour public-sector workers. The plan, unveiled last month by Edouard Philippe, the prime minister and a former aide to Mr Juppé, will also introduce a minimum monthly pension of €1,000. Those earning over €120,000 a year will pay mandatory charges at a lower rate above that level, but these will only finance others’ pensions, not their own. The head of the employers’ federation, Geoffroy Roux de Bézieux, calls the new system “very redistributive”.

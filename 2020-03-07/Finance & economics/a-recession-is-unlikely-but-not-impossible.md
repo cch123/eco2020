@@ -24,11 +24,15 @@ Many workers do not have big safety buffers either. They risk losing their incom
 
 Modelling the resulting hit to economic activity is no easy task. In China, which is a month ahead of the rest of the world in terms of the outbreak, a survey of purchasing managers shows that manufacturing output in February sank to its lowest levels since factory bosses were first surveyed in 2004. It seems likely that GDP will contract in the first quarter for the first time since the death of Mao Zedong in 1976.
 
+
+
 ![](./images/20200307_FNC566.png)
 
 Forecasters are pencilling in sharp falls in output elsewhere (see chart 1). Goldman Sachs, a bank, reckons global GDP will shrink at an annualised rate of 2.5% in the first quarter. With luck the slump will end once the virus stops spreading. But even if that happens the speed and size of the economic bounce-back also depends on the extent to which those costly spillovers are avoided.
 
 That is why central bankers and finance ministries are turning to more targeted interventions (see chart 2). These fall into three broad categories: policies to ensure that credit flows smoothly through banks and money markets; measures to help companies bear fixed costs, such as rent and tax bills; and measures to protect workers by subsidising wage costs.
+
+
 
 ![](./images/20200307_FNC545.png)
 

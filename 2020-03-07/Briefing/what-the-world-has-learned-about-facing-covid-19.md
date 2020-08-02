@@ -20,9 +20,13 @@ But whether the isolation of whole towns in northern Italy has done much to curb
 
 In the week from February 26th to March 4th the number of countries and territories reporting cases of covid-19 rose from 50 to 85 (see map). Most, so far, have fewer than a dozen cases, mostly imported from or directly linked to cases in China, Iran, Italy and South Korea, which between them accounted for 91,903 of the 95,124 confirmed cases as of March 4th (see chart). Low case numbers, though, should not be taken to signify successful containment; they are often a measure of ignorance.
 
+
+
 ![](./images/20200307_FBM888.png)
 
 Take America. On February 25th Larry Kudlow, chief economic adviser to President Donald Trump, told reporters that “We have contained this. I won’t say airtight, but it’s pretty close to airtight.” As he spoke a cluster of cases at a care facility in Washington state was showing that America’s public-health agencies had been caught flat footed. Test kits made available by the Centres for Disease Control and Prevention (CDC) were faulty; restrictions were limiting tests in other settings. By March 1st, when South Korea had run 100,000 tests for the virus, America—which saw its first case on January 23rd—had run fewer than 500.
+
+
 
 ![](./images/20200307_FBC582.png)
 
@@ -59,6 +63,8 @@ In America both the health-care system and paid-leave laws are poorly configured
 The patchwork system could be especially problematic if it leads to sick people showing up to work when they should not. Few lower-income workers in service-sector jobs have the option of paid sick leave available to them. The prospect of lost wages—and potentially a lost job—could be enough to persuade them to attend work rather than stay at home feeling a bit ill but increasingly poor. A study of paid sick-leave mandates in America by Stefan Pichler and Nicholas Ziebarth, two economists, found that the policy reduced the spread of influenza by 5% in normal times and 40% during a wave. Assuming that covid-19 is comparable, that calculation suggests that the 39 states that do not require paid sick leave risk a worsened crisis.
 
 The second big problem is that, because pandemic preparedness is not generally billable, American hospitals do not keep spare infectious-disease capacity. “We’re already running our health-care systems razor-thin in terms of capacity. There’s very little excess capacity in people, beds...or protective equipment,” says Michael Osterholm, an infectious-disease specialist at the University of Minnesota. A lack of preparedness has already forced the quarantine of 124 staff because of a single patient in California.
+
+
 
 ![](./images/20200307_FBD002_0.jpg)
 

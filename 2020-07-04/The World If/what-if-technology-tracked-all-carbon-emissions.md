@@ -12,6 +12,8 @@ Editor’s note: Each of these climate-change articles is fiction, but grounded 
 
 IT STARTED WITH an app. “My Carbon Action” was released in late 2019 by a Finnish company that made banking software. It analysed people’s purchase data automatically to work out how much carbon underpinned their consumption. Its users were the sort of people who were already accounting for carbon emissions manually, typing guesstimates into carbon-footprint calculators and buying offsets for their meat consumption or their flights to alleviate their guilt over contributing to a warming world.
 
+
+
 ![](./images/wif_spec_6.png)
 
 Barely anyone noticed the app at the time, but it was an early example of the automated carbon-accounting that has since transformed the global production system. It started a chain reaction that ran throughout the 2020s and led to today’s ubiquitous surveillance and measurement of emissions across supply chains, manufacturing facilities and consumer activity.
@@ -29,6 +31,8 @@ Using various “carbon bragging” apps, climate influencers began to publish l
 Other celebrities fell in line, from Bollywood to Hollywood. Some celebrities who had touted their green credentials were shamed when they accidentally revealed their carbon-profligate habits, from gas-guzzling cars to private jets, due to confusion over the app’s privacy settings.
 
 And sometimes the system got things very wrong. In one infamous case Antonia Magnini, an Italian woman, was told that her Pret A Manger lunch was responsible for emissions equivalent to the entire annual carbon output of Suriname. A bug in Pret’s supply-chain software had mistakenly totted up a sandwich’s worth of a new rocket leaf as the entire year’s projected supply for the whole chain worldwide, and rounded up. Ms Magnini was the unlucky first buyer of the first sandwich containing the new rocket. She sued Pret for reputational damage after the alert propagated onto her Instagram page. The company settled out of court.
+
+
 
 ![](./images/20200704_WIC002_0.png)
 

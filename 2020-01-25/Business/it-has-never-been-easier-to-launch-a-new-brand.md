@@ -42,6 +42,8 @@ The newest brands can also find it hard to stand out. Mr Sperduti admits that pa
 
 At the same time, the world’s biggest brands seem to be getting stickier. Of the 100 most valuable global ones in 2001, as ranked by Interbrand, a consultancy, 37 had fallen off the list by 2010. Of the top 100 in 2010, only 24 were not there in 2019. Once established, big brands can get away with a lot. Despite its myriad image problems, Facebook remains 14th on Interbrand’s list. The financial crisis of 2007-09 notwithstanding, the bulge-bracket cachet of JPMorgan Chase (25th), Goldman Sachs (53rd) and Morgan Stanley (69th) persists.
 
+
+
 ![](./images/20200125_WBC282.png)
 
 Owners of the world’s best-loved brands have one last reason for cautious optimism as they fend off insurgent rivals. Labels and logos may matter less than they did—at least in investors’ eyes. In 2008-10 the value of the top ten brands (measured by the current and forecast revenues from products attributable to the brand rather than factors like price) equalled roughly a third of their owners’ market capitalisation. Since 2017 the figure has been closer to a fifth (see chart). Since 2017 GE has destroyed 60% of its shareholder value but only 40% of its brand equity. In 2000 Coca-Cola’s brand, number one at the time, was worth more than half its market capitalisation. Last year Apple’s brand, the current top dog, was valued at $234bn, a mere quarter of the value of its shares.

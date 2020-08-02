@@ -14,6 +14,8 @@ But not anymore. The station and its rooftop are cordoned off. Four of the 21 pe
 
 These closures may or may not slow the spread of the disease. But they will certainly hamper an economy already debilitated by months of fierce anti-government protests. Figures released on February 3rd showed that GDP shrank by 2.9% year-on-year in the last quarter of 2019, when the protests reached a peak. Worse may be to come. Analysts at UBS, a bank, expect a fall of over 6% in the first quarter of this year compared with the same period last year.
 
+
+
 ![](./images/20200208_FNC126.png)
 
 In other economies rocked by the virus, such as mainland China, Thailand and Singapore, the central bank has let the currency depreciate, easing financial conditions. But Hong Kong is different. Its currency has been tied to the American dollar since 1983 and confined to a narrow trading band of HK$7.75–7.85 to the dollar since 2005. If it falls to the weak side, the Hong Kong Monetary Authority (HKMA) is obliged to sell as many American dollars as people want to buy for HK$7.85. That has stopped the currency falling further (see chart).

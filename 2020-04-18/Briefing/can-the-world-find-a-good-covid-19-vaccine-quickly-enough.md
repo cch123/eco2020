@@ -18,6 +18,8 @@ As the west African Ebola outbreak gathered speed in 2014 the Wellcome Trust, a 
 
 For a vaccine to get from phase I to phase III trials in just ten months, as rVSV-ZEBOV did, was unheard of at the time—a startling example of what urgency and organisation can do. Now a repeat performance, ideally taken at an even faster tempo, is the sum of the world’s desire. In the middle of April more people are dying of covid-19 every three days than died of Ebola in west Africa over three years. A vaccine would not just save lives; it would change the course of the pandemic in two separate, if related, ways. It would protect those who were vaccinated from getting sick; and by reducing the number of susceptible people it would prevent the virus from spreading, thus also protecting the unvaccinated.
 
+
+
 ![](./images/20200418_FBC263.png)
 
 There were no pre-existing vaccine candidates handily squirrelled away when the genetic sequence of SARS-CoV-2, the virus which causes covid-19, was published on January 10th. But science moves pretty quickly these days. There are reports of some 86 candidate vaccines against SARS-CoV-2 being developed around the world, taking a wide array of approaches (see chart). Three have already started phase I trials. One of these, made by CanSino Biologics, a Chinese biotechnology company, in collaboration with a unit of China’s Academy of Military Medical Sciences run by Chen Wei, a major-general feted in the media, has been approved for phase II trials, which are designed to find out if a vaccine can provoke an immune response that might fight off the virus. It is recruiting 500 volunteers in Wuhan.
@@ -43,6 +45,8 @@ Before the advent of genetic engineering, doctors had three ways to let the immu
 Two of these approaches are being investigated for use against SARS-CoV-2. A live-attenuated vaccine in which the SARS-CoV-2 genome is “deoptimised” is being developed by Codagenix, an American biotech company, in collaboration with the Serum Institute of India. Sinovac Biotech, based in Beijing, is following the inactivated route. During the SARS outbreak of 2003, Sinovac created a vaccine against the coronavirus responsible—SARS-CoV, which is closely related to SARS-CoV-2—which used inactivated virus particles. The vaccine made it through a phase I trial, but not before the outbreak had ended. Now Sinovac is taking the same approach to SARS-CoV-2.
 
 In the past few decades genetic engineering has increased the range of possible vaccines considerably (see diagram). Today’s version of the hepatitis B vaccine, for example, no longer consists of antigen harvested from blood; it consists of antigen made by adding the gene for the protein that forms the virus’s outer coat to cell cultures and thereby producing the protein in a pure form. Many teams are looking at SARS-CoV-2 vaccines that consist of a single protein mass produced in this way, including Clover Biopharmaceuticals, a Chinese biotech company, Novavax, an American biotech company, Sanofi Pasteur, a French firm which is one of the largest established vaccine companies, the University of Queensland and the US army. Most of these efforts are aimed at the conspicuous spike proteins that stud the virus’s outer layer.
+
+
 
 ![](./images/20200418_FBC400.png)
 

@@ -36,6 +36,8 @@ For it soon turned out that there was no tomorrow. Shanghailanders blanked from 
 
 By then other threats were circling. In 1937 Japanese forces occupied the Chinese parts of the city (see picture above); one bomb from a fleeing Chinese plane spattered flesh up the Cathay’s walls. After the attack on Pearl Harbour in December 1941 the Japanese took the self-governing International Settlement, too. Horse-racing was suspended the next year. A naval commander moved into Victor’s suite; in Hong Kong the Kadoories’ fabled Peninsula hotel became a military headquarters.
 
+
+
 ![](./images/20200704_BKP007_0.jpg)
 
 During these hard years, as Mr Kaufman recounts, both clans redeemed themselves, whatever original sins their fortunes were founded on. Victor and Horace came together to give sanctuary to fleeing European Jews. They set up schools, workshops and canteens and raised funds (Chaplin donated proceeds from “The Great Dictator”), an effort that involved perilous negotiations with the rapacious Japanese occupiers. Even as Shanghai became a squalid hell, not one of its 18,000 Jewish refugees was persecuted.

@@ -24,6 +24,8 @@ Only a small minority of firms resort to outright fraud. Far more prettify profi
 
 In the bull market startups became masters of conjuring up novel metrics that flatter performance. WeWork’s “community-adjusted” earnings before interest, taxes, depreciation and amortisation (EBITDA) transformed a hefty loss for 2018 under Generally Accepted Accounting Principles (GAAP) into a profit. Illegal? No. A red flag? Absolutely. Many investors turned a blind eye because they bought into what Mr Aandahl calls “the myth in the shareholder list”: all would be well if other high-profile backers were on board (as with Luckin).
 
+
+
 ![](./images/20200418_WBC468.png)
 
 Non-GAAP adjustments have spread like wildfire through corporate accounts, making it harder to discern what numbers reflect a firm’s true financial position. The average number of non-GAAP measures used in filings by companies in the S&P 500 index has increased from 2.5 to 7.5 in the past 20 years, according to PwC, a consultancy. In credit agreements analysed by Zion Research Group, the definition of EBITDA ranges from 75 words to over 2,200. GAAP is far from perfect, but some of the divergence from it has clearly been designed to pull wool over investors’ eyes. One study found that non-GAAP profits were, on average, 15% higher than GAAP profits.

@@ -14,6 +14,8 @@ The median hourly wage for German women is €17.09 ($19.31), 21% less than men�
 
 Yet the adjusted figures leave something out, too. Which career to follow, and whether to work part-time, are individual choices. Yet they are influenced by tax and benefit rules, education and child-care policy, and social norms. Ensuring equal pay for equal work would not, in itself, make Germany’s boardrooms less male, or get more women into well-paid sectors.
 
+
+
 ![](./images/20200314_EUM993.png)
 
 In the former East Germany, the unadjusted pay gap between men and women is minuscule. In some areas, women earn more. This is partly explained by the lack of industrial giants in the east. Germany’s pay gap yawns widest in the humming southern states of Bavaria and Baden-Württemberg, where men dominate lucrative technical and manufacturing jobs. In the east the public sector, where women do better, employs more people. History counts, too. The old communist regime cajoled women to work outside the home, and started a tradition of state-backed child care that persists. East German women have long been more likely to work than westerners, although the figures are converging.

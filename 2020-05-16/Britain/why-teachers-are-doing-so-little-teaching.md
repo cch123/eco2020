@@ -20,6 +20,8 @@ In France teachers and pupils were directed to a single online portal. Britain, 
 
 John Gilligan, the head of Hampton College in Peterborough, says he was warned against trying to deliver live lessons by his professional association and the teachers’ unions. Portals like Zoom may not be secure, he says; they also allow participants to peer into each others’ bedrooms, putting children at risk. He also concluded it would be unwise to push on with the curriculum. Because children who struggle to work from home would be unable to absorb new concepts, “disadvantaged students would become more disadvantaged”. Better to concentrate on reinforcing what they have already been taught.
 
+
+
 ![](./images/20200516_BRC584.png)
 
 Many heads have made similar decisions. As a result, schoolchildren are largely idle. A poll of parents last month by the Sutton Trust, an education charity, found that 50% of secondary-school pupils and 64% of primary-school pupils were working three hours a day or less. Teachers, who normally put in long days, have stopped doing so (see chart). That is probably because little is expected of them, not because they are struggling with domestic obligations. Those without children are working as little as those with.

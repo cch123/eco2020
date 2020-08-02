@@ -14,6 +14,8 @@ NO COUNTY IN New York, outside the city and Long Island, has seen more cases of 
 
 Sales-tax revenue, usually around $500m, may be down by as much as $100m this year. With fewer people travelling, hotel-tax receipts will be lower. Meanwhile, spending on emergency and health services has soared. The county may face a shortfall of up to $160m on a $2.1bn annual budget. It can hope for at best limited help from the state of New York, which itself expects a 14% decline in revenue, due to lower corporate- and personal-income-tax receipts, requiring $7.3bn in spending cuts in the next budget. “We’ve done a variety of projections,” explains George Latimer, the county executive: “Bad, worse, even worse and totally horrible.”
 
+
+
 ![](./images/20200502_FNC400.png)
 
 Mr Latimer is not alone. Shortfalls have hit local governments across America—and not just in covid-battered places. Wyoming, for instance, claims to have around 400 confirmed cases, but may face a collapse in revenue of 30% over the next two years, driven by low oil prices and electricity demand (it is America’s leading coal-producing state). The National Association of Counties estimates that revenue declines and covid-related spending increases could take $144bn out of county budgets through the upcoming fiscal year. The Centre on Budget and Policy Priorities (CBPP), a left-leaning think-tank, reckons that states will face an even bigger shortfall, of $350bn, next year (see chart). The prospect of such shortfalls led investors to sell off municipal bonds in March, causing yields to rise sharply. Terrifying though these numbers are, there may also be grounds for hope.

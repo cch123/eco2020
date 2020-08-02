@@ -16,6 +16,8 @@ So as airlines started grounding planes, the government engineered a deal with A
 
 Connectivity is what the world’s agro-industrial complex is all about. Four-fifths of the planet’s 8bn mouths are fed in part by imports; the $1.5trn that was paid for them last year was three times 2000’s bill. Battalions of lorries and fleets of ships connect tens of millions of farms to hundreds of millions of shops and kitchens. The sophistication of the system, and the foresight of players within it like Mr Parker, has meant that, so far, it has held up to covid-19’s impacts on both supply and demand by dexterously swapping sources and rerouting supply chains. Prices for most staples have fallen so far this year (see chart 1).
 
+
+
 ![](./images/20200509_FBC497.png)
 
 The system’s complex architecture means it has many potential bottlenecks, and the pandemic’s global dislocation has found a fair few of them. Some have been dealt with quite well. The enormous queues of lorries seen in central Europe in March, when concerns about where people were coming from took hold, have been largely eliminated with expedited controls. Others, such as the lack of capacity in America’s meat-processing sector due to slaughterhouse closures, have yet to be fully sorted out.
@@ -34,11 +36,15 @@ This refinement allows production networks to be very complex. Food, like cars, 
 
 This globalisation means more countries depend on imports. Analysis done for The Economist by Josef Schmidhuber and Bing Qiao of the UN’s Food and Agriculture Organisation (FAO) shows that most countries are more dependent on imports today than they were 20 years ago (see map). This has made observers worry that disruptions caused by covid-19 could trigger a repeat of the food crisis of 2007-08, when a sharp rise in prices was exacerbated by panicking governments. Some 75m people were pushed below the hunger threshold, sparking riots from Bangladesh and Burkina Faso to Mauritania and Mexico, and contributing to the conditions that fostered Syria’s civil war.
 
+
+
 ![](./images/20200509_FBM961.png)
 
 But if most of the world is more import-dependent now than it was then, it is also on a more robust footing. In 2007 there had been poor wheat harvests in Australia and Europe and a poor corn harvest in America; grain stocks were at their lowest since 1973, says Caitlin Welsh of the CSIS, a think-tank. Oil prices were sky high, which made making fertilisers and getting food to market more expensive. It also increased demand for crops, like corn and sugar, that can be used as feedstocks for biofuels.
 
 Today cereal stocks are twice as high as they were then (see chart 2). Bulk shipping is 20 times cheaper and crude oil is just $30 a barrel. That makes all manner of inputs cheaper and pushes the price of fuel feedstocks like corn and sugar lower still to boot. If the number of importing countries has risen for most crops, so has the number of exporting countries. That makes trade more resilient to swings in supply and demand.
+
+
 
 ![](./images/20200509_FBC485.png)
 
@@ -63,6 +69,8 @@ In the rich world the result of such disruptions is not famine but inconvenience
 The first is that farmers start producing less. Some lack labour. The closure of American consulates in Mexico could mean many of the 250,000 H-2A visas for agricultural workers do not get issued this year. Britain will see very few of the 90,000 pickers it normally gets from Europe. Replacements are not easy to find. Australia has tapped backpackers taking refuge in the countryside, says David Sackett, who runs a $260m portfolio of farms. In Britain, though, a scheme to move the unemployed to the fields has had a singular lack of uptake. And some farmers say unproductive novices are a waste of money. Farms with capital will be looking ever more keenly at robots, as long as the boffins can get them to handle soft fruit well.
 
 Some farmers deprived of markets, and thus cash, by restaurant closures and the like will leave crops to rot rather than pay for harvest. Some will go bust. In countries with low interest rates the risk is lessened. American farms pay much less to service their debt than they did in the 1980s, and are thus more secure. Capital-intensive farms in Latin America, where debt-to-equity ratios and interest rates are high, are much more exposed.
+
+
 
 ![](./images/20200509_FBD002_0.jpg)
 

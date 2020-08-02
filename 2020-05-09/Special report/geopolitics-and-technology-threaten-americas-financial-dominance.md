@@ -28,6 +28,8 @@ The world’s financial plumbing remains under America’s thumb, too. SWIFT’s
 
 Three things are driving change. First, the “push” factor of geopolitics. America’s centrality allows it to cripple rivals by denying them access to the world’s liquidity supply. Yet until recently it refrained from doing so. The financial system was seen as neutral infrastructure for promoting trade and prosperity. The first cracks appeared after 2001, when America started using it to choke funding for terrorism. Organised crime and nuclear proliferators soon joined the list. It persuaded allies by presenting such groups as threats to international security and the integrity of the financial system, says Juan Zarate, a former adviser to George W. Bush who designed the original programme.
 
+
+
 ![](./images/20200509_SRC058.png)
 
 The arsenal gained potency under Barack Obama. After Russia’s invasion of Crimea in 2014, America punished oligarchs, companies and entire sectors of an economy twice the size of previous targets. “Secondary” sanctions were imposed on other countries’ companies that traded with blacklisted entities. President Donald Trump has since elevated the system for use as a weapon and used it against allies. In December it targeted firms building a pipeline bringing Russian gas into Europe. In March it toughened sanctions against Iran even as others channelled aid to the country. The arsenal hardly feels impartial: since 2008 America has fined European banks $22bn, out of $29bn in total. In 2019 it designated new sanction targets 82 times, says Adam Smith of Gibson Dunn, a law firm.

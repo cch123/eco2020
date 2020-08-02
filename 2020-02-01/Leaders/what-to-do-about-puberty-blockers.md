@@ -14,6 +14,8 @@ This has bothered lawmakers. In America several states want to ban giving pubert
 
 The use of such drugs raises thorny questions about who decides what can happen to a child’s body and why. Put aside the culture wars, if you can. This debate should be settled in the interests of the child. Yet those can be very hard to discern.
 
+
+
 ![](./images/20200201_LDC039.png)
 
 Puberty blockers prevent adolescents from developing secondary sexual characteristics like breasts or a beard. They almost always set off a cascade of interventions that involve “cross-sex” hormones and later may also include gender-reassignment surgery. The main purpose of puberty blockers is to bring comfort to people with gender dysphoria, by sparing them the experience of, say, becoming more like a woman if they are a girl who wishes to be a boy. They also make most future surgery less severe.

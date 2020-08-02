@@ -20,6 +20,8 @@ Indices of day-to-day activity, however, show a different pattern. Such data, wh
 
 The explanation for the pattern of American infections lies in something of central importance to the spread of a virus: geometric progression, such as 1, 2, 4, 8, 16. If one person infects two, two infect four and so on. Unless the rate of infection is driven down by reducing contacts, any geometric increase quickly balloons: 256, 512, 1,024. This is the lesson of the inventor of chess, who in legend asked, as a reward, for one grain of rice on the first square and twice as many on each successive square. There was not enough rice in India to pay his reward. That is one explanation for America’s explosively rising caseload. With almost 4m infections, the country is on square 23.
 
+
+
 ![](./images/20200725_USC560.png)
 
 Another explanation is that the starting point matters. If you begin a geometric progression at one, the tenth in the sequence is 512. If you begin at three, the tenth iteration is 1,536. American states began easing lockdowns, as it were, at three: their caseloads were three or more times higher than in Europe, in part, argues Jarbas Barbosa of the Pan-American Health Organisation, because most states never had full lockdowns. Texas had 1,270 new cases on the day its governor said restaurants could re-open: 44 per million. In Georgia, the rate was 95 per million. Disney World reopened the day before Florida announced a record 15,000 new cases in a day. Just as incredibly, in two-thirds of states, infections were rising when governors started to ease lockdowns. By contrast, France, Spain and Italy had 13-17 new cases per million when they began to re-open their economies and numbers were falling fast.

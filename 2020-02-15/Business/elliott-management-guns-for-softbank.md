@@ -14,6 +14,8 @@ Elliott’s main focus at SoftBank is the Vision Fund, Mr Son’s $99bn tech-inv
 
 SoftBank’s earnings also disappointed. Overall the group eked out only $24m of operating profit. The Vision Fund lost $2bn in the last quarter, better than the $8.9bn loss in the previous three months but far worse than the market was expecting. This month, one Vision Fund investment, an e-commerce startup from San Francisco called Brandless that received around $100m from Mr Son two years ago, became the first in the portfolio to fold. A rare bit of good news came on February 11th when an American judge approved the $26bn takeover of Sprint, a mobile operator majority-owned by SoftBank, by T-Mobile, a competitor. The merger would allow SoftBank to shed about $40bn of Sprint debt. SoftBank’s shares gained 12% the next day, though reports later surfaced that T-mobile might want to renegotiate the deal.
 
+
+
 ![](./images/20200215_WBC170.png)
 
 Even that leaves the firm’s market value, at ¥11trn ($104bn), well below what its assets would imply. It owns $270bn-worth of stakes in big listed companies (Alibaba, Sprint and its Japanese telecoms firm) and unlisted firms like Arm, a British chip-design firm. SoftBank is trading at a discount to fair value of around 60% after accounting for debt. To close the gap Elliott’s boss, Paul Singer, is urging the firm to buy back as much as $20bn of its shares—and to improve its corporate governance.

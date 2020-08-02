@@ -12,6 +12,8 @@ Editor’s note: Each of these climate-change articles is fiction, but grounded 
 
 IN THE DETRITUS littering Phoenix’s cavernous arena, the morning after the 2024 Republican convention, were the usual greasy corn-dog wrappers, coffee cups, shrivelled balloons and campaign flyers—but also evidence of the remarkable change Larry Hogan had brought to the party. The wrappers and cups were all recyclable, the balloons not red, white and blue but green—and mixed in with the bumf were copies of the Republican presidential nominee’s stirring “pledge to the Earth”: “We, the party of Lincoln, mindful of the damage humanity is doing to God’s creation, commit to combating climate change, conserving species and environmental consciousness.” Introducing the former governor of Maryland to the stage to deliver his address, Bill Gates called it “perhaps the most hopeful statement ever made in American politics”.
 
+
+
 ![](./images/wif_spec_1.png)
 
 What a change this was from Donald Trump’s pollution-boosting tenure—which was of course largely the point. Mr Hogan, who had emerged from America’s coronavirus crisis as the country’s most popular governor, had been a somewhat reluctant environmentalist during his time in Annapolis. He claimed to have been fully converted to the climate cause during a post-gubernatorial fishing trip to Alaska. But the Republicans’ green shift was more obviously a response to the 2020 election, in which the party lost the presidency, both congressional chambers, a clutch of governors’ mansions, hundreds of state legislators—and seemingly any prospect of returning to national power.
@@ -21,6 +23,8 @@ Trumpism had turned out to be a blind alley. Even in the party’s southern hear
 As Mr Hogan loved to remind them, conservation shared more than a lexical root with conservatism; it was an expression of it. Republicans had been responsible for most of America’s environmental progress. Yellowstone National Park, the national forest reserves, the Environmental Protection Agency (EPA), the emissions-trading scheme that fixed acid rain—all were creations of Republican presidents. To renew conservatism, Mr Hogan insisted, Republicans need only look to their own noble past.
 
 He was right. As recently as the mid-1990s some had worried about climate change just as much as the Democrats. The embrace of climate-change scepticism by the party and its supporters was driven (as Mr Hogan did not say) by a well-funded misinformation campaign by wealthy polluters, waged through conservative think-tanks, lobbyists and direct contributions to Republican candidates. Yet the party’s donors had also shifted. Many traditional Republican backers, including oil companies, were now in favour of Mr Hogan’s greenery. And the party had, in addition, become increasingly dependent on the largesse of the renewable-energy companies that had burgeoned in many conservative states.
+
+
 
 ![](./images/20200704_WID002_1.jpg)
 

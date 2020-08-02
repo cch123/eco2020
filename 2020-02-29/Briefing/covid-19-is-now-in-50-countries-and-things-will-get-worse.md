@@ -12,11 +12,15 @@ IN THE EARLY scenes of Michelangelo Antonioni’s “The Eclipse”, eerily empt
 
 On February 21st the Italian authorities announced that a cluster of 16 cases of covid-19, the disease associated with the novel virus SARS-CoV-2, had been detected around Codogno, a small town in Lombardy 60km south-east of Milan. By the next day the number was up to 60, and five elderly people had died. On the 23rd “red zones” were set up around the infected areas (see map). Inside the zones there is a strict lockdown; outside 500 police officers and soldiers stop people from leaving. On the same day the government of Lombardy ordered the closure of any establishment where large numbers of people gather, including cinemas, schools and universities. Inter Milan has missed a home match; the legendary opera house, La Scala, is shuttered; sightseers are barred from the cathedral—though worshippers are not.
 
+
+
 ![](./images/20200229_FBM979.png)
 
 Iran, where the first covid-19 cases were reported two days before Italy’s, has also closed schools and cancelled football games. There too, though, worship continues, with what appear to have been dire consequences. The ceaseless flow of pilgrims to the mosques and shrines of Qom has continued despite the city being the site of the first cases. Ahmad Amirabadi Farahani, an MP from the city, said on February 24th that the death toll there had reached 50, though other officials deny this. Recent cases of covid-19 in Bahrain, Kuwait, Iraq, Lebanon and Pakistan are all thought to be linked to returnees from Iran.
 
 The outbreaks in Italy and Iran, along with a large one in South Korea, have convinced many epidemiologists that attempts to keep the virus contained within China have run their course; it will now spread from second countries to third countries and on around the world. As of February 27th, cases had been reported in 50 countries (see chart). Studies suggest that the number of people who have left China carrying the disease is significantly higher than would be inferred from the cases so far reported to have cropped up elsewhere, strongly suggesting that the virus’s spread has been underestimated. Some public-health officials still talk in terms of the window for containment coming closer and closer to closing. In reality, it seems to have slammed shut.
+
+
 
 ![](./images/20200229_FBM977.png)
 
@@ -30,6 +34,8 @@ Part of the WHO’s reticence is that the P-word frightens people, paralyses dec
 
 The course of an epidemic is shaped by a variable called the reproductive rate, or R. It represents, in effect, the number of further cases each new case will give rise to. If R is high, the number of newly infected people climbs quickly to a peak before, for want of new people to infect, starting to fall back again (see chart 2). If R is low the curve rises and falls more slowly, never reaching the same heights. With SARS-CoV-2 now spread around the world, the aim of public-health policy, whether at the city, national or global scale, is to flatten the curve, spreading the infections out over time.
 
+
+
 ![](./images/20200229_FBC978.png)
 
 This has two benefits. First, it is easier for health-care systems to deal with the disease if the people infected do not all turn up at the same time. Better treatment means fewer deaths; more time allows treatments to be improved. Second, the total number of infections throughout the course of the epidemic can be lower.
@@ -39,6 +45,8 @@ To flatten the curve you must slow the spread. The virus appears to be transmitt
 Influenza, like many other respiratory diseases, thrives in cold and humid air. If covid-19 behaves the same way, spreading less as the weather gets warmer and drier, flattening the curve will bring an extra benefit. As winter turns to spring then summer, the reproductive rate will drop of its own accord. Dragging out the early stage of the pandemic means fewer deaths before the summer hiatus provides time to stockpile treatments and develop new drugs and vaccines—efforts towards both of which are already under way.
 
 Ben Cowling, an epidemiologist at the University of Hong Kong, says that the intensity of the measures countries employ to flatten the curve will depend on how deadly SARS-CoV-2 turns out to be. It is already clear that, for the majority of people who get sick, covid-19 is not too bad, especially among the young: a cough and a fever. In older people and those with chronic health problems such as heart disease or diabetes, the infection risks becoming severe and sometimes fatal. How often it will do so, though, is not known.
+
+
 
 ![](./images/20200229_FBP002_0.jpg)
 
@@ -70,6 +78,8 @@ There will also be scapegoating and fear. In Novi Sanzhary, in Ukraine, a busloa
 
 In countries with stronger public-health systems, data scientists will busily model the course of the epidemic as it unfolds. Such modelling already informs public-health choices during flu season in many countries, suggesting when various measures might be prudent. They could in principle be adapted to covid-19. But for the time being such adapted models will be a lot less useful than the ones for flu, because much less is known about covid-19’s basic biology. For example, the question of whether infected people can transmit the disease before they show any symptoms is a matter of quite hot debate. If they can, then putting heavy stress on having infected people isolate themselves will be much less effective than it would otherwise be, because many infectious people will not know that they carry the virus.
 
+
+
 ![](./images/20200229_FBP001.jpg)
 
 There is also no explanation for the low number of children so far diagnosed with the disease. Do they not get it? Or do they get very mild, or different, symptoms? Either way, this will make the dynamics of covid-19 quite different from those of flu, where high rates of spread among children are a big factor, and closing schools can bring large gains.
@@ -81,6 +91,8 @@ Work would be lost both to disease and to social distancing. The financial syste
 Such effects can be out of proportion to their cause. When South Korea had a small outbreak of 186 cases of Middle East Respiratory Syndrome in 2015, the hit to the economy totalled $8.2bn, or about $44m per infection, points out Olga Jonas of Harvard University. Cities with large service sectors are particularly vulnerable; the economic impact of SARS was greatest in places like Hong Kong and Beijing.
 
 Some hints of what may be to come can be gleaned from an economic model of an influenza pandemic created by Warwick McKibbin and Alexandra Sidorenko, both then at Australian National University, in 2006. Covid-19 is not flu: it seems to hit people in the prime of their working life less often, which is good, but to take longer to recover from, which isn’t. But the calculations in their model—which were being updated for covid-19 as The Economist went to press—give some sense of what may be to come (see chart 3).
+
+
 
 ![](./images/20200229_FBC476.png)
 

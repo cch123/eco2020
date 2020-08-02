@@ -22,6 +22,8 @@ On July 14th the government said it will ban mobile-network operators in Britain
 
 Mr Trump immediately took credit for having “convinced many countries” not to use Huawei. While some have been on board for a while—Australia banned Huawei 5G equipment in 2018—others have moved more recently. In June telecoms companies in Canada and Singapore announced plans for 5G networks built around equipment provided by Huawei’s main rivals, Ericsson, a Swedish firm, and Nokia, a Finnish one (see chart 1). In both cases Huawei had previously been a possible provider. On July 6th the head of the French cyber-security agency advised network operators which do not currently use Huawei not to plump for it in future.
 
+
+
 ![](./images/20200718_FBC462_0.png)
 
 Now all eyes are on Germany, which has said it will decide on the matter in the autumn. If it follows America’s urging and Britain’s example then the rest of the EU will probably go the same way, and a significant corner will have been turned. Western communications systems will be a bit less insecure. America will have used its sovereign might to humble one of China’s national champions, and China will doubtless be responding. The technophilic imperative that has made 5G a totem of the fully networked future will have had its momentum checked, at least a little, by a mixture of countries not wanting to upset America and being willing to upset a China they find increasingly disturbing.
@@ -38,6 +40,8 @@ There are many reasons for Europeans to be uncomfortable siding with America. Ha
 
 Regulators and independent observers are not convinced. Mr Dowden, admittedly an interested party, put the impact of Britain’s volte-face at two or three years’ delay and £2bn or so. A study by Strand Consult, a research outfit, thinks that the cost of eschewing Huawei would be quite modest for Europe as a whole, given that its ageing 4G kit would soon have to be replaced anyway. It estimates a total of around $3.5bn, no more than $7 per mobile customer.
 
+
+
 ![](./images/20200718_FBC487_0.png)
 
 That said, not all European mobile-phone customers will get the same deal. The EU has failed to create a single digital market; an operator in Poland cannot sell services to a customer in Sweden in the same way New York-based Verizon sells to Californians. So where China and America have three network operators each, Europe has more than 100 (see chart 2). In some markets, such as Belgium, Germany and Poland, the local companies are highly reliant on Huawei; companies in Finland, Ireland and Spain would face much lower costs if forced to make the switch.
@@ -51,6 +55,8 @@ Mobile-network operators have long complained to the commission that the thin ma
 In the past, Brussels has turned a deaf ear to such griping. The EU’s download speeds have remained comparable to those in America; the price of data services has fallen even faster than usage has grown: what’s the problem? But it is possible that a ban on Huawei could catalyse the “new deal” on regulation that the operators crave. Governments which realise that their actions are delaying 5G and driving up its costs might see their way to easing merger restrictions. The spectrum needed for mobile services, which in Europe is often sold through auctions designed to maximise revenue, might be given away instead, as happens in China and Japan. The lobbyists’ list is long. The industry takes courage from last year’s appointment of Thierry Breton, who was once boss of France Télécom (now Orange), as commissioner for the internal market.
 
 Pending such a deal things might just slow down. There is already agreement among analysts that despite the hoopla 5G networks will be rolled out more slowly than the previous 4G ones were. This year’s 5G-spectrum auctions in France, Spain and Poland have been delayed by the covid-19 pandemic, which may quietly suit some operators. The equipment needed for 5G is only going to get cheaper and more reliable, as all chip-based kit does.
+
+
 
 ![](./images/20200718_FBD002_1.jpg)
 

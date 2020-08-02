@@ -14,6 +14,8 @@ Thais know that their roads are dangerous. Local journalists cover tragedies lik
 
 Globally, road accidents kill more people every year than malaria or HIV/AIDS. Spencer James and other researchers at the Institute for Health Metrics and Evaluation (IHME) in America put the death toll in 2017 at 1.24m. According to IHME, the overall number of deaths has been more or less static since the turn of the century. But that disguises a lot of movement up and down in individual countries.
 
+
+
 ![](./images/20200118_IRC073_0.png)
 
 In many poor countries, especially African ones, road accidents are killing more people (see chart). Those countries have swelling, young populations, a fast-growing fleet of cars and motorbikes, and a limited supply of trauma surgeons. It is impossible to know for sure because official statistics are so inadequate, but deaths are thought to have risen by 40% since 1990 in countries that the World Bank defines as low-income, such as Afghanistan. In many rich countries, by contrast, roads that were pretty safe are becoming even safer. In Estonia and Ireland, the number of deaths has fallen by about two-thirds since the late 1990s.

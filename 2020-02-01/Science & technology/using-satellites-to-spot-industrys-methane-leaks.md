@@ -20,6 +20,8 @@ Methane can be detected spectroscopically. Like other gases, it absorbs light at
 
 [](https://www.economist.com//theclimateissue/)
 
+
+
 ![](./images/article_call-to-action_-_the_climate_issue2x_5.png)
 
 Observing things more closely is the speciality of Claire. This 15kg “nanosat”, about the size of a microwave oven, was launched in June 2016 to measure carbon dioxide and methane emissions. With a field of view 12km wide and a resolution better than 50 metres by 50 metres, Claire can spot leaks from individual industrial plants. GHGSat aims to launch two more methane-hunting nanosats later this year.

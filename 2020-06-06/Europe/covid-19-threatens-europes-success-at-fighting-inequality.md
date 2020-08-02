@@ -22,11 +22,15 @@ Before taxes and transfers, the picture is different: on this basis Germany’s 
 
 Other analysts dispute the WIL’s data, especially on America. But according to the lab, in 1980 the income shares of the bottom half and the top 1% of earners in America and Europe were similar. By 2017 America’s rich and poor had flipped, whereas in Europe the bottom half still earned more. “The European social model is mostly effective through ‘predistribution’: investments in education, universal health care, and regulations of labour markets that compress the wage scale,” argues Lucas Chancel of the WIL. In many countries unions strike wage bargains covering entire sectors of the economy. The Nordics are the most equal. Western European countries like France, and southern ones like Italy, rely more on redistribution. Eastern Europe does little predistribution or redistribution, and its inequality levels are higher.
 
+
+
 ![](./images/20200606_EUC836.png)
 
 In some countries inequality was rising before covid-19, partly because labour regulations have been liberalised. In Germany, the income shares of the top tenth and the bottom half of earners were equal when labour reforms passed in 2004; by 2017 the top decile earned more. Other countries, such as the Netherlands and Italy, had rising numbers of part-time or gig workers, who enjoy fewer protections and benefits.
 
 Covid-19 has made such gaps painfully visible. Spain’s government realised it had no mechanism to support the incomes of the large percentage of the population that works informally. That prodded the country’s Socialist-led government to introduce a guaranteed minimum income law, which was issued as a decree last week (see [article](https://www.economist.com//europe/2020/06/04/spains-embattled-government-proposes-a-new-anti-poverty-scheme)). In Italy, workers in the country’s huge informal sector may have trouble accessing its emergency covid-19 benefits.
+
+
 
 ![](./images/20200606_EUC832.png)
 

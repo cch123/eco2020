@@ -18,6 +18,8 @@ The current public-health emergency has, however, turbocharged all this. With ph
 
 In the view of many, though, this is not enough. These people support a different way of disseminating scientific information—one that dethrones the journals by making journal publication an optional extra rather than a researcher’s primary goal. This model of scientific publishing relies on online repositories called preprint servers, on which papers can be posted swiftly and with only minimal formalities. Mathematicians and physicists already use them widely. Biologists increasingly do so too. Covid-19, however, has seen a step-change. Around half of the available scientific work on the pandemic has been released through preprint servers. The hope of preprinting’s supporters is that this will make the shift to using them irreversible.
 
+
+
 ![](./images/20200509_STC479.png)
 
 Speed is good during a public-health emergency. The genome of SARS-CoV-2 was published by Chinese scientists on a public genome-data repository, a beast similar to a preprint server, just days after the virus was isolated. This permitted the rapid creation of tests to detect infections in people with suspicious symptoms. And the seriousness with which many parts of the world treated the new virus was aided by early reports which suggested that the fatality rates of the cases they looked at were much higher than those seen in influenza.

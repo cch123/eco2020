@@ -36,6 +36,8 @@ Some hospitals are trying to conserve supplies. Dr van Mansfeld says that nurses
 
 The swine-flu pandemic, which was caused by the H1N1 virus and infected 16% of the world’s population in 2009, brought home the message that doctors would have to make such tough decisions when big epidemics strike, says Dan Hanfling of In-Q-Tel, an American organisation that invests in national-security technology. Between the first and the second wave of H1N1 infections in America, the country’s National Academies of Sciences developed a set of “crisis standards of care”. These specify what doctors should do as shortages of medical supplies become worse.
 
+
+
 ![](./images/20200222_IRD002_0.jpg)
 
 One course of action is to substitute treatments with near-equivalents, such as drugs that have a similar effect. Another is to adapt what is available for different uses. For example, simpler breathing machines from ambulances may be used as substitutes for the sophisticated machines in intensive-care units. Medics may have to clean and re-use equipment, such as catheters, rather than throw it away after each use (as doctors in poor countries do every day, Dr Hanfling points out).

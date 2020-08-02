@@ -20,6 +20,8 @@ All told, households and firms owe around $125bn. How much of that might go unpa
 
 Some businesses might be able to keep earning even while their offices are shut. Retailers less so. A slew have already said that they won’t cough up. Nike, a sportswear-maker, says it will service half its rent this month. The Cheesecake Factory, a restaurant chain, plans to pay nothing at all.
 
+
+
 ![](./images/20200404_FNC078.png)
 
 The damage done to the financial system depends in large part on how flexible landlords and creditors can be. Government intervention should allow many households to postpone payments. The vast majority of residential mortgages are held, or backed, by government-sponsored entities (GSEs), like Fannie Mae and Freddie Mac (see chart). The government has ordered these to grant forbearance to homeowners, and has imposed a moratorium on foreclosures. The Federal Reserve will buy unlimited quantities of mortgage-backed securities (MBS) issued by GSEs. Small residential landlords should also be well-supported by such measures. These own the majority of rental properties and owe $4.3trn in mortgages.

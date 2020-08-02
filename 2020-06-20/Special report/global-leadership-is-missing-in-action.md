@@ -30,6 +30,8 @@ At the UN, America’s allies complain that Mr Trump “cherry-picks”. What is
 
 Its secretary-general, António Guterres, a jovial former prime minister of Portugal, divides the UN’s history into three periods. The first was “bipolar”, characterised by cold-war rivalry between America and the Soviet Union. Although the Security Council was largely frozen, there was a certain predictability in the stand-off, and the UN was inventive enough to expand into areas such as peacekeeping, which is not even mentioned in its charter.
 
+
+
 ![](./images/20200620_SRC627.png)
 
 After the collapse of communism came a brief “unipolar” period, when America’s dominance was barely contested. The Security Council was able to function as its founders envisaged, launching a flurry of peace missions as well as authorising the American-led liberation of Kuwait in 1991. George Bush senior hailed a “new world order”. The UN developed the principle of a “responsibility to protect” populations against mass atrocities.
@@ -45,6 +47,8 @@ These upheavals spill over into the diplomatic and security dimensions that are 
 The multilateral system has important strengths. One is that it is patently needed. The biggest problems cry out for international co-operation—as the pandemic powerfully illustrates. The world needs to work together on vaccines, on economic recovery and to support the most vulnerable countries. The head of the World Food Programme, David Beasley, a former Republican governor of South Carolina, has said speedy action is necessary to prevent “multiple famines of biblical proportions”. Concerted efforts are also needed on climate change, another challenge no country can tackle on its own. The risk of nuclear proliferation is growing.
 
 A second advantage is that the UN is popular. It has made shameful mistakes. It failed to prevent genocide in Rwanda and Srebrenica. UN peacekeepers are blamed for bringing cholera to Haiti and sexual abuse to many of the places they were meant to protect. The UN’s oil-for-food programme with Iraq led to a $1.8bn scam. Yet it is more trusted than many governments, according to the 2020 Edelman Trust Barometer. Across 32 countries surveyed by Pew last year, a median of 61% had a favourable opinion of the UN, against 26% with an unfavourable view. A comfortable majority of Americans think well of it, though there is a growing partisan divide: 77% of Democrats approve, but only 36% of Republicans.
+
+
 
 ![](./images/20200620_SRC567.png)
 

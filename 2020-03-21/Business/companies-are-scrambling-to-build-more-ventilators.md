@@ -14,6 +14,8 @@ MUCH OF THE panic-buying provoked by the covid-19 pandemic seems overblown. Groc
 
 It is hard to pin down how many ventilators health-care systems have on hand. The last survey of ventilator capacity in America was ten years ago. It tallied 62,000 sophisticated machines and 100,000 basic ones. American health authorities are now hastily counting anew. They are likely to find fewer than 200,000, 80-90% of which are typically used by non-covid patients. A rough calculation by The Economist suggests that, if the virus keeps spreading at the current rate, America would run out of spare devices in four weeks. The situation is worse in other countries (see chart). 
 
+
+
 ![](./images/20200321_WBC821.png)
 
 In 2019 ventilator-makers had the capacity to churn out just 40,000 units suitable for intensive care, according to Getinge, a Swedish firm which makes one in four such machines sold worldwide. Most companies build kit, which costs anywhere between $10,000 and $60,000 apiece, to order rather than keep inventories. Premier, a firm that bought 2,000 last year on behalf of 40% of America’s hospitals, says that buyers must now wait 8-12 weeks for new ones to arrive, not a fortnight as in normal times. Getinge’s order book is completely filled until June.

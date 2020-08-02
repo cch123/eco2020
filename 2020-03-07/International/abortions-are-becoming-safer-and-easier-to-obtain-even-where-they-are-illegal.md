@@ -40,6 +40,8 @@ The Royal College of Obstetricians and Gynaecologists recently called on the Bri
 
 The impact on women who live in countries where abortion is illegal is most dramatic. Backstreet abortions used to result in perforated uteruses and life-threatening infections and haemorrhages. Some still do. But globally such complications have become rarer. Since 1990 the number of women dying as a result of botched abortions—most of them illegal—has dropped by 42%, from 108 per 100,000 abortions (1990-94) to 63 (2010-14).
 
+
+
 ![](./images/20200307_IRC569.png)
 
 Even on its own, misoprostol is effective in around 85% of cases, and it is far less dangerous than other DIY methods. Countries where misoprostol has become most widely available saw the biggest decline in deaths as a result of unsafe abortions. The fall in unsafe terminations in Brazil, where abortion is illegal, has been dramatic (see chart). In Reynosa, Maria says she regularly sells pills to local women who send their husbands with “lousy excuses about stomach problems”. In Mozambique hospitals have seen many more incomplete abortions in recent years, but a dramatic drop in women coming in with perforated uteruses, says Diana Restrepo of the UN Population Fund. She believes this is due to informal use of misoprostol, which is increasingly easy to buy in pharmacies.

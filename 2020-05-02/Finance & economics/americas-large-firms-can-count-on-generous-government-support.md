@@ -14,6 +14,8 @@ BAIL-OUTS ARE often a source of public ire. Americans still seethe over the resc
 
 Big businesses have facilities of their own to tap. A “Main Street Lending Fund” will soon dispense a total of $600bn to firms with up to 10,000 employees. The Federal Reserve has set aside $750bn to buy corporate bonds.
 
+
+
 ![](./images/20200502_FNC403.png)
 
 At first glance the support might appear more generous than the cash set aside for small firms, even when you adjust for their contributions to economic activity (see chart). But the big-company schemes differ from PPP in a crucial aspect: they are loans, and must eventually be repaid. By contrast, the minnows can keep PPP funds, as long as they retain workers.

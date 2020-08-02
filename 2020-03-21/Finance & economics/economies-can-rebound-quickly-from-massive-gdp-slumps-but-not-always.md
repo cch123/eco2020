@@ -16,6 +16,8 @@ Some economies, perhaps those of Singapore or even South Korea, could find a foo
 
 A longer perspective reinforces the rarity of such events. Economic historians at the University of Groningen, in the Netherlands, maintain a cross-country set of GDP data stretching far into the past. Since 1870, across 18 industrialised economies, there have been only 47 instances in which a country experienced an annual decline in output of more than 10%. Most are associated with world wars and the Depression; of the 47 large output declines, 42 occurred between 1914 and 1945 (see left-hand chart).
 
+
+
 ![](./images/20200321_FNC787_0.png)
 
 How do countries fare after suffering such economic blows? Recoveries are occasionally quite rapid. At the end of the world wars, a few economies experienced near-immediate bursts of growth—partly, but not always, because of rebuilding. The beleaguered Italian economy grew by about 35% in 1946. By 1949 it had already recovered all the ground it lost during the war and then some. The German economy shrank by a staggering 66% from 1944 to 1946, then grew at an annual average rate of 12% over the subsequent decade. In other cases rebounds are less robust. In 1924 real output in both Germany and Austria remained below the levels before 1914. Across the period from 1870, it took an average of five years for output in countries that experienced declines in GDP of more than 10% to regain their peak (see right-hand chart).

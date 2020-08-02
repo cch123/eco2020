@@ -40,6 +40,8 @@ Egypt’s president, Abdel-Fattah al-Sisi, threatened to intervene in neighbouri
 
 Prosecutors from a court in The Hague said they were charging Hashim Thaci, the president of Kosovo, with war crimes, murder and torture relating to the period during and immediately after the war there in 1999. Mr Thaci had been about to attend a summit at the White House, but cancelled his visit. See [article](https://www.economist.com//europe/2020/06/27/kosovos-president-hashim-thaci-faces-war-crimes-charges).
 
+
+
 ![](./images/20200627_WWC015.png)
 
 The World Health Organisation reported a record increase in the number of new infections, bringing the total to more than 9.1m. It expects the 10m mark to be reached within days.

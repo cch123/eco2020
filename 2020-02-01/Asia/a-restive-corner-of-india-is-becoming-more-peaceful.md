@@ -14,6 +14,8 @@ Few areas have seen as much upheaval as the north-east, an ethnically mixed regi
 
 Only recently have years of patient carrot-and-stick efforts by the central government, helped by better intelligence, tougher military tactics and stronger co-operation from neighbouring Bangladesh and Myanmar, begun to pay off. Casualties have declined steeply, from a high of almost 1,700 deaths in 2000 to just 17 last year. That has allowed the government to exempt some states from a controversial law that protects soldiers from prosecution for human-rights offences, and prompted the army to begin shifting resources away from internal security.
 
+
+
 ![](./images/20200201_ASM949.png)
 
 Underpinning all this has been a series of peace agreements with assorted rebel groups. Ongoing talks with insurgents in Nagaland have made significant progress, with at least one of the state’s main guerrilla factions agreeing to lay down arms. In Assam some 644 fighters from various groups recently surrendered their guns. And in January alone Mr Modi’s government inked two important deals. One, in Tripura, allows for the resettlement in the state of some 34,000 ethnic Bru refugees from neighbouring Mizoram. This should end a 23-year stand-off, as the destitute Brus had rejected efforts to send them back to areas from which they had been violently expelled.

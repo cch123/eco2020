@@ -22,9 +22,13 @@ The data, say Deborah Brautigam and Yufan Huang of CARI, are a “gold mine”. 
 
 In addition to aiding research, the data should also help the public in developing countries, says David Malpass, the World Bank’s president. Governments—and “this is not unique to developing countries”—sometimes enter into contracts that do not serve the public interest, he points out. Transparency “helps align” these contracts with “the interests of the people”.
 
+
+
 ![](./images/20200704_FNC283.png)
 
 The new figures confirm Mr Pompeo’s observation that China is by far the biggest bilateral creditor to Africa, and in many poor countries elsewhere (see chart 1). It accounts for about 20% of the total foreign debt owed by the 73 governments eligible for the G20 initiative (and about 30% of their debt service this year). That is more than all of the Paris Club lenders, including America, Britain and Japan, combined. But it is also smaller than the estimate of over 25% based on figures from Mr Horn, Ms Reinhart and Mr Trebesch. Indeed their estimates for individual countries often exceed the bank’s by large margins (see chart 2).
+
+
 
 ![](./images/20200704_FNC285.png)
 

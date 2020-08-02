@@ -6,6 +6,8 @@
 
 > Jun 11th 2020
 
+
+
 ![](./images/20200516_LDD002.jpg)
 
 There is nothing new about differences in national views about the purpose of the European Union, but the pandemic has indeed highlighted these (“[On the blink](https://www.economist.com//leaders/2020/05/14/the-european-union-is-having-a-bad-crisis)”, May 16th). At the same time, this crisis has underlined just how interconnected Europe is in many ways and this is vital to our ability to recover from the huge hit that our economy is taking.
@@ -24,11 +26,15 @@ You quoted Konrad Adenauer’s saying that “German problems can only be solved
 
 GERALD SCHERIAUVienna
 
+
+
 ![](./images/20200516_FND001.jpg)
 
 “[A good kind of bubble](https://www.economist.com//finance-and-economics/2020/05/14/could-travel-bubbles-offer-a-route-to-economic-recovery)” (May 16th) mapped out travel bubbles linking places where the pandemic has been quashed. This idea should go beyond the coronavirus. Even enthusiasts for individual liberty should now see that health is a public good as well as a private good. In contrast with other single EU policies, which have a political and sentimental price, there would be no emotional losers from a united EU medical-care policy with well-policed borders. Such a bubble of wellness might tempt in outsiders like Iceland, Switzerland and Norway. And on a cold winter’s day, even an ardent English nationalist might long to stroll safely on a Spanish beach rather than shiver in Brighton.
 
 PETER WHITEGlencullen, Ireland
+
+
 
 ![](./images/20200523_BRP501_0.jpg)
 
@@ -40,6 +46,8 @@ The water feels cleaner, the surface has lost its rainbow sheen of oil and there
 
 SIMON GRIFFITHSFounder and publisherOutdoor SwimmerLondon
 
+
+
 ![](./images/20200516_AMD001.jpg)
 
 Regarding [Bello’s ](https://www.economist.com//the-americas/2020/05/16/looking-back-on-perus-shining-path)column (May 16th) on Peru’s vicious terrorist movement, Shining Path, it should be pointed out that the figures for the number of those killed and displaced in the conflict that come from the Truth and Reconciliation Commission were determined using a very debatable method. It lacks all seriousness to use them for calculating the final number of deaths. It is also excessive to call Alberto Fujimori a dictator. Mr Fujimori was a typical Latin American authoritarian president, in the same vein as Hugo Chávez, Rafael Correa, or Evo Morales. Moreover, it is no surprise that 75% of the victims were Quechua Indians, given that the Andes was the main theatre of terrorist operations.
@@ -48,11 +56,15 @@ I don’t see any kind of collective trauma in 99% of Peruvians. Instead, those 
 
 ALDO MARIÁTEGUILima
 
+
+
 ![](./images/20200502_BKD003.jpg)
 
 As a teacher and researcher in classics, I care profoundly about the subject’s purpose ([Johnson](https://www.economist.com//books-and-arts/2020/04/30/the-real-reason-to-study-the-classics), May 2nd). Too many of my colleagues rely on the guff that it teaches grammatical rigour or fall back onto vague assertions about the origins of Western civilisation. Although it is good to have a knowledge of ancient societies, the study of classics or indeed any ancient peoples offers one important transferable skill. When studying any ancient civilisation, one quickly brushes up against the reality that 99.9% of the information one would like to have is already lost. This forces any student or researcher to reflect hard on what data can be used. We must carefully analyse and argue over every scrap, while avoiding the temptation to come to conclusions that the data do not justify. In an age where we are faced with a glut of data, knowing what they can or cannot be used to say is vital.
 
 ROBERT MACHADOCambridge, Cambridgeshire
+
+
 
 ![](./images/20200516_EUD000.jpg)
 

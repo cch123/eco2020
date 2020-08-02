@@ -12,6 +12,8 @@
 
 The jump followed the drone strike that killed Qassem Suleimani, leader of the Quds Force of Iran’s Islamic Revolutionary Guard Corps, three days earlier. The rise of 2.9% over two trading days is similar to those after other Middle Eastern flare-ups. (Oil prices also leapt: Brent crude rose by 5%, briefly topping $70 a barrel.) Iran’s attack on the Al-Asad airbase on January 8th caused a further 2% jump, to $1,611 per ounce, before investors concluded that Iran was saving face, rather than escalating.
 
+
+
 ![](./images/20200111_FNC004.png)
 
 Investors typically rush into gold when geopolitical risk soars. However, its price has been rising for a while, climbing by more than 25% since November 2018. The reason is falling real (ie, inflation-adjusted) interest rates. The most common measure is the yield on ten-year inflation-indexed American Treasury bonds (TIPS); after the Federal Reserve began cutting rates this slid from around 1.1% in November 2018 to near zero last August. That was the lowest since 2013, the last time gold was so dear.

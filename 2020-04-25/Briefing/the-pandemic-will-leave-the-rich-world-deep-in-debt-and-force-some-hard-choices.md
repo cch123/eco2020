@@ -18,6 +18,8 @@ Like a war, the fight against covid-19 has seen governments, particularly those 
 
 The numbers involved are enormous. Advanced economies will run an average deficit this year of 11% of GDP, according to the IMF, even if the second half of the year sees no more lockdowns and a gradual recovery. Rich-world public debt could run to $66trn, which might be 122% of GDP by year’s end.
 
+
+
 ![](./images/20200425_FBC315.png)
 
 Governments wishing to see such debt burdens diminish must tread one of three broadly defined paths. First, they can pay back the borrowing using taxation. Second, they can decide not to pay, or agree with creditors to pay less than they owe. Third, they can wait it out, rolling over their debts while hoping that they shrink relative to the economy over time.
@@ -52,6 +54,8 @@ These low interest rates make the fiscal picture seem less bleak. Vitor Gaspar, 
 
 Take Japan. Its gross-debt-to-GDP ratio in 2019 was around 240% of GDP, which sounds truly astonishing. But years of quantitative easing (QE) have left the Bank of Japan with government bonds worth nearly 85% of GDP. And the government could, in theory, sell financial assets of a similar magnitude if it had to. Adjust the debt to take these things into account and what remains is a little over 70% of GDP—less than a third of the gross figure and roughly comparable to what the figure is for America if you make the same adjustments (see chart 2).
 
+
+
 ![](./images/20200425_FBC288.png)
 
 Well before the pandemic such analysis had led many influential economists to start treating higher public debt as sustainable in a low-inflation, low-interest-rate world. Because the pandemic has pushed both inflation and interest rates the same way—down—their logic still holds. However, there are reasons for scepticism.
@@ -65,6 +69,8 @@ An alternative critique is that the past may not offer the reassurance some migh
 The 24 advanced economies they study have on average benefited from interest rates which are below the nominal growth rate 61% of the time. Yet they find that such differentials are “essentially useless” for predicting sovereign defaults. “Can we sleep more soundly” with interest rates below growth rates? they ask. “Not really,” they answer.
 
 The first sign of any debt trouble in the rich world would probably be rising inflation. At first, that might be a relief, given the present deflationary risk and the recent history of persistently insufficient inflation. It would be a sign that the economy was recovering. By reducing real interest rates it would further boost growth. And central banks that have long fallen a percentage point or so short of their inflation targets might feel comfortable seeing inflation ride a percentage point or so proud of it. But a somewhat relaxed attitude to 3% does not mean a willingness to accept 6%.
+
+
 
 ![](./images/20200425_FBD003_0.jpg)
 

@@ -18,6 +18,8 @@ Good doctors have always treated their patients as individuals. In the 20th cent
 
 Nobody knows exactly how many human genomes have been fully sequenced, and different sequencing procedures read the genome to different degrees—there are quick skims and painstaking philological studies. But the number is in the millions (see chart). By the 2030s genome sequencing is likely to be as routine in some places as taking a pin-prick of blood from a baby’s heel is today—it may even be part of the same procedure. Genome science is becoming a matter of practical medicine. New therapies that make it possible to adjust or edit this genetic inheritance are coming to market.
 
+
+
 ![](./images/20200314_TQC483.png)
 
 This flood of data is allowing medicine to become more precise and more personal—in many ways, the p-words are two sides of the same coin. Previously recognised genetic diseases, such as Jansen’s, have been traced to specific genes and can be connected to defects in the proteins they create (almost all genes describe proteins, and proteins do almost all the body’s chemical work). Most of these diseases are rare, in that they typically affect no more than one person in 2,000 in the general population. But with over 6,000 such rare diseases now recognised, this means they are common in the aggregate. In Britain one in 17 people can expect to suffer from a rare disease at some point.

@@ -12,6 +12,8 @@
 
 This local warmth found a national echo. Over decades dozens of American military bases—concentrated in Germany’s south, the area of post-war American occupation (see map)—have cemented the bond between the NATO allies. “I used to get a visit almost every year from the [premier] of Bavaria,” says Jim Townsend, the Pentagon’s former top official for Europe. “We were important to him, and he was important to us.”
 
+
+
 ![](./images/20200627_EUM903.png)
 
 Mr Trump and surrogates like Richard Grenell, his boorish former ambassador in Berlin, have long threatened to prune America’s military presence in Germany. This time it looks credible. At a rally in Oklahoma on June 20th Mr Trump justified his proposal with a familiar charge-sheet: a “delinquent” Germany free-rides on American protection, spending nugatory sums on defence while backing a Russian gas pipeline. “On top of it they treat us very badly on trade,” the president huffed. A day later Robert O’Brien, Mr Trump’s national security adviser, attempted to retrofit a strategic rationale onto his boss’s decision. The cold-war practice of massive army garrisons with families was “obsolete”, he wrote in the Wall Street Journal, because “modern warfare is increasingly expeditionary”. Troops were needed in Asia to counter China, he added.
@@ -19,6 +21,8 @@ Mr Trump and surrogates like Richard Grenell, his boorish former ambassador in B
 This account “would not pass muster” at any military college, says Ben Hodges, who commanded American army forces in Europe until 2017. Although the reduction would represent just 15% of its troops in Europe, Germany is a crucial cog in America’s global military machine. The Pentagon’s European and African commands, which control every soldier, tank, warplane and warship in their domains, are based in Stuttgart. The army’s European headquarters are in Wiesbaden, and Germany hosts five of its seven European garrisons, including Grafenwöhr, its largest base outside America. Ramstein is a hub for directing drone strikes in Afghanistan, Pakistan, Somalia and Yemen (to some German consternation). The Landstuhl military hospital has treated 95,000 American soldiers wounded in Iraq and Afghanistan since 2001. “The amount of time and lives that that has saved is just incredible,” says Rachel Ellehuus, a former Pentagon official now at the Centre for Strategic and International Studies, a think-tank. A vast $990m replacement, nicknamed the “UFO” by locals, is being built nearby. At least 40% of American activity in Germany supports operations elsewhere, estimates Ms Ellehuus.
 
 A drawdown would follow a decades-long thinning of America’s presence. Over 10m of its troops were cycled through Germany from 1950 to 2000, with 250,000 deployed for much of that time. That had dwindled to under 70,000 by the turn of the millennium, and fell by half again between 2006 and 2018. Between 2005 and 2020 America’s overall footprint in Europe shrank by over a third. That leaves little fat to trim. American capabilities in Europe are spread so thinly across various functions that cutting any one of them by 30% would, in effect, eliminate it, warns General Hodges. American generals in Germany are said to be baffled by the proposal.
+
+
 
 ![](./images/20200627_EUC201.png)
 

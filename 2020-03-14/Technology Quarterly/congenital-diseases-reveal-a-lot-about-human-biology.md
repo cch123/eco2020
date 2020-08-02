@@ -32,6 +32,8 @@ Many hope that various new technologies could drastically reduce the costs of be
 
 What, though, if you could stop a problematic protein from being made in the first place? For a cell to make a protein, it first needs to make a copy of the gene sequence that describes that protein. This copy is called a messenger RNA, or mRNA. If you know the sequence of the gene, it is easy to work out the sequence of its mRNA, and from that design a short strand of DNA that, by dint of its own sequence, will stick to that mRNA, thus rendering it useless (see diagram).
 
+
+
 ![](./images/20200314_TQC305.png)
 
 Such DNA-based saboteurs are called “antisense oligonucleotides” (ASOs). They are now being used to treat various faulty-gene diseases, including a particular form of spinal muscular atrophy (SMA), some types of Duchenne muscular dystrophy and familial hypercholesterolemia—the disease that led to the design of new anti-cholesterol drugs. There are trials under way to see if an ASO can slow the progression of Huntington’s disease, a lethal degenerative disease which affects from five to 10 people per 100,000.

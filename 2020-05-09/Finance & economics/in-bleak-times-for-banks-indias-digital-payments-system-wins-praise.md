@@ -18,6 +18,8 @@ UPI usage dipped for the first time in March; that was followed by a fall of 20%
 
 The government has also used UPI to make emergency transfers to street vendors. A new programme is expected to be rolled out in June. This will enable companies to give workers vouchers that can be redeemed by labs testing for covid-19.
 
+
+
 ![](./images/20200509_FNC495.png)
 
 The payment system rests on the Aadhaar card, an identification system with which the fingerprints and irises of more than a billion Indians are registered. Take your card to a bank, as hundreds of millions of Indians have, and you can set up an account; you also become a “known customer”, clearing a regulatory hurdle. You can then, either through your bank or using various apps, send and receive funds instantly from anywhere in India.

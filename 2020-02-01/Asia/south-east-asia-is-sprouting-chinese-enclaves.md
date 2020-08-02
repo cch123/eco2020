@@ -16,6 +16,8 @@ Chinese businesses don’t need much convincing. The Chinese government began en
 
 Where Chinese capital goes, labour follows. In Mandalay the Chinese have swelled from 1% of the population in 1983 to 30%-50% today. In places with SEZs the shift has been even sharper. In 2019 the governor of the surrounding province told the Straits Times newspaper that the number of Chinese in Sihanoukville had soared over the previous two years to almost a third of the population. The economic clout of Chinese migrants grows with their numbers. In Mandalay 80% of hotels, more than 70% of restaurants and 45% of jewellery shops are owned and operated by ethnic Chinese, according to market research conducted in 2017.
 
+
+
 ![](./images/20200201_ASM943.png)
 
 The influx of migrants has fuelled anti-Chinese sentiment across the region. But poor South-East Asian governments court Chinese investors anyway because they hope Chinese money will kick-start their economies. In some respects the investment has borne fruit. In Laos foreign investment has contributed to effervescent GDP growth, which averaged 7.7% a year over the past decade.

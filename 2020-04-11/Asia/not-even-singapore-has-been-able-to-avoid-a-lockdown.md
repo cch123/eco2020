@@ -16,6 +16,8 @@ For most Singaporeans, the new regime, instituted on April 7th, will not be quit
 
 Singapore had been able to take a less draconian approach because of its initial success in containing the disease. On January 22nd it began taking the temperatures of air passengers arriving from China, the day before the Chinese government stopped travel into and out of Wuhan. Soon afterwards it began banning visitors from areas badly affected by the virus. By the end of March the government had advised against all non-essential journeys abroad, closed its borders to non-residents and suspended all religious services.
 
+
+
 ![](./images/20200411_ASC150.png)
 
 All the while efficient contact-tracing teams—including members of the police and the army—identified and isolated thousands of people possibly infected with the virus. Members of the armed forces have been making up to 2,000 calls a day to hunt for potential carriers. Those told to stay at home for 14 days have been monitored assiduously to ensure compliance. (Unco-operative types face prosecution or the loss of their residency rights, if they are not citizens.)

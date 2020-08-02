@@ -16,6 +16,8 @@ Though still the world’s largest international migrant group, the number of Me
 
 Covid-19 has caused a flurry of worry about remittances. They seem to be holding up for now. But their long-term future is uncertain. Mexico’s emigrants send back less as they age. Their American-born children are unlikely to pick up the slack after they are gone. That will hit remittance-dependent states. It will also imperil villages that rely on social and economic ties to those who departed while young.
 
+
+
 ![](./images/20200725_AMC578_0.png)
 
 To catch the first glimpse of this future, turn to Zacatecas. The state’s emigrating tradition is among Mexico’s oldest and deepest. From 1955 to 1959 one Zacatecan in 16 headed to the United States. Juan Saldivar Flores, an 80-year-old in Los Haro, recalls how his young son would hear gushing descriptions from uncles over the phone of Napa Valley in California, to which nearly all of Los Haro’s migrants flock. “He reproached me” for staying put, foredooming him to a birth in Mexico, Mr Saldivar says. No matter. A few years later his son had taken off to Napa, where he still lives and works.

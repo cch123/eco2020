@@ -26,6 +26,8 @@ The growth in renewable-generation capacity is the exception. It has not been dr
 
 During the 2010s the levelised cost (that is the average lifetime cost of equipment, per megawatt hour of electricity generated) of solar, offshore wind and onshore wind fell by 87%, 62% and 56%, respectively, according to BloombergNEF, an energy-data outfit (see chart overleaf). This has allowed deployments that were unthinkable in the 2000s. Britain now has more than 2,000 offshore wind turbines. They are built by developers chosen based on how low a price they are willing to take for their electricity (the government pledges to make the cost up if the market price falls below it).
 
+
+
 ![](./images/20200523_SBC657.png)
 
 In 2015 winning bids were well over £100 ($123) per MWh, far higher than the cost of fossil-fuel electricity. Thanks to predictable policy, fierce competition and technical progress, a recent auction brought a bid as low as £39.65 per MWh, roughly the level of average wholesale power prices. Solar and onshore wind are even less expensive. About two-thirds of the world’s population live in countries where renewables represent the cheapest source of new power generation, says BloombergNEF.

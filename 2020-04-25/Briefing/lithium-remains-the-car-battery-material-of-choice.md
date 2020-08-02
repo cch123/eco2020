@@ -22,6 +22,8 @@ Handily for weight-sensitive applications like cars, Lithium is the lightest met
 
 Last year China’s biggest maker of electric-car batteries, CATL, began the mass production of NMC batteries with an energy density of 240Wh/kg. Some other firms, including Tesla, hope to go further and get rid of cobalt altogether—though in Tesla’s case they are cagey about the details. Reducing the cost of materials, together with economies of scale from the huge factories that CATL, Tesla and their rivals operate, are steadily bringing down the price of batteries. In 2010, according to BloombergNEF, a research firm, that price averaged $1,160 per kWh. By 2024 it may drop below $100 (see chart). At that point EVs will be more competitive with combustion-engined cars.
 
+
+
 ![](./images/20200425_BBC291_0.png)
 
 As for greater range, many people in the field are pinning their hopes on batteries that have solid rather than liquid electrolytes. Lithium ions can tunnel through certain solid electrolytes. Such cells would be safer and provide the possibility of using other electrode materials for much higher energy densities. Among the latest of these solid-state proposals is a design developed at Samsung’s research laboratories in South Korea and Japan by a group led by Dongmin Im. This uses an NMC cathode, an anode made of a composite of silver and carbon, and a solid electrolyte based on a substance called argyrodite that is a compound of silver, germanium and sulphur.

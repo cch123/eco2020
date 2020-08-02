@@ -14,6 +14,8 @@ The scare has four elements: a queasy long-term rise in borrowing; a looming cas
 
 Take the borrowing first. Companies came out of the 2007-09 financial crisis in a relatively sober mood, but since then have let rip. Global corporate debt (excluding financial firms) has risen from 84% of GDP in 2009 to 92% in 2019, reckons the Institute of International Finance. The ratio has risen in 33 of the 52 countries it tracks. In America non-financial corporate debt has climbed to 47% of GDP from 43% a decade ago, according to the Federal Reserve.
 
+
+
 ![](./images/20200314_FNC694_0.png)
 
 Underwriting standards have slipped. Two-thirds of non-financial corporate bonds in America are rated “junk” or “BBB”, the category just above junk. Outside America the figure is 39%. Firms that you might think have rock-solid balance-sheets—AT&T—have seen their ratings slip, while others have been saddled with debts from buyouts. Naughty habits have crept in: for example, using flattering measures of profit to calculate firms’ leverage.

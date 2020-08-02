@@ -18,6 +18,8 @@ Mr Putin’s other amendments curb the power of parliament and courts and positi
 
 Like many autocrats, Mr Putin suggests that he needs to remain in power to ensure stability. This week he invoked the turbulence in the oil market, the new coronavirus and threats from enemies within and outside. “They are waiting for us to make a mistake or to slip up, losing our bearings or, worse still, getting bogged down in internal dissent, which is sometimes fanned, fuelled and even financed from abroad,” he told the Duma.
 
+
+
 ![](./images/20200314_EUC422.png)
 
 The collapse in the oil price, which at one point this week was down by 30%, added drama to his words. Oil and gas are most of Russia’s exports and generate a third of GDP. That Russia remains so reliant on hydrocarbons is largely Mr Putin’s fault. On his watch attempts to diversify the economy have failed to achieve as much as they should have.

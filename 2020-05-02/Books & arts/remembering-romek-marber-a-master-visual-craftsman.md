@@ -18,6 +18,8 @@ Marber’s dramatic imagery, with its sharp contrasts and suggestive spaces, bor
 
 Orna Frommer-Dawson, his long-term partner after his wife died and another fellow designer, says a key part of his process was swift decision-making. Marber would pace up and down his studio, pondering a commission and smoking his pipe (a relative in Paris, believing that all Englishmen had one, gave him his first in 1946). Then, quickly, he would decide. Often the results shimmer with an unsettling tension that is his hallmark: between a pursuit of order and an undertow of peril.
 
+
+
 ![](./images/20200502_BKP508.jpg)
 
 The “Marber grid”, which he created for Penguin’s crime imprint and was later adopted for others, epitomised this blend of geometry and jeopardy. It arranged the title and author’s name in a precise format at the top of the jacket, leaving the space below open for uncanny, Hitchcockian silhouettes and eerily cropped figures. But the same blend of method and menace characterises his magazine covers. John F. Kennedy tries to call the Kremlin, but the receiver dangles unattended, the text skewed at a disorienting angle. Other Economist headlines swirl in concentric circles or twist across the page. On a cover of New Society, Harold Wilson, then Britain’s prime minister, looms behind an outsized fist. As art director of the Observer’s magazine Marber adorned a feature on the mafia with daggers and shadows. “Romek himself was not fearful,” says Ms Frommer-Dawson, “but when a subject needed to illustrate fear maybe he drew on his knowledge of what fear can be.”

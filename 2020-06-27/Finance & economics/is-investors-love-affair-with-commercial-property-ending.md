@@ -14,13 +14,19 @@ Activity is gradually restarting. On June 23rd Boris Johnson, Britain’s prime 
 
 Most people probably have more sympathy for chefs and waiters than for landlords. But many do not realise that payments made to commercial landlords are increasingly channelled towards their own pension pots or insurance claims. The global stock of investible commercial property—hotels, shops, offices and warehouses—has quadrupled since 2000, to $32trn (see chart 1). More than a third is owned by institutional investors, which piled in, lured by lucrative, solid returns.
 
+
+
 ![](./images/20200627_FNC224.png)
 
 Covid-19 has upended the impression of solidity. Most immediately, it has severely impaired tenants’ ability to pay rent. It also raises questions about where shopping, work or leisure will happen once the crisis abates. Both are likely to prompt investors to become more discriminating. Some institutions may shift their funds away from riskier properties; other investors, meanwhile, might hunt for bargains, or seek to repurpose unfashionable stock.
 
+
+
 ![](./images/20200627_FNC220.png)
 
 The infatuation with commercial property began in earnest after the global financial crisis of 2007-09. Interest rates were cut to almost zero across much of the rich world, making it harder to generate the safe cash flows that pension funds and insurers need to meet future liabilities. “Core” property—often in desirable places and needing little refurbishment—typically produced secure annual returns in the high single digits to low teens, mostly in the form of contractual, often inflation-adjusted, rent payments (see chart 2). Buying property allows investors to park vast sums of money—from tens of millions to billions of dollars—which they can forget about for years (commercial leases often last a decade or more). And the returns have been less volatile in crises than those from public equities and commodities.
+
+
 
 ![](./images/20200627_FNC191.png)
 
@@ -37,6 +43,8 @@ Covid-19 jolts investors out of their complacency in two ways. First, swarms of 
 Start with delinquency. As lockdowns shuttered shops and businesses, rent collections collapsed. Less than half of all tenants in Britain paid rent on time at the end of March; a quarter of it was still due seven weeks later, says Remit Consulting, a research firm. Hotels have been worst hit: with borders closed and travel restricted, average occupancy fell from 70% before the pandemic to a low of 15% in early April. In America, average revenue per room shrank by 84%, to $16 per night, in April. Stand-alone shops and shopping malls have also suffered. Collection rates have fallen below 50% on both sides of the Atlantic.
 
 Offices have proved sturdier. Firms that rent out co-working spaces on short-term leases have suffered. Other tenants, bound by decades-long leases, have continued to pay. Still, collection rates range between 57% in Britain and 90% in America. Late or missed rent payments in the double digits are hardly normal.
+
+
 
 ![](./images/20200627_FNC178.png)
 
@@ -57,6 +65,8 @@ The pandemic’s effect on office space is less clear. Many workers may find tha
 Meanwhile, the shift to remote shopping and working presents investment opportunities. Storage and distribution facilities remain geared towards industrial use rather than pick-and-pack. Brian Chinappi of Actis, a London-based private-equity firm, says the crisis has made it even hungrier for data centres, which it is now building in Asia and Africa.
 
 Assessing the extent of potential losses from the crisis is hard. Britain’s financial watchdog thinks uncertainty on values is so strong that it has forced listed funds to suspend redemptions. Analysts canvassed by The Economist reckon property values will fall by less than 20% overall this year, and rents by 5-10%. That compares with falls of 25% and 10-20%, respectively, in 2008-09. But a lot depends on how long rent suspensions last. MSCI, an index provider, estimates that assets subject to a six-month rent holiday and a recession could lose 37% of their worth. REIT prices suggest retail properties could have further to fall.
+
+
 
 ![](./images/20200627_FNP003.jpg)
 

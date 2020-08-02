@@ -42,6 +42,8 @@ The first animal to come under serious suspicion was the pangolin. A coronavirus
 
 The fact that pangolins are known to harbour viruses from which SARS-CoV-2 could have picked up its human-compatible RBD is certainly suggestive. But a range of other animals might harbour such viruses, too; it’s just that scientists have not yet looked all that thoroughly. The RBD in SARS-CoV-2 is useful not only for attacking the cells of human beings and, presumably, pangolins. It provides access to similar cells in other species, too. In recent weeks SARS-CoV-2 has been shown to have found its way from humans into domestic cats, farmed mink and a tiger. There is some evidence that it can actually pass between cats, which makes it conceivable that they were the intermediate—though there is as yet no evidence of a cat infecting a human.
 
+
+
 ![](./images/20200502_STC956.png)
 
 The market’s appeal as a site for the human infections behind the Wuhan outbreak remains strong; a market in Guangdong is blamed for the spread of SARS. Without a known intermediate, though, the evidence against it remains circumstantial. Though many early human cases were associated with the market, plenty were not. They may have been linked to people with ties to the market in ways not yet known. But one cannot be sure.
@@ -57,6 +59,8 @@ If it turns out to have originated elsewhere, the new virus’s identification d
 In 2017 WIV opened the first biosecurity-level 4 (BSL-4) laboratory in China—the sort of high-containment facility in which work is done on the most dangerous pathogens. A large part of Dr Shi’s post-SARS research there has been aimed at understanding the potential which viruses still circulating among bats have to spill over into the human population. In one experiment she and Ge Xingyi, also of the WIV, in collaboration with American and Italian scientists, explored the disease-like potential of a bat coronavirus, SHC014-CoV, by recombining its genome with that of a mouse-infecting coronavirus. The WIV newsletter of November 2015 reported that the resulting virus could “replicate efficiently in primary human airway cells and achieve in vitro titres equivalent to epidemic strains of SARS-CoV”. In early April this newsletter and all others were removed from the institute’s website.
 
 This work, results from which were also published in Nature Medicine, demonstrated that SARS-CoV’s jump from bats to humans had not been a fluke; other bat coronaviruses were capable of something similar. Useful to know. But giving pathogens and potential pathogens extra powers in order to understand what they may be capable of is a controversial undertaking. These “gain of function” experiments, their proponents insist, have important uses such as understanding drug resistance and the tricks viruses employ to evade the immune system. They also carry obvious risks: the techniques on which they depend could be abused; their products could leak. The creation of an enhanced strain of bird flu in 2011 in an attempt to understand the peculiar virulence of the flu strain responsible for the pandemic of 1918-19 caused widespread alarm. America stopped funding gain-of-function work for several years.
+
+
 
 ![](./images/20200502_STD002_0.jpg)
 

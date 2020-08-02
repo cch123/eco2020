@@ -22,6 +22,8 @@ SWIFT provides all of these. Built over decades, its network is hard to replicat
 
 The network’s complexity also makes cross-border transfers slow and costly. Many tasks, like checking customers are not known criminals, are duplicated. Banks must keep idle funds in foreign currency (some $10trn globally) to meet forecasted demand. And the system is not fully hack-proof. In 2016, North Korean hackers used stolen SWIFT identifiers to siphon off $81m from an account Bangladesh’s central bank held in New York.
 
+
+
 ![](./images/20200509_SRC202.png)
 
 Startups try to alleviate the pain by reducing the number of interactions banks and companies have with SWIFT. Some work with “hub” firms in recipient countries that break up big sums, like payroll, into tiny payments. Others aggregate transfers to absorb fixed costs. Lucy Liu of Airwallex, a fintech company, says it relocated from Australia to Hong Kong to serve rising demand from Chinese exporters. Some fintechs fully bypass SWIFT. Ripple, an American firm, has created a cryptocurrency it uses as an intermediary for payments between countries with different currencies.

@@ -16,6 +16,8 @@ State-level political polls, which are known to oscillate wildly from day to day
 
 Mr Biden looks a bit stronger than that slight edge would imply. The former vice-president is polling better than Hillary Clinton did where it matters most: among white voters in the Midwest, who have outsize importance in the electoral college. Though he is losing ground with non-whites and younger voters, their distribution across the country gives them less influence in presidential elections than they ought to have. The sudden economic slump has also affected Mr Trump’s re-election odds, though less than you might think. As a result, Mr Biden starts the campaign ahead of Mr Trump.
 
+
+
 ![](./images/20200502_USM900.png)
 
 To gauge the candidates’ strengths with a variety of demographic groups, The Economist used a statistical technique called “multilevel regression and poststratification” (MRP) that takes raw survey data collected by YouGov, a pollster, and produces finely-detailed predictions for many different types of voters. We know how white women with a college degree lean Democratic, for example, and how white Christian men from Michigan tend to vote for Republicans. And since we also know how many people of each type live in each state, we can estimate how the race would play out if the election were held today.
@@ -23,6 +25,8 @@ To gauge the candidates’ strengths with a variety of demographic groups, The E
 This method is not unlike the one used by Simulmatics Corporation, which in 1960 fed a primitive computer decades’ worth of polls from George Gallup and Elmer Roper to advise Kennedy on a winning strategy. The scientists behind Simulmatics made predictions for 480 types of voters. Based on data about nearly 9,000 voters collected by YouGov in March and April, we have made predictions for over 380,000 types, one for each combination of nine different demographic and geographical factors.
 
 Our MRP model tells us both whether people are likely to vote, and who they will support if they do. Our method adjusts for many of the factors that increase the variance of live-caller polls, chiefly by ensuring a balanced sample of Democrats, Republicans and independents in each state. Perhaps most important, MRP allows us to fill in the blanks where public polling is scarce, which was a big problem when handicapping the 2016 election.
+
+
 
 ![](./images/20200502_USC392.png)
 

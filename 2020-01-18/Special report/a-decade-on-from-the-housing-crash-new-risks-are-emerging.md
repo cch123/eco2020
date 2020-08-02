@@ -18,6 +18,8 @@ Since the early 2000s the number of rich countries using macro-prudential polici
 
 All this can put the brakes on rapid credit growth. For high-risk borrowers, getting a mortgage is harder than it was, which is one reason why home ownership among the young has fallen. Banks have scaled back their mortgage operations. “The mortgage business… has experienced increasingly lower returns as new regulations add both sizeable costs and higher capital requirements,” wrote Jamie Dimon, the boss of JPMorgan Chase, in 2016.
 
+
+
 ![](./images/20200118_SRC524.png)
 
 But new risks are emerging. In recent years non-bank mortgage lenders (a group of non-deposit-taking lenders that includes Quicken Loans, which offers Rocket Mortgage) have proliferated. They now originate around half of America’s mortgages (see chart). A growing number of economists argue that regulators need to keep a closer eye on these firms.

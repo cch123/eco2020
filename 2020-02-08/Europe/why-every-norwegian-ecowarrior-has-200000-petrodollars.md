@@ -14,6 +14,8 @@ Many young Norwegian greens want to wean their country off oil. Technology start
 
 Yet although Innovation Norway, a state-owned agency, has in recent years done a good job of promoting startups, Norway’s economy will remain dominated by oil for the foreseeable future. Petroleum has transformed the country since it was discovered at the Ekofisk oilfield in the North Sea in 1969. Norway is one of the world’s largest oil exporters. Hydrocarbons account for half its exports and 19% of GDP. And another oil rush is beginning. Johan Sverdrup, a giant new oilfield in the North Sea, could earn Norway an estimated $100bn over the next 50 years.
 
+
+
 ![](./images/20200208_EUC062.png)
 
 Sveinung Rotevatn, the 32-year-old newly appointed minister of climate and the environment, admits that Norway is a paradox—one of the world’s leaders in the use of renewable energies and technologies, but also a fossil-fuel giant. Almost all Norway’s electricity comes from renewable sources. Heating with oil will be banned this year. Half of newly registered cars are electric (Norway is one of Tesla’s biggest markets). Oslo was the first city in the world to set a ceiling every year for its greenhouse-gas emissions. In late 2018 it removed nearly all parking spaces from the city centre, replacing them with benches, bicycle docks and more pavements. In October last year Norway’s $1.1trn sovereign-wealth fund, the world’s largest, established in 1990 to prepare the country for a post-oil future, announced that it would sell all its shares in companies dedicated to oil and gas exploration.
@@ -25,6 +27,8 @@ Ivar Horneland Kristensen, boss of the federation of trade and services, argues 
 Norway has profited from its wise decision to save the principal and invest the returns of its oil riches. But the sheer size of its sovereign-wealth fund—more than $200,000 for every citizen—encourages dependency. Fully 20% of Norwegians rely on welfare, and that does not include pensions. Norway spends 4.3% of GDP on incapacity benefits, the second-highest in the OECD after Denmark. Youngsters have never known a country without oil riches. They are used to excellent free schools and universities as well as free health care. But for how long?
 
 [](https://www.economist.com//theclimateissue/)
+
+
 
 ![](./images/article_call-to-action_-_the_climate_issue2x_3.png)
 

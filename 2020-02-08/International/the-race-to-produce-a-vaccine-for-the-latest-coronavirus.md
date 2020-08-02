@@ -36,6 +36,8 @@ Even if a vaccine is developed and approved, the rapid rise in cases of the Wuha
 
 When CEPI was planning its work, those involved were thinking about epidemics (outbreaks limited to one country), not pandemics (global epidemics), explains Richard Hatchett, the head of the group. Last week CEPI put out a call for vaccine candidates for the Wuhan virus that can be manufactured on a large scale with existing capacity. On February 3rd it brought on board as a partner GSK, a big drug firm, which has agreed to lend its highly effective adjuvant to a new vaccine. An adjuvant is a special ingredient that makes vaccines more efficient by boosting the immune response—which means that fewer doses of the vaccine or a lower concentration of its core ingredient is needed for vaccination.
 
+
+
 ![](./images/20200208_IRD002_0.jpg)
 
 Even if a vaccine can be produced in sufficient quantities, getting it to the people who need it, regardless of where they live, can still be a problem. In theory, a vaccine for the Wuhan virus would go to those most at risk, such as health workers, the elderly and those with conditions that appear to make the virus more lethal, such as patients with immune deficiencies. The problem is that politics often intervenes during a pandemic, and governments that are the home to vaccine-making facilities can requisition some of it for their own use, citing national defence or security.

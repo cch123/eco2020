@@ -6,6 +6,8 @@
 
 Saudi Arabia and Russia ended their oil-price war, agreeing to a deal that will see oil-producing countries cut output by a record 9.7m barrels a day over the next two months, around 10% of global supply. There will be smaller cuts thereafter. The rally in oil markets that greeted the announcement soon faded, however. The International Energy Agency forecast that global demand for oil will fall by 9.3m barrels a day in 2020. This month “may go down as Black April in the history of the oil industry”, said the head of the agency. See [article](https://www.economist.com//leaders/2020/04/18/the-future-of-the-oil-industry).
 
+
+
 ![](./images/20200418_WWC245.png)
 
 In its direst warning yet about the effects of the pandemic, the IMF said that “the great lockdown” will result in the biggest economic downturn since the Depression. Assuming that covid-19 and restrictions on daily life peak in the second quarter, the fund thinks global GDP will shrink by 3% this year, although advanced economies are expected to contract by an average 6.1%. If the crisis does not ease in the second half the world economy could shrink by a further 3%. The fund urged countries to continue with measures to slow the spread of the disease so that economic activity can resume. See [article](https://www.economist.com//finance-and-economics/2020/04/16/how-deep-will-downturns-in-rich-countries-be).

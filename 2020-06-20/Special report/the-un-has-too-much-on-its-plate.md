@@ -26,6 +26,8 @@ Mr Guterres has tried to leverage the pandemic for peace. On March 23rd he calle
 
 If ending conflicts has become tougher, what about tackling their causes and consequences? That opens vast vistas for helping humanity. Perhaps too vast.
 
+
+
 ![](./images/20200620_SRC574.png)
 
 The short-term task is humanitarian relief, whether from man-made or natural disasters. That job—feeding the hungry, housing refugees, protecting health—is huge. Last year about $18bn in humanitarian funding, some 70% of the world’s total, was channelled through the UN, estimates Mark Lowcock, the UN’s emergency-relief co-ordinator, helping more than 100m people. Roughly 60% of the money comes from America, Germany, Britain and the EU. China provides very little.

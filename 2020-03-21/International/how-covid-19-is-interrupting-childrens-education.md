@@ -16,6 +16,8 @@ Ryu is one of almost 1bn students around the world whose schooling has been inte
 
 The data on whether school closures will curb covid-19 are limited. Children may not be the “main routes of transmission”, says Michael Head, who studies global health at the University of Southampton. And the economic, social and educational costs are heavy. On March 12th Bill de Blasio, the mayor of New York, said there were “many, many reasons” not to close the city’s 1,800 schools (though on March 16th it did just that, shuttering America’s largest school system for at least four weeks). For all governments, deciding whether or not to close schools is a choice between two bad options.
 
+
+
 ![](./images/20200321_IRM908_0.png)
 
 A study in 2009 modelling the effects of closing all schools and formal day-care centres in America for a month put the cost at 0.1-0.3% of GDP. Some countries seem better prepared to deal with the economic impact. In China the nationwide closures came with government-mandated work-from-home policies and subsidies for companies to enable their employees to do so. But in Japan not all parents are entitled to work from home or to take paid sick leave. In Italy one-fifth of workers are self-employed and so do not qualify for sick pay. People in precarious work may lose their jobs altogether if they have to stay at home to look after children.
@@ -37,6 +39,8 @@ The disruption has lent ammunition to those who disapprove of high-stakes exams,
 The pandemic won’t change this. But it will highlight the strengths and weaknesses of teaching online. Online resources are increasingly popular but few countries boast a developed digital infrastructure for all students. A survey by Teacher Tapp, an app, of over 6,000 teachers in Britain found that only 40% of those in state schools would be able to broadcast a video lesson, compared with 69% of teachers at independent schools. Elena Silva of New America, a think-tank, says that few American states have adequate kit for teaching online. “Most states are not that prepared. This is a moment of forced opportunity.”
 
 Teachers have little choice but to seize it. Since Italy closed its schools and universities on March 5th, teachers’ forums have filled with discussions on the relative merits of Zoom, Moodle and virtual classrooms. Some teachers had been trained to use such technology, but many have faced a steep learning curve. Carla Crosato, a teacher in Treviso, in northern Italy, has been uploading videos in which she explains the novels of Italo Svevo and Luigi Pirandello to her students. “I never thought I’d become a YouTuber at 56,” she says.
+
+
 
 ![](./images/20200321_IRC752.png)
 

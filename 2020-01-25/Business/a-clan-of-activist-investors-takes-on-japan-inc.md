@@ -16,6 +16,8 @@ Her clan’s wider aim, says Ms Murakami, is to get Japanese boardrooms to opera
 
 That is welcome. But outsiders on boards are useful only if they are truly independent, says Nicholas Benes, who helped draft the new code. With four outside directors, Toshiba (which owns about 3% of Toshiba Machine) was considered a model of good governance until it was hit by an accounting scandal in 2015. Nissan’s board, which also looked diverse, failed to rein in the carmaker’s imperious boss, Carlos Ghosn, for years before turning on him.
 
+
+
 ![](./images/20200125_WBC293.png)
 
 For oversight actually to benefit shareholders, it must be more than token, according to a new study by Mr Benes of listed non-financial firms’ performance between 2014 and 2018. He found, among other things, that Japanese companies which created nominating committees for directors and then allowed them to appoint independent outsiders outperformed rivals which did neither.

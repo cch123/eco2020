@@ -14,6 +14,8 @@ It needs to be, for it is late to the party. The average American household paid
 
 NBCUniversal’s back-catalogue is certainly deep—13,000 hours of TV and film, from “Psycho” to “30 Rock”, or 20,000 on a paid, “premium” plan. But, says Peter Supino of Bernstein, a research firm, it is designed for the old days of linear television and the cinema. Online, with near-infinite choice and personalised recommendations, niche is king. Comcast is not putting much money into Peacock originals: the service currently has nine shows (covid-19 delayed a few others) to Netflix’s 1,600.
 
+
+
 ![](./images/20200718_WBC474.png)
 
 Yet advertising-supported streaming may be worth pursuing. Two-thirds of Americans say they would prefer a wholly or partly ad-supported service to a subscription one, finds Deloitte. Seven out of ten customers of Hulu, owned by Disney, opt for its cheaper, ad-supported plan. Advertisers are also keen, as cable TV bleeds viewers, and appearing next to user-generated content on sites like YouTube poses a reputational risk. Peacock promises no more than five minutes of commercials per hour, against the American-TV standard of 18. In future it hopes to target these ads, using Comcast’s data on subscribers.

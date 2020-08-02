@@ -20,6 +20,8 @@ Even industries deemed essential can suffer from broader restrictions. One pharm
 
 Whereas previous crises have imposed a financial constraint on economic activity, this disaster has imposed a “physical constraint”, points out Alberto Ramos of Goldman Sachs, a bank. He expects Latin America to suffer its worst contraction since the second world war, exceeding even its debt crisis of the 1980s. Much depends on how long the lockdowns last. India’s is due to be lifted on April 15th, but restrictions may linger in states with high numbers of infections, points out Priyanka Kishore of Oxford Economics. Several of those states, including Maharashtra and Karnataka, are among the biggest contributors to India’s economy. If 60% of the country remains locked down until the end of April, she calculates, up to 10% of India’s GDP in the second quarter could be lost.
 
+
+
 ![](./images/20200404_FNC100.png)
 
 The lockdowns in many emerging markets are as tough as in the rich world, or more so, suggests an index created by Mr Hale and Mr Webster measuring the “stringency” of a government’s response to the pandemic. But unlike their richer counterparts, few emerging-economy governments can match this stringency with an equally generous fiscal response, according to numbers collated by Sherillyn Raga of the Overseas Development Institute, a think-tank (see chart).
@@ -28,11 +30,15 @@ Malaysia may be one exception. It has unveiled a relief package with a face valu
 
 
 
+https://embed.acast.com/theeconomistmoneytalks/moneytalks-bankingonit
+
 Central banks have been a little more adventurous, cutting interest rates despite the slump in emerging-market currencies. Some, including those in Colombia and South Africa, will emulate America’s Federal Reserve by buying government bonds in the open market to reduce volatility. Indonesia will cut out the middleman: new rules allow its central bank to, in extremis, buy bonds directly from the treasury.
 
 But no emerging market, almost by definition, can afford to ignore its exchange rate entirely. Russia’s central bank, for example, recently refrained from cutting interest rates because the rouble has tumbled so dramatically in the wake of the country’s oil-price war with Saudi Arabia. The tussle caused oil prices to dip below $20 a barrel this week, according to America’s benchmark, for the first time since 2002.
 
 In some countries (such as Argentina), governments still have substantial foreign-currency debt. In others, companies do (Turkey). And in still others (South Africa), a large share of local-currency debt is held by foreigners, who will be reluctant to roll over their holdings if the currency becomes unmoored.
+
+
 
 ![](./images/20200404_FNC110.png)
 

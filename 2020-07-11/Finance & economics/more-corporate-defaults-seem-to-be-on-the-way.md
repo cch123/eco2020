@@ -16,6 +16,8 @@ Now you hear a different concern: not that some worthy firms might die, but that
 
 Begin, though, with the peculiarities. Even before the recession struck there was a widespread concern about an overhang of debt rated BBB, a notch above junk. The fear was that a deluge of falling angels would overwhelm the speculative-grade market. That this didn’t happen is in large part down to America’s Federal Reserve, which has backstopped the corporate-bond market. Since March 23rd, when the Fed first announced it stood ready to buy corporate bonds, companies have issued more than $1trn-worth.
 
+
+
 ![](./images/20200711_FNC401.png)
 
 Yields on the best investment-grade credits—low-debt firms in defensive sectors like technology or health-care products—have fallen ever closer to those on government bonds. These are far from default. But not every issuer has been saved. Corporate defaults have already picked up. S&P expects the trailing 12-month default rate for junk bonds to rise to 12.5% in America and 8.5% in Europe by March. Many debt-laden firms in America opt for the protection of Chapter 11 bankruptcy, which allows them to keep operating as they settle their debts. In some cases, the trigger for default is a “distressed exchange”, where a company buys back its own bonds, or swaps them for new ones, when they are trading at a price much below their par value. And there is still a sizeable rump of bonds that trade at distressed prices—defined as yields that are ten percentage points above those of government bonds (see chart).

@@ -18,6 +18,8 @@ Not all sectors of the economy have done terribly. New subscriptions to Netflix 
 
 Yet the general pattern is grim. Data from Womply, a firm which processes transactions on behalf of 450,000 small businesses across America, show that businesses in all sectors have lost substantial revenue. Restaurants, bars and recreational businesses have been badly hit: revenues have declined some two-thirds since March 15th. Travel and tourism may suffer the worst losses. In the EU, where tourism accounts for some 4% of GDP, the number of people travelling by plane fell from 5m to 50,000; on April 19th less than 5% of hotel rooms in Italy and Spain were occupied. 
 
+
+
 ![](./images/20200502_FBC954.png)
 
 According to calculations made on behalf of The Economist by Now-Casting Economics, a research firm that provides high-frequency economic forecasts to institutional investors, the world economy shrank by 1.3% year-on-year in the first quarter of 2020, driven by a 6.8% year-on-year decline in China’s GDP. The Federal Reserve Bank of New York draws on measures such as jobless claims to produce a weekly index of American economic output. It suggests that the country’s GDP is currently running about 12% lower than it was a year ago (see chart 1). 
@@ -29,6 +31,8 @@ The “90% economy” thus created will be, by definition, smaller than that whi
 The plight of the pub demonstrates that the 90% economy will not be something that can be fixed by fiat. Allowing pubs—and other places of social pleasure—to open counts for little if people do not want to visit them. Many people will have to leave the home in order to work, but they may well feel less comfortable doing so to have a good time. A poll by YouGov on behalf of The Economist finds that over a third of Americans think it will be “several months” before it will be safe to reopen businesses as normal—which suggests that if businesses do reopen some, at least, may stay away.
 
 Some indication that the spending effects of a lockdown will persist even after it is over comes from Sweden. Research by Niels Johannesen of Copenhagen University and colleagues finds that aggregate-spending patterns in Sweden and Denmark over the past months look similarly reduced, even though Denmark has had a pretty strict lockdown while official Swedish provisions have been exceptionally relaxed. This suggests that personal choice, rather than government policy, is the biggest factor behind the drop. And personal choices may be harder to reverse.
+
+
 
 ![](./images/20200502_FBC955.png)
 
@@ -57,6 +61,8 @@ Yet these productivity bonuses look likely to be heavily outweighed by drawbacks
 Cities have proven particularly fertile ground for innovations which drive long-run growth. If Geoffrey West, a physicist who studies complex systems, is right to suggest that doubling a city’s population leads to all concerned becoming on aggregate 15% richer, then the emptying-out of urban areas is bad news. MoveBuddha, a relocation website, says that searches for places in New York City’s suburbs are up almost 250% compared with this time last year. A paper from New York University suggests that richer, and thus presumably more educated, New Yorkers—people from whom a disproportionate share of ideas may flow—are particularly likely to have left during the epidemic.
 
 Wherever or however people end up working, the experience of living in a pandemic is not conducive to creative thought. How many people entered lockdown with a determination to immerse themselves in Proust or George Eliot, only to find themselves slumped in front of “Tiger King”? When mental capacity is taken up by worries about whether or not to touch that door handle or whether or not to believe the results of the latest study on the virus, focusing is difficult. Women are more likely to take care of home-schooling and entertainment of bored children (see [article](https://www.economist.com//international/2020/04/30/closing-schools-for-covid-19-does-lifelong-harm-and-widens-inequality)), meaning their careers suffer more than men’s. Already, research by Tatyana Deryugina, Olga Shurchkov and Jenna Stearns, three economists, finds that the productivity of female economists, as measured by production of research papers, has fallen relative to male ones since the pandemic began.
+
+
 
 ![](./images/20200502_FBD002_0.jpg)
 

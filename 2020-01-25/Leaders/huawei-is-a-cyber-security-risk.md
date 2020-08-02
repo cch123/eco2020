@@ -16,6 +16,8 @@ The hawks have a strong case. No back doors have so far been found in Huawei’s
 
 Yet despite those worries, this newspaper believes Huawei should be allowed to compete. Its products are high-quality and cheap (albeit with help from large dollops of state aid). Excluding it would be costly and risks delaying 5G. It would add to the pressure to reverse the globalisation that has helped keep costs down and progress ticking in the tech industry. And though the risks are real, countries can adopt three broad strategies to mitigate them.
 
+
+
 ![](./images/20200125_LDC372.png)
 
 The first is technical. Encouraging encryption would ease spying concerns, since intercepting data would produce only gibberish. Networks should be defended in depth. Attempts to keep intruders out should be backed by monitoring to spot those that nonetheless get through, and systems designed to limit the damage they can do. Britain, for instance, plans to exclude Huawei from sensitive parts of its networks, though geography may limit that approach elsewhere. Because accidental bugs can be as dangerous as deliberate back doors, having several suppliers and spare capacity is a good idea, so that a single flaw does not leave the entire network vulnerable. Redundancy and resilience are the watchwords.

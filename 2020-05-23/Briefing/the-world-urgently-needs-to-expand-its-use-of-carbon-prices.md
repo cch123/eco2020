@@ -18,9 +18,13 @@ The vast majority of humankind’s carbon emissions are currently unpriced. This
 
 As a result only 20% of global emissions are currently subject to a pricing scheme or soon to become so (see chart 1). And the prices in these plans are too low. The Paris agreement, adopted in 2015, commits its signatories to keeping the rise in global temperature, compared to that of the preindustrial climate, “well below 2°C”. A serious attempt to use carbon prices to that end, according to Nicholas Stern and Joseph Stiglitz, two noted economists, would require a price in the range of $40-80 to be levied on all the world’s industrial greenhouse-gas emissions (as well as some other interventions). In existing schemes the median tonne of carbon emissions is priced at only $15. Nowhere is there a carbon price that is both above $40 and applies to more than half a country’s greenhouse-gas emissions.
 
+
+
 ![](./images/20200523_BBC644.png)
 
 Despite such limited progress, advocates for a carbon price remain committed to the cause. Before the advent of covid-19, they also seemed to be on something of a roll. Since January carbon emissions have been priced at a minimum of C$20 ($14) per tonne across Canada. By 2022 that will rise to C$50. In 2021 70% of global aviation emissions were scheduled to enter a UN emissions-trading programme which aims to cap them at 2020 levels. China was going to launch a nationwide carbon market for its notoriously dirty power sector at the end of the year. And as part of its “green deal”, the European Commission had announced plans for the expansion of its Emissions Trading Scheme (ETS), already the largest carbon-pricing system in the world (see chart 2). Its carbon price, stuck in the single digits in the 2010s, rose to around €25 ($27).
+
+
 
 ![](./images/20200523_BBC972.png)
 
@@ -29,6 +33,8 @@ The pandemic has derailed many of these plans. If aviation emissions were capped
 The need to decarbonise the economy, though, remains as urgent as ever. Indeed, the pandemic demonstrates the scale of the climate challenge. Although entire sectors of the economy, including aviation, have shut down, emissions this year will still remain too high. What is now needed is a way around various political barriers to a carbon price as well as at least one economic one: the effect that prices imposed piecemeal might have on trade.
 
 Making it expensive to use fossil fuels can change behaviour quickly if there are easy and cheap alternatives available. In a history of carbon pricing published in 2018, Barry Rabe of the University of Michigan points to the experience of America’s sulphur dioxide permit scheme in the 1990s. It reduced the sulphur emissions from power plants largely because power companies had access both to sources of low-sulphur coal and technology to “scrub” sulphur dioxide from their smokestacks. The companies best placed to make the shift sold the allowances to emit sulphur that they had received from the government to those finding it harder.
+
+
 
 ![](./images/20200523_BBC689.png)
 
@@ -69,6 +75,8 @@ The only existing BCA bears this out. It applies to electricity imports into Cal
 This system is clearly imperfect, because the imports may in fact be dirtier than that. But if it were tougher, the incentive to game the system—by exporting the cleanest electricity to California while using the dirtiest elsewhere—would get even stronger. If such compromises have to be made when there are only electrons involved, imagine the complexities involved for an object made of many components from many jurisdictions.
 
 Then there is the question of whether other countries might retaliate against a BCA. Rough calculations by The Economist using OECD data on the carbon emissions embodied in international trade suggest that a BCA of €30 per tonne levied on all goods coming into Europe would amount to €10bn on imports from China and €3bn on imports from the United States, equivalent to tariffs of 2.8% and 1.2% respectively. On imports from India the price would be €2bn, equivalent to a 5.1% tariff. In all three cases it is roughly equivalent to doubling existing average tariffs.
+
+
 
 ![](./images/20200523_BBD003_0.jpg)
 

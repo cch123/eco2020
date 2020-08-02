@@ -14,6 +14,8 @@ Her caution goes wider. Mrs Merkel has also been circumspect in her comments on 
 
 Mr Schmid speaks not only for the political elite but also for many business leaders who used to be relentlessly gung-ho about China’s potential but have long since tempered their enthusiasm. Some 5,500 German companies with production sites in China face hurdles ranging from forced technology transfer to being required to set up joint ventures. Many have lost faith in the possibility of change. “I would now advise any Mittelstand company to stay away from China,” says Frank Klix, who used to represent the Panjin Economic Development Zone in Germany but became frustrated by the lack of a level playing-field.
 
+
+
 ![](./images/20200718_EUC465.png)
 
 In early 2019 such concerns culminated in a head-turning paper issued by the Federation of German Industries (BDI), which declared that its hopes of convergence on the rules of doing business with China had faded. In January the VDMA, an association of German machinery manufacturers, said the “imbalance” in doing business with China had become unacceptable. Last year the German Chamber of Commerce in China found that nearly a quarter of German firms operating in China were planning to remove all or part of their businesses.
@@ -29,6 +31,8 @@ However, high-value-added products that Germany excels in, such as cars, machine
 This helps to explain Mrs Merkel’s apparent soft-pedalling on policy to China. Despite fierce pressure from America, government colleagues, intelligence agencies and from MPs across the spectrum, including her own CDU, she still refuses to bar Huawei from building Germany’s 5G network. She may fear that Chinese retribution exacted on German carmakers—a threat dangled by Beijing’s ambassador in Berlin—would be too much for a fragile economy crawling out of recession amid transatlantic trade tensions.
 
 Mrs Merkel also carries a “political conviction” that trying to contain China carries more risks than rewards, argues Thorsten Benner at the Global Public Policy Institute in Berlin. How to accommodate China’s rise is a leitmotif of the speeches she made during her 12 trips to the country’s capital and hinterland in past years (see chart 2). She wants China to help shape rules on artificial intelligence and genetics to avoid cleaving the world into competing technological hemispheres.
+
+
 
 ![](./images/20200718_EUC469.png)
 

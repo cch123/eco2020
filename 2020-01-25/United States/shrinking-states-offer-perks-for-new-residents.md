@@ -22,6 +22,8 @@ Over 1,500 miles away in Oklahoma the George Kaiser Family Foundation, a charity
 
 In central Nebraska, a town of 938 people called Curtis offers free land to new residents willing to build homes on their lots. Families with school-age children are eligible for up to $1,000 in cash incentives if they move to Curtis and enroll in local public schools. Massachusetts is considering paying remote workers to move to its four western counties. Some Kansas counties will help pay student-loan debt for recent graduates who move there.
 
+
+
 ![](./images/20200125_USM935.png)
 
 Are such efforts effective? Amy Liu, who directs a metropolitan-policy programme at the Brookings Institution, a think-tank, warns that local attempts to woo companies can backfire. Sometimes companies leave when incentives such as tax breaks expire. Attempts to woo people could suffer from some of the same pitfalls. Ms Liu also wonders if such experiments might be too small to have an impact.

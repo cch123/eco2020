@@ -12,6 +12,8 @@
 
 A dearth of puppies was not among the shortages anticipated as a result of the crisis, but Britain is suffering from one. Families looking for ways to entertain their offspring and adult children worried about lonely aged parents are after them. But rocketing prices are driven up not just by the increase in demand: dog-market developments have made the supply chain vulnerable to disruption.
 
+
+
 ![](./images/20200530_BRC776.png)
 
 Pedigree hounds used to be working dogs—breeds created by Victorian aristocrats in a period of heady innovation that produced most modern canines. Pet dogs were mongrels, until rising disposable incomes turned pups into luxury items and drove up demand for Kennel Club-registered breeds. In the past decade a new trend has emerged: the designer crossbreed. These posh mongrels with pure-blood parents are outstripping their pedigree Kennel Club cousins in popularity (see chart). But they are just as difficult to produce.

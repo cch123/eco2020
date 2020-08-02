@@ -17,8 +17,8 @@
 #### [Rich countries try radical economic policies to counter covid 19](./Briefing/rich-countries-try-radical-economic-policies-to-counter-covid-19.md)
 ### Asia
 #### [Covid 19 forces japan to delay the olympics](./Asia/covid-19-forces-japan-to-delay-the-olympics.md)
-#### [Bangladesh releases a jailed opposition figure](./Asia/bangladesh-releases-a-jailed-opposition-figure.md)
 #### [A sex abuse scandal incenses millions of south koreans](./Asia/a-sex-abuse-scandal-incenses-millions-of-south-koreans.md)
+#### [Bangladesh releases a jailed opposition figure](./Asia/bangladesh-releases-a-jailed-opposition-figure.md)
 #### [Let taiwan into the world health organisation](./Asia/let-taiwan-into-the-world-health-organisation.md)
 #### [India and pakistan try to keep a fifth of humanity at home](./Asia/india-and-pakistan-try-to-keep-a-fifth-of-humanity-at-home.md)
 ### United States

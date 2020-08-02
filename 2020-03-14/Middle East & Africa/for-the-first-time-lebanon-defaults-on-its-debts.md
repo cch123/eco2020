@@ -16,6 +16,8 @@ Start with restructuring. About two-thirds of government debt (which, in total, 
 
 The problems do not end there. For years the central bank, the Banque du Liban (BdL), borrowed dollars from commercial banks to sustain the currency peg and cover big fiscal and current-account deficits (in 2018 they were 11% and 26% of GDP, respectively). In return, the banks received above-market interest rates on what seemed like a risk-free investment.
 
+
+
 ![](./images/20200314_MAC609.png)
 
 But this state-sanctioned pyramid scheme no longer has enough new money to sustain itself. Bank deposits, which grew at a healthy clip for years, levelled off in 2018 and have started to decline. Commercial banks had 247trn pounds ($160bn, at the official rate) in deposits in December, an 8% drop from a year earlier. The central bank does not have enough dollars to repay what it owes. At the end of January it had a healthy $37bn in gross foreign-currency reserves—but an eye-watering $52.5bn in liabilities, mostly owed to local banks, estimates Fitch, a ratings firm.

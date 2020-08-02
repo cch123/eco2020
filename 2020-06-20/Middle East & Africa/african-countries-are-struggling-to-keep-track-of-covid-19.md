@@ -30,6 +30,8 @@ PACT is a step forward, but problems remain. The first kits bought under the agr
 
 The struggle to increase testing augurs ill for the broader response. The number of confirmed cases in Africa has been rising by about 30% a week over the past month. But that glosses over trouble spots, such as South Africa or Guinea-Bissau, where almost one-tenth of health workers have been infected. And it means that the absolute number of cases is mounting: it took 98 days for Africa to go from 1 to 100,000 cases, but only 18 days to reach 200,000.
 
+
+
 ![](./images/20200620_MAC132.png)
 
 The overall numbers matter, because African health systems will tend to be overwhelmed at an earlier point than those in Asia or Europe. Such weaknesses are the main reason why a study published by the Centre for Global Development, a think-tank, projected that death rates in Africa could be many times higher than predicted by other models that do not account for scant staff and cash-strapped hospitals. Already countries such as Kenya and Nigeria are planning ways to care for people in their homes rather than in hospitals.

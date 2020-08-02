@@ -14,9 +14,13 @@ Why the exodus? Principle is presumably part of it. So is peer pressure, which i
 
 If ad dollars move elsewhere, possible beneficiaries include smaller rivals like Snapchat, Pinterest and TikTok, as well as YouTube, owned by Google. Some advertisers may even go back to quaint things like newspapers and TV, believes Andrew Lipsman of eMarketer, a research firm.
 
+
+
 ![](./images/20200704_WBC249.png)
 
 Yet the damage to Facebook is likely to be small. After a brief boycott-induced dip its share price is back up near its all-time high. Its $70bn ad business is built on 8m advertisers, most of them tiny companies with marketing budgets in the hundreds or thousands of dollars and often reliant on Facebook as an essential digital storefront. The 100 largest advertisers on the site account for less than 20% of total revenue, compared with 71% for the 100 largest advertisers on American network television (see chart 1). And so far only a handful of Facebook’s top 50 ad-buyers have joined the boycott (see chart 2).
+
+
 
 ![](./images/20200704_WBC284.png)
 

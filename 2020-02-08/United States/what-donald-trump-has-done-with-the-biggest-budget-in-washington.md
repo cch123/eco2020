@@ -22,6 +22,8 @@ The first of these tasks illustrates the strangeness of the Trump administration
 
 At first the Department of Justice declined to defend the main provisions of the law, leading one of its senior lawyers to resign. Later it hardened its position, and announced that the department agreed that the ACA had to go in its entirety. In a remarkable bit of up-is-downism, the president claims to be keeping the popular bits of Obamacare, such as the protections for patients with pre-existing conditions, safe from Democrats—at the same time as his justice department is pushing to eliminate those very protections.
 
+
+
 ![](./images/20200208_USC119.png)
 
 This has put HHS in a bind—duty-bound to implement a law that the president desperately wishes to overturn. One way it has circumvented the law’s spirit, if not its letter, has been to make it possible for organisations to offer health-insurance plans exempt from ACA rules that are cheap but prone to break down when they are most needed. These include faith-based medical plans that offer “Christian health care” with discretionary payouts. HHS has done a few other things to undermine Obamacare without actually flouting it. “I think there is a continued effort to—either by regulation, incompetence or intentional effort—undermine outreach and enrolment, which ultimately undermines the market,” says Kathleen Sebelius, Barack Obama’s first health secretary. The share of Americans who are uninsured fell steadily in Mr Obama’s second term. After 2016 that improvement ceased (see chart).

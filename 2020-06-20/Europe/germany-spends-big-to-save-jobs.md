@@ -16,6 +16,8 @@ Second, no one knows when the effects of the pandemic will end, or whether there
 
 Nearly all pundits agree that Kurzarbeit is a useful tool. Alexander Herzog-Stein of the Hans Böckler Institute, a think-tank close to trade unions, likens it to a bridge—“but there must be a shore on the other side.” The German scheme is limited to 12 months. The state usually pays 60% of net wages (67% for employees with children), though the government recently decided to raise those contributions incrementally to a maximum of 80% (and 87%) for employees who have been furloughed for seven months or more. During the financial crisis many furloughed workers had well-paid jobs at manufacturing plants. This time, many come from low-paid jobs in retail or hospitality. They would find it hard to make ends meet on 60% of their pay.
 
+
+
 ![](./images/20200620_EUC141.png)
 
 The German scheme has been doing the trick. The registered unemployment rate rose to 6.3% in May, up from 5.8% in April. But mass lay-offs have been avoided. The same goes for furlough programmes in France, Italy, the Netherlands and Spain. France’s chômage partiel was benefiting 8.6m workers at the end of April. The state pays up to 84% of net salary, to a ceiling of €4,608 a month. Employees on the minimum wage still get the full amount. As with the German scheme, it is flexible: firms can claim just a part of a worker’s salary if he or she is putting in reduced hours.

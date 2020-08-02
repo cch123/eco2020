@@ -4,6 +4,8 @@
 
 > Apr 23rd 2020
 
+
+
 ![](./images/20200425_WWC313.png)
 
 Oil prices tanked amid forecasts that demand will tumble this year. Brent crude dropped below $16.50 a barrel, a two-decade low. May contracts for West Texas Intermediate, the benchmark for American oil, fell into negative territory for the first time, plunging at one point to -$40 a barrel, meaning traders in effect paid for someone else to hold the commodity. Concern that storage facilities at a key delivery point were full, just as the contracts were due to be settled, added to the panic. Prices surged later in the week after Donald Trump stoked tensions with Iran. See [article](https://www.economist.com//finance-and-economics/2020/04/25/oil-markets-have-a-timing-problem).

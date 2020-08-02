@@ -14,6 +14,8 @@ The negotiations were oiled by an unexpected rapport between the two party leade
 
 To help sugar these pills, the Greens obtained one of Europe’s more ambitious climate-change programmes, including a pledge for carbon neutrality by 2040 and a plan to price emissions by 2022. They secured sharper party-financing rules and more aid spending, and will run a jumbo environment, energy and transport ministry. Party officials, eager for power after the wilderness years, backed the deal with gusto. Yet the Greens could have squeezed more out of Mr Kurz, says Thomas Hofer, an Austrian analyst. The coalition is less a meeting of minds than a division of fiefs.
 
+
+
 ![](./images/20200111_EUC015.png)
 
 It also helps the 33-year-old Mr Kurz cement his reputation as Austria’s changemaker-in-chief. He is once again the world’s youngest leader, and yet already a gnarled veteran of Austrian politics, earning over nine years in government a reputation as a smart tactician and political bruiser. Greens either distrust him or, eyeing the woes of his previous coalition partners, fear him. Immigration could yet prove a flashpoint. A curious clause in the coalition deal allows Mr Kurz to make common cause with the FPÖ in the event of a migration “emergency”. Yet the Greens’ hunger to replace the floundering Social Democrats as Austria’s chief progressive force, and to keep the FPÖ out, will help bind the coalition together.

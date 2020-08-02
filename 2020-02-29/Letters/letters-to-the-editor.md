@@ -16,11 +16,15 @@ This is a crucial year in which world leaders will explore a new deal for nature
 
 DAME POLLY COURTICEDirectorInstitute for Sustainability LeadershipUniversity of Cambridge 
 
+
+
 ![](./images/20200208_BBD001.jpg)
 
 You suggest that today’s bosses must “be physically fit to withstand the brutal workload” (“[Take me to a leader](https://www.economist.com//briefing/2020/02/06/corporate-headhunters-are-more-powerful-than-ever)”, February 8th). This is a modern prejudice. Is there any evidence that fitter bosses are higher performing? Sergio Marchionne and Herb Kelleher were chain- smokers who transformed their industries (cars and airlines). Bill Gates possibly skips cross-fit. And Warren Buffett proudly claims to eat “like a six-year-old”. Being fit is good in itself, but there is no concrete conclusion that CEOs absolutely need to be highly athletic. Good looks are surely a powerful halo effect, but let’s not bar bread-eaters from the corporate suite just yet.
 
 CONAL CAMPBELLCelbridge, Ireland
+
+
 
 ![](./images/20200208_FND000.jpg)
 
@@ -30,6 +34,8 @@ Why should policymakers, never mind economists, want to change these preferences
 
 PROFESSOR JOHN STADDONDepartment of Psychology and NeuroscienceDuke UniversityDurham, North Carolina
 
+
+
 ![](./images/20200215_MAP502_0.jpg)
 
 Your article on Qatar did not reflect the reality of freedom of expression in the country and a law that has been amended to prevent the spread of false and malicious information (“[Tamim the gloriously tolerant](https://www.economist.com//middle-east-and-africa/2020/02/13/qatar-the-gulf-emirate-famed-for-openness-is-silencing-critics)”, February 15th). Similar legislation exists in many democratic countries. In France a law was introduced in 2018 to tackle the manipulation of information and its deliberate dissemination. As the target of sustained state-sponsored disinformation campaigns, “deep fakes” and cyberattacks, Qatar understands the dangers of information manipulation better than anyone. In line with the UN’s covenant on civil and political rights, to which Qatar is fully committed, this amendment was passed as a protection against major, co-ordinated hacking and disinformation operations trying to fracture the region. It is not open to abuse and will not limit expression, speech or reporting in or about Qatar.
@@ -38,11 +44,15 @@ No country has done more than Qatar to improve media freedom in the region. The 
 
 THAMER AL THANIDeputy directorGovernment Communications OfficeDoha, Qatar
 
+
+
 ![](./images/20200208_BKP005.jpg)
 
 There are a lot of 75th commemoration events marking the second world war. One incident less famous than Dresden (“[The inferno](https://www.economist.com//books-and-arts/2020/02/06/the-destruction-of-dresden-the-florence-of-the-elbe)”, February 8th) was commemorated in the Dutch village of Putten last year. In early October 1944, 600 men were sent to German work camps in retaliation for the killing of a German officer by the resistance. Few returned. I was only five at the time but I still have vivid memories of the episode. Lots of similar stories can be told about other villages in occupied Europe that have gone mostly unreported. A recent novel, “The Weeping Woman of Putten” by Alyce Bailey, tells the tale.
 
 WALTER SCHUITTorrejón de Ardoz, Spain
+
+
 
 ![](./images/20200201_BRD000.jpg)
 
@@ -54,11 +64,15 @@ Bagehot described Mark Francois as the “Captain Mainwaring of the European Res
 
 JOHAN ENEGRENStockholm
 
+
+
 ![](./images/20200208_WWP002_0.jpg)
 
 The picture accompanying the news on Brexit in [The world this week](https://www.economist.com//the-world-this-week/2020/02/08/politics-this-week) (February 8th) showed a number of Brexit supporters waving Union Flags that were upside down. As this is a recognised way of signalling distress, are they perhaps reflecting the belief of many in the country that trouble lies ahead?
 
 CHARLES MORTELMANLondon
+
+
 
 ![](./images/20200125_WBD001.jpg)
 

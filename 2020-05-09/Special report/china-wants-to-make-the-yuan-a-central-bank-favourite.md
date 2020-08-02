@@ -50,6 +50,8 @@ Crucially for China’s end goal, central banks are also warming up to the yuan.
 
 Two factors could tip them into action. First, the yuan appears to be influencing exchange-rate fluctuations around the world. Recent research by IMF scholars finds the “yuan bloc” to account for 30% of global GDP—second only to the dollar, at 40%. Central banks pick reserve currencies closely tied with their own.
 
+
+
 ![](./images/20200509_SRC198.png)
 
 Second, China has opened a fresh breach in its capital controls, and money is streaming in (see chart). In 2017 the country launched Bond Connect, which allows foreigners to invest in onshore bonds through Hong Kong, and scrapped investment quotas. Last year it also authorised international credit-rating agencies. That, plus rising domestic demand for listed securities, has convinced the world’s most popular index providers to phase Chinese bonds into their benchmarks. This helped draw $60bn of foreign money into government bonds in 2019, a flow that covid-19 has not stopped. Some 1,900 overseas investors are registered to Bond Connect, up from 700 a year ago.

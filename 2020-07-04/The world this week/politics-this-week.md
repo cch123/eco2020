@@ -40,6 +40,8 @@ Ireland got its first-ever coalition government between its two historic main pa
 
 Britain’s prime minister, Boris Johnson, invoked the spirit of Franklin Roosevelt when he announced a “new deal” to rebuild the economy. Many of the “new” projects are already in the pipeline. Mr Johnson has urged his countrymen to go to their local for a pint when pubs reopen on July 4th. See [article](https://www.economist.com//node/21788924).
 
+
+
 ![](./images/20200704_WWC016.png)
 
 More states in America reimposed lockdowns amid a surge in covid-19. The number of daily cases nationally passed 50,000 for the first time. In California, which had been considered an early success, restaurants and other businesses in 19 counties were ordered to shut. In Arizona, where infections have doubled in the past two weeks, the governor ordered gyms, bars and cinemas to close again for at least a month. See [article](https://www.economist.com//united-states/2020/07/04/its-messing-with-texas).

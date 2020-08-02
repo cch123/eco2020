@@ -30,6 +30,8 @@ Perseverance carries two instruments in particular that are intended to examine 
 
 Mapping SHERLOC’s chemical analyses onto WATSON’s high-resolution images will show how different mineral layers are arranged and textured. That will be a big improvement over the instruments on board NASA’s current operational Mars rover, Curiosity, which arrived in 2012. These are capable only of grinding up rocks to work out whether or not organic molecules are present in the bulk material. If there are stromatolites (or even fossils of more complex creatures) Perseverance will be able to see them, both chemically and optically.
 
+
+
 ![](./images/20200725_STM929_0.png)
 
 As did Curiosity, Perseverance will rely on an autopilot to guide it through the atmosphere to the planet’s surface, after arriving at a velocity, relative to its target, of 19,500km per hour. “We refer to it as the seven minutes of terror,” says Matt Wallace, an engineer who is the mission’s deputy project manager. The rover’s autonomy will then carry over to its everyday operations. Because of the time it takes radio waves to travel from Earth to Mars, Perseverance will receive instructions only once a day. On the ground on Mars it will need to find and avoid awkwardly placed rocks, and also more serious hazards, such as cliffs, by processing, in real time, pictures coming from its 23 cameras. This autonomy, NASA is confident, will permit the new rover to cross the Martian surface routinely and safely at a speed of around 150 metres per hour, double that at which Curiosity is usually allowed to travel.
@@ -57,6 +59,8 @@ Rosalind Franklin’s scientific payload will be capable of much more sophistica
 Previous attempts to study organic molecules on Mars have been plagued by the presence of chemicals called perchlorates. These were first seen in 2008, by NASA’s Phoenix lander, and were confirmed by Curiosity half a decade later. Those missions baked their Martian samples in ovens, to release the organics. That also released chlorine and oxygen from the perchlorates, and these oxidised most of the organic molecules present. MOMA will circumvent this problem by using an ultraviolet laser that will knock organic molecules off rock samples so fast that any perchlorates present will not have time to decompose.
 
 Rosalind Franklin’s most important tool, however, will be a drill that can collect samples from two metres below the surface. This is crucial for recovering material in which organic molecules can be found in a good state of preservation. The thin Martian atmosphere is easily penetrated by ionising radiation from space. This slams into the surface and even travels a little way beneath it. As Jorge Vago, ExoMars’s lead scientist, observes, “Over many millions of years, this ionising radiation acts like gazillion little knives slowly cutting away the functional groups of the organic molecules you would like to hopefully discover.” Use a drill to go deep enough, though, and material it collects will have been protected from radiation by several metres of rock. ESA’s modelling suggests that samples from 1.5 metres down would be scientifically interesting. The deepest any mission has so far sampled under the surface of Mars is a few centimetres.
+
+
 
 ![](./images/20200725_STP002_0.jpg)
 

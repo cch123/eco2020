@@ -14,6 +14,8 @@ ON MOST SOCIAL, political and economic issues, Europe divides into north and sou
 
 Growth in the number of cases in Britain is now slowing, but as The Economist went to press, 12,868 people were confirmed to have died from covid-19 in hospital. Although Britain looks to be some way off the peak in France (see chart), France’s figures include deaths that occur in care homes—nearly half the total—while Britain’s do not.
 
+
+
 ![](./images/20200418_BRC226.png)
 
 A clearer picture of the pandemic requires evidence of its impacts on all deaths, including those as a result of measures introduced to stop its spread. More detailed, though lagging, data from the Office for National Statistics suggest that many more are dying both of other causes (as trips to hospitals are put off) and outside of hospitals (often in care homes). On the week ending April 3rd, there were 16,387 deaths, more than a third higher than normal at this time of year. Excess deaths in Britain are in the same range as those in France, Spain and Italy at a similar point.

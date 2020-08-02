@@ -6,6 +6,8 @@
 
 > Mar 14th 2020
 
+
+
 ![](./images/20200229_LDD002_0.jpg)
 
 “It will surprise nobody”, you said, “that we disagree with a self-described democratic socialist over economics” (“[America’s nightmare](https://www.economist.com//leaders/2020/02/27/bernie-sanders-nominee)”, February 29th). But, as a 40-year subscriber to The Economist, I was indeed surprised by your leader on Bernie Sanders. I have always valued your commitment to free trade and to socially liberal policies: universal education, efficient and affordable health care, legalisation and control of drugs, workplace equality, broad immigration and integration, and so on.
@@ -26,11 +28,15 @@ Mr Sanders is indeed “convinced that he is morally right”. Yet I recall that
 
 STEVEN HONGNorth Vancouver, Canada
 
+
+
 ![](./images/20200222_LDP001_0.jpg)
 
 Besides the political and technological, there are plenty of other ways for Jeff Bezos to spend $10bn philanthropically on solving climate change (“[The great Bezos giveaway](https://www.economist.com//leaders/2020/02/22/jeff-bezos-wants-to-help-save-the-climate-here-is-how-he-should-do-it)”, February 22nd). You have reported, for instance, on the MethaneSAT project, which will police and shut down methane leaks from oil and gas operations globally, emissions which represent several per cent of the total climate warming effect (“The methane hunters”, February 1st). Perhaps the largest problem and thus biggest opportunity of all is the scale and cost of investment in solar, wind and energy storage projects, which must be constructed in emerging economies. Around $20trn must be invested in poorer areas of the world over the next ten years. Poor countries have spotty track records of respecting the rights of foreign investors, have weaker currencies and other challenges. Innovation in financing solar, wind and energy-storage projects in the form of “blended finance” is desperately needed to make these infrastructure investments more affordable for those who have, paradoxically, the highest cost of money today. The scale of the problem requires government intervention, but philanthropy on the $10bn scale can lead the way.
 
 ION YADIGAROGLUNew York
+
+
 
 ![](./images/20200229_AMD001.jpg)
 
@@ -42,6 +48,8 @@ The administration has a clear strategy. It is committed to eliminating inequali
 
 ROBERTO VELASCO áLVAREZDirector-general of public affairsMinistry of Foreign AffairsMexico City
 
+
+
 ![](./images/20200215_WBD002.jpg)
 
 The history of Chinese management education starts earlier than 1994 (“[MBAs with Chinese characteristics”](https://www.economist.com//business/2020/02/13/chinese-management-schools-are-thriving), February 15th). After diplomatic relations were established, Jimmy Carter’s science adviser in 1980 urged China to start the first management education programme at Dalian, a seaport. The costs for a new building and American faculty were shared equally by the two countries. Lectures were held in summer and autumn because of the poor heating. The audience was composed of nationally selected mid-level managers, economics and management professors (universities were closed during the Cultural Revolution) and Chinese government officials. The attendees’ level of English was quite low, so lectures were prepared in advance and translation was sequential. Some resulted in books which had as many as five printings.
@@ -49,6 +57,8 @@ The history of Chinese management education starts earlier than 1994 (“[MBAs w
 To learn that now China has its own executive programmes abroad in countries like Switzerland, teaching economics and management with capitalistic characteristics, reflects the miraculous changes which have occurred over 40 years.
 
 BERTRAND HORWITZAsheville, North Carolina
+
+
 
 ![](./images/20200222_STD002_0.jpg)
 

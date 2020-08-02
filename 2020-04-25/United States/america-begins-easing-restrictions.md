@@ -24,6 +24,8 @@ Throughout April the number of daily tests has averaged around 150,000, with the
 
 America also has a shortage of contact-tracers—people who investigate where someone caught the disease and who else he may have infected. Tom Frieden, who headed the Centres for Disease Control (CDC) until 2017, believes America needs 300,000. It currently has around 2,200. Some states and cities have begun training more, but not nearly enough (Wuhan alone had 9,000). America also lacks places to isolate the infected so they do not spread the virus to their families and neighbours.
 
+
+
 ![](./images/20200425_USM935.png)
 
 Indeed, the federal government’s own guidelines suggest that before a state reopens, it should see a declining number of covid-19 cases and positive tests over 14 days, and have in place a “robust testing programme”—criteria that none of the reopening states satisfies. Yet throughout the pandemic Mr Trump has played both sides: appearing onstage nightly with public-health experts and chastising Georgia’s governor for reopening too soon, while also encouraging anti-lockdown protesters on Twitter; claiming “total” authority while also saying, “I don’t take responsibility at all.” He seems to want to reap any public-health gains from the lockdown while forcing governors to accept culpability for any economic hardship.

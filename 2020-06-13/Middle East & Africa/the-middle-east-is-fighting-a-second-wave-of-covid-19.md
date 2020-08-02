@@ -12,6 +12,8 @@ ACROSS THE Middle East months of closures are giving way to an almost carefree n
 
 But the pandemic is not finished with them. Several countries have seen, if not yet a second wave, at least a worrying resurgence of cases. Infections and deaths have jumped in Iran, where authorities thought they had tamed one of the world’s worst outbreaks. Schools have become a vector for infection in Israel. In Saudi Arabia, where the first wave never broke, doctors report an unexpected surge in hospitalisations and deaths. However, governments are reluctant to shut down again just as their economies are sputtering back to life. Stopping a second wave may be harder than it was dealing with the first.
 
+
+
 ![](./images/20200613_MAC017.png)
 
 Iran was one of the first countries battered by covid-19. New cases peaked in April at around 3,000 a day (see chart). The president, Hassan Rouhani, resisted a full lockdown, fearing the damage it would do to an economy reeling from years of American sanctions. Even his government’s disorderly response helped tame the outbreak, though, and by May cases had dropped enough for restrictions to be largely lifted.

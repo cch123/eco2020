@@ -18,6 +18,8 @@ Veto use has risen. In the past five years Russia has wielded 14 vetoes, China f
 
 Its credibility is slipping. The arms embargo on Libya is ignored. Russia’s behaviour is a big worry. “The existential problem is that countries respect the decisions of the Security Council less and less,” says Karen Pierce, until recently Britain’s ambassador at the UN, now its ambassador in Washington. Normally the P5 is there to uphold the rules, says Ms Pierce, but, referring to Russia’s support for Syria, “for a P5 member to think it’s OK to condone the use of chemical weapons is quite a major shift.”
 
+
+
 ![](./images/20200620_SRC626.png)
 
 Could reform help? To ensure that the council remains representative, suggests Stewart Patrick of the Council on Foreign Relations, an American think-tank, “ideally you’d have something like the Premier League, with relegation and promotion.” But try agreeing on a formula. For over a decade, an intergovernmental group at the UN has grappled with how the council might take in more countries. Which ones? Should they be permanent with a veto, or non-permanent without one? Or perhaps something in-between, with longer non-permanent terms?
@@ -27,6 +29,8 @@ A group of four (G4) countries with the strongest claims to the top table—Braz
 In this process, you get “some of the most creative, passionate, articulate speeches that I see permanent representatives give,” says Lana Nusseibeh, the United Arab Emirates’ ambassador to the UN, who co-chairs the intergovernmental group, “because this issue speaks to their core national interests.” And even if new permanent members were agreed to, a bigger Security Council might not be more effective. Any change needs an amendment of the charter, which requires the votes of two-thirds of the General Assembly and the approval of the current P5. In short, many stars would have to align. In the meantime, lesser changes could help. For example, many would like the Security Council to become more transparent in its work.
 
 In the UN secretariat itself, reform is also a hard slog. Power rests in the member countries, which limit freedom of manoeuvre, not least over the budget. The regular budget of about $3bn (there is a separate one for peacekeeping) relies on national contributions, assessed through a formula based largely on economic size. America’s share, at 22%, remains the biggest, though China’s has risen fast, overtaking Japan’s. Once the budget is set, countries are supposed to pay up within 30 days. But roughly 30% of the money comes in the final two months of the year, creating the risk of a cash crunch in September, just when the UN hosts its General Assembly. It has a reserve of only about $350m and is not allowed to borrow. Last year escalators were switched off for a while at the New York headquarters to conserve cash. Earlier this year payments for peacekeepers were delayed.
+
+
 
 ![](./images/20200620_SRC637.png)
 

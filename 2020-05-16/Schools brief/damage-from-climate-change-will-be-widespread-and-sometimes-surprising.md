@@ -16,6 +16,8 @@ The risks that weather and climate pose to human life are not always as specific
 
 Not all the ways in which today’s weather harms people will be exacerbated by climate change. But research suggests that many of them will. Most of the problems people have with weather and climate come from extremes. When means shift a little, extremes can shift a lot (see chart). Today’s rare extremes become tomorrow’s regular disturbances; tomorrow’s extremes are completely new.
 
+
+
 ![](./images/20200516_SBC004.png)
 
 How damaging these impacts will be to the economic and physical welfare of humankind depends on how much warming takes place and how well people adapt—both of which are currently unknowable. But it is possible to get a qualitative sense of what they could mean by looking at the range of timescales over which they operate. At one end, a thunderstorm’s pollen surge, sweeping by in minutes; at the other, sea-level rise which could last longer than any civilisation in human history.

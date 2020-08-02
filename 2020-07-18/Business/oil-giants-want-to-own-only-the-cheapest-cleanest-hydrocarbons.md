@@ -14,6 +14,8 @@ BP’s eagerness to sell its Alaskan business reflects a broader shift. Oil and 
 
 The oil industry faces a basic problem. If the price of Brent crude, the global benchmark, surpassed $100 a barrel, about 90% of the world’s oil could be extracted with a return on capital of at least 10%, according to Rystad Energy, an energy-research firm. Today Brent fetches just over $40 a barrel, making about half the world’s oil reserves too costly to produce (see chart 1). Oil prices are expected to rebound as post-pandemic demand picks up, but by how much is fiercely debated.
 
+
+
 ![](./images/20200718_WBC486.png)
 
 ExxonMobil, an American behemoth that remains bullish on future fossil-fuel demand, has declined to write down its shale assets. The impairments announced by BP and Shell last month accompanied revisions to their forecasts for the price of Brent. Shell now expects a barrel to cost $40 in 2021 and $50 in 2022, down from the $60 it assumed in its most recent annual report. BP forecasts that Brent will average $55 from 2021 until 2050. Just a few months ago its central assumption for prices over the next 20 years was $70. BP’s outlook for gas prices at Henry Hub, a benchmark for that commodity, has darkened, too, from a long-term average of $4 to $2.90 per million British thermal units.
@@ -21,6 +23,8 @@ ExxonMobil, an American behemoth that remains bullish on future fossil-fuel dema
 For some petrostate-owned oil firms, current prices are high enough to keep drilling profitably but too low to balance national budgets (see [article](https://www.economist.com//middle-east-and-africa/2020/07/18/the-end-of-the-arab-worlds-oil-age-is-nigh)). Elsewhere high costs mean oil may simply remain below ground. In Canada only 42% of reserves can be produced with Brent at $60 a barrel, a share that falls to 16% at $40. The energy needed to extract and refine Canada’s thick bitumen makes its oil sands even less appealing. Angola in recent years passed tax incentives to promote offshore drilling, but Rystad now estimates that low prices and Angola’s relatively high costs will deter investment.
 
 The supermajors understandably desire resources that are resilient to price swings and to climate regulations being considered in many countries to discourage the use of the dirtiest fuels. They have worked to cut costs. Last year the average oil price needed to cover capital spending and dividends for the five biggest—ExxonMobil, Shell, Total, Chevron and BP—was less than half what it was in 2013, according to Goldman Sachs, a bank (see chart 2). The pandemic hit to demand has prompted further cuts to capital budgets. For some giants this coincides with a slow shift to cleaner energy. “We’re not about volume,” Bernard Looney, BP’s chief executive declared recently. “We’re about value.”
+
+
 
 ![](./images/20200718_WBC478.png)
 

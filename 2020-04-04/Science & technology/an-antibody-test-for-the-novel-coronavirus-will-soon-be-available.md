@@ -42,6 +42,8 @@ Antibody tests will no doubt also be in demand from members of the public wantin
 
 Even when more kits do become available (and with due acknowledgment to the different putative uses of different sorts of test) the next goal for most countries after protecting crucial members of the workforce will be population-level surveillance. This will, as a by-product, provide information to individual members of the public. But its primary purpose will be to track how the epidemic is progressing.
 
+
+
 ![](./images/20200404_STC086.png)
 
 One of the most important elements of this analysis will be determining the rate of silent infection—with all the implications that brings for herd immunity. Comparing recent test data from the Netherlands and Iceland hints at the gap in current knowledge of just how much silent infection there may be. Both countries use genetic testing for the virus, but the Netherlands only tests those with severe symptoms of covid-19, whereas Iceland has been testing widely, even people without symptoms. Unsurprisingly, but crucially, the Icelandic approach has revealed far more infections in younger people than the Dutch one (see chart). Moreover, according to Kari Stefansson, who is leading the Icelandic project, 50% of those who have tested positive reported no symptoms.

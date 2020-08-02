@@ -28,6 +28,8 @@ He has a point. Chinese e-commerce sales could expand by 16% this year, to 14.4t
 
 Central to the firm’s ascent is the concept of social shopping, which it describes as a fusion of Costco and Disneyland. Products are cheaper if you buy in bulk with fellow bargain-hunters. Users can join existing groups or invite pals using WeChat, a social-messaging app owned by Tencent (which holds a 16% stake in Pinduoduo). Merchants sacrifice margins in exchange for higher volumes.
 
+
+
 ![](./images/20200711_WBC338.png)
 
 Colin Huang, Pinduoduo’s founder, who once worked as an engineer at Google in America, did not invent group shopping; Groupon has been doing a version of it since 2008. But he did develop the idea, for instance introducing games which reward players with credits on future purchases.

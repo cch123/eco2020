@@ -12,6 +12,8 @@ IN MARCH PROSPECTS for the Philippine economy were darkening. The country’s co
 
 It helped that the oil price was plunging (and consumption within the country was falling), dramatically cutting the Philippines’ import bill. The BSP did cut interest rates to keep credit flowing, which in normal times might have caused the peso to weaken. But Nicholas Mapa of ING, a bank, thinks foreign investors held on to Philippine assets because interest rates remain higher than in rich countries, yet the Philippines is seen as a safer bet than most other emerging markets.
 
+
+
 ![](./images/20200725_ASC246.png)
 
 In part that is because remittances, which keep the economy afloat, have held up quite well so far. They fell by only 3% in the first four months of 2020. Inflows can even increase during periods of domestic economic weakness, as the diaspora responds to distress calls from home. Gareth Leather of Capital Economics, a consultancy, points out that lots of Filipino expatriates work in health care, and so are likely to retain their jobs even as migrants working in construction, say, lose theirs.

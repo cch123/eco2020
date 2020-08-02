@@ -14,11 +14,15 @@ Oil could change Guyana as radically as did sugar, which brought African slaves 
 
 Guyana, which has just 780,000 inhabitants, is better known for its problems than its successes. It has the world’s third-highest suicide rate and the highest rate of maternal mortality in South America. One reason is that it loses talent, including doctors and nurses. Its diaspora is nearly as large as its population. At least four-fifths of its university graduates leave the country. Children spend 12 years in school on average, but education is so poor they learn less than seven years’ worth of material. Most of the population, including that of Georgetown, the capital, is on the low-lying coast that is vulnerable to flooding. Two-fifths live on less than $5.50 a day.
 
+
+
 ![](./images/20200229_AMM976.png)
 
 Oil riches could make life much better, but most Guyanese do not feel as if they have hit the jackpot. “We don’t know when oil comes whether we will get it or not,” says Hasser Bacchus, who lost his job cutting cane for GuySuCo, the state-owned sugar producer, which in 2017 shut down four estates and sacked 7,000 workers. He now ekes out a living plucking razor grass from abandoned sugar-cane fields in Wales, alongside the Demerara river, which he sells for bird seed at 200 Guyanese dollars (96 cents) a bundle. Alex Paul Singh, a former sugar worker who sells chickens by a roadside, thinks “oil could help Guyana a lot.” But if it’s not properly managed Guyana could become “like Nigeria or Venezuela”, whose oil-rich economies are subverted by corruption. Almost every Guyanese seems to be aware that, like a downpour on parched ground, a torrent of oil money could bring destruction rather than relief.
 
 That worry makes Guyana’s polarised politics even more rancorous, which in turn increases the risk that the money will be misspent. The election is a delayed reaction to a vote of no-confidence in the government in 2018. That was caused by the defection of an Indo-Guyanese MP who belonged to the Alliance for Change (AFC), the junior partner of President David Granger’s A Partnership for National Unity (APNU), itself an alliance of parties. The government manoeuvred to postpone the election for a year. That infuriated the PPP and has delayed many of the decisions that a country on the cusp of oil riches would be expected to make.
+
+
 
 ![](./images/20200229_AMC455.png)
 

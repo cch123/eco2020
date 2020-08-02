@@ -24,6 +24,8 @@ Mr Guedes wants to roll all this back. He proposes to simplify the tax system ra
 
 Mr Bolsonaro’s government made a start on this agenda, with a constitutional reform of the pension system. This will save the government 855bn reais ($210bn) over ten years and lessen the danger that public debt will reach crippling levels. As the reform took shape in 2019 confidence grew, leading to a recovery in investment (see chart). The economy grew by 0.6% between the second quarter and the third, more than expected. Annual growth for 2020 is forecast to be at least 2%. That may make Brazil one of Latin America’s fastest growing economies.
 
+
+
 ![](./images/20200104_AMC848.png)
 
 But there are reasons to withhold applause. One is that the democratic governments that took over after the end of military rule in 1985 accomplished more than Mr Guedes gives them credit for. It was the Real Plan of Itamar Franco, president from 1992 to 1994, that finally licked inflation. Pension reform began under the left-wing Workers’ Party, which governed from 2003 to 2016, and Mr Bolsonaro’s predecessor, Michel Temer, put a constitutional cap on public spending.

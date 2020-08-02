@@ -16,6 +16,8 @@ The plan Mr Trump’s administration presented was unexpectedly detailed, with m
 
 Israel would keep control of the Jordan valley and most of Jerusalem. The Palestinian capital would be established in a few grim neighbourhoods, such as Abu Dis and Shuafat, that sit on the other side of a hulking concrete separation barrier. No Palestinian refugees would be allowed to return to Israel, only to Palestine or unnamed Muslim countries that would accept up to 50,000 each. Israel would commit not to build new settlements in the land allocated for a future Palestine for four years; in return, though, it received an implicit American recognition of its claims to the rest of the West Bank. Mr Netanyahu declared that Mr Trump was “puncturing this big lie” that Jewish settlements in the West Bank were illegal. His cabinet may begin voting in early February to annex some of the American-allocated land.
 
+
+
 ![](./images/20200201_MAM801.png)
 
 The Palestinians rejected the proposal outright. It will end up “in the dustbin of history”, says the president, Mahmoud Abbas. His reaction should be no surprise. There is much to criticise about the decrepit Mr Abbas, now in the 16th year of what was meant to be a four-year term. But no Palestinian leader could accept a deal that in effect cedes Jerusalem and relegates his people to further statelessness. Far from a good-faith effort to solve the conflict, Mr Trump’s plan was a sop to hawkish ideologues in Jerusalem and Washington.

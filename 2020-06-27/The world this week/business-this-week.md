@@ -28,6 +28,8 @@ The British government confirmed that pubs, restaurants and other services such 
 
 Perhaps those looking to get away from it all could look to space. Virgin Galactic signed a deal with NASA this week to prepare a plan for taking fee-paying passengers to the International Space Station. That may take some time; the company has yet to take space tourists on its less arduous suborbital flights.
 
+
+
 ![](./images/20200627_WWC216.png)
 
 The pandemic has stranded many workers at home, and also sent millions to the unemployment line. But that has meant tech giants have done well as home offices are kitted out with equipment and people communicate remotely. The soaring stock of those companies, and others, has increased the wealth of their bosses and, as a consequence, America has gained nearly 30 new billionaires since March, according to the Institute for Policy Studies, a left-leaning think-tank. The top five are thought to be 26% richer collectively than before covid-19.

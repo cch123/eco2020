@@ -32,13 +32,19 @@ What, then, prompted the social explosion? “There are many theories,” says M
 
 A third view, common on the left, is that the country is rebelling against inequality, which, it is claimed, is entrenched by Pinochet’s “neoliberal” economic “model”. This gave private enterprise free rein and confined the state to a subsidiary role, even in providing social services. By OECD standards, though not those of Latin America, income inequality is indeed wide (see chart 1). “You can’t go through a process of rapid growth and capitalist modernisation and persist with pre-capitalist levels of inequality and absence of meritocracy and social mobility,” says Mr Landerretche. Yet income distribution has improved this century.
 
+
+
 ![](./images/20200314_AMC658.png)
 
 A fourth theory highlights political failures. During the second government in 2014-18 of Michelle Bachelet, a Socialist, much of the left disowned its own past work of gradual, consensual reform, propagating the view that it was a failure. As for Mr Piñera, he and his team, who come from a privileged slice of society, lack political skills and empathy with the masses. In their first 18 months in office, they failed to get promised tax and pension reforms through Congress, where the opposition has a majority. Polls now put the president’s popularity at 6-12%. But they reveal a broader abyss between the people and the system: trust in institutions, from the police to the press and the politicians to the churches, has evaporated (see chart 2).
 
+
+
 ![](./images/20200314_AMC681.png)
 
 “It’s not [about] 30 pesos, it’s about 30 years of abuses,” goes a popular slogan. Considered more broadly, inequality is indeed at the heart of the matter. It “isn’t just about income, it’s about place, gender, skin colour, where you live, what school you went to, what surname you have,” says Heraldo Muñoz, who leads the centre-left Party for Democracy. “The explosion is against the arrogance of the elite.” More concretely, discontent is focused on pensions, health care and the privileges of a small minority (see chart 3). These mean that being “middle-class” in Chile often means receiving second-class services.
+
+
 
 ![](./images/20200314_AMC690.png)
 
@@ -51,6 +57,8 @@ Ms Bachelet introduced a safety net in the form of a basic pension for the poor 
 The dictatorship set up a segregated health service. All those in jobs pay a contribution of 7% of salary for health care. In theory, they are free to use that to join private health schemes (with no waiting lists) known as Isapres. But these demand often large additional payments. The Isapres cream off people “with better health and more money”, according to Carolina Velasco of the Centro de Estudios Públicos, a think-tank. Some 77% of the population relies on the public system (known as Fonasa). This is short of money and doctors, so waiting lists are long. “In Chile 25,000 people a year die while waiting for medical treatment,” says Germán Codina, the mayor of Puente Alto, a poor district in Santiago, who is from President Piñera’s National Renovation party.
 
 Then there is the problem of medicines. Fonasa provides some free but there are “queues of up to eight hours to get them, and sometimes they don’t have it”, says Ms Velasco. In 2009 the three main pharmacy chains, which control 90% of the market, were found guilty of price collusion. Even today, prices of over-the-counter drugs are wildly inflated. To take one example, a steroid nasal spray costs $51 in Santiago, compared with $22 in Lima and $13 in Madrid.
+
+
 
 ![](./images/20200314_AMP002_0.jpg)
 

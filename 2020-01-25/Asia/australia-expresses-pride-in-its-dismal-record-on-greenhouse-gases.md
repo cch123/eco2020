@@ -12,6 +12,8 @@ AUSTRALIA’S CONSERVATIVE coalition government has a favourite new catchphrase.
 
 Australia’s goal under the Paris agreement is to reduce emissions to 26-28% below the level of 2005 by 2030. A previous Liberal government seems to have come up with that target by mimicking America’s pledge, but giving itself an extra five years to achieve it. The European Union, in contrast, promised to cut to 40% below the level of 1990 by 2030—a much tougher target.
 
+
+
 ![](./images/20200125_ASC370.png)
 
 Despite the government’s talk, Australia will not meet its modest aim. Its dependence on cars and coal-fired power makes it one of the world’s biggest emitters relative to population. Its emissions have hardly budged in the six years since the Liberals came to power (see chart). On the government’s own projections, they will fall by only about 16% by 2030, to 511 megatonnes a year, well above the required 447.

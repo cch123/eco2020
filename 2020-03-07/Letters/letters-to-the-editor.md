@@ -6,6 +6,8 @@
 
 > Mar 7th 2020
 
+
+
 ![](./images/20200125_LDP002_0.jpg)
 
 “[How to handle Huawei](https://www.economist.com//leaders/2019/01/31/how-to-handle-huawei)” (January 25th) called for the adoption of encryption as a way to mitigate the threat of snooping by Chinese tech firms. Although end-to-end encryption can secure communications, it also hinders lawful interception, such as the ability of a country’s police and intelligence agencies to monitor calls. This is a power that even democratic governments are reluctant to lose. Once lawful interception is part of a phone network, it is difficult to secure confidentiality in communications. For example, in 2004 Ericsson’s mobile-phone exchanges in Greece were hacked to reroute calls made by government officials to an array of shadow phones linked to another country, using lawful intercepts.
@@ -13,6 +15,8 @@
 Furthermore, end-to-end encryption does not secure metadata, such as a phone’s location or the caller’s identity. Both can be valuable to a foreign power. Finally, all arguments regarding voice-call security will become irrelevant, as ever more communications take place over internet platforms, such as Skype, WhatsApp or Viber. We live in a complex world.
 
 DIOMIDIS SPINELLISProfessor of software engineeringAthens University of Economics and Business
+
+
 
 ![](./images/20200215_FBD001.jpg)
 
@@ -30,6 +34,8 @@ It now looks more likely that the goal of a united Ireland pursued by Irish repu
 
 ANDREW LINDGRENSan Francisco
 
+
+
 ![](./images/20200222_ASD001.jpg)
 
 Chinese Singaporeans used to speak varied dialects, but Mandarin was not alien to them ([Banyan](https://www.economist.com//asia/2020/02/22/singapore-has-almost-wiped-out-its-mother-tongues), February 22nd). Already by the 1950s, Mandarin was the dialect taught in Chinese-medium schools in Singapore, and the standard dialect in China. However, over the years, parents increasingly sent their children to English-medium schools in the hope of securing better jobs for them. Had the government done nothing, the decline of Mandarin and all other dialects would have been rapid and drastic. Instead, Singapore adopted a bilingual education policy and required all Chinese students to study Mandarin as a second language.
@@ -41,6 +47,8 @@ But it is not realistic to expect Chinese Singaporeans to learn English, Mandari
 I join Banyan, though, in lamenting the lack of adequate Mandarin equivalents for many colourful dialect expressions, and regret that English is an even poorer substitute for swearing.
 
 FOO CHI HSIAHigh commissioner for SingaporeLondon
+
+
 
 ![](./images/20200215_BKP011.jpg)
 
@@ -59,6 +67,8 @@ GARY FLEMINGNew Orleans
 The world this week ([February 22nd](https://www.economist.com//the-world-this-week/2020/02/22/politics-this-week)) mentioned that the best military minds in Brazil are trained on what they believe to be the biggest threat to their country over the next 20 years: France. Are you sure they are not thinking about football?
 
 PASCAL LECCIASingapore
+
+
 
 ![](./images/20200208_EUP002.jpg)
 

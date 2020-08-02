@@ -34,6 +34,8 @@ This points to the paradox at the heart of solitude, which, as Mr Vincent says, 
 
 Even voluntary solitude can foster mental illness. In the early modern period John Evelyn warned that solitude “creates witches”. Samuel-Auguste Tissot feared it led to masturbation and all that masturbation entails, “melancholy, sighing, tears, palpitations, suffocations and faintings”. The first great book devoted to solitude, by George III’s personal doctor, Johann Georg Zimmerman, was titled “Solitude Considered with Respect to its Dangerous Influence Upon the Mind and Heart” (1791). Joseph Conrad condemns his character Nostromo to die of solitude, “the enemy known but to few on this Earth, and whom only the simplest of us are fit to withstand”.
 
+
+
 ![](./images/20200502_BKD002_0.jpg)
 
 Given its power to break the spirit, loneliness has inevitably been used as a punishment. Pentonville, Britain’s first model prison built on Utilitarian principles, confined all prisoners in solitary cells, though it dropped the face masks that, in Jeremy Bentham’s original design, they were supposed to wear to stop them communicating during meals. The most extreme use of solitary confinement was in a wing of a state prison in Auburn, New York, where inmates were confined in total solitude, with no exercise and no human contact of any kind. Gustave de Beaumont and Alexis de Tocqueville were appalled when they visited the place in 1833: “In order to reform them they have been submitted to complete isolation; but this absolute solitude, if nothing interrupt it, is beyond the strength of man; it destroys the criminal without intermission and without pity; it does not reform, it kills.”

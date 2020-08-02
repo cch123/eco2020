@@ -14,6 +14,8 @@ Yet a new government in Israel, sworn in on May 17th, may bring this period of c
 
 Donald Trump, America’s president, gave Mr Netanyahu a push in January when his administration released a peace plan that would have Israel maintain control of all of Jerusalem and take parts of the West Bank, where Israel has dozens of settlements, and all of the Jordan Valley (see map). In his inaugural speech Mr Netanyahu sounded eager “to write a glorious new chapter in the history of Zionism”. But currently he is focused on restoring “jobs, jobs, jobs” to an economy hit hard by the virus—and fighting corruption charges in a trial that begins on May 24th. He has not specified a timetable for annexation, and when he spoke to his new ministers he didn’t list it as a priority. “It was a good election gimmick for Netanyahu to rally his base,” says a minister. “And it worked. But I don’t think he’s going to go through with it. Perhaps he’ll make do with a symbolic annexation of a couple of settlements.”
 
+
+
 ![](./images/20200523_MAM800.png)
 
 Mr Netanyahu’s new partners are also sounding cautious. Gabi Ashkenazi, the foreign minister (and an ally of Mr Gantz), says the Trump plan is a “historic opportunity”, but that Israel will proceed “responsibly, in co-ordination with the United States, while safeguarding peace agreements and Israel’s strategic interests”. Mr Ashkenazi is concerned about Jordan, which is at peace with Israel and is home to millions of Palestinians. King Abdullah of Jordan worries that annexation would kill any hope of a two-state solution and stir up his own Palestinian subjects.

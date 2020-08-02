@@ -16,6 +16,8 @@ Delta reported a pre-tax loss of $7bn in the second quarter, the second largest 
 
 The British government announced plans to spend £705m ($888m) on extra border infrastructure, including the construction of a 27-acre (11-hectare) lorry park in Kent for cross-border checks to take place. Britain is preparing for the imposition of trade controls between it and the European Union after the Brexit transition ends on December 31st. Even if a UK-EU trade deal is reached, officials calculate that firms will need to fill in an extra 215m customs declarations each year at an annual cost of about £7bn. See [article](https://www.economist.com//britain/2020/07/18/the-brexit-poster-campaign).
 
+
+
 ![](./images/20200718_WWP002.jpg)
 
 The European Union’s second-highest court dealt Apple a victory, declaring it will not have to pay a €13bn ($14.8bn) Irish tax bill. The ruling overturns a decision made in 2016 by the European Commission and presents its head of competition, Margrethe Vestager, with a challenge as she investigates national tax deals.

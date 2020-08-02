@@ -30,6 +30,8 @@ Governments also erode the tax base by dishing out generous exemptions. Estimate
 
 How much more could African governments collect? The best estimates are that they lose revenues worth 2% of GDP through corporate-tax avoidance, of all kinds, and perhaps another 1-2% through individual wealth stashed offshore. The revenue forgone through tax expenditures is roughly 5% of GDP. It is neither feasible nor desirable to close all those gaps, so the realistic gains are smaller. Other measures, such as increasing compliance or expanding property taxes, could also add a few percentage points.
 
+
+
 ![](./images/20200111_MAC265.png)
 
 The IMF models the “tax capacity” of a country using variables such as average incomes, trade openness, and governance. On that basis it thinks that African governments could increase their revenues by 3-5% of GDP, which is more than they receive in aid (see chart). But in the past few years “there has been little progress,” says Papa N’Diaye of the IMF. The challenge is not starting tax reform, he adds, but sustaining it. Africa’s taxmen are in for a few more sleepless nights. ■

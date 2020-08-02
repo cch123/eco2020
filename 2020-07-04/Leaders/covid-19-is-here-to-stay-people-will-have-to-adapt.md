@@ -18,6 +18,8 @@ The worst is to come. Based on research in 84 countries, a team at the Massachus
 
 The actual outcome depends on how societies manage the disease. Here the news is better. Epidemiologists understand how to stop covid-19. You catch it indoors, in crowds, when people raise their voices. The poor are vulnerable, as are the elderly and those with other conditions. You can contain the virus with three tactics: changes in behaviour; testing, tracing and isolation; and, if they fail, lockdowns. The worse a country is at testing—and many governments have failed to build enough capacity—the more it has to fall back on the other two. Good public health need not be expensive. Dharavi, a slum of 850,000 people in Mumbai, tamed an outbreak (see [article](https://www.economist.com//international/2020/07/04/covid-19-is-here-to-stay-the-world-is-working-out-how-to-live-with-it)).
 
+
+
 ![](./images/20200704_LDC295.png)
 
 Treatments have improved, thanks to research and dealing with patients. Although mass vaccination is still months away at best (see [article](https://www.economist.com//britain/2020/07/02/oxford-university-is-leading-in-the-vaccine-race)), the first therapies are available. More is known about how to manage the disease—don’t rush to put people on respirators, do give them oxygen early. Better treatment helps explain why the share of hospital patients who went on to be admitted to intensive care fell in Britain from 12% at the end of March to 4% in mid to late May.

@@ -16,6 +16,8 @@ Such talk has become commonplace in the time of covid-19. Yet this scene has not
 
 Kerala has used the same simple, cheap tools to fight covid-19, with similarly stellar results. It was the first of India’s 36 states and territories to report a covid-19 case, a medical student who returned in January from Wuhan, the Chinese city where the epidemic started. By March 24th, when Narendra Modi, the prime minister, declared a nationwide lockdown to combat the disease, Kerala accounted for a fifth of India’s cases, more than any other state. Just six weeks later, it ranks 16th. As India’s active caseload has risen by a multiple of 71, Kerala’s has fallen by two-thirds (see chart). It has suffered just four deaths. Many of Kerala’s 35m people work abroad; 20 times more of them have died of the illness in another country than have at home.
 
+
+
 ![](./images/20200509_ASC378.png)
 
 With 95m people, Vietnam is a much bigger place. In dealing with covid-19, however, it has followed a strikingly similar script, with an even more striking outcome. Like Kerala it was exposed to the virus early, and saw a surge of infections in March. Active cases also peaked early, however, and have since tumbled to a mere 39. Uniquely among countries of even remotely similar size, and in contrast to such better known covid success stories as Taiwan and New Zealand, it has not yet suffered a single confirmed fatality. The Philippines, a nearby country of roughly the same population and wealth, has suffered more than 10,000 infections and 650 deaths.

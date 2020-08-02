@@ -16,6 +16,8 @@ Muddled and changeable though the government’s response to covid-19 has been, 
 
 Joël Mossong, head of epidemiology at the national health laboratory in Luxembourg, has studied social interactions in eight European countries, as recorded in special diaries. He found the same basic pattern everywhere: the young are much more sociable than the old. But the study also turned up differences between countries. On average, old Britons see many fewer young and middle-aged people than old Italians do (see chart).
 
+
+
 ![](./images/20200321_BRC753.png)
 
 That is probably because family life is so different. Despite complaints about a “boomerang” generation that goes to university and then lands back at home, young Britons are comparatively keen to get away. In 2018 just 16% of 25- to 34-year-olds lived with their parents, compared with 44% of Spaniards and 49% of Italians. Three-generation households are much rarer than in southern or eastern Europe. Britain has 28m households, of which 4m consist of a single person over 65, living alone. British social butterflies like Ms Moir go out to socialise; her Mediterranean equivalent would hold court over a busy home.

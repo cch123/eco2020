@@ -14,6 +14,8 @@ All present stressed that this was not an inauguration. MOSE, an acronym for Exp
 
 As an opening—or closing?—ceremony, this one was pretty bizarre. The mayor of Venice, Luigi Brugnaro, said MOSE was “not an example to be copied”. Indeed not: delays have put it nine years behind schedule and three times over its original budget. A bribes-for-contracts scandal in 2014 involved dozens of local politicians and executives of the consortium building it. Mr Conte was just as downbeat, saying, “Let’s all hope it works.”
 
+
+
 ![](./images/20200718_EUM923.png)
 
 But then caution is advisable. Whether MOSE will be as efficient in parting the seas as its biblical namesake is unclear. The latest test was carried out in ideal conditions: a far cry indeed from the 100kph winds and three-metre waves (60mph and ten feet) that tore into the lagoon last November. And while its giant, box-shaped “gates” go up, not all can currently go back down again into their housings on the sea floor, thanks to sand in the works—a problem that is as tricky to solve as it was seemingly easy to predict.

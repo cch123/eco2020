@@ -22,6 +22,8 @@ This was a land for birds, which grew large and in some cases lost the use of th
 
 According to one estimate, along with the moa and Haast’s eagle, over 50 other native species of animals and plants were driven to extinction. Some cling on, including the kiwi, which is nocturnal and so harder for people to hunt, and the kakapo, a flightless parrot whose population fell to around 50 in the 1990s but which the efforts of conservationists have now quadrupled. Until the discovery of Squawkzilla, kakapos were thought to be the world’s largest parrots, living or extinct.
 
+
+
 ![](./images/20200111_WOM921.png)
 
 The ancestors of New Zealand’s wildlife evolved when the place was rather different from today, explains Paul Scofield, the Canterbury Museum’s curator for natural history. The story begins around 80m years ago, when a mass of Earth’s crust split away from Australia and Antarctica. This was followed by the mass extinction that wiped out non-avian dinosaurs and many other species 66m years ago, at the end of the Cretaceous period. As most of what became New Zealand had been below sea level when it split with Australia and Antarctica, the land that subsequently emerged from the ocean was something of a blank canvas for evolutionary biology. Life was good, especially for birds. The terrain rapidly became covered with lush forests, providing plenty of food, and there was a balmy tropical climate with a warm sea full of corals, fish and giant turtles. In such an environment, Dr Scofield says, diversity exploded.

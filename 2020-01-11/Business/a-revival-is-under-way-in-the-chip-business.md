@@ -16,6 +16,8 @@ Now the slump seems to be ending. On January 8th Samsung predicted another fall 
 
 The nascent recovery reflects the nature of the chip business, where feast routinely follows famine. Despite its high-tech character, says Malcolm Penn, Future Horizons’s founder, the market for microchips is as cyclical as that for pork, soyabeans or other commodities (see chart). When times are good, chipmakers boost capacity, adding high-tech factories that are expensive to build but cheap to run. That helps supply catch up with demand. To recoup costs, chipmakers carry on producing regardless. Prices sag. When demand eventually catches up with the extra capacity, the cycle begins anew. Memory chips, which are interchangeable by design, are particularly prone to this periodicity.
 
+
+
 ![](./images/20200111_WBC262.png)
 
 The patterns are amplified or suppressed by what happens in the rest of the economy. The most recent bust, which began in 2018, was particularly deep, says Len Jenilek, a semiconductor analyst at IHS Markit. The memory market consists of two main types of memory, known as DRAM and flash. Their cycles do not always synchronise, but last year they did. The car industry, which has become a big consumer of chips, had its worst year in a decade. Other big buyers, particularly large data-centre operators like Google, Microsoft and Alibaba, cut back on purchases. The start of a tech-flavoured trade war between America and China did not help.

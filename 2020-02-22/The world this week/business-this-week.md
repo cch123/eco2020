@@ -28,6 +28,8 @@ The Turkish central bank lowered its benchmark interest rate by half a percentag
 
 A judge slapped a temporary injunction on Microsoft from working on the Pentagon’s Joint Enterprise Defence Infrastructure project, giving a new hope to Amazon in its legal claim that it was not awarded the contract because of Donald Trump’s feud with Jeff Bezos, the company’s boss. Amazon’s cloud-computing business had been the front-runner in the bidding for the $10bn contract. In a court filing, Amazon itself came under fire from Oracle, which questioned the incentives offered to two former Pentagon employees.
 
+
+
 ![](./images/20200222_WWC241.png)
 
 Under pressure from a green workers’ group at Amazon, Jeff Bezos pledged to give $10bn to scientists, activists and NGOs working to mitigate climate change. Amazon’s carbon footprint is substantial because of its vast delivery network and powerful data centres. “We can save Earth,” said Mr Bezos, who recently bought a sizeable chunk of earth when he paid $165m for a mansion estate in Beverly Hills. See [article](https://www.economist.com//leaders/2020/02/22/jeff-bezos-wants-to-help-save-the-climate-here-is-how-he-should-do-it).

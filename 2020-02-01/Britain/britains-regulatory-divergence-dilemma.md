@@ -38,6 +38,8 @@ In science, too, Britain is likely to diverge from Europe. Britain’s empirical
 
 Britain is leaving the EU just as the bloc gets ready to clamp down on artificial intelligence (AI). It may impose laws for developers in what it considers high-risk sectors such as health care and transport. Many people will welcome the EU taking a robust stance on controversial AI products like facial recognition. But some worry that Brussels is rushing to regulate AI without stopping to consider the trade-offs. Post-Brexit, Britain will write its own regulations on AI and on data. Eventually there will be three regimes in the world—the EU’s, America’s and China’s. Britain’s rules could end up closer to those of America than the EU.
 
+
+
 ![](./images/20200201_BRD002_0.jpg)
 
 London’s tech industry is also excited about what a trade deal with America might bring in the field of digital services, says Nicole Sykes, head of EU negotiations for the CBI. “We could create a more stable environment for technology firms large and small,” says Stephen Booth, director of Open Europe, a Eurosceptic think-tank.

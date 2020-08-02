@@ -12,6 +12,8 @@ THE START of the year has been a rollercoaster for stockmarket investors. Out of
 
 Uncertainty and fear about the spread of the covid-19 disease are to blame for the havoc (credit for some of the gains on March 4th may belong to Joe Biden, a moderate Democrat, who won the most delegates in primary voting on “Super Tuesday”). The market is wrestling with three fears. First, that the virus will (and may already have) spread widely across America and the rest of the world. Second, that fear of covid-19 and measures to stem its spread, like advising workers to stay home, will have severe consequences for economic activity. And third, that policymakers may be unable to keep short-term disruption from becoming long-term damage.
 
+
+
 ![](./images/20200307_FNC580.png)
 
 These fears have culminated in a sharp “risk-off” move in markets. As stocks have tumbled, safe-haven assets like gold, government bonds and certain currencies—such as the yen and the Swiss franc—have rallied sharply. Copper and oil prices, both bellwethers of economic health, have swooned. The VIX, an index of the implied volatility embedded in options prices, has jumped. The price of high-risk corporate bonds fell sharply.

@@ -18,6 +18,8 @@ As they describe in this week’s Science, the team identified dozens of drought
 
 In a world where human actions are driving temperatures up, Dr Williams and his colleagues wondered how much people are to blame for this state of affairs. To estimate that, they turned to climate modelling.
 
+
+
 ![](./images/20200418_STC244.png)
 
 Climate models are able to re-run the past with and without the warming effects of human activity, offering a way to compare what actually happened with what might have done. In their simulated world in which anthropogenic emissions had not ramped up the greenhouse-gas effect, the team found that a drought did indeed still engulf the western reaches of North America during the first two decades of the 21st century. But this fictitious dry spell was considerably less severe than the real one—ranking 11th rather than 2nd in the period under study (see chart).

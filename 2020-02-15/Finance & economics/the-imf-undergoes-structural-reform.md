@@ -20,6 +20,8 @@ In fact it seems that Mr Lipton’s departure was Ms Georgieva’s doing. Her pr
 
 That would allow her to nominate someone to help realise her vision for the fund, which includes doing more to help fragile states and tackling climate change. In her first speech as the fund’s chief, she called for governments to enact domestic reforms that achieve “stronger and more resilient growth”, and for those with remaining fiscal firepower to deploy it. She has promised to collaborate more with the World Bank, particularly regarding countries that have received the fund’s help. Ms Georgieva may want to remove the impression that theIMF cares only about restoring stability to crisis-ridden countries at the expense of jobs and growth.
 
+
+
 ![](./images/20200215_FNC169.png)
 
 It is hardly unusual for new bosses to make management changes, including at the fund. It could benefit from a shake-up that flattens its hierarchical management structure. Its policies could also be improved. Its programmes sometimes crimp growth, such that countries miss its rosy GDP forecasts. Its engagement with fragile states can be lacklustre.

@@ -16,6 +16,8 @@ The looser lockdown has not spared Egypt an economic crisis, however. The privat
 
 First to suffer was tourism, which employs one in ten Egyptians. Last year foreign visitors brought in $13bn, about 5% of GDP (see chart). With airports closed since March, revenue is now zero. The national carrier, Egyptair, had hoped to resume international flights in June, but the government has extended the closure indefinitely. Desperate to snag some cash, hotels have started to reopen (at a maximum 25% occupancy) for domestic tourists, but they spend a lot less than foreigners.
 
+
+
 ![](./images/20200523_MAC692.png)
 
 A larger concern is the 3.4m Egyptians who work overseas. In 2019 Egypt was the fifth-largest recipient of remittances: $27bn, about 9% of GDP. It is too early to say how far that number will fall, but the World Bank estimates that global remittances could drop by 20% this year. More than half of Egyptian expats work in the Gulf states, which have begun widespread salary cuts and lay-offs driven by low oil prices.

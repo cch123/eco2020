@@ -38,15 +38,21 @@ Jack Ma, the billionaire co-founder of Alibaba, an e-commerce giant, has been at
 
 In parts of Europe, China’s aid may have won admirers. A large billboard thanking “big brother Xi”, paid for by a pro-government Serbian tabloid, appeared in Serbia’s capital, Belgrade (see picture above,). Lucrezia Poggetti of MERICS, a think-tank in Berlin, says public discontent with the EU and distrust of Mr Trump’s America has worked in China’s favour. This month a poll commissioned by an Italian television station asked people which country they would prefer as an ally outside Europe. Of 800 respondents, 36% favoured China and only 30% chose America.
 
+
+
 ![](./images/20200418_CND010.jpg)
 
 But to many in the West, China’s propaganda drive sounds cynical, exploitive and forgetful of the aid that the West gave China at its time of need. In early February America and Europe sent 30 tons of medical supplies (much of it privately donated). President Emmanuel Macron of France complained that people talk of Chinese and Russian aid to Europe. “But no one talks about France and Germany delivering 2m masks and tens of thousands of medical gowns to Italy,” he said. The EU’s foreign-policy chief, Josep Borrell, warned about the “politics of generosity”.
+
+
 
 ![](./images/20200418_CNC256_0.png)
 
 In poor countries, China’s charity may prove more effective. In Africa the shipments are urgently needed—a point that China’s extensive media network on the continent is keen to highlight (news outlets across Africa use stories from Xinhua, China’s state news agency). But America is still a far bigger donor on the continent and to the UN. Last year China gave $368m to the UN’s general budget, 55% of America’s contribution (see chart).
 
 China’s image has taken a severe hit in Africa as a result of the recent evictions of some Africans from their residences in the southern Chinese city of Guangzhou after reports that a few of them had been infected by covid-19. Images of Africans forced to sleep on the streets have been widely shared by social media in their native countries. The Daily Nation, a Kenyan newspaper, accused China of “betrayal”. Several Chinese envoys in Africa have been summoned for dressings-down by host governments. China says it will gradually lift health-related restrictions on Africans in Guangzhou, and denies discrimination.
+
+
 
 ![](./images/20200418_CNC259_0.png)
 

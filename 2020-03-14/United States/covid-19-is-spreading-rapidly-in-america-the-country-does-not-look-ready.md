@@ -24,6 +24,8 @@ A successful testing regime also buys time for the right messaging. But from the
 
 These mistakes cannot be undone. But what matters now is giving people the right information and reinforcing hospitals ahead of the inevitable deluge of cases. Unfortunately, the difficulties in testing and honest messaging look set to persist.
 
+
+
 ![](./images/20200314_USC699_0.png)
 
 Even after the error in the test kits was detected, the increase in testing has been slow. Andrew Cuomo, the governor of New York, and Bill de Blasio, the mayor of New York City, have been begging the FDA to speed up approval for automated testing, to boost capacity from around 100 tests a day to the several thousand that are needed. A doctor at a Chicago clinic says that she has received no kits, nor guidance on when they will come. When she sees patients with covid-19-like symptoms she has to send them to be tested at a nearby hospital.
@@ -37,6 +39,8 @@ Correcting the course of the outbreak is vital because America’s health infras
 To reduce the chances of this happening, rates of transmission must be slowed by encouraging social distancing and telework, and cancelling large gatherings. (Sports events are already being called off: the National Basketball Association season was suspended on March 11th.) But in America authority over public health is largely delegated to the states and some cities. It is for each locality to declare a state of emergency; 13 had done so as of March 11th. The decentralised system means that containment regimes will differ.
 
 Mr Cuomo has ordered a series of measures: a one-mile containment area in New Rochelle, site of a cluster, serviced by the National Guard; and a state-produced line of hand-sanitiser made by prisoners to ameliorate a shortage. At the same time, New York City and Chicago have so far resisted closing their public schools, noting that many poor households rely on them for meals and child care. Many private universities are cancelling classes and switching to tele-instruction (causing much difficulty for some septuagenarian professors). Harvard gave its undergraduates five days’ notice to pack their things and leave.
+
+
 
 ![](./images/20200314_USP006_1.jpg)
 

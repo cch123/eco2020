@@ -16,6 +16,8 @@ But 6.9 yuan stretches further in China than a dollar goes in America. One examp
 
 Motivated by this logic, The Economist has compared the price of Big Macs around the world since 1986. The result is a rough gauge of the purchasing power of currencies. It suggests that many currencies are undervalued, relative to the dollar, on the foreign-exchange markets (see chart). The Swiss franc and the Lebanese pound are overvalued. Lebanon’s currency was undervalued until inflation took off late last year, raising local prices even as the pound remained pegged to the dollar. The Big Mac alone jumped 38% in price.
 
+
+
 ![](./images/20200718_FNC481.png)
 
 Every few years the World Bank embarks on a vastly more systematic effort to gauge purchasing power by comparing thousands of prices across the world. The results can be startling. Its survey of prices in 2011, released six years ago, showed that China was cheaper than previously thought and its economy was therefore much larger. Based on these estimates, the IMF calculated that its GDP overtook America’s in 2014 and was 27% bigger in 2019.

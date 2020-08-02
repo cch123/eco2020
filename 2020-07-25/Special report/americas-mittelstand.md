@@ -20,6 +20,8 @@ How can Midwesterners develop more advanced manufacturing? An example of what to
 
 The project always had a Potemkin air. It was a mystery what Foxconn would make, though television screens were talked of. It was rushed through as the showpiece of a manufacturing renaissance in a swing state. But Tim Bartik, at the Upjohn Institute for Employment Research in Michigan, says it was misconceived. The subsidies were ten times bigger than usual as a share of future wages, suggesting the underlying economics made no sense. Foxconn now talks of innovation and research instead.
 
+
+
 ![](./images/20200725_SRC107.png)
 
 A better example, says Mr Bartik, is Grand Rapids, Michigan, “the most successful intensive manufacturing city in America”. It once made furniture and car parts, but since 1985 has been transformed by a project called “the Right Place”. Change came from the ground up, starting with 13 businesspeople from banks and philanthropy, including the Van Andel and De Vos families, who wanted to make their home more attractive. The early idea was to get existing firms to stay, but later it became to lure newcomers. The burghers first restored the town centre. They built a 12,000-seat arena that hosted big-name performers like Elton John. Hotels, restaurants, coffee bars and other entertainment flourished. Students flocked in. The Van Andels set up the Van Andel Institute, a bioscience cluster. Michigan State University opened a big medical school to train health-care staff. Michigan Tech University set up a branch.

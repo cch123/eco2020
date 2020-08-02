@@ -18,6 +18,8 @@ Mirror worlds are not mere mathematical representations of real ones. They also 
 
 A good place to start analysing any economy is by measuring it. A robust methodology has yet to be developed, but the data economy is already large. Statistics Canada, a government agency, last year tried to estimate the value of the country’s data (its stock plus related software and intellectual property in the field). The result was between C$157bn and C$218bn ($118bn and $164bn). If that number is close—a big “if”—the value of all the data in America, whose GDP is 12 times that of Canada, could amount to $1.4trn-2trn, which would be nearly 5% of America’s stock of private physical capital.
 
+
+
 ![](./images/20200222_SRC130.png)
 
 If the amount of data generated around the world is any guide, this new economy is growing fast. The first human genome (three gigabytes of data, which nearly fills a DVD) was sequenced 17 years ago; in April, 23andMe, a firm which offers genetic testing, claimed more than 10m customers. The latest autonomous vehicles produce up to 30 terabytes for every eight hours of driving (or some 6,400 DVDs). IDC, a market-research firm, estimates the world will generate about 90 zettabytes (19trn DVDs) this year and next (see chart), more than all data produced since the advent of computers.

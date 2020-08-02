@@ -16,6 +16,8 @@ Analysts at Goldman Sachs, a bank, reckon that early estimates might capture onl
 
 Statisticians are well aware of the uncertainty. Britain’s Office for National Statistics (ONS) has mulled introducing confidence intervals for its estimates—but no one knows quite how wide the bands should be. France’s statistical office says that its first-quarter estimate of GDP is “fragile”. Many are trying to fill in data gaps where they can.
 
+
+
 ![](./images/20200530_FNC713.png)
 
 Estimates of GDP during downturns tend to be revised downwards significantly (see chart). Response rates to surveys often fall in slumps; because firms doing badly are particularly likely to stop responding, the data gleaned paint a misleadingly optimistic picture. Though statistics offices are encouraged, if not required by law, to produce estimates quickly, many data sources are only published with long lags. Wonks can temporarily fill in figures for the missing sectors, but their techniques for doing so may not be up to scratch during periods of economic stress. America’s GDP was first estimated to have fallen at an annual rate of 3.8% in the fourth quarter of 2008, compared with the previous three months. That was eventually revised to a decline of more than 8%, in part because statisticians’ guesses for some manufacturing inventories for the month of December were too optimistic.

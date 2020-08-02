@@ -12,6 +12,8 @@
 
 Yet, in Karachi’s expo centre, staff from 120 Chinese firms are having little success as they stand, brochures and electronic translation devices in hand, touting everything from hoses to pumps to window frames. Alex Hou, from a firm in Zhejiang province that sells PVC film to factories, says Pakistani officials could have done a lot more to promote the event. More broadly, Pakistan is a lesson in how China can fumble the politics of its prime foreign policy.
 
+
+
 ![](./images/20200208_SRC072.png)
 
 When the initiative emerged in 2013 it needed a signature project. The answer was the China-Pakistan Economic Corridor (CPEC)—what China’s prime minister, Li Keqiang, called a transformative economic programme that “could wean the populace from fundamentalism”.

@@ -28,6 +28,8 @@ Ahead of the London Olympics in 2012 it was felt that with so many police forces
 
 PAUL MALYONLondon
 
+
+
 ![](./images/20200404_FBD001_0.jpg)
 
 Social values are another important factor in any calculus of the pandemic (“[Hard choices](https://www.economist.com//briefing/2020/04/04/the-hard-choices-covid-policymakers-face)”, April 4th). Europeans, for instance, may not like the surveillance methods used in Asia to confirm lockdown and confinement. However, some methods allow contact-tracing to be supported by proximity-tracing using mobile technology.
@@ -35,6 +37,8 @@ Social values are another important factor in any calculus of the pandemic (“[
 Sophisticated protocols based on offline and anonymised Bluetooth connections, not satellite data, guarantee privacy and are compatible with EU data-privacy laws. One such project, called Decentralised Privacy-Preserving Proximity Tracing (DP3T), has been developed by researchers from various European countries and will probably be tested by health authorities in seven of them soon. If successful, it will allow us to balance the health benefits with the costs while preserving fundamental democratic values, such as privacy.
 
 MARTIN VETTERLIProfessor and presidentEcole Polytechnique Fédérale de Lausanne ( EPFL)
+
+
 
 ![](./images/20200404_ASD002.jpg)
 
@@ -44,11 +48,15 @@ Those who consider the Japanese state domestically “weak” may do well to stu
 
 VICTORIA EDWARDSLewes, Delaware
 
+
+
 ![](./images/20200404_BRD000.jpg)
 
 I don’t want to be pedantic, but George Lansbury did not lead Labour into the general election of 1935 ([Bagehot](https://www.economist.com//britain/2020/04/04/labours-new-leader-should-beware-of-war-socialism), April 4th). As a pacifist, he resigned as leader a month before, when the party adopted a policy of “collective military opposition” to Italian aggression against Abyssinia. It was the former deputy leader, Clem Attlee, who led the party into the election. Nor can the result be fairly characterised as a “disaster”. Disappointing, perhaps, but the party gained more than 100 seats, taking back much of the ground it had lost in the truly disastrous election of 1931.
 
 DICK LEONARDLondon
+
+
 
 ![](./images/20200425_USP004_0.jpg)
 

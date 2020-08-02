@@ -28,6 +28,8 @@ There is a deep mistrust of local elites in Cabo Delgado, adds Joseph Hanlon of 
 
 In its trajectory from sect to insurgency, the region’s guerrilla group resembles Boko Haram, argues Eric Morier-Genoud of Queen’s University Belfast. From around 2013 it began calling itself al-Shabab (“youth”), like the Somali outfit (with which it has no known direct links). Two years later it began military training. In 2017 it attacked for the first time, in Mocimboa da Praia. Today there are believed to be many units in the province, with members from northern Mozambique, Tanzania and Congo, among other places.
 
+
+
 ![](./images/20200404_MAM990.png)
 
 More attacks were carried out in the first quarter of 2020 than in any three-month period since the war began (see map). Raids are occurring farther south. Attacks were once carried out with machetes; now fighters have automatic weapons.

@@ -16,6 +16,8 @@ Big Western defence firms mostly rely on their domestic markets for sales and pr
 
 A growing share of these revenues comes from the Middle East. In 2014-18 the region received a third of the world’s arms exports, second only to Asia Pacific, according to SIPRI (see chart). Countries there imported 87% more weapons in that period than they had in the previous five years. In 2018 Saudi Arabia splurged $68bn on military kit, more than anyone bar America and China. The United Arab Emirates (UAE) was the seventh-biggest spender in 2014-18; tiny Qatar and Oman made the top 20.
 
+
+
 ![](./images/20200215_WBC343.png)
 
 America’s massive weapons-makers, whose home market is responsible for 36% of global defence spending, dominate the industry. All but eight of the world’s 20 biggest defence firms by sales are American. America’s industry accounted for 36% of global exports in 2014-18, reckons SIPRI. Countries in the Middle East snapped up over half of American exports in that period, as well as 60% of Britain’s, 44% of France’s and 25% of Germany’s. In 2018 the Middle East contributed $3.6bn, or around 7%, to the revenues of Lockheed Martin. Raytheon, the fourth-biggest producer, made 15% of its overall sales in the region (including north Africa), which were worth roughly $4bn.

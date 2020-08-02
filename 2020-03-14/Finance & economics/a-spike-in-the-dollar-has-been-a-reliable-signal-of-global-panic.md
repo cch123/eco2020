@@ -16,6 +16,8 @@ This brings us to the dollar. An evergreen concern is the scale of dollar securi
 
 So far the dollar has traded reasonably. In recent weeks it has rallied against a clutch of currencies hurt most by the slump in oil and commodity prices and lost ground against the yen and Swiss franc (the other havens in a storm) as well as the euro (see chart). Perhaps there are stresses out there, but they are obscured by other factors weighing on the dollar. There has been a sense that it is due a fall. It looks expensive on yardsticks of value, such as purchasing-power parity. The Fed’s interest-rate cut earlier this month, with further reductions likely, means that holding dollars has become less appealing.
 
+
+
 ![](./images/20200314_FNC698.png)
 
 Yet it is easy to forget how bearish sentiment on the dollar was in 2008. Many expected it to fall in the teeth of a crisis that had, after all, originated in America. Instead it spiked as banks outside America scrambled to get hold of greenbacks in order to roll over the short-term dollar borrowings that funded their holdings of mortgage securities. In 2015-16 China ran down its reserves by $1trn in part to meet demand for dollars from Chinese companies who had borrowed heavily offshore. And notwithstanding attempts by countries, such as Russia, to de-dollarise their economies, the greenback is as central to the world economy as it ever was. If there are hidden strains in cross-border finance, they will eventually be revealed by spikes in the dollar.

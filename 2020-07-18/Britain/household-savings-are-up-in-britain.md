@@ -16,6 +16,8 @@ Alongside rising bank balances, net lending to consumers contracted by £15.8bn 
 
 This big shift is the result not only of the closure of much of the economy by government fiat, but also the government’s initial response to the crisis. Despite a collapse in GDP, unemployment remains relatively low and household incomes have fallen only modestly. That’s because the government is taking a much bigger hit than is normal in recessions. Through the furlough scheme and support for the self-employed it is bankrolling more than 12m workers. Universal credit, the main out-of-work benefit, was increased by £20 a week at the budget in March. The OBR estimates that government borrowing will hit 16.4% of GDP this financial year, a peacetime record.
 
+
+
 ![](./images/20200718_BRC452.png)
 
 Not everybody is seeing their piggy-banks fatten. Analysis by the Resolution Foundation, a think-tank, points to a reasonably consistent fall in incomes across the earnings distribution for working age households but vastly different changes in spending. Households that had little discretionary spending in the first place have seen much more modest drops in expenditure, or even rises, as having the children out of school for weeks has increased their shopping bills. Prosperous commuters, by contrast, are saving a small fortune on train fares, coffees and lunches. Pensioners’ incomes have fallen by less, but their spending by more. Despite three months of falling consumer credit, gross repayments are actually down on pre-pandemic levels, but new gross lending is down by a lot more.

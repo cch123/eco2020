@@ -18,6 +18,8 @@ Preprints are not a new idea. They have been an important method of communicatio
 
 Arguments against preprints sound reasonable. Unless you are an expert in the field, it is hard to know whether a preprinted study is any good. Without peer-review before posting, the risk of shoddy science may well rise. The research contained in freely available preprints could be misinterpreted or abused by those hunting for scientific cover for their actions.
 
+
+
 ![](./images/20200509_LDC496.png)
 
 The evidence, however, suggests such worries are overdone. A recent study found that an impressive 67% of the preprints posted on the bioRxiv server before 2017 were eventually picked up and published in scientific journals. A separate study showed that the difference in scientific value, as measured by other researchers, between a preprint and the final version of the same study in a journal was, on average, less than 5%.

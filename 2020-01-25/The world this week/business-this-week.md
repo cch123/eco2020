@@ -26,6 +26,8 @@ Doubts were raised about whether the HS2 high-speed rail project in Britain woul
 
 In its biggest acquisition since 2007,  BAE Systems agreed to pay $1.9bn for a GPS system widely used by America’s armed forces and owned by Collins Aerospace. The defence company is already one of the Pentagon’s largest suppliers.
 
+
+
 ![](./images/20200125_WWC295.png)
 
 The share price of Alphabet continued to climb, after the market capitalisation of Google’s parent company passed the $1trn mark. It joins three other American companies that have seen their stockmarket value rise above that level: Amazon (briefly), Apple and Microsoft. They all have some way to go to become the world’s most valuable listed company. That crown now belongs to Saudi Aramco, which is worth $1.8trn following its IPO last month.

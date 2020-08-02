@@ -12,6 +12,8 @@ Editor’s note: Each of these climate-change articles is fiction, but grounded 
 
 IN SEPTEMBER 2019 a group of climate activists formulated a plan to shut down London Heathrow, Europe’s largest airport. Heathrow Pause, a splinter group of the Extinction Rebellion movement, had been inspired by an incident at Gatwick the previous year, when an unauthorised drone closed Britain’s second-largest hub for three days. They hoped to repeat the trick at Heathrow. But their drones failed to get off the ground, due to signal-jamming by the airport. In December 2019, Extinction Rebellion tried again to close Heathrow, this time by blocking its entrance road with a pink bulldozer. But police confined the protest to a single lane of traffic, meaning that incoming passengers could simply drive around the problem.
 
+
+
 ![](./images/wif_spec_5.png)
 
 The activists lying in front of the bulldozer that cold December morning could not have known that a virus just 0.1 microns wide, more than 8,000km away in China, was inadvertently about to help their cause. Few industries were harder hit by the subsequent covid-19 pandemic than air travel. Government lockdowns, travel restrictions and cancellations by fearful passengers soon grounded most of the industry. By April 2020 Heathrow’s passenger numbers had fallen by 97% to the lowest monthly figure since the 1950s. Global passenger numbers did little better, falling that month by 94% year on year, to levels last seen in 1978. Half a year of lost revenue later—amounting to well over $250bn—the industry’s finances were in ruins.
@@ -38,11 +40,15 @@ Rising ticket prices have also deterred travellers from flying away on holiday. 
 
 Perhaps the clearest sign of the long-term change in direction for aviation has been the collapse in demand for new aircraft. The world’s two biggest planemakers, Airbus and Boeing, predicted just before the pandemic that global air travel would grow by 4.3% each year over the next 20 years, requiring around 40,000 new airliners to be built. Now they are not so sure. Airlines permanently grounded over 5,000 planes during the pandemic. Boeing cut future production by 50% and cancelled plans to develop two new airliners in the coming decade. Even Airbus, which has enough orders to keep its assembly lines busy for a decade, decided to slow production by 30%.
 
+
+
 ![](./images/20200704_WIC001_0.png)
 
 The biggest casualties were the biggest birds. Boeing 747 jumbos, once the “Queens of the Skies”, were nearly all grounded in 2020, never to fly again. The even-larger superjumbo fared almost as badly. “The A380 is over,” lamented Sir Tim Clark of Emirates during the pandemic. Having once owned 115 of the 242 in existence, Emirates retired 40% of them in 2020.
 
 Planemakers and airlines alike are pinning hopes of a travel revival on the wanderlust of the young, and of the rising middle classes in the developing world. Their faith may be misplaced. The young are highly climate-conscious and have taken to “train-bragging”, encouraged by campaigners such as Greta Thunberg. Several European governments have stepped up investment in high-speed rail as part of their stimulus packages. Polls suggest people under 25 see climate change and pollution as the two most important issues facing the world. In the developing world, meanwhile, the pandemic shattered the illusion in Africa and India that travelling by plane was any safer or more hygienic than overcrowded diesel trains or by car.
+
+
 
 ![](./images/20200704_WID007_1.jpg)
 

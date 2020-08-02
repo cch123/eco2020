@@ -14,6 +14,8 @@ Even though unemployment is hitting multi-decade lows and the job market continu
 
 This is a problem not just for employers, but also for employees. In the labour market, loyalty does not pay: shifting jobs tends to be a good way of getting a salary boost. In 2017, the average pay rise for a worker staying with the same employer was just 1.1% after inflation compared to 5.4% for someone making a change. Young people’s reluctance to move may be part of the explanation for their dismal wage-growth figures. In the five years after the crash, they experienced a larger cut in real wages than their older peers (see chart).
 
+
+
 ![](./images/20200125_BRC128.png)
 
 Researchers have long argued that having the simple bad luck to enter the labour market during difficult times can have a lasting impact on young workers. Much of that research has focused on the so-called labour market scarring effect, by which those who experience unemployment early in their careers tend both to earn less than those who do not and to be at greater risk of future unemployment. Young people who experienced unemployment after the early 1980s or early 1990s recessions felt these effects for around ten years.

@@ -22,6 +22,8 @@ Until a century ago, the Midwest was mainly settled by white immigrants, especia
 
 African-Americans were forced into a few places, creating a housing pattern discernible today. Of the 25 cities with the worst racial segregation in America, 15 are in the Midwest. Myron Orfield of the University of Minnesota Law School says that racial divisions have increased in Minneapolis-St Paul this century. Poverty and race are closely aligned. In Madison, Wisconsin’s capital, 42% of the black population live in poverty, against 10.5% of white residents. Julie Moore Wolfe, mayor of Decatur, Illinois, says decades of white flight and racial sorting has left the town more divided than ever. She foresees more problems because of a “horrific” high-school drop-out rate of over 50% for black boys.
 
+
+
 ![](./images/20200725_SRC091.png)
 
 James Loewen has documented how residents in small towns in Illinois, even in the late 20th century, excluded African-Americans. Their method was blunt: signs on roadsides threatened to kill black people present after dark. He began research into “sundown towns” in 1999 and expected to discover ten historical examples in the state. Instead by 2018 he described finding 507. Many remain overwhelmingly white. Activists such as Jamala Rogers and Tef Poe, in St. Louis, Missouri, say nobody should be surprised. And when black people are no longer forcibly excluded, wealthy white folk often go.

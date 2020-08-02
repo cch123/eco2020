@@ -14,6 +14,8 @@ What Rightmove dubs “a mini-boom” has taken analysts by surprise. The Office
 
 The government is keen for the mini-boom to continue. In his summer statement on July 8th Rishi Sunak, the chancellor, raised the threshold for paying stamp duty, a tax on property transactions, from £125,000 ($159,000) to £500,000 until March 2021. The stamp-duty holiday introduced in 2008 saw a small bounce in sales immediately followed by a second peak just before it expired. Housing moves, which encourage people to buy new fridges and hire builders, can be a useful prop to wider economic activity.
 
+
+
 ![](./images/20200725_BRC562.png)
 
 But lenders may prove a drag on the market. Bracing themselves for falling house prices and rising unemployment, banks have tightened mortgage criteria at a record pace (see chart). They expect conditions to ease somewhat in the third quarter of this year but still to be as tight as they were in 2008, at the height of the banking crisis. Moneyfacts, a consumer-finance website, reports that the number of mortgages available with a high loan-to-value (LTV) ratio has collapsed since March.

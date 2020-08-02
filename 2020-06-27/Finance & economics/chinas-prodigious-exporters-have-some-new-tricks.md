@@ -16,6 +16,8 @@ On it went. There were companies making motorbikes and electric cars, coffee mac
 
 China has two big advantages as a manufacturing power. First, its industrial base has unparalleled depth and has only grown more competitive. In 2005, 26% of the value of China’s exports was added abroad; by 2016 that was down to 17%, according to the OECD. In other words, more of the bits and bobs that end up in Chinese gadgets are themselves made in China.
 
+
+
 ![](./images/20200627_FNC188.png)
 
 The second advantage is China’s own vast market. This is why many American firms want the Trump administration to go only so far in its tussles with China, applying enough pressure to free up space for them, but not so much as to kill their opportunities. By one measure global firms look even more wedded to China, despite the trade war: over the past 18 months the value of foreign mergers and acquisitions in China reached its highest in a decade, reckons Rhodium Group, a research firm.

@@ -14,6 +14,8 @@ Three months later, Dr Mercado and his hospital are at breaking point. For every
 
 His frustration is provoked by the messiness of Mexico’s response to covid-19. The government shut down the formal part of the economy on March 30th, when fewer than 1,000 cases had been registered. But—unlike in richer countries—its lockdown order failed to contain the outbreak (see chart). Mexico has 159,793 confirmed cases and 19,080 deaths. The number of new cases is rising, both nationally and in 27 of the 32 states. Yet with covid-19 on the rampage, the country is easing its controls.
 
+
+
 ![](./images/20200620_AMC108.png)
 
 The rest of Latin America shares its plight. The region is reporting more cases each day than Europe did during its covid-19 peak in April. By some measures it is the world’s most urbanised region, which may help explain the virus’s spread. Governments’ responses have varied greatly. Brazil’s President Jair Bolsonaro has been cavalier, dismissing covid-19 as “sniffles” and breaching his own health ministry’s social-distancing advice. Nicaragua’s Daniel Ortega imposed no lockdown. Governments in Peru, Argentina and elsewhere acted early and sternly, using the police to enforce quarantine orders. Yet with few exceptions (see [article](https://www.economist.com//the-americas/2020/06/18/how-uruguay-has-coped-with-covid-19)), the spread of the virus has been swift.

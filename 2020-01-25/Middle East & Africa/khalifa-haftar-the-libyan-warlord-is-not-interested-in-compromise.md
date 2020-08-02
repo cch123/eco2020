@@ -14,6 +14,8 @@ It ended with a joint promise to respect a UN arms embargo and end outside suppo
 
 The UN envoy, Ghassan Salamé, tells anyone willing to listen that such foreign meddling is Libya’s biggest problem. In recent months attention has focused on Russia and Turkey. The former sent hundreds of mercenaries from the Wagner Group, a private-security firm with ties to the Kremlin, to support General Haftar. Turkey then sent its own guns-for-hire, up to 2,000 Syrian militants, to defend Tripoli.
 
+
+
 ![](./images/20200125_MAM966.png)
 
 Neither country has really tried to tip the balance of power. Both have economic interests in Libya: billions of dollars in stalled construction projects for Turkey, the prospect of lucrative energy deals for Russia. But both view the country mostly as a bargaining chip in their dealings with each other—they back opposing sides in Syria—and with Europe.

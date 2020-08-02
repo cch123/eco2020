@@ -20,6 +20,8 @@ The measure is, however, belligerent. It is America’s first serious attempt to
 
 Discouraging investors from holding Chinese stocks would put portfolio flows at risk. And there is a lot of money at stake. Chinese firms have raised over $336bn on American venues since 2000, and another $81bn through initial public offerings (see chart). Their total market capitalisation in New York is close to $1.1trn, about the same as China’s holdings of Treasuries. American portfolio holdings in China amount to $150bn. Before the latest announcement, that seemed likely to pick up: the weight of Chinese stocks listed on the mainland and abroad in the MSCI Emerging Markets index, a popular benchmark, has risen from 30.5% two years ago to nearly 40% today.
 
+
+
 ![](./images/20200516_FNC604.png)
 
 Tensions are already affecting sentiment, says Ivy Wong of Baker McKenzie, a law firm. Chinese firms wanting to list in New York are more tentative in their preparations. Some listed in America, such as Alibaba and JD.com, are already turning to Hong Kong to issue new shares. But it is unclear whether the White House can legally ban investors from buying Chinese stocks. It could force Chinese firms to delist from America, but that, says a lawyer, would “traumatise” markets. It could make life so difficult for firms that they volunteer to relist elsewhere—but the dire economic situation makes this risky too.

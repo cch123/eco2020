@@ -14,6 +14,8 @@ THE DAX INDEX of Germany’s 30 most valuable listed companies holds up a mirror
 
 The pandemic has hit all of the world’s big stockmarkets. But it is shining a particularly brutal light on the weaknesses of Germany’s flagship index, which has underperformed those in other advanced markets (see chart).
 
+
+
 ![](./images/20200502_WBC388.png)
 
 On April 29th Volkswagen, Europe’s biggest carmaker (price-to-book ratio: 0.6) reported that its operating profit sank by 81% in the first quarter, year on year. The day before Lufthansa, which is trading at two-fifths of book value, said it may seek bankruptcy protection, as talks with the government over aid for the airline stalled. Days earlier Deutsche Bank reported a 67% fall in quarterly profits. That this beat analysts’ estimates is damning with faint praise. Its ratio of 0.2 suggests investors don’t think much of its prospects.

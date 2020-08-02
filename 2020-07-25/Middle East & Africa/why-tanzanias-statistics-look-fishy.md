@@ -22,6 +22,8 @@ The fund has since backed down. It now reports, without caveat, Tanzania’s gro
 
 Nonetheless, the concerns raised by the IMF did not disappear like their report. Analysis by The Economist using the Tanzanian central bank’s own numbers for the most recent full fiscal year available (2018-19) shows that tax revenue has shrunk in real terms. Discrepancies such as these, says Thorsten Beck of Cass Business School, are “red signals” that GDP may have been overestimated.
 
+
+
 ![](./images/20200725_MAC574.png)
 
 Public-sector wages and lending to the private sector, which had both been growing at well over 10% earlier in the decade, crept up by just 2% and 4% respectively (see chart). The amount of money circulating, normally higher when the economy is booming and people need cash, had grown at 10% for several years earlier in the decade but has edged up by only 2% in 2019.

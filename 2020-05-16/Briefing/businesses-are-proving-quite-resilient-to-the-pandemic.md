@@ -26,6 +26,8 @@ Then there is inventory. It is widely assumed that modern supply chains relentle
 
 Hong Chen, Murray Frank and Owen Wu, another trio of business-school professors, have looked at the period between 1981 and 2000 when average inventories in America Inc declined from 96 days to 81 days. The share prices of the companies which slashed inventories by the most and of those which did not cut at all both suffered compared with those which made moderate cuts. Work by Ananth Raman and a colleague at the Harvard Business School shows that when a sharp increase in operational performance is followed by some sort of downturn, investors pay heed to the nature of the setback. If it is down to some exogenous factor, such as a flood, the firm goes unrebuked. If it is down to an internal issue, and so suggestive of excessive cost-cutting, returns on investment decline by 3.8 percentage points.
 
+
+
 ![](./images/20200516_BBC598.png)
 
 Since the financial crisis of 2007-09 companies have actually been increasing the amount of stock they have on hand. In America the ratio of inventories to sales just before the pandemic had risen to levels last seen in the early 2000s (see chart). The expansion of warehouse space that has recently been seen around the world is not just down to the rise of e-commerce—which typically requires three times as much as retailers who sell in physical locations. Some is down to firms concentrating on being near to the consumer, which increases the amount of storage a company needs. Prologis says that there has been an uptick in pricier short-term leases in warehouse space over the past few years, suggesting that companies are happy to pay a premium for flexibility.

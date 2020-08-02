@@ -10,6 +10,8 @@
 
 ALTHOUGH AMERICA’S unemployment rate shocked almost everyone by falling in May, 20m workers remain out of a job because of the coronavirus pandemic. The official unemployment rate is 13.3%, though that rises to about 16% if you count people who say they are employed but absent from work. Many commentators worry that a large chunk of the unemployed will have no job to go back to, even as lockdowns ease and stimulus payments land in bank accounts. In a podcast hosted by Joe Biden, the presumptive Democratic nominee for president, Andrew Yang, a former rival, said that “I’m privy to the thinking of many major company CEOs, and they are telling people confidentially that they are not going to hire back a lot of the people that they’ve furloughed or let go.” Will Mr Yang be proved right?
 
+
+
 ![](./images/20200613_FNC008.png)
 
 The question matters because it affects the strength of the recovery. You can return to an old job right away, but finding a new one usually takes time. People resuming their old jobs are also likely to be more productive, because they know the ropes, which allows them to earn higher wages, at least at first. Research suggests that those eventually recalled by their employer see no loss in pay—but those who are permanently sacked see a loss of monthly earnings of up to 12% in their next job. Unemployment fell much more quickly after the recession that ended in 1982 than after the financial crisis in 2007-09, in part because a higher share of people who lost their jobs were laid off only temporarily (see chart).

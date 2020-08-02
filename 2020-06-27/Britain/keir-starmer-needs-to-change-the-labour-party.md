@@ -12,6 +12,8 @@ IN THE COURSE of his weekly online chats with voters, Sir Keir Starmer, the Labo
 
 She’s not the only fan. Sir Keir, who took over as leader three months ago, has had a good debut. His net satisfaction score of 31% matches the best figure Tony Blair achieved as leader of the opposition (see chart) according to Ipsos MORI. The best Mr Starmer’s predecessor, Jeremy Corbyn, scored was -1%. Worryingly for the Tories, says Ben Page, the polling firm’s chief executive, undecided voters tend to go for Sir Keir as they make up their minds. According to a survey by YouGov, voters find him less likeable than Boris Johnson, but more competent and more decisive.
 
+
+
 ![](./images/20200627_BRC219.png)
 
 Coronavirus has provided rich opportunities for Sir Keir. He has supported Mr Johnson on big strategic decisions, and needled him on testing regimes and care homes at prime minister’s questions. Mr Johnson mocks the former Director of Public Prosecutions as a dithering lawyer, but the Rt Hon Sir Keir Starmer KCB QC MP’s Scrabble-board of credentials and bookish seriousness—he pores over spreadsheets of covid-19 data before his duels with the prime minister—seem to reassure voters put off by Mr Corbyn’s anti-establishment tendencies.

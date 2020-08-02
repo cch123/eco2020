@@ -30,6 +30,8 @@ But Belágua remains poor. Though its name means “beautiful water”, the road
 
 When Brazil’s worst-ever recession began in 2014, progress stopped and in some areas went into reverse. GDP per Brazilian dropped by 10% from 2014 to 2016. The number of unemployed nearly doubled to 14.2m, 13.7% of the workforce, from 2014 to 2017. Although the economy is recovering, 11% of the labour force remains unemployed. At the end of 2018 the number of people living on less than $1.25 a day reached 8.2m, the highest since 2007 (see chart).
 
+
+
 ![](./images/20200201_AMC016.png)
 
 Mr Bolsonaro is dismantling what Mr Guedes calls the “machine of perverse income transfers” by reforming pensions. Minimum retirement ages (of 65 for men and 62 for women) and other measures will save the government 855bn reais over ten years. Thanks to low inflation and a fall in interest rates the government will pay 100bn reais, 1.3% of GDP, less to creditors in 2020 than it did last year, says Mr Guedes. The economy grew by 0.6% between the second and third quarters of 2019, and the number of unemployed people fell below 12m for the first time since the second quarter of 2016. Mr Guedes takes this as proof that pro-growth austerity is working.

@@ -6,6 +6,8 @@
 
 > Apr 2nd 2020
 
+
+
 ![](./images/20200321_FBD001.jpg)
 
 One aspect has been ignored in The Economist’s and the wider media coverage of covid-19: the national security implications (“[The lockdown and the long haul](https://www.economist.com//briefing/2020/03/19/in-europe-and-around-the-world-governments-are-getting-tougher)”, March 21st). The rapid spread of the virus in Europe and North America and the somewhat confused and erratic response of governments demonstrates how unprepared we are to respond to the threat of biological warfare, despite spending hundreds of billions of dollars on defence.
@@ -30,6 +32,10 @@ I would like to suggest the use of “physical distancing” rather than “soci
 
 PROFESSOR PATRICK KENISSchool of Economics and ManagementTilburg UniversityTilburg, Netherlands
 
+
+
+
+
 ![](./images/20200404_LTP501.jpg)
 
 Quarantine artI am 18 years old and was studying for my A Levels in Economics, Mathematics and Latin until the current pandemic arose. I am an aspiring economist and investment banker and I have spent the past two years studying, reading and researching around all aspects of the subject to fully immerse myself in it and expand my knowledge.
@@ -38,6 +44,8 @@ While strengthening my university application last year, I subscribed to The Eco
 
 I have attached an image of my collage and wanted to send it in to you to share my use of your magazine. Although covid-19 has caused undoubtable pain and disruption to all of our lives, for those of us fortunate enough to be healthy and safe, it is interesting to see the new and innovative things that we spend our time doing in this break from normality.HANNAH PARKINSONLiverpool
 
+
+
 ![](./images/20200307_AMD002_0.jpg)
 
 In Bolivia we are certainly enjoying the bouquet of freedom after 14 years of Evo Morales ([Bello](https://www.economist.com//the-americas/2020/03/05/bolivia-after-the-ouster-of-evo-morales-a-leftist-strongman), March 7th). The former president never “used natural-gas revenues to build schools, roads and clinics”. Instead, he built football fields with synthetic grass. Today Bolivia is going through a dire public-health situation precisely because of the lack of hospitals and medical equipment in rural areas.
@@ -45,6 +53,8 @@ In Bolivia we are certainly enjoying the bouquet of freedom after 14 years of Ev
 Bolivia under Mr Morales was a dysfunctional democracy that squandered the money it earned from commodities in a blend of corruption, pharaonic projects and short-term social programmes. Those revenues vanished in scandals and vanity projects. Mr Morales built a museum for himself to exhibit his sports outfits. He erected a lavish building that destroyed the colonial aesthetic of the historic centre of La Paz and named it the House of the People, emulating Nicolae Ceausescu in Romania. The largest economic boom became the greatest missed opportunity in Bolivian history.
 
 JAIME APARICIOAmbassador of Bolivia to the Organisation of American StatesWashington, DC
+
+
 
 ![](./images/20200321_LDP001.jpg)
 
@@ -56,6 +66,8 @@ Kudos to The Economist for supporting the morale-boosting potential of the retur
 
 ROBIN LYONLondon
 
+
+
 ![](./images/20200307_BRP003.jpg)
 
 The construction of artificial barriers to restrict the flow of rivers and protect land (“[Putting the wiggles back in rivers](https://www.economist.com//britain/2020/03/07/re-engineering-britains-rivers)”, March 7th) was widespread in the late 19th and early 20th centuries. This was particularly the case for alpine rivers in U-shaped glacial valleys, which carry large amounts of sediment after heavy rainfall. Two such rivers came to public attention in the 1920s and 1930s. James Joyce even alluded to these rivers as “burst” in “Finnegans Wake”.
@@ -63,6 +75,8 @@ The construction of artificial barriers to restrict the flow of rivers and prote
 The first was the Thur with its source in the Swiss Alps flowing through the Zurich Canton that Joyce lived in. The second was the Waiho flowing out of the Southern Alps of New Zealand near Greymouth. One of Joyce’s sisters lived in the Greymouth convent and sent pieces of local interest to her brother that he occasionally used, albeit creatively but recognisably in “Finnegans Wake”. Both rivers have caused destructive flooding after their flows were constrained and slowed a century ago, exacerbating problems caused by large deposits of gravel accumulated over time.
 
 GERALD SMITHWellington, New Zealand
+
+
 
 ![](./images/20200321_AMP002.jpg)
 

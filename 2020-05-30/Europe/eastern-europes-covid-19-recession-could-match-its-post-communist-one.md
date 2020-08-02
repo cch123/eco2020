@@ -28,6 +28,8 @@ Finally, many countries in the east rely heavily on one of the industries hardes
 
 On the bright side, central Europe could benefit from its dependence on Germany, which is expected to recover quickly. It is by far the biggest trading partner of the Visegrad countries (the Czech Republic, Slovakia, Hungary and Poland). Morgan Stanley expects Germany to expand by 6.4% in 2021, and German businesses are growing more confident about this year’s outlook, according to a survey last week by the Ifo Institute. Being outside the euro zone has its advantages, too: the WIIW expects the Czech Republic and Poland to be helped by the devaluation of the koruna and the zloty (see chart).
 
+
+
 ![](./images/20200530_EUC724.png)
 
 Mr Grieveson thinks the crisis will fundamentally change some aspects of the region’s economies, sometimes for the better. Central and eastern Europe could benefit from “nearshoring” (moves by China-wary western European manufacturers to bring production closer to home). The rise in online shopping, which is expected to continue even after the pandemic abates, might help too. Related services, such as call centres and warehouses, could be outsourced to the region.

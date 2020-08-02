@@ -6,9 +6,17 @@
 
 > May 9th 2020
 
+
+
+https://infographics.economist.com/2020/20200509_GDC100/index.html
+
 MANY A REGIME has been toppled by a plague, but so far covid-19 is having the opposite effect. Most leaders have seen their approval ratings rise, even as the disease has killed at least 250,000 people. [Morning Consult](https://www.economist.com/https://morningconsult.com/form/coronavirus-outbreak-tracker/#section-70), a pollster, has found that a group of ten politicians have enjoyed an average gain of nine percentage points since the World Health Organisation declared a pandemic on March 11th. The sentiment has been felt widely: in Australia and Canada, India and Germany.
 
 Academics call this pattern the “rally-round-the-flag” effect. It has often benefited American presidents during international crises. Studies have found that surging patriotism and meeker opposition both contribute. Yet not all catastrophes are a boon. George W. Bush’s lacklustre response to Hurricane Katrina in 2005 punctured his ratings. Tony Blair’s fell after Islamists bombed London in 2005, as did François Hollande’s after the Paris attacks in 2015. Perhaps voters felt they had failed to police domestic terrorism well, whereas Americans saw the attacks in 2001 as an act of war.
+
+
+
+https://infographics.economist.com/2020/20200509_GDC200/index.html
 
 Today, voters have rallied round leaders who took covid-19 seriously. The largest bounces are in Australia, Canada and Germany, where death rates have been low among rich Western countries. Despite France’s bad outbreak, a solemn Emmanuel Macron has gained some credit. Britons got behind Boris Johnson at first. A recent dip may reflect fears that a tardy lockdown led to thousands of extra deaths.
 
@@ -19,6 +27,8 @@ The effects for ruling parties have been smaller. Angela Merkel’s CDU/CSU has 
 Mr Trump is the only leader of the ten facing a vote soon. Despite 70,000 deaths, few Americans have changed their opinions of him yet, but he cannot afford to lose many supporters before November. ■
 
 Sources: Gallup; Morning Consult; The Economist
+
+
 
 ## URL
 

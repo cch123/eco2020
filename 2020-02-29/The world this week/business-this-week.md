@@ -4,6 +4,8 @@
 
 > Feb 29th 2020
 
+
+
 ![](./images/20200229_WWC494.png)
 
 Global markets had a turbulent week amid heightened concern about the economic impact of the coronavirus outbreak. The S&P 500 index dropped by 3.4% in a day, its worst daily performance in two years; over a week it was down by 8% from the record high it had recently attained. Stockmarkets in Europe and Japan also swooned. As investors piled into safe assets, the yield on the ten-year US Treasury bond closed at its lowest-ever point. The VIX index, a measure of stockmarket volatility, spiked to its highest level in two years. See [article](https://www.economist.com//finance-and-economics/2020/02/27/markets-wake-up-with-a-jolt-to-the-implications-of-covid-19).

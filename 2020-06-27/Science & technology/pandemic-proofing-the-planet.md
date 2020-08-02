@@ -36,6 +36,8 @@ Being simple organisms that can reproduce quickly, viruses undergo much more rap
 
 Ecologically, human beings as a species are particularly likely to be on the receiving end of this process. Few wild animals spend as much time cooped up with members of their own and other species as do herd animals and their herders. So when people domesticated animals and began to live in large, fixed settlements they gave viruses many opportunities to jump back and forth between species, a process called viral chatter. Many common diseases date back to the early days of domestication, and the population densities it brought with it. The species involved were not all domesticated. Smallpox appears to have come from rats. But the animals involved were ones that thrived in human company.
 
+
+
 ![](./images/20200627_STC206.png)
 
 Zoonoses have continued ever since. Of more than 330 diseases which emerged between 1940 and 2004, over 60% were zoonotic. Of those over 70% originated in wildlife. For viruses the proportions were 69% and 87% respectively (see chart).
@@ -64,9 +66,13 @@ Among other things, having a registry of such risks might make it possible to id
 
 On the human side of the equation the presence of people who are using an environment in new ways is a palpable risk. Proximity and frequency of contact are important as well. Farmers who work with lots of animals day-in and day-out are the most threatened, especially where this happens in the presence of wild animals, too. And the sheer number of viruses a species has to offer is also significant (see chart). Bats are a particularly rich source of emerging infections. The large groups in which many bat species live, sometimes numbering in the millions, give viruses a huge arena in which to mix, evolve and develop the kinds of characteristics that might make them capable of spilling over into people.
 
+
+
 ![](./images/20200627_STC215.png)
 
 Besides being the original reservoirs of SARS-CoV and SARS-CoV-2, bats also harbour another coronavirus, MERS-CoV, which causes Middle Eastern respiratory syndrome, an illness first detected in 2012. They are also the source of the virus which causes Ebola and of the hendra and nipah viruses which, over the past three decades, have led to small outbreaks of deadly respiratory and brain infections in Australia and South-East Asia.
+
+
 
 ![](./images/20200627_STD002.jpg)
 
@@ -82,6 +88,8 @@ Dr Farrar’s Vizions project ran in Vietnam from 2011 to 2017, with sampling te
 
 Vizions was only a pilot study, however. In light of covid-19 Dr Farrar proposes beefing up the human side of the surveillance effort by creating a Global Immunological Observatory that would monitor blood banks and discarded blood samples taken originally for clinical purposes for evidence of new viruses, as well as collecting blood samples specifically for this purpose from people in emerging-disease hotspots (see map). This would reveal not only what was there, but also how immune responses formed in response to the possible new threats.
 
+
+
 ![](./images/20200627_STM903.png)
 
 It would, though, be both morally iniquitous and politically naive to run such a system mainly in order to protect rich people in far-away lands from an eventual pandemic. Any scaled-up versions of these surveillance projects will need local support in order to work, says Dr Mazet. That means generating information which is useful where it is being collected, and building up countries’ public-health capacities at the same time. Paying for the new capacity could be linked to the funding of primary health care. Tests to monitor antimicrobial resistance in known pathogens could be run on the same equipment.
@@ -93,6 +101,8 @@ As well as providing services for locals and early warnings for public-health sy
 He cites the example of remdesivir, a substance originally intended to treat Ebola that recently became the first antiviral drug approved by America’s Food and Drug Administration for use against covid-19. Researchers led by Ralph Baric, a virologist at the University of North Carolina at Chapel Hill, have spent years testing a library of around 200,000 drugs to see which, if any, would inhibit the novel coronaviruses collected and sequenced by EcoHealth. His team identified remdesivir as a promising candidate well before SARS-CoV-2 emerged. Paying for research into therapies for diseases that are not yet a problem may prove difficult. But mechanisms might be invented.
 
 “We’re not going to defeat the pandemic era by waiting for vaccines,” says Dr Daszak. “We need to get ahead of the curve.” But the politics and practicalities required to create a monitoring network capable of putting the world into that advantageous position may be hard to crack.
+
+
 
 ![](./images/20200627_STD003.jpg)
 

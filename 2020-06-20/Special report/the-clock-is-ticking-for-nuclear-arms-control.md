@@ -14,6 +14,8 @@ That is not the only reason why the five-yearly review of the 50-year-old Nuclea
 
 Donald Trump has pulled out of the nuclear deal with Iran. His nuclear summitry with North Korea has stalled. If constraints are seen to be failing, more countries may feel tempted to go nuclear. Turkey’s Recep Tayyip Erdogan has mused aloud about it. Seeking to occupy the moral and legal high ground, more than 80 countries have signed a Treaty on the Prohibition of Nuclear Weapons, which will come into force once 50 have ratified it. The nuclear haves will ignore it.
 
+
+
 ![](./images/20200620_SRC705.png)
 
 Even during the cold war America and Russia managed to reach nuclear deals. They signed their first such treaty, SALT I, in 1972. But recently accords have been falling apart. The Intermediate-range Nuclear Forces Treaty collapsed last August, because of Russian cheating. New START’s demise would open the way for a new nuclear arms race, amid worries about emerging threats from hypersonic weapons. This comes on top of growing concerns about future conventional systems controlled by artificial intelligence. 

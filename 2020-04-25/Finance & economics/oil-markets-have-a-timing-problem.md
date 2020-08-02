@@ -18,6 +18,8 @@ The May contract for WTI, though idiosyncratic in some ways, exemplifies the dis
 
 The pressure on the global market is less extreme, but not entirely dissimilar. On April 12th OPEC and its allies promised to restrain output by 9.7m barrels a day in May and June, their biggest ever cut. The accord was too late, though, to deal with the implosion of demand in April. The International Energy Agency expects oil demand to sink by 29m barrels a day this month, compared with April 2019, equivalent to a third of global supply.
 
+
+
 ![](./images/20200425_FNC312.png)
 
 The agreement may be insufficient to deal with continued declines in demand in May, too, not least because the actual cuts are less impressive than the headline suggests. Not all of the more than 20 parties to the deal may comply. Moreover, Saudi Arabia, Russia and others in the group agreed to cut output not from the levels of February, but from an even higher base. The collective cut, compared with February of this year, is therefore closer to 7.5m barrels a day, reckons Bernstein, a research firm.

@@ -14,6 +14,8 @@ So some are taking drastic steps. In May the Algerian government said it would s
 
 Covid-19 sent the price of oil plummeting to all-time lows as people stopped moving around in order to limit the spread of the virus. With commerce resuming, the price has ticked back up, though a peak in demand may be years away.
 
+
+
 ![](./images/20200718_MAC465_0.png)
 
 But don’t be fooled. The world’s economies are moving away from fossil fuels. Oversupply and the increasing competitiveness of cleaner energy sources mean that oil may stay cheap for the foreseeable future. The recent turmoil in oil markets is not an aberration; it is a glimpse of the future. The world has entered an era of low prices—and no region will be more affected than the Middle East and north Africa.
@@ -46,6 +48,8 @@ Businesses will be hurt as well. Oil producers are big markets for other Arab co
 
 They will also send out fewer wealthy tourists. In Lebanon visitors from just three countries—Kuwait, Saudi Arabia and the UAE—account for about one-third of total tourist spending. Most visitors to Egypt are from Europe, but Gulf tourists stay longer and spend more money at restaurants, cafés and malls. These countries can look elsewhere for revenue, but it will be hard to replace the wealthy tourists in their backyards. Saudis spend the summer in Cairo or Beirut because those cities are close, culturally familiar and speak the same language. Slovenians or Singaporeans are unlikely to do the same.
 
+
+
 ![](./images/20200718_MAM101_0.png)
 
 It is something of a historical accident that the Gulf states rose to become hubs of power and influence in the Middle East. For centuries they were backwaters sustained by pilgrimage and the pearl trade. The rulers of the region were in the great old Arab capitals: Cairo and Damascus fought wars against Israel and led the cry for Arab nationalism. Beirut was the financial and cultural hub.
@@ -57,6 +61,8 @@ They have been generous with it, if selectively so. Kuwait, Saudi Arabia and the
 In recent years, though, funding has started to dry up. Partly this is due to political disputes. Seen from Riyadh or Abu Dhabi, many Arab states they once subsidised now look like bad investments. The Saudis are frustrated that Mr Sisi did not send troops to support their ill-fated invasion of Yemen, and that the younger Mr Hariri was too tolerant of Hizbullah, the Shia militia and political party backed by Iran. Their diminishing largesse also reflects their diminishing fortunes. Egypt has not received any money in years. No one from the Gulf looks willing to bail out Lebanon. Jordan had to plead to receive a five-year, $2.5bn aid package from the Gulf in 2018, half of what it got in 2011. None of this is necessarily bad: many Arabs would appreciate less foreign influence in their countries. But it will add to the financial pressure on their own indebted governments.
 
 It may also presage a broader change in the region’s politics. For four decades America has followed the “Carter Doctrine”, which held that it would use military force to maintain the free flow of oil through the Persian Gulf. Under President Donald Trump, though, the doctrine has started to fray. When Iranian-made cruise missiles and drones slammed into Saudi oil facilities in September, America barely blinked. The Patriot missile-defence batteries it deployed to the kingdom weeks later have already been withdrawn. Outside the Gulf Mr Trump has been even less engaged, all but ignoring the chaos in Libya, where Russia, Turkey and the UAE (to name but a few) are vying for control.
+
+
 
 ![](./images/20200718_MAP007_1.jpg)
 

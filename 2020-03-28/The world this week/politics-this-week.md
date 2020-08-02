@@ -38,6 +38,8 @@ In Russia, Vladimir Putin put on hold his plans for a popular vote on constituti
 
 Alex Salmond, a former leader of the Scottish Parliament, was cleared of sexual assault charges by the high court. The Scottish government has conceded that its own investigation into the matter breached its guidelines. See [article](https://www.economist.com//britain/2020/03/26/not-guilty-verdicts-for-alex-salmond).
 
+
+
 ![](./images/20200328_WWC003.png)
 
 In America, some senators and congressmen were accused of having used intelligence information on the covid-19 outbreak to sell stock before markets crashed.

@@ -18,6 +18,8 @@ After the Big Bang deregulated financial services in 1986, the logic of agglomer
 
 Yet some warning signs have been visible for a while. Although London’s population has continued to grow, over the last decade that has been driven by international migration and the birth rate. Between 2008 and 2018, 550,000 more Britons left London than moved to it. People complain of high costs and anxiety. One league table in which London scores poorly is the Office for National Statistics’ rankings of well-being and life satisfaction. Since 2015 migration from the capital has helped reduce the differential between London’s house prices and those in the rest of the country (see chart).
 
+
+
 ![](./images/20200523_BRC642.png)
 
 But London’s house prices remain double those elsewhere. After housing costs are accounted for Londoners are, on average, worse off than residents of the rest of southern England or Scotland. The chairman of PWC, a professional-services firm, has argued that graduates are turning their backs on London. Whereas 60% of graduates working for the big four accounting firms used to be based in the capital, in 2018 60% of new starters were outside.

@@ -28,6 +28,8 @@ Iraq in particular has welcomed foreign capital as it strives to raise output af
 
 A few non-energy firms will also be eyeing the conflict warily. LafargeHolcim, a Franco-Swiss firm that is the world’s biggest cement-maker, has 44 plants in the region, which generated 11% of its revenues in 2018. Heidelberg Cement, a German rival which has also cashed in on the region’s construction boom, derives 19% of its sales from the Middle East and north Africa. GE sells machinery worth $16bn a year in the Middle East and its environs, 13% of the group’s total sales (see chart).
 
+
+
 ![](./images/20200111_WBC261.png)
 
 Boeing and Airbus, too, look vulnerable. Around 5% of the global airline fleet is operated by Gulf carriers. The continued expansion of Emirates, Etihad and Qatar Airways has made them important buyers of passenger jets in recent years. Airbus reckons that the region will take delivery of 8% of all new aircraft over the next 20 years—around 3,200 jets. Emirates is a launch customer for Boeing’s new 777X, expected to enter service this year, with orders for around 125, over a third of the current total. It has also ordered 30 787s and, from Airbus, 40 A330s and 30 A350s.

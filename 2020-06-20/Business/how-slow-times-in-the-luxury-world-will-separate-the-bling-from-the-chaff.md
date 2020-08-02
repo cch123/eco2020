@@ -16,6 +16,8 @@ The global recession hangs over a sector fuelled by consumer confidence. Beyond 
 
 Start with who is buying and where. Although most purveyors of luxury are European (with America home to some of the lesser marques), most of their customers come from Asia. Asians bought more than half of the €281bn ($315bn) in bling sold last year. Chinese buyers alone have gone from 1% of purchases in 2000 to 35% last year, according to Bain, another consultancy. But most of that—perhaps 70%—was purchased overseas, often on jaunts to Europe. Just over a tenth of all luxury sales were actually booked in mainland China.
 
+
+
 ![](./images/20200620_WBC085.png)
 
 Unless intercontinental tourism rebounds faster than expected, new ways will have to be found to get Euro-chic into Chinese hands. Firms hope that shopping sprees will simply move from Paris to Shanghai. In the short run, this might boost margins: the likes of Louis Vuitton (part of LVMH, the biggest luxury group) and Gucci (part of Kering, another French giant) charge a third more in China than in Europe for the same products. Closing a few flagship stores in high-rent tourism hotspots such as Paris or Milan, which usually sell half their stock to tourists, could save firms money in property costs.
@@ -29,6 +31,8 @@ Meanwhile, costs may rise. Though they love to show off in-house “artisans” 
 All this paints a drab financial picture. Sales are forecast to fall by a third in 2020, and recover only by 2022 at the earliest. That will crimp margins, since luxury firms’ costs are largely fixed. Rents must still be paid and brands advertised—the poshest ones spend the best part of $1bn a year on marketing—even as sales droop.
 
 In many industries, squished margins and falling sales might lead to a slew of takeovers. Few expect that to happen in luxury. Most of the big players have healthy balance-sheets and are expected to find ways to return to profitability (see chart 2). Many smaller marques are controlled by founders or their families, who are loth to sell in a downturn. If anything, consolidation might slow; all eyes are on whether LVMH will complete its $17bn takeover of Tiffany, an American jeweller, agreed weeks before covid-19 struck.
+
+
 
 ![](./images/20200620_WBC116.png)
 

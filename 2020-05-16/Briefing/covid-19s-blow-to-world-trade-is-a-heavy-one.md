@@ -34,6 +34,8 @@ Mr Trump’s trade adviser, Peter Navarro, is clearly itching to set procurement
 
 Those businesses, and their peers, are currently in crisis-management mode. When the dust gets to settling, they have some reconfiguring to do. Adjusting their supply chains will probably accelerate the trend towards regionalisation, particularly in complex cases where assemblies cross borders repeatedly. This will have the knock-on effect, desired by some, of reducing the centrality of China.
 
+
+
 ![](./images/20200516_BBC577.png)
 
 Take regionalisation first. In the automotive supply chain, which stretches from the leather for seats to the chips for dashboard displays, 59% of trade is already intraregional. Such integration is self-reinforcing; it becomes increasingly easy, and enticing, to replace suppliers farther afield with ones nearer to hand. Comparing the second half of 2019 with the second half of 2017, China’s share of car parts imported by the United States fell by 2.2 percentage points. The share coming from elsewhere in North America increased by 2.8 percentage points (see chart).

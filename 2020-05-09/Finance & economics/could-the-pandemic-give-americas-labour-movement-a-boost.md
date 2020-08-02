@@ -16,6 +16,8 @@ Like much else, collective action is not the same in a time of covid-19. It is a
 
 A pandemic would seem an inopportune moment for a revival in organised labour. Figures due to be released on May 8th, after The Economist went to press, were expected to show that America’s unemployment rate exceeded 15% in April, up from 3.5% in February. Many people are grateful simply to have jobs, and do not want to rock the boat. Yet history complicates the picture. Research by Orley Ashenfelter and John Pencavel, labour economists, points to rapid growth in trade-union membership after the Great Depression, when unemployment was about as high as it is today. Other factors, they argue, from “the prevailing attitudes within society” to legislative changes, also help explain the ups and downs of organised labour.
 
+
+
 ![](./images/20200509_FNC458.png)
 
 Perceptions of unfairness are likely to aid the worker’s cause. The better educated and richer you are, the easier it is to work from home. But many less-skilled workers must venture outdoors, risking their health, even as they realise that the economy would grind to a halt without them.

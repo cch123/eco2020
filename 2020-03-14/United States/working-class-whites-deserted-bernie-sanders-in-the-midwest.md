@@ -18,6 +18,8 @@ Much of that Sanders coalition from 2016 has not stuck around. In post-industria
 
 Cracks in the base had already begun to show. Suburbanites and young voters had failed to turn out in Super Tuesday states in the revolutionary numbers that he has long promised. Until now, though, it was not clear whether rustbelt whites would give him enough support to keep his hopes alive. But across Michigan his vote share slipped by larger amounts in counties with higher concentrations of white adults without a college degree. It plunged too in the sparsely populated areas of the state (see chart).
 
+
+
 ![](./images/20200314_USC672_1.png)
 
 Although these voters were willing to cast their ballots for a self-described socialist in 2016, that was probably because they disliked Mrs Clinton more. Given the choice between Mr Biden and a far-left ideologue, they picked the moderate this time round.

@@ -16,6 +16,8 @@
 
 Streaming services like Netflix take the opposite tack to syndication, luring viewers with fresh content that cannot be found elsewhere (see [article](https://www.economist.com//business/2020/04/23/netflix-will-remain-a-blockbuster-hit-beyond-the-covid-19-era)). Many of the 10m people who signed up for Disney’s new streaming platform by its first day last November probably did so to watch “The Mandalorian”, a Star Wars spin-off. In the first nine months of 2019 seven of Netflix’s ten most-watched original shows were in their debut season. Unless a show is a mega-hit like HBO’s “Game of Thrones”, explains Leigh Brecheen, an entertainment lawyer in Hollywood, it now makes more financial sense to produce something new rather than renew something old. 
 
+
+
 ![](./images/20200425_WBC294.png)
 
 The upshot of the shift away from syndication and towards streaming has been a decline in the average number of episodes per season. Based on figures for 34,000 TV shows worldwide that debuted between 1955 and 2018, compiled by the TVDB, a website, this fell from over 20 to under 11 (see chart). The number of seasons per series dropped, too, by nearly 70%. 

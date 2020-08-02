@@ -42,6 +42,8 @@ Ethiopian troops accidentally shot down a Kenyan plane carrying humanitarian sup
 
 Three UN peacekeepers were killed when a UN convoy in northern Mali hit a roadside bomb. The peacekeeping mission is the UN’S most dangerous ongoing operation.
 
+
+
 ![](./images/20200516_WWC010.png)
 
 The Chinese city of Wuhan, which recently ended a stringent lockdown, recorded its first new infections since early April. South Korea, which had also largely brought the epidemic under control, reported a cluster of new cases linked to nightclubs in Seoul. See [article](https://www.economist.com//asia/2020/05/16/infections-at-nightclubs-mar-south-koreas-relaxation-of-restrictions).

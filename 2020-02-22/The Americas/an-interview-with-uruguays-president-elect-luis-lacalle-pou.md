@@ -12,6 +12,8 @@ AT HIS CAMPAIGN headquarters on Artigas Boulevard, named after Uruguay’s found
 
 The first step was to take back power. Last November, in a run-off, Mr Lacalle Pou narrowly defeated Daniel Martínez, the candidate of the Broad Front, a leftist coalition that had ruled Uruguay for 15 years. (The last president from Mr Lacalle Pou’s National Party was his father, in the 1990s.) The Broad Front had maintained economic and constitutional stability, and liberalised marijuana use and same-sex marriage. But it also presided over sharp rises in public employment, the fiscal deficit and violent crime. The homicide rate in Uruguay, a traditionally safe country of about 3.5m, shot up by 46% in 2018, to 11.8 per 100,000 people, lower than Brazil’s but higher than Argentina’s. Mr Lacalle Pou’s coalition blames lax policing and light sentencing.
 
+
+
 ![](./images/20200222_AMC203.png)
 
 “Not even priests feel safe here,” says Mercedes Rossi, a housewife in the working-class quarter of Casavalle, 20 minutes from downtown Montevideo, the capital. “The delinquents rule this neighbourhood with guns and knives.” Such fears helped Mr Lacalle Pou win.

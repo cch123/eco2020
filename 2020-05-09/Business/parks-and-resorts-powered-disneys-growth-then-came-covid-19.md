@@ -16,6 +16,8 @@ Covid-19 has infected all big media groups. Cinemas are shut; advertising is dow
 
 A decade ago Disney’s media networks, which include the Disney Channel, ESPN sports and ABC broadcasting, raked in two-thirds of Disney’s operating profits from its various businesses. Last year they made up half. With pay-TV in decline, Disney has invested elsewhere. One area is its film studios, where profits have been lifted by the acquisition of companies like Lucasfilm (which owns Star Wars) and Fox. That has boosted its consumer-products business, as fans snap up plastic lightsabres and Iron Man toys. But last quarter, with cinemas closed, Disney studios’ profits fell by 8%, year on year. With new releases postponed until July, the next quarter looks worse.
 
+
+
 ![](./images/20200509_WBC469.png)
 
 The Fox deal apart, Disney’s biggest expansion under Mr Iger was in theme parks and resorts. Capital spending on these was $4.1bn last year—more than Disney paid for Lucasfilm in 2012. Six parks and four cruise ships (plus a private island in the Bahamas) helped generate a third of Disney’s operating profit in 2019, nearly double the share a decade ago. Bob Chapek, who replaced Mr Iger as CEO in February, ran the division. Yet this business is especially vulnerable to social distancing. With parks closed and ships docked, quarterly profits in this segment swooned by 58%.

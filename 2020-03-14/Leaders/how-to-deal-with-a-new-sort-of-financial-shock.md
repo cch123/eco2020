@@ -16,6 +16,8 @@ The severity of the shock so far does not compare with 2007-09. Stockmarkets hav
 
 The nature of the shock is different, too. The 2007-09 crisis came from within the financial system, whereas the virus is primarily a health emergency. Markets are usually spooked when there is uncertainty about the outlook six or 12 months out, even when things seem calm at the time—think of asset prices dropping in early 2008, long before most subprime mortgage borrowers defaulted. Today, the time horizon is inverted: it is unclear what will happen in the next few weeks, but fairly certain that within six months the threat will have abated.
 
+
+
 ![](./images/20200314_LDC701.png)
 
 Instead of tottering Wall Street banks or defaults on Florida condos, two other risks loom. The first is a temporary cash crunch at a very broad range of companies around the world as quarantines force them to shut offices and factories. A crude “stress test” based on listed companies suggests that 10-15% of firms might face liquidity problems (see [article](https://www.economist.com//finance-and-economics/2020/03/12/corporate-bonds-and-loans-are-at-the-centre-of-a-new-financial-scare)). Corporate-bond markets, which demand precise contractual terms and regular payments, are not good at bridging this kind of short but precarious gap.

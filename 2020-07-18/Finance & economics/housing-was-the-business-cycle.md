@@ -14,6 +14,8 @@ Mr Leamer’s description of the importance of housing for past economic ups and
 
 Still, over the period housing’s economic role has gradually weakened. Residential investment (ie, spending on new housing capacity) as a share of GDP, which peaked at 6.9% in 1950, has since drifted downwards (see chart). The surge in construction in the early 2000s broke with that trend, only for the downward slide to resume thereafter. Investment in housing as a share of GDP was just 3.9% in 2017, the lowest cyclical peak since 1945. As the share of residential investment in GDP has fallen, its contribution to recession-inducing economic weakness has also declined: from 32% before the downturn in 1980, to 21% ahead of that in 1991, to only 12% by the eve of that in 2001.
 
+
+
 ![](./images/20200718_FNC491.png)
 
 The Great Recession might seem a staggering exception. In fact, it proves the rule. A massive 22% decline in residential investment in 2009 subtracted 0.74 percentage points from real GDP growth that year, which is nothing to sneeze at. A comparable drop in 1980, though, cut growth by much more—1.2 percentage points. The role of housing in the Great Recession is less straightforward than commonly understood. Its contribution to growth began to fall in the fourth quarter of 2005—fully two years before the recession began, and three before the steepest falls in output. The large declines in GDP in late 2008 and early 2009, furthermore, were the result of the financial-sector knock-on effects of the house-price collapse, not the contraction in investment itself.

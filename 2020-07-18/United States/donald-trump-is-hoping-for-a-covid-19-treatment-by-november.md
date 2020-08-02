@@ -22,6 +22,8 @@ Although OWS is described as a public-private partnership, the government is stu
 
 Critics of the European Commission, including the boss of Sanofi, Paul Hudson, have accused it of dragging its feet in funding covid-19 research when compared with America. But the US government’s purchase of remdesivir caused alarm in many other rich countries, which fear that a drug that improves recovery time will be hard to obtain for their own patients. The move to corner the supply of this drug looked particularly bad abroad because the trials necessary to show that the drug worked involved patients in Germany, Greece, Japan, Korea, Spain and Britain.
 
+
+
 ![](./images/20200718_USC477.png)
 
 Less noticed, but potentially incendiary, was a similar American move on July 7th, when OWS signed a deal worth $450m with Regeneron. This acquired most of Regeneron’s supply of a promising experimental therapy, REG-COV2, for the next three months. If it turns out to work, most other countries will be unable to get hold of it. A spokesperson said the firm is working on plans to meet demand elsewhere.

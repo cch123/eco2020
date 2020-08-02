@@ -16,6 +16,8 @@ In Britain, as in much of the rich world, corporate concentration has been on th
 
 The increase in markups was above the average rise found in the G7 group of advanced economies, but below that in America. And it was concentrated among the largest and most successful firms (see chart). That tallies with similar findings in global studies conducted by the IMF and OECD. The finding is more intriguing when paired with another Resolution Foundation finding: that concentration in labour markets has fallen, with the largest 20 firms in a sector employing 42% of that sector’s workforce on average, down from 46% in 2003-04. In combination these findings paint a picture of employment-light, successful firms pulling away from the rest and exploiting their market power to boost profits.
 
+
+
 ![](./images/20200215_BRC177.png)
 
 But concentration and markups are only partial measures of competition. Concentration can reveal only so much because what matters are not industries but markets. Firms may compete with rivals from another industry; and, in an open economy like Britain, international competition plays a large role. The British car industry is highly concentrated but many cars are imported. There are few British supermarkets but the business is fiercely competitive. Markups, for their part, require careful interpretation, because they involve trying to disentangle a firm’s variable and fixed costs—a tricky job. If high markups are not accompanied by abnormally high profits, it suggests something has gone wrong in the calculation. And in recent years Britain’s firms have not, on the whole, enjoyed the unusually high profits that have been apparent in corporate America.

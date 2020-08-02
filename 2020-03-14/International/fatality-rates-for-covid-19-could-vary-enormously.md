@@ -16,6 +16,8 @@ A conclusive measure of the denominator requires testing for antibodies against 
 
 The researchers applied the results from the ship to data on covid-19 cases and deaths in China. They conclude that the fatality rate for covid-19 in the country’s outbreak was 0.5%. For comparison, that is five times the fatality rate for the seasonal flu in America.
 
+
+
 ![](./images/20200314_IRC697_0.png)
 
 The covid-19 fatality rate among those on the Diamond Princess was higher partly because their average age was 58, older than the general population in any country. At the same time, they are probably in fairly good shape. They must be healthy enough to embark on an extended holiday. People who go on cruises tend to be richer. So the fatality rate among these passengers may be lower than it would be among people of a similar age in their home countries.

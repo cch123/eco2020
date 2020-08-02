@@ -20,6 +20,8 @@ According to the World Bank GDP per person (at PPP) crept up from $2,000 to $4,0
 
 JOHN HOLLAWAYAshford, Surrey
 
+
+
 ![](./images/20200314_LDD001_2.jpg)
 
 I am a huge fan of The Economist. As we all navigate this pandemic, I would like to urge world leaders to keep their cool and do the right thing (“[The politics of pandemics](https://www.economist.com//leaders/2020/03/12/the-politics-of-pandemics)”, March 14th). We all make mistakes, so let’s be more forgiving. Let’s keep perspective and stick to the facts. Let’s avoid sensationalist headlines that promote fear. What is the point of could have, would have, should have? It doesn’t matter. We are doing it now. More than 90% of those who are infected fully recover and they are the source of a cure or vaccine. The saddest aspect is the worry that increasing surveillance will breed distrust among friends, neighbours and family. We all know what fear does to a community. The increased stress and anxiety can cause long-lasting crippling effects.
@@ -28,6 +30,8 @@ Please, let’s not get sidetracked from the goal at hand.
 
 JIHYUN CHOHong Kong
 
+
+
 ![](./images/20200314_ASP004_0.jpg)
 
 The crowding and environmental damage on Everest, both on the mountain and throughout the Khumbu region, are contrary to the commitments each country has made in accepting the area’s World Heritage status (“[High and climbing](https://www.economist.com//asia/2020/03/12/new-rules-to-limit-numbers-on-everest-are-delayed)”, March 14th). “Because it is there” has lost its original meaning of almost a century ago. A few years before his death, Sir Edmund Hillary urged the Nepalese government to close Everest to climbing for a number of years, but he was ignored. Any death on the mountain that is caused by overcrowding rather than by the natural hazards of this formidable challenge is unacceptable. The waste being deposited, including dangerous drugs, is deplorable. Some splendid clean-up work is being carried out by joint teams of Nepalese and overseas climbers. Most encouraging is the Mount Everest Biogas Project, spearheaded by Dan Mazur and Garry Porter. If sufficiently funded their solar-powered composting facility could alleviate the cultural, health and aesthetic problems caused by human waste on and around this sacred peak.
@@ -35,6 +39,8 @@ The crowding and environmental damage on Everest, both on the mountain and throu
 Everest is off limits now because of covid-19, but closing it completely is not the answer for a country heavily dependent on tourism.
 
 JACK IVESFormer directorUnited Nations University Mountain Project, 1978-2002Ottawa, Canada
+
+
 
 ![](./images/20200328_EUD001.jpg)
 
@@ -57,6 +63,8 @@ Taking a stand
 Et tu The Economist, that you don’t know the difference between a podium and a lectern. Joe Biden was not “standing behind a podium” at his home to deliver a message to supporters (“[Electoral distancing](https://www.economist.com//united-states/2020/03/19/joe-biden-builds-an-insurmountable-lead)”, March 21st). You stand on a podium and behind a lectern. Signed: a fusspot.
 
 EBERHARD NEUTZLaguna Beach, California
+
+
 
 ![](./images/20200321_LDD001.jpg)
 

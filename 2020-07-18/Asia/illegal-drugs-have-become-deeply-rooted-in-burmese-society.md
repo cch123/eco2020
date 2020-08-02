@@ -14,6 +14,8 @@ That was Mr Seng Naw’s biggest haul. He is vice-president of the Mohnyin branc
 
 There are no reliable data on the number of addicts in Myanmar, but the Transnational Institute, an international research outfit, believes the problem is severe. The official tally of “injecting drug users” has risen steadily over the past decade, to 93,000. But in the past five years methamphetamine, which is typically heated and the fumes inhaled, has supplanted heroin as a “drug of concern”, according to the government. It is cheap and readily available. Mai Kaung Saing, a journalist who reports on northern Shan state, which borders Kachin state (see map), estimates that 30% of the local population uses drugs, primarily heroin and meth. The problem is national. “Every family has been affected by drug-use issues,” says Tom Kramer of the Transnational Institute.
 
+
+
 ![](./images/20200718_ASM928.png)
 
 The surge in addiction is a symptom of the country’s central role in the drug trade. For decades assorted militias, some almost completely autonomous and others at war with the government, have controlled much of Myanmar’s border regions, especially in Shan and Kachin states. Many of the gunmen, and some of the soldiers sent to fight them, are involved in the drug trade. In the 1970s and 1980s Myanmar became the world’s biggest source of opium and heroin, and remains the second-biggest producer today. In 2018 sales of illegal opiates accounted for 1-2% of its GDP, according to the UN.

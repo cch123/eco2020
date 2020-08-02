@@ -16,6 +16,8 @@ Meditation apps, digital fitness classes and online cookery courses are booming.
 
 On YouTube average daily views of videos including “with me” in the title—convivial baking, studying and decluttering are all available—have increased by 600% since March 15th compared with the rest of the year. Last week DJ D-Nice, an American disc jockey, drew over 100,000 virtual partygoers to his “Club Quarantine” on Instagram Live.
 
+
+
 ![](./images/20200404_IRC088.png)
 
 The stuck-at-home are also keen to improve themselves (see chart). Downloads of the top five recipe apps doubled in China during February’s lockdown. In Britain John Lewis, an upmarket department store, has reported a five-fold increase in sales of its Marcato pasta machine compared with typical sales for this time of year. Kettlebells and yoga mats are selling like toilet paper. Joe Wicks, a trainer who posts workout videos online, saw subscriptions to his channel more than double after he launched live physical-education lessons for kids no longer able to burn off their energy at school. During the first week of classes 15m viewers joined in.

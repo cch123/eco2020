@@ -28,6 +28,8 @@ For the past decade huge sums from sovereign-wealth funds, mutual funds and hedg
 
 The euphoria began to ebb last year. First, in May, Uber’s blockbuster IPO priced at a 30% discount to what the company’s investment bankers had promised. Today its market capitalisation is $43bn, more than a third below what it was on its first day of trading. Unicorn IPOs of Lyft, Uber’s main rival, and of Slack, a corporate-messaging service, disappointed. Then, in October, WeWork, a supposedly “techie” office-rental group, scrapped its IPO after it became clear that investors had no appetite for shares in a firm that lost as much money as it generated in revenues. Its valuation was cut from $47bn to less than $8bn.
 
+
+
 ![](./images/20200404_BBC083.png)
 
 Other debacles followed. Brandless, an online retailer that sold unbranded products for a fixed $3, folded in February. Zume, a firm selling robot-made pizzas, shut its main business in January. Both, as well as WeWork, were backed by the $100bn Vision Fund, the opaque VC vehicle of SoftBank, a Japanese tech conglomerate, and its boss, Son Masayoshi. OneWeb, a British satellite-internet startup formerly valued at $3.3bn and also backed by Mr Son, has filed for bankruptcy.
@@ -43,6 +45,8 @@ Start with “fake tech”. These include capital-intensive firms such as WeWork
 Zume, recounts a VC investor close to it, “only used to talk about the robots, never about the pizza”. When its lorries rounded corners, melted mozzarella ran everywhere. “When we ordered a margherita,” the investor remembers, “it tasted bad.”
 
 Some proper tech unicorns nevertheless discovered that in the physical world, where many at least partially reside, flywheels encounter friction. In theory their markets are almost limitless, with nearly half of humanity carrying a smartphone. Their business models, like Uber’s, enjoy certain network effects: demand from more riders in a given city lures more drivers to the platform; more drivers in turn attract more riders by making rides easier and cheaper to hail. And they can lower upfront costs by outsourcing things like accounting and data storage to the cloud.
+
+
 
 ![](./images/20200404_BBC099.png)
 
@@ -62,6 +66,8 @@ The first has to do with ownership structure. A private firm’s headline valuat
 
 The second issue is one of governance. Recent years have seen frequent use of “inside rounds”, in which existing backers stump up more money. These can be a vote of confidence from people who know a business well. But they are also a way for VC firms to mark up their portfolios, generating higher internal rates of return that are more attractive to institutional investors (and form the basis on which many partners get paid). According to Mike Cagney, co-founder of three fintech unicorns, SoFi, Provenance and Figure, an unwritten VC rule advises against a firm which led one investment round in a startup leading the next. That inside rounds have become more common in recent years creates a credibility issue for Silicon Valley, he says. 
 
+
+
 ![](./images/20200404_BBC111.png)
 
 As a result of such finagling, of the roughly 200 American unicorns probably only half merit the moniker, reckons one veteran founder. Although the frequency of “down rounds”, in which valuations fall rather than rise, does not yet appear to have increased, activity in the opaque secondary market for unicorn shares suggests that a repricing is under way.
@@ -71,6 +77,8 @@ Sellers in such marketplaces (chiefly company insiders and VC firms seeking an e
 These ructions point to one certainty: a shake-out looms. Firms that have most to lose from virus-related measures are shedding workers. Even before covid-19, Lime laid off 14% of its staff and exited a dozen cities. On March 27th Bird, a rival, announced that it was sacking a third of its workers to conserve cash. In all, unicorns have trimmed their payrolls by several thousand people. That is probably not the end of retrenchment. Workers who remain are seeing the value of their shares dwindle and prospects of an IPO windfall recede. Even viable listings are on ice until the markets’ pandemic fever breaks.
 
 In the meantime, the unicorn world is astir with talk of consolidation. SoftBank has reportedly long wanted DoorDash and Uber Eats to merge. A tie-up now looks appetising. The Japanese firm may once again try to combine Grab and Gojek, a rival in Indonesia, where a price war is leading both to lose perhaps $200m a month. In America Uber may try to woo Lyft, whose share price has fallen faster than its own. 
+
+
 
 ![](./images/20200404_BBP002_0.jpg)
 

@@ -12,6 +12,8 @@ Editor’s note: Each of these climate-change articles is fiction, but grounded 
 
 THE FIRST the world heard of the self-styled Earth Defence Army (EDA) was in February 2028, when the Jamnagar oil refinery in Gujarat, the world’s largest, ground to a halt after a crippling cyber-attack. In a video manifesto the EDA claimed responsibility for the attack, providing detailed evidence of its involvement. The group’s masked leaders warned that oil companies around the world would face similar attacks—as would banks and investors associated with them. “The planet cannot fight back,” one EDA member declared, “so we have no choice but to fight back on its behalf.”
 
+
+
 ![](./images/wif_spec_3.png)
 
 Next, the EDA released a trove of messages stolen from four large oil companies and their accountants. These, the group claimed, revealed a covert scheme to undermine emissions-reduction efforts by misreporting numbers. (The companies in question denied wrongdoing.) “Your sabotage will be met with sabotage,” the EDA’s leaders announced. It began a campaign of direct attacks on oil companies’ property, modelled on those conducted by the Earth Liberation Front (ELF), whose arson attacks in America, starting in the 1990s, had caused $100m-worth of damage.

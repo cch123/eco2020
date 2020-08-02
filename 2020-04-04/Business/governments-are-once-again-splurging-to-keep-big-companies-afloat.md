@@ -34,6 +34,8 @@ In fact, programmes which authorities have sold as a way to save mom-and-pop sho
 
 Many stronger firms would prefer a private-sector rescuer. Those with solid balance-sheets in Europe and America raised $316bn from investment-grade bonds in March, according to Dealogic, a data provider. Although some racier blue-chip firms must pay high coupons, for many yields remain reasonable (see chart).
 
+
+
 ![](./images/20200404_WBC459.png)
 
 Some companies with iffier prospects can get their hands on cash, too. Carnival, a cruise-line operator whose share price is down by 83% this year, is raising $4bn through a sale of bonds (in part by mortgaging its ships) as well as fresh equity. Markets are charging a hefty price for this support. So long as they remain willing to shore up corporations on the brink, taxpayers may be spared big payouts—and governments, blushes for helping out unloved big business.■

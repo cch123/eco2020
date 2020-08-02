@@ -16,6 +16,8 @@ If the virus were Iraq’s only problem, that would be enough. Alas, the country
 
 Saudi Arabia and Russia are in talks over oil-production cuts, which would provide some relief to Iraq by raising prices. But even if the price of oil jumps by half, Iraq would still be looking at a sizeable budget deficit. As it is, the government cannot afford to pay salaries in the ever-expanding public sector (see chart). It has around $60bn in cash reserves, but that could run out by the end of the year, leaving it dependent on a loan from the IMF, which may not be forthcoming. The state’s 7m employees and pensioners are worried. “Without salaries, that’s the end of Iraq,” says Mowaffak al-Rubaie, a former national-security chief.
 
+
+
 ![](./images/20200411_MAC934.png)
 
 That may sound alarmist, but Iraq does not have much of a private sector to fall back on. Many firms rely on government contracts. Much of the sector is informal. With a curfew in place, travel restricted and the borders closed, commerce has slowed considerably. Even before the virus, many Iraqis struggled to get by. Such hardship, along with blatant corruption, sparked big protests, beginning last year.

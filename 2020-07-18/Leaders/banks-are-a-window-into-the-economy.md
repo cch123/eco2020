@@ -14,6 +14,8 @@ When the pandemic struck, markets collapsed but the Federal Reserve started buyi
 
 This has created a windfall on Wall Street (see [article](https://www.economist.com//finance-and-economics/2020/07/18/what-wall-streets-results-tell-you-about-americas-economy)). In the second quarter markets revenues at Citibank, Goldman Sachs and JPMorgan were higher than at any time since the global financial crisis, almost doubling over the same period in 2019. Goldman Sachs, one of the two remaining big stand-alone investment banks, saw revenues jump by 41%. True to form, it wasted no time in handing over more to its staff. Their 35% pay increase meant that its indulgent and long-suffering shareholders saw profits rise by only 2%.
 
+
+
 ![](./images/20200718_LDC496.png)
 
 The real world is less reassuring. Under accounting and supervisory rules, bankers have to prepare for expected losses on loans that go sour, by making provisions now. The sums involved are staggering. The four big banks that have reported set aside $30bn, on top of the $20bn they earmarked in the first quarter. In total the bad-debt reserves they hold are equivalent to 2-4% of their consumer and corporate loan books. Provisions for bad loans now exceed those set aside at the height of the financial crisis. This dragged overall profits down by 50-70% year on year at the big banking conglomerates. Wells Fargo, which does not have a large Wall Street operation to offset charges for dud loans, recorded its first loss since 2008.

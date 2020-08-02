@@ -18,6 +18,8 @@ Fiscal rules are supposed to guard against politicians’ propensity to run up d
 
 The delicate area being irritated in this case is departmental spending. The current rules allow plenty of space for new capital projects but they pledge to balance the current budget within three years. Promises to increase spending on the National Health Service, hire 20,000 new police officers and protect schools funding while also cutting payroll taxes means a squeeze on other departments and local government. The need for a policy response to covid-19 puts further pressure on the existing fiscal framework. After falling from around 10% of GDP in 2009 to less than 2% today, the government’s deficit will probably start climbing again. That is less of a problem than many assume.
 
+
+
 ![](./images/20200307_BRC523.png)
 
 Britain’s existing stock of government debt may be high but the cost of servicing it is extremely low. In 2018-19 the net interest bill amounted to just 1.7% of GDP, the joint lowest of any year since the second world war. Borrowing costs amount to only 4.5% of tax revenues—well below the government’s rule of holding them below 6% (see chart). Demand for gilts has been high for two decades, which has pushed down yields.

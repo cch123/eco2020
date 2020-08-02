@@ -26,6 +26,8 @@ Supply-chain disruptions and infections have also hit the makers of semiconducto
 
 What about the longer term? Much will depend on what governments do, both in South Korea and elsewhere. Historically, the country has rebounded quickly from economic shocks. After the Asian financial meltdown of 1997, it took just two years for GDP to return to its pre-crisis peak. The country also emerged more quickly than others from the global financial crisis of 2008, because its banks were in better shape than a decade before and because the government responded aggressively, with a mix of fiscal and monetary stimulus.
 
+
+
 ![](./images/20200411_SRC520.png)
 
 It is responding to the covid-19 outbreak equally vigorously. Among other measures, the government launched a stimulus package of 11.7trn won, a financing plan worth 100trn won to help small businesses and a fund to stabilise bond and equity markets, similar to one it set up to cope with the crisis of 2008. If these measures work, the shock from the virus may be only temporary, says Mr Park. Christophe André of the OECD reckons that South Korea could emerge more quickly from the slump than other economies because it has good economic fundamentals and the fiscal space to finance its stimulus plans. But he worries that the pandemic will strengthen existing hostility to globalisation around the world. That could spell long-term damage for its export-heavy economy.

@@ -6,6 +6,8 @@
 
 > Jul 2nd 2020
 
+
+
 ![](./images/20200613_TQD001.jpg)
 
 Artificial intelligence is an oxymoron ([Technology quarterly](https://www.economist.com//technology-quarterly/2020/06/11/an-understanding-of-ais-limitations-is-starting-to-sink-in), June 13th). Intelligence is an attribute of living things, and can best be defined as the use of information to further survival and reproduction. When a computer resists being switched off, or a robot worries about the future for its children, then, and only then, may intelligence flow.
@@ -20,6 +22,8 @@ I agree that machine learning is overhyped. Indeed, your claim that such techniq
 
 TOM ARMSTRONGToronto
 
+
+
 ![](./images/20200620_BBD001.jpg)
 
 The scope of your research into green investing was too narrow to condemn all financial services for their woolly thinking (“[Hotting up](https://www.economist.com//briefing/2020/06/20/how-much-can-financiers-do-about-climate-change)”, June 20th). You restricted your analysis to microeconomic factors and to the ability of investors to engage with companies. It overlooked the bigger picture: investors can also shape the macro environment by structured engagement with the system itself.
@@ -30,11 +34,15 @@ It is critical that governments apply a meaningful carbon price. But if we are t
 
 STEVE WAYGOODChief responsible investment officerAviva InvestorsLondon
 
+
+
 ![](./images/20200530_FNP502_0.jpg)
 
 Estimating indirectly observable GDP in real time is indeed a hard job for macro-econometricians, or “wonks”, as you call us (“[Crisis measures](https://www.economist.com//finance-and-economics/2020/05/30/the-pandemic-could-lead-statisticians-to-change-how-they-estimate-gdp)”, May 30th). Most of the components are either highly lagged, as your article mentioned, or altogether unobservable. But the textbook definition of GDP and its components won’t be changing any time soon, as the reader is led to believe. Instead what has always and will continue to change are the proxy indicators used to estimate the estimate of GDP.
 
 MICHAEL BOERMANWashington, DC
+
+
 
 ![](./images/20200620_USD000.jpg)
 
@@ -43,6 +51,8 @@ Reading Lexington’s account of his garden adventures ([June 20th](https://www.
 Arthur C. Clarke once wrote: “Any sufficiently advanced technology is indistinguishable from magic.” Our version read, “Any sufficiently advanced lifestyle is indistinguishable from hillbillies.”
 
 PHILIP RAKITAPhiladelphia
+
+
 
 ![](./images/20200530_WBD001.jpg)
 

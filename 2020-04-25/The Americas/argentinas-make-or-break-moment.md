@@ -22,6 +22,8 @@ The pandemic greatly increases the urgency. With revenue crushed by recession, t
 
 The mood in the Casa Rosada, the presidential palace, is grim. Argentina may be headed for its ninth default. “Between pandemic and debt, now maybe default, it looks like double jeopardy,” says a presidential adviser. The consequences of default would be grisly. Output, squeezed by the lockdown, would shrink by far more than the 5.7% forecast by the IMF for this year. The peso would plunge, pushing inflation even higher. Unemployment and poverty would soar. Despite a history of default, “even we may not recognise what’s coming: economic meltdown and social unrest, alongside a pandemic,” warns Sergio Berensztein, a political analyst.
 
+
+
 ![](./images/20200425_AMC308_0.png)
 
 The government wants to wring the maximum relief it can from bondholders without triggering that disaster. Mr Guzmán is seeking a modest “haircut” of 5.4% on the principal (which would save the government $3.6bn) and a dramatic 62% cut in interest payments. These payments would start low, at just 0.5%, and late, beginning in 2023, when an election is due. They would peak in 2029 at less than 5%. Under this plan, the government would save $37.9bn on its interest bill.

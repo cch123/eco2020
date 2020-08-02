@@ -14,6 +14,8 @@ The mythology of Wall Street is built around the old Goldman playbook: mammoth d
 
 An investor who bought shares in Goldman in 2010 has had a disappointing decade. Back then its return on equity (ROE) was 11%, easily beating the 8% average for “bulge-bracket” American investment banks, a group including JPMorgan Chase and Morgan Stanley. By 2019 the average ROE was 9.7%, and Goldman’s was 9.2%. The share price has lagged both the stockmarket and other big banks (see chart).
 
+
+
 ![](./images/20200201_FNC303.png)
 
 Goldman hopes to catch up by focusing on two goals. The first is to expand market share in services such as wealth management and to offer easy access to “alternative” investments in private equity, private debt and real estate. The second is to make the existing business more efficient. The bank’s chief financial officer, Stephen Scherr, sketched out how prosaic functions, like transaction banking—processing payments and managing cash for corporate clients—and running a digital consumer bank, could reduce funding costs because they attract deposits.

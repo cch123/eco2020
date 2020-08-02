@@ -14,6 +14,8 @@ A SLIDE TRACKING Britain’s coronavirus death toll against other countries’ h
 
 As The Economist went to press, the confirmed British death toll stood at 33,186, the second highest reported figure in the world behind America (see chart). Britain is fourth for fatalities as a share of population. On May 13th, Boris Johnson told the House of Commons that although the death count was “deeply, deeply horrifying”, it would be premature to make international comparisons until the figures of excess deaths were released, which would capture cases where covid-19 was not recorded as a cause of death. The Economist’s calculations of excess deaths per 100,000 people in Britain, Belgium, France, the Netherlands, Spain and Sweden puts Britain at the top; data for America and Italy are not available.
 
+
+
 ![](./images/20200516_BRC613.png)
 
 Britain is not alone in experiencing shortages of protective equipment, a deficient testing regime and uncontrolled outbreaks of the virus in care homes. It is too soon to say how far the death toll is attributable to government missteps, demography or geography. Yet to many foreign observers, Britain’s death toll serves as confirmation of deeper-rooted problems: a political culture of hubris and exceptionalism; atrophied public services; inequality and poor health.

@@ -14,6 +14,8 @@ In the end people had plenty to eat: in late May 48% told Ipsos MORI, a pollster
 
 With many offices only half-open and most children off school, more meals are being eaten at home. Spending on groceries in the week to June 27th was 13% higher than a year ago, according to IRI, a research firm. Because fewer people are commuting, mealtimes have changed. “Evening meals will be earlier, breakfast will be later,” says Giles Quick of Kantar, another research outfit. Family meals are more frequent and more orderly—a main course followed by a dessert. Mr Quick, who is 61, says it reminds him of his childhood.
 
+
+
 ![](./images/20200711_BRC370_0.png)
 
 Old-fashioned foods are back. Over the past few decades the Family Food Survey has tracked a gradual decline in the eating of eggs and bacon. Britons are now consuming more of both, presumably in leisurely breakfast fry-ups. Sausages are selling well, too (see chart). Ready meals, the rise of which had come to seem inexorable, have not kept up with the general rise in grocery sales. They were often bought on the way home from the office.

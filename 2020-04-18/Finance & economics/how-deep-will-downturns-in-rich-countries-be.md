@@ -16,6 +16,8 @@ Economic crises expose and exacerbate structural weaknesses. Analysis by The Eco
 
 This recession will be no different. Three factors should help separate the bad economic outcomes from the dire ones: a country’s industrial structure; the composition of its corporate sector; and the effectiveness of its fiscal stimulus. The Economist has used indicators of these to rank, roughly, the exposure of 33 rich countries to the downturn. Some, such as those in southern Europe, appear far more vulnerable than America and northern European countries (see chart).
 
+
+
 ![](./images/20200418_FNC213.png)
 
 Take industrial structure first. Lockdowns will slam countries that depend on labour-intensive activities. Those with large construction sectors, such as many central European countries, look vulnerable. So do those that rely on tourism—it accounts for one in eight non-financial jobs in southern Europe. Conversely, those with large mining industries, which require less labour, may do better. Here Canada looks relatively insulated.

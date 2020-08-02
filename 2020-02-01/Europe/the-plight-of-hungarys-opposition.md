@@ -14,6 +14,8 @@ Now plans are afoot to pull off the same trick at parliamentary elections that a
 
 Still, those plans for 2022 involve a very big “if”. Agreeing on a few mayoral candidates is one thing: doing the same for each of the country’s 106 single-member constituencies, as well as drawing up a joint party list for the 93 proportionally elected MPs, is a lot harder. If the dozen or so opposition parties run separate lists, quirks that favour big parties in the electoral system Mr Orban rammed through in 2012 will continue to hammer them. Hardest of all, of course, will be to choose a candidate to be prime minister.
 
+
+
 ![](./images/20200201_EUC017.png)
 
 Who might it be? One obvious possibility is Gergely Karacsony, the newly ensconced mayor of Budapest. Looking every bit the university lecturer he used to be, dressed down in jeans, jacket and open-neck shirt, the 44-year-old Mr Karacsony has a platform to campaign from. But Mr Orban is already tying him in knots, linking money for the city to the construction of a new stadium for the World Athletics Championships in 2023, which the mayor said on the campaign trail that he did not want to build. Besides, Mr Karacsony insists that he doesn’t want the job, and would rather complete his term. His Dialogue party is tiny outside the capital.

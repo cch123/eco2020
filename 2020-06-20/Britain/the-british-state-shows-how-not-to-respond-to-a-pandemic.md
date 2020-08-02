@@ -16,6 +16,8 @@ Mr Padgham’s foresight was not enough to keep out the virus. There were five d
 
 Some aspects of the British response to the pandemic have been admirable. Its researchers are leading the search for drugs; an Oxford University trial has found the most promising one yet (see [article](https://www.economist.com//britain/2020/06/18/dexamethasone-cuts-covid-19-deaths)). The National Health Service has weathered the storm. Sweeping organisational changes—including postponing elective surgeries, discharging inpatients and buying private beds—saved it from being overwhelmed. But measured by the number of deaths over and above those that would normally be expected, Britain nevertheless appears to have the highest death rate in the developed world (see chart 1).
 
+
+
 ![](./images/20200620_BRC102.png)
 
 Lots of factors beyond the government’s control contributed to this. Care homes are a popular way to look after old folk. Britons are fatter than their fellow Europeans. The large ethnic-minority population is disproportionately likely to suffer from diabetes and heart disease, which increase the risk of severe covid-19. Genomic analysis suggests Britain imported lots of cases from Spain, before it was clear how prevalent the virus was there. One in seven Britons live in London, an international travel hub which prior to the pandemic received nearly 1,500 flights a day.
@@ -48,9 +50,13 @@ Economic life is restarting in Britain, but more slowly than elsewhere. Hospital
 
 Britain’s economic structure—it is under-represented in the worst-hit businesses, such as transport and hospitality, and has a lot of service jobs that can be done from home—should have insulated it somewhat against the covid-19 shock. But because of the long lockdown, it looks likely to be near the bottom of the global league table for growth in 2020 (see chart 5).
 
+
+
 ![](./images/20200620_BRC133.png)
 
 The best performing rich countries, such as South Korea, are those that managed to keep the pandemic under control. The worst hit economically, such as Spain and Italy, are those with much higher death rates. When public opinion will not tolerate elevated death rates, the trade-off between public health and the economy dissolves. A healthy population and a healthy economy go hand in hand.
+
+
 
 ![](./images/20200620_BRC111.png)
 

@@ -14,6 +14,8 @@ ONE OF THE great questions of the past six months is where SARS-CoV-2, the virus
 
 This is the hunch of Peter Daszak, head of EcoHealth Alliance, an organisation which researches animals that harbour diseases that move into people. Since the outbreak, in 2003, of the original SARS (now known as SARS-CoV), scientists have paid close attention to coronaviruses. Dr Daszak says that around 16,000 bats have been sampled and around 100 new SARS-like viruses discovered. In particular, some bats found in China are now known to harbour coronaviruses that seem pre-adapted to infect people. The chiropteran hosts of these viruses have versions of a protein called ACE2 that closely resemble the equivalent in people. This molecule is used by SARS-like viruses as a point of entry into a cell.
 
+
+
 ![](./images/20200725_STM930.png)
 
 That such virological diversity has so far been found only in China is because few people have looked at bats in countries on the other side of the border. Yet these places are likely to be an evolutionary hotspot for coronaviruses—one that mirrors bat diversity (see map). The horseshoe bats in Yunnan which harbour close relatives of SARS-CoV-2 are found across the region. Other countries are thus likely to have bats with similar viral building blocks. Dr Daszak believes it is “quite likely that bats in Myanmar, Laos and Vietnam carry similar SARS-related coronaviruses, maybe a huge diversity of them, and that some of them could be close to SARS-CoV-2”.

@@ -14,6 +14,8 @@ The apparent blast was one in a string of unusual incidents around Iran this sum
 
 But others look intentional. The blasts at Parchin and Natanz raise suspicions of an Israeli hand. For months the conflict over Iran’s nuclear programme has been overshadowed by covid-19. Now the virus may have helped resurrect it. President Donald Trump’s botched handling of America’s outbreak has put his re-election in doubt, and Israel may feel the clock is ticking on an administration committed to “maximum pressure” on Iran.
 
+
+
 ![](./images/20200711_MAM984.png)
 
 Not that anyone will confirm this. Save for rare exceptions, Israel does not take responsibility for covert operations in Iran. Officials settle for cryptic remarks like those made by Gabi Ashkenazi, the foreign minister, on July 5th: “We take actions that are better left unsaid.” That same day Binyamin Netanyahu, the prime minister, extended the tenure of Yossi Cohen, the Mossad chief. Ten days before, the army had awarded medals to Unit 8200, which oversees high-tech warfare, for “secret operational activity”; in May Iran’s main port was paralysed by a cyber-attack.

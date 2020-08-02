@@ -16,6 +16,8 @@ Take Italy and Germany. On March 25th Italy had recorded 74,386 cases of covid-1
 
 First, in any country the number of confirmed covid-19 cases is an unknown fraction of the actual number of cases. Both Italy and Germany have been testing lots of people. In Germany, where different doctors and regions have different practices as to whom they test, accurate national figures on the number of tests done are hard to verify. That makes comparing the two countries tricky. But the broad consensus seems to be that there has been a greater degree of testing in Germany, meaning that it is spotting more mild cases of the disease than Italy. Severe ones end up in hospital, where they are obviously easy to count.
 
+
+
 ![](./images/20200328_EUC879.png)
 
 What is clearer is that the first wave of covid-19 infections in Italy was predominantly among older people, who are far more likely to die than younger people, even with the best of care. The median age of those diagnosed with covid-19 in Italy is 63 years, compared with 47 in Germany. The two countries have a similar share of older people in the general population. But only 20% of cases reported in Germany are people aged over 60, compared with 56% of those in Italy. The early German cases seem to have contracted the disease at carnivals and ski-resorts, which explains why the initial profile is so young.

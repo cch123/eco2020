@@ -42,6 +42,8 @@ Another finding is that people who are more easily disgusted are more likely to 
 
 People who are highly sensitive to disgust are especially likely to oppose immigration. This is true even after controlling for education, income and political ideology. A possible explanation, suggest Lene Aarøe and Michael Bang Petersen of Aarhus University and Kevin Arceneaux of Temple University, is that because disgust evolved as a defence mechanism against sickness, it prompts people to shun unfamiliar stimuli and unfamiliar people. “Those who are prone to experience disgust unconsciously tag immigrants as bearers of pathogens and experience strong motivations to avoid them,” they argue.
 
+
+
 ![](./images/20200111_IRD002_0.jpg)
 
 There is a logic to this. Foreigners have in the past been a source of germs to which the locals lack resistance—just ask Native Americans. But these days a vague feeling that foreigners are yucky is, to put it mildly, a less reliable guide to whether they are carrying pathogens than, say, testing them. Modern medicine allows people to interact with strangers with minimal risk of death. When Donald Trump, a germophobe who uses hand sanitiser after touching others, talks of “tremendous infectious disease...pouring across the border”, he is making an emotionally powerful case for immigration restrictions, but not a rational one.

@@ -26,6 +26,8 @@ Measures aimed at preventing another surge of covid-19 have added to the complex
 
 Nevertheless, on the supply side, the overall picture is encouraging. Large companies report that they are fully operational. Foxconn, which makes most of Apple’s iPhones in China, has said that it will resume normal production by the end of March. Even many smaller companies are in good shape. Sean Xie, the general manager in China of Lenze, a German automation company, says that all 260 of its employees had returned to its factory in Shanghai as of March 20th, apart from a couple still stuck in Wuhan, the centre of the outbreak of covid-19 (Wuhan plans to lift its lockdown on April 8th).
 
+
+
 ![](./images/20200328_CNC888.png)
 
 Resuscitating demand is proving more difficult. It involves two things that are harder for the government to manage: global growth and public anxiety about the disease. Officials had hoped that factories, once up and running, would be able to tap into strong demand abroad. The relentless march of the virus around the world has put paid to that. “All the wheels started spinning very quickly here, but the orders aren’t there,” says a chemicals executive who oversees a factory in the city of Wuxi.
@@ -35,6 +37,8 @@ China can take some solace in the fact that it relies less on exports than it di
 A good proxy for the state of consumption in China is urban traffic. Some thus welcome the return of traffic jams: congestion has reached about 90% of its normal level (see chart). But a closer look is less comforting. Some people who used to take subways to work are using cars instead, to limit contact with others. Passenger numbers on subways are down by roughly two-thirds in big cities. Unusually, there is no road congestion at the weekend. The occupancy rate of a posh international hotel chain is in the single digits, says the company’s boss in China. Bao Wenjun, who owns a restaurant in Shanghai selling cheap and tasty noodles, says that his revenues are down by nearly three-quarters.
 
 For consumption to recover, people must feel confident. They do not. Most provinces have reduced their emergency-alert levels. Even Hubei, the worst-hit, has started to let people (other than residents of Wuhan, the capital) travel elsewhere. But anxiety abounds. Except in a few remote regions, schools are into their second month of closure. Only about 500 of the country’s 11,000 cinemas have re-opened. The government has tightened border controls because many travellers—541 at last count—have tested positive for the virus after arriving from abroad.
+
+
 
 ![](./images/20200328_CNP002_0.jpg)
 

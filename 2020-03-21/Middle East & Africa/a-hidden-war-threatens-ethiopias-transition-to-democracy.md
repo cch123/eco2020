@@ -16,6 +16,8 @@ This was not what Ethiopians expected from Abiy Ahmed, who became prime minister
 
 Abiy made peace with neighbouring Eritrea, for which he won the Nobel Peace Prize, as well as with rebel groups including the Oromo Liberation Front (OLF), which is now an opposition party. The group’s armed wing, the Oromo Liberation Army (OLA), agreed to put down its guns; in return its soldiers were to join Oromia’s police. Many hoped to see the end of an insurgency that began almost 50 years ago.
 
+
+
 ![](./images/20200321_MAM996.png)
 
 But the social fractures that lifted Abiy to high office continue to divide Ethiopia. Years of unrest in Oromo areas have weakened local government and left a security vacuum. In Wollega (to the west) and Guji (in the south) returning rebels stepped into the breach, sometimes working with the police to enforce order. But they soon began accusing the government of betraying the Oromo cause and reneging on promises to give them jobs in the police. The government, in turn, accused the OLA of keeping its weapons. The details of the peace deal were never disclosed, making it easier for both sides to accuse the other of failing to honour it.

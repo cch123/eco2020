@@ -18,6 +18,8 @@ Disruption will also have rippled along manufacturers’ supply chains, many of 
 
 Added to all of this is the economic impact of the outbreak of the virus in northern Italy. The country’s most productive regions, Lombardy and Veneto, have been the most seriously affected. Together they account for nearly a third of output. On March 4th the government ordered the closure of schools and universities nationwide until March 15th. Such containment measures could force more people to stay at home, leading to a further drop in economic activity.
 
+
+
 ![](./images/20200307_EUC583.png)
 
 All told, another bad year for Italy and Germany seems likely (see chart). Analysts at Goldman Sachs are expecting both to fall into recession in the first half; the euro area as a whole is expected narrowly to skirt one. Forecasters are pencilling in a sharp rebound in the second half of the year. But precisely when it comes will depend on the extent to which the virus spreads and on the measures taken to contain it. Authorities in France, for instance, have banned large-scale indoor events. Some tourist attractions, such as the Louvre, have closed. That will slow the spread of the virus. But it will also drag down output: according to the OECD, tourism accounts for 7% of France’s GDP, and around 12% in Portugal and Spain.

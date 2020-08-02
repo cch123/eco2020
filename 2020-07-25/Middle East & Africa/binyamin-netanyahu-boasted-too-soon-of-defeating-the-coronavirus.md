@@ -14,6 +14,8 @@ GO OUT, GET a coffee, have a beer, said Binyamin Netanyahu. “First of all, hav
 
 They may want to stop. Although Israel pushed new cases of covid-19 down to a handful a day in late May and early June, they are now close to 2,000, higher than the previous peak (see chart). The disease is spreading faster in Israel than in most other developed countries (though not America). So the government is locking down again. On July 17th it shut schools and gyms. Malls and shops were told to close on weekends. All indoor gatherings of ten or more people are banned.
 
+
+
 ![](./images/20200725_MAC565.png)
 
 But the new closures look haphazard. For example, restaurants, beaches and pools were closed—then opened again, with some restrictions. Even Mr Netanyahu admits that the actions are “not scientific”. His critics are harsher. “An entire country is trying to understand why decisions are made in the middle of the night without any data,” wrote Yair Lapid, the head of the opposition, on Twitter. Fewer than a third of Israelis are satisfied with the way Mr Netanyahu is handling the crisis, according to recent polls. Thousands of people have taken to the streets in Jerusalem and Tel Aviv to call for his resignation and to demand more aid for people and businesses hurt by the outbreak.

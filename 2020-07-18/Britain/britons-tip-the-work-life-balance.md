@@ -14,6 +14,8 @@ It turns out he was wrong. In March, when covid-19 began to spread rapidly in Br
 
 Workers everywhere find it tricky to juggle the competing demands of work, family and social life. But evidence suggests Britons find it trickier than most of their European counterparts (see chart). According to an index produced by the OECD, a typical Briton spends roughly an hour a day less sleeping or at leisure than workers in comparable European countries. And 12% of them work more than 50 hours a week—a larger proportion than in America and nearly three times as many as in Germany. Despite all this toil, Britain’s productivity lags behind its competitors.
 
+
+
 ![](./images/20200718_BRC488.png)
 
 The pandemic has upended these norms. Millions of staff have been furloughed; thousands of redundancies are being announced each week. But even the majority who have kept their jobs are doing them in different places and in different ways. On July 10th Boris Johnson began encouraging workers to return to their offices, in part to revive plummeting demand for firms that depend on old working habits, such as sandwich shops. That will be hard going since, on the whole, employees are keen on working from home. According to a YouGov poll published in May by Skillcast, a compliance-training firm, two-thirds of Britons would like to continue doing so, at least some of the time.

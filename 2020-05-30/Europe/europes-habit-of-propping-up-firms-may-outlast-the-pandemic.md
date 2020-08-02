@@ -18,6 +18,8 @@ Trouble is: they might get used to it. Even before the crisis, Europe was moving
 
 European state-aid rules are a policymaking oddity. American states, for example, can and do try to poach companies from each other with promises of tax breaks, soft loans and the like. Europe went for the subsidy equivalent of a disarmament pact. All aid that isn’t expressly allowed to companies is banned, even to state-owned firms. Governments are regularly taken to task for everything from granting football clubs subsidised land to giving multinationals sweetheart tax deals. Policing this is one of the real powers wielded by Brussels, where the rules are enforced by the same commission officials who regulate antitrust.
 
+
+
 ![](./images/20200530_EUC725.png)
 
 Tensions have long brewed between that bit of the commission, overseen since 2014 by Margrethe Vestager, the competition commissioner, and some member states. France and Germany have repeatedly demanded competition rules be bent to allow the creation of “European champions”. They were furious last year when Ms Vestager blocked the planned merger of the rail bits of Siemens and Alstom.

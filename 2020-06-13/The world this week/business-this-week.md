@@ -12,6 +12,8 @@ Hot on the heels of an aid package for the car industry, the French government a
 
 Christine Lagarde defended the measures taken by the European Central Bank in response to the euro zone’s downturn, describing them as “temporary, targeted and proportionate”. The ECB’s president made her comments a few days after the bank expanded its bond-buying programme by €600bn ($683bn), taking the total amount to €1.35trn, and extended the scheme until at least June 2021. At its latest meeting the Federal Reserve said it did not envisage raising interest rates, which are near zero, before the end of 2022.
 
+
+
 ![](./images/20200613_WWC029.png)
 
 In a sobering assessment of the world economy, the World Bank said it expects global GDP to contract by 5.2% this year, bringing about the fourth- deepest recession since 1900 and the most severe since the end of the second world war. Rich-country economies are projected to shrink by 7% on average, and emerging markets by 2.5%, the first contraction for developing countries as a group in at least 60 years. Income per head will fall by 3.6%, pushing millions of people into extreme poverty. See [article](https://www.economist.com//leaders/2020/06/11/most-investors-and-some-firms-are-upbeat-about-the-world-economy).

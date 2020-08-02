@@ -22,6 +22,8 @@ The IEA, though, has persistently underestimated the renewable-energy sector. Ot
 
 Previously, drops in emissions caused by economic downturns have proved only temporary setbacks to the ongoing rise in fossil-fuel use. The collapse of the Soviet Union in 1991, the Asian financial crash in 1997 and the financial crisis of 2007-09 all saw emissions stumble briefly before beginning to rise again (see chart). But if a peak really was a near-term prospect before the pandemic, almost a decade’s worth of setback could mean that, though emissions will rise over the next few years, they never again reach the level they stood at last year.
 
+
+
 ![](./images/20200523_FBC672.png)
 
 The alternative, more orthodox pre-covid view was that the peak was both further off and destined to be higher. On this view, emissions will regain their pre-pandemic level within a few years and will climb right on past it. Covid’s damage to the economy probably means that the peak, when it arrives, will be lower than it might have been, says Roman Kramarchuk of S&P Global Platts Analytics, a data and research firm. But an economic dip is unlikely to bring it on sooner.

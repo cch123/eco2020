@@ -24,6 +24,8 @@ Good intentions of bosses aside, untangling the problem of race and corporate Am
 
 Finding definitive numbers on the ethnic make-up of individual firms is impossible because companies hide such data for fear of public shaming or racial-discrimination lawsuits. The federal government requires firms to reveal this data to bureaucrats but it is not made public. No firm is required to reveal pay inequities by race. Only a handful of technology firms, including Intel, voluntarily make data on pay and ethnicity open for scrutiny.
 
+
+
 ![](./images/20200613_WBC012.png)
 
 Even so, the picture painted by public data is grim (see chart). Black people make up over 13% of America’s population. However, only four current Fortune 500 CEOs are black (and none are female), and there have been only 17 in the past two decades. Less than 3% of senior corporate jobs and under 8% of all white-collar jobs are held by African-Americans. They comprise just 3% of Silicon Valley’s workforce. Black unemployment is persistently twice that of whites. And the black-white wage disparity, which extends from blue-collar workers to those holding advanced degrees, has grown over the past 20 years.

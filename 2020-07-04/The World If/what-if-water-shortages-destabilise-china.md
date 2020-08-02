@@ -12,6 +12,8 @@ Editor’s note: Each of these climate-change articles is fiction, but grounded 
 
 THE DEADLY heatwave that has gripped Asia for five months has had many unexpected consequences. One of the more surprising has been Chinese political and business leaders feuding, semi-publicly, about the unequal way China’s water is shared out. This was supposed to be a quiet year for Communist Party rulers, who spent 2049 noisily celebrating their regime’s 100th anniversary. Instead they are on high alert.
 
+
+
 ![](./images/wif_spec_2.png)
 
 The spark for the current political crisis was the success of “Yu the Great”, a two-hour documentary about a nobleman whose flood-fighting genius saw him named emperor 4,000 years ago. The film was watched more than 4bn times before censors cracked its cryptomorphic packaging. Its producer and narrator, one of China’s richest technology magnates, was detained last month in Shenzhen and has not been seen since.
@@ -37,6 +39,8 @@ At home in China, government scientists do not dispute the dangers posed by man-
 In 2035, with water in ever-shorter supply, China conducted its first Water Census, estimating available water resources per resident of each city and county. Those places with plenty were colour-coded green. Areas suffering from water stress were given an orange code, while those with dangerously few resources were coloured red. The populations of arid, red-coded places may not grow, by law. In practice, many arid areas have emptied, as locals realised no new government funds would be forthcoming for roads, schools or hospitals or to support economic development.
 
 At first, many Chinese did not pay close attention, because a first wave of forced relocations disproportionately affected ethnic minorities living in western regions. In all, perhaps 8m members of the Uighur, Kazakh, Hui and Mongol minorities have now moved from red-coded areas. Some ended up as workers in high-walled factories run with paramilitary discipline. Others, carrying identity cards branding them as migrants from “arid” areas, have suffered discrimination in their new homes. These environmental migrants—though China rejects that label—often struggle to register children in schools or access public services.
+
+
 
 ![](./images/20200704_WIC003_0.png)
 

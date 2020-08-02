@@ -6,6 +6,10 @@
 
 > May 30th 2020
 
+
+
+https://infographics.economist.com/2020/20200530_GDC101/index.html
+
 AS COVID-19 spreads, scientists are racing to study it. Although journals have tried to speed up peer review, many authors bypass it altogether by uploading working papers to preprint sites. Flimsy findings can then travel as fast as the virus.
 
 Most scholars who share preprints are doing their best to make vital discoveries. However, some authors seek to pad thin résumés by publishing underwhelming, repetitive or fake research. As safeguards are relaxed, journalists and governments need to be on high alert to spot such studies.
@@ -16,13 +20,23 @@ Some scammers are careless. Mike Daube, a professor of public health, got his do
 
 Journals’ fields offer few clues. The mix of topics is similar on Cabells’ whitelist, of 16,000 reliable journals, and its blacklist. On both, a third of titles relate to health.
 
+
+
+https://infographics.economist.com/2020/20200530_GDC102/index.html
+
 Geography is more revealing. Cabells lists only a few reliable Nigerian journals, but 1,100 predatory ones. India’s figures are 300 and 4,400. Another 5,800 blacklisted titles claim to be based in Europe or North America but do not provide evidence, such as a valid address. The authors of these papers are often from developing countries, but Western academics have been caught red-handed as well. Many scholars claim to have been duped into using such journals.
 
 The average predatory journal publishes about 50 articles a year, less than half the output of a reliable title, according to Bo-Christer Björk of the Hanken School of Economics in Helsinki. And 60% of papers in such journals receive no future citations, compared with 10% of those in credible ones. Still, that leaves 250,000 questionable articles per year that do get cited.
 
+
+
+https://infographics.economist.com/2020/20200530_GDC103/index.html
+
 Cabells’ guidelines will only start to catch dodgy studies on covid-19 once they appear in predatory journals. But the fact that so many “scholars” use such outlets means that working papers on the disease should face extra-thorough scrutiny. ■
 
 Source: Cabells 
+
+
 
 ## URL
 

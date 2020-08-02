@@ -14,6 +14,8 @@ ON APRIL 15th the Brexit negotiators, Michel Barnier for the European Union and 
 
 That makes the end-December deadline for a trade deal more problematic. When a transition period was first proposed, it was due to last for 21 months. Little more than six months are now left to strike a deal, which experience suggests is too short a period both to negotiate and to ratify one (see chart). Covid-19 has already led to the postponement of much else, from the Olympics to the COP26 climate summit. So why not use the clause in the Brexit withdrawal treaty providing that, before end-June, the deadline can be extended by mutual agreement for up to one or two years?
 
+
+
 ![](./images/20200418_BRC257.png)
 
 Officials on both sides now think this would be sensible, given the likely economic damage, on top of that from covid-19, of a December departure with no trade deal. Opinion polls suggest that a clear majority of voters would accept an extension. But the government insists that it will not ask for one.

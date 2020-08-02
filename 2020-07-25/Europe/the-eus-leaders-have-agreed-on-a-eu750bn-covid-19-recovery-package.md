@@ -16,6 +16,8 @@ The deal broke two historic taboos, says Silvia Merler, head of research at Alge
 
 Europe has marshalled a fiscal response to the covid crisis equal to or better than America’s. The NGEU is worth some 4.7% of the EU’s annual GDP, albeit spread over several years, and comes on top of national governments’ stimulus efforts. The EU has plugged the budgetary hole left by the departure of Britain. It has answered the European Central Bank’s pleas to balance its monetary activism with a comparable fiscal effort, and will provide investors with a steady stream of safe assets. It may have set a precedent for future crises to be met with collective debt, although that will be ferociously resisted, not least by the self-styled “frugal four”—Austria, Denmark, the Netherlands and Sweden—who were the biggest hurdle to striking a deal.
 
+
+
 ![](./images/20200725_EUC597_0.png)
 
 The recovery funds will initially be allocated to countries using criteria like unemployment and income per person. That will benefit the likes of Spain, and Italy, which says it is in line for €209bn in loans and grants. The commission will evaluate governments’ investment plans on the basis of its annual “country-specific recommendations”, usually toothless reform checklists that Ursula von der Leyen, the commission’s president, says will now pack “more punch”. Fully 30% of MFF and NGEU spending should be devoted to climate action, potentially creating a vast green stimulus.

@@ -12,11 +12,15 @@ NO ONE WELCOMES a recession, but downturns are especially difficult when you are
 
 Severe deprivation is certainly on the rise. According to a new survey from the Census Bureau, since the pandemic began the share of Americans who “sometimes” or “often” do not have enough to eat has grown by two percentage points, representing some 2m households. An astonishing 20% of African-American households with children are now in this position. Meanwhile, the proportion of Americans saying that they are able to pay the rent is falling. Many more people are typing “bankrupt” into Google.
 
+
+
 ![](./images/20200711_USC247.png)
 
 Yet these trends, bad as they are, do not appear to be part of a generalised rise in poverty. The official data will not be available for some time. A new paper from economists at the University of Chicago and the University of Notre Dame, however, suggests that poverty, as measured on an annual basis, may actually have fallen a bit in April and May, continuing a trend seen in the months before the pandemic hit (see chart 1).
 
 Why? The main reason is that fiscal policy is helping to push poverty down. The stimulus plan passed by Congress is twice the size of the one passed to fight the recession of a decade ago. Much of it, including cheques worth up to $1,200 for a single person and a $600-a-week increase in unemployment insurance (UI) for those out of work, is focused on helping households through the lockdowns. At the same time, unemployment now looks unlikely to rise to 25% or higher, as some economists had predicted in the early days of the pandemic, thereby exerting less upward pressure on poverty than had been feared.
+
+
 
 ![](./images/20200711_USC279.png)
 

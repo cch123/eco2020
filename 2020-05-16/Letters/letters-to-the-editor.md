@@ -6,6 +6,8 @@
 
 > May 14th 2020
 
+
+
 ![](./images/20200502_IRD001_apple_news.jpg)
 
 I was dismayed by your leader calling for schools to reopen (“[Open schools first](https://www.economist.com//leaders/2020/04/30/when-easing-lockdowns-governments-should-open-schools-first)”, May 2nd). Terry Jones of the Department of Zoology at Cambridge University and his colleagues in Germany studied 3,700 patients with covid-19 and found no significant difference in the viral load in patients among age categories, including children. The study reckoned that children may be as infectious as adults. Paul Hunter of the Norwich Medical School found that closing schools was one of three of the most effective measures in reducing the transmission rate of the disease. (Both studies have not been peer-reviewed.)
@@ -34,6 +36,8 @@ Your special report on [South Korea](https://www.economist.com//special-report/2
 
 JAMES LENNOXProfessor emeritus of history and philosophy of scienceUniversity of Pittsburgh
 
+
+
 ![](./images/20200411_IRD004_apple_news.jpg)
 
 There is a basic reason why virtual worship online will not replace the traditional visit to a house of God (“[Our Father, who art in cyberspace](https://www.economist.com//international/2020/04/11/churches-turn-to-the-internet-to-reach-their-flocks)”, April 11th). Religious rituals have been designed to stimulate all five senses. Think of the spectacle of a Catholic mass, the colourful religious processions of the Hindus, the adhans of the mosque, the horns of Tibetan monasteries, the cake and wine of the Eucharist, the chashni of the Zoroastrians, the incense of Shinto shrines and the ghee poured into the Hindu havan, just a few of the world’s thousands of religious rituals that stimulate the senses of their followers.
@@ -41,6 +45,8 @@ There is a basic reason why virtual worship online will not replace the traditio
 As for the sense of touch, this obviously needs more than one worshipper to be present. It is for this same reason that virtual company meetings are insipid compared with the real thing.
 
 NAWSHIR MIRZAMumbai
+
+
 
 ![](./images/20200411_ASD001_apple_news.jpg)
 

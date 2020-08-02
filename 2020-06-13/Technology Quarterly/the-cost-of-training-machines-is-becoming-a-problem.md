@@ -14,6 +14,8 @@ For many comparatively simple AI applications, that means that the cost of train
 
 Dr Manning gives the example of BERT, an AI language model built by Google in 2018 and used in the firm’s search engine. It had more than 350m internal parameters and a prodigious appetite for data. It was trained using 3.3bn words of text culled mostly from Wikipedia, an online encyclopedia. These days, says Dr Manning, Wikipedia is not such a large data-set. “If you can train a system on 30bn words it’s going to perform better than one trained on 3bn.” And more data means more computing power to crunch it all.
 
+
+
 ![](./images/20200613_TQC666.png)
 
 OpenAI, a research firm based in California, says demand for processing power took off in 2012, as excitement around machine learning was starting to build. It has accelerated sharply. By 2018, the computer power used to train big models had risen 300,000-fold, and was doubling every three and a half months (see chart). It should know—to train its own “OpenAI Five” system, designed to beat humans at “Defense of the Ancients 2”, a popular video game, it scaled machine learning “to unprecedented levels”, running thousands of chips non-stop for more than ten months.

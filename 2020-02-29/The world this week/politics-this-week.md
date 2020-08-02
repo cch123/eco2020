@@ -26,6 +26,8 @@ Sajid Javid, who resigned as Britain’s chancellor of the exchequer after a ski
 
 The race to be the next leader of Germany’s ruling Christian Democrats, and probable chancellor after Angela Merkel quits next year, now has only three runners. Armin Laschet, the premier of North Rhine-Westphalia, got a big boost when Jens Spahn, the up-and-coming federal health minister, said he would not contest the race, but would support him instead.
 
+
+
 ![](./images/20200229_WWP001.jpg)
 
 Residents of the Greek islands of Lesbos and Chios fought with riot police in an attempt to stop an expansion of detention camps to house more migrants arriving mostly from the Middle East via Turkey.

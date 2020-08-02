@@ -18,6 +18,8 @@ After the Victorian boom, the railways went into a long decline. Traffic fell fo
 
 That is the root cause of much of the commuter woe. According to the Railway Industry Association track utilisation is 60% higher in Britain than the EU average. According to Network Rail, the publicly owned manager of the track, around 70% of delays are the knock-on effects of congestion. The shrinkage of Britain’s network has also forced operators to run freight, intercity and commuter trains on the same stretches of track. The need to accommodate slower running stopping trains reduces the number of higher speed trains which can run on the same length of track. In mainland Europe, there has been a push to move freight and commuter trains onto different lines.
 
+
+
 ![](./images/20200208_BRM954.png)
 
 The core argument for HS2 was always about capacity, but in the late 2000s the then transport secretary Andrew Adonis (a real “rail geek”, according to transport officials) was determined to build a super high spec line rather than simply mirroring the existing West Coast Mainline. The result is HS2, which will run from London to Manchester and Leeds (see map).

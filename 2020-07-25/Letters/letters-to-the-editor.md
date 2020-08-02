@@ -8,6 +8,8 @@
 
 Letters are welcome via e-mail to [letters@economist.com](https://www.economist.com/mailto:letters@economist.com%20)
 
+
+
 ![](./images/20200704_CNP002.jpg)
 
 Hong Kong’s new national-security law is hardly “draconian” or “sweeping” (“The evening of its days”, [July 4th](https://www.economist.com//china/2020/07/02/a-new-national-security-bill-to-intimidate-hong-kong), “The party’s grip”, [July 11th](https://www.economist.com//china/2020/07/11/under-a-new-national-security-law-hong-kong-is-already-a-changed-city)). It is relatively mild as far as national-security laws go, focusing on just four well-defined and well-confined activities: secession, subversion of state power, terrorist activities and collusion with foreign or external forces. Nor is it spreading fear among the vast majority of Hong Kongers. After a year of violent protests and traumatising social and business disruption, we are returning to a stable, secure life.
@@ -20,6 +22,8 @@ Let me stress that Hong Kong’s fundamental freedoms remain intact under the Ba
 
 MATTHEW CHEUNG KIN-CHUNGChief secretary for administrationHong Kong Special Administrative Region Government
 
+
+
 ![](./images/20200627_LDD003_0.jpg)
 
 You lauded short-sellers because they occasionally correct the price of falsely or overvalued shares (“In praise of short-sellers”, [June 27th](https://www.economist.com//leaders/2020/06/24/wirecards-scandal-shows-the-benefits-of-short-sellers)). Yet on a routine basis small- and mid-cap companies that are known to require additional funds find that their market capitalisation declines alarmingly. Short-traders benefit from highly discounted dilutive rights issues, or defaults. The short interests have deep pockets and routinely work like a pack without actual collaboration through comments on social media and bulletin boards. This is destructive and makes markets such as AIM a dangerous place for a company known to need investment, and for the unwary to invest.
@@ -30,11 +34,15 @@ ALISTAIR HINDLEEdinburgh
 
 MARK NELSONDenver
 
+
+
 ![](./images/20200627_LDD002.jpg)
 
 The list of odd and now defunct Olympic events you proffered in “Citius, Altius, Fortnite” ([June 27th](https://www.economist.com//leaders/2020/06/27/why-the-next-olympics-should-include-fortnite)) overlooked the equestrian long jump at the games in 1900. Constant van Langhendonck, a Belgian horse-rider, won gold with an unimpressive leap of 6.1 metres, one metre below the winning long jump in the athletics competition. Admittedly the athlete in that event did not have to carry a jockey.
 
 RAF MOONSMortsel, Belgium
+
+
 
 ![](./images/20200620_BKP015.jpg)
 
@@ -44,6 +52,8 @@ At its heart is Patrick McGoohan’s performance as Number 6, a former spy who r
 
 MICHAEL KACZOROWSKIOttawa, Canada
 
+
+
 ![](./images/20200613_WBD001.jpg)
 
 Bartleby’s musings on pointless esoteric acronyms really resonated with me ([June 13th](https://www.economist.com//business/2020/06/11/lessons-from-100-columns)). Although technical abbreviations are still regularly used in hospitals, CBT (Chronic Burger Toxicity), UDI (Unidentified Drinking Injury) and OFIG (One Foot In the Grave), have for some reason fallen out of favour.
@@ -51,6 +61,8 @@ Bartleby’s musings on pointless esoteric acronyms really resonated with me ([J
 Adam Fox, who has researched the use of medical slang, once recalled the story of a doctor who had scribbled TTFO (polite translation: patient told to leave) on a patient’s notes. When asked in court what this meant, the doctor replied shrewdly that he had advised the patient “to take fluids orally” before sending him on his way.
 
 DR JOSHUA RABINOWITZLondon
+
+
 
 ![](./images/20200711_LDD002.jpg)
 

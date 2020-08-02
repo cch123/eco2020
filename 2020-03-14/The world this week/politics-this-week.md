@@ -36,6 +36,8 @@ Prince Ahmed bin Abdel-Aziz, a brother of Saudi Arabia’s King Salman, and Prin
 
 Abdalla Hamdok, the prime minister of Sudan, survived a gun-and-bomb attack on his motorcade. The assassination attempt highlights the precariousness of the country’s transition towards democracy.
 
+
+
 ![](./images/20200314_WWC002.png)
 
 The World Health Organisation officially declared covid-19 to be a pandemic: “We have rung the alarm bell loud and clear.” See [article](https://www.economist.com//leaders/2020/03/12/the-politics-of-pandemics).

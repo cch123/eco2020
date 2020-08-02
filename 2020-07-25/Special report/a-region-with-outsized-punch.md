@@ -22,6 +22,8 @@ The Midwest is not the place of rusting cities and reactionary farmers of popula
 
 In politics, too, there has been cause for cheer. Some towns have become beacons of liberalism (even if that causes unease in rural parts). Illinois legalised marijuana this year and was planning to wipe clean prison records for thousands of people. In Michigan, early this year, lawmakers were seeking ways to shrink its jail population. Two years ago, each of two urban districts in Michigan and Minnesota elected Muslim women to Congress.
 
+
+
 ![](./images/20200725_SRM911.png)
 
 Chicago last year elected as mayor Lori Lightfoot, an African-American, lesbian, ex-prosecutor. At the start of this year another Midwesterner, Pete Buttigieg, a 38-year-old ex-mayor of South Bend, Indiana, was making a serious run to be the Democratic presidential nominee. Few fussed that he is married to a man. Amy Klobuchar, a senator from Minnesota, was offering centrist policies that appealed to many moderates.

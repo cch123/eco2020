@@ -16,6 +16,8 @@ The policy response has been swift and decisive. Globally central banks have cut
 
 The upshot is that the state is swelling. Last year overall government spending accounted for 38% of GDP across the rich world. The stimulus effort, combined with a fall in nominal GDP in the next few months, will push that ratio well above 40%, perhaps to its highest-ever level.
 
+
+
 ![](./images/20200328_FBC882.png)
 
 To focus just on the numbers misses something crucial, though. There are important qualitative changes under way in how policymakers manage the economy—the responsibilities they have seized for themselves, what is seen as a legitimate action and what is not, and the criteria used to judge policy success or failure. On these measures, the world is in the early stages of a revolution in economic policymaking.
@@ -24,6 +26,8 @@ Central banks have in effect pledged to print as much money as necessary to keep
 
 Politicians, too, are ripping up the rulebook. In a standard recession firms are allowed to go bust and people to become unemployed. Even in normal economic times, roughly 8% of businesses in OECD countries go under each year, while 10% or so of the workforce lose a job. Now governments hope to stop this from happening entirely. President Emmanuel Macron does not speak only for France when he vows that no firm will “face the risk of bankruptcy” as a result of the pandemic. Boris Johnson, Britain’s prime minister, contrasts his government’s response with the one during the last financial crisis: “everybody said we bailed out the banks and we didn’t look after the people who really suffered”. Larry Kudlow, the director of America’s National Economic Council, calls America’s fiscal stimulus “the single largest Main Street assistance programme in the history of the United States”, comparing it favourably with Wall Street bail-outs a decade ago.
 
+
+
 ![](./images/20200328_FBC896.png)
 
 To that end, governments across the rich world are channelling vast sums to firms, providing them with grants and cheap loans in an attempt to preserve jobs and prevent them from going bust. In some cases the government is paying the wages of people who cannot work safely: the EU in particular has embraced this policy, while the British state will pay up to 80% of the wages of furloughed workers. The American package includes loans to small businesses that will be forgiven if workers are not laid off. Households across the rich world are being given temporary relief on mortgages, other debts, rent and utility bills. In America people will also be sent cheques worth up to $1,200.
@@ -31,6 +35,8 @@ To that end, governments across the rich world are channelling vast sums to firm
 The vast majority of economists support these measures. Nominally they are temporary, designed to hold the economy in an induced coma until the pandemic passes, at which point the world is supposed to revert to the status quo ante. But history suggests that a return to pre-covid days is unlikely. Two lessons stand out. The first is that governmental control over the economy takes a large step up during periods of crisis—and in particular war. The second is that the forces encouraging governments to retain and expand economic control are stronger than the forces encouraging them to relinquish it, meaning that a “temporary” expansion of state power tends to become permanent.
 
 In recent centuries government spending across the capitalist world has leapt. In the 1600s the outlays of the entire English state accounted for about 5% of GDP, with practically no spending on public health or education, nor much regulation of economic life, save for crude contract enforcement (see chart 2). That began to change in the 18th century, and from the end of the 19th century Britain and other capitalist countries saw increased state intervention, with more government resources being devoted to public goods such as welfare and education and commensurate increases in taxes (see chart 3).
+
+
 
 ![](./images/20200328_FBC881.png)
 
@@ -55,6 +61,8 @@ What will be the lasting effects of the covid-19 pandemic? Start with the size o
 Central banks’ innovations will also have lasting consequences. Few economists believe that the explicit co-operation between the fiscal and monetary authorities risks creating runaway inflation, as it has done in Venezuela and Zimbabwe, any time soon. (If anything, the bigger worry right now is deflation, not least because of a collapse in oil prices.) However, just as the use of quantitative easing in 2008-09 opened the door to more of the same down the road, it will become harder to make the argument that the “magic money tree” does not exist. Politicians in the future may lean on central banks to peg interest rates at zero to support government borrowing, even during times of economic growth and low unemployment. If central banks promised to fund the government during the coronavirus pandemic, they might ask, then why shouldn’t they also fund it to launch an expensive war against a foreign enemy or to invest in a Green New Deal?
 
 The final impact of the current interventions relates to policymakers’ tolerance for risk. No one cheers when a firm goes bust, but often the process helps shift resources from less efficient to more efficient uses, thus raising productivity and average living standards over time. The novel notion that the government needs to preserve firms, jobs and workers’ incomes at practically any cost may endure, especially if the intervention proves successful in narrow terms. The policy will formally end once the pandemic has passed, but political pressure for similar support schemes—from the nationalisation of tottering firms to the provision of a universal basic income—may well be higher the next time a sharp downturn comes along. If politicians are able to preserve jobs and incomes during this crisis, many people will see little reason why they should not try again in the next one.
+
+
 
 ![](./images/20200328_FBD004_0.jpg)
 

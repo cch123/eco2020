@@ -36,6 +36,8 @@ Corruption and mismanagement make things worse. Ecuador’s social-security agen
 
 Such failings have left the region short of ventilators and intensive-care beds (see chart). Tumaco, a Colombian town with 250,000 people, has one public hospital and no ventilators. In late March Ecuador’s government commandeered two ventilators from Lago Agrio, in northern Amazonia, for use in a regional capital, but failed to deliver 1,400 testing kits it had promised. A baby with covid-19 died.
 
+
+
 ![](./images/20200411_AMC148_0.png)
 
 One disadvantage caused by the late arrival of the pandemic is that Latin America was slow to join the international scramble for N95 masks and ventilators. Many governments, including those in the European Union, have banned their export. “We have suffered many difficulties finding [ventilators], to the degree that we have had to obtain them in small quantities,” says Mexico’s Mr López-Gatell. Brazil and Mexico, which have large manufacturing sectors, are repurposing factories to repair old machines and test new ones.

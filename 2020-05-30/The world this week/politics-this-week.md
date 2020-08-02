@@ -36,6 +36,8 @@ A judge on British Columbia’s Supreme Court ruled that extradition proceedings
 
 Two women became the first same-sex couple to marry in Costa Rica, immediately after it became legal. The ceremony was shown on a three-hour television broadcast about marriage equality.
 
+
+
 ![](./images/20200530_WWC012.png)
 
 Countries in the Americas are the new centre of the pandemic, according to the WHO. Infections and deaths in Mexico have doubled over the past two weeks. Brazil now has the world’s second-highest number of cases, prompting the United States (more than 100,000 deaths) to ban non-American travellers who have been to the country.

@@ -18,6 +18,8 @@ The government must deal with all this with a slender stock of political capital
 
 Mr Sánchez has responded by calling for a “pact for national reconstruction”, in theory involving the opposition, regional governments, businesses and unions. This is a conscious echo of the Moncloa Pacts of 1977, a set of agreements on economic measures between government and opposition which were a pillar of Spain’s transition from dictatorship to democracy. One poll found 92% in favour of another such pact—but 79% thought it improbable.
 
+
+
 ![](./images/20200418_EUC216.png)
 
 One explanation for the government’s difficulties is its own shortcomings, both technical and political. It bungled an announcement on March 28th that the lockdown would temporarily tighten, leaving many vital details initially uncertain. It is harder to co-ordinate such measures in a decentralised country with powerful regional governments. Even so, Mr Sánchez’s practice has been to pre-announce measures, and to consult only after their implementation. That has left businesses and some regional presidents fuming. “It’s a government that lacks not just experience but also deep knowledge of the state and how it works,” says a former senior official. “The sense of improvisation is very strong.”

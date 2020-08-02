@@ -30,6 +30,8 @@ One Theresienstadt artist, Yahuda Bacon, also survived Auschwitz, which was libe
 
 These examples could yet have a bearing on the latest genocide, of the Rohingya Muslims by the Myanmar army. Last year Save the Children, a charity, asked youngsters in Rohingya refugee camps to draw what they wanted to tell the world, as part of their therapy. Again, some rendered extraordinarily detailed portrayals of the destruction of their homes and their flight to relative safety in Bangladesh (see below).
 
+
+
 ![](./images/20200125_BKP002.jpg)
 
 As yet, there is no plan to enlist these as evidence. But as courts whirr into action—on January 23rd, as The Economist went to press, the International Court of Justice was due to issue a ruling on the slaughter—interest in them may grow. Experience shows that, uncluttered by adult artifice, children can provide the most honest impressions of unspeakable acts, and the most searing. ■

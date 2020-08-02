@@ -14,6 +14,8 @@ Apprenticeships offer a much-needed path out of France’s highly academic schoo
 
 On the building’s first floor, hairdressing students are practising basic trimming and advanced colouring techniques on plastic model heads. “Whatever your level, what matters is your motivation,” the teacher they call Madame tells them: “If you want to, you will succeed.” Downstairs in the workshop for apprentice electricians, Souleymane is wiring an electrical-lighting circuit. When asked what he was doing before his apprenticeship, he looks up and grins: “I slept.” The course, says his tutor, “really opens the door to jobs, and makes people feel valued in a way they were not at school.”
 
+
+
 ![](./images/20200222_EUC370.png)
 
 Traditionally, French educationalists have looked down on such vocational courses, which are open to pupils from the age of 16. Just 7% of young people are in apprenticeships in France, half the share in Germany. Last year, however, following a reform of the rules by Emmanuel Macron’s government, the total number of French apprentices increased by 16%, to a record high of 491,000. Anybody under the age of 30 can now apply. Part of the idea, said Muriel Pénicaud, the labour minister, was to change “negative stereotypes” associated with such contracts. She says that 70% of apprentices find jobs within seven months of completing their course.

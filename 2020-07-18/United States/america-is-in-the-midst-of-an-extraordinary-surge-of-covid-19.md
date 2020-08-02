@@ -20,6 +20,8 @@ Doug Ducey, the Republican governor of Arizona, began reopening his state in ear
 
 Nor was there much desire for caution from the White House. Vice-President Mike Pence wrote an op-ed for the Wall Street Journal on June 16th with the headline “There Isn’t a Coronavirus ‘Second Wave’”, arguing that “the media has tried to scare the American people every step of the way, and these grim predictions of a second wave are no different.” A key argument of Mr Pence and President Donald Trump, even as case counts were rising through June, was that this was an artefact of increased testing and that the death rates continued to decline. Though the first contention was questionable (the rate of increase in cases exceeded the rate of increase in tests), the second was true.
 
+
+
 ![](./images/20200718_USC927.png)
 
 That puzzle—why deaths remain flat while cases have begun another exponential rise—can be explained by four factors. First, the substantial increase in testing means that more cases will be detected. Second, evidence suggests that younger adults are behind the latest surge in the virus. In Florida the median age of covid-19 patients has dropped from 65 to near 40. Third, there is usually a lag of several weeks between a patient contracting the illness and when the patient’s death is reported to state authorities. Fourth, doctors seem to have become better at treating severe cases of covid-19, reducing the death rate even for those who must be hospitalised.

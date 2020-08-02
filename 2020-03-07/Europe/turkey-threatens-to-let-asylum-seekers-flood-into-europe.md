@@ -22,6 +22,8 @@ The other main route into Greece has been via inflatable dinghy to Lesbos, an is
 
 Greece’s tough response has forestalled another crisis like that of 2015 (the numbers remain tiny, see chart), and it has the support of the EU. But its suspension of the right to apply for asylum violates international and European law. The International Convention on Refugees bars countries from turning away people seeking asylum, a practice known as “refoulement”. “The minimum that a state has to do is to check whether those who come to its border have a right to refugee status, and you can’t do that if you’re keeping them at a distance with tear-gas,” says Hanne Beirens of the Migration Policy Institute Europe, a think-tank in Brussels.
 
+
+
 ![](./images/20200307_EUC544.png)
 
 Greece has invoked anarticle of the EU Treaty that allows emergency measures when a state is overwhelmed by migrants. But that does not include suspending asylum, according to UNHCR, the UN’s refugee agency. Gerald Knaus, an expert who helped design the EU-Turkey migration pact, says the suspension threatens the very existence of the right to asylum, and accuses the EU of implementing “Trump-style policies”. Harsh words for Greece’s newish prime minister, Kyriakos Mitsotakis, to hear.

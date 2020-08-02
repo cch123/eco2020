@@ -30,6 +30,8 @@ Many parents and students are being asked to do the impossible. Francis Aruo, a 
 
 Some governments have failed even to try to help children learn from home (see map). Others have been slow to get going. Ghana’s government only launched its distance learning radio programme on June 15th, three months after schools closed.
 
+
+
 ![](./images/20200718_IRM925.png)
 
 Reopening schools is hard, too. In June only about half of poor countries said they had a plan for doing so, according to a survey by the UN and World Bank. Social distancing is tricky where 50 or 60 pupils are often packed into a single classroom. In sub-Saharan Africa less than 30% of schools have handwashing facilities.

@@ -28,6 +28,8 @@ The official numbers reveal less about covid-19 than they do about Russia’s po
 
 Konstantin Sonin of the University of Chicago says the problem is not that the Kremlin hides or distorts figures, but that it often does not have them in the first place. Most regional bigwigs are not accountable to voters but are entirely dependent on the Kremlin for status and money. They file rosy reports so as to appear to be meeting official targets. The aim is to please the president, not the people. “The Kremlin does not even need to tell them what figures to report; they know to report what the Kremlin likes to hear,” he says.
 
+
+
 ![](./images/20200523_EUC683.png)
 
 Over the past few weeks Russian state television has provided a perfect illustration of this system. In the West officials have at least tried to communicate with their electorates and the media. On Russian television people see their officials reporting to the self-isolated Mr Putin via a videoconference screen. The screen resembles a Russian Orthodox icon: Mr Putin is displayed in a large central box, surrounded by 12 “apostles” in smaller boxes.

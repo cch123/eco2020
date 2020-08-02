@@ -12,6 +12,8 @@ HOW DO MODERN innovations stack up with those of the past? Some economists, such
 
 But what about everywhere else? Developing countries are, by definition, some distance from the technological frontier. One consolation of their position is the vast backlog of past innovations that remain for them to exploit more fully. Their growth depends more on imitation than innovation. A country where most people still ride scooters does not have to worry if the next Tesla fails to arrive on schedule.
 
+
+
 ![](./images/20200118_FNC155.png)
 
 And yet they too have suffered a productivity let-down. According to a new World Bank report, the slowdown is the “steepest, longest and broadest yet”, based on data going back four decades (see chart 1). The GDP per worker of developing economies is almost 14% lower than it would have been had productivity not lost momentum.
@@ -21,6 +23,8 @@ The Institute of International Finance, a think-tank, believes that emerging mar
 How did this happen? When they look at the rich world, some economists worry that big firms have it too easy. Without stiff competition, they have little incentive to innovate or invest. But when they look at the poor world, some worry that big firms now have it too hard. In a survey of over 15,000 companies, the World Bank shows that large firms in poor countries tend to be more productive and more likely to export than their smaller rivals. In the past, these firms have been important conduits for improved know-how and technologies acquired from partners and rivals abroad and passed on to suppliers and imitators at home. But the “routes to technology transfer are narrowing”, the bank points out, thanks to rising protectionism and the halt in the expansion of global value chains.
 
 A lack of technology transfer is only part of the problem, however. Half of the slowdown in labour-productivity growth in recent years reflects not a failure to imitate but a failure to accumulate: weak investment has left labour with too little capital to work with. This shortfall in investment explains all the productivity slowdown in South Asia, the Middle East and north Africa, and two-thirds of that in Europe and Central Asia. That is a serious problem, but also a reassuringly conventional one. Insofar as low capital spending stems from a lack of credit or confidence, it is easy enough to imagine a reversal once financial wounds heal and animal spirits revive.
+
+
 
 ![](./images/20200118_FNC156.png)
 

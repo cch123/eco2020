@@ -18,6 +18,8 @@ Yet the prime minister’s campaign was defined by its dirtiness. Mr Netanyahu q
 
 But Mr Netanyahu also relied on data to target micro-constituencies, such as immigrants, cab drivers and airline employees. He bombarded each with promises, such as telling cannabis-users that he would decriminalise the recreational use of the drug, and delaying a measure that would make taxi fares more transparent.
 
+
+
 ![](./images/20200307_MAC909.png)
 
 Mr Gantz’s strategy was to appeal to “soft-right” voters fed up with Mr Netanyahu’s alleged corruption. But this made the party almost indistinguishable from Likud, and many voters stuck to the original. Blue and White won 33 seats, as in September. Left-wing parties suffered. The coalition of Labour, Gesher and Meretz won just seven seats, down from 11 in September. Some of its former voters supported the Joint List, an alliance of predominately Arab parties, which got 15.

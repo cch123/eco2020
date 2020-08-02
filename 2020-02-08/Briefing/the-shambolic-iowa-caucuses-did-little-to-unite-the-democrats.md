@@ -14,11 +14,15 @@ By the time Pete Buttigieg, an ex-mayor from South Bend, Indiana, heard that the
 
 Remarkably, final results had still not been published as The Economist went to press. With 97% of the count completed, Mr Buttigieg still had the edge in delegate equivalents; though Mr Sanders had slightly more actual votes, their concentration in urban areas counted against him a little. Mr Buttigieg also picked up more support than anyone else in the stage of the caucuses where votes originally cast for the less popular candidates are reallocated (see chart 1).
 
+
+
 ![](./images/20200208_FBC302.png)
 
 The Democrats have always been split, to a greater or lesser extent, between the more left-wing and the more centrist. Finding a candidate who can at least try to please both is part of the point of the primary process. Today the factions’ differences are more pronounced than usual, though—and they line up with two different approaches to what the election is about.
 
 Democrats of all stripes say they care most about ousting President Donald Trump. But the two wings offer fundamentally different prescriptions for how to do it. Moderates offer something like a further-to-the-left version of the pre-Trump status quo. The radicals seek what Ms Warren calls “big structural change”. They want to fix the problems of concentrated power and influence they see as having led to Mr Trump in the first place. That difference could yet cost the party the election.
+
+
 
 ![](./images/20200208_FBC301.png)
 
@@ -27,6 +31,8 @@ A nostrum from before the days of each candidate hiring their own jet held that 
 Even so, Mr Biden was the only candidate who actually benefited from the slow dripping out of the results. The Super Bowl on Sunday, Mr Trump’s state-of-the-union address on Tuesday and the Senate’s acquittal of the president on Wednesday meant that the caucuses had only a small window in which to be a big story. When the results missed that window Mr Biden’s lacklustre performance—he may not have won a single delegate—got a lot less attention than it might have.
 
 
+
+https://embed.acast.com/checksandbalance/checksandbalance-leftbern
 
 Of the people who did well out of the caucus, the most striking success belonged to Mr Buttigieg. For a young, gay local politician with a name many still struggle to pronounce, winning the most delegates was quite the coup. Some might see the fact that he spent heavily in the state—more by some accounts than any other top-tier candidate save Mr Sanders—as diminishing this achievement. But being able to raise such sums is an impressive feat in itself, and going all-in on must-win Iowa speaks well to his nous.
 
@@ -65,6 +71,8 @@ Mr Buttigieg, on the other hand, is currently polling sufficiently poorly in New
 Voters could instead look elsewhere. As the Iowa circus flew into the New Hampshire morning, none with more than a dozen or so delegates, Mike Bloomberg was on a rather longer flight from California, which has 415 delegates up for grabs on Super Tuesday, to Michigan, where the primary a week later will decide the loyalties of a further 125. All told, the polls on March 3rd and 10th will provide 43% of the pledged delegates, more than ten times as many as those that can be won in all the primaries and caucuses of February. Taking this into account, Mr Bloomberg, a media entrepreneur and former (Republican) mayor of New York, is building his campaign for the Democratic nomination on the idea that running in the early states is not necessary if you are really rich.
 
 This makes him, for now, literally unbeatable—how can you beat someone who isn’t there? He has also avoided innumerable fish fries, town halls and other intimate settings that favour practised, glad-handing politicians over uncharismatic billionaire technocrats. This abnegation denies him the possible advantages of early victories and whatever momentum they might offer. But he thinks he can make good that lack by spending truly remarkable sums on advertising in the states where he is running: according to FiveThirtyEight, a website, he has spent $255m so far, more than the rest of the field combined.
+
+
 
 ![](./images/20200208_FBP001.jpg)
 

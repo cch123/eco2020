@@ -6,6 +6,8 @@
 
 > Apr 8th 2020
 
+
+
 ![](./images/20200314_LDD001_1.jpg)
 
 Regarding the letter from Taiwan’s representative about the response to covid-19 ([March 28th](https://www.economist.com//letters/2020/03/26/letters-to-the-editor)), no one cares more about the health of our compatriots in Taiwan than China’s government. The National Health Commission promptly notified the Taiwan region about the outbreak in Wuhan. In mid-January, as requested by the relevant authorities on the island, experts from Taiwan visited Wuhan for first-hand experience of disease prevention and control, medical treatment and pathogen detection. They also held discussions with experts on the mainland and expressed heartfelt appreciation for their reception and the information obtained during their visit.
@@ -15,6 +17,8 @@ Membership of the World Health Organisation is based on sovereign statehood. The
 Since the outbreak of covid-19, China has been open, swift and responsible in sharing information and the latest progress with the WHO and the wider international community, and is co-operating with other countries and regions. By taking swift and decisive measures to slow down the spread of the virus, China has done its utmost to protect not only its own people but also people beyond its borders. These important facts, and China’s efforts and sacrifice, need to be understood and appreciated.
 
 ZENG RONGSpokesperson of the Chinese EmbassyLondon
+
+
 
 ![](./images/20200321_LDD002_0.jpg)
 
@@ -26,17 +30,23 @@ The West will prevail only by showing strength. China should be welcome to devel
 
 PETER ROWEAustralian ambassador to South and North Korea, 2006-09Sydney
 
+
+
 ![](./images/20200321_FBD003.jpg)
 
 Past experience has indeed shown us that one problem with mailing cheques to workers, as is happening in America under the emergency covid-19 measures, is that most people will save this cash rather than spend it (“[Experimental treatment](https://www.economist.com//briefing/2020/03/19/governments-are-spending-big-to-keep-the-world-economy-from-getting-dangerously-sick)”, March 21st). Hopefully, America can catch up with the rest of the world and deliver these payments digitally in future. There are already digital MasterCard and Visa solutions that are, in effect, a virtual pre-paid card that must be spent: there is no way to save the money. Digital funding also provides us with a wealth of data on spending habits that are traceable with a pre-paid card. This data can be mined non-intrusively to ensure supply chains run efficiently.
 
 J.P. CARROLLPayment InnovationsBlackhawk NetworkSan Diego
 
+
+
 ![](./images/20200328_WBD001.jpg)
 
 I would like to give [Bartleby ](https://www.economist.com//business/2020/03/26/diary-of-a-home-worker)a most sincere “thank you” for making me laugh out loud, something I have not done in weeks, after reading his diary of a home worker (March 28th). I, too, have a cat and am now tutoring students online instead of in person. My tuxedo cat, Wicked, has made some interesting alterations to my teaching documents, some of which I found only after emailing said documents to my charges.
 
 FRANKIE STRACCIAAmherst, New Hampshire
+
+
 
 ![](./images/20200307_EUP501_0.jpg)
 
@@ -46,11 +56,15 @@ On its party website, Sinn Fein’s take on its past simply states that it emerg
 
 JAMES GREENWicklow, Ireland
 
+
+
 ![](./images/20200314_BBP002_0.jpg)
 
 Your briefing on JPMorgan Chase (“[The house that Jamie built](https://www.economist.com//briefing/2020/03/12/is-dimons-work-done-at-jpmorgan-chase)”, March 14th) reminded me of a quote from Ralph Waldo Emerson: “An institution is the lengthened shadow of one man.” Jamie Dimon has certainly cast a long and illustrious shadow over JPMorgan Chase and the global financial industry.
 
 JAMES MCSHERRYCreemore, Canada
+
+
 
 ![](./images/20200307_LDD001_facebook.jpg)
 

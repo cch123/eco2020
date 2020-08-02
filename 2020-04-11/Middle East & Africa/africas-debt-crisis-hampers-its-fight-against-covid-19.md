@@ -20,6 +20,8 @@ Many homeowners in Western countries are getting a mortgage holiday because of t
 
 Africa’s debt burden does more than divert spending from health care and stimulus to loan payments. It also discourages rich countries from helping out. Europe and America, in particular, worry that any aid they provide to African countries would eventually end up in the pockets of Chinese lenders.
 
+
+
 ![](./images/20200411_MAC181.png)
 
 The World Bank and IMF have asked bilateral lenders to suspend debt payments from the world’s 76 poorest countries. That would be a start, but would cover only a quarter of sub-Saharan Africa’s total debt-service costs. Nevertheless, the appeal seems to have fallen on deaf ears in China, where officials say they will deal with African debt on a case-by-case basis. Analysts think China is loth to give up the political leverage that comes with being owed so much money. But, like other creditors, it may have to choose between orderly debt relief or chaotic defaults.

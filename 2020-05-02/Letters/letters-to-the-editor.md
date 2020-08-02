@@ -6,6 +6,8 @@
 
 > May 2nd 2020
 
+
+
 ![](./images/20200425_STP002_0.jpg)
 
 I was pleased that you placed the importance of testing at the heart of the response to the covid-19 pandemic (“[Tests of reason](https://www.economist.com//science-and-technology/2020/04/23/how-to-build-and-deploy-testing-systems-at-unprecedented-scale)”, April 25th). However, you did not mention the critical need to slow transmission of the disease in low-income countries with already fragile health systems. We need to do this if we are to achieve an effective exit, mitigate the economic disaster and ensure worldwide health security.
@@ -17,6 +19,8 @@ It is vital that public- and private-sector donors show up at the Coronavirus Gl
 In a pandemic, no one is safe until everyone is safe.
 
 MARK KESSELChairmanFoundation for Innovative New Diagnostics (FIND)Geneva
+
+
 
 ![](./images/20200404_LDD001_0.jpg)
 
@@ -32,6 +36,8 @@ There is a trade off of money versus lives. But what is the point of being alive
 
 TONY BRUGUIERMilpitas, California
 
+
+
 ![](./images/20200411_BRP503_0.jpg)
 
 There may be some readers, like me, old enough to remember Britain’s three-day week, another event when “record-breaking bad economic news” came flooding in ([“Over the cliff edge](https://www.economist.com//britain/2020/04/11/covid-19-causes-britains-fastest-economic-contraction-on-record)”, April 11th). In early 1974, against the background of an oil crisis and strikes, the government introduced a limited working week to conserve energy. On the first day 885,000 people registered as unemployed. ITV and the BBC took turns on alternate days to broadcast. Most pubs were shut and queues formed outside shops. Half of the country’s streetlights were turned off and heating in commercial and public buildings reduced. Power cuts were common.
@@ -41,6 +47,8 @@ Despite the most drastic restructuring of the economy since the second world war
 Today’s economic background is a lot more positive than it was in 1974. The government’s furlough and loan schemes should hopefully help businesses get through.
 
 FRANCIS MAGUIRENew Malden, Surrey
+
+
 
 ![](./images/20200328_BKP002_0.jpg)
 

@@ -16,6 +16,8 @@ The economic response to covid-19 has been more robust. On March 10th the govern
 
 The Thai economy seemed sickly even before the new coronavirus emerged. It grew by just 2.4% last year, the slowest pace since 2014. This year it seems sure to shrink. Growth has been disappointing for more than a decade. From 2009 to 2019, Thailand’s growth rate (3.6% on average) lagged behind poorer neighbours like Vietnam (6.5%) and the Philippines (6.3%), and even richer ones such as Malaysia (5.3%). A small number of huge firms, family-owned businesses and state-owned enterprises dominate the economy. They face little pressure from competitors to innovate.
 
+
+
 ![](./images/20200404_ASC860.png)
 
 The poverty rate has stagnated for the past few years, having fallen dramatically in the decades before (see chart). About a tenth of the population lives on less than $2.85 a day. Average household consumption declined in 2017-18, while household debt stands at about 80% of GDP, one of the highest ratios in Asia. About a third of the labour force still works in agriculture, which is plagued by inefficiency. Thailand’s most severe drought in decades has cut production of sugar, rice and rubber.

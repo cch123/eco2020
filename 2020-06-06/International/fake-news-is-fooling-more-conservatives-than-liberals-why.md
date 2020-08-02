@@ -14,6 +14,8 @@ The “infodemic” around covid-19, declared by the World Health Organisation (
 
 One big difference between the infodemics of the 1300s and 2020 is the rapid worldwide transmission of today’s nonsense, enabled by the internet. In March a poll by Gallup International of 28 countries in four continents found that in all of them, at least 16%—and as many as 58%—of people thought covid-19 was being deliberately spread (see chart 1). A clip of a film called “Plandemic”, which claims that a shadowy elite started the outbreak for profit, was uploaded on May 4th; within a week it had been seen 8m times and its star, Judy Mikovits, had topped Amazon’s bestseller list.
 
+
+
 ![](./images/20200606_IRC805.png)
 
 Social media enable people to share true news as well as the fake sort. But the fabulists seem to be winning. A study published in Nature in May found that, although pro-vaccine Facebook users outnumber anti-vaccine ones, the anti-vaxxers are better at forging links with non-aligned groups like school parents’ associations, so their number is growing faster. Among Americans, exposure to social media is associated with a greater likelihood of believing that the government created the virus or that officials exaggerate its seriousness, according to a recent paper in the Harvard Kennedy School’s Misinformation Review.
@@ -33,6 +35,8 @@ In America the Pew Research Centre found in March that 30% of Republicans believ
 Wilder conspiracy theories aside, conservatives also seem more likely than liberals to question the official line on the pandemic. In late March, with Britain freshly locked down, a quarter of Tories but only 15% of Labour supporters believed that covid-19 was “just like the flu”.
 
 The reluctance of so many conservatives to believe the conventional narrative of covid-19 is part of a more general suspicion of mainstream sources of information in some places. In America there is a yawning partisan gap in trust (see chart 2). The widest gulf concerns journalists, the next academics. These professions have long been conservative targets. Rush Limbaugh, an American talk-show host, speaks of the “four corners of deceit”: the media, scientists, academia and the government.
+
+
 
 ![](./images/20200606_IRC806_0.png)
 

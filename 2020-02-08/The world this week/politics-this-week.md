@@ -34,6 +34,8 @@ Muhammad Tawfiq Allawi, a former communications minister, was named Iraq’s pri
 
 Iran stopped co-operating with Ukraine’s inquiry into the downing of a Ukrainian passenger jet by an Iranian missile over Tehran last month. The decision was made after Ukrainian TV aired an exchange between Iranian air-traffic control and a stunned pilot who saw the explosion. Iran at first tried to cover up the incident.
 
+
+
 ![](./images/20200208_WWP002.jpg)
 
 Boris Johnson’s government finally pushed Brexit over the line, but events to mark the occasion only underlined the lingering divisions between Leave and Remain supporters. The prime minister’s hope for a Canada-style trade deal was given short shrift, as the European Union signalled that any ambitious agreement would require Britain to commit itself to social and labour protections similar to the EU’s. The pound wobbled. See [article](https://www.economist.com//britain/2020/02/06/the-risk-of-britain-leaving-the-eu-with-no-trade-deal-remains-high). 

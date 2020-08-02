@@ -16,6 +16,8 @@ In normal times such state aid is all but banned by the European Union to ensure
 
 The rules have been quietly shelved as Europe grapples with covid-19. Giving governments a temporary reprieve was unavoidable as national exchequers battle to stave off depression. But it also carries long-term dangers. Even before the crisis, France and Germany railed against European rulings that they say prevented the creation of corporate champions able to compete with rivals from China and America. Now they may seize the moment to try to water down competition rules permanently.
 
+
+
 ![](./images/20200530_LDC777.png)
 
 It is not hard to see the harm that free-flowing state money could do. Germany represents a quarter of the bloc’s GDP but nearly half of its state aid, because its buoyant public finances allow it to be generous. Tough luck if you are a company in Spain or Italy where tighter budgets mean smaller handouts. Politicians usually favour certain companies—famous flag-carriers instead of scrappy low-cost airlines, say. And the bail-outs invariably come with nationalist strings. Renault and other French carmakers are promising to keep production and research in France (see [article](https://www.economist.com//business/2020/05/28/the-renault-nissan-alliance-hunkers-down)). Once the state becomes a shareholder or creditor, bosses know their firm’s prospects partly depend on a willingness to please their political masters.

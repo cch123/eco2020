@@ -18,6 +18,8 @@ Public health was a local matter in Britain for over a century. After a water pu
 
 In 1974, public health was detached from its local roots, as directors of public health (DPH) were taken out of local government and placed within the NHS. In 2013 a restructuring of the health service (see chart) under Andrew Lansley, the health secretary—the change that concerned Dr Scally—replaced a simple structure with a complex one. It split responsibility for public health between a national agency, Public Health England (PHE), which has responsibility for infectious diseases, and local authorities.
 
+
+
 ![](./images/20200718_BRC926.png)
 
 The reorganisation moved DPHs back into local authorities, but with fewer resources and less power. The timing—in the wake of the financial crisis—was bad, too. “We landed in local government just when it took a massive hit,” says a DPH in a London borough. According to the Health Foundation, a think-tank, the government grant to local authorities for public health fell by a fifth in real terms in the five years after 2014. A DPH in a county council says he has lost 30 of about 100 staff.

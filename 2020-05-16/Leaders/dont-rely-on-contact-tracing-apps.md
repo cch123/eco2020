@@ -18,6 +18,8 @@ They are an attractive idea. Yet contact-tracing apps are also an untested medic
 
 Coverage is one complication. Epidemiologists reckon that apps might be useful if around 60% of people use them. Yet even in Europe, where adoption is highest, only 76% of people have mobile-internet subscriptions. That number is lower among the elderly, the most vulnerable to covid-19. A recent survey suggested less than half of Americans would use a contact-tracing app.
 
+
+
 ![](./images/20200516_LDC600.png)
 
 Accuracy is an issue, too. Such apps are designed to listen out for nearby mobile phones, registering a contact if another device comes close enough. Yet the strength of the radio signals used to do this is affected by all sorts of things besides distance. Human bodies impede transmission, for instance, meaning a phone in a pocket will behave differently from one in a hand.

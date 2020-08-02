@@ -18,11 +18,15 @@ Those differences in local death rates raise interesting questions about who was
 
 PETER TAMMESSenior research associatePopulation Health SciencesBristol Medical School
 
+
+
 ![](./images/20200111_BRD000.jpg)
 
 I was saddened to see Bagehot referring to the #MeToo movement as exposing “the seamy underbelly of the sexual revolution” ([January 11th](https://www.economist.com//britain/2020/01/11/gertrude-himmelfarb-and-the-politics-of-virtue)). Sexual abuse is not an offshoot of the sexual revolution. The Victorians’ adherence to “moral values”, lauded in Bagehot’s tribute to Gertrude Himmelfarb, were contradicted by the underside of life experienced by women, rich and poor, long before the swinging Sixties. The only underbelly #MeToo has exposed is the use of privilege to abuse with impunity.
 
 JUDY STANLEYScarsdale, New York
+
+
 
 ![](./images/20200125_IRD001.jpg)
 
@@ -31,6 +35,8 @@ Violent conflict remains stubbornly resistant to resolution (“Not your average
 One cause of these disappointing facts and failures is an imbalance at negotiating tables. Deals are being struck by the beneficiaries of conflict that emphasise short-term incentives, rewards and commitments. Effective conflict resolution requires more attention to longer-term solutions for the silent majority at the grassroots who pay the highest price during conflict and who have the most to gain from peace. That means fewer backroom peace deals agreed solely by elites, and more agreements that involve all groups and communities.
 
 SIMON GIMSONVice-presidentInterpeaceGeneva
+
+
 
 ![](./images/20200118_LDP501_0.jpg)
 
@@ -44,17 +50,23 @@ You assert that Russian economic growth has been “brought to an end by corrupt
 
 MARTIN GILMANProfessor of economicsHigher School of EconomicsMoscow
 
+
+
 ![](./images/20200111_MAP001.jpg)
 
 Many mosques built by Arab autocrats could be described as vulgar, but not in the case of the Sheikh Zayed mosque in Abu Dhabi (“Mine’s bigger than yours”, [January 11th](https://www.economist.com//middle-east-and-africa/2020/01/09/why-muslim-leaders-like-building-grand-mosques)). Size aside, the mosque is generally characterised by exquisite good taste and an architectural vision that seamlessly blends modern technology with the best of Islamic tradition. It is a remarkable achievement that transcends the motivations of the obscenely rich sheikhs of the United Arab Emirates. A similar disjuncture between self-serving autocratic motivation and genuine artistic merit was also associated with many of the celebrated architectural achievements of the past. Think Angkor Wat, the Alhambra, the Taj Mahal.
 
 REG WHITAKERVictoria, Canada
 
+
+
 ![](./images/20200118_BRP001_0.jpg)
 
 America is not Britain’s “oldest ally” (“Declarations of independence”, [January 18th](https://www.economist.com//britain/2020/01/16/johnson-trump-and-the-future-of-the-atlantic-alliance)). The oldest military alliance in the world is between Britain and Portugal, dating back to the Treaty of Windsor in 1386. Although seemingly irrelevant today, the alliance was instrumental during the Napoleonic wars and the fleeing in 1807 of the Portuguese monarchy to Brazil, leading to its subsequent independence. The treaty was invoked both during the second world war and the Falklands conflict to allow British refuelling in the Azores.
 
 BENJAMIN JOHNSONLondon
+
+
 
 ![](./images/20200125_BRP001.jpg)
 

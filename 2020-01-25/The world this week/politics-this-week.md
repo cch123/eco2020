@@ -32,6 +32,8 @@ Vladimir Putin appointed a new cabinet in Russia, following his declaration of s
 
 Luigi Di Maio resigned as head of Italy’s Five Star Movement, while remaining foreign minister. The quixotic populist party finished first in an election in 2018 but has since lost half its support. It now ranks behind the nationalist Lega and centre-left Democrats.
 
+
+
 ![](./images/20200125_WWP002_0.jpg)
 
 Hundreds of people in China were confirmed to have been infected by a newly identified form of coronavirus, a type that includes the one responsible for a deadly outbreak of SARS in 2003. Most of the cases have been found in the city of Wuhan, where the outbreak began. Seventeen people with the virus, which can cause pneumonia, have died. Travel restrictions were imposed on Wuhan and two nearby cities. See [article](https://www.economist.com//leaders/2020/01/25/the-world-is-better-prepared-than-ever-to-stop-the-wuhan-coronavirus).

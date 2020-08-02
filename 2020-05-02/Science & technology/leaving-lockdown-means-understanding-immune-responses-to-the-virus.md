@@ -28,6 +28,8 @@ As this work shows, a lack of antibodies does not mean that someone has no immun
 
 That immunity to reinfection might be granted in the absence of antibodies is not, of course, an argument against antibody-based immunity passports. It would just be tough luck on those with T-cell-based immunity, who would still not be able to escape lockdown. A more pertinent objection, even if antibody protection is real, is that antibody tests are not yet truly reliable and cannot, in particular, distinguish between antibodies that are neutralising and those that are not.
 
+
+
 ![](./images/20200502_STC398.png)
 
 These tests can, though, still give insights into the pandemic’s progress, by flagging up most of those who have been infected, including people who have had no symptoms. Antibody-based studies in America, Denmark, the Netherlands and other places have suggested that around 5% of the population sampled had been infected at some point prior to testing (see chart). In New York City, the centre of America’s covid-19 epidemic, that figure is around 20%. So far, no large-scale antibody surveys have been conducted in European hotspots such as Spain and Belgium.

@@ -16,6 +16,8 @@ You might think that if anyone stood to benefit from the world’s biggest pande
 
 For most of the industry, America’s biggest, covid-19 may prove less rewarding as the pandemic unfolds. Reduced spending on health care accounted for nearly half of the 1.2% quarter-on-quarter drop in GDP in the first three months of the year. Things could get worse. Even Regeneron and Gilead are not all they are trumped up to be.
 
+
+
 ![](./images/20200509_WBC452.png)
 
 The American Hospital Association, a trade body, estimates that its members will lose more than $50bn a month between March and June. Tim van Biesen of Bain, a consultancy, notes that procedures like hip replacements or heart and brain surgery, which make the most money for hospitals, are down by 65-80%. Strata Decision Technology, which makes software for hospitals, estimates that hospital revenues have dropped by $90bn a month. Mr Dowling says Northwell, with annual revenues of $14bn, made a loss of $350m-400m in the past month. HCA, the biggest listed hospital chain, scrapped its annual guidance, citing uncertainty.
@@ -33,6 +35,8 @@ Even inventing a covid cure does not guarantee riches. A successful firm will fa
 Pharmacy middlemen and retail chains are in a similar bind. A spike in sales as buyers rushed to fill prescriptions helped CVS Health, a big pharmacy group which reported results on May 6th, beat analyst estimates. But the pandemic may merely have brought purchases forward. New prescriptions fell by 15% year on year in the week to April 17th, according to IQVIA, a data firm. Mr van Biesen observes that pharmacy chains were already squeezed because of a decline in “front of store” profits (from beauty products and over-the-counter drugs) caused by online competition and a shift to low-margin generics.
 
 Health insurers look least vulnerable in the near term. Most have big enough buffers to withstand even a severe scenario for covid-19, in which 130m Americans are infected and 4m-5m need intensive care, reckon credit-raters at Moody’s. The collapse in claims for non-covid procedures has reduced insurers’ overall costs. Ricky Goldwasser of Morgan Stanley, an investment bank, thinks that big ones like Humana and Anthem could see profits rise by 4% and 15%, respectively, in 2020. Another, Centene, has just hired 1,000 new workers.
+
+
 
 ![](./images/20200509_WBC510.png)
 

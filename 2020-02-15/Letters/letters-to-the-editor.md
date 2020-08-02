@@ -8,6 +8,8 @@
 
 Letters are welcome via e-mail to letters@economist.com
 
+
+
 ![](./images/20200118_SRP541_facebook.jpg)
 
 Though your attempt at presenting the issue of home ownership was engaging and unique, the coverage was incomplete ([Special report on housing](https://www.economist.com//special-report/2020/01/16/housing-is-at-the-root-of-many-of-the-rich-worlds-problems), January 18th). Home-ownership rates vary wildly across countries for a number of reasons. For example, to cite Romania’s high rate of private-home ownership, which went from zero to 95% virtually overnight after the collapse of communism, as somehow a failure because Romania still “has its fair share of social problems” is absurd. As is mentioning Japan’s affordable homes without acknowledging its declining population. To verify if these two variables are related consider Youngstown, Ohio, where the population is also falling and housing is exceedingly affordable.
@@ -22,6 +24,8 @@ I don’t agree that “Singapore’s public-housing system helps improve social
 
 M. BASUSingapore
 
+
+
 ![](./images/20200118_SRP066.jpg)
 
 Reaching retirement age without the security of home ownership is irresponsible. The senior citizen who has paid rent for 30 years has still bought property—for the landlord. Tenants have no long-term security. They can be asked to leave a property at any time. Landlords may fail to make repairs or control noxious neighbours. Home ownership is the surest kind of nest-egg. People are living longer. Security of place is basic to a comfortable old age.
@@ -31,6 +35,8 @@ JULIA VIERACoronado, California
 Nimbyism significantly contributes to bad policies that exacerbate the growing gulf between those seeking housing and housing availability. Policymakers would do well to read your report and examine thoughtful, sustainable solutions that treat rental housing as a valuable part of their communities. Proper zoning and planning can address the affordability crisis by making it easier to add more supply as well as lowering our respective carbon footprints. As more people choose to rent a serious conversation is long overdue to address their needs, rather than continually crafting policy to protect homeowners.
 
 ROBERT PINNEGARPresident and CEONational Apartment AssociationArlington, Virginia
+
+
 
 ![](./images/20200118_SRP070.jpg)
 
@@ -51,6 +57,8 @@ FRANK VAN OOIJENBreda, Netherlands
 Made-to-measure smart materials use 3D printing. In 2018 Amazon invested in Plant Prefab, which makes prefabricated smart homes. “Alexa, construct me a home” may soon be an option. The resulting lower housing costs will truly be something to build on.
 
 CHRISTOPH FEESTNeuried, Germany
+
+
 
 ![](./images/20200118_SRP074.jpg)
 

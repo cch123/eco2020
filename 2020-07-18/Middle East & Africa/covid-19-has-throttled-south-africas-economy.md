@@ -18,6 +18,8 @@ According to the research, one in three people who earned an income in February 
 
 The studies show the uneven effects of economic restrictions (see chart). Researchers reckon that women account for 2m of the 3m net jobs lost. Manual workers were nearly three times as likely to have been laid off as professionals.
 
+
+
 ![](./images/20200718_MAC466.png)
 
 The lockdown also led to mass internal migration. Between late March and the end of May, 5m-6m people (15% of adults) changed their residence. Urbanisation has gone into reverse, as people like Ms Mothiba left townships and went back to their home villages to reunite with their families (in her case, her mother and 12-year-old daughter). So far the vast majority of movers have not gone back to cities.

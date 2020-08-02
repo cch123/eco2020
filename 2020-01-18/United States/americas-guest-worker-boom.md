@@ -14,6 +14,8 @@ The government granted 408,000 visas for guest workers in 2019, up from 103,000 
 
 Part of this expansion stems from America’s strong economy. There are jobs available for people who want them. The problem is that many people do not. In industries such as agriculture, many employers say they cannot find workers willing or able to fill low-wage jobs.
 
+
+
 ![](./images/20200118_USC170.png)
 
 Guest workers fill this chasm. The programme offers two types of visa. Seasonal farm workers get the H-2A. There is no limit on their number, which has tripled in a decade (see chart). Non-farm workers get the H-2B. Their number is capped at 66,000 annually, but the administration has granted more H-2Bs every year.

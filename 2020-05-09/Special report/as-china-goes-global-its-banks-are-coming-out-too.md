@@ -24,6 +24,8 @@ The biggest issue lies with where European banks sit within the financial system
 
 Asian rivals are filling part of the gap. With Japan stagnant, the country’s “megabanks” have been hunting for yield. They now extend 16% of global cross-border lending, twice their pre-2008 share. But their onslaught looks brash: they have piled into risky American securities. The rise of South-East Asia’s “super-regionals” seems more robust. They avoided follies during the 2000s, so suffered no hangover, says Edmund Lin of Bain, a consultancy. They have upgraded their tech. Perky economies give them oomph. Their total assets in the region have grown fivefold since 2002, when those of international banks doubled.
 
+
+
 ![](./images/20200509_SRC127.png)
 
 Many think China is missing out. A distant third in 2008, its banking system, at $40trn in assets, now surpasses both the euro area’s and America’s. A list of 30 “global systemically important banks” by the Financial Stability Board, a grouping of watchdogs, now includes all China’s “Big Four”—Bank of China, Industrial and Commercial Bank of China (ICBC), China Construction Bank and Agricultural Bank of China. Only one featured in 2012. But sceptics say they sit on dud loans at home and are being reined in by the state, which owns them. Their management is deemed “paternalistic”; their systems “unsophisticated”.
@@ -53,6 +55,8 @@ Elsewhere in Asia China’s progress has been muted. But that need not matter mu
 Those juicy prospects are attracting outsiders—and Beijing is opening the door. Last year regulators cleared the way for full foreign takeovers of local banks. They then allowed outsiders to control wealth-management firms, pension-fund managers and brokers. In April foreign-ownership caps were also removed on securities firms. The world’s A-team of money managers is teaming up with locals or seeding subsidiaries in the hope of grabbing a slice of China’s $45trn financial-services market. “Every week we get a knock on the door by one of these top 15 players,” says Greg Gibb of Lufax, a Chinese wealth manager.
 
 Breaking ground will be hard. Incumbents have a 25-year head start at building networks of branches and contacts throughout China’s huge landmass. Often they use investment banking to cross-sell other services to local companies, so can undercut outsiders on fees. Past episodes of liberalisation are not encouraging: in 2007, when Beijing first allowed foreign banks in, it hindered competition by forcing them to operate in bizarre locations. Today they have a 1.5% market share.
+
+
 
 ![](./images/20200509_SRC204.png)
 

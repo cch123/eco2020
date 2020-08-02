@@ -14,6 +14,8 @@ The Midwest as a whole draws in too few migrants, and too many of its brightest 
 
 However many places justify greater optimism. Some cities really can learn to flourish again. Parts of the Midwest, especially in the suburbs around Chicago, Minneapolis and Madison, can point to an admirable record in social mobility. Those born poor there have a much better chance of progressing to a middle-class life than people in less upwardly mobile regions, such as the south. That surely has much to do with investments in education. Cities cope best with closing factories or other shocks, such as a pandemic-induced economic slump, when they are home to people with plenty of schooling.
 
+
+
 ![](./images/20200725_LDC596.png)
 
 Our [special report](https://www.economist.com//special-report/2020/07/23/a-region-with-outsized-punch) in this issue highlights some success stories. The population of Columbus, Ohio, is one of the fastest-growing in America. Indianapolis does well getting small businesses to blossom while keeping city finances healthy. And though much of the Midwest is too slow at reducing racial segregation—so evident in Minneapolis, where a policeman killed George Floyd in May—the likes of Cincinnati, which reformed police and promotes African-American businesses, show that progress can come. That is essential, for cutting racial division and boosting the economy go hand in hand.

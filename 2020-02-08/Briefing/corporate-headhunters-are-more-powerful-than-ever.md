@@ -12,6 +12,8 @@ FOR A FEW months last year Matthieu (not his real name) was on the most importan
 
 The firm got the job done. Javier Pérez-Tasso, SWIFT’s former Americas head, took over as boss in July. Marc Bayle de Jessé, an official at the European Central Bank, started at CLS in December. The placements testify to the brokering brawn of executive-search firms. The industry’s top tier is busier than ever. The bosses of 311 of America’s 3,600 listed firms left their jobs in 2019—the highest share on record. Someone needs to find their replacements.
 
+
+
 ![](./images/20200208_BBC326.png)
 
 Like Matthieu, the search industry is secretive, and numbers are hard to pin down. Estimates from AESC, a trade body, suggest that the business has enjoyed strong growth for much of the past 30 years—with the exception of slumps after the dotcom bust in 2000 and the financial crisis of 2007-09 (see chart 1). AESC reckons global executive-search revenues grew by 12% in 2018 and that many firms had their best year ever in 2019 (for which it is still crunching the numbers).
@@ -48,6 +50,8 @@ Once the actual headhunting begins, recruiters hire armies of researchers to com
 
 To whittle down a longlist of 15 or so people, consultants quiz candidates’ suppliers, clients, ex-bosses and subordinates. They check Glassdoor, a website which lets workers rate employers. The phone is fine, but visits are better—valuable information can emerge in the last minutes of a meeting, or on the way to the lift.
 
+
+
 ![](./images/20200208_BBC331.png)
 
 It is often only at this point that candidates are contacted. Since the most desirable hires typically already hold plush posts, and are constantly wooed by rival recruiters, headhunters must fight hard for their attention. They look to breakfast regularly with high-fliers, and mark their job anniversaries and dates when bonuses are due—discreet inquiries may elicit news of a disappointing payout, and signal that an executive may be looking for a change. They offer a shoulder to cry on when the going gets tough. Denis Marcadet of Vendôme Associés, a search firm in Paris, remembers humbled financiers weeping for hours in his office during the subprime meltdown.
@@ -74,11 +78,15 @@ Some of the big recruiters’ problems, though, are of their own making. Growth,
 
 And although headhunters have grown less languorous since the easy-going 1970s, in one way they remain as lazy as before: many still seek to score easy wins by rehashing past work. A PE partner recounts being sent the same shortlist for two different finance-chief searches. A disproportionate share of CEOs are old-timers from a handful of blue chips, not all of which have had a stellar run (think of GE, several of whose past executives went on to Boeing).
 
+
+
 ![](./images/20200208_BBC327.png)
 
 Senior headhunters admit the industry is sometimes too quick to recommend the safe option when boards are reluctant to gamble on unconventional candidates. Despite progress in recent years, just 38 of the bosses of America’s 675 largest listed firms are women, and 59 non-white. It has grown harder for bright young things to get a look in. The average age of incoming CEOs has risen sharply, to 58, since 2005 (see chart 3). A survey by AESC, which represents 16,000 search professionals, ranks “attracting diverse talent” as the seventh-most-pressing issue for their firms in 2019, behind such things as “attracting digital talent” or “creating a culture of innovation”.
 
 Growing doubts about the value headhunters bring has led some clients to take the work in-house. An expanding list of corporate titans, including all of the tech giants, are building private squads of headhunters—often by poaching from the Shrek firms. Having focused at first on junior hires, these are working their way up to the C-suite, says Ms Garrison Jenn.
+
+
 
 ![](./images/20200208_BBD002_0.jpg)
 

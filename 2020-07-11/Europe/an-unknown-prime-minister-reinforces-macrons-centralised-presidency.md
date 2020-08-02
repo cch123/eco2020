@@ -14,6 +14,8 @@ For weeks Mr Macron had let it be known that he was working on a “new course�
 
 Up to a point, it made sense for Mr Macron to seek a change. The next presidential election is in 2022. To wait another year would be to run into early campaigning. Mr Philippe was elected mayor of Le Havre at local elections on June 28th, offering him a dignified exit. The pair had differences, most recently over the pace of déconfinement. But Mr Philippe, say friends, remains loyal. “He will put all his energy into making sure the president is re-elected in 2022,” said Gilles Boyer, his close friend and a member of the European Parliament.
 
+
+
 ![](./images/20200711_EUC364.png)
 
 Yet the appointment of the 55-year-old Mr Castex, who worked at the Elysée under Mr Sarkozy, does not look much like the “reinvention” that Mr Macron promised. It is neither a shift to the left or the Greens, nor to a new generation. The new government, unveiled on July 6th, is broadly the same as the outgoing one. Occupants of the top posts—Bruno Le Maire at finance, Jean-Yves Le Drian at the foreign ministry, Florence Parly at defence—all kept their jobs.

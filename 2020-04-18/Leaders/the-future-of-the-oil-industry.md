@@ -16,6 +16,8 @@ In fact private oil firms, state-controlled companies and countries that rely on
 
 This week’s grand bargain is unlikely to work. For a start the sums don’t add up. Global demand may fall by 29m barrels a day this month, three times the OPEC deal’s promised cuts. Private firms outside the alliance may reduce output, too, but by how much is uncertain. And no one knows when demand will pick up. Oil stockpiles are rising and storage capacity could be exhausted within weeks.
 
+
+
 ![](./images/20200418_LDC212.png)
 
 The alliance is shaky. Russia, the world’s second-biggest producer, has worked with OPEC since 2016 but routinely ignored the terms of deals. It is unlikely that America will permanently join OPEC in creating a new energy order. The new pact involves assurances that output will fall in America but Texan frackers respond to price signals and the profit motive, not government quotas. The deal almost fell apart when Mexico refused Saudi Arabia’s terms, illustrating how one country can prompt an unravelling. And Saudi Arabia continues to offer deep discounts on crude bound for Asia, a sign of its eagerness to defend its powerful position in oil’s most important market.
@@ -23,6 +25,8 @@ The alliance is shaky. Russia, the world’s second-biggest producer, has worked
 A last reason for scepticism is that the covid-19 crisis could further dampen long-term oil demand. Hundreds of millions of people are living through an experiment with home-working, fewer flights and less urban pollution. This could help change public opinion about the desirability of a faster shift from an economy built on fossil fuels.
 
 
+
+https://embed.acast.com/checksandbalance/checksandbalance-oilbeback
 
 Rather than stability, then, oil producers face volatile demand and production. Iran and Venezuela, already squeezed by American sanctions, will see more unrest. Countries with high costs and poor governance, such as Nigeria and Angola, face capital flight and balance-of-payments crises. Last year bankruptcies among American oil producers jumped by 50%. In 2020 that figure will soar.
 

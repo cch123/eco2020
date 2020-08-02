@@ -26,6 +26,8 @@ Another plan is for major ports to serve as regional hubs at which the biggest c
 
 The most notable success of a hub port is COSCO’s involvement in Piraeus, Athens’s ancient harbour. China arrived when the financial crisis of 2008 had brought Greece to its knees. COSCO took a long lease on two terminals of the container port with a promise to build a third. Soon, the contrast in productivity between those and the remaining Greek-run one, plagued by inefficiency and powerful unions, was stark. The left-wing government of the day had refused the sale of that pier. But in 2016, needing funds demanded by the EU in return for a third bailout, it offered COSCO control of the whole port. COSCO has invested $5bn, with more promised for everything from a ship-repair business to turning warehouses into hotels for cruise passengers.
 
+
+
 ![](./images/20200208_SRC184.png)
 
 Under COSCO, container volumes have grown by more than 700%. Next year Piraeus may overtake Valencia in Spain to become the biggest port in the Mediterranean and the seventh biggest in Europe. Its value to Asian exporters is as a trans-shipment hub. Goods arriving in Piraeus via the Suez Canal are quickly shipped to other parts of the Mediterranean. That saves time and money compared with unloading in the giant ports of northern Europe, such as Rotterdam (though COSCO has stakes there too). COSCO is also investing in a rail route for sending freight from Piraeus to the Balkans and beyond to the German-led manufacturing cluster in eastern Europe. The railway neatly connects the land-based approach with that by sea.
@@ -45,6 +47,8 @@ Certainly the sheer scale of Chinese lending poses risks in future. But the debt
 There are accusations elsewhere of projects that aggravate domestic problems in the countries in which they are undertaken. In January President Xi Jinping became the first Chinese leader to visit Myanmar in 20 years, a trip over which much was at stake. With a deap-sea port being built at Kyaukpyu in Rakhine state, a corridor is to connect landlocked parts of south-west China to the Indian Ocean. Myanmar offers China a crucial energy route from Kyaukpyu to Kunming, capital of Yunnan, its most south-westerly province. One pipeline has the capacity to pump 12bn cubic metres of gas a year from fields in the Bay of Bengal. A second is for oil from the Middle East. A planned railway is to run from Kyaukpyu to Kunming via Mandalay, a city in central Myanmar with a large Chinese presence.
 
 The pipelines have special value to China, whose strategists have long fretted over a “Malacca Strait dilemma”. The strait, which the American navy dominates, is the world’s busiest maritime area, with nearly a third of world seaborne trade passing through it a year—including 80% of China’s energy imports. China’s concern is that at a time of crisis or war, America and its allies could choke off the narrow strait, throttling China.
+
+
 
 ![](./images/20200208_SRC184.png)
 

@@ -16,6 +16,8 @@ Since then, the aim of Russia’s macroeconomic policy has been not to foster gr
 
 As a result, Russia now sits on one of the world’s largest gold and foreign-exchange reserves, worth nearly $570bn. Oleg Vyugin, a former official at the central bank and the finance ministry, explains the thinking: “We’re protected against external shocks and foreign enemies because we have modern weapons and rockets, but also because we have gold and reserves.” Russia has also raised its pension age and VAT rate, and has boosted its tax take through digital technology. Mikhail Mishustin, the tax-collector-in-chief, was recently promoted to prime minister.
 
+
+
 ![](./images/20200328_EUC883.png)
 
 To be sure, the Russian economy remains highly dependent on energy and commodity prices. The dramatic fall in the oil price, partly induced by Russia’s own decision to break out of its deal with OPEC producers, could deprive the government of about 2trn roubles ($25bn) this year. Russia’s risky bet that it could increase its market share and drive American shale firms out of business may backfire spectacularly if America decides to strike its own deal with Saudi Arabia at Russia’s expense, argues Kirill Rogov, an independent analyst. But for now, Russia has more than enough reserves to see it through the next few years. The decline in the value of the rouble has limited the damage to its public finances caused by the falling oil price. Western sanctions have also made it irrelevant, in many cases, that foreign goods now cost more in roubles.

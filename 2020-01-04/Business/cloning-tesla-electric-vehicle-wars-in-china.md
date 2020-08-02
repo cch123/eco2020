@@ -10,6 +10,8 @@
 
 WILLIAM BIN LI is as close as China may have come to cloning Elon Musk. The founder of NIO, a swanky electric-vehicle (EV) company, is in his 40s, a tech nerd, and though not as meme-able as the founder of Tesla, is treated like a rock star by his adoring customers. NIO, worth $4bn, is a fraction of the size of Mr Musk’s Tesla, valued at $75bn, but of all China’s 30-odd EV startups, it is the best known. It also raises and dashes investors’ hopes with Tesla-like frequency. On December 30th NIO’s shares soared 54% when Mr Li said output had probably reached 8,000 vehicles in the fourth quarter from almost 4,800 in the third. But over the whole of 2019 they lost almost 40% (see chart).
 
+
+
 ![](./images/20200104_WBC245.png)
 
 In truth, Mr Musk is in a league of his own. But Mr Li has long had the edge on him in one respect. As our Technology Quarterly in this issue reports, NIO is emblematic of China’s ambition to be a hub of global EV production, dominating electric vehicles in the 21st century as squarely as America did the internal-combustion engine in the 20th. As such, China would be a natural place to produce a “Tesla killer”, as NIO was dubbed during a CBS interview with Mr Li aired in 2019.

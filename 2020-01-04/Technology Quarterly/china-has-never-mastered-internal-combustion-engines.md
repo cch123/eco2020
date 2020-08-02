@@ -38,6 +38,8 @@ All this ambition suggests that there may be a bust on the way, and that the EV 
 
 A more rationally delivered advantage that the state is providing for WM and others hoping to sell EVs in China is charging infrastructure. This makes buyers more confident. The state also facilitates the roll-out of advanced technical features for the benefit of the public at large. Mr Shen says that WM is planning a pilot with State Grid, China’s largest utility, in 2020 whereby the batteries in its customers’ cars will be used as grid storage to help balance the flow of electricity in Beijing and Shanghai.
 
+
+
 ![](./images/20200104_TQC627.png)
 
 Even if WM fails, China is set to be a large market for EVs long before any other country, and that will benefit the industry as a whole. Because the government demands that all cars sold in China are made with Chinese components, the country will come to host the world’s most important supply chains for electric cars. This opens up the possibility that Chinese supply chains will eventually be used to provide components for the rest of world, as with smartphones.

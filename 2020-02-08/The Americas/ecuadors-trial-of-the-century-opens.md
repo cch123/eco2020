@@ -14,6 +14,8 @@ Ecuador’s current president, Lenín Moreno, has spent nearly three years tryin
 
 But the undoing project has run into trouble. Mr Moreno’s attempt to end fuel subsidies provoked massive protests in October, which forced him to retreat. His approval rating is less than 20%. Mr Moreno says that he does not plan to run for re-election next year, but he is determined to ensure that correísmo does not come back. A trial that discredits Mr Correa would help.
 
+
+
 ![](./images/20200208_AMC063.png)
 
 The investigations of Mr Correa and his co-defendants began last May after two journalists, Fernando Villavicencio and Christian Zurita, revealed an alleged scheme to funnel bribes paid by companies into the campaign coffers of Alianza PAIS, then Mr Correa’s (and now Mr Moreno’s) political party. On the day after their first story appeared police arrested Pamela Martínez, a former Constitutional Court judge who had been an aide to Mr Correa, as she tried to board a flight to Mexico. A search turned up a deposit slip for a $6,000 cheque credited to Mr Correa’s account (he says it was a personal loan). Ms Martínez told a court that Mr Correa had asked her to confirm that she had destroyed incriminating evidence.

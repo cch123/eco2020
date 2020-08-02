@@ -22,6 +22,8 @@ But this is unlikely in stability-obsessed Germany. And so the contenders to lea
 
 A flintier proposition would be Friedrich Merz, a former leader of the CDU’s parliamentary group. The plain-speaking Mr Merz quit politics for business in 2009 only to make a spectacular return in 2018, when he gave Ms Kramp-Karrenbauer a close run for the party leadership. He has maintained a steady profile since, flying to party meetings around Germany (often personally: he has a pilot’s licence), where adoring crowds lap up his pro-business, socially conservative line. Mr Merz reckons that fishing in the pool of AfD support can restore the CDU to over 35% of the vote. Early polls give him a head-start (see chart).
 
+
+
 ![](./images/20200215_EUC166.png)
 
 The final contender is Jens Spahn, the 39-year-old health minister, who also stood in 2018. Mr Spahn made his name as an abrasive right-winger on economics and migration, but has mellowed into a hard-working official with a loyal following. Unlike Mr Merz, who carries an unmistakable whiff of the 1990s, Mr Spahn can credibly claim to stand for a new start.

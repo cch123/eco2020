@@ -14,6 +14,8 @@ On many measures Britain’s railways look to be in good shape; both passenger n
 
 Arriva argues that the poor service was beyond its control. It blames a prolonged industrial action by the RMT trade union and delayed or cancelled infrastructure projects. More than half of all rail delays in Britain are caused by problems with infrastructure, such as signalling, which is already operated by the government. Passenger numbers have doubled since the mid-1990s, without the needed investment to expand services. The result has been overcrowding and often poor reliability on many lines. But whoever is actually responsible, commuter anger tends to be directed at the operating companies. TransPennine Express, Greater Anglia and South Western Railway are all now seen as at risk of nationalisation.
 
+
+
 ![](./images/20200201_BRC040.png)
 
 A government white paper on rail, setting out a new strategy for the network, has, much like a commuter rail service, been subject to frequent delays. The direction of travel, though, seems clear. Grant Shapps, the transport secretary, has spoken of the need for a “fat controller” sitting at the centre of the system providing more direction. The current system of franchises, according to Keith Williams, who chairs the panel that will produce the white paper, “has had its day”. It looks set to be replaced by the concession model already operated by London Overground and Merseyrail. Under that model, while a private operator physically runs the trains in return for a flat fee, other decisions and ticket-price levels are set by a public body. Revenue and financial risks are carried by the public sector rather than the operator.

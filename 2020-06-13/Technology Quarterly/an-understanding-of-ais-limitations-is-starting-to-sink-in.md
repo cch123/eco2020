@@ -20,6 +20,8 @@ Perhaps the highest-profile display of the technology’s potential came in 2016
 
 As Mr Pichai’s comparison with electricity and fire suggests, machine learning is a general-purpose technology—one capable of affecting entire economies. It excels at recognising patterns in data, and that is useful everywhere. Ornithologists use it to classify birdsong; astronomers to hunt for planets in glimmers of starlight; banks to assess credit risk and prevent fraud. In the Netherlands, the authorities use it to monitor social-welfare payments. In China AI-powered facial recognition lets customers buy groceries—and helps run the repressive mass-surveillance system the country has built in Xinjiang, a Muslim-majority region.
 
+
+
 ![](./images/20200613_TQC622.png)
 
 AI’s heralds say further transformations are still to come, for better and for worse. In 2016 Geoffrey Hinton, a computer scientist who has made fundamental contributions to modern AI, remarked that “it’s quite obvious that we should stop training radiologists,” on the grounds that computers will soon be able to do everything they do, only cheaper and faster. Developers of self-driving cars, meanwhile, predict that robotaxis will revolutionise transport. Eric Schmidt, a former chairman of Google (and a former board member of The Economist’s parent company) hopes that AI could accelerate research, helping human scientists keep up with a deluge of papers and data.

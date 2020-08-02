@@ -18,6 +18,8 @@ However, the recovery is fragile. Not only is the virus still spreading rapidly 
 
 Why not just continue the stimulus? One reason is the staggering cost. Rich-country governments have collectively launched stimulus programmes worth 10% of GDP, with one-third of that either subsidising work or compensating people who lose it. Before the year is out, government deficits in these countries will easily be in double digits.
 
+
+
 ![](./images/20200711_LDC394.png)
 
 It also makes no sense to freeze the economy for too long. All the signs are that life in the 2020s will be different from life in 2019—think of the surge in e-commerce and remote working; or the expectation of a long-term dampening of demand for air travel; or the reality that customers in pubs may no longer be allowed to elbow their way through crowds to order pints. Workers will have to leave their old jobs, and find new ones. In Europe a fifth of furloughed workers have jobs in industries that seem likely to shrink over time, such as hospitality and leisure.

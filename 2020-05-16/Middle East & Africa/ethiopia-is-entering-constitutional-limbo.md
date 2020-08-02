@@ -14,6 +14,8 @@ By law Ethiopia’s parliament will reach the end of its constitutional five-yea
 
 The delay has prompted a backlash from opposition leaders. Many of them had suspected long before the outbreak of covid-19 that Abiy’s Prosperity Party would try to rig or postpone the elections: its predecessor suppressed the opposition so thoroughly in 2015 that it won 95% of the vote.
 
+
+
 ![](./images/20200516_MAM996.png)
 
 The Tigrayan People’s Liberation Front (TPLF), which called the shots in the country for nearly three decades until it was ousted by Abiy, accused the prime minister of exploiting the pandemic to dismantle the constitution and lay the groundwork for one-man rule. It said it will press ahead with polls in Tigray, the region it still controls, in defiance of the federal government. This squabble will further pull at the seams of a federation that has been badly fraying in recent years.

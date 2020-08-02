@@ -18,6 +18,8 @@ Yemen was singularly ill prepared for a pandemic. Even now, after shipments of e
 
 The country has been split in two since the coalition invaded in 2015, a campaign meant to topple the Houthis, who had seized the capital months earlier. The south is formally controlled by Saudi allies loyal to the president, Abd Rabbo Mansour Hadi (see map). In April, though, secessionists seized the port city of Aden and declared the region autonomous. The two camps have spent weeks fighting for control; the health ministry, split along the same lines, was paralysed as the virus approached.
 
+
+
 ![](./images/20200606_MAM957.png)
 
 Doctors say more than 500 people have died recently in Aden alone, many with respiratory symptoms that look a lot like covid-19. They cannot know for sure: tests are scarce. As of May 30th Yemen had screened just 2,678 people for the virus, from a population of 28m. Some clinics have closed rather than treat people who may be infected. Cases go unnoticed because symptoms can resemble mosquito-borne diseases such as dengue fever, already endemic in south Yemen and now spreading rapidly after floods that inundated Aden in April.

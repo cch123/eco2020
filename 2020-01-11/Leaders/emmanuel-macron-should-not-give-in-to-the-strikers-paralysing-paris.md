@@ -12,6 +12,8 @@ TO HOLIDAYMAKERS, Paris seems pleasantly uncrowded at the moment, so long as the
 
 This round of strikes is aimed at the third and final plank in Mr Macron’s ambitious overhaul of his country. The first plank was labour-market reform. This was also met by a wave of strikes, but they quickly fizzled out. The second plank, reforms to the systems for education and training, was less controversial, and not seriously opposed. Both of these changes will stand France in good stead. The employment reforms put a cap on previously unlimited awards for unfair dismissal, make it easier to shed unneeded workers and also easier to set up new businesses. They already seem to be bearing fruit, with job- and enterprise-creation both on the increase. The education reforms will take longer to prove themselves. The third plank is pension reform, and it is proving by far the most tricky (see [article](https://www.economist.com//europe/2020/01/09/big-protests-in-paris-are-emmanuel-macrons-severest-test-yet)).
 
+
+
 ![](./images/20200111_LDC039_0.png)
 
 It is natural that people are unhappy. They counted on receiving lavish pensions. Mr Macron now plans to trim them for many, so of course they object. But the current system is unsustainable. Workers expect to retire at 62 and live for perhaps another 20 years. Some especially privileged ones, for instance on the state-owned railway, get to retire at 50 on two-thirds of their final salary. The system is wildly complex, with no fewer than 42 different pension regimes in operation. All are run by the state—private pensions are rare. The cost of paying current pensions is a whopping 14% of GDP, double the OECD average. And the burden will only increase as the population ages.

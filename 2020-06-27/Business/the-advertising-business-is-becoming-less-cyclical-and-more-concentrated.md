@@ -16,6 +16,8 @@ As the dust settles, a reshaped advertising world is emerging. The buyers are ly
 
 Despite a slump like no other, ad spending may fall by less this year than the 11.2% drop that followed the financial crisis in 2009. And whereas most of the advertising dollars pulled during the recessions of 2001 and 2009 never came back, this time they may return to pre-pandemic levels as early as next year, believes MoffettNathanson, a research firm (see chart 1 ). How come? In a word: internet.
 
+
+
 ![](./images/20200627_WBC180.png)
 
 In 2001, when Google was a startup and Mark Zuckerberg in high school, digital advertising made up 5% of America’s ad mix (see chart 2). In 2010 advertisers spent twice as much on print and radio as online, even as people were spending more time with computers and smartphones than with magazines or radio. Eventually, companies that pulled radio and print commercials in these downturns realised they didn’t need them.

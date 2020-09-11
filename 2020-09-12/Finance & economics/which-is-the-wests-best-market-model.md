@@ -1,0 +1,33 @@
+![](./images/20200912_FND000_0.jpg)
+
+## Free exchange
+
+# Which is the West’s best market model?
+
+> Covid tests the merits of two Western modes of capitalism
+
+> Sep 12th 2020
+
+Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily [newsletter](https://www.economist.com/https://my.economist.com/user#newsletter). For more stories and our pandemic tracker, see our [hub](https://www.economist.com//news/2020/03/11/the-economists-coverage-of-the-coronavirus)
+
+POLITICAL ECONOMY is a discipline in which rigorous empirical testing is difficult. Scholars are rarely presented with the kind of naturally occurring experiments which crop up in other fields of economic inquiry, such as when one state increases its minimum wage while its neighbours do not. Covid-19 is different. Though it is quite the cloud, for political economists the silver lining is that it provides an opportunity to look, in real time, at how different models of governance react to a simultaneous shock.
+
+Various taxonomies are used to categorise models of capitalism. A prominent one was set out in 2001 in “Varieties of Capitalism”, a book edited by Peter Hall, a political scientist, and David Soskice, an economist. It distinguished between liberal market economies (LMEs) such as America, Britain and Canada, and co-ordinated market economies (CMEs) such as Germany, the Nordic countries, Austria and the Netherlands. LMEs’ capitalism is red-blooded, relying on market mechanisms to allocate resources and determine wages, and on financial markets to allocate capital. CMEs, though still capitalist, are fonder of social organisations such as trade unions, and of bank finance. Western economies tend to sit on a continuum between these two models. In recent years scholars have also tried to account for the authoritarian, state-driven capitalism found in China and some other countries. Branko Milanovic of the City University of New York calls this model “political capitalism”.
+
+These frameworks are surprisingly good at parsing countries’ responses to the pandemic. Consider innovation. Scholars distinguish between incremental innovation, the continuous process of making marginal improvements to products and processes, and radical innovation, which may involve the launch of entirely new goods and services. Whereas CMEs, with their emphasis on specific skills and long-term thinking, should be better at incremental innovation, they are at a disadvantage when it comes to radical innovation. They are constrained by the structures they have erected to steer the economy, which are slow to adapt to wholesale change.
+
+During the pandemic, CMEs such as Germany have generally had a more coherent strategy for containing the spread of the virus. Lockdowns may not seem like incremental change, but reducing working hours to limit social contact, apportioning the costs across society and gaining public consent for restrictive measures are all easier when there are already institutions in place which allow collective action. Success may be generated more by unity and consistency than by the strength of the intervention that is chosen. For instance, Sweden was able to muster high levels of public support for its unorthodox—but incrementally innovative—strategy of avoiding lockdowns entirely and relying on voluntary social distancing. Co-ordinated economies are well equipped to handle co-ordination problems, such as promoting public health.
+
+By contrast, America’s and Britain’s virus-containment strategies can seem disjointed and occasionally chaotic. As swashbuckling LMEs, however, they are more likely to be the source of the most transformative innovations in the pandemic: treatments and vaccines.
+
+Of 34 vaccine candidates tracked by the World Health Organisation, only four are in CMEs; LMEs have 13 (AstraZeneca, an Anglo-Swedish drugmaker working with Oxford University, straddles both categories). It was British researchers who discovered the effectiveness of dexamethasone, a cheap drug, in treating covid-19 patients who are admitted to hospital. The other leading candidate for effective drug treatment, remdesivir, is American. In a provocative Bloomberg column earlier this year Tyler Cowen, an economist at George Mason University, argued that Britain, despite its high death count, had done more than any other country to stop the spread of the virus.
+
+What about China? Mr Milanovic argues that a key feature of political capitalism is the “zone of lawlessness” that allows the state to suppress and ignore private-sector interest groups. This is reflected in the extreme lockdowns China implemented to suppress the virus. China is also innovative. It has ten different vaccines at varying stages of development. However, political capitalism suffers from endemic corruption, self-dealing and lack of trustworthiness. There might have been no pandemic at all had local officials in China not at first tried to cover up the original outbreak in Wuhan. It also seems doubtful that outsiders would take China’s word that a vaccine it had produced was safe and effective, especially given how much of a propaganda coup it would be for the Communist Party to claim that it had saved the world.
+
+The differences between models of capitalism are also apparent in economic trends. To the extent that the pandemic brings about permanent structural change, LMEs seem better placed to adapt. Anglo-Saxon firms have embraced a move towards more home working; France and Germany seem more resistant (see [article](https://www.economist.com//briefing/2020/09/12/covid-19-has-forced-a-radical-shift-in-working-habits)). The shift to online retail has been faster in liberal economies, too. And while both LMEs and CMEs have taken action to prop up household incomes, China has shown that under political capitalism the state’s lack of accountability to the public can lead to a disregard for individual welfare in the short term. Its stimulus has been focused on promoting investment and construction; poor households have been mostly left to fend for themselves, especially the migrant workers who often slip through local safety-nets.
+
+After the pandemic, it is likely that every system will have some basis on which to claim victory. CMEs are on course to have lower death counts. China is enjoying a rapid economic rebound. But it is likely to be an LME behind the ultimate defeat of the virus. Life under the liberal model of capitalism can be risky and scary; its failures no doubt cause suffering. But the rewards when things go well can be immense. ■
+
+## URL
+
+https://www.economist.com/finance-and-economics/2020/09/12/which-is-the-wests-best-market-model

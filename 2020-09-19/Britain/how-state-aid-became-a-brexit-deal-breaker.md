@@ -1,0 +1,33 @@
+![](./images/20200919_BRD001_0.jpg)
+
+## Of moonshots and bus subsidies
+
+# How state aid became a Brexit deal-breaker
+
+> Tories used to think controls on subsidies were the best thing about Brussels. Now they want to open the spending taps
+
+> Sep 19th 2020
+
+FOR YEARS only left-wingers like Jeremy Corbyn, the former Labour leader, and Bob Crow, a trade-union honcho, were bothered by Europe’s state-aid regime. For Conservative Eurosceptics, it was the best thing about Brussels. Rules prohibiting distortive subsidies to businesses were cast in the European Union’s founding treaty, but it was Margaret Thatcher who gave them teeth. For her they were a means of rolling back the state at home and abroad. She made common cause with Jacques Delors, the architect of the single market. Europe’s ailing economies could only integrate and become competitive, the logic ran, if their governments stopped doping companies on public money.
+
+Control over state aid has since become one of Brussels’ strongest tools, granting the European Commission power to overrule finance ministries and claw back huge payments. Yet Conservative politicians mostly ignored it after the Brexit referendum of 2016. Britain doles out little aid compared with other European countries, and has navigated the rules nimbly, rarely getting hit for infringements. Whereas they despised her plans for a close relationship with the single market and customs union, Tory MPs did not mind Theresa May’s proposal to keep Britain in lock-step with Europe’s state-aid regime, and to uphold the rules even if it left without a deal.
+
+Boris Johnson has abandoned this legacy, to the dismay of Thatcher’s disciples and the EU’s Brexit negotiators. On September 9th the government said it would follow much looser World Trade Organisation (WTO) rules after Brexit. Although it may introduce a tougher system of regulation later on, that will be none of the bloc’s business, it says. David Frost, Britain’s negotiator, sees Brexit as a simple matter of “sovereignty”, and says he cannot accept state-aid provisions stricter than those in the EU’s trade agreement with Canada.
+
+This seems unwise, particularly when the government wants to increase public spending. The EU’s rules are designed to channel subsidies to productive things like research, decarbonisation and training for workers. They stop devolved governments, mayors and local councils embarking on wasteful subsidy races to lure investors, as happens between American states. They impose transparency and reduce cronyism. Britain’s newfound aversion is a “Shakespearean description of how passion can trump reason,” says Pascal Lamy, a former director-general of the WTO. “If you look at the long-term economic thinking of the British, it is more distant from state intervention in the economy than the continent in general.”
+
+Above all, without a strong regime there will be no EU trade deal. The risk of Britain undercutting the single market with subsidised goods has been EU leaders’ greatest concern since the Brexit vote. Its proximity and level of economic integration makes tough measures necessary, they say. Without an agreement, Brussels would have to rely on the anti-subsidy tariffs that it deploys against China and Russia, says Mr Lamy. “I would hate the UK-EU relationship to be based on instruments of this kind.”
+
+Ministers say they don’t want a return to a “1970s approach” of support for unsustainable companies. But leaving the single market and customs union will badly harm the competitiveness of many manufacturers, who will demand the government saves jobs. The Treasury prepared a bail-out fund, known as “Operation Kingfisher”, in case of a no-deal Brexit last autumn.
+
+And crucially, some Tories have woken to the fact that state-aid rules are an obstacle not only to a return to a pre-Thatcherite past, but also to the so-called “Singapore model” of aggressive tax competition. The commission has used state-aid rules to overturn sweetheart tax deals granted to firms such as Amazon and Ikea by Ireland, Luxembourg and the Netherlands. Government support for infrastructure and regulatory holidays can be caught, too, both of which will be tempting to a country trying to attract investment after Brexit. “The government is right to worry that copying EU rules will hamper its ability to move fast and experiment,” says James Webber of Shearman & Sterling, a law firm.
+
+Dominic Cummings, Mr Johnson’s aide, wants Britain to create tech giants to rival China, and to mimic cold-war America by pouring billions into high-risk, high-reward science. What British tech firms really want is to keep cross-border flows of data and people after Brexit, which means getting a deal. State-aid rules do not prevent the government funding research, stresses Alexander Rose, a lawyer at DWF. But they do impose terms and conditions, and Mr Cummings sees bureaucracy as a “cancer”.
+
+A compromise is possible. Michel Barnier, Europe’s negotiator, originally wanted Britain to keep in “dynamic alignment” with the EU’s state-aid rules. Now he suggests that a robust but distinct British regime, coupled with a way of fixing disputes, could suffice. Under such a regime, Britain could innovate. A national regulator and appeals court could handle cases faster than Brussels. Outside the deeply integrated European market, it could argue for a looser regime, since aid to, say, a small bus company would not undermine rival operators on the continent. Ministers could increase the threshold for aid given without approval, simplify the rule book for research and, in contrast to the EU, require the regulator to provide evidence that a subsidy has an effect on trade. Rules on aid for poor parts of the country could be fine-tuned to support Mr Johnson’s fuzzy “levelling up” agenda.
+
+Mr Johnson’s real state-aid problems lie in Britain, not Europe. One is Northern Ireland. Under the divorce treaty, Mr Johnson agreed that trade between the province and the EU falls under European rules. Mr Johnson seems to have belatedly realised this could also catch subsidies or tax breaks granted in the rest of the United Kingdom, and has threatened to break the treaty. The other is Scotland. The Scottish government, which opposed Brexit and seeks independence from Britain, says London has no right to impose a state-aid policy on Edinburgh. The sight of Whitehall bureaucrats vetoing bail-outs to steelworks and shipyards north of the border, after a messy divorce from Europe, would be powerful ammunition for separatists. For the question of whose hand is on the spending tap is not one of dry regulation, but power. ■
+
+## URL
+
+https://www.economist.com/britain/2020/09/19/how-state-aid-became-a-brexit-deal-breaker
